@@ -19,4 +19,4 @@ pip install -r requirements.txt
 
 To make sure Jupyter Notebooks run correctly, install the iPython kernel manually:
 ```
-conda install -c anaconda ipykernel
+conda install -c anaconda ipykernel"# takeaseat" 
