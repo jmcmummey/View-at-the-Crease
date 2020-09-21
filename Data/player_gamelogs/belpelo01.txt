@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2018-04-07,1,21-328,MIN,@,SJS,W,0,2,2,1,0,0,0,0,0,2,0,0,0,,21,15:47,1,1,0,0,
+1,2019-01-19,1,22-250,MIN,,CBJ,W,0,0,0,1,0,0,0,0,0,0,0,0,0,,14,13:35,0,3,0,0,
+2,2019-01-21,2,22-252,MIN,@,VEG,W,0,0,0,-1,0,0,0,0,0,0,0,0,0,,17,12:41,1,1,0,0,

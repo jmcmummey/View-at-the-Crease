@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1990-11-04,1,20-314,BUF,,CGY,W,0,1,1,1,0,0,0,0,0,,,,0,,,,,,,,
+1,1991-01-29,2,21-035,BUF,@,STL,L,0,0,0,-2,0,0,0,0,0,,,,0,,,,,,,,
+2,1991-01-31,3,21-037,BUF,,QUE,L,0,0,0,-1,0,0,0,0,0,,,,2,0.0,,,,,,,

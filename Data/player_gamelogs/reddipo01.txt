@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1991-02-06,1,26-123,EDM,@,HAR,L,L,5,32,27,.844,0,0,60:00
+1,1991-02-12,2,26-129,EDM,,STL,L,L,4,27,23,.852,0,0,60:00
+2,1994-02-04,1,29-121,FLA,,BUF,L,,1,11,10,.909,0,0,20:00
+3,1994-02-16,2,29-133,FLA,@,DET,L,L,7,34,27,.794,0,0,60:00

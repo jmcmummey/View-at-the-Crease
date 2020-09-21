@@ -1,0 +1,3 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2019-11-12,1,22-194,COL,@,WPG,W,W,0,40,40,1.000,0,0,59:29
+1,2019-11-14,2,22-196,COL,@,EDM,L,L,5,18,13,.722,0,0,28:21

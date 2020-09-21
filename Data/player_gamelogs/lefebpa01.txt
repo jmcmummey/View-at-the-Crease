@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1998-12-19,1,31-174,WSH,@,PIT,L,0,0,0,-2,0,0,0,0,0,,,,1,0.0,14,13:01,,,,,
+1,1998-12-23,2,31-178,WSH,@,FLA,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,13,10:08,,,,,
+2,1998-12-26,3,31-181,WSH,@,NSH,L,0,0,0,0,2,0,0,0,0,,,,0,,16,10:24,,,,,

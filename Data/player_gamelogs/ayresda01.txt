@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2020-02-22,1,42-194,CAR,@,TOR,W,W,2,10,8,.800,0,0,28:41

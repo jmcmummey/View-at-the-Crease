@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2014-03-16,1,22-220,BUF,,MTL,L,\,0,10,10,1.000,0,0,21:45
+1,2014-03-18,2,22-222,BUF,@,CGY,L,L,3,26,23,.885,0,0,59:40
+2,2014-03-23,3,22-227,BUF,@,VAN,L,L,4,36,32,.889,0,0,58:27
+3,2014-03-27,4,22-231,BUF,@,NSH,L,\,2,19,17,.895,0,0,40:00
+4,2014-04-01,5,22-236,BUF,,NJD,W,W,2,35,33,.943,0,0,64:57
+5,2014-04-03,6,22-238,BUF,@,STL,L,L,2,28,26,.929,0,0,59:01
+6,2014-04-06,7,22-241,BUF,@,PHI,L,L,5,37,32,.865,0,0,59:32

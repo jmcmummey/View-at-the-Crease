@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2012-02-22,1,23-231,BOS,@,STL,W,0,0,0,0,0,0,0,0,0,,,,0,,11,6:21,0,0,5,3,62.5
+1,2012-02-24,2,23-233,BOS,@,BUF,L-SO,0,0,0,0,0,0,0,0,0,,,,0,,10,7:48,1,0,1,1,50.0
+2,2012-02-25,3,23-234,BOS,@,OTT,W,1,0,1,1,0,1,0,0,0,,,,1,100.0,10,5:57,0,2,0,4,0.0

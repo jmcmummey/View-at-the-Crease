@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1994-01-01,1,24-049,TOR,,LAK,L,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+1,1994-01-02,2,24-050,TOR,@,BUF,T,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+2,1998-12-11,1,29-028,WSH,@,MDA,L,0,0,0,0,0,0,0,0,0,,,,0,,16,15:19,,,,,
+3,1998-12-12,2,29-029,WSH,@,SJS,L,0,0,0,0,0,0,0,0,0,,,,4,0.0,15,11:57,,,,,

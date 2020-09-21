@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2017-10-17,1,18-243,FLA,@,PHI,L,0,0,0,-2,0,0,0,0,0,0,0,0,7,0.0,20,11:39,1,0,0,0,
+1,2017-10-20,2,18-246,FLA,,PIT,L,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,13,9:12,0,1,0,0,
+2,2017-10-24,3,18-250,FLA,@,MTL,L,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,18,13:18,1,2,0,0,
+3,2017-10-26,4,18-252,FLA,,ANA,W,1,0,1,0,0,1,0,0,0,0,0,0,1,100.0,18,10:51,0,1,0,1,0.0
+4,2017-10-28,5,18-254,FLA,,DET,L-SO,0,0,0,-1,0,0,0,0,0,0,0,0,5,0.0,16,11:27,0,0,0,1,0.0
+5,2017-10-30,6,18-256,FLA,,TBL,L,0,0,0,-1,0,0,0,0,0,0,0,0,0,,15,10:59,0,0,0,0,
+6,2017-11-02,7,18-259,FLA,,CBJ,L,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,15,10:23,1,0,0,0,

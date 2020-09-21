@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2007-01-13,1,24-118,LAK,@,STL,L,L,1,5,4,.800,0,0,19:17
+1,2007-01-16,2,24-121,LAK,@,ATL,L,L,3,9,6,.667,0,0,21:53
+2,2007-01-18,3,24-123,LAK,,STL,L,,1,18,17,.944,0,0,39:48
+3,2007-01-20,4,24-125,LAK,,PHX,L,L,2,11,9,.818,0,0,15:12

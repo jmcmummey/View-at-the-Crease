@@ -1,0 +1,3 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2011-04-08,1,27-164,MIN,@,EDM,W,0,0,0,-1,2,0,0,0,0,,,,1,0.0,20,16:53,0,1,0,0,
+1,2011-04-10,2,27-166,MIN,,DAL,W,0,0,0,-1,2,0,0,0,0,,,,0,,14,9:08,0,0,0,0,

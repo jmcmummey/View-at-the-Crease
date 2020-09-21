@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2009-11-19,1,24-049,ANA,,TBL,W,0,0,0,0,0,0,0,0,0,,,,0,,8,5:23,1,0,3,1,75.0
+1,2009-11-21,2,24-051,ANA,,SJS,L,0,0,0,0,0,0,0,0,0,,,,0,,8,3:33,0,0,3,1,75.0
+2,2009-11-23,3,24-053,ANA,,CGY,W,0,0,0,0,0,0,0,0,0,,,,0,,5,2:05,0,0,1,1,50.0
+3,2009-11-25,4,24-055,ANA,,CAR,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,2,2:16,1,0,1,1,50.0
+4,2009-11-27,5,24-057,ANA,,CHI,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,9,5:21,0,0,2,3,40.0
+5,2009-11-29,6,24-059,ANA,,PHX,L-OT,0,0,0,0,0,0,0,0,0,,,,1,0.0,8,4:50,0,0,2,3,40.0
+6,2009-12-01,7,24-061,ANA,,LAK,L,0,0,0,0,0,0,0,0,0,,,,0,,7,3:49,0,0,1,2,33.3
+7,2009-12-03,8,24-063,ANA,@,DAL,L,0,0,0,0,0,0,0,0,0,,,,3,0.0,8,6:02,0,0,2,1,66.7

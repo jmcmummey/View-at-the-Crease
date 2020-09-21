@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1991-02-27,1,29-311,VAN,,PIT,W,W,3,38,35,.921,0,0,60:00
+1,1991-03-01,2,29-313,VAN,,MTL,L,L,7,30,23,.767,0,0,54:00
+2,1991-03-03,3,29-315,VAN,@,CHI,L,L,8,37,29,.784,0,0,60:00
+3,1991-03-20,4,29-332,VAN,,CGY,L,L,3,27,24,.889,0,0,59:20
+4,1991-03-22,5,29-334,VAN,,WIN,W,W,1,30,29,.967,0,0,60:00
+5,1991-03-26,6,29-338,VAN,@,CGY,L,L,7,26,19,.731,0,0,60:00

@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2019-11-01,1,21-127,PHI,@,NJD,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,14,8:00,1,2,4,2,66.7
+1,2019-11-02,2,21-128,PHI,,TOR,L-SO,0,0,0,-1,0,0,0,0,0,0,0,0,0,,13,6:54,1,0,0,3,0.0
+2,2019-11-05,3,21-131,PHI,,CAR,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,11,7:52,0,2,2,3,40.0
+3,2020-01-21,4,21-208,PHI,,PIT,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,8,4:27,2,0,0,0,

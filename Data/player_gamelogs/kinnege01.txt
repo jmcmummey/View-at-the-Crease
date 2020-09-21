@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2000-03-06,1,26-241,ATL,@,MTL,L,0,0,0,0,5,0,0,0,0,,,,1,0.0,24,19:15,,,,,
+1,2000-03-10,2,26-245,ATL,,NJD,L,0,0,0,-1,4,0,0,0,0,,,,1,0.0,30,20:32,,,,,
+2,2000-03-12,3,26-247,ATL,@,CAR,L,0,0,0,0,2,0,0,0,0,,,,0,,22,17:02,,,,,
+3,2000-03-13,4,26-248,ATL,,EDM,L,0,0,0,0,2,0,0,0,0,,,,0,,27,17:00,,,,,

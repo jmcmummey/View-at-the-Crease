@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2001-02-24,1,21-220,PHI,,TBL,T,0,0,0,0,0,0,0,0,0,,,,1,0.0,21,14:28,,,,,
+1,2001-02-25,2,21-221,PHI,,NYR,W,0,0,0,-1,0,0,0,0,0,,,,1,0.0,15,8:31,,,,,
+2,2001-11-06,1,22-110,PHI,@,CHI,L,0,0,0,0,0,0,0,0,0,,,,0,,13,7:15,,,,,
+3,2001-11-08,2,22-112,PHI,@,TBL,W,1,0,1,1,0,1,0,0,1,,,,2,50.0,13,8:04,,,,,
+4,2001-11-10,3,22-114,PHI,@,FLA,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,13,9:17,,,,,

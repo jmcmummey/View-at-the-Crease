@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1997-10-30,1,20-238,VAN,@,NJD,L,0,0,0,0,0,0,0,0,0,,,,2,0.0,14,10:31,,,,,
+1,1997-11-01,2,20-240,VAN,@,PIT,L,1,1,2,2,0,1,0,0,0,,,,3,33.3,20,17:38,,,,,
+2,1997-11-03,3,20-242,VAN,@,CAR,L,0,0,0,-2,0,0,0,0,0,,,,0,,10,7:28,,,,,
+3,1997-11-04,4,20-243,VAN,@,WSH,L,0,0,0,0,0,0,0,0,0,,,,2,0.0,14,15:56,,,,,
+4,1997-11-08,5,20-247,VAN,,MDA,L,0,0,0,-2,2,0,0,0,0,,,,1,0.0,14,11:24,,,,,
+5,2000-01-07,1,22-307,VAN,@,DAL,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,12,8:10,,,,,
+6,2000-01-08,2,22-308,VAN,@,STL,L,0,0,0,-1,0,0,0,0,0,,,,0,,12,7:31,,,,,
+7,2000-01-13,3,22-313,VAN,@,NSH,W,0,0,0,1,0,0,0,0,0,,,,1,0.0,15,12:29,,,,,
+8,2000-01-15,4,22-315,VAN,,DAL,L,0,0,0,0,0,0,0,0,0,,,,0,,5,1:42,,,,,

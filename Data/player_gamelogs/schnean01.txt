@@ -1,0 +1,11 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1993-11-22,1,21-238,OTT,,BUF,L,0,0,0,-1,5,0,0,0,0,,,,1,0.0,,,,,,,
+1,1993-11-24,2,21-240,OTT,,NYR,L,0,0,0,-2,0,0,0,0,0,,,,1,0.0,,,,,,,
+2,1993-11-26,3,21-242,OTT,@,BUF,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+3,1993-11-27,4,21-243,OTT,@,PIT,T,0,0,0,0,2,0,0,0,0,,,,1,0.0,,,,,,,
+4,1993-11-29,5,21-245,OTT,,HAR,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+5,1994-01-01,6,21-278,OTT,,NJD,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+6,1994-01-05,7,21-282,OTT,,VAN,L,0,0,0,0,4,0,0,0,0,,,,1,0.0,,,,,,,
+7,1994-01-06,8,21-283,OTT,@,TOR,L,0,0,0,-1,2,0,0,0,0,,,,0,,,,,,,,
+8,1994-01-08,9,21-285,OTT,,WIN,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+9,1994-01-15,10,21-292,OTT,@,CGY,L,0,0,0,-1,2,0,0,0,0,,,,0,,,,,,,,

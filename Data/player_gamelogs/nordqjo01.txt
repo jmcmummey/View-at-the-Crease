@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2007-04-05,1,24-344,CHI,,DET,W,0,1,1,1,0,0,0,0,0,,,,1,0.0,18,11:12,,,,,
+1,2007-04-07,2,24-346,CHI,@,DET,L,0,1,1,0,2,0,0,0,0,,,,0,,24,15:07,,,,,
+2,2007-04-08,3,24-347,CHI,@,DAL,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,20,15:25,,,,,

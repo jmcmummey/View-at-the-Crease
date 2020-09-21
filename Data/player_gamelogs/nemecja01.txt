@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1998-11-07,1,22-266,LAK,,DAL,L,0,0,0,0,0,0,0,0,0,,,,3,0.0,20,16:03,,,,,
+1,1998-11-09,2,22-268,LAK,@,VAN,W,0,0,0,0,2,0,0,0,0,,,,0,,23,19:24,,,,,
+2,1998-11-10,3,22-269,LAK,@,CGY,L,0,0,0,-1,0,0,0,0,0,,,,0,,21,16:45,,,,,
+3,1998-11-12,4,22-271,LAK,,NSH,L,0,0,0,0,2,0,0,0,0,,,,1,0.0,21,15:42,,,,,
+4,1999-04-12,5,23-057,LAK,@,NSH,W,1,0,1,1,0,1,0,0,1,,,,3,33.3,26,20:23,,,,,
+5,1999-04-15,6,23-060,LAK,,MDA,W,0,0,0,-1,0,0,0,0,0,,,,1,0.0,13,11:54,,,,,
+6,1999-12-29,1,23-318,LAK,@,COL,L,0,0,0,0,0,0,0,0,0,,,,0,,14,9:36,,,,,

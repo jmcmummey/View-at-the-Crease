@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2010-04-08,1,22-319,MIN,@,CGY,W,0,0,0,0,0,0,0,0,0,,,,0,,10,7:01,0,,,,
+1,2011-04-02,1,23-313,MIN,,TBL,L,0,0,0,0,0,0,0,0,0,,,,3,0.0,20,14:42,1,0,0,0,
+2,2011-04-03,2,23-314,MIN,@,DET,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,25,14:34,1,1,0,0,
+3,2011-04-07,3,23-318,MIN,@,VAN,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,22,14:46,0,1,0,0,
+4,2011-04-08,4,23-319,MIN,@,EDM,W,0,0,0,2,0,0,0,0,0,,,,2,0.0,22,18:42,0,2,0,0,
+5,2011-04-10,5,23-321,MIN,,DAL,W,0,0,0,-1,0,0,0,0,0,,,,1,0.0,14,8:42,0,0,0,0,

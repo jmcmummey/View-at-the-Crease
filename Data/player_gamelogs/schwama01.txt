@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2006-12-12,1,20-255,STL,,CHI,L,L,3,24,21,.875,0,0,58:46
+1,2006-12-13,2,20-256,STL,@,COL,L,,0,1,1,1.000,0,0,1:17
+2,2007-12-09,1,21-252,STL,@,COL,L,,1,4,3,.750,0,0,10:43
+3,2008-01-16,2,21-290,STL,@,CHI,L,L,5,13,8,.615,0,0,38:55
+4,2008-10-25,1,22-207,STL,,FLA,W,,0,5,5,1.000,0,0,15:17
+5,2008-10-30,2,22-212,STL,,CAR,L,,0,0,0,,0,0,0:06

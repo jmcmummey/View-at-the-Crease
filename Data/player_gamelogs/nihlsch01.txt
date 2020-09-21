@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2013-01-20,1,28-339,DAL,@,MIN,L,L,1,32,31,.969,0,0,58:56
+1,2013-01-26,2,28-345,DAL,,STL,L,L,4,29,25,.862,0,0,52:01
+2,2013-02-21,3,29-005,DAL,,VAN,L,L,4,22,18,.818,0,0,60:00
+3,2013-02-23,4,29-007,DAL,,SJS,W,W,1,32,31,.969,0,0,60:00
+4,2013-02-25,5,29-009,DAL,@,NSH,L-OT,O,5,31,26,.839,0,0,60:21
+5,2014-03-16,1,30-028,DAL,@,WPG,L,\,3,17,14,.824,0,0,39:29

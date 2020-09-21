@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1999-12-12,1,20-107,VAN,,COL,L-OT,0,0,0,-1,0,0,0,0,0,,,,2,0.0,22,14:50,,,,,
+1,1999-12-16,2,20-111,VAN,,OTT,L,0,0,0,-1,2,0,0,0,0,,,,1,0.0,15,9:25,,,,,
+2,2001-11-20,1,22-085,VAN,@,OTT,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,16,12:28,,,,,
+3,2001-11-21,2,22-086,VAN,@,PIT,W,0,0,0,1,0,0,0,0,0,,,,0,,10,6:41,,,,,
+4,2004-01-08,1,24-134,TOR,,OTT,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,16,10:31,,,,,

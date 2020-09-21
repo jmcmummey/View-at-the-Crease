@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2019-02-14,1,21-208,VAN,@,LAK,W,0,0,0,-2,0,0,0,0,0,0,0,0,0,,15,9:24,2,1,0,0,
+1,2019-02-16,2,21-210,VAN,@,SJS,L,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,11,7:00,0,0,0,0,
+2,2019-03-13,3,21-235,VAN,,NYR,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,11,8:33,1,1,0,0,
+3,2019-03-15,4,21-237,VAN,,NJD,L-SO,0,0,0,1,0,0,0,0,0,0,0,0,0,,19,12:58,0,1,0,0,
+4,2019-03-17,5,21-239,VAN,@,DAL,W,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,19,13:08,0,1,0,0,
+5,2019-03-18,6,21-240,VAN,@,CHI,W,0,0,0,1,0,0,0,0,0,0,0,0,0,,21,13:23,0,2,0,0,
+6,2019-03-20,7,21-242,VAN,,OTT,W,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,23,14:17,0,0,0,0,
+7,2019-03-23,8,21-245,VAN,,CGY,L,0,0,0,-3,0,0,0,0,0,0,0,0,0,,15,9:21,0,1,0,0,

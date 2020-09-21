@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2020-03-04,1,27-339,ANA,@,COL,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,19,15:08,4,0,0,0,
+1,2020-03-06,2,27-341,ANA,,TOR,W,0,0,0,1,0,0,0,0,0,0,0,0,1,0.0,24,19:04,3,1,0,0,
+2,2020-03-08,3,27-343,ANA,,MIN,L-OT,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,27,19:12,1,2,0,0,
+3,2020-03-10,4,27-345,ANA,,OTT,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,25,17:00,3,2,0,0,
+4,2020-03-11,5,27-346,ANA,,STL,L,1,0,1,1,2,1,0,0,0,0,0,0,1,100.0,28,20:12,4,2,0,0,

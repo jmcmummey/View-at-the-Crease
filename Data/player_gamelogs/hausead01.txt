@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2006-01-14,1,25-232,LAK,@,BUF,L,,6,24,18,.750,0,0,50:49

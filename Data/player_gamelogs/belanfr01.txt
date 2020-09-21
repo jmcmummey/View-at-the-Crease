@@ -1,0 +1,11 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2001-02-17,1,23-033,MTL,,WSH,L,0,0,0,-1,10,0,0,0,0,,,,0,,8,6:12,,,,,
+1,2001-02-18,2,23-034,MTL,@,OTT,L,0,0,0,0,0,0,0,0,0,,,,0,,8,5:27,,,,,
+2,2001-02-21,3,23-037,MTL,,VAN,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,6,3:59,,,,,
+3,2001-02-23,4,23-039,MTL,@,WSH,L,0,0,0,0,0,0,0,0,0,,,,0,,9,7:02,,,,,
+4,2001-02-24,5,23-040,MTL,@,TOR,L,0,0,0,-1,5,0,0,0,0,,,,1,0.0,12,7:01,,,,,
+5,2001-02-27,6,23-043,MTL,@,PHI,W,0,0,0,0,0,0,0,0,0,,,,0,,9,6:11,,,,,
+6,2001-02-28,7,23-044,MTL,,PIT,W,0,0,0,0,7,0,0,0,0,,,,0,,3,1:36,,,,,
+7,2001-03-03,8,23-047,MTL,,PHI,W,0,0,0,0,7,0,0,0,0,,,,0,,3,1:38,,,,,
+8,2001-03-06,9,23-050,MTL,@,LAK,L,0,0,0,0,0,0,0,0,0,,,,0,,5,2:37,,,,,
+9,2001-03-07,10,23-051,MTL,@,MDA,L,0,0,0,-1,0,0,0,0,0,,,,0,,6,3:21,,,,,

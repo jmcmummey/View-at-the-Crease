@@ -1,0 +1,3 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2009-03-08,1,24-056,PHX,@,NYI,L,L,3,26,23,.885,0,0,57:42
+1,2009-03-12,2,24-060,PHX,@,NJD,L,L,5,36,31,.861,0,0,60:00

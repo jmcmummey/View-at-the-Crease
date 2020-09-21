@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2015-04-04,1,21-349,BUF,@,NYI,L,L,3,36,33,.917,0,0,60:00

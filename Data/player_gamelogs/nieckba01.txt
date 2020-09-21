@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1993-04-13,1,25-118,HAR,@,NYI,T,0,0,0,0,2,0,0,0,0,,,,0,,,,,,,,
+1,1993-04-16,2,25-121,HAR,,PHI,L,0,0,0,-2,0,0,0,0,0,,,,1,0.0,,,,,,,
+2,1995-02-11,1,27-057,CGY,@,DAL,W,0,0,0,0,5,0,0,0,0,,,,0,,,,,,,,
+3,1995-02-13,2,27-059,CGY,@,STL,L,0,0,0,0,7,0,0,0,0,,,,0,,,,,,,,
+4,1995-02-16,3,27-062,CGY,@,CHI,T,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+5,1996-10-16,1,28-305,MDA,,PHI,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+6,1996-10-20,2,28-309,MDA,,BOS,L,0,0,0,0,5,0,0,0,0,,,,0,,,,,,,,
+7,1998-02-25,1,30-071,MDA,@,VAN,L,0,0,0,0,2,0,0,0,0,,,,0,,8,5:28,,,,,

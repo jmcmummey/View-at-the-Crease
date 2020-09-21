@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2010-12-30,1,25-091,TBL,,MTL,W,W,1,28,27,.964,0,0,60:00
+1,2011-01-01,2,25-093,TBL,,NYR,W,W,1,35,34,.971,0,0,60:19
+2,2013-03-09,1,27-160,TBL,,MTL,L,L,4,29,25,.862,0,0,58:47
+3,2013-03-23,2,27-174,TBL,@,OTT,L,L,1,20,19,.950,0,0,42:21
+4,2013-03-24,3,27-175,TBL,@,WPG,L,L,3,24,21,.875,0,0,58:58
+5,2014-02-06,1,28-129,TBL,,TOR,L,L,2,13,11,.846,0,2,18:02

@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2002-03-19,1,21-023,NSH,@,STL,L,0,0,0,-1,0,0,0,0,0,,,,0,,14,11:20,,,,,
+1,2002-03-21,2,21-025,NSH,,NJD,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,19,12:44,,,,,
+2,2002-03-23,3,21-027,NSH,,MTL,W,0,0,0,0,0,0,0,0,0,,,,0,,14,8:35,,,,,
+3,2002-03-25,4,21-029,NSH,,DET,T,0,0,0,0,0,0,0,0,0,,,,0,,8,5:31,,,,,
+4,2002-04-14,5,21-049,NSH,@,PHX,L,0,0,0,-1,2,0,0,0,0,,,,3,0.0,11,7:21,,,,,
+5,2010-12-08,1,29-287,VAN,,ANA,W,0,0,0,0,0,0,0,0,0,,,,0,,6,4:36,1,0,0,0,
+6,2010-12-11,2,29-290,VAN,,TBL,L-OT,0,0,0,1,0,0,0,0,0,,,,1,0.0,11,7:07,0,0,0,0,
+7,2010-12-12,3,29-291,VAN,@,EDM,W,0,0,0,0,0,0,0,0,0,,,,0,,9,7:19,1,0,0,0,
+8,2010-12-15,4,29-294,VAN,,CBJ,W,0,0,0,0,0,0,0,0,0,,,,0,,6,5:11,1,1,0,0,

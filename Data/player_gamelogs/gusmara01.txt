@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1995-11-21,1,23-119,WIN,@,BOS,L,0,0,0,-1,0,0,0,0,0,,,,2,0.0,,,,,,,
+1,1996-03-12,2,23-231,WIN,@,DET,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+2,1996-03-13,3,23-232,WIN,@,TOR,T,0,0,0,-1,0,0,0,0,0,,,,3,0.0,,,,,,,
+3,1996-03-16,4,23-235,WIN,@,PHI,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,

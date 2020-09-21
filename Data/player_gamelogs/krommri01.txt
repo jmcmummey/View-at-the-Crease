@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1990-10-30,1,26-215,NYI,,LAK,L,0,0,0,-1,0,0,0,0,0,,,,3,0.0,,,,,,,
+1,1990-11-10,2,26-226,NYI,,CGY,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+2,1991-01-25,3,26-302,NYI,@,WIN,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,
+3,1991-01-31,4,26-308,NYI,,WSH,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+4,1991-02-24,5,26-332,NYI,@,PHI,L,1,0,1,0,0,0,0,1,0,,,,1,100.0,,,,,,,
+5,1991-02-26,6,26-334,NYI,,BUF,T,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+6,1991-10-17,1,27-202,NYI,@,PIT,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+7,1993-01-12,1,28-289,NYI,,CGY,W,1,2,3,3,0,1,0,0,0,,,,2,50.0,,,,,,,

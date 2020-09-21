@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2020-01-02,1,24-198,TOR,@,WPG,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,11,6:50,1,0,0,0,
+1,2020-01-04,2,24-200,TOR,,NYI,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,13,8:21,1,0,0,0,
+2,2020-01-06,3,24-202,TOR,,EDM,L,0,1,1,1,0,0,0,0,0,1,0,0,2,0.0,7,4:55,0,0,0,0,
+3,2020-02-16,4,24-243,TOR,@,BUF,L,0,0,0,-1,0,0,0,0,0,0,0,0,0,,13,12:14,1,0,1,0,100.0

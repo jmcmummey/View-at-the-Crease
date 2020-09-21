@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1991-03-08,1,28-016,WIN,,WSH,L,0,1,1,1,0,0,0,0,0,,,,1,0.0,,,,,,,
+1,1991-03-10,2,28-018,WIN,,NJD,W,0,1,1,2,0,0,0,0,0,,,,1,0.0,,,,,,,
+2,1991-03-12,3,28-020,WIN,@,CGY,L,1,0,1,0,0,1,0,0,0,,,,3,33.3,,,,,,,
+3,1991-03-13,4,28-021,WIN,,BUF,L,0,0,0,-2,0,0,0,0,0,,,,2,0.0,,,,,,,
+4,1991-03-15,5,28-023,WIN,,EDM,W,0,1,1,1,0,0,0,0,0,,,,1,0.0,,,,,,,
+5,1991-03-23,6,28-031,WIN,@,EDM,W,1,0,1,1,2,1,0,0,0,,,,4,25.0,,,,,,,
+6,1991-03-28,7,28-036,WIN,@,VAN,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,

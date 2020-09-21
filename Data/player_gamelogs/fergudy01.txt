@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2017-11-14,1,19-055,VEG,@,EDM,L,,1,2,1,.500,0,0,9:14

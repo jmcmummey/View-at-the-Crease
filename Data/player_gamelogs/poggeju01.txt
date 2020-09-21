@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2008-12-22,1,22-244,TOR,@,ATL,W,W,2,21,19,.905,0,0,59:53
+1,2009-01-27,2,22-280,TOR,@,MIN,L,L,6,21,15,.714,0,0,60:00
+2,2009-02-04,3,22-288,TOR,@,BUF,L,L,5,32,27,.844,0,0,59:52
+3,2009-02-17,4,22-301,TOR,,BUF,L,L,4,30,26,.867,0,0,59:58
+4,2009-02-19,5,22-303,TOR,,CBJ,L-SO,O,3,34,31,.912,0,0,64:43
+5,2009-03-27,6,22-339,TOR,@,BUF,L,,1,15,14,.933,0,0,34:32
+6,2009-03-28,7,22-340,TOR,,BOS,L,L,6,20,14,.700,0,0,32:44

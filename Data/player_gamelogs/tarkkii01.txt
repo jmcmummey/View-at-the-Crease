@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2012-01-08,1,26-191,ANA,,CBJ,W,W,3,10,7,.700,0,0,40:51

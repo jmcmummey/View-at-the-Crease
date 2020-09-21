@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2018-10-23,1,21-307,EDM,,PIT,L-OT,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,15,9:58,0,0,0,1,0.0
+1,2018-10-25,2,21-309,EDM,,WSH,W,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,10,7:45,0,0,0,1,0.0
+2,2018-11-17,3,21-332,EDM,@,CGY,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,5,3:15,0,0,0,2,0.0
+3,2018-11-18,4,21-333,EDM,,VEG,L,0,0,0,-1,0,0,0,0,0,0,0,0,2,0.0,18,12:12,0,0,8,10,44.4
+4,2018-11-20,5,21-335,EDM,@,SJS,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,6,4:59,0,0,1,2,33.3
+5,2018-11-23,6,21-338,EDM,@,ANA,L-OT,0,0,0,0,0,0,0,0,0,0,0,0,0,,5,3:19,0,0,0,1,0.0

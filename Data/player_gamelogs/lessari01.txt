@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1991-03-31,1,23-081,CGY,,LAK,W,0,1,1,-1,0,0,0,0,0,,,,0,,,,,,,,
+1,1991-10-08,1,23-272,SJS,,CGY,W,0,1,1,2,2,0,0,0,0,,,,0,,,,,,,,
+2,1991-10-10,2,23-274,SJS,,WIN,L,0,1,1,0,4,0,0,0,0,,,,0,,,,,,,,
+3,1991-10-13,3,23-277,SJS,@,CHI,L,0,0,0,-2,2,0,0,0,0,,,,0,,,,,,,,
+4,1991-10-19,4,23-283,SJS,,BOS,L,0,0,0,-1,2,0,0,0,0,,,,3,0.0,,,,,,,
+5,1991-11-16,5,23-311,SJS,@,VAN,L,0,0,0,0,2,0,0,0,0,,,,0,,,,,,,,
+6,1991-11-22,6,23-317,SJS,,TOR,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+7,1991-11-23,7,23-318,SJS,@,LAK,L,0,0,0,0,2,0,0,0,0,,,,0,,,,,,,,
+8,1991-12-17,8,23-342,SJS,@,PIT,L,0,0,0,-3,2,0,0,0,0,,,,0,,,,,,,,

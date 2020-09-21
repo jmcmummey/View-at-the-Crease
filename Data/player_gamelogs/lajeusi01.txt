@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2002-03-07,1,21-044,OTT,@,SJS,L,,0,9,9,1.000,0,0,23:30

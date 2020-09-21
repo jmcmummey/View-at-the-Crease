@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2001-03-05,1,23-359,PHI,,BOS,W,0,0,0,-1,0,0,0,0,0,,,,0,,7,3:23,,,,,
+1,2002-10-29,1,25-232,PHI,,OTT,W,0,0,0,0,0,0,0,0,0,,,,0,,3,1:45,,,,,
+2,2003-03-20,2,26-009,PHI,,PIT,W,0,0,0,0,2,0,0,0,0,,,,0,,4,1:36,,,,,
+3,2004-01-28,1,26-323,PHI,@,FLA,T,0,0,0,-1,0,0,0,0,0,,,,0,,7,4:37,,,,,
+4,2004-02-19,2,26-345,PHI,,BOS,L,0,0,0,0,0,0,0,0,0,,,,0,,13,10:47,,,,,
+5,2004-02-21,3,26-347,PHI,,ATL,W,0,0,0,0,2,0,0,0,0,,,,0,,10,6:35,,,,,
+6,2004-02-24,4,26-350,PHI,,CHI,W,0,1,1,1,0,0,0,0,0,,,,1,0.0,15,9:32,,,,,
+7,2004-02-26,5,26-352,PHI,@,OTT,T,0,0,0,0,0,0,0,0,0,,,,0,,13,8:14,,,,,
+8,2004-02-28,6,26-354,PHI,@,BOS,L-OT,0,0,0,0,0,0,0,0,0,,,,0,,13,9:12,,,,,

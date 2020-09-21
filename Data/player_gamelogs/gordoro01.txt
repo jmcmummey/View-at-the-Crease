@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1999-04-03,1,23-080,VAN,@,SJS,L,0,0,0,0,0,0,0,0,0,,,,0,,11,9:45,,,,,
+1,1999-04-05,2,23-082,VAN,@,CHI,L,0,0,0,0,0,0,0,0,0,,,,0,,10,7:48,,,,,
+2,1999-04-07,3,23-084,VAN,@,DET,L,0,0,0,0,2,0,0,0,0,,,,1,0.0,20,12:29,,,,,
+3,1999-04-10,4,23-087,VAN,,EDM,T,0,0,0,0,0,0,0,0,0,,,,0,,6,5:16,,,,,

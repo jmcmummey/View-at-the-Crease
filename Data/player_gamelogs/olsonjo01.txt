@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2004-03-11,1,22-242,FLA,@,MTL,W,1,0,1,1,0,1,0,0,0,,,,4,25.0,12,8:15,,,,,
+1,2004-03-13,2,22-244,FLA,,NYR,W,0,0,0,0,0,0,0,0,0,,,,0,,16,13:02,,,,,
+2,2004-03-17,3,22-248,FLA,,NYI,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,13,7:43,,,,,
+3,2004-03-19,4,22-250,FLA,@,ATL,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,13,8:29,,,,,
+4,2004-03-20,5,22-251,FLA,,BUF,L,0,0,0,0,0,0,0,0,0,,,,0,,8,3:55,,,,,

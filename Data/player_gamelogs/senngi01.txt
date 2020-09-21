@@ -1,0 +1,3 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2019-12-20,1,23-294,NJD,,WSH,L,,1,3,2,.667,0,0,11:35
+1,2019-12-21,2,23-295,NJD,@,CBJ,L,L,3,38,35,.921,0,0,58:30

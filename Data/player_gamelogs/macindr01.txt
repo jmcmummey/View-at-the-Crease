@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2007-12-13,1,24-172,VAN,@,SJS,L,,2,11,9,.818,0,0,27:18
+1,2008-01-29,2,24-219,VAN,,DAL,L,L,1,11,10,.909,0,0,33:48
+2,2011-11-16,1,28-145,BUF,,NJD,L,\,0,2,2,1.000,0,0,7:58
+3,2011-11-25,2,28-154,BUF,@,CBJ,L,\,1,16,15,.938,0,0,35:31
+4,2014-03-23,1,30-272,TOR,@,NJD,L,\,0,14,14,1.000,0,0,36:04
+5,2014-04-10,2,30-290,TOR,@,FLA,L,L,4,37,33,.892,0,0,58:31

@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2008-11-28,1,24-285,NYI,@,BOS,L,,3,8,5,.625,0,0,13:02
+1,2009-03-15,2,25-026,NYI,@,CHI,W,W,2,42,40,.952,0,0,60:00
+2,2009-03-20,3,25-031,NYI,@,CAR,L,L,5,37,32,.865,0,0,59:51
+3,2010-10-22,1,26-247,ATL,,TBL,L,,1,16,15,.938,0,0,38:26
+4,2011-01-23,2,26-340,ATL,@,TBL,L,,4,20,16,.800,0,0,34:21
+5,2011-11-10,1,27-266,WPG,,FLA,L,\,0,4,4,1.000,0,0,19:51

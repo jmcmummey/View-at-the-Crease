@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2004-01-15,1,24-213,STL,,CBJ,W,0,0,0,0,2,0,0,0,0,,,,1,0.0,18,12:39,,,,,
+1,2004-01-17,2,24-215,STL,,MIN,T,0,0,0,0,0,0,0,0,0,,,,3,0.0,31,20:58,,,,,
+2,2004-01-19,3,24-217,STL,@,FLA,W,0,0,0,1,0,0,0,0,0,,,,1,0.0,13,12:11,,,,,
+3,2004-01-21,4,24-219,STL,@,CBJ,L,0,0,0,-1,0,0,0,0,0,,,,3,0.0,22,12:01,,,,,
+4,2004-01-23,5,24-221,STL,@,DAL,L,0,0,0,0,0,0,0,0,0,,,,3,0.0,20,17:11,,,,,
+5,2004-01-28,6,24-226,STL,@,ATL,T,0,0,0,1,2,0,0,0,0,,,,2,0.0,25,12:31,,,,,
+6,2004-01-29,7,24-227,STL,,VAN,L,0,0,0,-1,0,0,0,0,0,,,,2,0.0,27,17:48,,,,,
+7,2004-01-31,8,24-229,STL,,NJD,L,0,0,0,0,2,0,0,0,0,,,,0,,22,13:37,,,,,
+8,2004-04-04,9,24-293,STL,@,MIN,L,0,0,0,-1,0,0,0,0,0,,,,4,0.0,26,19:46,,,,,

@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2009-12-19,1,26-264,OTT,,MIN,W,W,1,23,22,.957,0,0,60:00
+1,2010-01-14,2,26-290,OTT,@,NYR,W,W,0,32,32,1.000,1,0,60:00
+2,2010-01-16,3,26-292,OTT,@,MTL,W,W,2,32,30,.938,0,0,59:53
+3,2011-01-01,1,27-277,OTT,,TOR,L,,2,14,12,.857,0,0,43:50
+4,2011-01-11,2,27-287,OTT,@,BOS,L,,1,12,11,.917,0,0,20:00
+5,2011-01-20,3,27-296,OTT,@,PHI,L,,0,1,1,1.000,0,0,7:26
+6,2011-01-21,4,27-297,OTT,,MTL,L,L,4,15,11,.733,0,0,25:33

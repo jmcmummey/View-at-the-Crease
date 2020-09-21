@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2003-03-04,1,21-344,SJS,@,EDM,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,8,6:19,,,,,
+1,2003-03-06,2,21-346,SJS,,MTL,W,0,0,0,-1,0,0,0,0,0,,,,0,,12,11:35,,,,,
+2,2003-03-08,3,21-348,SJS,@,PHX,L,0,0,0,0,2,0,0,0,0,,,,0,,11,9:23,,,,,
+3,2003-03-09,4,21-349,SJS,@,DAL,L,0,0,0,-1,2,0,0,0,0,,,,0,,12,9:58,,,,,
+4,2004-01-08,1,22-289,NYR,@,CAR,L,0,0,0,-1,0,0,0,0,0,,,,0,,13,9:41,,,,,
+5,2004-01-13,2,22-294,NYR,,NYI,W,0,0,0,0,0,0,0,0,0,,,,2,0.0,8,4:59,,,,,
+6,2004-01-15,3,22-296,NYR,,NJD,T,1,0,1,0,0,1,0,0,0,,,,1,100.0,16,11:28,,,,,
+7,2004-02-16,4,22-328,NYR,,OTT,L,0,0,0,0,0,0,0,0,0,,,,0,,11,9:07,,,,,
+8,2005-11-24,1,24-244,NYR,@,ATL,W,0,1,1,2,4,0,0,0,0,,,,1,0.0,15,8:47,,,,,

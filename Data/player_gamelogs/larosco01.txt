@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2004-02-16,1,28-278,NYR,,OTT,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,15,9:54,,,,,
+1,2004-03-23,2,28-314,NYR,,PIT,L,0,0,0,-1,0,0,0,0,0,,,,0,,13,10:14,,,,,
+2,2004-03-25,3,28-316,NYR,,NSH,L,0,0,0,0,2,0,0,0,0,,,,1,0.0,17,9:40,,,,,
+3,2004-03-27,4,28-318,NYR,@,PHI,W,0,0,0,-1,0,0,0,0,0,,,,1,0.0,12,9:19,,,,,
+4,2004-03-30,5,28-321,NYR,@,NJD,L,0,0,0,0,0,0,0,0,0,,,,2,0.0,15,12:02,,,,,
+5,2004-03-31,6,28-322,NYR,,BUF,L,0,1,1,1,0,0,0,0,0,,,,3,0.0,16,15:04,,,,,
+6,2004-04-03,7,28-325,NYR,@,WSH,W,0,0,0,0,2,0,0,0,0,,,,2,0.0,20,13:59,,,,,

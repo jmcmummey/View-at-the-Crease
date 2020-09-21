@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2013-03-19,1,25-150,FLA,@,CAR,W,0,0,0,0,17,0,0,0,0,,,,1,0.0,11,7:47,4,0,0,0,
+1,2013-04-27,2,25-189,FLA,@,TBL,W,0,1,1,2,0,0,0,0,0,,,,1,0.0,14,8:03,1,0,0,0,
+2,2016-03-31,1,28-163,ARI,@,DAL,L,0,0,0,0,5,0,0,0,0,0,0,0,1,0.0,17,9:33,3,0,0,0,

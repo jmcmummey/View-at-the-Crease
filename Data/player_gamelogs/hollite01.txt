@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1994-03-25,1,23-029,STL,,DAL,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,1994-03-27,2,23-031,STL,,SJS,L,0,0,0,1,0,0,0,0,0,,,,0,,,,,,,,
+2,1995-02-11,1,23-352,STL,,WIN,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+3,1995-04-28,2,24-063,STL,@,VAN,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,
+4,1995-04-30,3,24-065,STL,@,SJS,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+5,1995-05-01,4,24-066,STL,@,MDA,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+6,1995-05-03,5,24-068,STL,,DET,L,0,0,0,0,2,0,0,0,0,,,,0,,,,,,,,

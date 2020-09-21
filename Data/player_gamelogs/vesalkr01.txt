@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2018-10-04,1,19-125,WPG,@,STL,W,0,1,1,1,0,0,0,0,0,1,0,0,0,,13,8:12,0,0,0,0,
+1,2018-10-06,2,19-127,WPG,@,DAL,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,12,8:14,0,0,0,0,
+2,2018-10-09,3,19-130,WPG,,LAK,W,0,0,0,-1,0,0,0,0,0,0,0,0,0,,9,4:52,0,1,0,0,
+3,2018-10-11,4,19-132,WPG,@,NSH,L,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,9,5:52,0,0,0,0,
+4,2018-10-14,5,19-135,WPG,,CAR,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,7,7:02,1,0,0,0,

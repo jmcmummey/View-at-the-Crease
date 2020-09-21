@@ -1,0 +1,3 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2017-04-04,1,23-080,CAR,@,MIN,L,0,0,0,-2,0,0,0,0,0,0,0,0,1,0.0,18,12:10,1,1,8,8,50.0
+1,2017-04-06,2,23-082,CAR,,NYI,L,0,0,0,-1,0,0,0,0,0,0,0,0,0,,16,12:22,0,0,4,4,50.0

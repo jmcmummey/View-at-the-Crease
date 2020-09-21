@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2008-10-04,1,27-012,TBL,,NYR,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,22,16:13,0,1,0,0,
+1,2008-10-05,2,27-013,TBL,@,NYR,L,0,0,0,0,0,0,0,0,0,,,,0,,22,14:14,4,0,0,0,
+2,2008-10-11,3,27-019,TBL,,CAR,L-OT,1,0,1,-1,2,0,1,0,0,,,,3,33.3,26,15:17,0,0,0,0,
+3,2008-10-16,4,27-024,TBL,,NYI,L-OT,0,1,1,0,4,0,0,0,0,,,,1,0.0,16,12:00,0,0,0,0,
+4,2008-10-18,5,27-026,TBL,,MIN,L-SO,0,0,0,0,0,0,0,0,0,,,,3,0.0,17,12:37,1,0,0,0,
+5,2008-10-21,6,27-029,TBL,,ATL,W,0,1,1,1,0,0,0,0,0,,,,2,0.0,17,11:52,0,0,0,0,

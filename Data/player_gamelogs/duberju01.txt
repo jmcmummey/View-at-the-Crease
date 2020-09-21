@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1994-01-03,1,23-286,PIT,@,OTT,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,1994-01-07,2,23-290,PIT,@,BUF,W,0,0,0,1,0,0,0,0,0,,,,0,,,,,,,,
+2,1994-01-08,3,23-291,PIT,,CGY,T,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,
+3,1994-01-11,4,23-294,PIT,,BOS,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,

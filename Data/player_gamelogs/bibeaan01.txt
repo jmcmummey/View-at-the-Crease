@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2016-12-11,1,22-224,TOR,,COL,L,L,2,28,26,.929,0,0,57:02
+1,2016-12-29,2,22-242,TOR,@,TBL,W,W,2,27,25,.926,0,0,63:37
+2,2019-11-14,1,25-197,COL,@,EDM,L,,1,10,9,.900,0,0,31:24
+3,2019-11-16,2,25-199,COL,@,VAN,W,W,4,32,28,.875,0,0,60:21

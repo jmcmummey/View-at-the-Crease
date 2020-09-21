@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2002-10-24,1,24-095,STL,@,EDM,W,W,0,10,10,1.000,0,0,30:03

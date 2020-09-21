@@ -1,0 +1,3 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1992-03-22,1,21-214,NJD,@,NYR,L,L,6,34,28,.824,0,0,60:00
+1,1992-03-24,2,21-216,NJD,,SJS,W,W,3,21,18,.857,0,0,60:00

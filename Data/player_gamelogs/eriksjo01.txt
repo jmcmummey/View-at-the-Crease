@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2014-01-15,1,23-281,VAN,@,ANA,L,\,6,31,25,.806,0,0,36:02

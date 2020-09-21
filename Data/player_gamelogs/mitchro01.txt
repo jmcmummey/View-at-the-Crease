@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1992-12-31,1,23-292,MNS,,BOS,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,1993-01-02,2,23-294,MNS,@,NYI,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+2,1993-01-06,3,23-298,MNS,@,NJD,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,

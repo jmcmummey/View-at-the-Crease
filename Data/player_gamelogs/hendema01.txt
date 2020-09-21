@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1999-04-14,1,24-296,NSH,@,DET,L,0,0,0,-1,0,0,0,0,0,,,,0,,9,6:07,,,,,
+1,1999-04-15,2,24-297,NSH,@,CHI,L,0,0,0,0,2,0,0,0,0,,,,0,,11,6:38,,,,,
+2,2002-03-11,1,27-262,CHI,@,LAK,L,0,1,1,1,0,0,0,0,0,,,,0,,12,10:30,,,,,
+3,2002-03-12,2,27-263,CHI,@,PHX,L,0,0,0,-2,0,0,0,0,0,,,,1,0.0,15,9:48,,,,,
+4,2002-03-15,3,27-266,CHI,@,MDA,T,0,0,0,0,0,0,0,0,0,,,,2,0.0,5,3:30,,,,,
+5,2002-03-16,4,27-267,CHI,@,SJS,T,0,0,0,0,0,0,0,0,0,,,,0,,7,4:42,,,,,

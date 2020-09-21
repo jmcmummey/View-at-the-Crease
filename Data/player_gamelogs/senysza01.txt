@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2019-04-04,1,22-005,BOS,@,MIN,W,1,0,1,1,0,1,0,0,0,0,0,0,4,25.0,16,12:41,1,0,0,0,
+1,2019-04-06,2,22-007,BOS,,TBL,L,0,0,0,-1,0,0,0,0,0,0,0,0,0,,15,10:30,0,0,0,0,
+2,2019-11-05,1,22-220,BOS,@,MTL,L,0,2,2,1,0,0,0,0,0,2,0,0,1,0.0,17,10:49,0,0,0,0,
+3,2019-11-08,2,22-223,BOS,@,DET,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,13,7:58,1,0,0,0,
+4,2019-11-10,3,22-225,BOS,,PHI,L-SO,0,0,0,0,0,0,0,0,0,0,0,0,0,,12,10:10,0,1,1,0,100.0
+5,2019-11-12,4,22-227,BOS,,FLA,L-SO,0,0,0,0,0,0,0,0,0,0,0,0,0,,6,4:46,1,0,0,0,

@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2003-01-01,1,21-172,NSH,,COL,L,,3,13,10,.769,0,0,46:41
+1,2005-12-13,1,24-153,NSH,@,FLA,L,L,7,41,34,.829,0,0,60:00
+2,2006-11-09,1,25-119,BOS,,TOR,L,L,2,26,24,.923,0,0,39:15
+3,2006-11-22,2,25-132,BOS,@,PIT,W,,1,7,6,.857,0,0,20:00

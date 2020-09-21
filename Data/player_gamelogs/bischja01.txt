@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2019-10-19,1,25-086,VEG,@,PIT,W,0,0,0,1,0,0,0,0,0,0,0,0,2,0.0,19,16:06,2,3,0,0,
+1,2019-10-21,2,25-088,VEG,@,PHI,L,0,0,0,-1,2,0,0,0,0,0,0,0,2,0.0,19,17:33,1,3,0,0,
+2,2019-10-22,3,25-089,VEG,@,CHI,W,0,0,0,0,2,0,0,0,0,0,0,0,0,,17,13:47,2,1,0,0,
+3,2019-10-25,4,25-092,VEG,,COL,L,0,0,0,-2,0,0,0,0,0,0,0,0,2,0.0,20,14:58,3,1,0,0,

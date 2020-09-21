@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1998-02-25,1,22-139,MDA,@,VAN,L,0,0,0,-2,2,0,0,0,0,,,,0,,0,0:00,,,,,
+1,2001-02-11,1,25-125,NYR,,NJD,T,0,0,0,0,0,0,0,0,0,,,,0,,3,2:32,,,,,
+2,2001-02-12,2,25-126,NYR,@,CBJ,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,5,2:54,,,,,
+3,2001-02-17,3,25-131,NYR,@,TBL,W,0,0,0,0,5,0,0,0,0,,,,1,0.0,6,3:18,,,,,
+4,2001-03-09,4,25-151,NYR,@,WSH,L,0,0,0,-1,0,0,0,0,0,,,,0,,7,4:41,,,,,
+5,2001-03-10,5,25-152,NYR,@,OTT,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,7,5:59,,,,,
+6,2001-03-12,6,25-154,NYR,,PIT,T,0,0,0,0,0,0,0,0,0,,,,0,,5,2:42,,,,,
+7,2001-11-20,1,26-042,BOS,@,MTL,L,0,0,0,0,0,0,0,0,0,,,,0,,4,3:24,,,,,
+8,2001-11-24,2,26-046,BOS,@,TOR,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,12,7:40,,,,,

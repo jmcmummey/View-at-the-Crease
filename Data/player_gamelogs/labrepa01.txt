@@ -1,0 +1,3 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1995-10-07,1,24-215,MTL,,PHI,L,,2,12,10,.833,0,2,37:48
+1,1995-11-01,2,24-240,MTL,@,WSH,L,L,5,35,30,.857,0,0,60:00

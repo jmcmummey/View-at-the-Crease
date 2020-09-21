@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1998-10-10,1,25-111,EDM,,LAK,L,0,0,0,0,0,0,0,0,0,,,,0,,12,8:30,,,,,
+1,1998-12-08,2,25-170,EDM,@,NSH,T,0,0,0,0,0,0,0,0,0,,,,1,0.0,18,16:46,,,,,
+2,1998-12-09,3,25-171,EDM,@,CHI,L,0,0,0,0,2,0,0,0,0,,,,2,0.0,19,17:59,,,,,
+3,1998-12-11,4,25-173,EDM,@,DET,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,14,13:26,,,,,
+4,1998-12-13,5,25-175,EDM,@,PHI,T,0,0,0,0,0,0,0,0,0,,,,1,0.0,15,12:04,,,,,
+5,1998-12-15,6,25-177,EDM,@,CAR,L,0,0,0,-1,0,0,0,0,0,,,,0,,14,13:14,,,,,
+6,1998-12-19,7,25-181,EDM,@,FLA,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,9,6:27,,,,,
+7,1998-12-23,8,25-185,EDM,,SJS,L,0,0,0,0,0,0,0,0,0,,,,0,,11,9:58,,,,,

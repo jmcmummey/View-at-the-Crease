@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1998-10-23,1,25-002,LAK,@,TBL,L,L,2,23,21,.913,0,0,27:13
+1,1998-11-10,2,25-020,LAK,@,CGY,L,L,5,37,32,.865,0,0,61:10
+2,1999-04-18,3,25-179,LAK,,STL,L,L,1,6,5,.833,0,0,19:23

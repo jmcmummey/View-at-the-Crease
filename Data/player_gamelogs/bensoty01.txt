@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2020-02-06,1,21-328,EDM,,SJS,L,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,13,9:25,0,0,0,0,
+1,2020-02-08,2,21-330,EDM,,NSH,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,8,5:19,1,0,0,0,
+2,2020-02-15,3,21-337,EDM,@,FLA,W,0,0,0,1,0,0,0,0,0,0,0,0,2,0.0,20,12:46,0,0,1,0,100.0
+3,2020-02-16,4,21-338,EDM,@,CAR,W,0,1,1,2,0,0,0,0,0,1,0,0,1,0.0,16,12:47,0,1,0,0,
+4,2020-02-19,5,21-341,EDM,,BOS,L-OT,0,0,0,0,0,0,0,0,0,0,0,0,0,,12,10:15,1,0,0,0,
+5,2020-02-21,6,21-343,EDM,,MIN,L,0,0,0,-3,0,0,0,0,0,0,0,0,0,,15,11:56,0,0,0,0,
+6,2020-02-23,7,21-345,EDM,@,LAK,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,14,10:11,1,0,0,0,

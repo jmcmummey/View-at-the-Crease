@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2009-12-05,1,25-022,NYR,@,BUF,W,0,0,0,0,0,0,0,0,0,,,,0,,14,9:27,1,0,0,0,
+1,2009-12-06,2,25-023,NYR,,DET,L,0,0,0,0,0,0,0,0,0,,,,0,,16,8:57,2,3,0,0,
+2,2009-12-12,3,25-029,NYR,,BUF,L,0,0,0,0,0,0,0,0,0,,,,0,,12,8:04,3,1,0,0,
+3,2009-12-14,4,25-031,NYR,,ATL,L-SO,0,0,0,0,0,0,0,0,0,,,,2,0.0,12,7:24,1,2,0,0,
+4,2009-12-16,5,25-033,NYR,,NYI,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,12,9:16,0,1,0,0,
+5,2009-12-17,6,25-034,NYR,@,NYI,W,0,0,0,1,0,0,0,0,0,,,,1,0.0,17,12:35,2,2,0,0,
+6,2009-12-19,7,25-036,NYR,@,PHI,W,0,0,0,1,0,0,0,0,0,,,,0,,11,6:18,0,0,0,0,

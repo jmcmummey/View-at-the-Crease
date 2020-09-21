@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1995-04-15,1,34-173,CGY,@,EDM,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+1,1995-04-17,2,34-175,CGY,,LAK,W,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,
+2,1995-04-20,3,34-178,CGY,@,VAN,T,0,0,0,1,5,0,0,0,0,,,,0,,,,,,,,
+3,1995-04-24,4,34-182,CGY,@,MDA,L,0,0,0,0,2,0,0,0,0,,,,1,0.0,,,,,,,
+4,1995-04-30,5,34-188,CGY,@,VAN,L,0,0,0,-2,2,0,0,0,0,,,,1,0.0,,,,,,,
+5,1995-05-03,6,34-191,CGY,,EDM,W,0,1,1,0,2,0,0,0,0,,,,1,0.0,,,,,,,

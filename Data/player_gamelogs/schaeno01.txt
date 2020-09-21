@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2005-10-26,1,25-284,SJS,@,DAL,W,W,1,13,12,.923,0,0,35:29
+1,2005-10-28,2,25-286,SJS,@,LAK,W,W,4,25,21,.840,0,0,59:43
+2,2005-10-29,3,25-287,SJS,,CGY,W,W,2,25,23,.920,0,2,64:15
+3,2005-11-02,4,25-291,SJS,,NSH,W,W,2,23,21,.913,0,0,61:44
+4,2005-11-04,5,25-293,SJS,@,MDA,W,W,0,21,21,1.000,1,0,60:51
+5,2005-11-05,6,25-294,SJS,,MIN,L,L,2,24,22,.917,0,0,58:50
+6,2005-12-02,7,25-321,SJS,@,BUF,W,,0,7,7,1.000,0,0,11:20

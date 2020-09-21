@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2019-11-20,1,21-289,WSH,@,NYR,L,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0,14,10:02,1,0,0,0,
+1,2019-11-23,2,21-292,WSH,,VAN,L-SO,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,13,9:59,1,1,0,0,
+2,2019-11-27,3,21-296,WSH,,FLA,W,0,0,0,-1,0,0,0,0,0,0,0,0,0,,10,7:48,3,0,0,0,

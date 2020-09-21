@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1990-10-09,1,26-074,LAK,@,VAN,W,0,0,0,1,0,0,0,0,0,,,,0,,,,,,,,
+1,1990-10-11,2,26-076,LAK,,EDM,T,0,0,0,-1,2,0,0,0,0,,,,1,0.0,,,,,,,
+2,1990-10-13,3,26-078,LAK,,BOS,W,0,0,0,1,0,0,0,0,0,,,,0,,,,,,,,
+3,1990-10-14,4,26-079,LAK,,STL,W,0,0,0,2,2,0,0,0,0,,,,0,,,,,,,,

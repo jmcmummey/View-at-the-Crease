@@ -1,0 +1,3 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2013-04-11,1,20-248,COL,@,LAK,L-SO,\,2,25,23,.920,0,0,49:20
+1,2014-01-25,1,21-172,COL,@,TBL,L,L,3,18,15,.833,0,0,40:00

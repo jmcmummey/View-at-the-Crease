@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2006-01-19,1,24-295,STL,@,WSH,L-SO,0,0,0,-1,0,0,0,0,0,,,,2,0.0,15,10:23,,,,,
+1,2006-01-20,2,24-296,STL,@,CBJ,L-SO,0,0,0,0,0,0,0,0,0,,,,1,0.0,12,8:09,,,,,
+2,2006-01-23,3,24-299,STL,,VAN,W,0,0,0,0,0,0,0,0,0,,,,0,,13,8:54,,,,,
+3,2006-01-25,4,24-301,STL,@,DAL,L-SO,0,0,0,0,0,0,0,0,0,,,,0,,13,8:25,,,,,
+4,2006-03-07,5,24-342,STL,,COL,L-SO,0,0,0,0,2,0,0,0,0,,,,0,,12,6:26,,,,,
+5,2011-12-28,1,30-273,MIN,@,NSH,L-SO,0,0,0,0,2,0,0,0,0,,,,2,0.0,20,14:27,1,0,0,0,

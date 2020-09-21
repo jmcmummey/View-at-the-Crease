@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2013-04-09,1,25-355,NSH,,STL,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,12,8:30,0,0,0,0,
+1,2013-04-12,2,25-358,NSH,,DAL,L,0,1,1,-1,0,0,0,0,0,,,,2,0.0,15,10:00,4,0,0,0,
+2,2013-04-14,3,25-360,NSH,,DET,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,16,11:15,3,0,0,0,
+3,2013-04-15,4,25-361,NSH,,VAN,L,0,1,1,1,0,0,0,0,0,,,,4,0.0,22,14:50,1,0,0,0,
+4,2013-04-19,5,26-000,NSH,@,CHI,L-OT,0,0,0,-2,0,0,0,0,0,,,,3,0.0,25,14:49,0,0,0,0,
+5,2013-04-23,6,26-004,NSH,,CGY,W,0,0,0,0,0,0,0,0,0,,,,2,0.0,19,12:56,1,0,0,0,
+6,2013-04-25,7,26-006,NSH,@,DET,L,0,0,0,0,0,0,0,0,0,,,,0,,25,15:35,2,0,0,0,
+7,2013-04-27,8,26-008,NSH,@,CBJ,L,0,0,0,0,0,0,0,0,0,,,,0,,22,15:17,1,0,0,0,

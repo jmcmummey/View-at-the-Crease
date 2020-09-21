@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2006-01-29,1,21-347,TBL,@,WSH,L,0,0,0,0,0,0,0,0,0,,,,0,,17,13:16,,,,,
+1,2006-01-31,2,21-349,TBL,,TOR,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,7,6:50,,,,,
+2,2006-03-27,3,22-039,TBL,@,CAR,L,0,0,0,0,2,0,0,0,0,,,,1,0.0,23,12:24,,,,,
+3,2006-03-30,4,22-042,TBL,,ATL,W,0,0,0,0,0,0,0,0,0,,,,0,,7,3:24,,,,,
+4,2006-04-01,5,22-044,TBL,@,FLA,L,0,0,0,0,0,0,0,0,0,,,,0,,4,2:45,,,,,

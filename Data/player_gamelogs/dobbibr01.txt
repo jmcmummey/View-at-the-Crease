@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1992-01-15,1,25-150,BOS,@,HAR,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,1992-01-16,2,25-151,BOS,,HAR,W,1,0,1,1,20,1,0,0,0,,,,1,100.0,,,,,,,
+2,1992-01-22,3,25-157,BOS,@,TOR,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+3,1992-01-23,4,25-158,BOS,,MTL,L,0,0,0,-1,2,0,0,0,0,,,,0,,,,,,,,
+4,1992-01-25,5,25-160,BOS,@,HAR,T,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+5,1992-01-27,6,25-162,BOS,,MNS,W,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+6,1992-01-30,7,25-165,BOS,,CGY,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,

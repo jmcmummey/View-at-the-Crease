@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2004-03-26,1,24-193,CBJ,,MDA,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,10,7:09,,,,,
+1,2004-03-27,2,24-194,CBJ,@,NSH,W,0,0,0,-1,0,0,0,0,0,,,,1,0.0,13,8:42,,,,,
+2,2004-03-29,3,24-196,CBJ,@,BUF,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,10,9:04,,,,,

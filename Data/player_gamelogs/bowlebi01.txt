@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2000-12-27,1,26-093,CBJ,@,NJD,T,0,0,0,0,0,0,0,0,0,,,,0,,9,7:00,,,,,
+1,2001-03-21,2,26-177,CBJ,,VAN,T,0,0,0,0,0,0,0,0,0,,,,0,,15,11:47,,,,,
+2,2001-03-27,3,26-183,CBJ,@,CGY,L,0,0,0,-2,2,0,0,0,0,,,,1,0.0,16,12:44,,,,,
+3,2001-03-29,4,26-185,CBJ,@,LAK,L,0,0,0,0,2,0,0,0,0,,,,0,,15,10:36,,,,,
+4,2001-04-01,5,26-188,CBJ,,STL,W,0,1,1,0,0,0,0,0,0,,,,0,,12,8:51,,,,,
+5,2001-04-03,6,26-190,CBJ,,DET,W,0,0,0,0,0,0,0,0,0,,,,2,0.0,13,9:54,,,,,
+6,2001-04-05,7,26-192,CBJ,@,STL,L,0,1,1,0,4,0,0,0,0,,,,0,,18,13:57,,,,,
+7,2001-04-06,8,26-193,CBJ,@,MIN,L,0,0,0,-1,0,0,0,0,0,,,,0,,9,7:39,,,,,
+8,2001-04-08,9,26-195,CBJ,,CHI,W,0,0,0,0,0,0,0,0,0,,,,0,,7,5:08,,,,,

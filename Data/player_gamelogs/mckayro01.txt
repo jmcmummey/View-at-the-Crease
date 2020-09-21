@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1991-03-17,1,27-014,HAR,@,BUF,L,,3,15,12,.800,0,0,34:47

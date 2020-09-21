@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2018-10-04,1,24-214,DET,,CBJ,L-OT,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,27,18:26,5,0,0,0,
+1,2018-10-07,2,24-217,DET,@,LAK,L,0,0,0,-2,0,0,0,0,0,0,0,0,2,0.0,33,22:17,5,2,0,0,
+2,2018-10-08,3,24-218,DET,@,ANA,L-SO,0,0,0,0,2,0,0,0,0,0,0,0,0,,27,20:37,1,1,0,0,
+3,2018-10-11,4,24-221,DET,,TOR,L,0,0,0,0,4,0,0,0,0,0,0,0,3,0.0,24,16:44,1,1,0,0,
+4,2018-10-13,5,24-223,DET,@,BOS,L,0,0,0,-2,0,0,0,0,0,0,0,0,1,0.0,30,21:55,4,1,0,0,
+5,2018-10-15,6,24-225,DET,@,MTL,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,22,16:18,2,0,0,0,

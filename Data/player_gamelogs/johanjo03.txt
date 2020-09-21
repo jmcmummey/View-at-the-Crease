@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2020-02-04,1,24-138,BUF,,COL,L,,1,14,13,.929,0,0,29:34
+1,2020-02-06,2,24-140,BUF,,DET,L-SO,O,3,21,18,.857,0,0,63:25
+2,2020-02-09,3,24-143,BUF,,ANA,L,L,3,28,25,.893,0,0,57:59
+3,2020-02-23,4,24-157,BUF,,WPG,W,W,1,26,25,.962,0,0,59:54
+4,2020-02-29,5,24-163,BUF,@,ARI,L,L,4,30,26,.867,0,0,58:15
+5,2020-03-05,6,24-168,BUF,,PIT,L,L,4,32,28,.875,0,0,57:37

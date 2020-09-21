@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2002-01-21,1,20-288,PHX,@,NSH,W,0,0,0,0,4,0,0,0,0,,,,0,,15,9:21,,,,,
+1,2002-01-23,2,20-290,PHX,@,CHI,W,0,0,0,0,0,0,0,0,0,,,,0,,6,3:56,,,,,
+2,2002-01-25,3,20-292,PHX,@,DET,L,0,1,1,0,0,0,0,0,0,,,,1,0.0,13,11:34,,,,,
+3,2002-01-26,4,20-293,PHX,@,CBJ,W,0,0,0,-1,0,0,0,0,0,,,,0,,11,7:36,,,,,
+4,2002-10-09,1,21-184,PHX,@,LAK,L,0,0,0,0,0,0,0,0,0,,,,0,,10,7:50,,,,,
+5,2002-10-12,2,21-187,PHX,,DAL,L,0,0,0,-1,0,0,0,0,0,,,,0,,9,6:43,,,,,
+6,2004-03-10,1,22-337,PHX,,LAK,L,0,0,0,-1,0,0,0,0,0,,,,2,0.0,15,9:32,,,,,
+7,2004-03-12,2,22-339,PHX,,COL,L,0,0,0,0,2,0,0,0,0,,,,0,,21,13:18,,,,,
+8,2004-03-14,3,22-341,PHX,@,COL,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,17,11:21,,,,,

@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2007-01-07,1,25-187,ANA,,DET,W,1,0,1,1,0,1,0,0,0,,,,1,100.0,12,8:56,,,,,
+1,2007-01-09,2,25-189,ANA,@,NSH,L-OT,0,0,0,-2,0,0,0,0,0,,,,0,,11,5:08,,,,,
+2,2007-01-11,3,25-191,ANA,@,DAL,W,0,0,0,0,0,0,0,0,0,,,,0,,11,7:53,,,,,

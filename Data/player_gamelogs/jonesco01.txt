@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2017-04-02,1,26-229,NYI,@,BUF,W,0,0,0,1,0,0,0,0,0,0,0,0,2,0.0,18,11:13,3,0,1,1,50.0
+1,2017-04-04,2,26-231,NYI,@,NSH,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,13,10:05,2,0,0,1,0.0
+2,2017-04-06,3,26-233,NYI,@,CAR,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,13,9:11,3,1,0,0,
+3,2017-04-09,4,26-236,NYI,,OTT,W,0,0,0,0,2,0,0,0,0,0,0,0,0,,21,16:54,5,2,7,3,70.0

@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2008-02-21,1,23-244,STL,@,LAK,L,,1,9,8,.889,0,0,26:37

@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2009-12-09,1,22-167,COL,,MIN,L,0,0,0,0,0,0,0,0,0,,,,0,,10,7:54,1,0,0,0,
+1,2009-12-13,2,22-171,COL,,CGY,W,0,0,0,0,0,0,0,0,0,,,,0,,6,2:56,1,0,0,0,
+2,2009-12-15,3,22-173,COL,,WSH,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,14,10:16,4,0,0,0,
+3,2010-01-31,4,22-220,COL,,NYR,L,0,1,1,1,0,0,0,0,0,,,,2,0.0,14,9:11,1,1,0,0,
+4,2010-02-02,5,22-222,COL,,CBJ,W,0,0,0,0,0,0,0,0,0,,,,0,,12,8:14,4,0,1,0,100.0
+5,2010-02-04,6,22-224,COL,@,NSH,L,1,0,1,1,0,1,0,0,0,,,,1,100.0,5,4:01,0,0,0,0,
+6,2010-02-08,7,22-228,COL,,STL,W,0,0,0,0,0,0,0,0,0,,,,0,,13,10:12,1,0,0,0,
+7,2010-02-12,8,22-232,COL,,PHX,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,5,3:41,2,0,0,0,
+8,2010-02-13,9,22-233,COL,@,LAK,L,0,0,0,0,0,0,0,0,0,,,,0,,13,8:17,1,0,0,0,

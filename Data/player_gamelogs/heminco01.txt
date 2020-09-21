@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2005-10-19,1,25-068,STL,,MDA,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,15,9:41,,,,,
+1,2005-10-25,2,25-074,STL,@,PHX,L-OT,0,0,0,-1,0,0,0,0,0,,,,0,,10,5:39,,,,,
+2,2005-10-29,3,25-078,STL,@,LAK,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,12,6:33,,,,,

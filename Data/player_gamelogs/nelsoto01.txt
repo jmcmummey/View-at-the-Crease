@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1991-11-23,1,22-196,PIT,,NYI,T,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,1994-04-12,1,24-336,WSH,,WIN,W,1,0,1,1,0,0,1,0,1,,,,1,100.0,,,,,,,
+2,1994-04-14,2,24-338,WSH,@,BUF,W,0,0,0,0,2,0,0,0,0,,,,0,,,,,,,,

@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2011-03-30,1,21-113,DET,,STL,L,,3,8,5,.625,0,0,14:37
+1,2015-01-18,1,25-042,DET,,BUF,W,W,1,8,7,.875,0,0,45:54
+2,2015-01-29,2,25-053,DET,@,TBL,L,,0,17,17,1.000,0,0,20:00

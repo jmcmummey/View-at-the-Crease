@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2016-03-02,1,23-307,MTL,@,ANA,L-SO,0,0,0,0,2,0,0,0,0,0,0,0,2,0.0,16,10:31,0,0,0,0,
+1,2016-03-03,2,23-308,MTL,@,LAK,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,16,10:00,1,2,0,0,
+2,2016-03-05,3,23-310,MTL,@,WPG,L,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,8,6:21,0,0,0,0,

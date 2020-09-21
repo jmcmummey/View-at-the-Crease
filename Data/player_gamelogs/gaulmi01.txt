@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1998-12-19,1,25-241,COL,@,SJS,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,12,10:46,,,,,
+1,2001-01-10,1,27-263,CBJ,,COL,L,0,0,0,0,0,0,0,0,0,,,,0,,17,16:00,,,,,
+2,2001-04-01,2,27-344,CBJ,,STL,W,0,0,0,0,4,0,0,0,0,,,,3,0.0,17,10:34,,,,,

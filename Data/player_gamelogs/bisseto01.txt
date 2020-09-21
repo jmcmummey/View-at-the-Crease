@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1990-11-14,1,24-246,DET,,CHI,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,1990-11-17,2,24-249,DET,@,TOR,W,0,0,0,1,0,0,0,0,0,,,,0,,,,,,,,
+2,1990-11-19,3,24-251,DET,,WSH,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,
+3,1991-01-04,4,24-297,DET,@,EDM,L,0,0,0,-2,0,0,0,0,0,,,,1,0.0,,,,,,,
+4,1991-01-05,5,24-298,DET,@,CGY,L,0,0,0,-2,0,0,0,0,0,,,,0,,,,,,,,

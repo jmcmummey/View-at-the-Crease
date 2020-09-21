@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2011-01-15,1,22-189,TOR,,CGY,L-SO,0,0,0,0,0,0,0,0,0,,,,2,0.0,18,12:58,4,0,0,0,
+1,2011-01-19,2,22-193,TOR,@,NYR,L,0,0,0,0,0,0,0,0,0,,,,3,0.0,14,11:35,3,0,0,1,0.0
+2,2011-01-20,3,22-194,TOR,,ANA,W,0,0,0,0,2,0,0,0,0,,,,0,,8,5:49,0,0,0,0,

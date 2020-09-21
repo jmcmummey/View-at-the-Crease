@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2015-02-24,1,20-072,CGY,@,NYR,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,16,8:10,1,0,0,0,
+1,2015-02-25,2,20-073,CGY,@,NJD,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,15,10:08,1,0,0,0,
+2,2015-02-27,3,20-075,CGY,@,NYI,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,14,7:42,1,0,0,0,
+3,2015-03-03,4,20-079,CGY,@,PHI,W,0,1,1,1,0,0,0,0,0,1,0,0,0,,15,8:19,2,1,0,1,0.0
+4,2015-03-05,5,20-081,CGY,@,BOS,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,9,4:48,1,0,0,0,
+5,2015-04-11,6,20-118,CGY,@,WPG,L,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,13,8:47,2,0,0,0,
+6,2016-03-28,1,21-105,CGY,@,ARI,W,0,0,0,0,2,0,0,0,0,0,0,0,2,0.0,21,14:03,3,0,0,0,
+7,2016-03-30,2,21-107,CGY,@,ANA,L,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,18,13:44,1,1,0,0,

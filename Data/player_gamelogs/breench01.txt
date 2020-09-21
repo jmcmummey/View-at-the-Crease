@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2013-10-22,1,24-115,CGY,@,PHX,L,0,0,0,0,0,0,0,0,0,,,,0,,15,7:02,0,1,0,0,
+1,2013-10-24,2,24-117,CGY,@,DAL,L,0,0,0,-1,5,0,0,0,0,,,,1,0.0,21,12:06,0,0,0,0,
+2,2013-11-29,3,24-153,CGY,@,ANA,L,0,0,0,-1,0,0,0,0,0,,,,0,,17,11:44,2,0,0,0,
+3,2013-12-23,4,24-177,CGY,,STL,W,0,0,0,-1,0,0,0,0,0,,,,0,,10,7:54,0,,,,
+4,2013-12-27,5,24-181,CGY,,EDM,L,0,0,0,-1,0,0,0,0,0,,,,0,,9,4:24,0,0,0,0,
+5,2014-02-01,6,24-217,CGY,,MIN,W,0,0,0,1,0,0,0,0,0,,,,1,0.0,10,4:30,1,0,0,0,
+6,2014-04-03,7,24-278,CGY,@,TBL,W,0,1,1,1,0,0,0,0,0,,,,0,,14,7:15,0,1,0,0,
+7,2014-04-04,8,24-279,CGY,@,FLA,W,0,0,0,2,0,0,0,0,0,,,,0,,18,13:27,0,2,0,0,
+8,2014-04-13,9,24-288,CGY,@,VAN,L,0,1,1,1,0,0,0,0,0,,,,2,0.0,25,16:06,0,3,0,0,

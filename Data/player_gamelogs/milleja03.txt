@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1990-10-07,1,19-220,NJD,@,PIT,L,0,0,0,1,0,0,0,0,0,,,,0,,,,,,,,
+1,1992-02-24,1,20-360,NJD,,MNS,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+2,1992-02-25,2,20-361,NJD,@,TOR,T,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+3,1992-02-28,3,20-364,NJD,,NYI,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+4,1993-01-23,1,21-328,NJD,@,BOS,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+5,1993-01-30,2,21-335,NJD,@,STL,T,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,

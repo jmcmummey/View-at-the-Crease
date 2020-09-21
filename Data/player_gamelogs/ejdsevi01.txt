@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2018-03-26,1,22-293,CHI,,SJS,L-SO,0,0,0,-3,0,0,0,0,0,0,0,0,3,0.0,20,17:25,2,0,6,5,54.5
+1,2018-03-29,2,22-296,CHI,,WPG,W,0,1,1,2,0,0,0,0,0,1,0,0,1,0.0,17,13:37,3,0,3,6,33.3
+2,2018-03-30,3,22-297,CHI,@,COL,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,16,14:41,0,1,4,8,33.3
+3,2018-04-04,4,22-302,CHI,@,STL,W,0,0,0,1,0,0,0,0,0,0,0,0,0,,15,11:23,0,1,2,8,20.0
+4,2018-04-06,5,22-304,CHI,,STL,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,13,11:19,0,3,4,10,28.6
+5,2018-04-07,6,22-305,CHI,@,WPG,L,0,0,0,-1,0,0,0,0,0,0,0,0,3,0.0,16,11:29,1,1,1,3,25.0

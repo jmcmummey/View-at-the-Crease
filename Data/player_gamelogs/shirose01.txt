@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2009-10-01,1,23-205,VAN,@,CGY,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,17,14:24,1,0,0,0,
+1,2009-10-03,2,23-207,VAN,@,COL,L,0,0,0,0,0,0,0,0,0,,,,2,0.0,21,15:03,0,1,0,0,
+2,2009-10-05,3,23-209,VAN,,CBJ,L,0,0,0,-3,0,0,0,0,0,,,,0,,11,10:21,0,0,0,0,
+3,2009-10-25,4,23-229,VAN,,EDM,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,17,12:59,0,0,0,0,
+4,2009-10-27,5,23-231,VAN,,DET,L,0,0,0,0,0,0,0,0,0,,,,0,,24,16:21,0,0,1,1,50.0
+5,2009-10-29,6,23-233,VAN,@,LAK,W,0,0,0,0,2,0,0,0,0,,,,0,,14,7:49,0,0,0,0,
+6,2011-01-18,1,24-314,VAN,@,COL,L-OT,1,0,1,1,0,1,0,0,0,,,,6,16.7,17,13:09,1,0,0,0,
+7,2011-01-20,2,24-316,VAN,,SJS,L-SO,0,0,0,0,0,0,0,0,0,,,,0,,11,7:26,0,0,0,0,

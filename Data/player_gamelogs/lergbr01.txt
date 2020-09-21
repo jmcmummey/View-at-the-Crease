@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2015-04-09,1,29-079,SJS,@,EDM,W,1,0,1,1,0,1,0,0,1,0,0,0,8,12.5,18,11:32,2,0,4,0,100.0
+1,2015-04-11,2,29-081,SJS,@,LAK,L,0,0,0,-2,0,0,0,0,0,0,0,0,0,,18,13:40,1,0,0,0,
+2,2015-10-19,1,29-272,SJS,@,NYR,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,15,10:51,5,0,2,4,33.3
+3,2015-10-22,2,29-275,SJS,,LAK,L,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,13,8:51,0,0,3,1,75.0
+4,2015-10-24,3,29-277,SJS,,CAR,W,0,0,0,1,0,0,0,0,0,0,0,0,0,,15,9:15,2,2,1,4,20.0
+5,2015-11-01,4,29-285,SJS,@,COL,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,14,8:31,3,0,3,4,42.9
+6,2015-11-03,5,29-287,SJS,,CBJ,L,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,14,7:41,1,1,8,3,72.7
+7,2015-11-05,6,29-289,SJS,,FLA,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,11,8:06,2,0,0,0,

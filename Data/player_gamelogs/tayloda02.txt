@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2008-03-29,1,21-336,LAK,,DAL,L,,2,10,8,.800,0,0,20:00
+1,2013-02-18,1,26-296,CGY,@,PHX,L,L,4,37,33,.892,0,0,60:00
+2,2013-03-03,2,26-309,CGY,,VAN,W,W,2,31,29,.935,0,0,60:00
+3,2018-04-07,1,31-344,OTT,@,BOS,L,L,4,34,30,.882,0,0,58:29

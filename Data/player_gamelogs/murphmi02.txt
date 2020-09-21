@@ -1,0 +1,3 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2011-12-06,1,22-325,CAR,@,CGY,L,L,0,2,2,1.000,0,0,8:37
+1,2011-12-09,2,22-328,CAR,@,WPG,L,\,0,7,7,1.000,0,0,27:29

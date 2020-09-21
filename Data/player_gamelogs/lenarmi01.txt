@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1993-04-13,1,20-211,HAR,@,NYI,T,T,0,17,17,1.000,0,0,45:00
+1,1993-04-14,2,20-212,HAR,,NYI,W,W,4,32,28,.875,0,0,61:08
+2,1993-04-16,3,20-214,HAR,,PHI,L,L,5,38,33,.868,0,0,61:25
+3,1993-11-18,1,21-065,HAR,@,PHI,L,,1,12,11,.917,0,0,21:12

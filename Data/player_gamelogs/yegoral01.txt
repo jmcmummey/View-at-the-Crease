@@ -1,0 +1,12 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1996-02-10,1,20-265,SJS,@,LAK,W,0,1,1,1,0,0,0,0,0,,,,0,,,,,,,,
+1,1996-02-12,2,20-267,SJS,@,MTL,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+2,1996-02-14,3,20-269,SJS,@,TOR,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+3,1996-02-15,4,20-270,SJS,@,OTT,T,0,0,0,0,2,0,0,0,0,,,,0,,,,,,,,
+4,1996-02-17,5,20-272,SJS,@,NYI,L,0,0,0,-2,0,0,0,0,0,,,,0,,,,,,,,
+5,1996-02-20,6,20-275,SJS,@,CGY,L,3,0,3,-1,0,1,2,0,0,,,,4,75.0,,,,,,,
+6,1996-02-23,7,20-278,SJS,@,VAN,L,0,0,0,-2,0,0,0,0,0,,,,0,,,,,,,,
+7,1996-02-25,8,20-280,SJS,@,MDA,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,
+8,1996-02-26,9,20-281,SJS,,MTL,W,0,1,1,1,0,0,0,0,0,,,,4,0.0,,,,,,,
+9,1997-01-29,1,21-253,SJS,@,EDM,L,0,1,1,1,0,0,0,0,0,,,,0,,,,,,,,
+10,1997-01-30,2,21-254,SJS,@,CGY,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,

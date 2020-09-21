@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2007-02-17,1,24-009,MTL,,CAR,L,0,0,0,0,0,0,0,0,0,,,,3,0.0,16,14:19,,,,,
+1,2007-02-18,2,24-010,MTL,@,CBJ,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,20,14:19,,,,,
+2,2007-02-20,3,24-012,MTL,,WSH,W,0,1,1,-1,0,0,0,0,0,,,,2,0.0,19,12:29,,,,,
+3,2007-02-22,4,24-014,MTL,@,NSH,W,0,0,0,0,0,0,0,0,0,,,,0,,17,13:13,,,,,
+4,2007-02-24,5,24-016,MTL,@,NYI,L,0,0,0,-1,0,0,0,0,0,,,,0,,13,10:20,,,,,

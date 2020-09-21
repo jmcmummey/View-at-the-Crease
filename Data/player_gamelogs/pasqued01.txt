@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2018-12-04,1,28-014,TBL,@,DET,W,W,5,24,19,.792,0,0,65:00
+1,2019-04-02,2,28-133,TBL,@,MTL,L,L,4,45,41,.911,0,0,56:58
+2,2019-04-06,3,28-137,TBL,@,BOS,W,W,3,33,30,.909,0,0,60:00

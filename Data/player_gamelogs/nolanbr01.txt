@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2007-12-22,1,24-157,CAR,@,TBL,W,0,1,1,1,0,0,0,0,0,,,,2,0.0,13,7:57,1,0,0,0,
+1,2007-12-26,2,24-161,CAR,@,NYR,L,0,0,0,0,0,0,0,0,0,,,,0,,14,7:14,0,0,0,0,
+2,2008-01-04,3,24-170,CAR,@,ATL,W,0,0,0,0,0,0,0,0,0,,,,0,,13,7:45,1,0,0,0,
+3,2008-01-05,4,24-171,CAR,@,STL,L,0,0,0,-1,0,0,0,0,0,,,,0,,7,4:22,1,0,0,0,
+4,2008-01-10,5,24-176,CAR,,NJD,L,0,0,0,0,0,0,0,0,0,,,,0,,7,5:50,3,0,0,0,
+5,2008-01-12,6,24-178,CAR,,COL,L,0,0,0,-2,0,0,0,0,0,,,,0,,14,10:24,2,1,0,0,

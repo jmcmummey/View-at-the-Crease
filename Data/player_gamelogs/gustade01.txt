@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2001-03-09,1,21-261,MIN,@,NYI,W,W,1,23,22,.957,0,0,60:00
+1,2001-03-22,2,21-274,MIN,@,DET,L,L,4,28,24,.857,0,0,60:00
+2,2001-03-28,3,21-280,MIN,,PHX,L,L,2,19,17,.895,0,0,59:35
+3,2001-04-08,4,21-291,MIN,,COL,L,L,3,27,24,.889,0,0,59:35
+4,2002-04-12,1,22-295,MIN,@,PHX,L,,0,7,7,1.000,0,0,25:43

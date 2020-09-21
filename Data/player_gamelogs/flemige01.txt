@@ -1,0 +1,12 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1994-03-23,1,27-158,MTL,@,WIN,L,0,0,0,0,4,0,0,0,0,,,,0,,,,,,,,
+1,1994-03-28,2,27-163,MTL,,OTT,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+2,1994-03-29,3,27-164,MTL,@,NJD,L,0,0,0,-1,2,0,0,0,0,,,,0,,,,,,,,
+3,1994-04-08,4,27-174,MTL,@,BUF,L,0,0,0,0,17,0,0,0,0,,,,1,0.0,,,,,,,
+4,1994-04-13,5,27-179,MTL,@,DET,L,0,0,0,-3,2,0,0,0,0,,,,2,0.0,,,,,,,
+5,1995-01-31,1,28-107,MTL,@,TBL,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+6,1995-02-02,2,28-109,MTL,@,FLA,T,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+7,1995-02-08,3,28-115,MTL,@,OTT,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+8,1995-02-23,4,28-130,MTL,@,FLA,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+9,1995-02-25,5,28-132,MTL,,PHI,L,0,0,0,-1,12,0,0,0,0,,,,0,,,,,,,,
+10,1995-03-05,6,28-140,MTL,@,BUF,L,0,0,0,0,5,0,0,0,0,,,,0,,,,,,,,

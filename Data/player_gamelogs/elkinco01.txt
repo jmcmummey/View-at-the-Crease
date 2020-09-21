@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2009-12-15,1,24-295,LAK,@,EDM,W,0,0,0,-1,0,0,0,0,0,,,,3,0.0,18,13:38,2,1,1,5,16.7
+1,2009-12-17,2,24-297,LAK,@,CGY,L,1,0,1,1,0,1,0,0,0,,,,1,100.0,18,13:31,0,0,3,2,60.0
+2,2009-12-26,3,24-306,LAK,@,PHX,L,0,0,0,-2,0,0,0,0,0,,,,1,0.0,11,8:34,0,2,2,5,28.6

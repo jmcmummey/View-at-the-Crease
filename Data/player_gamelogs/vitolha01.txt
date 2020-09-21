@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1993-10-06,1,25-159,WIN,,WSH,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+1,1993-10-09,2,25-162,WIN,@,DAL,T,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+2,1993-10-10,3,25-163,WIN,@,CHI,L,0,0,0,0,2,0,0,0,0,,,,2,0.0,,,,,,,
+3,1993-10-12,4,25-165,WIN,@,NJD,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,
+4,1994-01-25,5,25-270,WIN,@,LAK,T,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+5,1994-04-09,6,25-344,WIN,,LAK,W,0,0,0,0,2,0,0,0,0,,,,0,,,,,,,,
+6,1994-04-10,7,25-345,WIN,@,TOR,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+7,1994-04-12,8,25-347,WIN,@,WSH,L,0,0,0,1,0,0,0,0,0,,,,0,,,,,,,,

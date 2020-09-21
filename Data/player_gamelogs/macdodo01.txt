@@ -1,0 +1,12 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1993-02-17,1,24-009,BUF,@,HAR,W,0,0,0,0,2,0,0,0,0,,,,0,,,,,,,,
+1,1993-02-19,2,24-011,BUF,@,NJD,T,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+2,1993-04-10,3,24-061,BUF,@,DET,L,1,0,1,1,0,1,0,0,0,,,,1,100.0,,,,,,,
+3,1993-04-11,4,24-062,BUF,,QUE,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+4,1993-04-13,5,24-064,BUF,,MTL,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+5,1993-11-17,1,24-282,BUF,@,NJD,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,
+6,1993-11-19,2,24-284,BUF,,WIN,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+7,1993-11-21,3,24-286,BUF,,SJS,W,0,0,0,-2,0,0,0,0,0,,,,0,,,,,,,,
+8,1994-04-04,4,25-055,BUF,@,QUE,L,0,0,0,1,0,0,0,0,0,,,,1,0.0,,,,,,,
+9,1995-02-26,1,26-018,BUF,,NYR,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+10,1995-03-02,2,26-022,BUF,,PIT,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,

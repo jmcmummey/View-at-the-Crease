@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2011-03-03,1,23-328,PHI,,TOR,L,0,0,0,0,0,0,0,0,0,,,,0,,12,8:06,5,0,3,7,30.0
+1,2011-04-05,2,23-361,PHI,@,OTT,L,0,0,0,-1,5,0,0,0,0,,,,0,,12,10:03,3,0,2,4,33.3
+2,2011-11-02,1,24-207,PHI,@,BUF,W,0,0,0,0,2,0,0,0,0,,,,0,,10,4:57,0,0,1,1,50.0
+3,2011-12-19,2,24-254,PHI,@,COL,L-SO,0,0,0,0,0,0,0,0,0,,,,1,0.0,13,9:00,2,2,6,2,75.0
+4,2012-01-22,3,24-288,PHI,,BOS,L-SO,0,0,0,0,0,0,0,0,0,,,,0,,9,5:40,0,0,2,4,33.3
+5,2012-01-24,4,24-290,PHI,@,FLA,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,9,6:30,3,2,2,4,33.3
+6,2012-01-31,5,24-297,PHI,,WPG,L-SO,0,0,0,0,0,0,0,0,0,,,,1,0.0,11,7:29,3,0,4,4,50.0

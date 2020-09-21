@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1996-01-16,1,21-008,STL,,EDM,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+1,1996-12-15,1,21-342,STL,,VAN,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,
+2,1996-12-17,2,21-344,STL,@,HAR,L,0,0,0,0,2,0,0,0,0,,,,1,0.0,,,,,,,
+3,1996-12-19,3,21-346,STL,,PIT,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,

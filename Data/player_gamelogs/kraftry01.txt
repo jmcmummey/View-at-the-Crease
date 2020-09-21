@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2002-11-23,1,27-016,SJS,@,PIT,L,0,0,0,0,0,0,0,0,0,,,,0,,11,9:41,,,,,
+1,2002-11-25,2,27-018,SJS,@,STL,W,0,1,1,1,0,0,0,0,0,,,,0,,9,6:17,,,,,
+2,2002-11-27,3,27-020,SJS,@,NSH,L,0,0,0,1,0,0,0,0,0,,,,0,,12,9:36,,,,,
+3,2002-11-30,4,27-023,SJS,,PHX,L,0,0,0,-1,0,0,0,0,0,,,,0,,8,6:52,,,,,
+4,2002-12-03,5,27-026,SJS,@,PHX,W,0,0,0,1,0,0,0,0,0,,,,0,,13,9:17,,,,,
+5,2003-03-06,6,27-119,SJS,,MTL,W,0,0,0,0,0,0,0,0,0,,,,0,,12,7:39,,,,,
+6,2003-03-09,7,27-122,SJS,@,DAL,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,15,10:28,,,,,

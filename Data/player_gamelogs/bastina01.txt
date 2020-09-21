@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2019-01-19,1,21-044,NJD,,ANA,L,0,0,0,-1,5,0,0,0,0,0,0,0,0,,15,9:32,1,0,0,0,
+1,2019-02-25,2,21-081,NJD,,MTL,W,1,0,1,1,0,1,0,0,0,0,0,0,3,33.3,21,15:55,3,0,0,0,
+2,2019-02-27,3,21-083,NJD,,CGY,L,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,20,14:20,5,0,0,0,
+3,2019-03-01,4,21-085,NJD,,PHI,L,0,0,0,-1,0,0,0,0,0,0,0,0,2,0.0,14,10:28,4,0,3,0,100.0
+4,2019-04-01,5,21-116,NJD,,NYR,W,0,0,0,0,5,0,0,0,0,0,0,0,1,0.0,14,9:21,3,0,0,0,
+5,2019-04-04,6,21-119,NJD,@,CAR,L,0,0,0,-1,0,0,0,0,0,0,0,0,4,0.0,15,12:32,2,0,0,0,
+6,2019-04-06,7,21-121,NJD,@,FLA,W,2,0,2,2,0,2,0,0,0,0,0,0,2,100.0,20,16:38,6,1,0,0,

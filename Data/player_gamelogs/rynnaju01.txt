@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2012-03-27,1,24-310,TOR,,CAR,L,\,0,10,10,1.000,0,0,39:23
+1,2012-03-29,2,24-312,TOR,,PHI,L,L,7,30,23,.767,0,0,59:31
+2,2013-02-19,1,25-273,TOR,@,TBL,L,\,0,6,6,1.000,0,0,10:20
+3,2014-12-04,1,27-196,DAL,@,DET,L,L,5,29,24,.828,0,0,59:59
+4,2014-12-09,2,27-201,DAL,,WPG,L,,2,15,13,.867,0,0,32:26

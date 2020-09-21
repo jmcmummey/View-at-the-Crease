@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1992-10-31,1,22-025,CHI,@,BOS,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,2002-01-19,1,31-105,SJS,,COL,L,0,1,1,0,0,0,0,0,0,,,,2,0.0,18,14:53,,,,,
+2,2002-01-21,2,31-107,SJS,,EDM,W,0,0,0,-1,0,0,0,0,0,,,,1,0.0,14,10:21,,,,,
+3,2002-01-23,3,31-109,SJS,@,DET,T,0,0,0,0,0,0,0,0,0,,,,2,0.0,12,9:37,,,,,
+4,2002-01-24,4,31-110,SJS,@,CBJ,L,0,0,0,-1,0,0,0,0,0,,,,0,,15,11:34,,,,,
+5,2002-01-27,5,31-113,SJS,@,MTL,L,0,0,0,0,2,0,0,0,0,,,,0,,6,5:34,,,,,

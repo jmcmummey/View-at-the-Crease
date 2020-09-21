@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2003-11-04,1,24-101,EDM,@,MTL,W,1,0,1,1,0,1,0,0,0,,,,1,100.0,11,8:12,,,,,
+1,2003-11-06,2,24-103,EDM,@,OTT,T,0,0,0,1,0,0,0,0,0,,,,0,,20,12:59,,,,,
+2,2003-11-08,3,24-105,EDM,@,TOR,L,0,0,0,1,0,0,0,0,0,,,,1,0.0,18,17:51,,,,,
+3,2003-11-10,4,24-107,EDM,@,NYR,W,0,0,0,-1,0,0,0,0,0,,,,0,,7,4:20,,,,,
+4,2003-11-11,5,24-108,EDM,@,BOS,L,0,0,0,0,2,0,0,0,0,,,,0,,10,5:31,,,,,
+5,2003-11-20,6,24-117,EDM,,TOR,W,0,0,0,0,0,0,0,0,0,,,,3,0.0,15,12:39,,,,,
+6,2006-01-08,1,26-166,CBJ,@,PHX,W,0,0,0,0,0,0,0,0,0,,,,0,,15,10:42,,,,,

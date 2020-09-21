@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1992-02-23,1,23-075,QUE,@,MTL,T,0,0,0,0,2,0,0,0,0,,,,3,0.0,,,,,,,
+1,1992-02-26,2,23-078,QUE,@,SJS,L,0,0,0,0,15,0,0,0,0,,,,0,,,,,,,,
+2,1992-02-27,3,23-079,QUE,@,LAK,L,0,0,0,0,2,0,0,0,0,,,,1,0.0,,,,,,,
+3,1992-03-03,4,23-084,QUE,,BUF,T,0,0,0,0,2,0,0,0,0,,,,0,,,,,,,,
+4,1992-03-17,5,23-098,QUE,@,TOR,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+5,1992-03-19,6,23-100,QUE,@,PIT,L,0,0,0,-2,2,0,0,0,0,,,,0,,,,,,,,

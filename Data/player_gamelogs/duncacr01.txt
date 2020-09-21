@@ -1,0 +1,11 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1990-12-16,1,23-274,WIN,,PHI,L,1,0,1,1,0,1,0,0,0,,,,1,100.0,,,,,,,
+1,1990-12-18,2,23-276,WIN,@,PIT,L,1,0,1,-1,0,1,0,0,0,,,,4,25.0,,,,,,,
+2,1990-12-20,3,23-278,WIN,@,DET,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+3,1990-12-22,4,23-280,WIN,,DET,L,0,0,0,-2,12,0,0,0,0,,,,0,,,,,,,,
+4,1990-12-28,5,23-286,WIN,,BOS,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+5,1991-01-04,6,23-293,WIN,@,BUF,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+6,1991-01-07,7,23-296,WIN,@,BOS,L,0,0,0,-2,4,0,0,0,0,,,,0,,,,,,,,
+7,1993-02-13,1,25-333,NYR,@,NYI,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+8,1993-02-22,2,25-342,NYR,vs.,SJS,W,0,1,1,1,0,0,0,0,0,,,,1,0.0,,,,,,,
+9,1993-02-24,3,25-344,NYR,@,VAN,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,

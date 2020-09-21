@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1990-10-17,1,26-143,WSH,@,NJD,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,1990-10-19,2,26-145,WSH,,NYI,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+2,1990-10-20,3,26-146,WSH,,NJD,W,0,2,2,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+3,1990-11-19,4,26-176,WSH,@,DET,W,0,2,2,1,0,0,0,0,0,,,,0,,,,,,,,
+4,1990-11-21,5,26-178,WSH,,TOR,W,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+5,1990-11-24,6,26-181,WSH,@,PIT,L,0,0,0,0,0,0,0,0,0,,,,3,0.0,,,,,,,
+6,1990-12-20,7,26-207,WSH,@,STL,T,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+7,1990-12-22,8,26-209,WSH,,TOR,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,

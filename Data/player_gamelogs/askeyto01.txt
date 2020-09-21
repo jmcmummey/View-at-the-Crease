@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1998-03-13,1,23-160,MDA,@,DAL,L,,2,6,4,.667,0,0,20:00
+1,1998-03-28,2,23-175,MDA,@,COL,L,,0,7,7,1.000,0,0,25:18
+2,1998-04-01,3,23-179,MDA,,PHX,L,,0,10,10,1.000,0,0,20:00
+3,1998-04-05,4,23-183,MDA,,CGY,T,T,3,35,32,.914,0,0,65:00
+4,1998-04-09,5,23-187,MDA,@,SJS,L,,1,6,5,.833,0,0,18:46
+5,1998-04-13,6,23-191,MDA,,COL,T,T,2,25,23,.920,0,0,65:00
+6,1998-04-19,7,23-197,MDA,,STL,L,L,4,24,20,.833,0,0,58:43

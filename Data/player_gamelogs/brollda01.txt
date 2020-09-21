@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2013-10-10,1,20-279,TOR,@,NSH,W,0,0,0,0,5,0,0,0,0,,,,2,0.0,13,9:19,1,1,0,0,
+1,2013-10-12,2,20-281,TOR,,EDM,W,0,1,1,1,0,0,0,0,0,,,,0,,12,6:53,1,1,0,0,
+2,2013-10-15,3,20-284,TOR,,MIN,W,0,0,0,0,0,0,0,0,0,,,,0,,15,8:58,1,0,0,0,
+3,2013-10-17,4,20-286,TOR,,CAR,L,0,0,0,1,0,0,0,0,0,,,,1,0.0,18,11:32,4,0,0,0,
+4,2013-10-19,5,20-288,TOR,@,CHI,L,0,0,0,-1,0,0,0,0,0,,,,0,,9,4:13,0,0,0,0,

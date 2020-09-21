@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1994-03-04,1,31-237,OTT,vs.,WIN,L,,2,18,16,.889,0,0,31:46
+1,1994-03-05,2,31-238,OTT,@,BOS,L,L,6,36,30,.833,0,0,60:00
+2,1994-03-10,3,31-243,OTT,@,PHI,L,,3,15,12,.800,0,0,37:56
+3,1994-03-13,4,31-246,OTT,@,MDA,L,,2,15,13,.867,0,0,40:00
+4,1994-03-15,5,31-248,OTT,@,LAK,L,L,4,12,8,.667,0,0,12:44

@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2016-02-13,1,23-317,FLA,,NSH,L,0,0,0,-1,0,0,0,0,0,0,0,0,0,,14,8:41,2,2,0,0,
+1,2016-02-15,2,23-319,FLA,,PIT,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,19,10:09,1,0,0,0,
+2,2016-02-18,3,23-322,FLA,,SJS,L-SO,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,16,10:54,2,1,0,0,

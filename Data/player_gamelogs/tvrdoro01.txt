@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2004-03-18,1,23-049,WSH,,NYR,W,0,0,0,-1,2,0,0,0,0,,,,0,,7,5:05,,,,,
+1,2004-03-20,2,23-051,WSH,,ATL,T,0,0,0,0,0,0,0,0,0,,,,0,,5,3:02,,,,,
+2,2004-03-23,3,23-054,WSH,@,NYI,L,0,0,0,-1,0,0,0,0,0,,,,0,,10,8:47,,,,,
+3,2004-03-24,4,23-055,WSH,@,ATL,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,14,9:27,,,,,
+4,2004-03-27,5,23-058,WSH,@,TBL,L,0,1,1,0,0,0,0,0,0,,,,1,0.0,17,9:38,,,,,
+5,2004-03-30,6,23-061,WSH,,PIT,W,0,0,0,0,0,0,0,0,0,,,,2,0.0,18,13:42,,,,,
+6,2004-04-01,7,23-063,WSH,@,BOS,T,0,0,0,0,0,0,0,0,0,,,,0,,21,13:16,,,,,
+7,2004-04-03,8,23-065,WSH,,NYR,L-OT,0,0,0,0,0,0,0,0,0,,,,2,0.0,23,16:51,,,,,
+8,2004-04-04,9,23-066,WSH,@,PIT,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,21,16:18,,,,,

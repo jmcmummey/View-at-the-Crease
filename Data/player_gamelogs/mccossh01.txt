@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1992-03-14,1,22-283,LAK,@,MTL,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,1992-03-15,2,22-284,LAK,@,BOS,L,0,0,0,0,4,0,0,0,0,,,,0,,,,,,,,
+2,1992-03-17,3,22-286,LAK,,WIN,W,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+3,1992-03-19,4,22-288,LAK,,BUF,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+4,1995-01-30,1,25-239,NYR,,OTT,W,0,0,0,0,2,0,0,0,0,,,,1,0.0,,,,,,,
+5,1995-02-01,2,25-241,NYR,@,PIT,L,1,0,1,1,0,1,0,0,0,,,,1,100.0,,,,,,,
+6,1995-02-02,3,25-242,NYR,,TBL,T,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+7,1995-02-04,4,25-244,NYR,@,OTT,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+8,1995-02-11,5,25-251,NYR,@,TBL,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,

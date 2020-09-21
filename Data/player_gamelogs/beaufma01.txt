@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1993-04-04,1,22-326,SJS,,CGY,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+1,1993-04-06,2,22-328,SJS,,EDM,W,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+2,1993-04-08,3,22-330,SJS,@,LAK,L,1,0,1,1,0,1,0,0,0,,,,1,100.0,,,,,,,
+3,1993-04-10,4,22-332,SJS,,LAK,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+4,1993-04-15,5,22-337,SJS,@,CGY,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,

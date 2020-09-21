@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2006-04-01,1,24-038,CGY,@,EDM,W,0,0,0,-1,0,0,0,0,0,,,,1,0.0,11,8:01,,,,,
+1,2006-04-03,2,24-040,CGY,,DET,L-SO,0,0,0,0,0,0,0,0,0,,,,1,0.0,3,1:59,,,,,
+2,2006-12-23,1,24-304,CGY,@,SJS,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,15,9:38,,,,,
+3,2007-01-06,2,24-318,CGY,,DAL,W,0,0,0,0,0,0,0,0,0,,,,2,0.0,13,7:13,,,,,

@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2018-03-31,1,23-316,CGY,,EDM,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,17,12:45,2,1,0,0,
+1,2018-04-03,2,23-319,CGY,,ARI,L,0,0,0,0,0,0,0,0,0,0,0,0,7,0.0,20,17:26,3,1,1,0,100.0
+2,2018-04-05,3,23-321,CGY,@,WPG,L,1,0,1,0,0,1,0,0,0,0,0,0,6,16.7,17,16:17,0,0,0,0,
+3,2018-04-07,4,23-323,CGY,,VEG,W,1,0,1,1,0,1,0,0,0,0,0,0,2,50.0,19,16:57,1,1,0,0,

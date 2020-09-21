@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1991-12-31,1,32-032,BUF,,STL,W,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+1,1992-01-03,2,32-035,BUF,,NYI,W,0,0,0,0,0,0,0,0,0,,,,3,0.0,,,,,,,
+2,1992-01-04,3,32-036,BUF,@,BOS,L,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+3,1992-01-07,4,32-039,BUF,@,PHI,T,0,1,1,-1,0,0,0,0,0,,,,0,,,,,,,,
+4,1992-01-08,5,32-040,BUF,,QUE,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+5,1992-01-25,6,32-057,BUF,@,MTL,W,0,0,0,1,2,0,0,0,0,,,,0,,,,,,,,
+6,1992-01-26,7,32-058,BUF,,WIN,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+7,1992-01-29,8,32-061,BUF,@,DET,T,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,
+8,1992-02-01,9,32-064,BUF,@,BOS,T,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,

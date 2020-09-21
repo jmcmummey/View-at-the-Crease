@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2003-11-14,1,23-308,WSH,,TBL,L,,0,7,7,1.000,0,0,20:00
+1,2003-11-24,2,23-318,WSH,@,DET,W,W,1,39,38,.974,0,0,60:00
+2,2003-11-26,3,23-320,WSH,@,BUF,L,L,5,26,21,.808,0,0,57:51
+3,2003-11-28,4,23-322,WSH,,MTL,L,,0,0,0,,0,0,1:17
+4,2003-12-06,5,23-330,WSH,@,LAK,L,,1,6,5,.833,0,0,12:07
+5,2004-01-25,6,24-015,WSH,,PHI,L,L,4,22,18,.818,0,0,60:00

@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2008-03-31,1,21-325,ATL,@,TBL,W,0,0,0,0,0,0,0,0,0,,,,0,,13,11:02,4,0,0,0,
+1,2008-04-01,2,21-326,ATL,,FLA,L,1,1,2,2,0,1,0,0,0,,,,1,100.0,17,11:53,2,0,0,0,
+2,2009-02-19,1,22-284,ATL,@,PHX,L-SO,0,0,0,-1,0,0,0,0,0,,,,0,,11,6:55,1,0,0,0,
+3,2009-02-21,2,22-286,ATL,@,SJS,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,11,6:24,2,0,0,0,

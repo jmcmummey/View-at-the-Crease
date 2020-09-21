@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2006-11-26,1,21-124,ANA,,CGY,W,W,3,22,19,.864,0,0,60:00
+1,2006-12-26,2,21-154,ANA,@,SJS,W,W,0,4,4,1.000,0,0,23:36
+2,2006-12-29,3,21-157,ANA,@,CAR,L,L,3,26,23,.885,0,0,59:16
+3,2006-12-31,4,21-159,ANA,@,MIN,L,L,4,29,25,.862,0,0,58:50

@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2017-10-15,1,30-217,VEG,,BOS,W,1,0,1,2,0,1,0,0,1,0,0,0,1,100.0,15,10:26,1,0,5,1,83.3
+1,2017-10-17,2,30-219,VEG,,BUF,W,0,0,0,1,0,0,0,0,0,0,0,0,2,0.0,15,10:58,0,0,3,3,50.0
+2,2017-10-21,3,30-223,VEG,,STL,W,0,0,0,0,2,0,0,0,0,0,0,0,0,,12,10:22,0,0,4,5,44.4

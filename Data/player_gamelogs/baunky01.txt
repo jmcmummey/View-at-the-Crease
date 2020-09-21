@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2015-04-07,1,22-338,CHI,,MIN,L,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,17,13:36,5,0,0,0,
+1,2015-04-09,2,22-340,CHI,@,STL,L,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,16,10:53,6,0,0,0,
+2,2015-04-11,3,22-342,CHI,@,COL,L,0,0,0,-1,0,0,0,0,0,0,0,0,2,0.0,19,13:08,1,0,0,0,
+3,2015-10-07,1,23-156,CHI,,NYR,L,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,12,9:23,1,0,0,0,
+4,2015-10-15,2,23-164,CHI,@,WSH,L,0,0,0,-2,0,0,0,0,0,0,0,0,0,,12,8:43,2,0,0,0,

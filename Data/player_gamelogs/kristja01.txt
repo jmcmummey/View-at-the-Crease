@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2003-01-10,1,22-300,BUF,,BOS,W,0,0,0,-1,0,0,0,0,0,,,,2,0.0,20,15:53,,,,,
+1,2003-01-11,2,22-301,BUF,@,MTL,W,0,0,0,0,0,0,0,0,0,,,,0,,15,10:48,,,,,
+2,2003-01-14,3,22-304,BUF,@,MIN,W,0,0,0,0,0,0,0,0,0,,,,0,,15,12:25,,,,,
+3,2003-01-16,4,22-306,BUF,@,SJS,T,0,0,0,-1,2,0,0,0,0,,,,0,,14,9:59,,,,,
+4,2003-01-18,5,22-308,BUF,@,PHX,W,0,0,0,0,2,0,0,0,0,,,,0,,14,12:30,,,,,
+5,2003-01-21,6,22-311,BUF,,PIT,T,0,0,0,0,0,0,0,0,0,,,,2,0.0,10,8:07,,,,,

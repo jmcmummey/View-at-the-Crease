@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2002-04-09,1,22-364,NSH,@,STL,L,L,3,42,39,.929,0,2,58:58
+1,2002-04-11,2,23-001,NSH,,NYI,L,L,4,30,26,.867,0,0,59:40
+2,2002-04-14,3,23-004,NSH,@,PHX,L,L,6,32,26,.813,0,0,58:35
+3,2002-12-28,1,23-262,NSH,,DET,L,,1,12,11,.917,0,0,31:25
+4,2003-01-14,2,23-279,NSH,@,VAN,L,L,4,27,23,.852,0,0,58:57
+5,2003-01-16,3,23-281,NSH,@,CGY,T,,0,0,0,,0,0,0:02

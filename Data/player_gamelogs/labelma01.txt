@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1996-10-23,1,26-308,DAL,@,DET,L,0,0,0,0,7,0,0,0,0,,,,0,,,,,,,,
+1,1996-10-26,2,26-311,DAL,,OTT,W,0,0,0,-1,7,0,0,0,0,,,,0,,,,,,,,
+2,1996-10-30,3,26-315,DAL,,BUF,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+3,1996-11-01,4,26-317,DAL,,CHI,L,0,0,0,-1,5,0,0,0,0,,,,1,0.0,,,,,,,
+4,1996-11-03,5,26-319,DAL,@,STL,L,0,0,0,-1,5,0,0,0,0,,,,0,,,,,,,,
+5,1996-11-06,6,26-322,DAL,@,PHX,W,0,0,0,0,5,0,0,0,0,,,,0,,,,,,,,
+6,1996-11-22,7,26-338,DAL,,FLA,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+7,1996-11-29,8,26-345,DAL,@,TBL,W,0,0,0,0,17,0,0,0,0,,,,0,,,,,,,,
+8,1996-11-30,9,26-346,DAL,,TOR,W,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,

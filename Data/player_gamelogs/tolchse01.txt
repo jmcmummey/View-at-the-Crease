@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2016-03-31,1,21-057,CAR,,NYR,W,0,1,1,1,0,0,0,0,0,1,0,0,0,,17,10:53,1,0,0,0,
+1,2016-04-05,2,21-062,CAR,@,BOS,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,21,12:42,0,0,0,1,0.0
+2,2017-04-08,1,22-064,CAR,,STL,L-SO,0,1,1,0,0,0,0,0,0,1,0,0,1,0.0,13,9:08,0,0,0,0,
+3,2017-04-09,2,22-065,CAR,@,PHI,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,16,13:49,0,0,0,0,

@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1999-03-04,1,21-000,PHI,,OTT,L,L,5,29,24,.828,0,0,60:00
+1,2003-01-04,1,24-306,PHX,@,CBJ,L,L,2,25,23,.920,0,0,57:53
+2,2003-01-11,2,24-313,PHX,@,NSH,L-OT,L,4,23,19,.826,0,0,60:37
+3,2004-02-20,1,25-353,PHX,,CBJ,W,W,2,28,26,.929,0,0,60:00
+4,2004-02-21,2,25-354,PHX,,NSH,L,,3,15,12,.800,0,0,29:32
+5,2004-02-27,3,25-360,PHX,,EDM,L,,3,9,6,.667,0,0,26:21
+6,2004-02-29,4,25-362,PHX,@,CGY,L,L,4,32,28,.875,0,0,59:01

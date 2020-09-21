@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2012-02-26,1,25-344,PIT,,CBJ,W,W,2,24,22,.917,0,0,59:41
+1,2012-03-07,2,25-354,PIT,,TOR,W,W,2,24,22,.917,0,0,60:00
+2,2012-03-20,3,26-001,PIT,,WPG,W,W,4,30,26,.867,0,0,59:35
+3,2012-03-24,4,26-005,PIT,@,OTT,L,L,8,28,20,.714,0,0,60:00
+4,2012-03-27,5,26-008,PIT,,NYI,L,\,0,7,7,1.000,0,2,18:28

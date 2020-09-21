@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2010-01-16,1,19-226,PIT,@,VAN,L,,1,13,12,.923,0,0,35:31

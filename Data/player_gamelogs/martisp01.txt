@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2017-01-21,1,21-227,COL,@,SJS,L-OT,O,3,30,27,.900,0,0,61:18
+1,2017-01-23,2,21-229,COL,,SJS,L,L,5,26,21,.808,0,0,58:08
+2,2017-02-01,3,21-238,COL,@,LAK,L,L,5,40,35,.875,0,0,60:00

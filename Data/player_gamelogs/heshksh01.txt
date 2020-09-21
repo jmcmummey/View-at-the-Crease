@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2009-11-07,1,24-100,PHX,@,ANA,L,0,0,0,-1,2,0,0,0,0,,,,1,0.0,26,15:33,2,1,0,0,
+1,2009-11-12,2,24-105,PHX,,MTL,L,0,1,1,1,0,0,0,0,0,,,,0,,21,14:19,1,1,0,0,
+2,2009-11-14,3,24-107,PHX,,DAL,W,0,0,0,0,2,0,0,0,0,,,,0,,18,10:59,1,0,0,0,
+3,2009-11-16,4,24-109,PHX,,TBL,L,0,0,0,-1,0,0,0,0,0,,,,0,,18,15:29,1,2,0,0,
+4,2009-11-18,5,24-111,PHX,@,MIN,W,0,0,0,1,0,0,0,0,0,,,,1,0.0,18,11:28,1,1,0,0,
+5,2009-11-19,6,24-112,PHX,@,STL,L-OT,0,1,1,1,0,0,0,0,0,,,,0,,16,10:48,0,0,0,0,
+6,2009-11-21,7,24-114,PHX,,PHI,W,0,0,0,0,0,0,0,0,0,,,,0,,21,13:08,0,1,0,0,
+7,2009-11-23,8,24-116,PHX,@,EDM,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,20,14:47,0,1,0,0,

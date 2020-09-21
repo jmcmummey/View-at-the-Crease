@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2016-10-13,1,21-356,ANA,@,DAL,L,0,0,0,-1,0,0,0,0,0,0,0,0,0,,24,13:04,0,2,0,0,
+1,2016-10-15,2,21-358,ANA,@,PIT,L,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,15,9:35,1,0,1,0,100.0
+2,2016-10-16,3,21-359,ANA,@,NYI,L-OT,0,0,0,0,0,0,0,0,0,0,0,0,4,0.0,18,14:07,0,0,0,0,
+3,2016-10-18,4,21-361,ANA,@,NJD,L,0,0,0,0,2,0,0,0,0,0,0,0,1,0.0,15,10:43,0,1,0,0,
+4,2016-10-20,5,21-363,ANA,@,PHI,W,0,1,1,1,0,0,0,0,0,1,0,0,1,0.0,10,6:58,1,0,0,0,

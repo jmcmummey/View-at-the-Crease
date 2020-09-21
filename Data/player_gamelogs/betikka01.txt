@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1999-02-15,1,20-110,TBL,@,NYI,T,0,2,2,1,0,0,0,0,0,,,,0,,20,12:48,,,,,
+1,1999-02-17,2,20-112,TBL,@,NJD,L,0,0,0,-3,0,0,0,0,0,,,,1,0.0,18,15:20,,,,,
+2,1999-02-19,3,20-114,TBL,,PHX,W,0,0,0,-1,2,0,0,0,0,,,,1,0.0,15,12:17,,,,,

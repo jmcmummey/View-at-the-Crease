@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2014-01-24,1,25-352,NJD,,WSH,W,0,0,0,0,0,0,0,0,0,,,,0,,11,8:00,1,0,0,1,0.0
+1,2014-12-29,1,26-326,NJD,,PIT,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,8,5:17,1,0,0,0,
+2,2014-12-31,2,26-328,NJD,@,DET,L,1,0,1,0,0,1,0,0,0,0,0,0,1,100.0,11,7:44,1,0,0,0,
+3,2015-01-14,3,26-342,NJD,@,LAK,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,11,6:57,2,0,0,0,
+4,2015-01-16,4,26-344,NJD,@,ANA,L,0,0,0,-1,0,0,0,0,0,0,0,0,0,,12,7:32,1,0,0,0,

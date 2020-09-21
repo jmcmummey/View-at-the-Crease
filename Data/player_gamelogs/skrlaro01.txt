@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2003-12-13,1,27-186,NJD,@,PHI,W,0,0,0,0,0,0,0,0,0,,,,0,,1,0:23,,,,,
+1,2003-12-18,2,27-191,NJD,@,ATL,W,1,0,1,1,0,1,0,0,1,,,,1,100.0,1,0:46,,,,,
+2,2004-01-09,3,27-213,NJD,,TBL,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,5,3:19,,,,,
+3,2004-01-10,4,27-214,NJD,@,TOR,W,0,0,0,0,5,0,0,0,0,,,,1,0.0,8,4:28,,,,,
+4,2004-01-15,5,27-219,NJD,@,NYR,T,0,0,0,0,0,0,0,0,0,,,,0,,4,2:19,,,,,
+5,2004-01-17,6,27-221,NJD,,WSH,W,0,0,0,0,5,0,0,0,0,,,,0,,4,2:30,,,,,
+6,2004-01-21,7,27-225,NJD,,CAR,L,0,0,0,0,5,0,0,0,0,,,,0,,6,3:30,,,,,
+7,2004-01-25,8,27-229,NJD,,ATL,W,0,0,0,0,7,0,0,0,0,,,,0,,3,0:46,,,,,

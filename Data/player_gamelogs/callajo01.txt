@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1992-11-23,1,31-214,TBL,@,DET,L,0,0,0,-2,0,0,0,0,0,,,,0,,,,,,,,
+1,1992-11-24,2,31-215,TBL,@,TOR,W,0,1,1,1,2,0,0,0,0,,,,1,0.0,,,,,,,
+2,1992-11-27,3,31-218,TBL,@,CGY,L,0,0,0,-1,0,0,0,0,0,,,,3,0.0,,,,,,,
+3,1992-11-28,4,31-219,TBL,@,EDM,L,1,0,1,1,0,1,0,0,0,,,,3,33.3,,,,,,,
+4,1992-12-07,5,31-228,TBL,,NYI,L,0,0,0,-2,0,0,0,0,0,,,,3,0.0,,,,,,,
+5,1992-12-09,6,31-230,TBL,vs.,NYR,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,
+6,1992-12-11,7,31-232,TBL,,NYR,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+7,1992-12-12,8,31-233,TBL,,EDM,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,

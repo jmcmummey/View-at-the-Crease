@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1999-10-15,1,26-087,DAL,,BOS,T,0,0,0,0,0,0,0,0,0,,,,1,0.0,11,7:17,,,,,
+1,1999-10-30,2,26-102,DAL,,TBL,L,0,0,0,0,0,0,0,0,0,,,,2,0.0,18,9:44,,,,,
+2,1999-11-03,3,26-106,DAL,,BUF,L,0,0,0,0,0,0,0,0,0,,,,2,0.0,19,13:01,,,,,
+3,1999-11-09,4,26-112,DAL,@,STL,W,0,0,0,1,0,0,0,0,0,,,,1,0.0,20,14:19,,,,,

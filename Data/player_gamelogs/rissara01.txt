@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2015-03-06,1,23-236,CAR,,MIN,L,0,0,0,-2,0,0,0,0,0,0,0,0,1,0.0,21,16:01,8,0,0,0,
+1,2015-03-08,2,23-238,CAR,,EDM,W,0,0,0,-1,2,0,0,0,0,0,0,0,2,0.0,25,17:52,5,1,0,0,
+2,2015-03-10,3,23-240,CAR,,CBJ,L-SO,0,0,0,0,0,0,0,0,0,0,0,0,0,,38,22:26,3,2,0,0,
+3,2015-03-12,4,23-242,CAR,,DAL,L,0,0,0,-2,2,0,0,0,0,0,0,0,0,,23,15:44,4,1,0,0,
+4,2015-03-14,5,23-244,CAR,,FLA,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,20,12:53,3,2,0,0,
+5,2015-03-15,6,23-245,CAR,@,CBJ,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,8,4:56,2,1,0,0,

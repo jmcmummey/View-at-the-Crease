@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2014-04-11,1,21-254,TBL,,CBJ,W,W,2,38,36,.947,0,0,59:47
+1,2015-10-24,1,23-085,TBL,@,CHI,L-OT,O,1,32,31,.969,0,0,59:57
+2,2016-12-23,1,24-145,TBL,@,WSH,L,,0,3,3,1.000,0,0,11:27

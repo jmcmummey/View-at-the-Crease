@@ -1,0 +1,10 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1991-01-13,1,23-173,NYR,,HAR,W,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+1,1991-01-15,2,23-175,NYR,,EDM,T,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+2,1991-01-17,3,23-177,NYR,,CHI,L,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+3,1991-01-25,4,23-185,NYR,@,EDM,W,0,0,0,1,0,0,0,0,0,,,,0,,,,,,,,
+4,1991-01-30,5,23-190,NYR,@,CGY,L,0,0,0,-1,2,0,0,0,0,,,,0,,,,,,,,
+5,1991-01-31,6,23-191,NYR,@,VAN,T,0,0,0,-1,4,0,0,0,0,,,,1,0.0,,,,,,,
+6,1991-10-16,1,24-084,NYR,,NJD,W,0,1,1,1,0,0,0,0,0,,,,1,0.0,,,,,,,
+7,1991-10-19,2,24-087,NYR,@,PIT,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+8,1991-11-16,3,24-115,NYR,@,NYI,L,0,0,0,-1,2,0,0,0,0,,,,1,0.0,,,,,,,

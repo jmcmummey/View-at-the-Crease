@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1997-10-25,1,24-287,WSH,@,STL,L,0,0,0,1,0,0,0,0,0,,,,1,0.0,15,11:59,,,,,
+1,1997-10-29,2,24-291,WSH,,DAL,L,0,0,0,-1,0,0,0,0,0,,,,0,,10,9:23,,,,,
+2,1997-11-01,3,24-294,WSH,@,NJD,L,0,0,0,0,0,0,0,0,0,,,,0,,6,4:40,,,,,

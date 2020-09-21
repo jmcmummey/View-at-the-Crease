@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2017-10-21,1,23-235,VEG,,STL,W,W,1,11,10,.909,0,0,13:46
+1,2017-10-24,2,23-238,VEG,,CHI,W,W,2,31,29,.935,0,0,60:00
+2,2017-10-27,3,23-241,VEG,,COL,W,W,0,32,32,1.000,1,0,60:00
+3,2017-10-30,4,23-244,VEG,@,NYI,L,,2,19,17,.895,0,0,34:50
+4,2019-10-21,1,25-235,VEG,@,PHI,L,L,6,37,31,.838,0,0,60:00

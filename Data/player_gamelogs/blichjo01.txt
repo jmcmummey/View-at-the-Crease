@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2019-12-12,1,21-148,SJS,,NYR,L,0,0,0,-1,0,0,0,0,0,0,0,0,0,,17,11:14,2,2,0,0,
+1,2019-12-14,2,21-150,SJS,,VAN,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,13,10:55,1,0,0,0,
+2,2020-01-18,3,21-185,SJS,@,VAN,L,0,0,0,-1,2,0,0,0,0,0,0,0,2,0.0,21,16:10,0,2,0,0,

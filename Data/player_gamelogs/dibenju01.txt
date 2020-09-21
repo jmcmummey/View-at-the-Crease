@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2011-03-01,1,22-188,NYI,@,WSH,L-OT,0,0,0,0,0,0,0,0,0,,,,1,0.0,17,12:46,2,0,0,0,
+1,2011-03-02,2,22-189,NYI,,MIN,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,14,9:23,1,0,0,0,
+2,2011-03-05,3,22-192,NYI,,STL,W,0,0,0,1,0,0,0,0,0,,,,1,0.0,13,11:24,3,2,0,0,
+3,2011-03-06,4,22-193,NYI,,NJD,L-SO,0,0,0,-1,0,0,0,0,0,,,,1,0.0,11,6:39,1,0,0,0,
+4,2011-03-08,5,22-195,NYI,,TOR,W,0,1,1,-1,0,0,0,0,0,,,,1,0.0,11,6:33,3,0,0,0,
+5,2011-03-11,6,22-198,NYI,,BOS,W,0,0,0,0,2,0,0,0,0,,,,0,,13,7:06,0,0,0,0,
+6,2011-03-12,7,22-199,NYI,@,NJD,L-OT,0,0,0,0,0,0,0,0,0,,,,0,,11,7:13,0,0,0,0,
+7,2011-03-15,8,22-202,NYI,@,NYR,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,14,11:27,3,1,0,0,

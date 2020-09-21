@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2020-02-04,1,21-239,NYI,,DAL,W,0,1,1,1,0,0,0,0,0,1,0,0,1,0.0,13,9:10,1,1,0,0,
+1,2020-02-06,2,21-241,NYI,,LAK,W,2,0,2,3,0,2,0,0,1,0,0,0,4,50.0,17,11:16,1,1,0,0,
+2,2020-02-08,3,21-243,NYI,@,TBL,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,15,11:45,5,0,0,0,
+3,2020-02-11,4,21-246,NYI,,PHI,W,0,0,0,0,0,0,0,0,0,0,0,0,3,0.0,13,11:28,1,2,0,0,
+4,2020-02-13,5,21-248,NYI,@,NSH,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,15,12:15,1,0,0,0,
+5,2020-02-17,6,21-252,NYI,@,ARI,L,0,0,0,-1,0,0,0,0,0,0,0,0,0,,11,8:11,0,0,0,0,
+6,2020-02-19,7,21-254,NYI,@,COL,L,0,0,0,0,2,0,0,0,0,0,0,0,1,0.0,13,8:23,1,0,0,0,
+7,2020-02-23,8,21-258,NYI,,SJS,W,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,16,12:44,2,0,0,0,

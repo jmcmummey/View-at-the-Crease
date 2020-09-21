@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1999-03-27,1,23-199,CGY,@,PHX,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,11,8:47,,,,,
+1,1999-03-28,2,23-200,CGY,@,MDA,L,0,0,0,-2,0,0,0,0,0,,,,4,0.0,26,22:38,,,,,
+2,2000-03-25,1,24-198,CGY,@,NSH,W,0,0,0,0,0,0,0,0,0,,,,0,,6,3:40,,,,,

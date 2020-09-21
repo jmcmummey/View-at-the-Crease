@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1997-02-11,1,20-351,BOS,@,CGY,L,,2,13,11,.846,0,0,37:12
+1,1997-03-29,2,21-031,BOS,@,NYI,L,,4,12,8,.667,0,0,40:00
+2,1997-04-08,3,21-041,BOS,@,PIT,L,,0,0,0,,0,0,0:16

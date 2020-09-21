@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1990-10-23,1,23-090,NYI,,NJD,L,,1,13,12,.923,0,0,20:00
+1,1990-10-24,2,23-091,NYI,@,MTL,L,,5,22,17,.773,0,2,20:00
+2,1990-10-27,3,23-094,NYI,,PHI,W,W,2,26,24,.923,0,0,60:00
+3,1990-10-28,4,23-095,NYI,@,PIT,L,L,7,33,26,.788,0,0,40:00

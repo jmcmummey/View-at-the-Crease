@@ -1,0 +1,11 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1991-02-02,1,20-217,PHI,,HAR,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,1991-02-21,2,20-236,PHI,,NYR,T,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+2,1994-03-19,1,23-262,WIN,,DET,W,0,0,0,0,2,0,0,0,0,,,,1,0.0,,,,,,,
+3,1994-03-23,2,23-266,WIN,,MTL,W,0,0,0,1,0,0,0,0,0,,,,2,0.0,,,,,,,
+4,1994-03-25,3,23-268,WIN,,SJS,L,0,0,0,-2,0,0,0,0,0,,,,2,0.0,,,,,,,
+5,1994-03-27,4,23-270,WIN,,NYR,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+6,1997-02-25,1,26-240,FLA,,SJS,T,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+7,1997-02-27,2,26-242,FLA,,STL,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+8,1997-03-05,3,26-248,FLA,,PHX,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+9,1997-03-07,4,26-250,FLA,,CGY,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,

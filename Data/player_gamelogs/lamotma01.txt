@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1999-11-27,1,25-273,CHI,@,STL,L,L,7,25,18,.720,0,0,56:11
+1,1999-12-04,2,25-280,CHI,@,BOS,W,W,3,25,22,.880,0,0,60:00
+2,2004-02-23,1,29-361,DET,@,EDM,T,T,1,30,29,.967,0,0,64:34
+3,2004-04-01,2,30-034,DET,@,STL,W,W,2,28,26,.929,0,0,60:00

@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2010-03-30,1,22-121,CBJ,,TBL,W,0,0,0,0,0,0,0,0,0,,,,0,,7,5:07,3,0,0,0,
+1,2010-04-01,2,22-123,CBJ,@,DET,L,0,0,0,0,0,0,0,0,0,,,,0,,11,5:57,2,0,0,0,
+2,2010-04-03,3,22-125,CBJ,,WSH,L,0,0,0,0,2,0,0,0,0,,,,0,,6,4:05,0,0,0,0,
+3,2010-04-05,4,22-127,CBJ,@,STL,L-OT,0,0,0,0,0,0,0,0,0,,,,1,0.0,15,10:51,1,1,0,0,
+4,2010-04-07,5,22-129,CBJ,@,DET,L,0,2,2,2,0,0,0,0,0,,,,1,0.0,22,13:59,3,0,0,0,
+5,2010-04-09,6,22-131,CBJ,,DET,L-SO,0,0,0,0,0,0,0,0,0,,,,2,0.0,17,12:06,2,0,0,0,

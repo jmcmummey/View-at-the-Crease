@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2009-11-25,1,25-323,OTT,@,NJD,L,0,0,0,0,0,0,0,0,0,,,,2,0.0,11,8:03,0,0,0,0,
+1,2009-11-26,2,25-324,OTT,,CBJ,W,0,0,0,0,0,0,0,0,0,,,,0,,6,4:56,1,1,0,0,
+2,2009-12-01,3,25-329,OTT,@,SJS,L,0,0,0,0,0,0,0,0,0,,,,0,,9,5:28,1,0,0,0,
+3,2009-12-03,4,25-331,OTT,@,LAK,L,0,0,0,-1,0,0,0,0,0,,,,2,0.0,9,6:08,1,0,0,0,
+4,2009-12-26,5,25-354,OTT,@,BUF,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,8,5:50,0,0,0,0,
+5,2009-12-28,6,25-356,OTT,,MTL,W,0,0,0,0,0,0,0,0,0,,,,0,,9,6:51,0,0,0,0,

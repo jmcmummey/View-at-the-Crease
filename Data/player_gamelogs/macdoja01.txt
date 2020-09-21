@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2003-12-12,1,29-255,NYR,@,BUF,W,0,0,0,0,0,0,0,0,0,,,,2,0.0,16,11:26,,,,,
+1,2003-12-13,2,29-256,NYR,@,TOR,L,0,0,0,-1,19,0,0,0,0,,,,0,,7,3:28,,,,,
+2,2003-12-18,3,29-261,NYR,,NYI,W,0,0,0,0,0,0,0,0,0,,,,0,,12,7:45,,,,,
+3,2004-02-14,4,29-319,NYR,@,PHI,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,14,10:06,,,,,

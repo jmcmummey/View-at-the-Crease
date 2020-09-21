@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1995-04-02,1,23-038,DAL,@,CHI,W,W,1,30,29,.967,0,0,60:00
+1,1995-04-19,2,23-055,DAL,,SJS,T,T,3,16,13,.813,0,0,51:39
+2,1995-04-22,3,23-058,DAL,,TOR,W,W,1,27,26,.963,0,0,47:47
+3,1995-04-23,4,23-059,DAL,,WIN,W,W,2,42,40,.952,0,0,60:00
+4,1995-04-25,5,23-061,DAL,,STL,L,L,6,26,20,.769,0,0,47:29
+5,1995-04-27,6,23-063,DAL,@,CHI,L,L,5,31,26,.839,0,0,60:00

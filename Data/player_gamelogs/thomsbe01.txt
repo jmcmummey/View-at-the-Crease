@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2017-04-04,1,24-078,NJD,,PHI,W,0,0,0,0,2,0,0,0,0,0,0,0,2,0.0,15,9:31,2,0,0,0,
+1,2017-04-06,2,24-080,NJD,,PIT,L,0,0,0,-3,2,0,0,0,0,0,0,0,2,0.0,18,10:50,3,1,0,0,
+2,2017-04-09,3,24-083,NJD,@,DET,L,0,0,0,-1,0,0,0,0,0,0,0,0,3,0.0,14,12:19,2,0,0,1,0.0

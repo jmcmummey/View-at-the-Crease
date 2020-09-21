@@ -1,0 +1,11 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1990-10-17,1,25-286,HAR,@,TOR,W,0,0,0,0,2,0,0,0,0,,,,2,0.0,,,,,,,
+1,1990-10-24,2,25-293,HAR,@,MNS,L,0,0,0,-1,2,0,0,0,0,,,,2,0.0,,,,,,,
+2,1990-10-27,3,25-296,HAR,,VAN,L,0,1,1,0,4,0,0,0,0,,,,2,0.0,,,,,,,
+3,1990-10-28,4,25-297,HAR,@,BUF,L,0,0,0,0,2,0,0,0,0,,,,3,0.0,,,,,,,
+4,1990-11-06,5,25-306,HAR,,CHI,T,0,0,0,1,2,0,0,0,0,,,,2,0.0,,,,,,,
+5,1990-11-09,6,25-309,HAR,@,WIN,L,0,0,0,-1,2,0,0,0,0,,,,0,,,,,,,,
+6,1991-02-20,7,26-047,HAR,,MTL,W,0,0,0,-1,0,0,0,0,0,,,,2,0.0,,,,,,,
+7,1991-02-24,8,26-051,HAR,@,BUF,T,0,1,1,-1,0,0,0,0,0,,,,2,0.0,,,,,,,
+8,1991-02-26,9,26-053,HAR,@,WIN,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+9,1992-02-25,1,27-052,HAR,,STL,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,,,,,,,

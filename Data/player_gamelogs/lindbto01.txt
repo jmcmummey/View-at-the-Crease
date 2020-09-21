@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2016-03-31,1,20-253,TOR,@,BUF,L,0,1,1,0,0,0,0,0,0,1,0,0,0,,26,18:38,2,0,0,1,0.0
+1,2016-04-02,2,20-255,TOR,,DET,L,0,0,0,-1,0,0,0,0,0,0,0,0,4,0.0,21,14:58,1,0,0,0,
+2,2016-04-04,3,20-257,TOR,,FLA,L,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,20,14:30,3,0,0,2,0.0
+3,2016-04-06,4,20-259,TOR,,CBJ,L,0,0,0,0,0,0,0,0,0,0,0,0,5,0.0,22,17:51,1,1,0,0,
+4,2016-04-07,5,20-260,TOR,@,PHI,W,0,1,1,2,4,0,0,0,0,1,0,0,0,,21,14:44,2,0,0,0,
+5,2016-04-09,6,20-262,TOR,@,NJD,L,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,19,14:21,1,0,0,0,

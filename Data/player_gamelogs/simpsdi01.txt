@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2016-12-08,1,23-302,EDM,@,PHI,L,0,0,0,1,0,0,0,0,0,0,0,0,0,,14,7:47,1,1,0,0,
+1,2016-12-09,2,23-303,EDM,@,MIN,L-SO,0,0,0,-1,0,0,0,0,0,0,0,0,0,,15,11:02,1,0,0,0,
+2,2016-12-11,3,23-305,EDM,,WPG,W,0,0,0,0,2,0,0,0,0,0,0,0,2,0.0,21,13:50,1,1,0,0,

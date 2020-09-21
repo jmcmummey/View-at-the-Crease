@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2005-11-08,1,25-168,TBL,@,MTL,L,L,3,19,16,.842,0,0,58:13

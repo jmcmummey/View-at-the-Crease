@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2003-11-22,1,20-167,FLA,@,WSH,W,0,0,0,0,0,0,0,0,0,,,,0,,3,2:13,,,,,
+1,2003-11-24,2,20-169,FLA,,BUF,W,0,0,0,0,0,0,0,0,0,,,,0,,5,4:32,,,,,
+2,2003-11-26,3,20-171,FLA,,NYR,T,0,0,0,0,5,0,0,0,0,,,,0,,2,1:24,,,,,

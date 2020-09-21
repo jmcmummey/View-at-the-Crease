@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1991-11-05,1,26-037,BOS,@,PIT,T,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,1991-11-07,2,26-039,BOS,,CGY,T,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+2,1991-11-09,3,26-041,BOS,,NJD,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,,,,,,,
+3,1991-11-14,4,26-046,BOS,,QUE,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,

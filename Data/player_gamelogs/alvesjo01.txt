@@ -1,0 +1,2 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2016-12-31,1,37-336,CAR,@,TBL,L,,0,0,0,,0,0,0:08

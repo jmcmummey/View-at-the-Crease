@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2020-02-22,1,24-208,VEG,,FLA,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,15,9:09,0,0,1,4,20.0
+1,2020-02-23,2,24-209,VEG,@,ANA,W,0,1,1,0,0,0,0,0,0,1,0,0,1,0.0,14,8:23,1,0,4,2,66.7
+2,2020-02-28,3,24-214,VEG,,BUF,W,0,0,0,-1,0,0,0,0,0,0,0,0,0,,13,11:36,1,0,3,3,50.0

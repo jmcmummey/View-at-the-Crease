@@ -1,0 +1,7 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2017-01-17,1,21-010,CAR,@,CBJ,L,,0,17,17,1.000,0,2,29:57
+1,2019-01-23,1,23-016,CAR,@,VAN,W,W,2,26,24,.923,0,0,60:00
+2,2020-02-25,1,24-049,CAR,,DAL,L,L,4,16,12,.750,0,0,59:52
+3,2020-02-29,2,24-053,CAR,@,MTL,L-OT,O,1,19,18,.947,0,0,36:27
+4,2020-03-05,3,24-058,CAR,@,PHI,L,L,4,32,28,.875,0,0,60:00
+5,2020-03-08,4,24-061,CAR,@,PIT,W,W,2,30,28,.933,0,0,60:00

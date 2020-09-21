@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2005-11-29,1,27-022,PHI,@,NYI,W,0,0,0,0,0,0,0,0,0,,,,0,,5,2:52,,,,,
+1,2006-02-08,2,27-093,PHI,,NYI,W,0,1,1,1,0,0,0,0,0,,,,1,0.0,15,11:56,,,,,
+2,2006-02-10,3,27-095,PHI,,WSH,W,0,0,0,0,0,0,0,0,0,,,,2,0.0,19,11:40,,,,,
+3,2006-02-11,4,27-096,PHI,@,OTT,L,0,0,0,-1,0,0,0,0,0,,,,3,0.0,19,12:53,,,,,
+4,2006-03-01,5,27-114,PHI,@,NJD,L-SO,0,0,0,0,0,0,0,0,0,,,,3,0.0,11,7:11,,,,,
+5,2006-03-02,6,27-115,PHI,,NYR,L,0,0,0,0,0,0,0,0,0,,,,0,,10,4:46,,,,,
+6,2006-03-04,7,27-117,PHI,@,NYI,L,0,0,0,0,0,0,0,0,0,,,,0,,10,5:41,,,,,

@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2016-03-08,1,22-044,WPG,,NSH,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,13,9:25,3,0,0,0,
+1,2016-03-10,2,22-046,WPG,@,DET,L,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,17,12:58,0,0,0,0,
+2,2016-03-12,3,22-048,WPG,,COL,W,0,1,1,1,2,0,0,0,0,1,0,0,3,0.0,20,13:32,1,0,0,0,
+3,2016-03-14,4,22-050,WPG,@,VAN,W,0,1,1,0,0,0,0,0,0,1,0,0,0,,19,13:49,0,,,,
+4,2016-03-16,5,22-052,WPG,@,CGY,L,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,19,12:10,1,2,0,0,
+5,2016-03-18,6,22-054,WPG,,CHI,L,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,16,11:55,2,0,0,0,
+6,2016-03-20,7,22-056,WPG,,ANA,L-OT,0,1,1,1,0,0,0,0,0,1,0,0,1,0.0,12,8:43,0,0,0,0,
+7,2016-03-22,8,22-058,WPG,,VAN,W,0,0,0,0,0,0,0,0,0,0,0,0,0,,12,9:44,0,0,0,0,

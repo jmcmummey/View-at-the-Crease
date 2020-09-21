@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1995-04-10,1,20-246,PIT,@,OTT,W,W,3,27,24,.889,0,0,60:00
+1,1997-01-29,1,22-175,PIT,@,BUF,L,L,2,38,36,.947,0,0,59:24
+2,1997-03-26,2,22-231,PIT,@,MTL,L,L,4,28,24,.857,0,0,51:44

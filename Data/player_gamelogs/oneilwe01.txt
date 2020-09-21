@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2009-03-27,1,23-024,COL,,VAN,L,0,0,0,0,2,0,0,0,0,,,,1,0.0,17,10:33,0,0,0,0,
+1,2009-03-29,2,23-026,COL,@,ANA,L,0,0,0,0,0,0,0,0,0,,,,0,,21,12:47,3,1,0,0,
+2,2009-04-01,3,23-029,COL,,PHX,L,0,0,0,-2,2,0,0,0,0,,,,0,,16,9:15,2,2,0,0,
+3,2010-01-22,1,23-325,COL,,NSH,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,16,9:21,0,2,0,0,
+4,2010-01-24,2,23-327,COL,,DAL,W,0,0,0,1,2,0,0,0,0,,,,0,,16,10:05,1,0,0,0,

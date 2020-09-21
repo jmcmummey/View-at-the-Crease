@@ -1,0 +1,3 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2001-03-21,1,23-356,MDA,@,DAL,L,,2,6,4,.667,0,0,10:06
+1,2001-04-06,2,24-007,MDA,,PHX,L,L,5,23,18,.783,0,2,60:00

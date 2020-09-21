@@ -1,0 +1,3 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2007-10-31,1,25-232,NJD,,TBL,W,0,0,0,2,0,0,0,0,0,,,,0,,19,10:05,0,,,,
+1,2007-11-02,2,25-234,NJD,,TOR,W,0,0,0,0,0,0,0,0,0,,,,0,,11,7:31,1,1,0,0,

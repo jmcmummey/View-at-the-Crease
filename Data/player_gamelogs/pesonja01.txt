@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2008-11-01,1,26-174,PIT,@,STL,W,0,0,0,-1,0,0,0,0,0,,,,0,,14,9:52,1,0,0,0,
+1,2008-11-28,2,26-201,PIT,@,BUF,L,0,0,0,0,0,0,0,0,0,,,,0,,10,6:02,0,0,0,0,
+2,2008-11-29,3,26-202,PIT,,NJD,W,0,0,0,-1,0,0,0,0,0,,,,0,,12,7:16,2,0,0,0,
+3,2008-12-04,4,26-207,PIT,@,CAR,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,8,5:54,0,1,0,1,0.0
+4,2008-12-06,5,26-209,PIT,@,OTT,L,0,0,0,0,0,0,0,0,0,,,,0,,9,5:48,0,0,0,2,0.0
+5,2008-12-08,6,26-211,PIT,,BUF,L,0,0,0,-1,0,0,0,0,0,,,,1,0.0,6,2:55,0,0,0,0,
+6,2009-01-16,7,26-250,PIT,,ANA,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,15,14:24,0,0,0,0,

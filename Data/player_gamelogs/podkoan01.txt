@@ -1,0 +1,9 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2001-03-14,1,22-309,FLA,,EDM,T,0,0,0,0,0,0,0,0,0,,,,1,0.0,7,3:21,,,,,
+1,2001-03-16,2,22-311,FLA,,PIT,L,0,0,0,0,0,0,0,0,0,,,,0,,8,4:54,,,,,
+2,2001-03-17,3,22-312,FLA,,TOR,L,0,0,0,-1,2,0,0,0,0,,,,1,0.0,9,6:54,,,,,
+3,2001-03-20,4,22-315,FLA,@,MTL,T,1,0,1,1,0,1,0,0,0,,,,1,100.0,6,4:32,,,,,
+4,2001-03-21,5,22-316,FLA,@,TOR,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,15,10:50,,,,,
+5,2001-03-23,6,22-318,FLA,,WSH,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,10,5:55,,,,,
+6,2004-03-18,1,25-314,WSH,,NYR,W,0,0,0,-1,0,0,0,0,0,,,,0,,5,4:24,,,,,
+7,2004-03-20,2,25-316,WSH,,ATL,T,0,0,0,0,0,0,0,0,0,,,,1,0.0,4,2:44,,,,,

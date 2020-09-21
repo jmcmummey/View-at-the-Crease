@@ -1,0 +1,8 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2006-01-03,1,22-328,MTL,,PIT,L,1,0,1,1,0,1,0,0,0,,,,4,25.0,12,9:12,,,,,
+1,2006-01-05,2,22-330,MTL,@,NJD,L,0,0,0,0,0,0,0,0,0,,,,1,0.0,10,7:12,,,,,
+2,2006-01-07,3,22-332,MTL,,OTT,W,0,0,0,-1,0,0,0,0,0,,,,0,,6,3:28,,,,,
+3,2006-01-14,4,22-339,MTL,,SJS,W,0,0,0,0,0,0,0,0,0,,,,0,,9,7:48,,,,,
+4,2006-01-16,5,22-341,MTL,,DAL,W,0,0,0,0,0,0,0,0,0,,,,1,0.0,10,6:52,,,,,
+5,2006-01-19,6,22-344,MTL,@,CGY,L,0,0,0,0,0,0,0,0,0,,,,0,,6,4:23,,,,,
+6,2006-01-21,7,22-346,MTL,@,VAN,L,0,0,0,-2,2,0,0,0,0,,,,3,0.0,12,7:24,,,,,

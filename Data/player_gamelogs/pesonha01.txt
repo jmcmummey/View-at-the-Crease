@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2013-03-16,1,24-222,NJD,,MTL,L,0,0,0,0,0,0,0,0,0,,,,0,,13,8:32,1,0,0,0,
+1,2013-03-19,2,24-225,NJD,,NYR,L,0,0,0,0,0,0,0,0,0,,,,0,,14,10:46,1,0,0,0,
+2,2013-03-21,3,24-227,NJD,@,CAR,W,0,0,0,0,2,0,0,0,0,,,,2,0.0,12,8:21,1,0,0,0,
+3,2013-03-25,4,24-231,NJD,@,OTT,L-SO,0,0,0,-1,0,0,0,0,0,,,,1,0.0,15,9:05,1,0,0,0,

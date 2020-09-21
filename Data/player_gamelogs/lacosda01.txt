@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,2008-03-25,1,21-363,CBJ,@,NSH,L,,0,5,5,1.000,0,0,13:09
+1,2008-10-18,1,22-204,CBJ,@,NSH,L,,2,19,17,.895,0,0,34:34
+2,2009-02-07,2,22-316,CBJ,,SJS,W,W,2,30,28,.933,0,0,61:33
+3,2009-02-10,3,22-319,CBJ,,COL,W,W,0,31,31,1.000,1,0,59:34

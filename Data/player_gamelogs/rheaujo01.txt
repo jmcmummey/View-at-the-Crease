@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,2013-03-05,1,26-216,FLA,,WPG,W,0,0,0,1,0,0,0,0,0,,,,1,0.0,21,14:34,3,0,0,0,
+1,2013-03-07,2,26-218,FLA,@,WSH,L,0,0,0,1,0,0,0,0,0,,,,1,0.0,18,13:56,3,1,0,1,0.0
+2,2013-03-08,3,26-219,FLA,,WPG,L-OT,0,0,0,0,0,0,0,0,0,,,,2,0.0,11,8:17,1,1,0,0,
+3,2013-03-14,4,26-225,FLA,@,BOS,L,0,0,0,-2,0,0,0,0,0,,,,1,0.0,13,8:38,4,1,0,0,
+4,2013-03-16,5,26-227,FLA,,NYI,L,0,0,0,0,0,0,0,0,0,,,,0,,10,7:26,1,1,0,0,

@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1990-10-20,1,29-180,DET,@,QUE,L,L,5,18,13,.722,0,0,34:28
+1,1990-11-08,2,29-199,DET,@,LAK,L,,1,6,5,.833,0,0,13:06
+2,1991-01-30,3,29-282,DET,@,MNS,L,L,5,31,26,.839,0,0,60:00

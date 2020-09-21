@@ -1,0 +1,5 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1998-12-23,1,21-202,DET,@,NSH,L,0,0,0,0,0,0,0,0,0,,,,3,0.0,6,4:29,,,,,
+1,1999-01-09,2,21-219,DET,,COL,W,0,0,0,0,0,0,0,0,0,,,,0,,3,2:14,,,,,
+2,1999-01-10,3,21-220,DET,@,OTT,L,0,0,0,-1,0,0,0,0,0,,,,0,,12,7:57,,,,,
+3,1999-01-19,4,21-229,DET,@,CGY,L,0,0,0,-1,0,0,0,0,0,,,,0,,5,2:34,,,,,

@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1999-01-02,1,20-159,CGY,@,BUF,L,,2,13,11,.846,0,0,20:00
+1,1999-01-04,2,20-161,CGY,@,BOS,L,L,5,36,31,.861,0,0,59:03
+2,1999-01-05,3,20-162,CGY,@,PIT,L,L,5,25,20,.800,0,0,60:00

@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1993-10-29,1,26-227,EDM,,BUF,L,0,0,0,-1,0,0,0,0,0,,,,2,0.0,,,,,,,
+1,1993-10-30,2,26-228,EDM,@,CGY,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,
+2,1993-11-03,3,26-232,EDM,,OTT,L,0,0,0,-2,2,0,0,0,0,,,,0,,,,,,,,
+3,1993-11-06,4,26-235,EDM,@,STL,L,0,0,0,-3,0,0,0,0,0,,,,2,0.0,,,,,,,
+4,1993-11-11,5,26-240,EDM,@,BOS,L,0,0,0,-1,0,0,0,0,0,,,,0,,,,,,,,

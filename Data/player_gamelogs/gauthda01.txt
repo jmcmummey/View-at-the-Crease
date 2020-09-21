@@ -1,0 +1,6 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,goals,assists,points,plus_minus,pen_min,goals_ev,goals_pp,goals_sh,goals_gw,assists_ev,assists_pp,assists_sh,shots,shot_pct,shifts,time_on_ice,hits_all,blocks_all,faceoff_wins_all,faceoff_losses_all,faceoff_percentage_all
+0,1995-03-03,1,24-290,CHI,@,EDM,W,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+1,1995-03-05,2,24-292,CHI,,MDA,W,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+2,1995-03-07,3,24-294,CHI,,CGY,L,0,0,0,0,0,0,0,0,0,,,,2,0.0,,,,,,,
+3,1995-03-09,4,24-296,CHI,,LAK,L,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
+4,1995-03-11,5,24-298,CHI,@,TOR,T,0,0,0,0,0,0,0,0,0,,,,0,,,,,,,,
