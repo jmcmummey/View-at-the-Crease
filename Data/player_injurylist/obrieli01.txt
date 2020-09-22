@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-03-31	 Lightning	 	 • Shane O'Brien	 undisclosed injury (DTD)
+1	2010-04-08	 Canucks	 	 • Shane O'Brien	 shoulder injury (DTD)
+2	2010-04-15	 Canucks	 • Shane O'Brien	 	 returned to lineup
+3	2012-01-09	 Avalanche	 	 • Shane O'Brien	 knee injury (DTD)
+4	2012-01-10	 Avalanche	 	 • Shane O'Brien	 placed on IR with knee injury
+5	2012-01-18	 Avalanche	 • Shane O'Brien	 	 activated from IR
+6	2012-03-06	 Senators	 	 • Jim O'Brien	 upper body injury (DTD)
+7	2012-03-08	 Senators	 • Jim O'Brien	 	 returned to lineup
+8	2014-11-14	 Capitals	 	 • Liam O'Brien	 lower body injury (DTD)
+9	2014-11-26	 Capitals	 • Liam O'Brien	 	 returned to lineup

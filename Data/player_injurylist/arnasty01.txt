@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-13	 Avalanche	 	 • Tyler Arnason	 wrist injury (out indefinitely)
+1	2007-12-16	 Avalanche	 	 • Tyler Arnason	 placed on IR with wrist injury
+2	2008-01-09	 Avalanche	 • Tyler Arnason	 	 activated from IR

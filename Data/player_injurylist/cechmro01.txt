@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-12-26	 Kings	 	 • Roman Cechmanek	 placed on IR
+1	2004-01-07	 Kings	 • Roman Cechmanek	 	 activated from IR
+2	2004-02-20	 Kings	 	 • Roman Cechmanek	 placed on IR
+3	2004-03-18	 Kings	 • Roman Cechmanek	 	 activated from IR

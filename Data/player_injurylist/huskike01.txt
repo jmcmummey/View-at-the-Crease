@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-07	 Ducks	 	 • Kent Huskins	 bruised knee (DTD)
+1	2007-12-18	 Ducks	 • Kent Huskins	 	 returned to lineup
+2	2009-01-01	 Ducks	 	 • Kent Huskins	 placed on IR with broken right foot
+3	2010-11-30	 Sharks	 	 • Kent Huskins	 upper body injury (DTD)
+4	2010-12-16	 Sharks	 • Kent Huskins	 	 returned to lineup
+5	2011-02-22	 Sharks	 	 • Kent Huskins	 undisclosed injury (DTD)
+6	2011-03-01	 Sharks	 	 • Kent Huskins	 placed on IR with undisclosed injury
+7	2011-04-16	 Sharks	 	 • Kent Huskins	 upper body injury (DTD)
+8	2011-05-15	 Sharks	 • Kent Huskins	 	 returned to lineup
+9	2011-10-29	 Blues	 	 • Kent Huskins	 placed on IR with fractured left ankle
+10	2012-02-16	 Blues	 • Kent Huskins	 	 activated from IR
+11	2012-03-06	 Blues	 	 • Kent Huskins	 hand injury (DTD)
+12	2012-03-17	 Blues	 • Kent Huskins	 	 returned to lineup
+13	2013-04-16	 Flyers	 	 • Kent Huskins	 concussion (out for season)

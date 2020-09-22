@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-05	 Wild	 	 • Pierre-Marc Bouchard	 neck injury (left game)
+1	2006-01-06	 Wild	 	 • Pierre-Marc Bouchard	 neck injury (DTD)
+2	2006-01-14	 Wild	 • Pierre-Marc Bouchard	 	 returned to lineup
+3	2008-10-16	 Wild	 	 • Pierre-Marc Bouchard	 back injury (DTD)
+4	2008-10-17	 Wild	 	 • Pierre-Marc Bouchard	 placed on IR with back injury
+5	2008-10-23	 Wild	 • Pierre-Marc Bouchard	 	 activated from IR
+6	2009-03-28	 Wild	 	 • Pierre-Marc Bouchard	 illness (DTD)
+7	2009-10-06	 Wild	 	 • Pierre-Marc Bouchard	 placed on IR with headaches / concussion (out for season)
+8	2010-09-17	 Wild	 	 • Pierre-Marc Bouchard	 concussion (out indefinitely)
+9	2010-10-06	 Wild	 	 • Pierre-Marc Bouchard	 placed on IR with post-concussion syndrome
+10	2010-12-01	 Wild	 • Pierre-Marc Bouchard	 	 activated from IR
+11	2011-12-14	 Wild	 	 • Pierre-Marc Bouchard	 broken nose (DTD)
+12	2011-12-19	 Wild	 • Pierre-Marc Bouchard	 	 returned to lineup
+13	2012-01-07	 Wild	 	 • Pierre-Marc Bouchard	 lower body injury (DTD)
+14	2012-01-10	 Wild	 	 • Pierre-Marc Bouchard	 placed on IR with concussion (out for season)
+15	2013-01-17	 Wild	 • Pierre-Marc Bouchard	 	 activated from IR
+16	2013-02-17	 Wild	 	 • Pierre-Marc Bouchard	 illness (DTD)
+17	2013-02-21	 Wild	 • Pierre-Marc Bouchard	 	 returned to lineup

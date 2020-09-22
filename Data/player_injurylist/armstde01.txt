@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-12-16	 Kings	 	 • Derek Armstrong	 placed on IR with strained groin
+1	2002-12-23	 Kings	 • Derek Armstrong	 	 activated from IR
+2	2003-11-18	 Kings	 	 • Derek Armstrong	 placed on IR with fractured finger
+3	2004-01-03	 Kings	 • Derek Armstrong	 	 activated from IR
+4	2005-10-28	 Kings	 	 • Derek Armstrong	 groin injury (DTD)
+5	2005-11-01	 Kings	 	 • Derek Armstrong	 placed on IR with groin injury
+6	2005-11-08	 Kings	 • Derek Armstrong	 	 activated from IR
+7	2005-11-09	 Kings	 • Derek Armstrong	 	 returned to lineup
+8	2005-11-11	 Kings	 	 • Derek Armstrong	 groin injury (DTD)
+9	2005-11-22	 Kings	 • Derek Armstrong	 	 returned to lineup
+10	2006-03-26	 Kings	 	 • Derek Armstrong	 back injury (DTD)
+11	2006-04-06	 Kings	 • Derek Armstrong	 	 returned to lineup
+12	2006-11-06	 Kings	 	 • Derek Armstrong	 placed on IR with collarbone injury (out indefinitely)
+13	2006-11-18	 Kings	 • Derek Armstrong	 	 activated from IR
+14	2007-03-11	 Kings	 	 • Derek Armstrong	 left knee injury (DTD)
+15	2007-03-29	 Kings	 • Derek Armstrong	 	 returned to lineup
+16	2008-02-23	 Kings	 	 • Derek Armstrong	 knee injury (DTD)
+17	2008-03-06	 Kings	 • Derek Armstrong	 	 returned to lineup
+18	2008-12-09	 Kings	 	 • Derek Armstrong	 upper body injury (DTD)
+19	2009-01-10	 Kings	 • Derek Armstrong	 	 returned to lineup

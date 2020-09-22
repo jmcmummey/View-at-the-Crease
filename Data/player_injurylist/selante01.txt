@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-13	 Mighty Ducks	 	 • Teemu Selanne	 groin injury (DTD)
+1	2006-01-19	 Mighty Ducks	 • Teemu Selanne	 	 returned to lineup
+2	2008-12-20	 Ducks	 	 • Teemu Selanne	 lacerated thigh (DTD)
+3	2009-01-28	 Ducks	 • Teemu Selanne	 	 returned to lineup
+4	2009-12-03	 Ducks	 	 • Teemu Selanne	 placed on IR with fractured left hand
+5	2010-01-09	 Ducks	 • Teemu Selanne	 	 activated from IR
+6	2010-01-14	 Ducks	 	 • Teemu Selanne	 placed on IR with broken jaw
+7	2010-02-01	 Ducks	 • Teemu Selanne	 	 activated from IR
+8	2010-03-09	 Ducks	 	 • Teemu Selanne	 flu-like symptoms (DTD)
+9	2010-03-12	 Ducks	 • Teemu Selanne	 	 returned to lineup
+10	2010-03-15	 Ducks	 	 • Teemu Selanne	 sprained left shoulder (DTD)
+11	2010-11-21	 Ducks	 	 • Teemu Selanne	 groin injury (DTD)
+12	2010-11-29	 Ducks	 • Teemu Selanne	 	 returned to lineup
+13	2010-12-03	 Ducks	 	 • Teemu Selanne	 groin injury (DTD)
+14	2010-12-07	 Ducks	 • Teemu Selanne	 	 returned to lineup
+15	2010-12-10	 Ducks	 	 • Teemu Selanne	 groin injury (DTD)
+16	2010-12-18	 Ducks	 • Teemu Selanne	 	 returned to lineup
+17	2013-04-19	 Ducks	 	 • Teemu Selanne	 lower body injury (DTD)
+18	2013-04-21	 Ducks	 • Teemu Selanne	 	 returned to lineup
+19	2013-10-30	 Ducks	 	 • Teemu Selanne	 placed on IR with oral surgery
+20	2013-11-06	 Ducks	 • Teemu Selanne	 	 activated from IR
+21	2014-03-05	 Ducks	 	 • Teemu Selanne	 flu (DTD)
+22	2014-03-07	 Ducks	 • Teemu Selanne	 	 returned to lineup

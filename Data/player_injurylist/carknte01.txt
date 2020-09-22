@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-11-23	 Flyers	 	 • Terry Carkner	 bruised foot (DTD)
+1	1992-11-19	 Flyers	 	 • Terry Carkner	 bruised wrist (DTD)
+2	1994-03-19	 Red Wings	 	 • Terry Carkner	 left shoulder injury (out indefinitely)

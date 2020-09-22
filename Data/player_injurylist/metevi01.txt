@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-03	 Canadiens	 	 • Victor Mete	 fractured finger (out for season)
+1	2018-10-17	 Canadiens	 	 • Victor Mete	 hand injury (DTD)
+2	2018-10-23	 Canadiens	 • Victor Mete	 	 returned to lineup
+3	2019-11-30	 Canadiens	 	 • Victor Mete	 placed on IR with ankle injury
+4	2019-12-01	 Canadiens	 	 • Victor Mete	 ankle injury (DTD)
+5	2019-12-02	 Canadiens	 	 • Victor Mete	 placed on IR with ankle injury
+6	2019-12-23	 Canadiens	 • Victor Mete	 	 activated from IR
+7	2020-02-04	 Canadiens	 	 • Victor Mete	 illness (DTD)
+8	2020-02-06	 Canadiens	 • Victor Mete	 	 returned to lineup
+9	2020-02-18	 Canadiens	 	 • Victor Mete	 placed on IR with foot injury
+10	2020-02-20	 Canadiens	 	 • Victor Mete	 foot injury (DTD)
+11	2020-02-22	 Canadiens	 	 • Victor Mete	 placed on IR with foot injury

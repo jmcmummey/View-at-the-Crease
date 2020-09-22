@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-12-28	 Kings	 • Yanic Perreault	 	 returned to lineup
+1	2006-03-03	 Predators	 	 • Yanic Perreault	 placed on IR with strained knee
+2	2006-03-28	 Predators	 • Yanic Perreault	 	 activated from IR
+3	2007-02-10	 Coyotes	 	 • Yanic Perreault	 shoulder injury (DTD)
+4	2007-02-13	 Coyotes	 • Yanic Perreault	 	 returned to lineup
+5	2007-03-10	 Maple Leafs	 	 • Yanic Perreault	 shoulder injury (DTD)
+6	2007-03-13	 Maple Leafs	 • Yanic Perreault	 	 returned to lineup
+7	2007-10-13	 Blackhawks	 	 • Yanic Perreault	 charley horse (DTD)
+8	2007-10-17	 Blackhawks	 • Yanic Perreault	 	 returned to lineup
+9	2008-02-21	 Blackhawks	 	 • Yanic Perreault	 right wrist injury (DTD)
+10	2008-03-19	 Blackhawks	 • Yanic Perreault	 	 returned to lineup

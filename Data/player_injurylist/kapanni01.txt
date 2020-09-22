@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-26	 Stars	 	 • Niko Kapanen	 flu (DTD)
+1	2006-01-28	 Stars	 • Niko Kapanen	 	 returned to lineup

@@ -1,0 +1,45 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-04-07	 Red Wings	 	 • Pavel Datsyuk	 lower body injury (DTD)
+1	2006-04-23	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+2	2007-01-02	 Red Wings	 	 • Pavel Datsyuk	 lower body injury (DTD)
+3	2007-01-07	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+4	2009-01-20	 Red Wings	 	 • Pavel Datsyuk	 hip pointer (DTD)
+5	2009-05-22	 Red Wings	 	 • Pavel Datsyuk	 foot injury (DTD)
+6	2009-06-06	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+7	2009-10-15	 Red Wings	 	 • Pavel Datsyuk	 upper body injury (DTD)
+8	2009-10-22	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+9	2010-12-23	 Red Wings	 	 • Pavel Datsyuk	 broken right hand (DTD)
+10	2011-01-10	 Red Wings	 	 • Pavel Datsyuk	 placed on IR with broken right hand
+11	2011-01-27	 Red Wings	 • Pavel Datsyuk	 	 activated from IR
+12	2011-02-02	 Red Wings	 	 • Pavel Datsyuk	 hand injury (DTD)
+13	2011-02-07	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+14	2011-03-18	 Red Wings	 	 • Pavel Datsyuk	 lower body injury (DTD)
+15	2011-04-03	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+16	2012-01-10	 Red Wings	 	 • Pavel Datsyuk	 lower body injury (DTD)
+17	2012-01-12	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+18	2012-02-21	 Red Wings	 	 • Pavel Datsyuk	 arthroscopic surgery on knee (DTD)
+19	2012-03-17	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+20	2013-02-15	 Red Wings	 	 • Pavel Datsyuk	 shoulder injury (DTD)
+21	2013-02-17	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+22	2013-11-24	 Red Wings	 	 • Pavel Datsyuk	 head injury (DTD)
+23	2013-12-10	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+24	2014-01-04	 Red Wings	 	 • Pavel Datsyuk	 lower body injury (DTD)
+25	2014-01-16	 Red Wings	 	 • Pavel Datsyuk	 placed on IR with lower body injury
+26	2014-02-06	 Red Wings	 • Pavel Datsyuk	 	 activated from IR
+27	2014-03-04	 Red Wings	 	 • Pavel Datsyuk	 sore right knee (DTD)
+28	2014-04-04	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+29	2014-09-25	 Red Wings	 	 • Pavel Datsyuk	 separated right shoulder (DTD)
+30	2014-10-03	 Red Wings	 	 • Pavel Datsyuk	 placed on IR with separated right shoulder
+31	2014-10-21	 Red Wings	 • Pavel Datsyuk	 	 activated from IR
+32	2014-11-07	 Red Wings	 	 • Pavel Datsyuk	 groin injury (DTD)
+33	2014-11-14	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+34	2014-11-18	 Red Wings	 	 • Pavel Datsyuk	 groin injury (DTD)
+35	2014-11-26	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+36	2015-03-18	 Red Wings	 	 • Pavel Datsyuk	 lower body injury (DTD)
+37	2015-03-28	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+38	2015-03-31	 Red Wings	 	 • Pavel Datsyuk	 lower body injury (DTD)
+39	2015-04-03	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup
+40	2015-10-04	 Red Wings	 	 • Pavel Datsyuk	 placed on IR with ankle injury
+41	2015-11-12	 Red Wings	 • Pavel Datsyuk	 	 activated from IR
+42	2016-03-06	 Red Wings	 	 • Pavel Datsyuk	 illness (DTD)
+43	2016-03-08	 Red Wings	 • Pavel Datsyuk	 	 returned to lineup

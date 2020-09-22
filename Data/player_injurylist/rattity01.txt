@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-10-20	 Oilers	 	 • Ty Rattie	 mid-body injury (out indefinitely)
+1	2018-10-21	 Oilers	 	 • Ty Rattie	 placed on IR with mid-body injury
+2	2018-11-03	 Oilers	 • Ty Rattie	 	 activated from IR

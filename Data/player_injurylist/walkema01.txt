@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-02-27	 Blues	 • Matt Walker	 	 activated from IR
+1	2003-09-23	 Blues	 	 • Matt Walker	 groin injury (out indefinitely)
+2	2005-10-06	 Blues	 	 • Matt Walker	 foot injury (out indefinitely)
+3	2005-10-20	 Blues	 • Matt Walker	 	 returned to lineup
+4	2005-12-10	 Blues	 	 • Matt Walker	 separated right shoulder (out indefinitely)
+5	2005-12-12	 Blues	 	 • Matt Walker	 placed on IR with separated right shoulder
+6	2005-12-27	 Blues	 • Matt Walker	 	 activated from IR
+7	2006-01-05	 Blues	 	 • Matt Walker	 placed on IR with separated right shoulder (sprained knee per CBC Sports)
+8	2006-02-01	 Blues	 • Matt Walker	 	 activated from IR
+9	2006-11-13	 Blues	 	 • Matt Walker	 strained groin (DTD)
+10	2006-11-30	 Blues	 • Matt Walker	 	 returned to lineup
+11	2006-12-01	 Blues	 	 • Matt Walker	 groin injury (DTD)
+12	2006-12-13	 Blues	 • Matt Walker	 	 returned to lineup
+13	2007-03-20	 Blues	 	 • Matt Walker	 upper body injury (DTD)
+14	2007-03-29	 Blues	 • Matt Walker	 	 returned to lineup
+15	2009-03-22	 Blackhawks	 	 • Matt Walker	 upper body injury (DTD)
+16	2009-04-01	 Blackhawks	 • Matt Walker	 	 returned to lineup
+17	2009-11-14	 Lightning	 	 • Matt Walker	 soreness (DTD)
+18	2009-11-16	 Lightning	 • Matt Walker	 	 returned to lineup
+19	2009-12-21	 Lightning	 	 • Matt Walker	 lower body injury (DTD)
+20	2010-01-08	 Lightning	 • Matt Walker	 	 returned to lineup
+21	2010-03-02	 Lightning	 	 • Matt Walker	 lower body injury (DTD)
+22	2010-03-06	 Lightning	 • Matt Walker	 	 returned to lineup
+23	2010-03-31	 Lightning	 	 • Matt Walker	 lower body injury (DTD)
+24	2010-04-06	 Lightning	 • Matt Walker	 	 returned to lineup
+25	2010-10-29	 Flyers	 	 • Matt Walker	 placed on IR with hip injury
+26	2010-12-15	 Flyers	 	 • Matt Walker	 placed on IR with hip injury (CBC SN)
+27	2011-01-13	 Flyers	 • Matt Walker	 	 activated from IR
+28	2011-10-06	 Flyers	 	 • Matt Walker	 undisclosed injury (DTD)
+29	2011-10-15	 Flyers	 • Matt Walker	 	 returned to lineup
+30	2013-01-13	 Flyers	 	 • Matt Walker	 placed on IR with back, groin, abdominal injuries (out for season)

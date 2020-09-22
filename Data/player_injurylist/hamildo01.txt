@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-09	 Bruins	 	 • Dougie Hamilton	 lower body injury (DTD)
+1	2013-12-16	 Bruins	 	 • Dougie Hamilton	 placed on IR with lower body injury
+2	2014-01-02	 Bruins	 • Dougie Hamilton	 	 activated from IR
+3	2014-01-14	 Bruins	 	 • Dougie Hamilton	 concussion (DTD)
+4	2014-01-24	 Bruins	 • Dougie Hamilton	 	 returned to lineup
+5	2015-03-22	 Bruins	 	 • Dougie Hamilton	 undisclosed (out for season)
+6	2016-12-29	 Flames	 	 • Dougie Hamilton	 illness (DTD)
+7	2016-12-31	 Flames	 • Dougie Hamilton	 	 returned to lineup
+8	2020-01-17	 Hurricanes	 	 • Dougie Hamilton	 fractured fibula in left leg (out indefinitely)
+9	2020-01-21	 Hurricanes	 	 • Dougie Hamilton	 placed on IR with fractured fibula in left leg
+10	2020-07-13	 Hurricanes	 • Dougie Hamilton	 	 activated from IR
+11	2020-07-31	 Hurricanes	 	 • Dougie Hamilton	 undisclosed (DTD)
+12	2020-08-12	 Hurricanes	 • Dougie Hamilton	 	 returned to lineup

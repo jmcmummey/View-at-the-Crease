@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-02-17	 Panthers	 	 • Michael Sgarbossa	 foot injury (DTD)
+1	2017-02-20	 Panthers	 • Michael Sgarbossa	 	 returned to lineup
+2	2017-03-08	 Panthers	 	 • Michael Sgarbossa	 lower body injury (out for season)

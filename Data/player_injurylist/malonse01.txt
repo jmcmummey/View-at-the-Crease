@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-10-02	 Sabres	 	 • Sean Malone	 placed on IR with undisclosed injury
+1	2018-11-06	 Sabres	 • Sean Malone	 	 activated from IR

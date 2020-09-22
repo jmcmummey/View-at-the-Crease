@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-02-02	 Avalanche	 	 • Ossi Vaananen	 ankle injury (left game)
+1	2006-02-03	 Avalanche	 	 • Ossi Vaananen	 surgery on ankle (out indefinitely)
+2	2006-05-11	 Avalanche	 • Ossi Vaananen	 	 returned to lineup
+3	2008-11-06	 Flyers	 	 • Ossi Vaananen	 upper body injury (DTD)
+4	2008-11-13	 Flyers	 • Ossi Vaananen	 	 returned to lineup
+5	2008-11-15	 Flyers	 	 • Ossi Vaananen	 finger injury (DTD)
+6	2008-11-24	 Flyers	 • Ossi Vaananen	 	 returned to lineup
+7	2009-01-10	 Flyers	 	 • Ossi Vaananen	 sore knee (DTD)
+8	2009-01-13	 Flyers	 • Ossi Vaananen	 	 returned to lineup

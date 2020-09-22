@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-06	 Hurricanes	 	 • Drayson Bowman	 sinus infection (DTD)
+1	2012-03-11	 Hurricanes	 • Drayson Bowman	 	 returned to lineup
+2	2013-04-11	 Hurricanes	 	 • Drayson Bowman	 lower body injury (out for season)
+3	2013-12-06	 Hurricanes	 	 • Drayson Bowman	 bruised ankle (DTD)
+4	2013-12-12	 Hurricanes	 • Drayson Bowman	 	 returned to lineup
+5	2014-01-18	 Hurricanes	 	 • Drayson Bowman	 lower body injury (DTD)
+6	2014-01-23	 Hurricanes	 • Drayson Bowman	 	 returned to lineup
+7	2014-04-03	 Hurricanes	 	 • Drayson Bowman	 illness (DTD)
+8	2014-04-08	 Hurricanes	 • Drayson Bowman	 	 returned to lineup

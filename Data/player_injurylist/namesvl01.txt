@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-02-16	 Lightning	 	 • Vladislav Namestnikov	 upper body injury (DTD)
+1	2016-02-20	 Lightning	 • Vladislav Namestnikov	 	 returned to lineup
+2	2016-12-22	 Lightning	 	 • Vladislav Namestnikov	 illness (DTD)
+3	2016-12-28	 Lightning	 • Vladislav Namestnikov	 	 returned to lineup
+4	2016-12-29	 Lightning	 	 • Vladislav Namestnikov	 upper body injury (DTD)
+5	2016-12-31	 Lightning	 • Vladislav Namestnikov	 	 returned to lineup
+6	2017-03-11	 Lightning	 	 • Vladislav Namestnikov	 lower body injury (DTD)
+7	2017-03-13	 Lightning	 • Vladislav Namestnikov	 	 returned to lineup
+8	2017-03-14	 Lightning	 	 • Vladislav Namestnikov	 lower body injury (DTD)
+9	2017-03-21	 Lightning	 • Vladislav Namestnikov	 	 returned to lineup
+10	2018-11-28	 Rangers	 	 • Vladislav Namestnikov	 concussion (out indefinitely)
+11	2018-12-08	 Rangers	 • Vladislav Namestnikov	 	 returned to lineup
+12	2019-11-20	 Senators	 	 • Vladislav Namestnikov	 placed on IR with tailbone injury
+13	2019-11-29	 Senators	 • Vladislav Namestnikov	 	 activated from IR
+14	2020-02-06	 Senators	 	 • Vladislav Namestnikov	 lower body injury (DTD)
+15	2020-02-08	 Senators	 • Vladislav Namestnikov	 	 returned to lineup
+16	2020-08-15	 Avalanche	 	 • Vladislav Namestnikov	 undisclosed (DTD)
+17	2020-08-22	 Avalanche	 • Vladislav Namestnikov	 	 returned to lineup

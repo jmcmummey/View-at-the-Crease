@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-14	 Stars	 	 • Jamie Benn	 concussion (DTD)
+1	2010-10-21	 Stars	 • Jamie Benn	 	 returned to lineup
+2	2011-01-25	 Stars	 	 • Jamie Benn	 upper body injury (DTD)
+3	2011-02-03	 Stars	 	 • Jamie Benn	 placed on IR with shoulder injury
+4	2011-02-22	 Stars	 • Jamie Benn	 	 activated from IR
+5	2012-01-15	 Stars	 	 • Jamie Benn	 appendectomy (out indefinitely)
+6	2012-01-22	 Stars	 	 • Jamie Benn	 placed on IR recovering from appendectomy
+7	2012-01-25	 Stars	 • Jamie Benn	 	 activated from IR
+8	2012-02-17	 Stars	 	 • Jamie Benn	 lacerated leg (DTD)
+9	2012-02-29	 Stars	 • Jamie Benn	 	 returned to lineup
+10	2013-03-10	 Stars	 	 • Jamie Benn	 wrist injury (DTD)
+11	2013-03-16	 Stars	 • Jamie Benn	 	 returned to lineup
+12	2017-01-01	 Stars	 	 • Jamie Benn	 foot injury (DTD)
+13	2017-01-04	 Stars	 	 • Jamie Benn	 placed on IR with foot injury
+14	2017-01-12	 Stars	 • Jamie Benn	 	 activated from IR
+15	2017-03-17	 Stars	 	 • Jamie Benn	 eye injury (DTD)
+16	2017-03-20	 Stars	 • Jamie Benn	 	 returned to lineup
+17	2019-01-03	 Stars	 	 • Jamie Benn	 upper body injury (DTD)
+18	2019-01-05	 Stars	 • Jamie Benn	 	 returned to lineup
+19	2019-02-25	 Stars	 	 • Jamie Benn	 upper body injury (DTD)
+20	2019-03-02	 Stars	 • Jamie Benn	 	 returned to lineup

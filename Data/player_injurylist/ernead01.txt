@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-29	 Lightning	 	 • Adam Erne	 lower body injury (out for season)
+1	2018-11-10	 Lightning	 	 • Adam Erne	 upper body injury (DTD)
+2	2018-11-13	 Lightning	 • Adam Erne	 	 returned to lineup
+3	2018-11-29	 Lightning	 	 • Adam Erne	 illness (DTD)
+4	2018-12-04	 Lightning	 • Adam Erne	 	 returned to lineup
+5	2019-03-09	 Lightning	 	 • Adam Erne	 upper body injury (DTD)
+6	2019-03-11	 Lightning	 • Adam Erne	 	 returned to lineup
+7	2019-10-17	 Red Wings	 	 • Adam Erne	 upper body injury (DTD)
+8	2019-10-18	 Red Wings	 • Adam Erne	 	 returned to lineup
+9	2019-10-22	 Red Wings	 	 • Adam Erne	 placed on IR with undisclosed injury
+10	2019-10-29	 Red Wings	 • Adam Erne	 	 activated from IR
+11	2019-11-23	 Red Wings	 	 • Adam Erne	 hand injury (DTD)
+12	2019-11-29	 Red Wings	 • Adam Erne	 	 returned to lineup
+13	2019-12-22	 Red Wings	 	 • Adam Erne	 undisclosed (DTD)
+14	2019-12-28	 Red Wings	 • Adam Erne	 	 returned to lineup
+15	2020-02-25	 Red Wings	 	 • Adam Erne	 undisclosed (DTD)
+16	2020-02-26	 Red Wings	 • Adam Erne	 	 returned to lineup
+17	2020-03-02	 Red Wings	 	 • Adam Erne	 fractured hand (out indefinitely)

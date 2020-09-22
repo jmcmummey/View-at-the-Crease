@@ -1,0 +1,51 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-06	 Lightning	 	 • Victor Hedman	 concussion (DTD)
+1	2009-11-12	 Lightning	 • Victor Hedman	 	 returned to lineup
+2	2009-12-17	 Lightning	 	 • Victor Hedman	 foot injury (DTD)
+3	2009-12-18	 Lightning	 • Victor Hedman	 	 returned to lineup
+4	2010-03-31	 Lightning	 	 • Victor Hedman	 hip flexor injury (DTD)
+5	2010-04-08	 Lightning	 • Victor Hedman	 	 returned to lineup
+6	2010-04-10	 Lightning	 	 • Victor Hedman	 upper body injury (out for season)
+7	2010-11-04	 Lightning	 	 • Victor Hedman	 foot injury (DTD)
+8	2010-11-06	 Lightning	 • Victor Hedman	 	 returned to lineup
+9	2011-04-07	 Lightning	 	 • Victor Hedman	 lower body injury (out for season)
+10	2011-11-06	 Lightning	 	 • Victor Hedman	 upper body injury (DTD)
+11	2011-11-14	 Lightning	 • Victor Hedman	 	 returned to lineup
+12	2011-12-28	 Lightning	 	 • Victor Hedman	 upper body injury (DTD)
+13	2012-01-03	 Lightning	 	 • Victor Hedman	 placed on IR with concussion
+14	2012-01-31	 Lightning	 • Victor Hedman	 	 activated from IR
+15	2012-02-26	 Lightning	 	 • Victor Hedman	 upper body injury (DTD)
+16	2012-03-06	 Lightning	 • Victor Hedman	 	 returned to lineup
+17	2012-03-26	 Lightning	 	 • Victor Hedman	 illness (DTD)
+18	2012-03-27	 Lightning	 • Victor Hedman	 	 returned to lineup
+19	2013-04-05	 Lightning	 	 • Victor Hedman	 lower body injury (DTD)
+20	2013-04-13	 Lightning	 • Victor Hedman	 	 returned to lineup
+21	2013-12-06	 Lightning	 	 • Victor Hedman	 lower body injury (DTD)
+22	2013-12-19	 Lightning	 • Victor Hedman	 	 returned to lineup
+23	2014-01-19	 Lightning	 	 • Victor Hedman	 right leg injury (DTD)
+24	2014-01-21	 Lightning	 • Victor Hedman	 	 returned to lineup
+25	2014-10-18	 Lightning	 	 • Victor Hedman	 placed on IR with fractured finger
+26	2014-11-29	 Lightning	 • Victor Hedman	 	 activated from IR
+27	2015-01-13	 Lightning	 	 • Victor Hedman	 lower body injury (DTD)
+28	2015-01-17	 Lightning	 • Victor Hedman	 	 returned to lineup
+29	2015-03-31	 Lightning	 	 • Victor Hedman	 lower body injury (DTD)
+30	2015-04-08	 Lightning	 • Victor Hedman	 	 returned to lineup
+31	2015-10-16	 Lightning	 	 • Victor Hedman	 undisclosed (DTD)
+32	2015-10-20	 Lightning	 • Victor Hedman	 	 returned to lineup
+33	2016-04-05	 Lightning	 	 • Victor Hedman	 upper body injury (DTD)
+34	2016-04-08	 Lightning	 • Victor Hedman	 	 returned to lineup
+35	2017-01-16	 Lightning	 	 • Victor Hedman	 illness (DTD)
+36	2017-01-21	 Lightning	 • Victor Hedman	 	 returned to lineup
+37	2018-01-12	 Lightning	 	 • Victor Hedman	 lower body injury (out indefinitely)
+38	2018-01-21	 Lightning	 	 • Victor Hedman	 placed on IR with lower body injury
+39	2018-01-30	 Lightning	 • Victor Hedman	 	 activated from IR
+40	2018-10-27	 Lightning	 	 • Victor Hedman	 placed on IR with upper body injury
+41	2018-11-10	 Lightning	 • Victor Hedman	 	 activated from IR
+42	2019-02-19	 Lightning	 	 • Victor Hedman	 lower body injury (DTD)
+43	2019-02-21	 Lightning	 • Victor Hedman	 	 returned to lineup
+44	2019-04-01	 Lightning	 	 • Victor Hedman	 upper body injury (DTD)
+45	2019-04-10	 Lightning	 • Victor Hedman	 	 returned to lineup
+46	2019-04-14	 Lightning	 	 • Victor Hedman	 undisclosed (out for season)
+47	2019-10-30	 Lightning	 	 • Victor Hedman	 placed on IR with lower body injury
+48	2019-11-08	 Lightning	 • Victor Hedman	 	 activated from IR
+49	2020-03-08	 Lightning	 	 • Victor Hedman	 lower body injury (DTD)

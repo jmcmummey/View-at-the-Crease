@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-17	 Kings	 	 • Alec Martinez	 lower body injury (DTD)
+1	2009-10-29	 Kings	 	 • Alec Martinez	 placed on IR with ankle injury
+2	2009-11-19	 Kings	 • Alec Martinez	 	 activated from IR
+3	2011-11-13	 Kings	 	 • Alec Martinez	 placed on IR with upper body injury
+4	2011-12-08	 Kings	 • Alec Martinez	 	 activated from IR
+5	2013-02-12	 Kings	 	 • Alec Martinez	 placed on IR with upper body injury
+6	2013-03-02	 Kings	 • Alec Martinez	 	 activated from IR
+7	2014-01-27	 Kings	 	 • Alec Martinez	 elbow injury (DTD)
+8	2014-02-27	 Kings	 • Alec Martinez	 	 returned to lineup
+9	2014-11-14	 Kings	 	 • Alec Martinez	 finger injury (surgery) (DTD)
+10	2014-12-02	 Kings	 • Alec Martinez	 	 returned to lineup
+11	2015-02-08	 Kings	 	 • Alec Martinez	 concussion-like symptoms (DTD)
+12	2015-02-26	 Kings	 	 • Alec Martinez	 placed on IR with concussion
+13	2015-03-20	 Kings	 • Alec Martinez	 	 activated from IR
+14	2016-04-04	 Kings	 	 • Alec Martinez	 undisclosed injury (DTD)
+15	2016-04-14	 Kings	 • Alec Martinez	 	 returned to lineup
+16	2016-04-16	 Kings	 	 • Alec Martinez	 undisclosed injury (out for season)
+17	2017-10-05	 Kings	 	 • Alec Martinez	 placed on IR with lower body injury
+18	2017-10-14	 Kings	 • Alec Martinez	 	 activated from IR
+19	2018-02-03	 Kings	 	 • Alec Martinez	 lower body injury (DTD)
+20	2018-02-09	 Kings	 • Alec Martinez	 	 returned to lineup
+21	2018-12-10	 Kings	 	 • Alec Martinez	 upper body injury (DTD)
+22	2018-12-10	 Kings	 	 • Alec Martinez	 placed on IR with upper body injury
+23	2019-01-10	 Kings	 • Alec Martinez	 	 activated from IR
+24	2019-02-16	 Kings	 	 • Alec Martinez	 upper body injury (DTD)
+25	2019-03-05	 Kings	 • Alec Martinez	 	 returned to lineup
+26	2019-11-27	 Kings	 	 • Alec Martinez	 placed on IR with surgery on right wrist to repair laceration
+27	2020-01-04	 Kings	 • Alec Martinez	 	 activated from IR

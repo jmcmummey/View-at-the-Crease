@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-02-21	 Jets	 	 • Zach Redmond	 lacerated thigh (DTD)
+1	2013-02-23	 Jets	 	 • Zach Redmond	 placed on IR with lacerated thigh
+2	2013-04-18	 Jets	 • Zach Redmond	 	 activated from IR
+3	2016-10-20	 Canadiens	 	 • Zach Redmond	 placed on IR with fractured foot
+4	2016-11-26	 Canadiens	 • Zach Redmond	 	 activated from IR

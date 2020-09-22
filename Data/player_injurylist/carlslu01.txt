@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-03-06	 Blackhawks	 	 • Lucas Carlsson	 concussion (out indefinitely)
+1	2020-03-11	 Blackhawks	 • Lucas Carlsson	 	 returned to lineup

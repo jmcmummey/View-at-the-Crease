@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-28	 Flames	 	 • Dion Phaneuf	 flu (DTD)
+1	2006-10-30	 Flames	 • Dion Phaneuf	 	 returned to lineup
+2	2007-03-29	 Flames	 	 • Dion Phaneuf	 flu (DTD)
+3	2007-04-03	 Flames	 • Dion Phaneuf	 	 returned to lineup
+4	2009-04-10	 Flames	 	 • Dion Phaneuf	 upper body injury (DTD)
+5	2009-04-16	 Flames	 • Dion Phaneuf	 	 returned to lineup
+6	2009-04-27	 Flames	 	 • Dion Phaneuf	 head injury (DTD)
+7	2010-11-03	 Maple Leafs	 	 • Dion Phaneuf	 placed on IR with lacerated left leg
+8	2010-12-09	 Maple Leafs	 • Dion Phaneuf	 	 activated from IR
+9	2015-01-27	 Maple Leafs	 	 • Dion Phaneuf	 hand injury (DTD)
+10	2015-02-07	 Maple Leafs	 	 • Dion Phaneuf	 placed on IR with hand injury
+11	2015-02-26	 Maple Leafs	 • Dion Phaneuf	 	 activated from IR
+12	2016-03-23	 Senators	 	 • Dion Phaneuf	 right foot injury (out for season)
+13	2018-12-12	 Kings	 	 • Dion Phaneuf	 upper body injury (DTD)
+14	2018-12-22	 Kings	 	 • Dion Phaneuf	 placed on IR with upper body injury
+15	2018-12-29	 Kings	 • Dion Phaneuf	 	 activated from IR
+16	2018-12-31	 Kings	 • Dion Phaneuf	 	 returned to lineup

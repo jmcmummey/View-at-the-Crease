@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-26	 Blackhawks	 	 • Gustav Forsling	 upper body injury (DTD)
+1	2016-11-01	 Blackhawks	 • Gustav Forsling	 	 returned to lineup
+2	2017-11-01	 Blackhawks	 	 • Gustav Forsling	 head injury (DTD)
+3	2017-11-08	 Blackhawks	 • Gustav Forsling	 	 returned to lineup
+4	2018-09-25	 Blackhawks	 	 • Gustav Forsling	 placed on IR with wrist injury
+5	2018-10-22	 Blackhawks	 • Gustav Forsling	 	 activated from IR
+6	2018-12-06	 Blackhawks	 	 • Gustav Forsling	 shoulder injury (DTD)
+7	2018-12-08	 Blackhawks	 	 • Gustav Forsling	 placed on IR with shoulder injury
+8	2018-12-18	 Blackhawks	 • Gustav Forsling	 	 activated from IR
+9	2019-01-06	 Blackhawks	 	 • Gustav Forsling	 torso injury (DTD)
+10	2019-01-09	 Blackhawks	 	 • Gustav Forsling	 placed on IR with torso injury
+11	2019-02-01	 Blackhawks	 • Gustav Forsling	 	 activated from IR

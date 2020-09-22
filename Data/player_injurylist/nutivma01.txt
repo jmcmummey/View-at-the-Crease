@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-01-16	 Blue Jackets	 	 • Markus Nutivaara	 undisclosed injury (DTD)
+1	2017-02-04	 Blue Jackets	 • Markus Nutivaara	 	 returned to lineup
+2	2017-12-02	 Blue Jackets	 	 • Markus Nutivaara	 upper body injury (DTD)
+3	2017-12-08	 Blue Jackets	 • Markus Nutivaara	 	 returned to lineup
+4	2018-02-17	 Blue Jackets	 	 • Markus Nutivaara	 placed on IR with undisclosed injury
+5	2018-02-18	 Blue Jackets	 	 • Markus Nutivaara	 upper body injury (DTD)
+6	2018-02-21	 Blue Jackets	 	 • Markus Nutivaara	 placed on IR with upper body injury
+7	2018-03-11	 Blue Jackets	 • Markus Nutivaara	 	 activated from IR
+8	2018-04-03	 Blue Jackets	 	 • Markus Nutivaara	 upper body injury (DTD)
+9	2018-04-12	 Blue Jackets	 • Markus Nutivaara	 	 returned to lineup
+10	2019-03-19	 Blue Jackets	 	 • Markus Nutivaara	 illness (DTD)
+11	2019-03-21	 Blue Jackets	 • Markus Nutivaara	 	 returned to lineup
+12	2019-04-14	 Blue Jackets	 	 • Markus Nutivaara	 upper body injury (out for season)
+13	2019-10-24	 Blue Jackets	 	 • Markus Nutivaara	 lower body injury (DTD)
+14	2019-10-29	 Blue Jackets	 • Markus Nutivaara	 	 returned to lineup
+15	2019-11-06	 Blue Jackets	 	 • Markus Nutivaara	 upper body injury (DTD)
+16	2019-11-10	 Blue Jackets	 	 • Markus Nutivaara	 placed on IR with upper body injury
+17	2020-01-05	 Blue Jackets	 • Markus Nutivaara	 	 activated from IR

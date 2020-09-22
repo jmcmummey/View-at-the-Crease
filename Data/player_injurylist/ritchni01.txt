@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-11-02	 Ducks	 	 • Nick Ritchie	 upper body injury (DTD)
+1	2016-11-06	 Ducks	 • Nick Ritchie	 	 returned to lineup
+2	2017-03-09	 Ducks	 	 • Nick Ritchie	 upper body injury (DTD)
+3	2017-03-12	 Ducks	 • Nick Ritchie	 	 returned to lineup
+4	2017-04-28	 Ducks	 	 • Nick Ritchie	 flu (DTD)
+5	2017-04-30	 Ducks	 • Nick Ritchie	 	 returned to lineup
+6	2017-10-07	 Ducks	 	 • Nick Ritchie	 lower body injury (DTD)
+7	2017-10-13	 Ducks	 • Nick Ritchie	 	 returned to lineup
+8	2017-12-11	 Ducks	 	 • Nick Ritchie	 upper body injury (DTD)
+9	2017-12-16	 Ducks	 	 • Nick Ritchie	 placed on IR with upper body injury
+10	2017-12-18	 Ducks	 • Nick Ritchie	 	 activated from IR
+11	2018-10-28	 Ducks	 	 • Nick Ritchie	 upper body injury (DTD)
+12	2018-11-01	 Ducks	 	 • Nick Ritchie	 placed on IR with upper body injury
+13	2018-11-09	 Ducks	 • Nick Ritchie	 	 activated from IR
+14	2019-02-15	 Ducks	 	 • Nick Ritchie	 illness (DTD)
+15	2019-02-17	 Ducks	 • Nick Ritchie	 	 returned to lineup
+16	2019-03-03	 Ducks	 	 • Nick Ritchie	 lower body injury (DTD)
+17	2019-03-06	 Ducks	 • Nick Ritchie	 	 returned to lineup
+18	2019-03-23	 Ducks	 	 • Nick Ritchie	 upper body injury (DTD)
+19	2019-04-03	 Ducks	 • Nick Ritchie	 	 returned to lineup
+20	2019-12-08	 Ducks	 	 • Nick Ritchie	 placed on IR with sprained MCL in left knee
+21	2020-01-27	 Ducks	 • Nick Ritchie	 	 activated from IR
+22	2020-08-01	 Bruins	 	 • Nick Ritchie	 undisclosed (DTD)
+23	2020-08-04	 Bruins	 • Nick Ritchie	 	 returned to lineup
+24	2020-08-31	 Bruins	 	 • Nick Ritchie	 undisclosed (out for season)

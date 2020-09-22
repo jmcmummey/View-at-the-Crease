@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-16	 Kings	 	 • Stu Grimson	 placed on IR
+1	2000-10-23	 Kings	 • Stu Grimson	 	 activated from IR
+2	2001-12-02	 Predators	 	 • Stu Grimson	 head injury (out indefinitely)

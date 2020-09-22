@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-09-28	 Flyers	 	 • Corban Knight	 placed on IR with upper body injury
+1	2018-10-02	 Flyers	 	 • Corban Knight	 placed on injured/non-roster list with upper body injury
+2	2018-10-16	 Flyers	 • Corban Knight	 	 activated from IR
+3	2018-10-28	 Flyers	 	 • Corban Knight	 placed on IR with dislocated collarbone
+4	2019-02-10	 Flyers	 • Corban Knight	 	 activated from IR

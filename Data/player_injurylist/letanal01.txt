@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-11-22	 Stars	 	 • Alan Letang	 placed on IR
+1	1999-11-27	 Stars	 • Alan Letang	 	 activated from IR

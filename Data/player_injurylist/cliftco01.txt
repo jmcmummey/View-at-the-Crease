@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-04-15	 Bruins	 	 • Connor Clifton	 upper body injury (DTD)
+1	2019-04-25	 Bruins	 • Connor Clifton	 	 returned to lineup
+2	2019-12-30	 Bruins	 	 • Connor Clifton	 upper body injury (DTD)
+3	2020-01-02	 Bruins	 	 • Connor Clifton	 placed on IR with upper body injury
+4	2020-03-07	 Bruins	 • Connor Clifton	 	 activated from IR

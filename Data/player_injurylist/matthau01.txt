@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-11-08	 Maple Leafs	 	 • Auston Matthews	 upper body injury (DTD)
+1	2017-11-18	 Maple Leafs	 • Auston Matthews	 	 returned to lineup
+2	2017-12-10	 Maple Leafs	 	 • Auston Matthews	 upper body injury (DTD)
+3	2017-12-23	 Maple Leafs	 • Auston Matthews	 	 returned to lineup
+4	2018-02-23	 Maple Leafs	 	 • Auston Matthews	 placed on IR with shoulder injury
+5	2018-02-24	 Maple Leafs	 	 • Auston Matthews	 shoulder injury (DTD)
+6	2018-02-25	 Maple Leafs	 	 • Auston Matthews	 placed on IR with shoulder injury
+7	2018-03-22	 Maple Leafs	 • Auston Matthews	 	 activated from IR
+8	2018-10-29	 Maple Leafs	 	 • Auston Matthews	 placed on IR with shoulder injury
+9	2018-11-28	 Maple Leafs	 • Auston Matthews	 	 activated from IR

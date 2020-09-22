@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-17	 Red Wings	 	 • Gustav Nyquist	 groin injury (DTD)
+1	2013-12-23	 Red Wings	 • Gustav Nyquist	 	 returned to lineup
+2	2019-02-17	 Red Wings	 	 • Gustav Nyquist	 illness (DTD)
+3	2019-02-19	 Red Wings	 • Gustav Nyquist	 	 returned to lineup

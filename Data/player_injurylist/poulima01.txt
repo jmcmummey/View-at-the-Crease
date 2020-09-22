@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-04-26	 Oilers	 	 • Marc-Antoine Pouliot / Marc Pouliot	 mononucleosis (out indefinitely)
+1	2006-06-19	 Oilers	 • Marc-Antoine Pouliot / Marc Pouliot	 	 returned to lineup
+2	2008-12-31	 Oilers	 	 • Marc-Antoine Pouliot / Marc Pouliot	 concussion (out indefinitely)
+3	2009-01-05	 Oilers	 • Marc-Antoine Pouliot / Marc Pouliot	 	 returned to lineup
+4	2009-09-30	 Oilers	 	 • Marc-Antoine Pouliot / Marc Pouliot	 placed on IR with inflamed pubic bone / surgery for sports hernia (Y)
+5	2010-01-12	 Oilers	 • Marc-Antoine Pouliot / Marc Pouliot	 	 activated from IR

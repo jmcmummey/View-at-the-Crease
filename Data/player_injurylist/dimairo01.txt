@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-03-03	 Stars	 	 • Rob DiMaio	 placed on IR
+1	2004-01-19	 Stars	 	 • Rob DiMaio	 placed on IR
+2	2004-02-11	 Stars	 • Rob DiMaio	 	 activated from IR
+3	2006-01-03	 Lightning	 	 • Rob DiMaio	 back injury (DTD)
+4	2006-01-13	 Lightning	 • Rob DiMaio	 	 returned to lineup
+5	2006-03-06	 Lightning	 	 • Rob DiMaio	 back injury (out indefinitely)
+6	2006-03-09	 Lightning	 	 • Rob DiMaio	 placed on IR with back injury
+7	2006-03-27	 Lightning	 • Rob DiMaio	 	 activated from IR

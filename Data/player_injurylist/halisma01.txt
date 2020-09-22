@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-15	 Jets	 	 • Matt Halischuk	 placed on IR with fractured forearm
+1	2014-03-04	 Jets	 • Matt Halischuk	 	 activated from IR
+2	2015-01-29	 Jets	 	 • Matt Halischuk	 placed on IR with undisclosed injury
+3	2015-03-13	 Jets	 • Matt Halischuk	 	 activated from IR

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-11-24	 Hurricanes	 	 • Haydn Fleury	 concussion (out indefinitely)
+1	2018-11-29	 Hurricanes	 	 • Haydn Fleury	 placed on IR with concussion
+2	2018-12-01	 Hurricanes	 • Haydn Fleury	 	 activated from IR
+3	2018-12-14	 Hurricanes	 	 • Haydn Fleury	 concussion (DTD)
+4	2019-01-04	 Hurricanes	 • Haydn Fleury	 	 returned to lineup

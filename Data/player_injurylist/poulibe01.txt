@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-09-29	 Wild	 	 • Benoit Pouliot	 placed on IR with groin injury
+1	2009-10-06	 Wild	 • Benoit Pouliot	 	 activated from IR
+2	2009-11-15	 Wild	 	 • Benoit Pouliot	 upper body injury (DTD)
+3	2009-11-22	 Wild	 	 • Benoit Pouliot	 placed on IR
+4	2009-12-10	 Canadiens	 • Benoit Pouliot	 	 activated from IR
+5	2010-02-05	 Canadiens	 	 • Benoit Pouliot	 placed on IR with upper body injury
+6	2010-03-02	 Canadiens	 • Benoit Pouliot	 	 activated from IR
+7	2011-01-17	 Canadiens	 	 • Benoit Pouliot	 flu (DTD)
+8	2011-01-21	 Canadiens	 • Benoit Pouliot	 	 returned to lineup
+9	2011-10-29	 Bruins	 	 • Benoit Pouliot	 illness (DTD)
+10	2011-11-07	 Bruins	 • Benoit Pouliot	 	 returned to lineup
+11	2012-03-11	 Bruins	 	 • Benoit Pouliot	 lower body injury (DTD)
+12	2012-03-15	 Bruins	 • Benoit Pouliot	 	 returned to lineup
+13	2013-03-03	 Lightning	 	 • Benoit Pouliot	 placed on IR with sprained right shoulder
+14	2013-03-26	 Lightning	 • Benoit Pouliot	 	 activated from IR
+15	2014-11-21	 Oilers	 	 • Benoit Pouliot	 fractured foot (out indefinitely)
+16	2014-11-22	 Oilers	 	 • Benoit Pouliot	 placed on IR with fractured foot
+17	2015-01-02	 Oilers	 • Benoit Pouliot	 	 activated from IR
+18	2015-02-03	 Oilers	 	 • Benoit Pouliot	 foot injury (DTD)
+19	2015-02-10	 Oilers	 	 • Benoit Pouliot	 placed on IR with foot injury
+20	2015-02-14	 Oilers	 • Benoit Pouliot	 	 activated from IR
+21	2015-03-08	 Oilers	 	 • Benoit Pouliot	 illness (DTD)
+22	2015-03-09	 Oilers	 • Benoit Pouliot	 	 returned to lineup
+23	2015-11-12	 Oilers	 	 • Benoit Pouliot	 illness (DTD)
+24	2015-11-14	 Oilers	 • Benoit Pouliot	 	 returned to lineup
+25	2015-12-02	 Oilers	 	 • Benoit Pouliot	 lower body injury (DTD)
+26	2015-12-05	 Oilers	 	 • Benoit Pouliot	 placed on IR with lower body injury
+27	2015-12-19	 Oilers	 • Benoit Pouliot	 	 activated from IR
+28	2016-02-29	 Oilers	 	 • Benoit Pouliot	 shoulder injury (out for season)
+29	2017-02-14	 Oilers	 	 • Benoit Pouliot	 placed on IR with undisclosed injury
+30	2017-02-18	 Oilers	 	 • Benoit Pouliot	 placed on IR with undisclosed injury
+31	2017-03-10	 Oilers	 • Benoit Pouliot	 	 activated from IR

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-10-30	 Devils	 	 • Steve Thomas	 placed on IR
+1	2001-11-15	 Blackhawks	 	 • Steve Thomas	 ankle injury (out indefinitely)
+2	2002-03-18	 Blackhawks	 • Steve Thomas	 	 activated

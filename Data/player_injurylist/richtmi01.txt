@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-22	 Rangers	 	 • Mike Richter	 placed on IR with right knee injury
+1	2000-12-28	 Rangers	 • Mike Richter	 	 activated from IR
+2	2002-11-07	 Rangers	 	 • Mike Richter	 head injury (out indefinitely)

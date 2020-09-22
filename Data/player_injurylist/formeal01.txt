@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-10-12	 Senators	 	 • Alex Formenton	 placed on IR with concussion
+1	2018-10-23	 Senators	 • Alex Formenton	 	 activated from IR

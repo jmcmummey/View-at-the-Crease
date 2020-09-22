@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-01	 Blues	 	 • Jeff Woywitka	 placed on IR with right foot injury
+1	2008-10-23	 Blues	 • Jeff Woywitka	 	 activated from IR
+2	2011-01-21	 Stars	 	 • Jeff Woywitka	 shoulder injury (DTD)
+3	2011-02-01	 Stars	 • Jeff Woywitka	 	 returned to lineup
+4	2011-12-20	 Rangers	 	 • Jeff Woywitka	 foot injury (DTD)
+5	2011-12-28	 Rangers	 • Jeff Woywitka	 	 returned to lineup
+6	2012-01-12	 Rangers	 	 • Jeff Woywitka	 foot injury (DTD)
+7	2012-01-14	 Rangers	 	 • Jeff Woywitka	 placed on IR with foot injury
+8	2012-02-16	 Rangers	 • Jeff Woywitka	 	 activated from IR

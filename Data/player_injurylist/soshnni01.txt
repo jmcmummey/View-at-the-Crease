@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-03-20	 Maple Leafs	 	 • Nikita Soshnikov	 lower (Y) / upper body injury (CBC) (DTD)
+1	2016-04-04	 Maple Leafs	 • Nikita Soshnikov	 	 returned to lineup
+2	2017-01-07	 Maple Leafs	 	 • Nikita Soshnikov	 upper body injury (DTD)
+3	2017-01-13	 Maple Leafs	 • Nikita Soshnikov	 	 returned to lineup
+4	2017-02-09	 Maple Leafs	 	 • Nikita Soshnikov	 upper body injury (DTD)
+5	2017-02-15	 Maple Leafs	 • Nikita Soshnikov	 	 returned to lineup
+6	2017-03-22	 Maple Leafs	 	 • Nikita Soshnikov	 undisclosed injury (out for season)
+7	2017-12-12	 Maple Leafs	 	 • Nikita Soshnikov	 placed on IR with lower body injury
+8	2018-02-24	 Blues	 • Nikita Soshnikov	 	 activated from IR
+9	2018-03-03	 Blues	 	 • Nikita Soshnikov	 illness (DTD)
+10	2018-03-08	 Blues	 • Nikita Soshnikov	 	 returned to lineup
+11	2018-03-23	 Blues	 	 • Nikita Soshnikov	 upper body injury (DTD)
+12	2018-04-06	 Blues	 • Nikita Soshnikov	 	 returned to lineup
+13	2018-10-02	 Blues	 	 • Nikita Soshnikov	 placed on IL with concussion
+14	2018-10-31	 Blues	 • Nikita Soshnikov	 	 activated from IR

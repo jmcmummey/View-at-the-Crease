@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-22	 Jets	 	 • James Wright	 upper body injury (DTD)
+1	2013-03-24	 Jets	 	 • James Wright	 placed on IR with upper body injury
+2	2013-04-06	 Jets	 • James Wright	 	 activated from IR
+3	2013-12-17	 Jets	 	 • James Wright	 flu (DTD)
+4	2013-12-20	 Jets	 • James Wright	 	 returned to lineup
+5	2014-03-04	 Jets	 	 • James Wright	 placed on IR with sprained ankle (out for season)

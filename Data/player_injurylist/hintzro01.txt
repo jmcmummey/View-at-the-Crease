@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-11-05	 Stars	 	 • Roope Hintz	 lower body injury (DTD)
+1	2019-11-14	 Stars	 	 • Roope Hintz	 placed on IR with lower body injury
+2	2019-11-23	 Stars	 • Roope Hintz	 	 activated from IR
+3	2020-01-29	 Stars	 	 • Roope Hintz	 upper body injury (DTD)
+4	2020-02-03	 Stars	 • Roope Hintz	 	 returned to lineup

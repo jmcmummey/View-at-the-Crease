@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-05-03	 Red Wings	 	 • Danny DeKeyser	 fractured right thumb (out for season)
+1	2013-05-10	 Red Wings	 	 • Danny DeKeyser	 placed on IR with fractured right thumb (out for season)
+2	2013-11-20	 Red Wings	 	 • Danny DeKeyser	 placed on IR with separated left shoulder
+3	2013-12-21	 Red Wings	 • Danny DeKeyser	 	 activated from IR
+4	2014-01-03	 Red Wings	 	 • Danny DeKeyser	 lower body injury (DTD)
+5	2014-01-08	 Red Wings	 • Danny DeKeyser	 	 returned to lineup
+6	2014-12-11	 Red Wings	 	 • Danny DeKeyser	 bruised left shoulder (DTD)
+7	2014-12-15	 Red Wings	 • Danny DeKeyser	 	 returned to lineup
+8	2015-10-04	 Red Wings	 	 • Danny DeKeyser	 placed on IR with foot injury
+9	2015-10-17	 Red Wings	 • Danny DeKeyser	 	 activated from IR
+10	2017-10-12	 Red Wings	 	 • Danny DeKeyser	 lower body injury (DTD)
+11	2017-10-30	 Red Wings	 	 • Danny DeKeyser	 ankle injury (DTD)
+12	2017-11-17	 Red Wings	 	 • Danny DeKeyser	 placed on IR with ankle injury
+13	2017-11-19	 Red Wings	 • Danny DeKeyser	 	 activated from IR
+14	2018-10-15	 Red Wings	 	 • Danny DeKeyser	 hand injury (DTD)
+15	2018-10-20	 Red Wings	 	 • Danny DeKeyser	 placed on IR with hand injury
+16	2018-11-03	 Red Wings	 • Danny DeKeyser	 	 activated from IR
+17	2018-12-06	 Red Wings	 	 • Danny DeKeyser	 placed on IR with left hand injury
+18	2019-01-14	 Red Wings	 • Danny DeKeyser	 	 activated from IR
+19	2019-04-01	 Red Wings	 	 • Danny DeKeyser	 lower body injury (out for season)
+20	2019-10-15	 Red Wings	 	 • Danny DeKeyser	 mid-body injury (DTD)
+21	2019-10-17	 Red Wings	 • Danny DeKeyser	 	 returned to lineup
+22	2019-10-23	 Red Wings	 	 • Danny DeKeyser	 undisclosed (DTD)
+23	2019-10-25	 Red Wings	 	 • Danny DeKeyser	 placed on IR with lower body injury

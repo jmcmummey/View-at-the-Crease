@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-16	 Blues	 	 • Eric Brewer	 right shoulder injury (left game)
+1	2005-11-17	 Blues	 	 • Eric Brewer	 placed on IR with separated right shoulder
+2	2005-12-17	 Blues	 • Eric Brewer	 	 activated from IR
+3	2006-01-13	 Blues	 	 • Eric Brewer	 left shoulder injury (left game)
+4	2006-01-14	 Blues	 	 • Eric Brewer	 dislocated left shoulder (out indefinitely)
+5	2006-01-26	 Blues	 	 • Eric Brewer	 dislocated left shoulder (out remainder of regular season)
+6	2007-10-06	 Blues	 	 • Eric Brewer	 right shoulder injury (out indefinitely)
+7	2007-10-20	 Blues	 • Eric Brewer	 	 returned to lineup
+8	2007-11-23	 Blues	 	 • Eric Brewer	 back injury (DTD)
+9	2007-11-25	 Blues	 • Eric Brewer	 	 returned to lineup
+10	2008-12-16	 Blues	 	 • Eric Brewer	 upper body injury (DTD)
+11	2009-09-30	 Blues	 	 • Eric Brewer	 placed on IR with surgery on back
+12	2009-10-29	 Blues	 • Eric Brewer	 	 activated from IR
+13	2009-11-27	 Blues	 	 • Eric Brewer	 lower (Y) / upper (CBC) body injury (DTD)
+14	2009-11-29	 Blues	 	 • Eric Brewer	 placed on IR with back injury
+15	2009-12-23	 Blues	 • Eric Brewer	 	 activated from IR
+16	2011-04-05	 Lightning	 	 • Eric Brewer	 lower body injury (DTD)
+17	2011-04-08	 Lightning	 • Eric Brewer	 	 returned to lineup
+18	2013-12-03	 Lightning	 	 • Eric Brewer	 lower body injury (DTD)
+19	2013-12-06	 Lightning	 • Eric Brewer	 	 returned to lineup
+20	2013-12-22	 Lightning	 	 • Eric Brewer	 arm injury (DTD)
+21	2013-12-28	 Lightning	 	 • Eric Brewer	 placed on IR with arm injury
+22	2014-01-01	 Lightning	 • Eric Brewer	 	 activated from IR
+23	2014-12-02	 Ducks	 	 • Eric Brewer	 placed on IR with fractured foot (date 12-05 per CBC)
+24	2015-01-29	 Ducks	 • Eric Brewer	 	 activated from IR

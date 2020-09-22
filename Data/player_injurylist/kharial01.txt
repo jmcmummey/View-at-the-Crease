@@ -1,0 +1,2 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-02	 Lightning	 • Alexander Kharitonov	 	 activated from IR

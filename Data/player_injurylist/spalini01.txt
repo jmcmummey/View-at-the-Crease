@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-08	 Predators	 	 • Nick Spaling	 upper body injury (DTD)
+1	2011-01-11	 Predators	 • Nick Spaling	 	 returned to lineup
+2	2011-10-31	 Predators	 	 • Nick Spaling	 placed on IR with lower body injury
+3	2011-11-12	 Predators	 • Nick Spaling	 	 activated from IR
+4	2013-10-08	 Predators	 	 • Nick Spaling	 upper body injury (DTD)
+5	2013-10-10	 Predators	 • Nick Spaling	 	 returned to lineup
+6	2014-02-06	 Predators	 	 • Nick Spaling	 placed on IR with lower body injury
+7	2014-03-04	 Predators	 • Nick Spaling	 	 activated from IR
+8	2014-03-21	 Predators	 	 • Nick Spaling	 upper body injury (DTD)
+9	2014-03-23	 Predators	 • Nick Spaling	 	 returned to lineup
+10	2014-03-30	 Predators	 	 • Nick Spaling	 lower body injury (DTD)
+11	2014-04-04	 Predators	 • Nick Spaling	 	 returned to lineup
+12	2015-10-26	 Maple Leafs	 	 • Nick Spaling	 undisclosed injury (DTD)
+13	2015-10-30	 Maple Leafs	 	 • Nick Spaling	 placed on IR with undisclosed injury
+14	2015-11-02	 Maple Leafs	 • Nick Spaling	 	 activated from IR
+15	2015-11-17	 Maple Leafs	 	 • Nick Spaling	 upper body injury (DTD)
+16	2015-11-23	 Maple Leafs	 • Nick Spaling	 	 returned to lineup
+17	2015-12-18	 Maple Leafs	 	 • Nick Spaling	 placed on IR with upper body injury
+18	2016-01-25	 Maple Leafs	 • Nick Spaling	 	 activated from IR

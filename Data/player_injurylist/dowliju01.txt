@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-04-07	 Stars	 	 • Justin Dowling	 upper body injury (out for season)
+1	2019-03-28	 Stars	 	 • Justin Dowling	 upper body injury (DTD)
+2	2019-04-05	 Stars	 • Justin Dowling	 	 returned to lineup
+3	2019-11-25	 Stars	 	 • Justin Dowling	 upper body injury (DTD)
+4	2019-11-29	 Stars	 • Justin Dowling	 	 returned to lineup
+5	2020-01-31	 Stars	 	 • Justin Dowling	 placed on IR with lower body injury
+6	2020-03-07	 Stars	 • Justin Dowling	 	 activated from IR

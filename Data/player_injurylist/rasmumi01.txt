@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-01-06	 Red Wings	 	 • Michael Rasmussen	 lower body injury (DTD)
+1	2019-01-14	 Red Wings	 	 • Michael Rasmussen	 placed on IR with hamstring injury
+2	2019-01-30	 Red Wings	 	 • Michael Rasmussen	 placed on IR
+3	2019-02-07	 Red Wings	 • Michael Rasmussen	 	 activated from IR
+4	2019-03-23	 Red Wings	 	 • Michael Rasmussen	 upper body injury (out for season)

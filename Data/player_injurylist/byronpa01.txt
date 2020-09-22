@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-02-14	 Flames	 	 • Paul Byron	 placed on IR with fractured left hand
+1	2013-04-14	 Flames	 • Paul Byron	 	 activated from IR
+2	2014-01-21	 Flames	 	 • Paul Byron	 lower body injury (DTD)
+3	2014-01-24	 Flames	 • Paul Byron	 	 returned to lineup
+4	2015-02-09	 Flames	 	 • Paul Byron	 illness (DTD)
+5	2015-02-12	 Flames	 • Paul Byron	 	 returned to lineup
+6	2015-02-18	 Flames	 	 • Paul Byron	 undisclosed injury (DTD)
+7	2015-02-23	 Flames	 	 • Paul Byron	 placed on IR with lower body injury
+8	2015-03-27	 Flames	 • Paul Byron	 	 activated from IR
+9	2015-03-29	 Flames	 	 • Paul Byron	 lower body injury (out for season)
+10	2016-01-20	 Canadiens	 	 • Paul Byron	 placed on IR with lower body injury
+11	2016-02-12	 Canadiens	 • Paul Byron	 	 activated from IR
+12	2017-01-05	 Canadiens	 	 • Paul Byron	 upper body injury (DTD)
+13	2017-01-09	 Canadiens	 • Paul Byron	 	 returned to lineup
+14	2018-10-31	 Canadiens	 	 • Paul Byron	 lower body injury (DTD)
+15	2018-11-07	 Canadiens	 	 • Paul Byron	 placed on IR with lower body injury
+16	2018-12-01	 Canadiens	 • Paul Byron	 	 activated from IR
+17	2019-02-05	 Canadiens	 	 • Paul Byron	 forearm injury (DTD)
+18	2019-02-09	 Canadiens	 	 • Paul Byron	 placed on IR with forearm injury
+19	2019-02-19	 Canadiens	 • Paul Byron	 	 activated from IR
+20	2019-03-27	 Canadiens	 	 • Paul Byron	 upper body injury (DTD)
+21	2019-04-02	 Canadiens	 • Paul Byron	 	 returned to lineup
+22	2019-04-06	 Canadiens	 	 • Paul Byron	 wrist injury (out for season)
+23	2019-11-16	 Canadiens	 	 • Paul Byron	 knee injury (DTD)
+24	2019-11-18	 Canadiens	 	 • Paul Byron	 surgery on knee (out indefinitely)
+25	2019-11-29	 Canadiens	 	 • Paul Byron	 placed on IR with surgery on knee
+26	2020-02-18	 Canadiens	 • Paul Byron	 	 activated from IR

@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-01-12	 Blues	 	 • Michal Handzus	 placed on IR
+1	2006-03-01	 Flyers	 	 • Michal Handzus	 left shoulder injury (DTD)
+2	2006-03-17	 Flyers	 • Michal Handzus	 	 returned to lineup
+3	2006-03-18	 Flyers	 	 • Michal Handzus	 rest (DTD)
+4	2006-03-21	 Flyers	 • Michal Handzus	 	 returned to lineup
+5	2006-10-22	 Blackhawks	 	 • Michal Handzus	 knee injury (out indefinitely)
+6	2006-11-17	 Blackhawks	 	 • Michal Handzus	 knee injury (out ~4 months)
+7	2011-11-28	 Sharks	 	 • Michal Handzus	 illness (DTD)
+8	2011-12-01	 Sharks	 • Michal Handzus	 	 returned to lineup
+9	2012-03-17	 Sharks	 	 • Michal Handzus	 undisclosed (DTD)
+10	2012-03-22	 Sharks	 • Michal Handzus	 	 returned to lineup
+11	2013-10-26	 Blackhawks	 	 • Michal Handzus	 upper body injury (DTD)
+12	2013-11-14	 Blackhawks	 	 • Michal Handzus	 placed on IR with upper body injury
+13	2013-11-23	 Blackhawks	 • Michal Handzus	 	 activated from IR
+14	2013-12-03	 Blackhawks	 	 • Michal Handzus	 illness (DTD)
+15	2013-12-06	 Blackhawks	 • Michal Handzus	 	 returned to lineup

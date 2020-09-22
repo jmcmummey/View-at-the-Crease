@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-11-24	 Maple Leafs	 	 • Jiri Tlusty	 ankle injury (DTD)
+1	2007-12-05	 Maple Leafs	 • Jiri Tlusty	 	 returned to lineup
+2	2010-10-24	 Hurricanes	 	 • Jiri Tlusty	 surgery on knee (out indefinitely)
+3	2010-12-17	 Hurricanes	 	 • Jiri Tlusty	 arm injury (DTD)
+4	2011-01-07	 Hurricanes	 	 • Jiri Tlusty	 placed on IR with arm injury
+5	2011-01-17	 Hurricanes	 • Jiri Tlusty	 	 activated from IR
+6	2012-03-11	 Hurricanes	 	 • Jiri Tlusty	 upper body injury (DTD)
+7	2012-03-17	 Hurricanes	 • Jiri Tlusty	 	 returned to lineup
+8	2013-12-24	 Hurricanes	 	 • Jiri Tlusty	 placed on IR with appendectomy
+9	2014-01-13	 Hurricanes	 • Jiri Tlusty	 	 activated from IR
+10	2014-03-16	 Hurricanes	 	 • Jiri Tlusty	 lower body injury (DTD)
+11	2014-03-21	 Hurricanes	 • Jiri Tlusty	 	 returned to lineup
+12	2014-04-01	 Hurricanes	 	 • Jiri Tlusty	 upper body injury (DTD)
+13	2014-04-10	 Hurricanes	 • Jiri Tlusty	 	 returned to lineup
+14	2014-12-13	 Hurricanes	 	 • Jiri Tlusty	 upper body injury (DTD)
+15	2014-12-29	 Hurricanes	 • Jiri Tlusty	 	 returned to lineup
+16	2015-10-31	 Devils	 	 • Jiri Tlusty	 upper body injury (DTD)
+17	2015-11-06	 Devils	 • Jiri Tlusty	 	 returned to lineup
+18	2015-11-27	 Devils	 	 • Jiri Tlusty	 placed on IR with shoulder injury
+19	2015-12-11	 Devils	 • Jiri Tlusty	 	 activated from IR
+20	2016-01-09	 Devils	 	 • Jiri Tlusty	 placed on IR with upper body injury (out for season)

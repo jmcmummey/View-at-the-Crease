@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-12-09	 Stars	 	 • Ulf Dahlen	 placed on IR
+1	2003-01-05	 Stars	 • Ulf Dahlen	 	 activated from IR
+2	2003-02-02	 Stars	 • Ulf Dahlen	 	 activated from IR

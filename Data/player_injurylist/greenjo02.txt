@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-24	 Wild	 	 • Jordan Greenway	 concussion (DTD)
+1	2019-10-29	 Wild	 • Jordan Greenway	 	 returned to lineup

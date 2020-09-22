@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-07	 Senators	 	 • Ben Harpur	 placed on IR with shoulder injury
+1	2017-10-22	 Senators	 • Ben Harpur	 	 activated from IR
+2	2018-04-07	 Senators	 	 • Ben Harpur	 separated shoulder (out for season)
+3	2018-10-23	 Senators	 	 • Ben Harpur	 undisclosed (DTD)
+4	2018-10-27	 Senators	 	 • Ben Harpur	 placed on IR with undisclosed
+5	2018-11-23	 Senators	 • Ben Harpur	 	 activated from IR
+6	2019-01-10	 Senators	 	 • Ben Harpur	 shoulder injury (DTD)
+7	2019-01-19	 Senators	 • Ben Harpur	 	 returned to lineup
+8	2019-01-22	 Senators	 	 • Ben Harpur	 undisclosed (DTD)
+9	2019-02-02	 Senators	 • Ben Harpur	 	 returned to lineup
+10	2019-02-07	 Senators	 	 • Ben Harpur	 undisclosed (DTD)
+11	2019-02-09	 Senators	 • Ben Harpur	 	 returned to lineup
+12	2019-04-03	 Senators	 	 • Ben Harpur	 concussion (out for season)

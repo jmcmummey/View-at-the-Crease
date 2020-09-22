@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-11-25	 Blackhawks	 • Dylan Strome• Brendan Perlini	 • Nick Schmaltz	 trade with Coyotes
+1	2019-11-26	 Blackhawks	 	 • Dylan Strome	 concussion (DTD)
+2	2019-12-05	 Blackhawks	 • Dylan Strome	 	 returned to lineup
+3	2020-01-08	 Blackhawks	 	 • Dylan Strome	 right ankle injury (DTD)
+4	2020-01-16	 Blackhawks	 	 • Dylan Strome	 placed on IR with right ankle injury
+5	2020-02-01	 Blackhawks	 • Dylan Strome	 	 activated from IR

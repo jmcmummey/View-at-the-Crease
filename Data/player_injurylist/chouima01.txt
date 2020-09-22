@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-02-27	 Wild	 	 • Marc Chouinard	 placed on IR
+1	2005-11-03	 Wild	 	 • Marc Chouinard	 shoulder injury (out indefinitely)
+2	2005-11-23	 Wild	 	 • Marc Chouinard	 placed on IR with shoulder injury
+3	2005-11-25	 Wild	 • Marc Chouinard	 	 activated from IR
+4	2006-01-31	 Wild	 	 • Marc Chouinard	 strained neck (DTD)
+5	2006-02-02	 Wild	 • Marc Chouinard	 	 returned to lineup
+6	2006-10-02	 Canucks	 	 • Marc Chouinard	 sprained right shoulder (DTD)
+7	2006-10-13	 Canucks	 • Marc Chouinard	 	 returned to lineup

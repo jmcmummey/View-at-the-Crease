@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-09-27	 Flames	 	 • Blair Betts	 shoulder injury (out indefinitely)
+1	2003-11-22	 Flames	 	 • Blair Betts	 shoulder injury (out indefinitely)
+2	2003-12-31	 Flames	 	 • Blair Betts	 shoulder injury (out indefinitely)
+3	2006-01-07	 Rangers	 	 • Blair Betts	 sprained left knee (left game)
+4	2006-01-09	 Rangers	 	 • Blair Betts	 sprained left knee (DTD)
+5	2006-03-02	 Rangers	 • Blair Betts	 	 returned to lineup
+6	2008-03-21	 Rangers	 	 • Blair Betts	 foot injury (out 2-4 weeks)
+7	2008-04-06	 Rangers	 • Blair Betts	 	 returned to lineup
+8	2009-04-26	 Rangers	 	 • Blair Betts	 head injury (left game)
+9	2009-04-27	 Rangers	 	 • Blair Betts	 fractured orbital bone (DTD)
+10	2009-10-07	 Flyers	 	 • Blair Betts	 placed on IR with dislocated right shoulder
+11	2009-10-31	 Flyers	 • Blair Betts	 	 activated from IR
+12	2009-11-21	 Flyers	 	 • Blair Betts	 dislocated right shoulder (DTD)
+13	2009-11-22	 Flyers	 	 • Blair Betts	 placed on IR with dislocated right shoulder
+14	2009-12-17	 Flyers	 • Blair Betts	 	 activated from IR
+15	2011-02-19	 Flyers	 	 • Blair Betts	 finger injury (DTD)
+16	2011-03-03	 Flyers	 • Blair Betts	 	 returned to lineup
+17	2011-04-04	 Flyers	 	 • Blair Betts	 lower body injury (DTD)
+18	2011-04-14	 Flyers	 • Blair Betts	 	 returned to lineup
+19	2011-10-06	 Canadiens	 	 • Blair Betts	 lower body injury (DTD)
+20	2011-10-15	 Flyers	 	 • Blair Betts	 placed on IR with lower body injury (out for season)

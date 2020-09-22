@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-08	 Panthers	 	 • Jacob Markstrom	 knee injury (out indefinitely)
+1	2012-01-13	 Panthers	 	 • Jacob Markstrom	 placed on IR with knee injury
+2	2012-02-13	 Panthers	 • Jacob Markstrom	 	 activated from IR
+3	2015-10-07	 Canucks	 	 • Jacob Markstrom	 lower body injury (DTD)
+4	2015-10-07	 Canucks	 	 • Jacob Markstrom	 placed on IR with lower body injury (Y)
+5	2015-10-10	 Canucks	 	 • Jacob Markstrom	 placed on IR with hamstring injury
+6	2015-11-09	 Canucks	 • Jacob Markstrom	 	 activated from IR
+7	2017-02-27	 Canucks	 	 • Jacob Markstrom	 placed on IR with lower body injury
+8	2017-03-01	 Canucks	 	 • Jacob Markstrom	 placed on IR with lower body injury (out for season)
+9	2018-02-20	 Canucks	 	 • Jacob Markstrom	 undisclosed (DTD)
+10	2018-02-23	 Canucks	 • Jacob Markstrom	 	 returned to lineup
+11	2020-02-24	 Canucks	 	 • Jacob Markstrom	 knee injury (out indefinitely)
+12	2020-03-11	 Canucks	 	 • Jacob Markstrom	 placed on IR with knee injury
+13	2020-07-26	 Canucks	 • Jacob Markstrom	 	 activated from IR
+14	2020-09-01	 Canucks	 	 • Jacob Markstrom	 groin injury (out for season)

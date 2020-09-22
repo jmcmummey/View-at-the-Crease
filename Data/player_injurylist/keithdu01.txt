@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-14	 Blackhawks	 	 • Duncan Keith	 head/shoulder injury (left game)
+1	2009-01-16	 Blackhawks	 	 • Duncan Keith	 shoulder injury (DTD)
+2	2009-01-28	 Blackhawks	 • Duncan Keith	 	 returned to lineup
+3	2011-11-01	 Blackhawks	 	 • Duncan Keith	 left hand injury (DTD)
+4	2011-11-08	 Blackhawks	 • Duncan Keith	 	 returned to lineup
+5	2014-01-23	 Blackhawks	 	 • Duncan Keith	 illness (DTD)
+6	2014-01-25	 Blackhawks	 • Duncan Keith	 	 returned to lineup
+7	2014-12-15	 Blackhawks	 	 • Duncan Keith	 illness (DTD)
+8	2014-12-20	 Blackhawks	 • Duncan Keith	 	 returned to lineup
+9	2015-10-20	 Blackhawks	 	 • Duncan Keith	 placed on IR with surgery on right knee
+10	2015-11-13	 Blackhawks	 • Duncan Keith	 	 activated from IR
+11	2019-11-30	 Blackhawks	 	 • Duncan Keith	 groin injury (DTD)
+12	2019-12-06	 Blackhawks	 	 • Duncan Keith	 placed on IR with groin injury
+13	2019-12-18	 Blackhawks	 • Duncan Keith	 	 activated from IR

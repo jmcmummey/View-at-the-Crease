@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-03	 Kings	 	 • Austin Wagner	 placed on IR with undisclosed injury
+1	2017-12-02	 Kings	 • Austin Wagner	 	 activated from IR
+2	2018-12-23	 Kings	 	 • Austin Wagner	 upper body injury (DTD)
+3	2018-12-27	 Kings	 • Austin Wagner	 	 returned to lineup
+4	2019-03-04	 Kings	 	 • Austin Wagner	 lower body injury (DTD)
+5	2019-03-13	 Kings	 • Austin Wagner	 	 returned to lineup

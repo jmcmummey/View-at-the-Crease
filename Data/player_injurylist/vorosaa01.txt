@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-30	 Devils	 	 • Aaron Voros	 surgery on leg (out indefinitely)
+1	2010-12-03	 Ducks	 	 • Aaron Voros	 placed on IR with flu
+2	2010-12-08	 Ducks	 • Aaron Voros	 	 activated from IR
+3	2010-12-09	 Ducks	 	 • Aaron Voros	 placed on IR with broken left orbital bone
+4	2011-02-02	 Ducks	 • Aaron Voros	 	 activated from IR

@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-03	 Jets	 	 • Anthony Peluso	 placed on IR with hand injury
+1	2013-04-16	 Jets	 • Anthony Peluso	 	 activated from IR
+2	2013-04-23	 Jets	 	 • Anthony Peluso	 hand injury (out for season)
+3	2014-10-30	 Jets	 	 • Anthony Peluso	 placed on IR with upper body injury
+4	2014-11-16	 Jets	 • Anthony Peluso	 	 activated from IR
+5	2016-03-04	 Jets	 	 • Anthony Peluso	 upper body injury (out for season)

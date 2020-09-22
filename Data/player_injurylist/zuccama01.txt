@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-24	 Rangers	 	 • Mats Zuccarello	 fractured left wrist (out for season)
+1	2014-02-19	 Rangers	 	 • Mats Zuccarello	 fractured hand (DTD)
+2	2014-03-07	 Rangers	 • Mats Zuccarello	 	 returned to lineup
+3	2014-10-12	 Rangers	 	 • Mats Zuccarello	 shoulder injury (DTD)
+4	2014-10-14	 Rangers	 • Mats Zuccarello	 	 returned to lineup
+5	2014-11-03	 Rangers	 	 • Mats Zuccarello	 lower body injury (DTD)
+6	2014-11-05	 Rangers	 • Mats Zuccarello	 	 returned to lineup
+7	2015-04-07	 Rangers	 	 • Mats Zuccarello	 general soreness (DTD)
+8	2015-04-11	 Rangers	 • Mats Zuccarello	 	 returned to lineup
+9	2015-04-25	 Rangers	 	 • Mats Zuccarello	 facial injury (out for season)
+10	2016-04-08	 Rangers	 	 • Mats Zuccarello	 lower body injury (out for season)
+11	2017-04-04	 Rangers	 	 • Mats Zuccarello	 undisclosed injury (DTD)
+12	2017-04-09	 Rangers	 • Mats Zuccarello	 	 returned to lineup
+13	2018-01-06	 Rangers	 	 • Mats Zuccarello	 illness (DTD)
+14	2018-01-07	 Rangers	 • Mats Zuccarello	 	 returned to lineup
+15	2018-04-02	 Rangers	 	 • Mats Zuccarello	 undisclosed injury (DTD)
+16	2018-04-04	 Rangers	 • Mats Zuccarello	 	 returned to lineup
+17	2018-11-08	 Rangers	 	 • Mats Zuccarello	 strained groin (DTD)
+18	2018-11-15	 Rangers	 • Mats Zuccarello	 	 returned to lineup
+19	2018-11-17	 Rangers	 	 • Mats Zuccarello	 groin injury (DTD)
+20	2018-11-23	 Rangers	 • Mats Zuccarello	 	 returned to lineup
+21	2018-11-24	 Rangers	 	 • Mats Zuccarello	 groin injury (DTD)
+22	2018-12-14	 Rangers	 • Mats Zuccarello	 	 returned to lineup
+23	2019-01-28	 Rangers	 	 • Mats Zuccarello	 right foot injury (DTD)
+24	2019-01-31	 Rangers	 • Mats Zuccarello	 	 returned to lineup
+25	2019-02-25	 Stars	 	 • Mats Zuccarello	 fractured arm (out indefinitely)
+26	2019-04-02	 Stars	 • Mats Zuccarello	 	 returned to lineup
+27	2019-10-13	 Wild	 	 • Mats Zuccarello	 placed on IR with lower body injury
+28	2019-10-14	 Wild	 	 • Mats Zuccarello	 lower body injury (DTD)
+29	2019-10-19	 Wild	 	 • Mats Zuccarello	 placed on IR with lower body injury
+30	2019-10-22	 Wild	 • Mats Zuccarello	 	 activated from IR

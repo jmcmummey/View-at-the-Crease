@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1995-10-17	 Jets	 • Keith Tkachuk	 	 activated from IR
+1	1998-12-29	 Coyotes	 	 • Keith Tkachuk	 broken rib (out ~3 weeks)
+2	2002-03-17	 Blues	 • Keith Tkachuk	 	 activated from IR
+3	2005-09-16	 Blues	 	 • Keith Tkachuk	 failed physical
+4	2005-10-06	 Blues	 	 • Keith Tkachuk	 groin injury (DTD)
+5	2005-10-15	 Blues	 • Keith Tkachuk	 	 returned to lineup
+6	2005-10-19	 Blues	 	 • Keith Tkachuk	 ribcage injury (out indefinitely)
+7	2005-10-28	 Blues	 	 • Keith Tkachuk	 placed on IR with 3 cracked ribs (date approximate)
+8	2005-11-20	 Blues	 	 • Keith Tkachuk	 ribcage injury (DTD)
+9	2005-11-25	 Blues	 • Keith Tkachuk	 	 returned to lineup
+10	2005-12-17	 Blues	 	 • Keith Tkachuk	 placed on IR with right hand injury (out until late-Jan)
+11	2006-02-01	 Blues	 • Keith Tkachuk	 	 activated from IR
+12	2006-04-11	 Blues	 	 • Keith Tkachuk	 leg injury (DTD)
+13	2006-04-13	 Blues	 • Keith Tkachuk	 	 returned to lineup
+14	2008-02-10	 Blues	 	 • Keith Tkachuk	 flu (DTD)
+15	2008-02-12	 Blues	 • Keith Tkachuk	 	 returned to lineup
+16	2008-03-10	 Blues	 	 • Keith Tkachuk	 left shoulder injury (DTD)
+17	2008-03-14	 Blues	 • Keith Tkachuk	 	 returned to lineup
+18	2009-01-15	 Blues	 	 • Keith Tkachuk	 head injury (DTD)
+19	2009-01-19	 Blues	 • Keith Tkachuk	 	 returned to lineup
+20	2009-03-20	 Blues	 	 • Keith Tkachuk	 wrist injury (DTD)
+21	2009-03-24	 Blues	 • Keith Tkachuk	 	 returned to lineup
+22	2009-12-16	 Blues	 	 • Keith Tkachuk	 lower body injury (DTD)
+23	2009-12-18	 Blues	 • Keith Tkachuk	 	 returned to lineup
+24	2010-01-03	 Blues	 	 • Keith Tkachuk	 facial laceration (DTD)
+25	2010-01-12	 Blues	 • Keith Tkachuk	 	 activated from IR
+26	2010-02-12	 Blues	 	 • Keith Tkachuk	 upper back injury (DTD)
+27	2010-03-14	 Blues	 • Keith Tkachuk	 	 returned to lineup
+28	2010-04-07	 Blues	 	 • Keith Tkachuk	 lower body injury (DTD)
+29	2010-04-09	 Blues	 • Keith Tkachuk	 	 returned to lineup

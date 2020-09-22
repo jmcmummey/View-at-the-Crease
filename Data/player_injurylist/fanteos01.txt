@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-28	 Kings	 	 • Oscar Fantenberg	 back injury (DTD)
+1	2017-11-02	 Kings	 • Oscar Fantenberg	 	 returned to lineup
+2	2019-01-17	 Kings	 	 • Oscar Fantenberg	 lower body injury (DTD)
+3	2019-02-02	 Kings	 • Oscar Fantenberg	 	 returned to lineup
+4	2019-10-15	 Canucks	 	 • Oscar Fantenberg	 placed on IR with illness
+5	2019-10-25	 Canucks	 • Oscar Fantenberg	 	 activated from IR
+6	2020-02-06	 Canucks	 	 • Oscar Fantenberg	 placed on IR with concussion
+7	2020-02-22	 Canucks	 • Oscar Fantenberg	 	 activated from IR
+8	2020-08-07	 Canucks	 	 • Oscar Fantenberg	 undisclosed (DTD)
+9	2020-08-12	 Canucks	 • Oscar Fantenberg	 	 returned to lineup

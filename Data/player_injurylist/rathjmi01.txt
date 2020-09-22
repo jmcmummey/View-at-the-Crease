@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1996-11-08	 Sharks	 	 • Mike Rathje	 groin injury (out indefinitely)
+1	2006-02-08	 Flyers	 	 • Mike Rathje	 groin injury (DTD)
+2	2006-03-01	 Flyers	 • Mike Rathje	 	 returned to lineup
+3	2006-10-07	 Flyers	 	 • Mike Rathje	 herniated disc (out indefinitely)
+4	2006-10-19	 Flyers	 • Mike Rathje	 	 returned to lineup
+5	2006-11-04	 Flyers	 	 • Mike Rathje	 back injury (DTD)
+6	2006-11-06	 Flyers	 • Mike Rathje	 	 returned to lineup
+7	2006-11-22	 Flyers	 	 • Mike Rathje	 back injury (DTD)
+8	2006-11-24	 Flyers	 • Mike Rathje	 	 returned to lineup
+9	2006-11-30	 Flyers	 	 • Mike Rathje	 back injury (DTD)
+10	2007-09-26	 Flyers	 	 • Mike Rathje	 groin injury (DTD)
+11	2008-09-20	 Flyers	 	 • Mike Rathje	 placed on IR with back injury (out for season)
+12	2009-09-14	 Flyers	 	 • Mike Rathje	 placed on IR with back injury

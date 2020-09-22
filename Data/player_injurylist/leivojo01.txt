@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-02-12	 Maple Leafs	 	 • Josh Leivo	 placed on IR with upper body injury
+1	2016-02-23	 Maple Leafs	 • Josh Leivo	 	 activated from IR
+2	2016-10-11	 Maple Leafs	 	 • Josh Leivo	 placed on IR with lower body injury
+3	2016-12-10	 Maple Leafs	 • Josh Leivo	 	 activated from IR
+4	2017-03-25	 Maple Leafs	 	 • Josh Leivo	 undisclosed injury (out for season)
+5	2019-01-03	 Canucks	 	 • Josh Leivo	 placed on IR with back injury
+6	2019-01-13	 Canucks	 • Josh Leivo	 	 activated from IR
+7	2019-03-24	 Canucks	 	 • Josh Leivo	 illness (DTD)
+8	2019-03-26	 Canucks	 • Josh Leivo	 	 returned to lineup
+9	2019-12-21	 Canucks	 	 • Josh Leivo	 placed on IR with fractured kneecap (out for season)

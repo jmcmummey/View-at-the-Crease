@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-04-10	 Avalanche	 	 • Matt Duchene	 torso injury (DTD)
+1	2010-04-14	 Avalanche	 • Matt Duchene	 	 returned to lineup
+2	2011-02-15	 Avalanche	 	 • Matt Duchene	 placed on IR with hand injury
+3	2011-02-22	 Avalanche	 • Matt Duchene	 	 activated from IR
+4	2011-12-29	 Avalanche	 	 • Matt Duchene	 right knee injury (DTD)
+5	2011-12-30	 Avalanche	 	 • Matt Duchene	 placed on IR with right knee injury
+6	2012-02-19	 Avalanche	 • Matt Duchene	 	 activated from IR
+7	2012-03-07	 Avalanche	 	 • Matt Duchene	 sprained right ankle (out indefinitely)
+8	2012-03-15	 Avalanche	 • Matt Duchene	 	 returned to lineup
+9	2013-02-26	 Avalanche	 	 • Matt Duchene	 groin injury (DTD)
+10	2013-02-28	 Avalanche	 • Matt Duchene	 	 returned to lineup
+11	2013-11-17	 Avalanche	 	 • Matt Duchene	 strained oblique muscle (DTD)
+12	2013-11-27	 Avalanche	 • Matt Duchene	 	 returned to lineup
+13	2014-03-30	 Avalanche	 	 • Matt Duchene	 knee injury (DTD)
+14	2014-04-28	 Avalanche	 • Matt Duchene	 	 returned to lineup
+15	2016-03-18	 Avalanche	 	 • Matt Duchene	 knee injury (DTD)
+16	2016-04-01	 Avalanche	 • Matt Duchene	 	 returned to lineup
+17	2016-11-12	 Avalanche	 	 • Matt Duchene	 head injury (DTD)
+18	2016-11-21	 Avalanche	 • Matt Duchene	 	 returned to lineup
+19	2017-01-23	 Avalanche	 	 • Matt Duchene	 illness (DTD)
+20	2017-01-25	 Avalanche	 • Matt Duchene	 	 returned to lineup
+21	2018-12-07	 Senators	 	 • Matt Duchene	 placed on IR with groin injury
+22	2018-12-19	 Senators	 • Matt Duchene	 	 activated from IR
+23	2019-10-26	 Predators	 	 • Matt Duchene	 lower body injury (DTD)
+24	2019-10-29	 Predators	 • Matt Duchene	 	 returned to lineup
+25	2020-01-04	 Predators	 	 • Matt Duchene	 illness (DTD)
+26	2020-01-07	 Predators	 • Matt Duchene	 	 returned to lineup

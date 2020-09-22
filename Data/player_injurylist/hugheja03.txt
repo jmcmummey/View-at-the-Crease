@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-11-30	 Devils	 	 • Jack Hughes (b. 2001-05-14)	 lower body injury (DTD)
+1	2019-12-06	 Devils	 • Jack Hughes (b. 2001-05-14)	 	 returned to lineup
+2	2020-01-02	 Devils	 	 • Jack Hughes (b. 2001-05-14)	 upper body injury (DTD)
+3	2020-01-12	 Devils	 • Jack Hughes (b. 2001-05-14)	 	 returned to lineup

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-04-23	 Panthers	 	 • Quinton Howden	 illness (DTD)
+1	2013-04-25	 Panthers	 • Quinton Howden	 	 returned to lineup
+2	2016-02-14	 Panthers	 	 • Quinton Howden	 concussion (DTD)
+3	2016-02-27	 Panthers	 • Quinton Howden	 	 returned to lineup

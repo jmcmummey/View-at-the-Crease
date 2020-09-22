@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-20	 Bruins	 	 • Andrew Alberts	 separated shoulder (out 3-4 weeks)
+1	2006-11-02	 Bruins	 • Andrew Alberts	 	 returned to lineup
+2	2007-02-20	 Bruins	 	 • Andrew Alberts	 lower body injury (DTD)
+3	2007-02-26	 Bruins	 • Andrew Alberts	 	 returned to lineup
+4	2007-12-18	 Bruins	 	 • Andrew Alberts	 headache (DTD)
+5	2008-04-02	 Bruins	 • Andrew Alberts	 	 returned to lineup
+6	2010-10-27	 Canucks	 	 • Andrew Alberts	 knee injury (DTD)
+7	2010-12-05	 Canucks	 	 • Andrew Alberts	 flu (DTD)
+8	2011-01-17	 Canucks	 	 • Andrew Alberts	 right shoulder injury (DTD)
+9	2011-02-07	 Canucks	 • Andrew Alberts	 	 rerturned to lineup
+10	2011-02-15	 Canucks	 	 • Andrew Alberts	 placed on IR with broken wrist (surgery, out for season)
+11	2011-04-19	 Canucks	 	 • Andrew Alberts	 broken wrist (out for season) (CBC)
+12	2013-12-30	 Canucks	 	 • Andrew Alberts	 concussion (out for season)
+13	2014-01-07	 Canucks	 	 • Andrew Alberts	 placed on IR with concussion (out for season)

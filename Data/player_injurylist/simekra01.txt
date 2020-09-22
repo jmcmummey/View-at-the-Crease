@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-01-02	 Sharks	 	 • Radim Simek	 concussion (out indefinitely)
+1	2019-01-07	 Sharks	 • Radim Simek	 	 returned to lineup
+2	2019-03-14	 Sharks	 	 • Radim Simek	 right knee injury (out for season)
+3	2019-10-01	 Sharks	 	 • Radim Simek	 placed on IR with knee injury
+4	2019-11-05	 Sharks	 • Radim Simek	 	 activated from IR
+5	2019-12-08	 Sharks	 	 • Radim Simek	 knee injury (out indefinitely)
+6	2019-12-19	 Sharks	 	 • Radim Simek	 placed on IR with knee injury
+7	2019-12-27	 Sharks	 • Radim Simek	 	 activated from IR

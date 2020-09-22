@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-17	 Senators	 	 • Brandon Bochenski	 right shoulder injury (left game)
+1	2005-12-20	 Senators	 	 • Brandon Bochenski	 placed on IR with separated right shoulder (out until early-Feb)
+2	2006-01-12	 Senators	 • Brandon Bochenski	 	 activated from IR
+3	2006-01-14	 Senators	 	 • Brandon Bochenski	 shoulder injury (DTD)
+4	2006-01-22	 Senators	 • Brandon Bochenski	 	 returned to lineup

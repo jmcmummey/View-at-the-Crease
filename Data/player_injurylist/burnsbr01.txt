@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-10-28	 Wild	 	 • Brent Burns	 placed on IR
+1	2003-11-15	 Wild	 • Brent Burns	 	 activated from IR
+2	2008-11-01	 Wild	 	 • Brent Burns	 upper body injury (DTD)
+3	2008-11-13	 Wild	 • Brent Burns	 	 returned to lineup
+4	2009-03-08	 Wild	 	 • Brent Burns	 illness (DTD)
+5	2009-11-20	 Wild	 	 • Brent Burns	 illness (DTD)
+6	2009-11-26	 Wild	 	 • Brent Burns	 placed on IR with concussion
+7	2010-01-21	 Wild	 • Brent Burns	 	 activated from IR
+8	2010-03-10	 Wild	 	 • Brent Burns	 hip injury (DTD)
+9	2010-03-21	 Wild	 • Brent Burns	 	 returned to lineup
+10	2012-01-24	 Sharks	 	 • Brent Burns	 charley horse (DTD)
+11	2012-01-31	 Sharks	 • Brent Burns	 	 returned to lineup
+12	2013-01-18	 Sharks	 	 • Brent Burns	 placed on IR with surgery to repair sports hernia
+13	2013-02-09	 Sharks	 • Brent Burns	 	 activated from IR
+14	2013-02-24	 Sharks	 	 • Brent Burns	 placed on IR with lower body injury
+15	2013-03-12	 Sharks	 • Brent Burns	 	 activated from IR
+16	2013-10-21	 Sharks	 	 • Brent Burns	 head/mouth injury (DTD)
+17	2013-11-07	 Sharks	 	 • Brent Burns	 placed on IR with upper body injury
+18	2013-11-21	 Sharks	 • Brent Burns	 	 activated from IR

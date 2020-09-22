@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-02-12	 Panthers	 	 • Steve Montador	 broken nose (DTD)
+1	2007-10-03	 Panthers	 	 • Steve Montador	 surgery on knee (out 3-4 weeks)
+2	2007-10-24	 Panthers	 • Steve Montador	 	 returned to lineup
+3	2009-03-07	 Bruins	 	 • Steve Montador	 flu (DTD)
+4	2009-03-10	 Bruins	 • Steve Montador	 	 returned to lineup
+5	2010-02-09	 Sabres	 	 • Steve Montador	 hip injury (DTD)
+6	2010-02-11	 Sabres	 • Steve Montador	 	 returned to lineup
+7	2011-02-07	 Sabres	 	 • Steve Montador	 concussion (DTD)
+8	2011-02-18	 Sabres	 • Steve Montador	 	 returned to lineup
+9	2011-03-22	 Sabres	 	 • Steve Montador	 lower body injury (DTD)
+10	2011-03-26	 Sabres	 • Steve Montador	 	 returned to lineup
+11	2012-01-02	 Blackhawks	 	 • Steve Montador	 upper body injury (DTD)
+12	2012-01-04	 Blackhawks	 	 • Steve Montador	 placed on IR with upper body injury
+13	2012-01-07	 Blackhawks	 • Steve Montador	 	 activated from IR
+14	2012-02-08	 Blackhawks	 	 • Steve Montador	 upper body injury (DTD)
+15	2012-02-10	 Blackhawks	 	 • Steve Montador	 placed on IR with upper body injury
+16	2012-03-27	 Blackhawks	 • Steve Montador	 	 activated from IR
+17	2012-03-29	 Blackhawks	 	 • Steve Montador	 concussion (out for season)
+18	2013-01-19	 Blackhawks	 	 • Steve Montador	 placed on IR with concussion
+19	2013-03-06	 Blackhawks	 • Steve Montador	 	 activated from IR
+20	2013-03-08	 Blackhawks	 	 • Steve Montador	 concussion (DTD)
+21	2013-03-12	 Blackhawks	 • Steve Montador	 	 returned to lineup

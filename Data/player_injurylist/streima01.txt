@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-13	 Canadiens	 	 • Mark Streit	 flu (DTD)
+1	2005-12-20	 Canadiens	 • Mark Streit	 	 returned to lineup
+2	2008-03-29	 Canadiens	 	 • Mark Streit	 foot injury (DTD)
+3	2008-04-01	 Canadiens	 • Mark Streit	 	 returned to lineup
+4	2008-04-17	 Canadiens	 	 • Mark Streit	 hip injury (DTD)
+5	2008-04-19	 Canadiens	 • Mark Streit	 	 returned to lineup
+6	2009-02-05	 Islanders	 	 • Mark Streit	 upper body injury (DTD)
+7	2009-02-16	 Islanders	 • Mark Streit	 	 returned to lineup
+8	2009-04-01	 Islanders	 	 • Mark Streit	 strained groin (DTD)
+9	2009-04-07	 Islanders	 • Mark Streit	 	 returned to lineup
+10	2010-09-26	 Islanders	 	 • Mark Streit	 placed on IR with torn labrum and rotator cuff in left shoulder (out for season)
+11	2013-02-18	 Islanders	 	 • Mark Streit	 placed on IR
+12	2015-03-28	 Flyers	 	 • Mark Streit	 flu (DTD)
+13	2015-04-01	 Flyers	 • Mark Streit	 	 returned to lineup
+14	2015-11-14	 Flyers	 	 • Mark Streit	 placed on IR with groin injury
+15	2015-12-30	 Flyers	 • Mark Streit	 	 activated from IR
+16	2016-12-12	 Flyers	 	 • Mark Streit	 shoulder injury (out indefinitely)
+17	2016-12-21	 Flyers	 	 • Mark Streit	 placed on IR with shoulder injury
+18	2017-01-13	 Flyers	 • Mark Streit	 	 activated from IR

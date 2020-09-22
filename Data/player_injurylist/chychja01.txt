@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-12-23	 Coyotes	 	 • Jakob Chychrun	 concussion (DTD)
+1	2016-12-27	 Coyotes	 • Jakob Chychrun	 	 returned to lineup
+2	2017-01-07	 Coyotes	 	 • Jakob Chychrun	 upper body injury (DTD)
+3	2017-10-03	 Coyotes	 	 • Jakob Chychrun	 placed on IR with knee injury
+4	2017-12-02	 Coyotes	 • Jakob Chychrun	 	 activated from IR
+5	2018-01-18	 Coyotes	 	 • Jakob Chychrun	 illness (DTD)
+6	2018-01-20	 Coyotes	 • Jakob Chychrun	 	 returned to lineup
+7	2018-04-04	 Coyotes	 	 • Jakob Chychrun	 lower body injury (out for season)
+8	2018-10-02	 Coyotes	 	 • Jakob Chychrun	 placed on IR with knee injury
+9	2018-11-13	 Coyotes	 • Jakob Chychrun	 	 activated from IR
+10	2018-11-15	 Coyotes	 	 • Jakob Chychrun	 upper body injury (DTD)
+11	2018-11-16	 Coyotes	 	 • Jakob Chychrun	 placed on IR with upper body injury
+12	2018-11-21	 Coyotes	 • Jakob Chychrun	 	 activated from IR
+13	2019-02-02	 Coyotes	 	 • Jakob Chychrun	 lower body injury (DTD)
+14	2019-02-02	 Coyotes	 	 • Jakob Chychrun	 placed on IR with lower body injury
+15	2019-02-09	 Coyotes	 • Jakob Chychrun	 	 activated from IR
+16	2020-02-20	 Coyotes	 	 • Jakob Chychrun	 lower body injury (DTD)
+17	2020-02-22	 Coyotes	 	 • Jakob Chychrun	 placed on IR with hip injury
+18	2020-07-13	 Coyotes	 • Jakob Chychrun	 	 activated from IR

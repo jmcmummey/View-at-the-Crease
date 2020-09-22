@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-04	 Kings	 	 • Andrew Bodnarchuk	 placed on IR with knee injury
+1	2014-11-17	 Kings	 • Andrew Bodnarchuk	 	 activated from IR

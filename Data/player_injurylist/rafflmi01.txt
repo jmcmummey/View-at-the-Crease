@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-12	 Flyers	 	 • Michael Raffl	 flu (DTD)
+1	2013-11-15	 Flyers	 • Michael Raffl	 	 returned to lineup
+2	2014-01-03	 Flyers	 	 • Michael Raffl	 concussion (DTD)
+3	2014-01-07	 Flyers	 • Michael Raffl	 	 returned to lineup
+4	2014-11-05	 Flyers	 	 • Michael Raffl	 lower body injury (DTD)
+5	2014-11-20	 Flyers	 	 • Michael Raffl	 placed on IR with lower body injury
+6	2014-11-26	 Flyers	 • Michael Raffl	 	 activated from IR
+7	2015-01-27	 Flyers	 	 • Michael Raffl	 illness/pneumonia (DTD)
+8	2015-02-15	 Flyers	 • Michael Raffl	 	 returned to lineup
+9	2015-10-24	 Flyers	 	 • Michael Raffl	 upper body injury (DTD)
+10	2016-10-19	 Flyers	 	 • Michael Raffl	 abdominal injury (DTD)
+11	2016-10-25	 Flyers	 	 • Michael Raffl	 placed on IR with abdominal injury
+12	2016-11-03	 Flyers	 • Michael Raffl	 	 activated from IR
+13	2016-12-27	 Flyers	 	 • Michael Raffl	 lower body injury (DTD)
+14	2016-12-30	 Flyers	 • Michael Raffl	 	 returned to lineup
+15	2017-03-01	 Flyers	 	 • Michael Raffl	 placed on IR with lower body injury (out for season)
+16	2018-03-19	 Flyers	 	 • Michael Raffl	 upper body injury (out indefinitely)
+17	2018-04-03	 Flyers	 • Michael Raffl	 	 returned to lineup
+18	2018-10-23	 Flyers	 	 • Michael Raffl	 placed on IR with lower body injury
+19	2018-11-27	 Flyers	 • Michael Raffl	 	 activated from IR
+20	2019-03-21	 Flyers	 	 • Michael Raffl	 illness (DTD)
+21	2019-03-23	 Flyers	 • Michael Raffl	 	 returned to lineup
+22	2019-12-04	 Flyers	 	 • Michael Raffl	 placed on IR with fractured finger
+23	2019-12-29	 Flyers	 • Michael Raffl	 	 activated from IR
+24	2020-01-21	 Flyers	 	 • Michael Raffl	 upper body injury (DTD)
+25	2020-01-31	 Flyers	 • Michael Raffl	 	 returned to lineup
+26	2020-08-03	 Flyers	 	 • Michael Raffl	 left leg injury (DTD)
+27	2020-08-16	 Flyers	 • Michael Raffl	 	 returned to lineup

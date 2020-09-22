@@ -1,0 +1,52 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-12-19	 Blue Jackets	 	 • Rick Nash	 placed on IR
+1	2002-12-23	 Blue Jackets	 • Rick Nash	 	 activated from IR
+2	2005-09-14	 Blue Jackets	 	 • Rick Nash	 sprained ankle (out 2-3 weeks)
+3	2005-10-07	 Blue Jackets	 	 • Rick Nash	 ankle injury (DTD)
+4	2005-10-08	 Blue Jackets	 	 • Rick Nash	 placed on IR with ankle injury
+5	2005-11-01	 Blue Jackets	 • Rick Nash	 	 activated from IR
+6	2005-11-03	 Blue Jackets	 	 • Rick Nash	 knee injury (left game)
+7	2005-11-04	 Blue Jackets	 	 • Rick Nash	 placed on IR with knee injury (out indefinitely)
+8	2005-12-17	 Blue Jackets	 • Rick Nash	 	 activated from IR
+9	2006-11-19	 Blue Jackets	 	 • Rick Nash	 groin injury (DTD)
+10	2006-11-24	 Blue Jackets	 • Rick Nash	 	 returned to lineup
+11	2007-01-06	 Blue Jackets	 	 • Rick Nash	 lower body injury (DTD)
+12	2007-01-11	 Blue Jackets	 	 • Rick Nash	 placed on IR
+13	2007-01-18	 Blue Jackets	 • Rick Nash	 	 activated from IR
+14	2007-12-26	 Blue Jackets	 	 • Rick Nash	 throat (DTD)
+15	2007-12-29	 Blue Jackets	 • Rick Nash	 	 returned to lineup
+16	2008-12-20	 Blue Jackets	 	 • Rick Nash	 flu (DTD)
+17	2009-01-06	 Blue Jackets	 	 • Rick Nash	 left knee injury (DTD)
+18	2009-01-12	 Blue Jackets	 	 • Rick Nash	 placed on IR
+19	2009-01-18	 Blue Jackets	 • Rick Nash	 	 activated from IR
+20	2010-03-09	 Blue Jackets	 	 • Rick Nash	 lower body injury (DTD)
+21	2010-03-19	 Blue Jackets	 • Rick Nash	 	 returned to lineup
+22	2010-04-05	 Blue Jackets	 	 • Rick Nash	 neck injury (DTD)
+23	2010-04-09	 Blue Jackets	 • Rick Nash	 	 returned to lineup
+24	2010-11-12	 Blue Jackets	 	 • Rick Nash	 lower body injury (DTD)
+25	2010-11-17	 Blue Jackets	 • Rick Nash	 	 returned to lineup
+26	2011-03-31	 Blue Jackets	 	 • Rick Nash	 back injury (out for season)
+27	2013-02-19	 Rangers	 	 • Rick Nash	 undisclosed injury (DTD)
+28	2013-02-23	 Rangers	 	 • Rick Nash	 placed on IR with undisclosed injury
+29	2013-02-28	 Rangers	 • Rick Nash	 	 activated from IR
+30	2013-10-09	 Rangers	 	 • Rick Nash	 head injury (DTD)
+31	2013-10-14	 Rangers	 	 • Rick Nash	 placed on IR with head injury
+32	2013-11-19	 Rangers	 • Rick Nash	 	 activated from IR
+33	2015-02-24	 Rangers	 	 • Rick Nash	 neck spasms (DTD)
+34	2015-02-26	 Rangers	 • Rick Nash	 	 returned to lineup
+35	2015-04-09	 Rangers	 	 • Rick Nash	 general soreness (out for season)
+36	2015-11-06	 Rangers	 	 • Rick Nash	 back injury (DTD)
+37	2015-11-10	 Rangers	 • Rick Nash	 	 returned to lineup
+38	2016-01-23	 Rangers	 	 • Rick Nash	 knee injury (DTD)
+39	2016-03-08	 Rangers	 	 • Rick Nash	 placed on IR with knee injury
+40	2016-03-12	 Rangers	 • Rick Nash	 	 activated from IR
+41	2016-12-07	 Rangers	 	 • Rick Nash	 groin injury (DTD)
+42	2016-12-14	 Rangers	 • Rick Nash	 	 returned to lineup
+43	2016-12-19	 Rangers	 	 • Rick Nash	 groin injury (DTD)
+44	2017-01-12	 Rangers	 • Rick Nash	 	 returned to lineup
+45	2017-03-09	 Rangers	 	 • Rick Nash	 upper body injury (DTD)
+46	2017-03-12	 Rangers	 • Rick Nash	 	 returned to lineup
+47	2017-04-04	 Rangers	 	 • Rick Nash	 undisclosed injury (DTD)
+48	2017-04-09	 Rangers	 • Rick Nash	 	 returned to lineup
+49	2018-03-19	 Bruins	 	 • Rick Nash	 upper body injury (DTD)
+50	2018-04-12	 Bruins	 • Rick Nash	 	 returned to lineup

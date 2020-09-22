@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-02-16	 Flyers	 	 • Ville Leino	 lower body injury (DTD)
+1	2011-02-18	 Flyers	 • Ville Leino	 	 returned to lineup
+2	2011-12-14	 Sabres	 	 • Ville Leino	 lower body injury (DTD)
+3	2011-12-16	 Sabres	 	 • Ville Leino	 placed on IR with lower body injury
+4	2012-01-07	 Sabres	 • Ville Leino	 	 activated from IR
+5	2013-01-20	 Sabres	 	 • Ville Leino	 leg injury (DTD)
+6	2013-01-24	 Sabres	 	 • Ville Leino	 placed on IR with leg injury
+7	2013-03-16	 Sabres	 • Ville Leino	 	 activated from IR
+8	2013-03-31	 Sabres	 	 • Ville Leino	 upper body injury (out for season)
+9	2013-10-03	 Sabres	 	 • Ville Leino	 placed on IR with cracked rib
+10	2013-10-26	 Sabres	 • Ville Leino	 	 activated from IR
+11	2013-12-23	 Sabres	 	 • Ville Leino	 flu-like symptoms (DTD)
+12	2013-12-27	 Sabres	 • Ville Leino	 	 returned to lineup
+13	2014-01-02	 Sabres	 	 • Ville Leino	 lower body injury (DTD)
+14	2014-01-11	 Sabres	 • Ville Leino	 	 returned to lineup
+15	2014-03-29	 Sabres	 	 • Ville Leino	 upper body injury (DTD)
+16	2014-04-01	 Sabres	 • Ville Leino	 	 returned to lineup

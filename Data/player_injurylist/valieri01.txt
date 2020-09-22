@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-09	 Canadiens	 	 • Rinat Valiev	 lower body injury (DTD)
+1	2018-04-03	 Canadiens	 • Rinat Valiev	 	 returned to lineup

@@ -1,0 +1,48 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-12-09	 Thrashers	 	 • Evander Kane	 flu (DTD)
+1	2009-12-10	 Thrashers	 • Evander Kane	 	 returned to lineup
+2	2010-03-06	 Thrashers	 	 • Evander Kane	 broken left foot (DTD)
+3	2010-04-03	 Thrashers	 • Evander Kane	 	 returned to lineup
+4	2010-12-02	 Thrashers	 	 • Evander Kane	 knee injury (DTD)
+5	2010-12-06	 Thrashers	 • Evander Kane	 	 returned to lineup
+6	2010-12-30	 Thrashers	 	 • Evander Kane	 right arm injury (DTD)
+7	2010-12-31	 Thrashers	 • Evander Kane	 	 returned to lineup
+8	2011-01-07	 Thrashers	 	 • Evander Kane	 placed on IR with lower body injury
+9	2011-01-14	 Thrashers	 • Evander Kane	 	 activated from IR
+10	2011-01-18	 Thrashers	 	 • Evander Kane	 lower body injury (DTD)
+11	2011-02-01	 Thrashers	 • Evander Kane	 	 returned to lineup
+12	2011-10-17	 Jets	 	 • Evander Kane	 lower body injury (DTD)
+13	2011-10-19	 Jets	 • Evander Kane	 	 returned to lineup
+14	2012-01-21	 Jets	 	 • Evander Kane	 concussion (DTD)
+15	2012-01-24	 Jets	 	 • Evander Kane	 placed on IR with concussion
+16	2012-02-07	 Jets	 • Evander Kane	 	 activated from IR
+17	2013-10-16	 Jets	 	 • Evander Kane	 undisclosed injury (DTD)
+18	2013-11-03	 Jets	 	 • Evander Kane	 lower body injury (DTD)
+19	2013-11-08	 Jets	 • Evander Kane	 	 returned to lineup
+20	2013-11-30	 Jets	 	 • Evander Kane	 lower body injury (DTD)
+21	2013-12-16	 Jets	 • Evander Kane	 	 returned to lineup
+22	2014-01-10	 Jets	 	 • Evander Kane	 hand injury (DTD)
+23	2014-01-16	 Jets	 	 • Evander Kane	 placed on IR with hand injury
+24	2014-01-21	 Jets	 • Evander Kane	 	 activated from IR
+25	2014-01-28	 Jets	 	 • Evander Kane	 infection in hand (out indefinitely)
+26	2014-02-03	 Jets	 	 • Evander Kane	 placed on IR with infection in hand
+27	2014-02-26	 Jets	 • Evander Kane	 	 activated from IR
+28	2014-10-10	 Jets	 	 • Evander Kane	 lower body injury (DTD)
+29	2014-10-17	 Jets	 	 • Evander Kane	 placed on IR with sprained right knee
+30	2014-10-30	 Jets	 • Evander Kane	 	 activated from IR
+31	2014-12-28	 Jets	 	 • Evander Kane	 placed on IR with lower body injury
+32	2015-01-05	 Jets	 	 • Evander Kane	 placed on IR with lower body injury (CBC E SN)
+33	2015-01-10	 Jets	 • Evander Kane	 	 activated from IR
+34	2015-02-05	 Jets	 	 • Evander Kane	 placed on IR recovering from surgery on left shoulder (out for season)
+35	2015-10-25	 Sabres	 	 • Evander Kane	 sprained MCL in knee (DTD)
+36	2015-10-27	 Sabres	 	 • Evander Kane	 placed on IR with sprained MCL in knee
+37	2015-11-19	 Sabres	 • Evander Kane	 	 activated from IR
+38	2016-03-29	 Sabres	 	 • Evander Kane	 upper body injury (out for season)
+39	2016-10-14	 Sabres	 	 • Evander Kane	 cracked ribs (DTD)
+40	2016-11-01	 Sabres	 	 • Evander Kane	 placed on IR with cracked ribs
+41	2016-11-09	 Sabres	 • Evander Kane	 	 activated from IR
+42	2017-02-14	 Sabres	 	 • Evander Kane	 illness (DTD)
+43	2017-02-16	 Sabres	 • Evander Kane	 	 returned to lineup
+44	2018-04-03	 Sharks	 	 • Evander Kane	 arm injury (DTD)
+45	2018-04-07	 Sharks	 • Evander Kane	 	 returned to lineup
+46	2019-03-01	 Sharks	 	 • Evander Kane	 mid body injury (DTD)

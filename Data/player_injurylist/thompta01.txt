@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-02-11	 Blues	 	 • Tage Thompson	 undisclosed (DTD)
+1	2018-02-14	 Blues	 • Tage Thompson	 	 returned to lineup
+2	2019-11-18	 Sabres	 	 • Tage Thompson	 shoulder injury (out indefinitely)
+3	2019-11-21	 Sabres	 	 • Tage Thompson	 placed on IR with shoulder injury

@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-20	 Blue Jackets	 	 • Grant Clitsome	 knee injury (DTD)
+1	2011-04-05	 Blue Jackets	 • Grant Clitsome	 	 returned to lineup
+2	2013-04-02	 Jets	 	 • Grant Clitsome	 facial injury (DTD)
+3	2013-04-04	 Jets	 • Grant Clitsome	 	 returned to lineup
+4	2013-09-30	 Jets	 	 • Grant Clitsome	 placed on IR with undisclosed injury
+5	2013-10-06	 Jets	 • Grant Clitsome	 	 activated from IR
+6	2013-12-26	 Jets	 	 • Grant Clitsome	 placed on IR with illness (out for season)
+7	2014-11-18	 Jets	 	 • Grant Clitsome	 illness (DTD)
+8	2014-11-25	 Jets	 • Grant Clitsome	 	 returned to lineup
+9	2014-12-03	 Jets	 	 • Grant Clitsome	 lower body injury (DTD)
+10	2014-12-08	 Jets	 	 • Grant Clitsome	 placed on IR with undisclosed injury
+11	2014-12-13	 Jets	 • Grant Clitsome	 	 activated from IR
+12	2015-01-04	 Jets	 	 • Grant Clitsome	 upper body injury (DTD)
+13	2015-01-08	 Jets	 	 • Grant Clitsome	 placed on IR with surgery on back
+14	2015-04-22	 Jets	 • Grant Clitsome	 	 activated from IR
+15	2015-10-06	 Jets	 	 • Grant Clitsome	 placed on IR with back injury (out for season)

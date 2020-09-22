@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-06	 Wild	 	 • Nick Seeler	 general soreness / biceps injury (DTD)
+1	2018-03-13	 Wild	 • Nick Seeler	 	 returned to lineup
+2	2018-12-29	 Wild	 	 • Nick Seeler	 upper body injury (DTD)
+3	2019-01-03	 Wild	 • Nick Seeler	 	 returned to lineup

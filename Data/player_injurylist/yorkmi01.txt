@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-01-28	 Oilers	 	 • Mike York	 placed on IR with broken finger
+1	2006-03-17	 Islanders	 	 • Mike York	 concussion (DTD)
+2	2006-03-21	 Islanders	 • Mike York	 	 returned to lineup
+3	2006-03-28	 Islanders	 	 • Mike York	 facial injury (DTD)
+4	2006-03-29	 Islanders	 • Mike York	 	 returned to lineup
+5	2006-04-13	 Islanders	 	 • Mike York	 broken toe (out for remainder of regular season)
+6	2007-12-05	 Coyotes	 	 • Mike York	 foot injury (DTD)
+7	2007-12-07	 Coyotes	 • Mike York	 	 returned to lineup

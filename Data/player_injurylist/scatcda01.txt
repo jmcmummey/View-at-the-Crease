@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-12-06	 Islanders	 • Dave Scatchard	 	 activated from IR
+1	2005-10-04	 Bruins	 	 • Dave Scatchard	 groin injury (out indefinitely)
+2	2005-10-13	 Bruins	 • Dave Scatchard	 	 returned to lineup
+3	2005-12-15	 Coyotes	 	 • Dave Scatchard	 knee injury (left game)
+4	2005-12-31	 Coyotes	 	 • Dave Scatchard	 strained groin (DTD)
+5	2006-01-05	 Coyotes	 • Dave Scatchard	 	 returned to lineup
+6	2006-01-08	 Coyotes	 	 • Dave Scatchard	 groin injury (DTD)
+7	2006-01-19	 Coyotes	 • Dave Scatchard	 	 activated from IR
+8	2006-01-26	 Coyotes	 	 • Dave Scatchard	 groin injury (DTD)
+9	2006-01-28	 Coyotes	 • Dave Scatchard	 	 returned to lineup
+10	2006-03-28	 Coyotes	 	 • Dave Scatchard	 bronchitis (DTD)
+11	2006-04-11	 Coyotes	 • Dave Scatchard	 	 returned to lineup
+12	2006-11-13	 Coyotes	 	 • Dave Scatchard	 left knee injury (DTD)
+13	2007-01-31	 Coyotes	 	 • Dave Scatchard	 concussion (out indefinitely)
+14	2009-12-04	 Predators	 	 • Dave Scatchard	 upper body injury (DTD)
+15	2009-12-10	 Predators	 • Dave Scatchard	 	 returned to lineup
+16	2010-12-19	 Blues	 	 • Dave Scatchard	 placed on IR with right knee injury
+17	2011-03-09	 Blues	 • Dave Scatchard	 	 activated from IR

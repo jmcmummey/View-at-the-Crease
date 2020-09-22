@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-01-04	 Flyers	 	 • Tyrell Goulbourne	 player not with team (DTD)
+1	2018-01-05	 Flyers	 • Tyrell Goulbourne	 	 returned to lineup

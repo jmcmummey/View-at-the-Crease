@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-02-18	 Thrashers	 	 • Pasi Nurminen	 placed on IR
+1	2003-03-04	 Thrashers	 • Pasi Nurminen	 	 activated from IR
+2	2005-08-18	 Thrashers	 	 • Pasi Nurminen	 injured knee (possibly career ending) (date approximate)

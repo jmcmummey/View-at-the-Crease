@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-02	 Flyers	 	 • Oskars Bartulis	 strained groin (DTD)
+1	2010-03-09	 Flyers	 • Oskars Bartulis	 	 activated from IR
+2	2011-02-01	 Flyers	 	 • Oskars Bartulis	 illness (DTD)
+3	2011-02-03	 Flyers	 • Oskars Bartulis	 	 returned to lineup
+4	2011-02-23	 Flyers	 	 • Oskars Bartulis	 left shoulder injury (out for season)
+5	2011-02-26	 Flyers	 	 • Oskars Bartulis	 placed on IR with surgery on left shoulder (out for season)

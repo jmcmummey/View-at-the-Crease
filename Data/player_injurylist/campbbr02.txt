@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-15	 Blackhawks	 	 • Brian Campbell (b)	 fractured clavicle and rib (out indefinitely)
+1	2010-04-22	 Blackhawks	 • Brian Campbell (b)	 	 returned to lineup
+2	2010-10-02	 Blackhawks	 	 • Brian Campbell (b)	 sprained knee (out indefinitely)
+3	2010-10-07	 Blackhawks	 	 • Brian Campbell (b)	 placed on IR with sprained knee
+4	2010-11-01	 Blackhawks	 • Brian Campbell (b)	 	 activated from IR
+5	2011-03-09	 Blackhawks	 	 • Brian Campbell (b)	 lower body injury (DTD)
+6	2011-03-13	 Blackhawks	 • Brian Campbell (b)	 	 returned to lineup
+7	2011-03-14	 Blackhawks	 	 • Brian Campbell (b)	 left leg injury (DTD)
+8	2011-03-23	 Blackhawks	 • Brian Campbell (b)	 	 returned to lineup

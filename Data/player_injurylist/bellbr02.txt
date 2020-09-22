@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-03	 Maple Leafs	 	 • Brendan Bell	 ankle injury (out indefinitely)
+1	2006-10-14	 Maple Leafs	 • Brendan Bell	 	 returned to lineup
+2	2007-03-15	 Coyotes	 	 • Brendan Bell	 knee injury (DTD)
+3	2007-03-20	 Coyotes	 • Brendan Bell	 	 returned to lineup

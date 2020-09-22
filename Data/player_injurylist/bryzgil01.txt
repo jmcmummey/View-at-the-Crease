@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-22	 Ducks	 	 • Ilya Bryzgalov	 groin injury (DTD)
+1	2006-11-30	 Ducks	 • Ilya Bryzgalov	 	 returned to lineup
+2	2006-12-06	 Ducks	 	 • Ilya Bryzgalov	 placed on IR with groin injury
+3	2007-01-02	 Ducks	 • Ilya Bryzgalov	 	 activated from IR
+4	2008-12-31	 Coyotes	 	 • Ilya Bryzgalov	 back injury (DTD)
+5	2009-01-02	 Coyotes	 • Ilya Bryzgalov	 	 returned to lineup
+6	2010-12-16	 Coyotes	 	 • Ilya Bryzgalov	 placed on IR with flu
+7	2010-12-28	 Coyotes	 • Ilya Bryzgalov	 	 activated from IR
+8	2012-02-09	 Flyers	 	 • Ilya Bryzgalov	 illness/flu (DTD)
+9	2012-02-12	 Flyers	 • Ilya Bryzgalov	 	 returned to lineup
+10	2012-03-27	 Flyers	 	 • Ilya Bryzgalov	 chipped bone in right foot (DTD)
+11	2012-04-03	 Flyers	 • Ilya Bryzgalov	 	 returned to lineup
+12	2013-12-02	 Oilers	 	 • Ilya Bryzgalov	 concussion (DTD)
+13	2013-12-05	 Oilers	 	 • Ilya Bryzgalov	 placed on IR with concussion
+14	2013-12-14	 Oilers	 • Ilya Bryzgalov	 	 activated from IR

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-12	 Lightning	 	 • Keith Aulie	 placed on IR with upper body injury
+1	2013-11-27	 Lightning	 • Keith Aulie	 	 activated from IR
+2	2013-12-06	 Lightning	 	 • Keith Aulie	 placed on IR with fractured hand
+3	2014-01-18	 Lightning	 • Keith Aulie	 	 activated from IR

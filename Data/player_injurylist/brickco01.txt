@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-26	 Panthers	 	 • Connor Brickley	 upper body injury (DTD)
+1	2017-11-04	 Panthers	 • Connor Brickley	 	 returned to lineup
+2	2019-03-09	 Rangers	 	 • Connor Brickley	 illness (DTD)
+3	2019-03-11	 Rangers	 • Connor Brickley	 	 returned to lineup

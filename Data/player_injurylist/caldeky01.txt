@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-23	 Blackhawks	 	 • Kyle Calder	 elbow injury (DTD)
+1	2005-10-29	 Blackhawks	 • Kyle Calder	 	 returned to lineup
+2	2007-11-02	 Kings	 	 • Kyle Calder	 placed on IR with fractured thumb (out indefinitely)
+3	2007-11-24	 Kings	 • Kyle Calder	 	 activated from IR
+4	2008-03-22	 Kings	 	 • Kyle Calder	 finger injury (DTD)
+5	2009-11-29	 Ducks	 	 • Kyle Calder	 placed on IR with hyphema in left eye
+6	2009-12-11	 Ducks	 • Kyle Calder	 	 activated from IR

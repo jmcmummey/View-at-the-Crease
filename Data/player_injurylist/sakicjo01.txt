@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-12-26	 Avalanche	 	 • Joe Sakic	 placed on IR
+1	2003-01-02	 Avalanche	 • Joe Sakic	 	 activated from IR
+2	2007-12-01	 Avalanche	 	 • Joe Sakic	 groin injury (DTD)
+3	2007-12-30	 Avalanche	 	 • Joe Sakic	 placed on IR with surgery to repair hernia
+4	2008-02-24	 Avalanche	 • Joe Sakic	 	 activated from IR
+5	2008-11-06	 Avalanche	 	 • Joe Sakic	 back injury (DTD)
+6	2008-11-08	 Avalanche	 • Joe Sakic	 	 returned to lineup
+7	2008-11-12	 Avalanche	 	 • Joe Sakic	 back injury (DTD)
+8	2008-11-24	 Avalanche	 	 • Joe Sakic	 root canal (DTD)
+9	2008-11-26	 Avalanche	 • Joe Sakic	 	 returned to lineup
+10	2008-11-28	 Avalanche	 	 • Joe Sakic	 back injury (left game)
+11	2009-01-07	 Avalanche	 	 • Joe Sakic	 surgery on back to replace herniated disc

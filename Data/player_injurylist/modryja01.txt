@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-09-25	 Kings	 	 • Jaroslav Modry	 bruised thigh/knee (DTD)
+1	2006-04-15	 Thrashers	 	 • Jaroslav Modry	 hamstring injury (DTD)
+2	2006-04-18	 Thrashers	 • Jaroslav Modry	 	 returned to lineup
+3	2008-02-27	 Kings	 	 • Jaroslav Modry	 rotator cuff injury (DTD)
+4	2008-03-02	 Kings	 • Jaroslav Modry	 	 returned to lineup

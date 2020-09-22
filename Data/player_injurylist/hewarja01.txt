@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-06	 Capitals	 	 • Jamie Heward	 muscle strain (DTD)
+1	2005-11-08	 Capitals	 • Jamie Heward	 	 returned to lineup
+2	2006-01-18	 Capitals	 	 • Jamie Heward	 lower body injury (DTD)
+3	2006-01-29	 Capitals	 • Jamie Heward	 	 returned to lineup
+4	2006-03-04	 Capitals	 	 • Jamie Heward	 head injury (left game)
+5	2006-03-05	 Capitals	 	 • Jamie Heward	 head injury (out indefinitely)
+6	2006-03-10	 Capitals	 • Jamie Heward	 	 returned to lineup
+7	2006-04-15	 Capitals	 	 • Jamie Heward	 upper body injury (DTD)
+8	2006-11-09	 Capitals	 	 • Jamie Heward	 upper body injury (DTD)
+9	2006-11-11	 Capitals	 • Jamie Heward	 	 returned to lineup
+10	2006-12-01	 Capitals	 	 • Jamie Heward	 facial injury (out indefinitely)
+11	2006-12-15	 Capitals	 • Jamie Heward	 	 returned to lineup
+12	2006-12-16	 Capitals	 	 • Jamie Heward	 chin injury (DTD)
+13	2009-01-01	 Lightning	 	 • Jamie Heward	 concussion (out indefinitely)
+14	2009-01-04	 Lightning	 	 • Jamie Heward	 placed on IR with concussion

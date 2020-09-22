@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-11	 Hurricanes	 	 • Josef Vasicek	 left knee injury (out indefinitely)
+1	2005-11-12	 Hurricanes	 	 • Josef Vasicek	 placed on IR with left knee injury
+2	2005-12-04	 Hurricanes	 	 • Josef Vasicek	 surgery on left knee
+3	2006-04-03	 Hurricanes	 • Josef Vasicek	 	 activated from IR
+4	2006-10-18	 Predators	 	 • Josef Vasicek	 hip flexor (DTD)
+5	2006-11-10	 Predators	 • Josef Vasicek	 	 returned to lineup
+6	2006-11-22	 Predators	 	 • Josef Vasicek	 back spasms (DTD)
+7	2006-11-25	 Predators	 • Josef Vasicek	 	 returned to lineup
+8	2008-03-11	 Islanders	 	 • Josef Vasicek	 flu (DTD)
+9	2008-03-12	 Islanders	 • Josef Vasicek	 	 returned to lineup

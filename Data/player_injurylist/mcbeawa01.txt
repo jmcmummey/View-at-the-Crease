@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-12-23	 Islanders	 	 • Wayne McBean	 knee injury (out indefinitely)
+1	1994-10-01	 Penguins	 	 • Wayne McBean	 surgery on wrist (out indefinitely) (date approximate)

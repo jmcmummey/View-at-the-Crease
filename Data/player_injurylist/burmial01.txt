@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-02-13	 Thrashers	 	 • Alexander Burmistrov / Alex Burmistrov	 cracked bone in left foot
+1	2011-02-17	 Thrashers	 	 • Alexander Burmistrov / Alex Burmistrov	 placed on IR with cracked bone in left foot
+2	2011-03-05	 Thrashers	 • Alexander Burmistrov / Alex Burmistrov	 	 activated from IR
+3	2011-12-13	 Jets	 	 • Alexander Burmistrov / Alex Burmistrov	 undisclosed injury (DTD)
+4	2011-12-17	 Jets	 • Alexander Burmistrov / Alex Burmistrov	 	 returned to lineup
+5	2012-01-07	 Jets	 	 • Alexander Burmistrov / Alex Burmistrov	 mid body injury (DTD)
+6	2012-01-12	 Jets	 • Alexander Burmistrov / Alex Burmistrov	 	 returned to lineup
+7	2012-01-24	 Jets	 	 • Alexander Burmistrov / Alex Burmistrov	 upper body injury (DTD)
+8	2012-02-02	 Jets	 • Alexander Burmistrov / Alex Burmistrov	 	 returned to lineup
+9	2016-01-21	 Jets	 	 • Alexander Burmistrov / Alex Burmistrov	 undisclosed (DTD)
+10	2016-01-23	 Jets	 • Alexander Burmistrov / Alex Burmistrov	 	 returned to lineup
+11	2016-11-13	 Jets	 	 • Alexander Burmistrov / Alex Burmistrov	 upper body injury (DTD)
+12	2016-11-15	 Jets	 • Alexander Burmistrov / Alex Burmistrov	 	 returned to lineup
+13	2016-12-07	 Jets	 	 • Alexander Burmistrov / Alex Burmistrov	 upper body injury (DTD)
+14	2017-02-25	 Coyotes	 	 • Alexander Burmistrov / Alex Burmistrov	 upper body injury (DTD)
+15	2017-02-28	 Coyotes	 • Alexander Burmistrov / Alex Burmistrov	 	 returned to lineup
+16	2017-03-01	 Coyotes	 	 • Alexander Burmistrov / Alex Burmistrov	 concussion (DTD)
+17	2017-03-27	 Coyotes	 • Alexander Burmistrov / Alex Burmistrov	 	 returned to lineup

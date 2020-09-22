@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-11-18	 Blackhawks	 	 • Michael Frolik	 shoulder injury (DTD)
+1	2011-11-23	 Blackhawks	 • Michael Frolik	 	 returned to lineup
+2	2012-03-11	 Blackhawks	 	 • Michael Frolik	 flu (DTD)
+3	2013-03-05	 Blackhawks	 	 • Michael Frolik	 flu (DTD)
+4	2013-03-08	 Blackhawks	 • Michael Frolik	 	 returned to lineup
+5	2013-12-05	 Jets	 	 • Michael Frolik	 flu (DTD)
+6	2013-12-07	 Jets	 • Michael Frolik	 	 returned to lineup
+7	2015-12-16	 Flames	 	 • Michael Frolik	 upper body injury (DTD)
+8	2015-12-22	 Flames	 	 • Michael Frolik	 placed on IR with upper body injury
+9	2016-01-16	 Flames	 • Michael Frolik	 	 activated from IR
+10	2016-03-30	 Flames	 	 • Michael Frolik	 lower body injury (out for season)
+11	2017-12-29	 Flames	 	 • Michael Frolik	 fractured jaw (out indefinitely)
+12	2017-12-31	 Flames	 	 • Michael Frolik	 placed on IR with fractured jaw
+13	2018-01-30	 Flames	 • Michael Frolik	 	 activated from IR
+14	2018-11-21	 Flames	 	 • Michael Frolik	 lower body injury (DTD)
+15	2018-11-22	 Flames	 	 • Michael Frolik	 placed on IR with lower body injury
+16	2018-12-22	 Flames	 • Michael Frolik	 	 activated from IR
+17	2020-02-16	 Sabres	 	 • Michael Frolik	 illness (DTD)
+18	2020-02-22	 Sabres	 • Michael Frolik	 	 returned to lineup

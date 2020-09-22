@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-03	 Blackhawks	 	 • Patrick Kane	 high ankle sprain (DTD)
+1	2009-01-08	 Blackhawks	 • Patrick Kane	 	 returned to lineup
+2	2009-04-20	 Blackhawks	 	 • Patrick Kane	 flu (DTD)
+3	2009-04-22	 Blackhawks	 • Patrick Kane	 	 returned to lineup
+4	2009-12-13	 Blackhawks	 	 • Patrick Kane	 facial injury (DTD)
+5	2010-10-15	 Blackhawks	 	 • Patrick Kane	 illness (DTD)
+6	2010-10-16	 Blackhawks	 • Patrick Kane	 	 returned to lineup
+7	2010-12-06	 Blackhawks	 	 • Patrick Kane	 left ankle injury (DTD)
+8	2010-12-26	 Blackhawks	 	 • Patrick Kane	 placed on IR with left ankle/leg injury
+9	2010-12-28	 Blackhawks	 • Patrick Kane	 	 activated from IR
+10	2014-02-27	 Blackhawks	 • Patrick Kane	 	 activated from IR
+11	2014-03-20	 Blackhawks	 	 • Patrick Kane	 placed on IR with left leg injury (out for season)
+12	2015-02-25	 Blackhawks	 	 • Patrick Kane	 placed on IR with fractured left clavicle
+13	2015-04-14	 Blackhawks	 • Patrick Kane	 	 activated from IR
+14	2018-10-31	 Blackhawks	 	 • Patrick Kane	 illness (DTD)
+15	2018-11-01	 Blackhawks	 • Patrick Kane	 	 returned to lineup

@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-03-01	 Stars	 	 • Brenden Dillon	 lower body injury (DTD)
+1	2014-03-03	 Stars	 • Brenden Dillon	 	 returned to lineup
+2	2014-04-13	 Stars	 	 • Brenden Dillon	 foot injury (DTD)
+3	2014-04-25	 Stars	 • Brenden Dillon	 	 returned to lineup
+4	2016-02-11	 Sharks	 	 • Brenden Dillon	 upper body injury (DTD)
+5	2016-02-24	 Sharks	 • Brenden Dillon	 	 returned to lineup

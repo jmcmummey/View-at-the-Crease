@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-06	 Blackhawks	 	 • Phillip Danault	 placed on IR with hip injury
+1	2015-11-30	 Blackhawks	 • Phillip Danault	 	 activated from IR
+2	2018-01-15	 Canadiens	 	 • Phillip Danault	 concussion (out indefinitely)
+3	2018-02-03	 Canadiens	 	 • Phillip Danault	 placed on IR with concussion
+4	2018-02-20	 Canadiens	 • Phillip Danault	 	 activated from IR
+5	2018-03-08	 Canadiens	 	 • Phillip Danault	 stiff neck (DTD)
+6	2018-03-10	 Canadiens	 • Phillip Danault	 	 returned to lineup
+7	2018-03-12	 Canadiens	 	 • Phillip Danault	 headaches (DTD)
+8	2018-03-26	 Canadiens	 	 • Phillip Danault	 neck injury (out for season)

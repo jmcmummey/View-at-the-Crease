@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-04-05	 Rangers	 	 • Brady Skjei	 undisclosed injury (DTD)
+1	2017-04-08	 Rangers	 • Brady Skjei	 	 returned to lineup
+2	2019-02-17	 Rangers	 	 • Brady Skjei	 knee injury (DTD)
+3	2019-02-19	 Rangers	 • Brady Skjei	 	 returned to lineup
+4	2019-11-07	 Rangers	 	 • Brady Skjei	 undisclosed (DTD)
+5	2019-11-10	 Rangers	 • Brady Skjei	 	 returned to lineup

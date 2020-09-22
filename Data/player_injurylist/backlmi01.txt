@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-04	 Flames	 	 • Mikael Backlund	 flu (DTD)
+1	2011-03-06	 Flames	 • Mikael Backlund	 	 returned to lineup
+2	2011-10-04	 Flames	 	 • Mikael Backlund	 placed on IR with broken finger
+3	2011-11-11	 Flames	 • Mikael Backlund	 	 activated from IR
+4	2012-02-12	 Flames	 	 • Mikael Backlund	 left arm injury (out indefinitely)
+5	2012-02-16	 Flames	 	 • Mikael Backlund	 placed on IR with left arm injury (out for season)
+6	2013-02-08	 Flames	 	 • Mikael Backlund	 placed on IR with sprained MCL in knee
+7	2013-03-09	 Flames	 • Mikael Backlund	 	 activated from IR
+8	2014-04-04	 Flames	 	 • Mikael Backlund	 hand injury (out for season)
+9	2014-10-30	 Flames	 	 • Mikael Backlund	 placed on IR with abdominal injury
+10	2015-01-07	 Flames	 • Mikael Backlund	 	 activated from IR
+11	2015-02-02	 Flames	 	 • Mikael Backlund	 illness (DTD)
+12	2015-02-04	 Flames	 • Mikael Backlund	 	 returned to lineup
+13	2018-12-08	 Flames	 	 • Mikael Backlund	 placed on IR with head injury / concussion
+14	2018-12-16	 Flames	 • Mikael Backlund	 	 activated from IR

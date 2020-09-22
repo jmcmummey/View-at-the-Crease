@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-11-25	 Oilers	 	 • Mike Grier	 placed on IR with fractured right clavicle
+1	2000-03-23	 Oilers	 	 • Mike Grier	 surgery to repair torn left triceps muscle
+2	2000-09-11	 Oilers	 	 • Mike Grier	 infected right hand
+3	2000-12-04	 Oilers	 	 • Mike Grier	 placed on IR with dislocated right shoulder
+4	2005-11-03	 Sabres	 	 • Mike Grier	 hip flexor injury (DTD)
+5	2005-11-05	 Sabres	 • Mike Grier	 	 returned to lineup
+6	2005-12-18	 Sabres	 	 • Mike Grier	 rib injury (DTD)
+7	2007-10-27	 Sharks	 	 • Mike Grier	 groin injury (DTD)
+8	2007-11-02	 Sharks	 • Mike Grier	 	 returned to lineup
+9	2008-04-06	 Sharks	 	 • Mike Grier	 rest (DTD)
+10	2008-04-09	 Sharks	 • Mike Grier	 	 returned to lineup
+11	2008-11-14	 Sharks	 	 • Mike Grier	 lower body injury (DTD)
+12	2008-11-22	 Sharks	 • Mike Grier	 	 returned to lineup
+13	2009-03-03	 Sharks	 	 • Mike Grier	 placed on IR with knee injury
+14	2009-04-07	 Sharks	 • Mike Grier	 	 activated from IR
+15	2009-11-11	 Sabres	 	 • Mike Grier	 groin injury (DTD)
+16	2009-11-25	 Sabres	 • Mike Grier	 	 activated from IR
+17	2011-03-06	 Sabres	 	 • Mike Grier	 lower body injury (DTD)
+18	2011-03-10	 Sabres	 • Mike Grier	 	 returned to lineup
+19	2011-03-28	 Sabres	 	 • Mike Grier	 knee injury (DTD)
+20	2011-04-14	 Sabres	 • Mike Grier	 	 returned to lineup

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-03-17	 Oilers	 	 • Matt Fraser	 concussion (out indefinitely)
+1	2015-03-25	 Oilers	 • Matt Fraser	 	 returned to lineup

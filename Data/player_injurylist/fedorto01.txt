@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-11-28	 Flyers	 • Todd Fedoruk	 	 activated from IR
+1	2005-11-05	 Mighty Ducks	 	 • Todd Fedoruk	 back injury (DTD)
+2	2005-11-12	 Mighty Ducks	 • Todd Fedoruk	 	 returned to lineup
+3	2006-04-27	 Mighty Ducks	 	 • Todd Fedoruk	 upper body injury (DTD)
+4	2006-05-01	 Mighty Ducks	 • Todd Fedoruk	 	 returned to lineup
+5	2006-10-28	 Ducks	 	 • Todd Fedoruk	 placed on IR with head injury
+6	2006-11-16	 Flyers	 	 • Todd Fedoruk	 cheekbone injury (out indefinitely)
+7	2006-12-02	 Flyers	 • Todd Fedoruk	 	 returned to lineup
+8	2007-03-22	 Flyers	 	 • Todd Fedoruk	 concussion (out indefinitely)
+9	2007-12-18	 Wild	 	 • Todd Fedoruk	 shoulder injury (DTD)
+10	2007-12-26	 Wild	 • Todd Fedoruk	 	 returned to lineup
+11	2009-03-14	 Coyotes	 	 • Todd Fedoruk	 upper body injury (DTD)
+12	2009-03-17	 Coyotes	 • Todd Fedoruk	 	 returned to lineup
+13	2009-12-24	 Lightning	 	 • Todd Fedoruk	 placed on IR with lower body injury
+14	2010-01-21	 Lightning	 • Todd Fedoruk	 	 activated from IR

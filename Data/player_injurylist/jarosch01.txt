@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-12-08	 Senators	 	 • Christian Jaros	 lower body injury (DTD)
+1	2018-12-15	 Senators	 • Christian Jaros	 	 returned to lineup
+2	2018-12-29	 Senators	 	 • Christian Jaros	 fractured finger (DTD)
+3	2018-12-29	 Senators	 	 • Christian Jaros	 placed on IR with fractured finger
+4	2019-01-05	 Senators	 • Christian Jaros	 	 activated from IR
+5	2019-02-05	 Senators	 	 • Christian Jaros	 lower body injury (DTD)
+6	2019-02-09	 Senators	 • Christian Jaros	 	 returned to lineup
+7	2019-03-07	 Senators	 	 • Christian Jaros	 hamstring injury (DTD)
+8	2019-03-16	 Senators	 • Christian Jaros	 	 returned to lineup

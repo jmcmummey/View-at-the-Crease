@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-09-27	 Canadiens	 	 • Vladimir Malakhov	 knee injury (out indefinitely)
+1	2000-11-11	 Rangers	 	 • Vladimir Malakhov	 knee injury (out indefinitely)
+2	2005-11-29	 Devils	 	 • Vladimir Malakhov	 illness (DTD)
+3	2005-12-03	 Devils	 • Vladimir Malakhov	 	 returned to lineup

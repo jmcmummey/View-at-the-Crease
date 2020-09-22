@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-06	 Bruins	 	 • Nick Boynton	 bruised knee (DTD)
+1	2005-12-08	 Bruins	 	 • Nick Boynton	 bruised knee (out 4-6 weeks)
+2	2006-01-12	 Bruins	 • Nick Boynton	 	 returned to lineup
+3	2006-03-31	 Bruins	 	 • Nick Boynton	 shoulder injury (out indefinitely)
+4	2006-11-10	 Coyotes	 	 • Nick Boynton	 bruised foot (DTD)
+5	2006-11-16	 Coyotes	 • Nick Boynton	 	 returned to lineup
+6	2006-11-19	 Coyotes	 	 • Nick Boynton	 foot injury (DTD)
+7	2006-11-22	 Coyotes	 • Nick Boynton	 	 returned to lineup
+8	2006-11-30	 Coyotes	 	 • Nick Boynton	 placed on IR with broken foot (out ~4 weeks)
+9	2007-01-13	 Coyotes	 • Nick Boynton	 	 activated from IR
+10	2008-11-26	 Panthers	 	 • Nick Boynton	 concussion (out indefinitely)
+11	2008-11-28	 Panthers	 • Nick Boynton	 	 returned to lineup
+12	2009-01-19	 Panthers	 	 • Nick Boynton	 flu (DTD)
+13	2009-01-27	 Panthers	 • Nick Boynton	 	 returned to lineup
+14	2011-01-12	 Blackhawks	 	 • Nick Boynton	 illness (DTD)
+15	2011-01-25	 Blackhawks	 • Nick Boynton	 	 returned to lineup
+16	2011-02-24	 Blackhawks	 	 • Nick Boynton	 upper body injury (DTD)
+17	2011-04-08	 Flyers	 	 • Nick Boynton	 pinched nerve in neck (DTD)
+18	2011-04-14	 Flyers	 • Nick Boynton	 	 returned to lineup

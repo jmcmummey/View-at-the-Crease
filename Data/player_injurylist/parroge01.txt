@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-18	 Kings	 	 • George Parros	 sprained ankle (out indefinitely)
+1	2005-11-28	 Kings	 	 • George Parros	 sprained ankle (DTD)
+2	2005-11-30	 Kings	 	 • George Parros	 placed on IR with sprained ankle
+3	2005-12-21	 Kings	 • George Parros	 	 activated from IR
+4	2005-12-28	 Kings	 	 • George Parros	 sprained ankle (out indefinitely)
+5	2006-01-02	 Kings	 	 • George Parros	 placed on IR with sprained ankle
+6	2006-01-09	 Kings	 • George Parros	 	 activated from IR
+7	2006-01-10	 Kings	 	 • George Parros	 sprained ankle (DTD)
+8	2006-01-12	 Kings	 • George Parros	 	 returned to lineup
+9	2008-01-13	 Ducks	 	 • George Parros	 bruised right knee (DTD)
+10	2008-01-24	 Ducks	 • George Parros	 	 returned to lineup
+11	2008-11-01	 Ducks	 	 • George Parros	 right eye injury (DTD)
+12	2008-11-07	 Ducks	 • George Parros	 	 returned to lineup
+13	2009-02-05	 Ducks	 	 • George Parros	 undisclosed injury (DTD)
+14	2009-02-07	 Ducks	 • George Parros	 	 returned to lineup
+15	2010-01-09	 Ducks	 	 • George Parros	 hand injury (DTD)
+16	2010-01-21	 Ducks	 • George Parros	 	 activated from IR
+17	2010-03-15	 Ducks	 	 • George Parros	 bruised head (DTD)
+18	2010-03-21	 Ducks	 • George Parros	 	 returned to lineup
+19	2011-11-05	 Ducks	 	 • George Parros	 placed on IR with torn retina in left eye
+20	2011-12-06	 Ducks	 • George Parros	 	 activated from IR
+21	2012-01-04	 Ducks	 	 • George Parros	 groin injury (DTD)
+22	2012-01-06	 Ducks	 	 • George Parros	 placed on IR with strained groin
+23	2012-01-12	 Ducks	 • George Parros	 	 activated from IR
+24	2013-03-17	 Panthers	 	 • George Parros	 upper body injury (DTD)
+25	2013-03-21	 Panthers	 	 • George Parros	 placed on IR with upper body injury
+26	2013-03-30	 Panthers	 • George Parros	 	 activated from IR
+27	2013-10-02	 Canadiens	 	 • George Parros	 concussion (DTD)
+28	2013-10-31	 Canadiens	 • George Parros	 	 returned to lineup
+29	2013-12-15	 Canadiens	 	 • George Parros	 concussion (out indefinitely)
+30	2014-01-08	 Canadiens	 • George Parros	 	 returned to lineup

@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-01	 Kings	 	 • Anze Kopitar	 upper body injury (DTD)
+1	2007-03-21	 Kings	 • Anze Kopitar	 	 returned to lineup
+2	2011-03-27	 Kings	 	 • Anze Kopitar	 broken right ankle (out for season)
+3	2013-01-18	 Kings	 	 • Anze Kopitar	 placed on IR with sprained knee
+4	2013-01-22	 Kings	 • Anze Kopitar	 	 activated from non-roster list (IR?)
+5	2014-10-27	 Kings	 	 • Anze Kopitar	 upper body injury (DTD)
+6	2014-11-02	 Kings	 • Anze Kopitar	 	 returned to lineup
+7	2015-11-03	 Kings	 	 • Anze Kopitar	 upper body injury (DTD)
+8	2016-02-19	 Kings	 	 • Anze Kopitar	 lower body injury (DTD)
+9	2016-02-23	 Kings	 • Anze Kopitar	 	 returned to lineup
+10	2016-11-12	 Kings	 	 • Anze Kopitar	 upper body injury (DTD)
+11	2016-11-23	 Kings	 • Anze Kopitar	 	 returned to lineup
+12	2017-01-16	 Kings	 	 • Anze Kopitar	 illness (DTD)
+13	2017-01-18	 Kings	 • Anze Kopitar	 	 returned to lineup
+14	2018-10-18	 Kings	 	 • Anze Kopitar	 illness (DTD)
+15	2018-10-20	 Kings	 • Anze Kopitar	 	 returned to lineup

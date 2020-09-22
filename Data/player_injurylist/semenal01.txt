@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-02	 Sharks	 	 • Alexei Semenov	 back injury (DTD)
+1	2007-10-22	 Sharks	 • Alexei Semenov	 	 returned to lineup
+2	2007-12-14	 Sharks	 	 • Alexei Semenov	 placed on IR with broken finger
+3	2008-01-13	 Sharks	 • Alexei Semenov	 	 activated from IR
+4	2008-01-29	 Sharks	 	 • Alexei Semenov	 viral infection (DTD)
+5	2008-02-06	 Sharks	 • Alexei Semenov	 	 returned to lineup
+6	2008-02-17	 Sharks	 	 • Alexei Semenov	 placed on IR with back injury
+7	2008-02-24	 Sharks	 • Alexei Semenov	 	 activated from IR

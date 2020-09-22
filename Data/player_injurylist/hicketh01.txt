@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-24	 Islanders	 	 • Thomas Hickey	 lower body injury / illness (CBC) (DTD)
+1	2014-11-26	 Islanders	 • Thomas Hickey	 	 returned to lineup
+2	2015-10-06	 Islanders	 	 • Thomas Hickey	 placed on IR with upper body injury
+3	2015-10-17	 Islanders	 • Thomas Hickey	 	 activated from IR
+4	2015-10-25	 Islanders	 	 • Thomas Hickey	 placed on IR with lower body injury
+5	2015-11-28	 Islanders	 • Thomas Hickey	 	 activated from IR
+6	2017-01-26	 Islanders	 	 • Thomas Hickey	 lower body injury (DTD)
+7	2017-02-03	 Islanders	 • Thomas Hickey	 	 returned to lineup
+8	2017-12-09	 Islanders	 	 • Thomas Hickey	 placed on IR with upper body injury
+9	2017-12-18	 Islanders	 • Thomas Hickey	 	 activated from IR
+10	2018-12-17	 Islanders	 	 • Thomas Hickey	 placed on IR with upper body injury
+11	2018-12-18	 Islanders	 	 • Thomas Hickey	 upper body injury (DTD)
+12	2018-12-19	 Islanders	 	 • Thomas Hickey	 placed on IR with upper body injury
+13	2019-02-26	 Islanders	 • Thomas Hickey	 	 activated from IR

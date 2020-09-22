@@ -1,0 +1,46 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-01-17	 Blackhawks	 	 • Jaroslav Spacek	 placed on IR with cracked bone in left shoulder
+1	2001-11-26	 Blackhawks	 	 • Jaroslav Spacek	 placed on IR with fractured finger on right hand
+2	2003-12-01	 Blue Jackets	 	 • Jaroslav Spacek	 placed on IR with strained groin
+3	2004-01-21	 Blue Jackets	 • Jaroslav Spacek	 	 activated from IR
+4	2005-10-05	 Blackhawks	 	 • Jaroslav Spacek	 bruised ribs (DTD)
+5	2005-10-09	 Blackhawks	 • Jaroslav Spacek	 	 returned to lineup
+6	2006-12-02	 Sabres	 	 • Jaroslav Spacek	 left leg injury (DTD)
+7	2006-12-05	 Sabres	 • Jaroslav Spacek	 	 returned to lineup
+8	2007-02-03	 Sabres	 	 • Jaroslav Spacek	 knee injury (DTD)
+9	2007-02-10	 Sabres	 	 • Jaroslav Spacek	 broken hand (left game)
+10	2007-02-10	 Sabres	 • Jaroslav Spacek	 	 returned to lineup
+11	2007-02-11	 Sabres	 	 • Jaroslav Spacek	 broken left hand (out indefinitely)
+12	2007-03-16	 Sabres	 • Jaroslav Spacek	 	 returned to lineup
+13	2007-10-16	 Sabres	 	 • Jaroslav Spacek	 shoulder injury (DTD)
+14	2007-11-01	 Sabres	 • Jaroslav Spacek	 	 returned to lineup
+15	2007-11-02	 Sabres	 	 • Jaroslav Spacek	 shoulder injury (DTD)
+16	2007-11-09	 Sabres	 • Jaroslav Spacek	 	 returned to lineup
+17	2008-01-12	 Sabres	 	 • Jaroslav Spacek	 back spasms (DTD)
+18	2008-01-21	 Sabres	 • Jaroslav Spacek	 	 returned to lineup
+19	2008-03-11	 Sabres	 	 • Jaroslav Spacek	 chest injury (DTD)
+20	2008-04-03	 Sabres	 • Jaroslav Spacek	 	 returned to lineup
+21	2009-02-02	 Sabres	 	 • Jaroslav Spacek	 hip injury (DTD)
+22	2009-02-06	 Sabres	 • Jaroslav Spacek	 	 returned to lineup
+23	2009-11-24	 Canadiens	 	 • Jaroslav Spacek	 lower body injury (DTD)
+24	2009-11-28	 Canadiens	 • Jaroslav Spacek	 	 returned to lineup
+25	2010-01-27	 Canadiens	 	 • Jaroslav Spacek	 flu (DTD)
+26	2010-01-30	 Canadiens	 	 • Jaroslav Spacek	 upper body injury (DTD)
+27	2010-02-04	 Canadiens	 • Jaroslav Spacek	 	 returned to lineup
+28	2010-04-02	 Canadiens	 	 • Jaroslav Spacek	 flu (DTD)
+29	2010-04-08	 Canadiens	 • Jaroslav Spacek	 	 returned to lineup
+30	2010-04-21	 Canadiens	 	 • Jaroslav Spacek	 illness (DTD)
+31	2010-05-10	 Canadiens	 • Jaroslav Spacek	 	 returned to lineup
+32	2011-02-15	 Canadiens	 	 • Jaroslav Spacek	 placed on IR with lower body injury
+33	2011-04-07	 Canadiens	 • Jaroslav Spacek	 	 activated from IR
+34	2011-10-10	 Canadiens	 	 • Jaroslav Spacek	 upper body injury (DTD)
+35	2011-10-24	 Canadiens	 • Jaroslav Spacek	 	 returned to lineup
+36	2011-11-16	 Canadiens	 	 • Jaroslav Spacek	 upper body injury (DTD)
+37	2011-11-25	 Canadiens	 	 • Jaroslav Spacek	 placed on IR with upper body injury
+38	2011-12-08	 Canadiens	 • Jaroslav Spacek	 	 activated from IR
+39	2012-01-14	 Hurricanes	 	 • Jaroslav Spacek	 head injury (DTD)
+40	2012-02-02	 Hurricanes	 • Jaroslav Spacek	 	 returned to lineup
+41	2012-03-13	 Hurricanes	 	 • Jaroslav Spacek	 back injury (DTD)
+42	2012-03-17	 Hurricanes	 • Jaroslav Spacek	 	 returned to lineup
+43	2012-03-18	 Hurricanes	 	 • Jaroslav Spacek	 lower body injury (DTD)
+44	2012-04-05	 Hurricanes	 • Jaroslav Spacek	 	 returned to lineup

@@ -1,0 +1,64 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-24	 Rangers	 	 • Ryan Callahan	 sprained knee (out indefinitely)
+1	2007-11-29	 Rangers	 • Ryan Callahan	 	 returned to lineup
+2	2009-01-28	 Rangers	 	 • Ryan Callahan	 flu (DTD)
+3	2009-01-31	 Rangers	 • Ryan Callahan	 	 returned to lineup
+4	2010-03-21	 Rangers	 	 • Ryan Callahan	 left leg injury (DTD)
+5	2010-03-27	 Rangers	 	 • Ryan Callahan	 right leg injury (DTD)
+6	2010-04-06	 Rangers	 • Ryan Callahan	 	 returned to lineup
+7	2010-11-05	 Rangers	 	 • Ryan Callahan	 neck injury (DTD)
+8	2010-11-07	 Rangers	 • Ryan Callahan	 	 returned to lineup
+9	2010-12-16	 Rangers	 	 • Ryan Callahan	 placed on IR with broken left hand
+10	2011-01-25	 Rangers	 • Ryan Callahan	 	 activated from IR
+11	2011-04-05	 Rangers	 	 • Ryan Callahan	 fractured right leg (out for season)
+12	2012-02-29	 Rangers	 	 • Ryan Callahan	 bruised foot (DTD)
+13	2012-03-06	 Rangers	 • Ryan Callahan	 	 returned to lineup
+14	2012-03-11	 Rangers	 	 • Ryan Callahan	 bruised right foot (DTD)
+15	2012-03-17	 Rangers	 • Ryan Callahan	 	 returned to lineup
+16	2013-01-30	 Rangers	 	 • Ryan Callahan	 left shoulder subluxation (DTD)
+17	2013-01-31	 Rangers	 	 • Ryan Callahan	 placed on IR with shoulder injury
+18	2013-02-07	 Rangers	 • Ryan Callahan	 	 activated from IR
+19	2013-10-01	 Rangers	 	 • Ryan Callahan	 placed on IR with shoulder injury
+20	2013-10-07	 Rangers	 • Ryan Callahan	 	 activated from IR
+21	2013-10-17	 Rangers	 	 • Ryan Callahan	 fractured thumb (DTD)
+22	2013-10-23	 Rangers	 	 • Ryan Callahan	 placed on IR with fractured thumb
+23	2013-11-04	 Rangers	 • Ryan Callahan	 	 activated from IR
+24	2013-12-11	 Rangers	 	 • Ryan Callahan	 placed on IR with sprained MCL in left knee
+25	2014-01-03	 Rangers	 • Ryan Callahan	 	 activated from IR
+26	2014-10-21	 Lightning	 	 • Ryan Callahan	 lower body injury (DTD)
+27	2014-11-01	 Lightning	 • Ryan Callahan	 	 returned to lineup
+28	2015-05-12	 Lightning	 	 • Ryan Callahan	 appendectomy (DTD)
+29	2015-05-16	 Lightning	 • Ryan Callahan	 	 returned to lineup
+30	2015-11-18	 Lightning	 	 • Ryan Callahan	 lower body injury (DTD)
+31	2015-11-21	 Lightning	 • Ryan Callahan	 	 returned to lineup
+32	2016-03-19	 Lightning	 	 • Ryan Callahan	 undisclosed injury (DTD)
+33	2016-03-31	 Lightning	 • Ryan Callahan	 	 returned to lineup
+34	2016-04-05	 Lightning	 	 • Ryan Callahan	 lower body injury (DTD)
+35	2016-04-13	 Lightning	 • Ryan Callahan	 	 returned to lineup
+36	2016-05-16	 Lightning	 	 • Ryan Callahan	 flu (DTD)
+37	2016-05-18	 Lightning	 • Ryan Callahan	 	 returned to lineup
+38	2016-10-11	 Lightning	 	 • Ryan Callahan	 placed on IR with hip injury
+39	2016-10-30	 Lightning	 • Ryan Callahan	 	 activated from IR
+40	2016-11-29	 Lightning	 	 • Ryan Callahan	 placed on IR with lower body injury
+41	2017-01-03	 Lightning	 • Ryan Callahan	 	 activated from IR
+42	2017-01-08	 Lightning	 	 • Ryan Callahan	 hip injury (out for season)
+43	2017-01-17	 Lightning	 	 • Ryan Callahan	 placed on IR with hip injury (out for season)
+44	2017-11-09	 Lightning	 	 • Ryan Callahan	 lower body injury (DTD)
+45	2017-11-12	 Lightning	 • Ryan Callahan	 	 returned to lineup
+46	2017-12-12	 Lightning	 	 • Ryan Callahan	 undisclosed (DTD)
+47	2017-12-14	 Lightning	 • Ryan Callahan	 	 returned to lineup
+48	2017-12-15	 Lightning	 	 • Ryan Callahan	 upper body injury (DTD)
+49	2017-12-15	 Lightning	 	 • Ryan Callahan	 placed on IR with upper body injury
+50	2018-01-04	 Lightning	 • Ryan Callahan	 	 activated from IR
+51	2018-03-21	 Lightning	 	 • Ryan Callahan	 upper body injury (DTD)
+52	2018-04-01	 Lightning	 • Ryan Callahan	 	 returned to lineup
+53	2018-04-16	 Lightning	 	 • Ryan Callahan	 upper body injury (DTD)
+54	2018-04-21	 Lightning	 • Ryan Callahan	 	 returned to lineup
+55	2018-10-02	 Lightning	 	 • Ryan Callahan	 placed on IR with shoulder injury
+56	2018-10-18	 Lightning	 • Ryan Callahan	 	 activated from IR
+57	2018-12-18	 Lightning	 	 • Ryan Callahan	 upper body injury (DTD)
+58	2018-12-22	 Lightning	 • Ryan Callahan	 	 returned to lineup
+59	2019-01-08	 Lightning	 	 • Ryan Callahan	 upper body injury (DTD)
+60	2019-01-12	 Lightning	 • Ryan Callahan	 	 returned to lineup
+61	2019-04-10	 Lightning	 	 • Ryan Callahan	 undisclosed (DTD)
+62	2019-04-14	 Lightning	 • Ryan Callahan	 	 returned to lineup

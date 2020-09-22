@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-01-10	 Predators	 	 • Juuse Saros	 illness (DTD)
+1	2019-01-13	 Predators	 • Juuse Saros	 	 returned to lineup
+2	2019-03-29	 Predators	 	 • Juuse Saros	 illness (DTD)
+3	2019-03-30	 Predators	 • Juuse Saros	 	 returned to lineup

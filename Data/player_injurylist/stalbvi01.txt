@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-10	 Maple Leafs	 	 • Viktor Stalberg	 concussion (DTD)
+1	2009-10-13	 Maple Leafs	 • Viktor Stalberg	 	 returned to lineup
+2	2009-12-22	 Maple Leafs	 	 • Viktor Stalberg	 upper body injury (DTD)
+3	2010-01-02	 Maple Leafs	 • Viktor Stalberg	 	 returned to lineup
+4	2010-12-16	 Blackhawks	 	 • Viktor Stalberg	 upper body injury (DTD)
+5	2010-12-26	 Blackhawks	 • Viktor Stalberg	 	 returned to lineup
+6	2011-10-05	 Blackhawks	 	 • Viktor Stalberg	 placed on IR with knee injury
+7	2011-10-15	 Blackhawks	 • Viktor Stalberg	 	 activated from IR
+8	2013-09-26	 Predators	 	 • Viktor Stalberg	 sprained right shoulder (DTD)
+9	2013-09-29	 Predators	 	 • Viktor Stalberg	 placed on IR with sprained right shoulder
+10	2013-10-12	 Predators	 • Viktor Stalberg	 	 activated from IR
+11	2014-01-26	 Predators	 	 • Viktor Stalberg	 upper body injury (DTD)
+12	2014-02-01	 Predators	 	 • Viktor Stalberg	 placed on IR with upper body injury
+13	2014-02-08	 Predators	 • Viktor Stalberg	 	 activated from IR
+14	2014-10-06	 Predators	 	 • Viktor Stalberg	 placed on IR with lower body injury
+15	2014-10-17	 Predators	 • Viktor Stalberg	 	 activated from IR
+16	2014-11-10	 Predators	 	 • Viktor Stalberg	 placed on IR with right knee injury
+17	2014-12-19	 Predators	 • Viktor Stalberg	 	 activated from IR
+18	2015-03-24	 Predators	 	 • Viktor Stalberg	 undisclosed (DTD)
+19	2015-03-26	 Predators	 • Viktor Stalberg	 	 returned to lineup
+20	2015-10-24	 Rangers	 	 • Viktor Stalberg	 head injury (DTD)
+21	2015-11-03	 Rangers	 • Viktor Stalberg	 	 returned to lineup
+22	2016-04-08	 Rangers	 	 • Viktor Stalberg	 lower body injury (out for season)
+23	2017-03-25	 Senators	 	 • Viktor Stalberg	 upper body injury (DTD)
+24	2017-03-30	 Senators	 • Viktor Stalberg	 	 returned to lineup
+25	2017-05-13	 Senators	 	 • Viktor Stalberg	 undisclosed (DTD)
+26	2017-05-17	 Senators	 • Viktor Stalberg	 	 returned to lineup

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1994-02-24	 Islanders	 	 • Dean Chynoweth	 strained shoulder (DTD)
+1	1994-03-15	 Islanders	 	 • Dean Chynoweth	 strained groin (out indefinitely)
+2	1995-02-20	 Islanders	 	 • Dean Chynoweth	 bruised knee (DTD)
+3	1995-03-18	 Islanders	 	 • Dean Chynoweth	 groin injury (DTD)
+4	1996-03-18	 Bruins	 	 • Dean Chynoweth	 pulled hamstring (out for season)

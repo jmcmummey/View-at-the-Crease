@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-05	 Stars	 	 • Jack Campbell	 placed on IR with hand injury
+1	2015-11-07	 Stars	 • Jack Campbell	 	 activated from IR
+2	2018-11-13	 Kings	 	 • Jack Campbell	 placed on IR with surgery on knee to repair torn meniscus
+3	2018-12-31	 Kings	 • Jack Campbell	 	 activated from IR

@@ -1,0 +1,38 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-09-18	 Sharks	 	 • Torrey Mitchell	 fractured left leg (out indefinitely)
+1	2008-09-24	 Sharks	 	 • Torrey Mitchell	 placed on IR with fractured left leg
+2	2009-04-21	 Sharks	 • Torrey Mitchell	 	 activated from IR
+3	2009-09-30	 Sharks	 	 • Torrey Mitchell	 left knee injury (out indefinitely)
+4	2009-10-01	 Sharks	 	 • Torrey Mitchell	 placed on IR with left knee injury
+5	2009-11-27	 Sharks	 • Torrey Mitchell	 	 activated from IR
+6	2010-01-05	 Sharks	 • Torrey Mitchell	 	 activated from IR
+7	2010-12-27	 Sharks	 	 • Torrey Mitchell	 lower body injury (DTD)
+8	2011-01-06	 Sharks	 • Torrey Mitchell	 	 returned to lineup
+9	2011-01-13	 Sharks	 	 • Torrey Mitchell	 placed on IR with lower body injury
+10	2011-02-11	 Sharks	 • Torrey Mitchell	 	 activated from IR
+11	2011-10-22	 Sharks	 	 • Torrey Mitchell	 upper body injury (DTD)
+12	2011-10-29	 Sharks	 • Torrey Mitchell	 	 returned to lineup
+13	2012-04-07	 Sharks	 	 • Torrey Mitchell	 undisclosed (out for season)
+14	2013-11-20	 Wild	 	 • Torrey Mitchell	 left leg injury (DTD)
+15	2013-11-25	 Wild	 	 • Torrey Mitchell	 placed on IR with left leg injury
+16	2013-11-27	 Wild	 • Torrey Mitchell	 	 activated from IR
+17	2014-03-07	 Sabres	 	 • Torrey Mitchell	 bruised foot (DTD)
+18	2014-03-18	 Sabres	 • Torrey Mitchell	 	 returned to lineup
+19	2014-03-26	 Sabres	 	 • Torrey Mitchell	 undisclosed injury (DTD)
+20	2014-04-08	 Sabres	 • Torrey Mitchell	 	 returned to lineup
+21	2014-12-15	 Sabres	 	 • Torrey Mitchell	 lower body injury (DTD)
+22	2014-12-21	 Sabres	 	 • Torrey Mitchell	 placed on IR with lower body injury
+23	2015-01-13	 Sabres	 • Torrey Mitchell	 	 activated from IR
+24	2015-03-15	 Canadiens	 	 • Torrey Mitchell	 arm injury (DTD)
+25	2015-03-24	 Canadiens	 • Torrey Mitchell	 	 returned to lineup
+26	2015-11-19	 Canadiens	 	 • Torrey Mitchell	 lower body injury (DTD)
+27	2015-11-20	 Canadiens	 	 • Torrey Mitchell	 placed on IR with lower body injury
+28	2015-12-15	 Canadiens	 • Torrey Mitchell	 	 activated from IR
+29	2016-10-01	 Canadiens	 	 • Torrey Mitchell	 upper body injury (DTD)
+30	2016-10-13	 Canadiens	 • Torrey Mitchell	 	 returned to lineup
+31	2017-04-01	 Canadiens	 	 • Torrey Mitchell	 flu (DTD)
+32	2017-04-05	 Canadiens	 • Torrey Mitchell	 	 returned to lineup
+33	2017-11-14	 Canadiens	 	 • Torrey Mitchell	 illness (DTD)
+34	2017-11-21	 Canadiens	 • Torrey Mitchell	 	 returned to lineup
+35	2018-04-07	 Kings	 	 • Torrey Mitchell	 illness (DTD)
+36	2018-04-11	 Kings	 • Torrey Mitchell	 	 returned to lineup

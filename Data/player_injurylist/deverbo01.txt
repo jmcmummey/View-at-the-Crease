@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-04-02	 Oilers	 	 • Boyd Devereaux	 concussion (out indefinitely)
+1	2006-02-04	 Coyotes	 	 • Boyd Devereaux	 ankle injury (DTD)
+2	2006-02-09	 Coyotes	 • Boyd Devereaux	 	 returned to lineup
+3	2007-01-29	 Maple Leafs	 	 • Boyd Devereaux	 ankle injury (DTD)
+4	2007-02-06	 Maple Leafs	 • Boyd Devereaux	 	 returned to lineup
+5	2007-02-18	 Maple Leafs	 	 • Boyd Devereaux	 wrist injury (DTD)
+6	2007-02-27	 Maple Leafs	 • Boyd Devereaux	 	 returned to lineup
+7	2007-10-15	 Maple Leafs	 	 • Boyd Devereaux	 back injury (DTD)
+8	2007-10-23	 Maple Leafs	 • Boyd Devereaux	 	 returned to lineup
+9	2008-01-29	 Maple Leafs	 	 • Boyd Devereaux	 wrist injury (DTD)
+10	2008-02-02	 Maple Leafs	 • Boyd Devereaux	 	 returned to lineup
+11	2008-02-21	 Maple Leafs	 	 • Boyd Devereaux	 right MCL injury (out 4-5 weeks)
+12	2008-03-25	 Maple Leafs	 • Boyd Devereaux	 	 returned to lineup

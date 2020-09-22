@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-05	 Mighty Ducks	 	 • Keith Carney	 back injury (left game)
+1	2007-01-19	 Wild	 	 • Keith Carney	 back spasms (DTD)
+2	2007-01-20	 Wild	 • Keith Carney	 	 returned to lineup

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-28	 Mighty Ducks	 	 • Dan Bylsma	 knee injury (out indefinitely)
+1	2003-02-09	 Mighty Ducks	 	 • Dan Bylsma	 head injury (out indefinitely)

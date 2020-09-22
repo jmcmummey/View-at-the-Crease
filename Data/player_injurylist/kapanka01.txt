@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-03-11	 Maple Leafs	 	 • Kasperi Kapanen	 concussion (DTD)
+1	2019-03-19	 Maple Leafs	 • Kasperi Kapanen	 	 returned to lineup

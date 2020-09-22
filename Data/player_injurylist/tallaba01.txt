@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-09-23	 Devils	 	 • Barry Tallackson	 irregular heartbeat (out 2-3 weeks)
+1	2008-10-06	 Devils	 	 • Barry Tallackson	 placed on IR with irregular heartbeat
+2	2008-11-09	 Devils	 • Barry Tallackson	 	 activated from IR

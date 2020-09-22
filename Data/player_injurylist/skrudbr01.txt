@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-10-08	 Stars	 	 • Brian Skrudland	 placed on IR
+1	1998-10-22	 Stars	 • Brian Skrudland	 	 activated from IR
+2	1999-10-08	 Stars	 	 • Brian Skrudland	 rib injury (DTD)
+3	1999-10-12	 Stars	 	 • Brian Skrudland	 placed on IR with rib injury
+4	1999-11-22	 Stars	 • Brian Skrudland	 	 activated from IR
+5	2000-01-05	 Stars	 	 • Brian Skrudland	 placed on IR

@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-12-16	 Stars	 	 • Steve Ott	 placed on IR
+1	2006-09-14	 Stars	 	 • Steve Ott	 sports hernia (out indefinitely)
+2	2006-10-28	 Stars	 	 • Steve Ott	 broken ankle (out indefinitely)
+3	2006-11-16	 Stars	 	 • Steve Ott	 placed on IR with broken ankle
+4	2007-01-18	 Stars	 • Steve Ott	 	 activated from IR
+5	2007-01-30	 Stars	 	 • Steve Ott	 ankle injury (out indefinitely)
+6	2007-03-26	 Stars	 • Steve Ott	 	 activated from IR
+7	2008-10-15	 Stars	 	 • Steve Ott	 undisclosed injury (DTD)
+8	2008-10-18	 Stars	 • Steve Ott	 	 returned to lineup
+9	2008-10-23	 Stars	 	 • Steve Ott	 groin injury (DTD)
+10	2008-10-29	 Stars	 • Steve Ott	 	 returned to lineup
+11	2008-11-24	 Stars	 	 • Steve Ott	 placed on IR with broken right hand
+12	2008-12-18	 Stars	 • Steve Ott	 	 activated from IR
+13	2009-10-12	 Stars	 	 • Steve Ott	 strained oblique muscle (DTD)
+14	2009-10-16	 Stars	 	 • Steve Ott	 placed on IR with strained oblique muscle
+15	2009-10-21	 Stars	 • Steve Ott	 	 activated from IR
+16	2010-02-08	 Stars	 	 • Steve Ott	 appendectomy (out indefinitely)
+17	2010-02-11	 Stars	 	 • Steve Ott	 placed on IR with appendectomy
+18	2010-03-02	 Stars	 • Steve Ott	 	 activated from IR
+19	2011-11-04	 Stars	 	 • Steve Ott	 hip injury (DTD)
+20	2011-11-10	 Stars	 	 • Steve Ott	 placed on IR with hip injury
+21	2011-11-17	 Stars	 • Steve Ott	 	 activated from IR
+22	2012-03-08	 Stars	 	 • Steve Ott	 back spasms (DTD)
+23	2012-03-10	 Stars	 • Steve Ott	 	 returned to lineup
+24	2014-11-29	 Blues	 	 • Steve Ott	 groin injury (DTD)
+25	2014-12-03	 Blues	 • Steve Ott	 	 returned to lineup
+26	2015-11-05	 Blues	 	 • Steve Ott	 upper body injury (DTD)
+27	2015-11-19	 Blues	 • Steve Ott	 	 returned to lineup
+28	2015-12-06	 Blues	 	 • Steve Ott	 placed on IR with hamstring injury
+29	2016-04-15	 Blues	 • Steve Ott	 	 activated from IR
+30	2017-01-19	 Red Wings	 	 • Steve Ott	 placed on IR with shoulder injury
+31	2017-02-06	 Red Wings	 • Steve Ott	 	 activated from IR

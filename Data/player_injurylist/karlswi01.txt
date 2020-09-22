@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-11-20	 Ducks	 	 • William Karlsson	 placed on IR with flu
+1	2014-11-24	 Ducks	 • William Karlsson	 	 activated from IR
+2	2017-02-28	 Blue Jackets	 	 • William Karlsson	 illness (DTD)
+3	2017-03-02	 Blue Jackets	 • William Karlsson	 	 returned to lineup
+4	2020-01-16	 Golden Knights	 	 • William Karlsson	 fractured finger (out indefinitely)
+5	2020-02-11	 Golden Knights	 • William Karlsson	 	 returned to lineup

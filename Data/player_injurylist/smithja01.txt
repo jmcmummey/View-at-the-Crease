@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1994-11-05	 Devils	 	 • Jason Smith (M.)	 knee injury (out indefinitely)
+1	2006-02-02	 Oilers	 	 • Jason Smith (M.)	 toe injury (DTD)
+2	2006-02-06	 Oilers	 • Jason Smith (M.)	 	 returned to lineup
+3	2006-02-07	 Oilers	 	 • Jason Smith (M.)	 toe injury (DTD)
+4	2006-03-03	 Oilers	 • Jason Smith (M.)	 	 activated from IR
+5	2007-12-30	 Flyers	 	 • Jason Smith (M.)	 calf injury (DTD)
+6	2008-01-10	 Flyers	 • Jason Smith (M.)	 	 returned to lineup
+7	2009-03-09	 Senators	 	 • Jason Smith (M.)	 placed on IR with lower body injury

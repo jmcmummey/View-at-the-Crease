@@ -1,0 +1,35 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-09-28	 Flames	 	 • Robyn Regehr	 injured knee
+1	2005-09-30	 Flames	 	 • Robyn Regehr	 sprained knee (out 1 month)
+2	2005-11-03	 Flames	 • Robyn Regehr	 	 returned to lineup
+3	2007-01-26	 Flames	 	 • Robyn Regehr	 flu (DTD)
+4	2007-01-30	 Flames	 • Robyn Regehr	 	 returned to lineup
+5	2007-04-07	 Flames	 	 • Robyn Regehr	 knee injury (DTD)
+6	2007-04-15	 Flames	 • Robyn Regehr	 	 returned to lineup
+7	2007-04-19	 Flames	 	 • Robyn Regehr	 knee injury (DTD)
+8	2008-11-02	 Flames	 	 • Robyn Regehr	 undisclosed (DTD)
+9	2008-11-04	 Flames	 • Robyn Regehr	 	 returned to lineup
+10	2009-04-03	 Flames	 	 • Robyn Regehr	 lower body injury (out for season)
+11	2009-12-07	 Flames	 	 • Robyn Regehr	 leg injury (DTD)
+12	2009-12-09	 Flames	 • Robyn Regehr	 	 returned to lineup
+13	2010-11-21	 Flames	 	 • Robyn Regehr	 knee injury (DTD)
+14	2010-11-24	 Flames	 • Robyn Regehr	 	 returned to lineup
+15	2011-01-14	 Flames	 	 • Robyn Regehr	 leg injury (DTD)
+16	2011-01-17	 Flames	 • Robyn Regehr	 	 returned to lineup
+17	2011-11-26	 Sabres	 	 • Robyn Regehr	 upper body injury (DTD)
+18	2011-11-29	 Sabres	 • Robyn Regehr	 	 returned to lineup
+19	2012-01-16	 Sabres	 	 • Robyn Regehr	 upper body injury (DTD)
+20	2012-01-24	 Sabres	 • Robyn Regehr	 	 returned to lineup
+21	2012-02-21	 Sabres	 	 • Robyn Regehr	 upper body injury (DTD)
+22	2012-03-03	 Sabres	 	 • Robyn Regehr	 hip injury (DTD)
+23	2012-03-05	 Sabres	 • Robyn Regehr	 	 returned to lineup
+24	2013-01-29	 Sabres	 	 • Robyn Regehr	 lower body injury (DTD)
+25	2013-02-02	 Sabres	 	 • Robyn Regehr	 placed on IR with lower body injury
+26	2013-02-10	 Sabres	 • Robyn Regehr	 	 activated from IR
+27	2014-04-09	 Kings	 	 • Robyn Regehr	 undisclosed (DTD)
+28	2014-04-12	 Kings	 • Robyn Regehr	 	 returned to lineup
+29	2014-05-05	 Kings	 	 • Robyn Regehr	 undisclosed (out for season)
+30	2014-11-08	 Kings	 	 • Robyn Regehr	 undisclosed (DTD)
+31	2014-11-15	 Kings	 • Robyn Regehr	 	 returned to lineup
+32	2014-12-19	 Kings	 	 • Robyn Regehr	 placed on IR with upper body injury
+33	2015-01-19	 Kings	 • Robyn Regehr	 	 activated from IR

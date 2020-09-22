@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1996-02-22	 Islanders	 	 • Todd Bertuzzi	 eye injury (DTD)
+1	1998-11-01	 Canucks	 	 • Todd Bertuzzi	 leg injury (out indefinitely)
+2	2006-10-20	 Panthers	 	 • Todd Bertuzzi	 back spasms (DTD)
+3	2006-11-02	 Panthers	 	 • Todd Bertuzzi	 herniated disc (out ~2 months)
+4	2007-03-22	 Red Wings	 • Todd Bertuzzi	 	 returned to lineup
+5	2007-04-07	 Red Wings	 	 • Todd Bertuzzi	 neck injury (DTD)
+6	2007-04-17	 Red Wings	 • Todd Bertuzzi	 	 returned to lineup
+7	2007-10-15	 Ducks	 	 • Todd Bertuzzi	 placed on IR with concussion
+8	2007-11-21	 Ducks	 • Todd Bertuzzi	 	 activated from IR
+9	2009-01-08	 Flames	 	 • Todd Bertuzzi	 back injury (DTD)
+10	2009-01-21	 Flames	 • Todd Bertuzzi	 	 returned to lineup
+11	2009-03-03	 Flames	 	 • Todd Bertuzzi	 knee injury (DTD)
+12	2009-03-04	 Flames	 	 • Todd Bertuzzi	 surgery on knee (date approximate)
+13	2009-03-26	 Flames	 • Todd Bertuzzi	 	 returned to lineup
+14	2009-09-28	 Red Wings	 	 • Todd Bertuzzi	 groin injury (DTD)
+15	2010-03-07	 Red Wings	 	 • Todd Bertuzzi	 lower body injury (left game)
+16	2011-03-22	 Red Wings	 	 • Todd Bertuzzi	 back injury (DTD)
+17	2011-03-26	 Red Wings	 • Todd Bertuzzi	 	 returned to lineup
+18	2011-11-05	 Red Wings	 	 • Todd Bertuzzi	 illness / flu (DTD)
+19	2011-11-13	 Red Wings	 	 • Todd Bertuzzi	 placed on 7-day IR with flu / sinus infection
+20	2011-11-19	 Red Wings	 • Todd Bertuzzi	 	 activated from IR
+21	2012-01-13	 Red Wings	 	 • Todd Bertuzzi	 back injury (DTD)
+22	2012-01-14	 Red Wings	 • Todd Bertuzzi	 	 returned to lineup
+23	2012-03-06	 Red Wings	 	 • Todd Bertuzzi	 groin injury (DTD)
+24	2012-03-14	 Red Wings	 • Todd Bertuzzi	 	 returned to lineup
+25	2013-01-19	 Red Wings	 	 • Todd Bertuzzi	 flu/mononucleosis (DTD)
+26	2013-01-21	 Red Wings	 	 • Todd Bertuzzi	 placed on IR with flu
+27	2013-01-25	 Red Wings	 • Todd Bertuzzi	 	 activated from IR
+28	2013-02-08	 Red Wings	 	 • Todd Bertuzzi	 sore back (DTD)
+29	2013-02-09	 Red Wings	 	 • Todd Bertuzzi	 back injury (DTD)
+30	2013-02-15	 Red Wings	 	 • Todd Bertuzzi	 placed on IR with back injury
+31	2013-04-25	 Red Wings	 • Todd Bertuzzi	 	 activated from IR
+32	2013-04-27	 Red Wings	 	 • Todd Bertuzzi	 strained back (out for season)
+33	2013-11-23	 Red Wings	 	 • Todd Bertuzzi	 shoulder injury (DTD)
+34	2013-12-05	 Red Wings	 • Todd Bertuzzi	 	 returned to lineup
+35	2014-03-15	 Red Wings	 	 • Todd Bertuzzi	 lower body injury (DTD)
+36	2014-03-18	 Red Wings	 • Todd Bertuzzi	 	 returned to lineup
+37	2014-03-23	 Red Wings	 	 • Todd Bertuzzi	 flu (DTD)
+38	2014-03-25	 Red Wings	 • Todd Bertuzzi	 	 returned to lineup

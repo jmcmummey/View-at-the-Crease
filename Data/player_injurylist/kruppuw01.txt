@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-12-19	 Red Wings	 	 • Uwe Krupp	 back injury (out indefinitely)
+1	2001-10-10	 Red Wings	 	 • Uwe Krupp	 placed on IR
+2	2002-10-18	 Thrashers	 	 • Uwe Krupp	 placed on IR with back spasms
+3	2002-11-06	 Thrashers	 	 • Uwe Krupp	 surgery on back (out indefinitely)
+4	2003-02-12	 Thrashers	 • Uwe Krupp	 	 activated from IR

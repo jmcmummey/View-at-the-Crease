@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-10	 Coyotes	 	 • Josh Gratton	 knee injury (DTD)
+1	2006-03-23	 Coyotes	 • Josh Gratton	 	 returned to lineup
+2	2007-10-03	 Coyotes	 	 • Josh Gratton	 placed on IR with finger injury
+3	2008-12-27	 Flyers	 	 • Josh Gratton	 hand injury (DTD)
+4	2008-12-30	 Flyers	 • Josh Gratton	 	 returned to lineup
+5	2009-01-10	 Flyers	 	 • Josh Gratton	 torn stomach muscle (out indefinitely)

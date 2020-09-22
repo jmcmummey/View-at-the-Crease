@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-11-23	 Blues	 	 • Jay Bouwmeester	 lower body injury (DTD)
+1	2014-11-29	 Blues	 	 • Jay Bouwmeester	 placed on IR with lower body injury
+2	2014-12-11	 Blues	 • Jay Bouwmeester	 	 activated from IR
+3	2015-03-07	 Blues	 	 • Jay Bouwmeester	 flu (DTD)
+4	2015-03-12	 Blues	 • Jay Bouwmeester	 	 returned to lineup
+5	2016-01-09	 Blues	 	 • Jay Bouwmeester	 upper body injury (DTD)
+6	2016-01-18	 Blues	 • Jay Bouwmeester	 	 returned to lineup
+7	2016-03-24	 Blues	 	 • Jay Bouwmeester	 upper body injury (DTD)
+8	2016-04-07	 Blues	 • Jay Bouwmeester	 	 returned to lineup
+9	2017-10-02	 Blues	 	 • Jay Bouwmeester	 placed on IR with fractured left ankle
+10	2017-11-21	 Blues	 • Jay Bouwmeester	 	 activated from IR
+11	2017-12-12	 Blues	 	 • Jay Bouwmeester	 undisclosed (DTD)
+12	2017-12-12	 Blues	 	 • Jay Bouwmeester	 placed on IR with undisclosed injury
+13	2017-12-30	 Blues	 • Jay Bouwmeester	 	 activated from IR
+14	2018-03-05	 Blues	 	 • Jay Bouwmeester	 hip injury (out for season)
+15	2018-11-14	 Blues	 • Jay Bouwmeester	 	 returned to lineup
+16	2020-02-12	 Blues	 	 • Jay Bouwmeester	 placed on IR with cardiac episode (out for season)

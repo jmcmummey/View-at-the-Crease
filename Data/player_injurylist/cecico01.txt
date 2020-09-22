@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-07	 Senators	 	 • Cody Ceci	 lower body injury (DTD)
+1	2015-11-10	 Senators	 • Cody Ceci	 	 returned to lineup
+2	2015-12-21	 Senators	 	 • Cody Ceci	 placed on IR with upper body injury
+3	2016-01-07	 Senators	 • Cody Ceci	 	 activated from IR
+4	2017-04-02	 Senators	 	 • Cody Ceci	 lower body injury (DTD)
+5	2017-04-06	 Senators	 • Cody Ceci	 	 returned to lineup
+6	2018-10-12	 Senators	 	 • Cody Ceci	 placed on IR with upper body injury
+7	2018-10-24	 Senators	 • Cody Ceci	 	 activated from IR
+8	2019-03-21	 Senators	 	 • Cody Ceci	 upper body injury (DTD)
+9	2019-03-28	 Senators	 • Cody Ceci	 	 returned to lineup
+10	2020-02-07	 Maple Leafs	 	 • Cody Ceci	 placed on IR with ankle injury
+11	2020-03-06	 Maple Leafs	 • Cody Ceci	 	 activated from IR

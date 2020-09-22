@@ -1,0 +1,83 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1995-10-07	@	Pittsburgh Penguins	3	8	L			32	16	1		0		40	22	4		2
+1	1995-10-10		New York Islanders	7	3	W			50	29	3		1		21	66	1		0
+2	1995-10-14		New York Rangers	0	2	L			27	46	0		0		39	33	0		1
+3	1995-10-17		San Jose Sharks	7	2	W			44	17	4		0		25	17	1		0
+4	1995-10-20		Calgary Flames	4	3	W	OT		38	6	0		0		27	10	0		0
+5	1995-10-21	@	Montreal Canadiens	3	4	L			31	18	1		0		44	20	1		0
+6	1995-10-24		Florida Panthers	1	6	L			35	18	1		0		28	32	1		0
+7	1995-10-26	@	Chicago Blackhawks	2	1	W			27	32	2		0		19	33	1		0
+8	1995-10-28		Los Angeles Kings	2	2	T	OT		58	8	1		0		29	15	2		0
+9	1995-10-29	@	New York Rangers	2	3	L			36	18	2		0		29	14	1		0
+10	1995-11-01	@	Winnipeg Jets	4	2	W			34	29	3		0		34	29	0		0
+11	1995-11-03	@	Vancouver Canucks	4	4	T	OT		32	21	1		0		32	25	1		0
+12	1995-11-04	@	Edmonton Oilers	3	3	T	OT		21	39	0		0		36	31	0		0
+13	1995-11-07		Mighty Ducks of Anaheim	6	3	W			38	31	1		1		36	45	0		0
+14	1995-11-10		Washington Capitals	6	1	W			23	39	3		0		42	33	0		0
+15	1995-11-11	@	Boston Bruins	3	1	W			19	8	0		0		37	2	0		0
+16	1995-11-14	@	Florida Panthers	2	5	L			28	18	0		0		34	16	1		0
+17	1995-11-16	@	Tampa Bay Lightning	5	4	W	OT		34	16	0		1		37	16	2		0
+18	1995-11-18		Winnipeg Jets	2	1	W			36	8	0		0		22	10	0		1
+19	1995-11-21		St. Louis Blues	5	2	W			33	31	2		0		30	19	0		0
+20	1995-11-24		Hartford Whalers	0	4	L			30	22	0		0		28	6	1		0
+21	1995-11-25	@	St. Louis Blues	2	2	T	OT		29	45	1		1		35	47	2		0
+22	1995-11-28	@	Winnipeg Jets	3	4	L			38	10	1		0		33	10	2		0
+23	1995-11-30	@	Philadelphia Flyers	2	3	L			26	12	1		0		30	12	1		0
+24	1995-12-02		Mighty Ducks of Anaheim	4	4	T	OT		32	15	1		0		28	17	1		0
+25	1995-12-05		Ottawa Senators	4	1	W			35	23	0		0		40	8	0		0
+26	1995-12-07	@	New Jersey Devils	2	1	W			29	15	0		0		21	29	0		0
+27	1995-12-09		Dallas Stars	3	1	W			29	27	1		0		34	28	1		0
+28	1995-12-11		Colorado Avalanche	1	5	L			31	17	1		0		29	21	1		0
+29	1995-12-14	@	San Jose Sharks	4	1	W			33	24	2		0		26	40	1		0
+30	1995-12-16	@	Los Angeles Kings	6	3	W			35	21	3		0		47	32	0		0
+31	1995-12-17	@	Mighty Ducks of Anaheim	3	2	W	OT		44	19	0		0		33	11	0		0
+32	1995-12-20		Chicago Blackhawks	2	4	L			27	15	1		1		23	17	0		1
+33	1995-12-21	@	Chicago Blackhawks	3	3	T	OT		24	24	0		0		25	26	1		0
+34	1995-12-23		Edmonton Oilers	6	1	W			26	23	3		0		27	28	1		0
+35	1995-12-27	@	Calgary Flames	0	4	L			27	22	0		0		24	12	0		0
+36	1995-12-29	@	Colorado Avalanche	2	3	L			34	12	0		1		33	14	0		0
+37	1995-12-30	@	St. Louis Blues	4	3	W	OT		34	12	1		0		22	16	2		0
+38	1996-01-01	@	Dallas Stars	1	0	W			29	33	0		1		33	20	0		0
+39	1996-01-03		Boston Bruins	4	4	T	OT		33	8	1		0		51	6	1		0
+40	1996-01-05	@	Buffalo Sabres	1	3	L			27	30	0		0		31	36	0		0
+41	1996-01-06		Colorado Avalanche	5	2	W			35	15	2		0		28	15	0		0
+42	1996-01-10		Los Angeles Kings	5	4	W			35	11	2		0		30	15	0		0
+43	1996-01-11	@	New York Islanders	3	4	L			46	4	0		0		23	10	1		1
+44	1996-01-13		Vancouver Canucks	2	5	L			45	40	1		0		28	26	3		0
+45	1996-01-17		Winnipeg Jets	2	4	L			40	16	1		1		32	14	0		0
+46	1996-01-24		Chicago Blackhawks	2	2	T	OT		40	24	0		0		36	38	1		0
+47	1996-01-27	@	Ottawa Senators	2	2	T	OT		44	13	1		0		25	19	1		0
+48	1996-01-30	@	Detroit Red Wings	2	4	L			27	10	0		0		37	15	0		0
+49	1996-01-31		St. Louis Blues	0	4	L			25	28	0		0		32	17	1		1
+50	1996-02-03		Montreal Canadiens	1	4	L			50	13	0		0		20	17	1		0
+51	1996-02-05	@	San Jose Sharks	4	6	L			49	16	2		1		30	18	1		0
+52	1996-02-07	@	Mighty Ducks of Anaheim	2	1	W			22	15	1		0		22	17	1		0
+53	1996-02-08	@	Los Angeles Kings	3	4	L			34	20	2		0		32	14	2		0
+54	1996-02-10		Buffalo Sabres	2	2	T	OT		41	33	0		0		42	33	0		0
+55	1996-02-12		Pittsburgh Penguins	4	1	W			32	73	3		1		39	60	1		0
+56	1996-02-14		San Jose Sharks	4	3	W			41	12	0		0		25	14	0		0
+57	1996-02-16	@	Washington Capitals	3	4	L			29	16	1		0		27	16	3		0
+58	1996-02-18		Detroit Red Wings	2	3	L			40	39	1		0		35	45	1		0
+59	1996-02-21		Tampa Bay Lightning	2	3	L	OT		31	20	0		0		47	18	1		0
+60	1996-02-22	@	Detroit Red Wings	3	5	L			29	28	1		0		39	26	2		0
+61	1996-02-24		Dallas Stars	2	3	L			34	18	0		0		28	4	1		0
+62	1996-02-28	@	Winnipeg Jets	3	4	L			40	19	0		1		37	20	2		0
+63	1996-03-02	@	Dallas Stars	1	5	L			28	15	1		0		31	19	1		0
+64	1996-03-03	@	Colorado Avalanche	0	4	L			26	17	0		0		32	21	0		0
+65	1996-03-06		New Jersey Devils	2	2	T	OT		38	13	0		0		31	13	0		1
+66	1996-03-08	@	Hartford Whalers	4	7	L			30	17	1		0		30	21	2		0
+67	1996-03-09		Calgary Flames	4	3	W			37	12	3		0		40	32	0		1
+68	1996-03-13		Winnipeg Jets	3	3	T	OT		27	15	2		0		32	17	1		0
+69	1996-03-15		Dallas Stars	3	0	W			30	45	1		0		26	42	0		0
+70	1996-03-17		Vancouver Canucks	4	2	W			30	11	1		0		42	13	0		0
+71	1996-03-19	@	Detroit Red Wings	5	6	L			22	18	0		0		34	12	3		0
+72	1996-03-20		Detroit Red Wings	3	4	L	OT		26	45	2		0		22	37	1		0
+73	1996-03-23		Philadelphia Flyers	0	4	L			13	8	0		0		33	12	1		0
+74	1996-03-25	@	Calgary Flames	4	2	W			21	18	2		0		48	24	1		0
+75	1996-03-27	@	Vancouver Canucks	6	2	W			39	10	2		0		29	8	0		0
+76	1996-03-30	@	Edmonton Oilers	4	3	W			29	10	1		0		38	16	1		0
+77	1996-04-03		Chicago Blackhawks	2	5	L			18	19	2		0		21	21	2		0
+78	1996-04-04	@	St. Louis Blues	3	1	W			21	14	0		0		40	12	0		0
+79	1996-04-06		St. Louis Blues	5	1	W			28	8	2		0		37	10	1		0
+80	1996-04-11	@	Chicago Blackhawks	2	5	L			27	47	2		0		30	48	1		0
+81	1996-04-13		Edmonton Oilers	6	3	W			48	22	1		0		27	32	1		0

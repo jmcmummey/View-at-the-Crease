@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-17	 Sharks	 	 • Joakim Ryan	 upper body injury (DTD)
+1	2019-12-28	 Kings	 	 • Joakim Ryan	 undisclosed (DTD)
+2	2020-01-04	 Kings	 	 • Joakim Ryan	 placed on IR with undisclosed
+3	2020-01-24	 Kings	 • Joakim Ryan	 	 activated from IR

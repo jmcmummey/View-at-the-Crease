@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-04	 Maple Leafs	 	 • Petter Granberg	 placed on injured/non-roster list with Achilles injury
+1	2015-12-09	 Predators	 • Petter Granberg	 	 activated from injured/non-roster list
+2	2017-01-17	 Predators	 	 • Petter Granberg	 placed on IR with undisclosed injury
+3	2017-01-31	 Predators	 • Petter Granberg	 	 activated from IR

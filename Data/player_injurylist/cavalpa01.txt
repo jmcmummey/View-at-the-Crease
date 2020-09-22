@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-12-22	 Blues	 	 • Paul Cavallini	 lost tip of left index finger (out indefinitely)
+1	1991-10-20	 Blues	 	 • Paul Cavallini	 strained ligament in knee (out indefinitely)
+2	1994-01-16	 Stars	 	 • Paul Cavallini	 fractured eye (DTD)

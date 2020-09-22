@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-03	 Oilers	 	 • Ryan Nugent-Hopkins	 placed on IR with left shoulder injury
+1	2012-02-04	 Oilers	 • Ryan Nugent-Hopkins	 	 activated from IR
+2	2012-02-07	 Oilers	 	 • Ryan Nugent-Hopkins	 sprained shoulder (DTD)
+3	2012-02-21	 Oilers	 	 • Ryan Nugent-Hopkins	 placed on IR with sprained shoulder
+4	2012-02-25	 Oilers	 • Ryan Nugent-Hopkins	 	 activated from IR
+5	2013-02-06	 Oilers	 	 • Ryan Nugent-Hopkins	 shoulder injury (DTD)
+6	2013-02-09	 Oilers	 • Ryan Nugent-Hopkins	 	 returned to lineup
+7	2013-03-20	 Oilers	 	 • Ryan Nugent-Hopkins	 illness (DTD)
+8	2013-03-23	 Oilers	 	 • Ryan Nugent-Hopkins	 placed on IR with illness
+9	2013-03-25	 Oilers	 • Ryan Nugent-Hopkins	 	 activated from IR
+10	2013-04-21	 Oilers	 	 • Ryan Nugent-Hopkins	 shoulder injury (out for season)
+11	2013-09-30	 Oilers	 	 • Ryan Nugent-Hopkins	 placed on IR with surgery on left shoulder
+12	2013-10-07	 Oilers	 • Ryan Nugent-Hopkins	 	 activated from IR
+13	2014-10-12	 Oilers	 	 • Ryan Nugent-Hopkins	 undisclosed injury (DTD)
+14	2014-10-17	 Oilers	 • Ryan Nugent-Hopkins	 	 returned to lineup
+15	2015-04-04	 Oilers	 	 • Ryan Nugent-Hopkins	 lower body injury (out for season)
+16	2015-11-14	 Oilers	 	 • Ryan Nugent-Hopkins	 flu (DTD)
+17	2015-11-18	 Oilers	 • Ryan Nugent-Hopkins	 	 returned to lineup
+18	2016-01-19	 Oilers	 	 • Ryan Nugent-Hopkins	 placed on IR with hand injury
+19	2016-03-11	 Oilers	 • Ryan Nugent-Hopkins	 	 activated from IR
+20	2016-03-24	 Oilers	 	 • Ryan Nugent-Hopkins	 concussion (DTD)
+21	2016-04-02	 Oilers	 • Ryan Nugent-Hopkins	 	 returned to lineup
+22	2018-01-14	 Oilers	 	 • Ryan Nugent-Hopkins	 placed on IR with upper body injury
+23	2018-03-03	 Oilers	 • Ryan Nugent-Hopkins	 	 activated from IR
+24	2018-03-31	 Oilers	 	 • Ryan Nugent-Hopkins	 lower body injury (DTD)
+25	2018-04-05	 Oilers	 • Ryan Nugent-Hopkins	 	 returned to lineup
+26	2019-11-24	 Oilers	 	 • Ryan Nugent-Hopkins	 hand injury (DTD)
+27	2019-11-30	 Oilers	 	 • Ryan Nugent-Hopkins	 placed on IR with hand injury
+28	2019-12-08	 Oilers	 • Ryan Nugent-Hopkins	 	 activated from IR

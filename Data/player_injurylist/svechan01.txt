@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-04-16	 Hurricanes	 	 • Andrei Svechnikov	 concussion (DTD)
+1	2019-05-01	 Hurricanes	 • Andrei Svechnikov	 	 returned to lineup
+2	2020-08-16	 Hurricanes	 	 • Andrei Svechnikov	 right leg injury (out for season)

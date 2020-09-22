@@ -1,0 +1,67 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-30	 Maple Leafs	 	 • Carl Gunnarsson	 lower / upper (CBC) body injury (DTD)
+1	2009-12-04	 Maple Leafs	 	 • Carl Gunnarsson	 placed on IR with hyperextended elbow
+2	2010-01-14	 Maple Leafs	 • Carl Gunnarsson	 	 activated from IR
+3	2011-11-27	 Maple Leafs	 	 • Carl Gunnarsson	 hand injury (DTD)
+4	2011-11-30	 Maple Leafs	 • Carl Gunnarsson	 	 returned to lineup
+5	2012-02-14	 Maple Leafs	 	 • Carl Gunnarsson	 placed on IR with ankle injury
+6	2012-02-21	 Maple Leafs	 • Carl Gunnarsson	 	 activated from IR
+7	2012-04-04	 Maple Leafs	 	 • Carl Gunnarsson	 separated shoulder (out for season)
+8	2013-02-02	 Maple Leafs	 	 • Carl Gunnarsson	 lower body injury (DTD)
+9	2013-02-07	 Maple Leafs	 	 • Carl Gunnarsson	 placed on IR with groin injury
+10	2013-02-18	 Maple Leafs	 • Carl Gunnarsson	 	 activated from IR
+11	2013-04-15	 Maple Leafs	 	 • Carl Gunnarsson	 hip injury (DTD)
+12	2013-04-20	 Maple Leafs	 • Carl Gunnarsson	 	 returned to lineup
+13	2014-01-07	 Maple Leafs	 	 • Carl Gunnarsson	 upper body injury (DTD)
+14	2014-01-09	 Maple Leafs	 • Carl Gunnarsson	 	 returned to lineup
+15	2014-10-06	 Blues	 	 • Carl Gunnarsson	 placed on IR with surgery on hip
+16	2014-10-28	 Blues	 • Carl Gunnarsson	 	 activated from IR
+17	2014-12-06	 Blues	 	 • Carl Gunnarsson	 concussion (DTD)
+18	2014-12-11	 Blues	 	 • Carl Gunnarsson	 placed on IR with concussion
+19	2015-01-02	 Blues	 • Carl Gunnarsson	 	 activated from IR
+20	2015-03-22	 Blues	 	 • Carl Gunnarsson	 upper body injury (DTD)
+21	2015-03-27	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+22	2015-12-22	 Blues	 	 • Carl Gunnarsson	 arm injury (DTD)
+23	2015-12-26	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+24	2016-01-11	 Blues	 	 • Carl Gunnarsson	 upper body injury (DTD)
+25	2016-01-18	 Blues	 	 • Carl Gunnarsson	 placed on IR with upper body injury
+26	2016-01-21	 Blues	 • Carl Gunnarsson	 	 activated from IR
+27	2016-03-15	 Blues	 	 • Carl Gunnarsson	 lower body injury (DTD)
+28	2016-03-19	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+29	2016-03-26	 Blues	 	 • Carl Gunnarsson	 lower body injury (DTD)
+30	2016-04-03	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+31	2016-04-19	 Blues	 	 • Carl Gunnarsson	 upper body injury (DTD)
+32	2016-04-21	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+33	2016-10-16	 Blues	 	 • Carl Gunnarsson	 upper body injury (DTD)
+34	2016-10-22	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+35	2016-12-09	 Blues	 	 • Carl Gunnarsson	 lower body injury (DTD)
+36	2016-12-17	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+37	2017-01-04	 Blues	 	 • Carl Gunnarsson	 lower body injury (DTD)
+38	2017-01-10	 Blues	 	 • Carl Gunnarsson	 placed on IR with lower body injury
+39	2017-01-17	 Blues	 • Carl Gunnarsson	 	 activated from IR
+40	2017-03-29	 Blues	 	 • Carl Gunnarsson	 undisclosed (DTD)
+41	2017-04-06	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+42	2017-12-21	 Blues	 	 • Carl Gunnarsson	 upper body injury (DTD)
+43	2017-12-23	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+44	2018-03-24	 Blues	 	 • Carl Gunnarsson	 torn ACL in knee (out for season)
+45	2018-10-02	 Blues	 	 • Carl Gunnarsson	 placed on IR with knee injury
+46	2018-10-31	 Blues	 • Carl Gunnarsson	 	 activated from IR
+47	2018-11-17	 Blues	 	 • Carl Gunnarsson	 upper body injury (DTD)
+48	2018-12-03	 Blues	 	 • Carl Gunnarsson	 placed on IR with upper body injury
+49	2019-01-02	 Blues	 • Carl Gunnarsson	 	 activated from IR
+50	2019-01-12	 Blues	 	 • Carl Gunnarsson	 illness (DTD)
+51	2019-01-17	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+52	2019-02-07	 Blues	 	 • Carl Gunnarsson	 upper body injury (DTD)
+53	2019-02-16	 Blues	 	 • Carl Gunnarsson	 placed on IR with upper body injury
+54	2019-03-27	 Blues	 • Carl Gunnarsson	 	 activated from IR
+55	2019-05-11	 Blues	 	 • Carl Gunnarsson	 lower body injury (DTD)
+56	2019-05-15	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+57	2019-10-18	 Blues	 	 • Carl Gunnarsson	 lower body injury (DTD)
+58	2019-10-30	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+59	2019-11-29	 Blues	 	 • Carl Gunnarsson	 illness (DTD)
+60	2019-12-04	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+61	2019-12-13	 Blues	 	 • Carl Gunnarsson	 placed on IR with upper body injury
+62	2020-01-14	 Blues	 • Carl Gunnarsson	 	 activated from IR
+63	2020-08-06	 Blues	 	 • Carl Gunnarsson	 undisclosed (DTD)
+64	2020-08-09	 Blues	 • Carl Gunnarsson	 	 returned to lineup
+65	2020-08-19	 Blues	 	 • Carl Gunnarsson	 undisclosed (out for season)

@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-01-26	 Mighty Ducks	 • Paul Kariya	 	 activated from IR
+1	2003-11-13	 Avalanche	 • Paul Kariya	 	 activated from IR
+2	2005-09-16	 Predators	 	 • Paul Kariya	 sore ankle (missed practice)
+3	2005-09-21	 Predators	 	 • Paul Kariya	 groin injury (will miss first two preseason games)
+4	2006-09-16	 Predators	 	 • Paul Kariya	 hamstring injury (DTD)
+5	2008-11-06	 Blues	 	 • Paul Kariya	 lower body injury (DTD)
+6	2009-12-28	 Blues	 	 • Paul Kariya	 head injury (DTD)
+7	2010-01-12	 Blues	 • Paul Kariya	 	 activated from IR
+8	2010-03-30	 Blues	 	 • Paul Kariya	 lower body injury (DTD)
+9	2010-04-03	 Blues	 • Paul Kariya	 	 returned to lineup

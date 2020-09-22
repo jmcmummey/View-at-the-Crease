@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-05	 Bruins	 	 • Kevin Dallman	 foot injury (DTD)
+1	2005-11-08	 Bruins	 • Kevin Dallman	 	 returned to lineup
+2	2006-01-30	 Blues	 	 • Kevin Dallman	 left hand injury (left game)
+3	2006-02-01	 Blues	 	 • Kevin Dallman	 left hand injury (DTD)
+4	2006-02-02	 Blues	 • Kevin Dallman	 	 returned to lineup
+5	2007-12-26	 Kings	 	 • Kevin Dallman	 broken foot (out indefinitely)
+6	2008-01-19	 Kings	 • Kevin Dallman	 	 returned to lineup
+7	2008-01-22	 Kings	 	 • Kevin Dallman	 broken foot (DTD)
+8	2008-02-01	 Kings	 • Kevin Dallman	 	 returned to lineup

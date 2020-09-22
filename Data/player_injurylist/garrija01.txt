@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-17	 Panthers	 	 • Jason Garrison	 lower body injury (DTD)
+1	2010-10-21	 Panthers	 	 • Jason Garrison	 groin injury (DTD)
+2	2010-10-26	 Panthers	 • Jason Garrison	 	 returned to lineup
+3	2010-11-05	 Panthers	 	 • Jason Garrison	 groin injury (DTD)
+4	2010-11-17	 Panthers	 • Jason Garrison	 	 returned to lineup
+5	2010-11-24	 Panthers	 	 • Jason Garrison	 lower body injury (DTD)
+6	2010-11-27	 Panthers	 • Jason Garrison	 	 returned to lineup
+7	2012-02-12	 Panthers	 	 • Jason Garrison	 lower body injury (DTD)
+8	2012-02-15	 Panthers	 	 • Jason Garrison	 placed on IR with lower body injury
+9	2012-02-25	 Panthers	 • Jason Garrison	 	 activated from IR
+10	2012-04-19	 Panthers	 	 • Jason Garrison	 lower body injury (out for season)
+11	2014-04-10	 Canucks	 	 • Jason Garrison	 lower body injury (DTD)
+12	2014-04-12	 Canucks	 • Jason Garrison	 	 returned to lineup
+13	2014-12-21	 Lightning	 	 • Jason Garrison	 undisclosed injury (DTD)
+14	2014-12-31	 Lightning	 	 • Jason Garrison	 placed on IR with lower body injury
+15	2015-01-02	 Lightning	 • Jason Garrison	 	 activated from IR
+16	2015-02-07	 Lightning	 	 • Jason Garrison	 lower body injury (DTD)
+17	2015-02-10	 Lightning	 • Jason Garrison	 	 returned to lineup
+18	2015-03-29	 Lightning	 	 • Jason Garrison	 upper body injury (DTD)
+19	2015-04-23	 Lightning	 • Jason Garrison	 	 returned to lineup
+20	2016-02-09	 Lightning	 	 • Jason Garrison	 placed on IR with lower body injury
+21	2016-02-12	 Lightning	 	 • Jason Garrison	 placed on IR with lower body injury (CBC)
+22	2016-02-29	 Lightning	 • Jason Garrison	 	 activated from IR
+23	2016-12-03	 Lightning	 	 • Jason Garrison	 lower body injury (DTD)
+24	2016-12-08	 Lightning	 • Jason Garrison	 	 returned to lineup
+25	2017-01-21	 Lightning	 	 • Jason Garrison	 illness (DTD)
+26	2017-01-26	 Lightning	 • Jason Garrison	 	 returned to lineup
+27	2017-03-24	 Lightning	 	 • Jason Garrison	 lower body injury (DTD)
+28	2017-04-02	 Lightning	 • Jason Garrison	 	 returned to lineup
+29	2017-04-04	 Lightning	 	 • Jason Garrison	 lower body injury (out for season)
+30	2018-12-27	 Oilers	 	 • Jason Garrison	 illness (DTD)

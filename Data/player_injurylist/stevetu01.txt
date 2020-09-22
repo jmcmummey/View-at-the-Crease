@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-12-29	 Devils	 	 • Turner Stevenson	 knee injury (out indefinitely)
+1	2003-10-06	 Devils	 	 • Turner Stevenson	 placed on IR
+2	2003-10-30	 Devils	 • Turner Stevenson	 	 activated from IR
+3	2005-10-11	 Flyers	 	 • Turner Stevenson	 hip injury (DTD)
+4	2005-10-14	 Flyers	 	 • Turner Stevenson	 hip injury (left game)
+5	2005-10-14	 Flyers	 • Turner Stevenson	 	 returned to lineup
+6	2005-10-15	 Flyers	 	 • Turner Stevenson	 hip injury (DTD)
+7	2005-10-18	 Flyers	 	 • Turner Stevenson	 torn labrum in right hip (out indefinitely)
+8	2005-10-19	 Flyers	 	 • Turner Stevenson	 placed on IR with torn labrum in right hip (date approximate)
+9	2005-11-16	 Flyers	 • Turner Stevenson	 	 activated from IR
+10	2005-11-26	 Flyers	 	 • Turner Stevenson	 hip injury (left game)
+11	2005-11-28	 Flyers	 	 • Turner Stevenson	 hip injury (DTD)
+12	2005-12-08	 Flyers	 • Turner Stevenson	 	 returned to lineup
+13	2005-12-10	 Flyers	 	 • Turner Stevenson	 hip injury (out indefinitely)
+14	2006-01-14	 Flyers	 • Turner Stevenson	 	 activated from IR
+15	2006-03-11	 Flyers	 	 • Turner Stevenson	 hip injury (out indefinitely)
+16	2006-03-18	 Flyers	 • Turner Stevenson	 	 returned to lineup

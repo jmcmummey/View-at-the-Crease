@@ -1,0 +1,53 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-04-02	 Canucks	 	 • Christopher Tanev / Chris Tanev	 upper body injury (DTD)
+1	2013-04-08	 Canucks	 	 • Christopher Tanev / Chris Tanev	 leg injury (out for season)
+2	2014-01-29	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with fractured thumb
+3	2014-02-28	 Canucks	 • Christopher Tanev / Chris Tanev	 	 activated from IR
+4	2014-03-18	 Canucks	 	 • Christopher Tanev / Chris Tanev	 hand injury / fractured finger (out for season)
+5	2015-02-05	 Canucks	 	 • Christopher Tanev / Chris Tanev	 concussion-like symptoms (DTD)
+6	2015-02-09	 Canucks	 • Christopher Tanev / Chris Tanev	 	 returned to lineup
+7	2015-02-16	 Canucks	 	 • Christopher Tanev / Chris Tanev	 undisclosed injury (DTD)
+8	2015-02-21	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with upper body injury
+9	2015-03-09	 Canucks	 • Christopher Tanev / Chris Tanev	 	 activated from IR
+10	2015-11-08	 Canucks	 	 • Christopher Tanev / Chris Tanev	 upper body injury (DTD)
+11	2015-11-10	 Canucks	 • Christopher Tanev / Chris Tanev	 	 returned to lineup
+12	2015-12-01	 Canucks	 	 • Christopher Tanev / Chris Tanev	 undisclosed (DTD)
+13	2015-12-03	 Canucks	 • Christopher Tanev / Chris Tanev	 	 returned to lineup
+14	2015-12-26	 Canucks	 	 • Christopher Tanev / Chris Tanev	 undisclosed injury (DTD)
+15	2015-12-28	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with lower body injury
+16	2016-01-01	 Canucks	 • Christopher Tanev / Chris Tanev	 	 activated from IR
+17	2016-03-07	 Canucks	 	 • Christopher Tanev / Chris Tanev	 upper body injury (DTD)
+18	2016-03-14	 Canucks	 • Christopher Tanev / Chris Tanev	 	 returned to lineup
+19	2016-03-19	 Canucks	 	 • Christopher Tanev / Chris Tanev	 undisclosed injury (DTD)
+20	2016-03-31	 Canucks	 • Christopher Tanev / Chris Tanev	 	 returned to lineup
+21	2016-10-25	 Canucks	 	 • Christopher Tanev / Chris Tanev	 lower body injury (DTD)
+22	2016-10-28	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with lower body injury
+23	2016-11-02	 Canucks	 • Christopher Tanev / Chris Tanev	 	 activated from IR
+24	2016-11-03	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with lower body injury
+25	2016-12-16	 Canucks	 • Christopher Tanev / Chris Tanev	 	 activated from IR
+26	2017-01-07	 Canucks	 	 • Christopher Tanev / Chris Tanev	 upper body injury (DTD)
+27	2017-01-10	 Canucks	 • Christopher Tanev / Chris Tanev	 	 returned to lineup
+28	2017-02-24	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with mumps
+29	2017-03-02	 Canucks	 • Christopher Tanev / Chris Tanev	 	 activated from IR
+30	2017-03-11	 Canucks	 	 • Christopher Tanev / Chris Tanev	 food poisoning (DTD)
+31	2017-03-18	 Canucks	 • Christopher Tanev / Chris Tanev	 	 returned to lineup
+32	2017-11-09	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with upper body injury
+33	2017-11-24	 Canucks	 • Christopher Tanev / Chris Tanev	 	 activated from IR
+34	2017-12-14	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with strained groin
+35	2017-12-15	 Canucks	 	 • Christopher Tanev / Chris Tanev	 strained groin (DTD)
+36	2017-12-16	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with strained groin
+37	2018-01-02	 Canucks	 • Christopher Tanev / Chris Tanev	 	 activated from IR
+38	2018-01-07	 Canucks	 	 • Christopher Tanev / Chris Tanev	 mouth injury (DTD)
+39	2018-01-12	 Canucks	 • Christopher Tanev / Chris Tanev	 	 returned to lineup
+40	2018-02-09	 Canucks	 	 • Christopher Tanev / Chris Tanev	 leg injury (DTD)
+41	2018-02-09	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with leg injury
+42	2018-02-14	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with leg injury
+43	2018-03-17	 Canucks	 • Christopher Tanev / Chris Tanev	 	 activated from IR
+44	2018-03-25	 Canucks	 	 • Christopher Tanev / Chris Tanev	 knee injury (out for season)
+45	2018-10-25	 Canucks	 	 • Christopher Tanev / Chris Tanev	 hip injury (DTD)
+46	2018-10-31	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with hip injury
+47	2018-11-06	 Canucks	 • Christopher Tanev / Chris Tanev	 	 activated from IR
+48	2019-02-14	 Canucks	 	 • Christopher Tanev / Chris Tanev	 placed on IR with ankle injury
+49	2019-03-13	 Canucks	 • Christopher Tanev / Chris Tanev	 	 activated from IR
+50	2019-03-16	 Canucks	 	 • Christopher Tanev / Chris Tanev	 lower body injury (out for season)
+51	2020-03-11	 Canucks	 	 • Christopher Tanev / Chris Tanev	 lower body injury (out indefinitely)

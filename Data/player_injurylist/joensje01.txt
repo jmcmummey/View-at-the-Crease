@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-01-16	 Islanders	 	 • Jesse Joensuu	 groin injury / sports hernia (DTD)
+1	2013-03-15	 Islanders	 • Jesse Joensuu	 	 activated from IR
+2	2013-10-06	 Oilers	 	 • Jesse Joensuu	 strained back (DTD)
+3	2013-10-12	 Oilers	 • Jesse Joensuu	 	 returned to lineup
+4	2013-10-15	 Oilers	 	 • Jesse Joensuu	 back injury (DTD)
+5	2013-10-22	 Oilers	 	 • Jesse Joensuu	 placed on IR with back injury
+6	2013-11-09	 Oilers	 • Jesse Joensuu	 	 activated from IR
+7	2014-01-14	 Oilers	 	 • Jesse Joensuu	 flu (DTD)
+8	2014-01-18	 Oilers	 • Jesse Joensuu	 	 returned to lineup
+9	2014-03-18	 Oilers	 	 • Jesse Joensuu	 high ankle sprain (out for season)

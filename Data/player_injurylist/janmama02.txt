@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-03-12	 Stars	 	 • Mattias Janmark-Nylen / Mattias Janmark	 upper body injury (DTD)
+1	2016-03-26	 Stars	 • Mattias Janmark-Nylen / Mattias Janmark	 	 returned to lineup
+2	2016-04-02	 Stars	 	 • Mattias Janmark-Nylen / Mattias Janmark	 upper body injury (out for season)
+3	2016-09-30	 Stars	 	 • Mattias Janmark-Nylen / Mattias Janmark	 knee injury (DTD)
+4	2016-10-11	 Stars	 	 • Mattias Janmark-Nylen / Mattias Janmark	 placed on IR with knee injury (out for season)
+5	2018-03-09	 Stars	 	 • Mattias Janmark-Nylen / Mattias Janmark	 illness (DTD)
+6	2018-03-11	 Stars	 • Mattias Janmark-Nylen / Mattias Janmark	 	 returned to lineup
+7	2019-03-15	 Stars	 	 • Mattias Janmark-Nylen / Mattias Janmark	 undisclosed (DTD)
+8	2019-03-17	 Stars	 • Mattias Janmark-Nylen / Mattias Janmark	 	 returned to lineup
+9	2019-04-15	 Stars	 	 • Mattias Janmark-Nylen / Mattias Janmark	 leg injury (DTD)
+10	2019-04-24	 Stars	 • Mattias Janmark-Nylen / Mattias Janmark	 	 returned to lineup
+11	2019-11-12	 Stars	 	 • Mattias Janmark-Nylen / Mattias Janmark	 lower body injury (DTD)
+12	2019-11-21	 Stars	 • Mattias Janmark-Nylen / Mattias Janmark	 	 returned to lineup
+13	2019-12-14	 Stars	 	 • Mattias Janmark-Nylen / Mattias Janmark	 upper body injury (DTD)
+14	2019-12-16	 Stars	 • Mattias Janmark-Nylen / Mattias Janmark	 	 returned to lineup
+15	2020-01-16	 Stars	 	 • Mattias Janmark-Nylen / Mattias Janmark	 illness (DTD)
+16	2020-01-18	 Stars	 • Mattias Janmark-Nylen / Mattias Janmark	 	 returned to lineup
+17	2020-08-20	 Stars	 	 • Mattias Janmark-Nylen / Mattias Janmark	 undisclosed (DTD)
+18	2020-08-22	 Stars	 • Mattias Janmark-Nylen / Mattias Janmark	 	 returned to lineup

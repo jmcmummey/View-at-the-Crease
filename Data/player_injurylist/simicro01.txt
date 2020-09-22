@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-11-03	 Penguins	 	 • Roman Simicek	 strained hamstring (DTD)
+1	2000-11-16	 Penguins	 • Roman Simicek	 	 returned to lineup
+2	2000-12-05	 Penguins	 	 • Roman Simicek	 flu (DTD)
+3	2000-12-09	 Penguins	 • Roman Simicek	 	 returned to lineup

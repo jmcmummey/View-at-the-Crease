@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-04	 Sharks	 	 • Matt Carkner	 knee injury (out indefinitely)
+1	2007-10-03	 Senators	 	 • Matt Carkner	 placed on IR with broken left hand
+2	2007-10-19	 Senators	 • Matt Carkner	 	 activated from IR
+3	2010-12-16	 Senators	 	 • Matt Carkner	 ankle injury (DTD)
+4	2010-12-17	 Senators	 • Matt Carkner	 	 returned to lineup
+5	2011-01-21	 Senators	 	 • Matt Carkner	 lower body injury (DTD)
+6	2011-02-02	 Senators	 	 • Matt Carkner	 lower body injury (DTD)
+7	2011-02-09	 Senators	 • Matt Carkner	 	 returned to lineup
+8	2011-02-12	 Senators	 	 • Matt Carkner	 lower body injury (DTD)
+9	2011-03-01	 Senators	 	 • Matt Carkner	 lower body injury (out for season)
+10	2011-10-05	 Senators	 	 • Matt Carkner	 placed on IR with surgery on right knee
+11	2011-12-01	 Senators	 • Matt Carkner	 	 activated from IR
+12	2013-02-07	 Islanders	 	 • Matt Carkner	 placed on IR with groin injury
+13	2013-03-21	 Islanders	 • Matt Carkner	 	 activated from IR
+14	2014-10-06	 Islanders	 	 • Matt Carkner	 placed on IR with back injury
+15	2015-02-15	 Islanders	 • Matt Carkner	 	 activated from IR

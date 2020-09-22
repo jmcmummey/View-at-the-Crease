@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-12-12	 Golden Knights	 	 • Nicolas Hague	 illness (DTD)
+1	2019-12-17	 Golden Knights	 • Nicolas Hague	 	 returned to lineup

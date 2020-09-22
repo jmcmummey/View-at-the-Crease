@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-04-04	 Canucks	 	 • Zack Kassian	 upper body injury (out for season)
+1	2013-03-16	 Canucks	 	 • Zack Kassian	 sore back (DTD)
+2	2013-03-19	 Canucks	 • Zack Kassian	 	 returned to lineup
+3	2013-03-20	 Canucks	 	 • Zack Kassian	 placed on IR with back injury
+4	2013-03-30	 Canucks	 • Zack Kassian	 	 activated from IR
+5	2014-11-06	 Canucks	 	 • Zack Kassian	 placed on IR with lower body injury (date 11-09 per CBC)
+6	2014-11-19	 Canucks	 • Zack Kassian	 	 activated from IR
+7	2014-11-27	 Canucks	 	 • Zack Kassian	 placed on IR with finger injury
+8	2015-01-01	 Canucks	 • Zack Kassian	 	 activated from IR
+9	2015-02-05	 Canucks	 	 • Zack Kassian	 undisclosed (DTD)
+10	2015-02-07	 Canucks	 • Zack Kassian	 	 returned to lineup
+11	2015-03-03	 Canucks	 	 • Zack Kassian	 flu (DTD)
+12	2015-03-05	 Canucks	 • Zack Kassian	 	 returned to lineup
+13	2015-03-17	 Canucks	 	 • Zack Kassian	 back injury (out for season)
+14	2016-02-17	 Oilers	 	 • Zack Kassian	 illness (DTD)
+15	2016-02-20	 Oilers	 • Zack Kassian	 	 returned to lineup
+16	2016-11-06	 Oilers	 	 • Zack Kassian	 lower body injury (DTD)
+17	2016-11-12	 Oilers	 • Zack Kassian	 	 returned to lineup
+18	2018-02-27	 Oilers	 	 • Zack Kassian	 leg injury (DTD)
+19	2018-03-01	 Oilers	 • Zack Kassian	 	 returned to lineup
+20	2018-03-18	 Oilers	 	 • Zack Kassian	 undisclosed (DTD)
+21	2018-03-27	 Oilers	 • Zack Kassian	 	 returned to lineup
+22	2018-10-25	 Oilers	 	 • Zack Kassian	 neck injury (DTD)
+23	2018-10-27	 Oilers	 • Zack Kassian	 	 returned to lineup
+24	2019-12-01	 Oilers	 	 • Zack Kassian	 back injury (DTD)
+25	2019-12-08	 Oilers	 • Zack Kassian	 	 returned to lineup

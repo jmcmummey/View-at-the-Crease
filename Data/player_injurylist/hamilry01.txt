@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-10-08	 Oilers	 	 • Ryan Hamilton	 placed on IR with knee injury
+1	2013-11-02	 Oilers	 • Ryan Hamilton	 	 activated from IR

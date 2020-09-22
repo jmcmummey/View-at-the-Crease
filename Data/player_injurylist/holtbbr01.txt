@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-04-16	 Capitals	 	 • Braden Holtby	 illness (DTD)
+1	2018-03-22	 Capitals	 	 • Braden Holtby	 knee injury (DTD)
+2	2018-03-26	 Capitals	 • Braden Holtby	 	 returned to lineup
+3	2018-11-14	 Capitals	 	 • Braden Holtby	 upper body injury (DTD)
+4	2018-11-19	 Capitals	 • Braden Holtby	 	 returned to lineup

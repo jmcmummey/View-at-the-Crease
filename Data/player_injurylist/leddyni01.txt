@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-03-10	 Islanders	 	 • Nick Leddy	 lower (Y) / upper (CBC) body injury (DTD)
+1	2015-03-21	 Islanders	 • Nick Leddy	 	 returned to lineup
+2	2016-10-20	 Islanders	 	 • Nick Leddy	 upper body injury (DTD)
+3	2016-10-22	 Islanders	 • Nick Leddy	 	 returned to lineup
+4	2018-03-27	 Islanders	 	 • Nick Leddy	 undisclosed injury (DTD)
+5	2018-03-29	 Islanders	 • Nick Leddy	 	 returned to lineup
+6	2019-10-11	 Islanders	 	 • Nick Leddy	 undisclosed (DTD)
+7	2019-10-12	 Islanders	 • Nick Leddy	 	 returned to lineup
+8	2019-11-02	 Islanders	 	 • Nick Leddy	 lower body injury (DTD)
+9	2019-11-09	 Islanders	 • Nick Leddy	 	 returned to lineup
+10	2019-11-27	 Islanders	 	 • Nick Leddy	 lower body injury (DTD)
+11	2019-11-30	 Islanders	 • Nick Leddy	 	 returned to lineup
+12	2019-12-09	 Islanders	 	 • Nick Leddy	 lower body injury (DTD)
+13	2019-12-17	 Islanders	 • Nick Leddy	 	 returned to lineup

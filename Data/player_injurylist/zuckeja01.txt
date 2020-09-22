@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-13	 Wild	 	 • Jason Zucker	 head injury (DTD)
+1	2013-03-18	 Wild	 • Jason Zucker	 	 returned to lineup
+2	2014-02-25	 Wild	 	 • Jason Zucker	 placed on IR with leg injury (out for season)
+3	2014-12-27	 Wild	 	 • Jason Zucker	 illness (DTD)
+4	2015-01-03	 Wild	 • Jason Zucker	 	 returned to lineup
+5	2015-02-10	 Wild	 	 • Jason Zucker	 placed on IR with fractured collarbone
+6	2015-04-07	 Wild	 • Jason Zucker	 	 activated from IR
+7	2016-02-22	 Wild	 	 • Jason Zucker	 placed on IR with concussion (CBS Y)
+8	2016-02-24	 Wild	 	 • Jason Zucker	 placed on IR with concussion (CBC E)
+9	2016-03-04	 Wild	 • Jason Zucker	 	 activated from IR
+10	2017-04-01	 Wild	 	 • Jason Zucker	 lower body injury (DTD)
+11	2017-04-06	 Wild	 • Jason Zucker	 	 returned to lineup
+12	2018-12-15	 Wild	 	 • Jason Zucker	 illness (DTD)
+13	2018-12-18	 Wild	 • Jason Zucker	 	 returned to lineup
+14	2019-12-17	 Wild	 	 • Jason Zucker	 fractured fibula in right leg (out indefinitely)
+15	2020-01-12	 Wild	 • Jason Zucker	 	 returned to lineup

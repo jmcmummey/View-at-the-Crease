@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-03-11	 Red Wings	 	 • Brent Gilchrist	 placed on IR
+1	1998-03-24	 Red Wings	 • Brent Gilchrist	 	 activated from IR
+2	1998-09-22	 Red Wings	 	 • Brent Gilchrist	 surgery to repair hernia (out indefinitely)
+3	1998-10-07	 Red Wings	 	 • Brent Gilchrist	 placed on IR
+4	2003-01-18	 Predators	 	 • Brent Gilchrist	 back injury (out indefinitely)

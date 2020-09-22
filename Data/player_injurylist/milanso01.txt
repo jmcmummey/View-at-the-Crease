@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-04	 Blue Jackets	 	 • Sonny Milano	 placed on IR with facial injury
+1	2014-10-23	 Blue Jackets	 • Sonny Milano	 	 activated from IR
+2	2018-01-11	 Blue Jackets	 	 • Sonny Milano	 upper body injury (DTD)
+3	2018-01-17	 Blue Jackets	 	 • Sonny Milano	 placed on IR with oblique injury
+4	2018-02-16	 Blue Jackets	 • Sonny Milano	 	 activated from IR
+5	2019-12-16	 Blue Jackets	 	 • Sonny Milano	 upper body injury (DTD)
+6	2020-01-02	 Blue Jackets	 • Sonny Milano	 	 returned to lineup

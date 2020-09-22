@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-16	 Mighty Ducks	 	 • Andy McDonald	 sprained ankle (DTD)
+1	2005-12-16	 Mighty Ducks	 • Andy McDonald	 	 returned to lineup
+2	2007-12-29	 Blues	 	 • Andy McDonald	 chest injury (DTD)
+3	2008-01-05	 Blues	 • Andy McDonald	 	 returned to lineup
+4	2008-11-17	 Blues	 	 • Andy McDonald	 broken left ankle (out ~8 weeks)
+5	2009-02-10	 Blues	 • Andy McDonald	 	 returned to lineup
+6	2009-10-31	 Blues	 	 • Andy McDonald	 upper body injury (left game)
+7	2009-11-05	 Blues	 	 • Andy McDonald	 head injury (DTD)
+8	2009-11-08	 Blues	 • Andy McDonald	 	 returned to lineup
+9	2010-01-11	 Blues	 	 • Andy McDonald	 abdominal injury (DTD)
+10	2010-01-14	 Blues	 • Andy McDonald	 	 returned to lineup
+11	2010-12-05	 Blues	 	 • Andy McDonald	 placed on IR with concussion
+12	2011-02-02	 Blues	 	 • Andy McDonald	 concussion (DTD)
+13	2011-02-02	 Blues	 • Andy McDonald	 	 activated from IR
+14	2011-10-15	 Blues	 	 • Andy McDonald	 placed on IR with concussion
+15	2012-02-12	 Blues	 • Andy McDonald	 	 activated from IR
+16	2012-03-16	 Blues	 	 • Andy McDonald	 bruised shoulder (out indefinitely)
+17	2012-03-31	 Blues	 • Andy McDonald	 	 returned to lineup
+18	2013-02-26	 Blues	 	 • Andy McDonald	 placed on IR with left knee injury
+19	2013-03-18	 Blues	 • Andy McDonald	 	 activated from IR
+20	2013-04-07	 Blues	 	 • Andy McDonald	 flu (DTD)
+21	2013-04-09	 Blues	 • Andy McDonald	 	 returned to lineup

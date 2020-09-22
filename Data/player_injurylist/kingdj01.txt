@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-08	 Blues	 	 • D.J. King	 wrist injury (out indefinitely)
+1	2008-10-16	 Blues	 • D.J. King	 	 returned to lineup
+2	2008-10-18	 Blues	 	 • D.J. King	 placed on IR with surgery on shoulder
+3	2009-09-27	 Blues	 	 • D.J. King	 placed on IR with thumb injury
+4	2009-10-09	 Blues	 • D.J. King	 	 activated from IR
+5	2009-10-24	 Blues	 	 • D.J. King	 right hand injury (DTD)
+6	2009-10-25	 Blues	 	 • D.J. King	 placed on IR with fractured/dislocated right hand
+7	2010-01-16	 Blues	 • D.J. King	 	 activated from IR
+8	2010-01-20	 Blues	 	 • D.J. King	 right hand injury (DTD)
+9	2010-02-03	 Blues	 	 • D.J. King	 right hand injury (DTD)
+10	2010-02-04	 Blues	 • D.J. King	 	 returned to lineup
+11	2010-12-12	 Capitals	 	 • D.J. King	 placed on IR with undisclosed injury
+12	2011-01-18	 Capitals	 • D.J. King	 	 activated from IR

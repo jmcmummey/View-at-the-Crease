@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-01-24	 Kings	 	 • John Tripp	 placed on IR with facial injury
+1	2004-02-03	 Kings	 • John Tripp	 	 activated from IR

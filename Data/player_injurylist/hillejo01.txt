@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-29	 Ducks	 	 • Jonas Hiller	 back spasms (DTD)
+1	2010-04-08	 Ducks	 • Jonas Hiller	 	 returned to lineup
+2	2011-02-04	 Ducks	 	 • Jonas Hiller	 fatigue (DTD)
+3	2011-02-08	 Ducks	 	 • Jonas Hiller	 placed on IR with fatigue
+4	2011-02-11	 Ducks	 • Jonas Hiller	 	 activated from IR
+5	2011-02-16	 Ducks	 	 • Jonas Hiller	 placed on IR with fatigue/dizziness
+6	2011-03-23	 Ducks	 • Jonas Hiller	 	 activated from IR
+7	2011-04-02	 Ducks	 	 • Jonas Hiller	 vertigo (DTD)
+8	2011-04-08	 Ducks	 • Jonas Hiller	 	 returned to lineup
+9	2011-04-13	 Ducks	 	 • Jonas Hiller	 vertigo (out for season)
+10	2012-01-09	 Ducks	 	 • Jonas Hiller	 lower body injury (DTD)
+11	2012-01-12	 Ducks	 • Jonas Hiller	 	 returned to lineup
+12	2013-02-09	 Ducks	 	 • Jonas Hiller	 lower body injury (DTD)
+13	2013-02-16	 Ducks	 • Jonas Hiller	 	 returned to lineup
+14	2013-04-05	 Ducks	 	 • Jonas Hiller	 illness (DTD)
+15	2013-04-07	 Ducks	 • Jonas Hiller	 	 returned to lineup
+16	2014-01-15	 Ducks	 	 • Jonas Hiller	 flu (DTD)
+17	2014-01-17	 Ducks	 • Jonas Hiller	 	 returned to lineup
+18	2015-10-29	 Flames	 	 • Jonas Hiller	 lower body injury (DTD)
+19	2015-11-07	 Flames	 	 • Jonas Hiller	 placed on IR with lower body injury
+20	2015-11-25	 Flames	 • Jonas Hiller	 	 activated from IR

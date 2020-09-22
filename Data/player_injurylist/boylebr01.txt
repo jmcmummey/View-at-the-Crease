@@ -1,0 +1,43 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-12-21	 Rangers	 	 • Brian Boyle	 undisclosed (DTD)
+1	2009-12-23	 Rangers	 • Brian Boyle	 	 returned to lineup
+2	2010-03-25	 Rangers	 	 • Brian Boyle	 foot injury (DTD)
+3	2010-04-11	 Rangers	 • Brian Boyle	 	 returned to lineup
+4	2011-02-25	 Rangers	 	 • Brian Boyle	 upper body injury (DTD)
+5	2011-03-12	 Rangers	 • Brian Boyle	 	 returned to lineup
+6	2012-01-24	 Rangers	 	 • Brian Boyle	 lower body injury (DTD)
+7	2012-04-22	 Rangers	 	 • Brian Boyle	 concussion (DTD)
+8	2012-04-30	 Rangers	 • Brian Boyle	 	 returned to lineup
+9	2013-01-29	 Rangers	 	 • Brian Boyle	 flu (DTD)
+10	2013-02-05	 Rangers	 • Brian Boyle	 	 returned to lineup
+11	2013-04-17	 Rangers	 	 • Brian Boyle	 right leg injury (DTD)
+12	2013-05-04	 Rangers	 • Brian Boyle	 	 returned to lineup
+13	2015-05-16	 Lightning	 	 • Brian Boyle	 undisclosed (DTD)
+14	2015-05-18	 Lightning	 • Brian Boyle	 	 returned to lineup
+15	2015-10-23	 Lightning	 	 • Brian Boyle	 undisclosed (DTD)
+16	2015-10-29	 Lightning	 • Brian Boyle	 	 returned to lineup
+17	2015-12-21	 Lightning	 	 • Brian Boyle	 upper body injury (DTD)
+18	2015-12-28	 Lightning	 • Brian Boyle	 	 returned to lineup
+19	2016-01-17	 Lightning	 	 • Brian Boyle	 lower body injury (DTD)
+20	2016-01-19	 Lightning	 • Brian Boyle	 	 returned to lineup
+21	2016-11-19	 Lightning	 	 • Brian Boyle	 upper body injury (DTD)
+22	2016-11-21	 Lightning	 • Brian Boyle	 	 returned to lineup
+23	2016-11-23	 Lightning	 	 • Brian Boyle	 upper body injury (DTD)
+24	2016-11-25	 Lightning	 • Brian Boyle	 	 returned to lineup
+25	2017-01-01	 Lightning	 	 • Brian Boyle	 lower body injury (DTD)
+26	2017-01-07	 Lightning	 	 • Brian Boyle	 placed on IR with lower body injury
+27	2017-01-12	 Lightning	 • Brian Boyle	 	 activated from IR
+28	2017-10-03	 Devils	 	 • Brian Boyle	 placed on IR with leukemia
+29	2017-11-01	 Devils	 • Brian Boyle	 	 activated from IR
+30	2018-02-13	 Devils	 	 • Brian Boyle	 shoulder injury (DTD)
+31	2018-02-18	 Devils	 • Brian Boyle	 	 returned to lineup
+32	2018-11-11	 Devils	 	 • Brian Boyle	 placed on IR with upper body injury
+33	2018-11-23	 Devils	 • Brian Boyle	 	 activated from IR
+34	2019-03-03	 Predators	 	 • Brian Boyle	 lower body injury (DTD)
+35	2019-03-05	 Predators	 • Brian Boyle	 	 returned to lineup
+36	2019-04-13	 Predators	 	 • Brian Boyle	 appendectomy (out indefinitely)
+37	2019-04-20	 Predators	 • Brian Boyle	 	 returned to lineup
+38	2019-12-16	 Panthers	 	 • Brian Boyle	 back injury (DTD)
+39	2019-12-20	 Panthers	 • Brian Boyle	 	 returned to lineup
+40	2020-02-06	 Panthers	 	 • Brian Boyle	 upper body injury (DTD)
+41	2020-02-20	 Panthers	 	 • Brian Boyle	 placed on IR with upper body injury

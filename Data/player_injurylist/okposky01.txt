@@ -1,0 +1,37 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-19	 Islanders	 	 • Kyle Okposo	 arm injury (DTD)
+1	2008-12-07	 Islanders	 	 • Kyle Okposo	 sprained right wrist (DTD)
+2	2008-12-19	 Islanders	 • Kyle Okposo	 	 returned to lineup
+3	2009-04-02	 Islanders	 	 • Kyle Okposo	 sore groin (DTD)
+4	2009-04-11	 Islanders	 • Kyle Okposo	 	 returned to lineup
+5	2009-09-18	 Islanders	 	 • Kyle Okposo	 concussion (DTD)
+6	2009-11-11	 Islanders	 	 • Kyle Okposo	 flu (DTD)
+7	2009-11-13	 Islanders	 • Kyle Okposo	 	 returned to lineup
+8	2010-03-16	 Islanders	 	 • Kyle Okposo	 undisclosed (DTD)
+9	2010-03-19	 Islanders	 • Kyle Okposo	 	 returned to lineup
+10	2010-09-28	 Islanders	 	 • Kyle Okposo	 placed on IR with surgery on right shoulder
+11	2011-01-20	 Islanders	 • Kyle Okposo	 	 activated from IR
+12	2014-03-27	 Islanders	 	 • Kyle Okposo	 upper body injury / lower body injury (CBC) (out for season)
+13	2015-01-26	 Islanders	 	 • Kyle Okposo	 placed on IR with upper body injury
+14	2015-03-10	 Islanders	 • Kyle Okposo	 	 activated from IR
+15	2015-12-18	 Islanders	 	 • Kyle Okposo	 lower body injury (DTD)
+16	2015-12-27	 Islanders	 • Kyle Okposo	 	 returned to lineup
+17	2016-10-13	 Sabres	 	 • Kyle Okposo	 knee injury (DTD)
+18	2016-10-16	 Sabres	 • Kyle Okposo	 	 returned to lineup
+19	2017-03-03	 Sabres	 	 • Kyle Okposo	 rib injury (out indefinitely)
+20	2017-03-25	 Sabres	 • Kyle Okposo	 	 returned to lineup
+21	2017-03-28	 Sabres	 	 • Kyle Okposo	 illness (out for season)
+22	2017-10-14	 Sabres	 	 • Kyle Okposo	 illness (DTD)
+23	2017-10-17	 Sabres	 • Kyle Okposo	 	 returned to lineup
+24	2018-03-09	 Sabres	 	 • Kyle Okposo	 concussion (out indefinitely)
+25	2018-03-19	 Sabres	 • Kyle Okposo	 	 returned to lineup
+26	2019-02-17	 Sabres	 	 • Kyle Okposo	 undisclosed (DTD)
+27	2019-02-22	 Sabres	 	 • Kyle Okposo	 placed on IR with concussion
+28	2019-02-25	 Sabres	 • Kyle Okposo	 	 activated from IR
+29	2019-11-17	 Sabres	 	 • Kyle Okposo	 placed on IR with concussion
+30	2019-12-07	 Sabres	 • Kyle Okposo	 	 activated from IR
+31	2019-12-23	 Sabres	 	 • Kyle Okposo	 illness (DTD)
+32	2019-12-27	 Sabres	 • Kyle Okposo	 	 returned to lineup
+33	2020-02-01	 Sabres	 	 • Kyle Okposo	 upper body injury (out indefinitely)
+34	2020-02-04	 Sabres	 	 • Kyle Okposo	 placed on IR with upper body injury
+35	2020-02-13	 Sabres	 • Kyle Okposo	 	 activated from IR

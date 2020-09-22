@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-08	 Wild	 • Jason Marshall	 	 activated from IR
+1	2005-10-16	 Mighty Ducks	 	 • Jason Marshall	 nose injury (DTD)
+2	2005-10-21	 Mighty Ducks	 • Jason Marshall	 	 returned to lineup

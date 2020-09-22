@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-10	 Penguins	 	 • Sebastien Caron	 placed on IR with strained left quadricep
+1	2005-11-19	 Penguins	 	 • Sebastien Caron	 strained quadricep (DTD)
+2	2005-11-22	 Penguins	 • Sebastien Caron	 	 returned to lineup

@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-05	 Kings	 	 • Jake Muzzin	 placed on IR with undisclosed injury
+1	2011-10-06	 Kings	 • Jake Muzzin	 	 activated from IR
+2	2013-06-02	 Kings	 	 • Jake Muzzin	 undisclosed (DTD)
+3	2013-06-04	 Kings	 • Jake Muzzin	 	 returned to lineup
+4	2014-10-08	 Kings	 	 • Jake Muzzin	 upper body injury (DTD)
+5	2014-10-22	 Kings	 • Jake Muzzin	 	 returned to lineup
+6	2018-01-06	 Kings	 	 • Jake Muzzin	 placed on IR with undisclosed injury
+7	2018-01-17	 Kings	 • Jake Muzzin	 	 activated from IR
+8	2018-03-27	 Kings	 	 • Jake Muzzin	 upper body injury (out indefinitely)
+9	2018-04-15	 Kings	 • Jake Muzzin	 	 returned to lineup
+10	2019-04-02	 Maple Leafs	 	 • Jake Muzzin	 illness (out for season)
+11	2019-10-30	 Maple Leafs	 	 • Jake Muzzin	 charley horse (DTD)
+12	2019-12-28	 Maple Leafs	 	 • Jake Muzzin	 fractured foot (out indefinitely)
+13	2020-01-12	 Maple Leafs	 	 • Jake Muzzin	 placed on IR with fractured foot
+14	2020-01-27	 Maple Leafs	 • Jake Muzzin	 	 activated from IR
+15	2020-02-26	 Maple Leafs	 	 • Jake Muzzin	 fractured hand (out indefinitely)
+16	2020-07-26	 Maple Leafs	 • Jake Muzzin	 	 returned to lineup
+17	2020-08-05	 Maple Leafs	 	 • Jake Muzzin	 undisclosed (out for season)

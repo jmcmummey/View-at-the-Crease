@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-11-01	 Devils	 	 • Stefan Noesen	 upper body injury (DTD)
+1	2018-11-01	 Devils	 	 • Stefan Noesen	 placed on IR with upper body injury
+2	2018-11-09	 Devils	 • Stefan Noesen	 	 activated from IR
+3	2018-12-14	 Devils	 	 • Stefan Noesen	 placed on IR with illness
+4	2018-12-21	 Devils	 • Stefan Noesen	 	 activated from IR
+5	2019-01-14	 Devils	 	 • Stefan Noesen	 placed on IR with lower body injury
+6	2019-03-05	 Devils	 • Stefan Noesen	 	 activated from IR
+7	2019-03-09	 Devils	 	 • Stefan Noesen	 upper body injury (DTD)
+8	2019-03-12	 Devils	 • Stefan Noesen	 	 returned to lineup

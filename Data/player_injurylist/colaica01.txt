@@ -1,0 +1,49 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-28	 Maple Leafs	 	 • Carlo Colaiacovo	 wrist injury (DTD)
+1	2006-01-10	 Maple Leafs	 • Carlo Colaiacovo	 	 returned to lineup
+2	2006-01-24	 Maple Leafs	 	 • Carlo Colaiacovo	 concussion (out indefinitely)
+3	2006-10-03	 Maple Leafs	 	 • Carlo Colaiacovo	 headache (out indefinitely)
+4	2006-10-20	 Maple Leafs	 • Carlo Colaiacovo	 	 returned to lineup
+5	2006-12-05	 Maple Leafs	 	 • Carlo Colaiacovo	 head injury (out indefinitely)
+6	2006-12-12	 Maple Leafs	 • Carlo Colaiacovo	 	 returned to lineup
+7	2006-12-30	 Maple Leafs	 	 • Carlo Colaiacovo	 headache (DTD)
+8	2007-01-01	 Maple Leafs	 • Carlo Colaiacovo	 	 returned to lineup
+9	2007-04-03	 Maple Leafs	 	 • Carlo Colaiacovo	 leg injury (DTD)
+10	2007-04-05	 Maple Leafs	 • Carlo Colaiacovo	 	 returned to lineup
+11	2007-10-03	 Maple Leafs	 	 • Carlo Colaiacovo	 knee injury (out indefinitely)
+12	2007-12-27	 Maple Leafs	 • Carlo Colaiacovo	 	 returned to lineup
+13	2008-01-06	 Maple Leafs	 	 • Carlo Colaiacovo	 right knee injury (DTD)
+14	2008-01-29	 Maple Leafs	 • Carlo Colaiacovo	 	 returned to lineup
+15	2008-03-20	 Maple Leafs	 	 • Carlo Colaiacovo	 groin injury (out for season)
+16	2008-11-22	 Maple Leafs	 	 • Carlo Colaiacovo	 left ankle injury (DTD)
+17	2008-11-26	 Blues	 • Carlo Colaiacovo	 	 returned to lineup
+18	2009-10-24	 Blues	 	 • Carlo Colaiacovo	 upper body injury (DTD)
+19	2009-11-07	 Blues	 • Carlo Colaiacovo	 	 returned to lineup
+20	2009-11-30	 Blues	 	 • Carlo Colaiacovo	 lower body injry (DTD)
+21	2009-12-03	 Blues	 • Carlo Colaiacovo	 	 returned to lineup
+22	2010-01-21	 Blues	 	 • Carlo Colaiacovo	 placed on IR with lower body injury
+23	2010-02-03	 Blues	 • Carlo Colaiacovo	 	 activated from IR
+24	2010-10-30	 Blues	 	 • Carlo Colaiacovo	 upper body injury (DTD)
+25	2010-11-03	 Blues	 	 • Carlo Colaiacovo	 placed on IR with upper body injury
+26	2010-11-15	 Blues	 • Carlo Colaiacovo	 	 activated from IR
+27	2011-01-13	 Blues	 	 • Carlo Colaiacovo	 facial injury (DTD)
+28	2011-01-18	 Blues	 • Carlo Colaiacovo	 	 returned to lineup
+29	2011-01-19	 Blues	 	 • Carlo Colaiacovo	 placed on IR with left eye injury
+30	2011-02-11	 Blues	 • Carlo Colaiacovo	 	 activated from IR
+31	2011-03-22	 Blues	 	 • Carlo Colaiacovo	 illness (DTD)
+32	2011-03-24	 Blues	 • Carlo Colaiacovo	 	 returned to lineup
+33	2011-10-09	 Blues	 	 • Carlo Colaiacovo	 head injury (DTD)
+34	2011-10-11	 Blues	 	 • Carlo Colaiacovo	 placed on IR with upper body injury
+35	2011-10-21	 Blues	 • Carlo Colaiacovo	 	 activated from IR
+36	2011-11-19	 Blues	 	 • Carlo Colaiacovo	 placed on IR with hamstring injury
+37	2011-12-06	 Blues	 • Carlo Colaiacovo	 	 activated from IR
+38	2012-02-15	 Blues	 	 • Carlo Colaiacovo	 sprained right wrist (DTD)
+39	2012-02-22	 Blues	 • Carlo Colaiacovo	 	 returned to lineup
+40	2013-01-22	 Red Wings	 	 • Carlo Colaiacovo	 placed on IR with left shoulder injury
+41	2013-03-25	 Red Wings	 • Carlo Colaiacovo	 	 activated from IR
+42	2015-03-28	 Flyers	 	 • Carlo Colaiacovo	 flu (DTD)
+43	2015-04-01	 Flyers	 • Carlo Colaiacovo	 	 returned to lineup
+44	2015-11-05	 Sabres	 	 • Carlo Colaiacovo	 upper body injury (DTD)
+45	2015-11-10	 Sabres	 • Carlo Colaiacovo	 	 returned to lineup
+46	2016-03-18	 Sabres	 	 • Carlo Colaiacovo	 lower body injury (DTD)
+47	2016-03-19	 Sabres	 • Carlo Colaiacovo	 	 returned to lineup

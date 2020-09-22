@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-11-03	 Senators	 	 • Chris Wideman	 upper body injury (DTD)
+1	2016-11-13	 Senators	 • Chris Wideman	 	 returned to lineup
+2	2017-02-14	 Senators	 	 • Chris Wideman	 lower body injury (DTD)
+3	2017-02-16	 Senators	 • Chris Wideman	 	 returned to lineup
+4	2017-10-27	 Senators	 	 • Chris Wideman	 neck injury (DTD)
+5	2017-10-30	 Senators	 • Chris Wideman	 	 returned to lineup
+6	2017-11-17	 Senators	 	 • Chris Wideman	 placed on IR with hamstring injury (out for season)
+7	2018-11-11	 Senators	 	 • Chris Wideman	 lower body injury (DTD)
+8	2018-11-15	 Senators	 • Chris Wideman	 	 returned to lineup

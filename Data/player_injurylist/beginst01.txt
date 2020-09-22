@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-31	 Canadiens	 	 • Steve Begin	 strained neck (DTD)
+1	2006-01-03	 Canadiens	 • Steve Begin	 	 returned to lineup
+2	2006-04-10	 Canadiens	 	 • Steve Begin	 knee injury (out indefinitely)
+3	2006-04-30	 Canadiens	 • Steve Begin	 	 returned to lineup
+4	2006-12-11	 Canadiens	 	 • Steve Begin	 rib injury (back spasms per CBC) (DTD)
+5	2007-02-10	 Canadiens	 • Steve Begin	 	 returned to lineup
+6	2007-02-20	 Canadiens	 	 • Steve Begin	 broken foot (out indefinitely)
+7	2007-02-26	 Canadiens	 • Steve Begin	 	 returned to lineup
+8	2007-11-10	 Canadiens	 	 • Steve Begin	 charley horse (DTD)
+9	2007-11-13	 Canadiens	 • Steve Begin	 	 returned to lineup
+10	2007-12-07	 Canadiens	 	 • Steve Begin	 shoulder injury (DTD)
+11	2008-01-22	 Canadiens	 • Steve Begin	 	 returned to lineup
+12	2008-02-21	 Canadiens	 	 • Steve Begin	 groin injury (DTD)
+13	2008-02-23	 Canadiens	 • Steve Begin	 	 returned to lineup
+14	2008-03-01	 Canadiens	 	 • Steve Begin	 groin injury (DTD)
+15	2008-03-22	 Canadiens	 • Steve Begin	 	 returned to lineup
+16	2009-03-20	 Stars	 	 • Steve Begin	 upper body injury (DTD)
+17	2009-03-24	 Stars	 • Steve Begin	 	 returned to lineup
+18	2010-01-18	 Bruins	 	 • Steve Begin	 undisclosed injury (DTD)
+19	2010-01-30	 Bruins	 • Steve Begin	 	 activated from IR
+20	2013-04-21	 Flames	 	 • Steve Begin	 hand injury (out for season)

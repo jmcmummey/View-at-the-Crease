@@ -1,0 +1,37 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-01	 Stars	 	 • Nicklas Grossmann	 placed on IR
+1	2007-10-11	 Stars	 • Nicklas Grossmann	 	 activated from IR
+2	2009-11-23	 Stars	 	 • Nicklas Grossmann	 soreness (DTD)
+3	2009-11-27	 Stars	 • Nicklas Grossmann	 	 returned to lineup
+4	2010-01-08	 Stars	 	 • Nicklas Grossmann	 undisclosed (DTD)
+5	2010-01-17	 Stars	 • Nicklas Grossmann	 	 activated from IR
+6	2010-03-08	 Stars	 	 • Nicklas Grossmann	 back injury (DTD)
+7	2010-03-16	 Stars	 • Nicklas Grossmann	 	 returned to lineup
+8	2010-12-26	 Stars	 	 • Nicklas Grossmann	 illness (DTD)
+9	2010-12-29	 Stars	 • Nicklas Grossmann	 	 returned to lineup
+10	2011-02-14	 Stars	 	 • Nicklas Grossmann	 hip flexor injury (DTD)
+11	2011-03-11	 Stars	 • Nicklas Grossmann	 	 returned to lineup
+12	2011-03-19	 Stars	 	 • Nicklas Grossmann	 sprained MCL in knee (out for season)
+13	2011-10-06	 Stars	 	 • Nicklas Grossmann	 groin injury (DTD)
+14	2011-10-13	 Stars	 • Nicklas Grossmann	 	 returned to lineup
+15	2012-02-01	 Stars	 	 • Nicklas Grossmann	 flu (DTD)
+16	2012-02-02	 Stars	 • Nicklas Grossmann	 	 returned to lineup
+17	2012-04-19	 Flyers	 	 • Nicklas Grossmann	 upper body injury (DTD)
+18	2012-04-29	 Flyers	 • Nicklas Grossmann	 	 returned to lineup
+19	2013-03-24	 Flyers	 	 • Nicklas Grossmann	 concussion (out for season)
+20	2013-03-31	 Flyers	 	 • Nicklas Grossmann	 placed on IR with concussion (out for season)
+21	2013-12-21	 Flyers	 	 • Nicklas Grossmann	 illness (DTD)
+22	2013-12-23	 Flyers	 • Nicklas Grossmann	 	 returned to lineup
+23	2014-04-10	 Flyers	 	 • Nicklas Grossmann	 right ankle injury (out for season)
+24	2014-04-17	 Flyers	 • Nicklas Grossmann	 	 returned to lineup
+25	2014-04-26	 Flyers	 	 • Nicklas Grossmann	 right leg injury / surgery on ankle (out for season)
+26	2015-01-09	 Flyers	 	 • Nicklas Grossmann	 placed on IR with upper body injury
+27	2015-02-05	 Flyers	 • Nicklas Grossmann	 	 activated from IR
+28	2015-03-01	 Flyers	 	 • Nicklas Grossmann	 upper body injury (DTD)
+29	2015-03-10	 Flyers	 • Nicklas Grossmann	 	 returned to lineup
+30	2015-11-08	 Coyotes	 	 • Nicklas Grossmann	 placed on IR with lower body injury
+31	2015-11-24	 Coyotes	 • Nicklas Grossmann	 	 activated from IR
+32	2016-01-23	 Coyotes	 	 • Nicklas Grossmann	 illness (DTD)
+33	2016-01-26	 Coyotes	 • Nicklas Grossmann	 	 returned to lineup
+34	2016-03-20	 Coyotes	 	 • Nicklas Grossmann	 lower body injury (DTD)
+35	2016-03-22	 Coyotes	 • Nicklas Grossmann	 	 returned to lineup

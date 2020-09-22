@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-25	 Ducks	 	 • Devante Smith-Pelly	 flu (DTD)
+1	2011-10-29	 Ducks	 • Devante Smith-Pelly	 	 returned to lineup
+2	2011-12-26	 Ducks	 	 • Devante Smith-Pelly	 fractured left foot (out indefinitely)
+3	2012-01-06	 Ducks	 	 • Devante Smith-Pelly	 placed on IR with fractured left foot
+4	2012-02-06	 Ducks	 • Devante Smith-Pelly	 	 activated from IR
+5	2014-11-15	 Ducks	 	 • Devante Smith-Pelly	 placed on IR with upper body injury
+6	2014-11-20	 Ducks	 • Devante Smith-Pelly	 	 activated from IR
+7	2015-11-21	 Canadiens	 	 • Devante Smith-Pelly	 lower body injury (DTD)
+8	2015-11-25	 Canadiens	 • Devante Smith-Pelly	 	 returned to lineup
+9	2015-12-05	 Canadiens	 	 • Devante Smith-Pelly	 placed on IR with lower body injury
+10	2015-12-07	 Canadiens	 	 • Devante Smith-Pelly	 placed on IR with lower body injury (CBC)
+11	2015-12-22	 Canadiens	 • Devante Smith-Pelly	 	 activated from IR
+12	2017-03-11	 Devils	 	 • Devante Smith-Pelly	 lower body injury (DTD)
+13	2017-04-09	 Devils	 • Devante Smith-Pelly	 	 returned to lineup

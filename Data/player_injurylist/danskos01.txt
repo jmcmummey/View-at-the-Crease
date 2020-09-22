@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-31	 Golden Knights	 	 • Oscar Dansk	 placed on IR with lower body injury
+1	2018-01-23	 Golden Knights	 • Oscar Dansk	 	 activated from IR

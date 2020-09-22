@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-02-24	 Oilers	 	 • Igor Ulanov	 placed on IR with left eye injury
+1	2001-03-23	 Oilers	 	 • Igor Ulanov	 surgery on left eye to repair torn retina
+2	2005-10-04	 Oilers	 	 • Igor Ulanov	 placed on IR with groin injury
+3	2005-10-05	 Oilers	 • Igor Ulanov	 	 activated from IR
+4	2005-10-10	 Oilers	 	 • Igor Ulanov	 rib injury (DTD)
+5	2005-10-15	 Oilers	 • Igor Ulanov	 	 returned to lineup
+6	2005-10-28	 Oilers	 	 • Igor Ulanov	 fractured toe (out indefinitely)
+7	2005-11-02	 Oilers	 	 • Igor Ulanov	 placed on IR with fractured toe
+8	2005-11-19	 Oilers	 • Igor Ulanov	 	 activated from IR
+9	2006-01-10	 Oilers	 	 • Igor Ulanov	 knee injury (DTD)
+10	2006-01-23	 Oilers	 • Igor Ulanov	 	 returned to lineup
+11	2006-02-11	 Oilers	 	 • Igor Ulanov	 rib injury (out indefinitely)
+12	2006-02-18	 Oilers	 • Igor Ulanov	 	 activated from IR

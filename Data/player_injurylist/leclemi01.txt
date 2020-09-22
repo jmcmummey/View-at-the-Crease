@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-07-15	 Mighty Ducks	 	 • Mike Leclerc	 surgery on knee (out indefinitely)
+1	2005-12-15	 Coyotes	 	 • Mike Leclerc	 left knee injury (DTD)
+2	2006-01-23	 Coyotes	 • Mike Leclerc	 	 activated from IR
+3	2006-03-18	 Flames	 	 • Mike Leclerc	 hand injury (out indefinitely)
+4	2006-03-28	 Flames	 	 • Mike Leclerc	 broken wrist (out until early-May)
+5	2006-04-11	 Flames	 • Mike Leclerc	 	 returned to lineup

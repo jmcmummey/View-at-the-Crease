@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-13	 Penguins	 	 • Erik Christensen	 neck injury (DTD)
+1	2007-12-18	 Penguins	 • Erik Christensen	 	 returned to lineup
+2	2008-01-10	 Penguins	 	 • Erik Christensen	 flu (DTD)
+3	2008-01-19	 Penguins	 • Erik Christensen	 	 returned to lineup
+4	2008-02-14	 Penguins	 	 • Erik Christensen	 undisclosed injury (DTD)
+5	2008-02-24	 Penguins	 • Erik Christensen	 	 returned to lineup
+6	2008-03-18	 Thrashers	 	 • Erik Christensen	 sprained MCL in knee (DTD)
+7	2008-09-23	 Thrashers	 	 • Erik Christensen	 right shoulder injury (DTD)
+8	2008-12-03	 Thrashers	 	 • Erik Christensen	 shoulder injury (DTD)
+9	2008-12-28	 Thrashers	 • Erik Christensen	 	 returned to lineup
+10	2010-10-14	 Rangers	 	 • Erik Christensen	 groin injury (DTD)
+11	2010-10-18	 Rangers	 • Erik Christensen	 	 returned to lineup
+12	2010-12-30	 Rangers	 	 • Erik Christensen	 placed on IR with sprained MCL in right knee
+13	2011-02-05	 Rangers	 • Erik Christensen	 	 activated from IR

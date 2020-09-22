@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-02-14	 Penguins	 	 • Michal Sivek	 thigh injury (DTD)
+1	2003-02-15	 Penguins	 • Michal Sivek	 	 returned to lineup
+2	2003-10-17	 Penguins	 	 • Michal Sivek	 finger injury (out indefinitely)

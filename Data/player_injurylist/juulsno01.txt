@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-03	 Canadiens	 	 • Noah Juulsen	 placed on IR with fractured foot
+1	2017-11-28	 Canadiens	 • Noah Juulsen	 	 activated from IR
+2	2018-10-27	 Canadiens	 	 • Noah Juulsen	 upper body injury (DTD)
+3	2018-11-01	 Canadiens	 • Noah Juulsen	 	 returned to lineup
+4	2018-11-20	 Canadiens	 	 • Noah Juulsen	 placed on IR with facial fracture
+5	2018-12-11	 Canadiens	 • Noah Juulsen	 	 activated from IR
+6	2019-10-01	 Canadiens	 	 • Noah Juulsen	 placed on IR with head injury
+7	2019-10-11	 Canadiens	 • Noah Juulsen	 	 activated from IR

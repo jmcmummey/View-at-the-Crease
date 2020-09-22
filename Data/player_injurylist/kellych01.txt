@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-03-24	 Senators	 	 • Chris Kelly	 right leg injury (out 2-3 weeks)
+1	2010-03-11	 Senators	 	 • Chris Kelly	 undisclosed (DTD) (date approximate)
+2	2010-03-13	 Senators	 • Chris Kelly	 	 returned to lineup
+3	2013-03-12	 Bruins	 	 • Chris Kelly	 fractured left leg (DTD)
+4	2013-03-14	 Bruins	 	 • Chris Kelly	 placed on IR with fractured left tibia
+5	2013-04-08	 Bruins	 • Chris Kelly	 	 activated from IR
+6	2013-12-08	 Bruins	 	 • Chris Kelly	 placed on IR with fractured right fibula
+7	2014-01-28	 Bruins	 • Chris Kelly	 	 activated from IR
+8	2014-04-10	 Bruins	 	 • Chris Kelly	 back injury (out for season)
+9	2014-11-22	 Bruins	 	 • Chris Kelly	 undisclosed (DTD)
+10	2014-11-28	 Bruins	 • Chris Kelly	 	 returned to lineup
+11	2015-11-04	 Bruins	 	 • Chris Kelly	 placed on IR with fractured femur in left leg (out for season)

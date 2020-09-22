@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-11-15	 Canadiens	 	 • Alexander Radulov	 illness (DTD)
+1	2016-11-19	 Canadiens	 • Alexander Radulov	 	 returned to lineup
+2	2017-03-04	 Canadiens	 	 • Alexander Radulov	 lower body injury (DTD)
+3	2017-03-12	 Canadiens	 • Alexander Radulov	 	 returned to lineup
+4	2018-10-19	 Stars	 	 • Alexander Radulov	 lower body injury (DTD)
+5	2018-10-30	 Stars	 • Alexander Radulov	 	 returned to lineup
+6	2018-10-31	 Stars	 	 • Alexander Radulov	 lower body injury (DTD)
+7	2018-11-09	 Stars	 	 • Alexander Radulov	 placed on IR with lower body injury
+8	2018-11-12	 Stars	 • Alexander Radulov	 	 activated from IR
+9	2019-02-23	 Stars	 	 • Alexander Radulov	 illness (DTD)
+10	2019-02-24	 Stars	 • Alexander Radulov	 	 returned to lineup
+11	2019-12-20	 Stars	 	 • Alexander Radulov	 lower body injury (DTD)
+12	2019-12-27	 Stars	 • Alexander Radulov	 	 returned to lineup
+13	2020-02-08	 Stars	 	 • Alexander Radulov	 upper body injury (DTD)
+14	2020-02-11	 Stars	 • Alexander Radulov	 	 returned to lineup
+15	2020-02-13	 Stars	 	 • Alexander Radulov	 placed on IR with upper body injury
+16	2020-02-19	 Stars	 • Alexander Radulov	 	 activated from IR
+17	2020-03-07	 Stars	 	 • Alexander Radulov	 illness (DTD)

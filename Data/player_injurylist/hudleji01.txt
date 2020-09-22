@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-17	 Red Wings	 	 • Jiri Hudler	 illness/flu (DTD)
+1	2011-03-23	 Red Wings	 • Jiri Hudler	 	 returned to lineup
+2	2013-04-08	 Flames	 	 • Jiri Hudler	 upper body injury (DTD)
+3	2013-04-12	 Flames	 • Jiri Hudler	 	 returned to lineup
+4	2014-03-07	 Flames	 	 • Jiri Hudler	 lower body injury (DTD)
+5	2014-03-21	 Flames	 • Jiri Hudler	 	 returned to lineup
+6	2015-01-09	 Flames	 • Jiri Hudler	 	 returned to lineup
+7	2015-01-31	 Flames	 	 • Jiri Hudler	 illness (DTD)
+8	2015-02-02	 Flames	 • Jiri Hudler	 	 returned to lineup
+9	2015-11-20	 Flames	 	 • Jiri Hudler	 illness (DTD)
+10	2015-11-24	 Flames	 • Jiri Hudler	 	 returned to lineup
+11	2015-12-10	 Flames	 	 • Jiri Hudler	 illness (DTD)
+12	2015-12-12	 Flames	 • Jiri Hudler	 	 returned to lineup
+13	2016-01-03	 Flames	 	 • Jiri Hudler	 lower body injury (DTD)
+14	2016-01-12	 Flames	 • Jiri Hudler	 	 returned to lineup
+15	2016-01-15	 Flames	 	 • Jiri Hudler	 groin injury (DTD)
+16	2016-01-19	 Flames	 • Jiri Hudler	 	 returned to lineup
+17	2016-10-17	 Stars	 	 • Jiri Hudler	 illness (DTD)
+18	2016-10-22	 Stars	 	 • Jiri Hudler	 placed on IR with illness
+19	2016-10-29	 Stars	 • Jiri Hudler	 	 activated from IR
+20	2016-11-03	 Stars	 	 • Jiri Hudler	 placed on IR with illness
+21	2016-11-06	 Stars	 	 • Jiri Hudler	 placed on IR with illness
+22	2016-12-09	 Stars	 • Jiri Hudler	 	 activated from IR
+23	2017-03-24	 Stars	 	 • Jiri Hudler	 lower body injury (out for season)

@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-10-20	 Oilers	 • Doug Weight	 	 activated
+1	1998-10-31	 Oilers	 	 • Doug Weight	 placed on IR with torn MCL in right knee
+2	1998-11-03	 Oilers	 	 • Doug Weight	 surgery on right knee to repair torn MCL
+3	1999-12-14	 Oilers	 	 • Doug Weight	 placed on IR with cracked ribs
+4	2005-09-27	 Blues	 	 • Doug Weight	 shoulder injury (out 1-2 weeks)
+5	2005-10-04	 Blues	 	 • Doug Weight	 shoulder injury (DTD)
+6	2005-11-01	 Blues	 	 • Doug Weight	 concussion (DTD)
+7	2005-11-06	 Blues	 • Doug Weight	 	 returned to lineup
+8	2006-03-21	 Hurricanes	 	 • Doug Weight	 groin injury (DTD)
+9	2006-04-03	 Hurricanes	 • Doug Weight	 	 returned to lineup
+10	2006-06-16	 Hurricanes	 	 • Doug Weight	 shoulder injury (DTD)
+11	2006-06-19	 Hurricanes	 • Doug Weight	 	 returned to lineup
+12	2008-02-10	 Ducks	 	 • Doug Weight	 upper body injury (DTD)
+13	2008-03-03	 Ducks	 • Doug Weight	 	 returned to lineup
+14	2008-12-23	 Islanders	 	 • Doug Weight	 placed on IR with groin injury
+15	2008-12-29	 Islanders	 • Doug Weight	 	 activated from IR
+16	2009-01-05	 Islanders	 	 • Doug Weight	 foot/leg injury (DTD)
+17	2009-01-29	 Islanders	 • Doug Weight	 	 returned to lineup
+18	2009-02-12	 Islanders	 	 • Doug Weight	 placed on IR with sprained MCL in knee
+19	2009-03-27	 Islanders	 • Doug Weight	 	 activated from IR
+20	2009-09-30	 Islanders	 	 • Doug Weight	 placed on IR with groin injury
+21	2009-10-08	 Islanders	 • Doug Weight	 	 activated from IR
+22	2009-10-22	 Islanders	 	 • Doug Weight	 flu (DTD)
+23	2009-10-28	 Islanders	 • Doug Weight	 	 returned to lineup
+24	2009-11-07	 Islanders	 	 • Doug Weight	 upper body injury (out indefinitely)
+25	2009-12-31	 Islanders	 • Doug Weight	 	 returned to lineup
+26	2010-02-09	 Islanders	 	 • Doug Weight	 shoulder injury (DTD)
+27	2010-02-10	 Islanders	 • Doug Weight	 	 returned to lineup
+28	2010-03-13	 Islanders	 	 • Doug Weight	 torn left rotator cuff (out for season)
+29	2010-03-13	 Islanders	 	 • Doug Weight	 surgery on left shoulder to repair torn rotator cuff (out for season)
+30	2010-11-20	 Islanders	 	 • Doug Weight	 back spasms (DTD)
+31	2010-12-13	 Islanders	 	 • Doug Weight	 placed on IR with back spasms (out for season)

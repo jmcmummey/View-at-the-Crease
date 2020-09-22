@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-23	 Avalanche	 	 • Peter Budaj	 flu (DTD)
+1	2009-10-30	 Avalanche	 • Peter Budaj	 	 returned to lineup
+2	2017-12-30	 Lightning	 	 • Peter Budaj	 placed on IR with leg injury
+3	2018-03-13	 Lightning	 • Peter Budaj	 	 activated from IR

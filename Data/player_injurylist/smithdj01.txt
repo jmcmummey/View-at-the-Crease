@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-11-05	 Avalanche	 	 • D.J. Smith	 head injury (out indefinitely)
+1	2004-01-14	 Avalanche	 	 • D.J. Smith	 knee injury (out for season)

@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-11	 Bruins	 	 • Milan Jurcina	 shoulder injury (DTD)
+1	2006-03-29	 Bruins	 • Milan Jurcina	 	 returned to lineup
+2	2006-10-06	 Bruins	 	 • Milan Jurcina	 elbow injury (DTD)
+3	2006-10-12	 Bruins	 • Milan Jurcina	 	 returned to lineup
+4	2009-11-13	 Capitals	 	 • Milan Jurcina	 lower body injury (DTD)
+5	2009-11-25	 Capitals	 • Milan Jurcina	 	 activated from IR
+6	2010-01-28	 Blue Jackets	 	 • Milan Jurcina	 flu (DTD)
+7	2010-02-04	 Blue Jackets	 • Milan Jurcina	 	 returned to lineup
+8	2010-03-02	 Blue Jackets	 	 • Milan Jurcina	 sports hernia (DTD)
+9	2010-10-30	 Islanders	 	 • Milan Jurcina	 hamstring injury (DTD)
+10	2010-12-16	 Islanders	 • Milan Jurcina	 	 activated from IR
+11	2011-01-17	 Islanders	 	 • Milan Jurcina	 upper body injury (DTD)
+12	2011-01-21	 Islanders	 	 • Milan Jurcina	 placed on IR with upper body injury
+13	2011-02-05	 Islanders	 • Milan Jurcina	 	 activated from IR
+14	2011-02-23	 Islanders	 	 • Milan Jurcina	 groin injury (DTD)
+15	2011-03-06	 Islanders	 • Milan Jurcina	 	 returned to lineup
+16	2011-03-29	 Islanders	 	 • Milan Jurcina	 right hip flexor injury (out for season)
+17	2011-10-10	 Islanders	 	 • Milan Jurcina	 groin injury (DTD)
+18	2011-10-27	 Islanders	 • Milan Jurcina	 	 returned to lineup
+19	2012-02-04	 Islanders	 	 • Milan Jurcina	 lacerated elbow (DTD)
+20	2012-02-09	 Islanders	 • Milan Jurcina	 	 returned to lineup

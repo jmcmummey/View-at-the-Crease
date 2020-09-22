@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-09	 Coyotes	 	 • Brendan Perlini	 placed on IR with fractured right hand
+1	2017-10-11	 Coyotes	 	 • Brendan Perlini	 placed on IR with upper body injury
+2	2017-10-26	 Coyotes	 • Brendan Perlini	 	 activated from IR
+3	2018-11-25	 Blackhawks	 • Dylan Strome• Brendan Perlini	 • Nick Schmaltz	 trade with Coyotes
+4	2019-01-19	 Blackhawks	 	 • Brendan Perlini	 concussion (DTD)
+5	2019-02-02	 Blackhawks	 • Brendan Perlini	 	 returned to lineup
+6	2019-02-20	 Blackhawks	 	 • Brendan Perlini	 illness (DTD)
+7	2019-02-22	 Blackhawks	 • Brendan Perlini	 	 returned to lineup
+8	2020-02-13	 Red Wings	 	 • Brendan Perlini	 facial injury (DTD)
+9	2020-02-15	 Red Wings	 • Brendan Perlini	 	 returned to lineup

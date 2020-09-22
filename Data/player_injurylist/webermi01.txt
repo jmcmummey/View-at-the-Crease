@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-11-17	 Sabres	 	 • Mike Weber	 placed on IR with upper body injury
+1	2011-12-13	 Sabres	 • Mike Weber	 	 activated from IR
+2	2012-03-31	 Sabres	 	 • Mike Weber	 upper body injury (DTD)
+3	2012-04-03	 Sabres	 • Mike Weber	 	 returned to lineup
+4	2013-10-26	 Sabres	 	 • Mike Weber	 placed on IR with upper body injury
+5	2013-11-19	 Sabres	 • Mike Weber	 	 activated from IR
+6	2014-12-13	 Sabres	 	 • Mike Weber	 placed on IR with left knee injury (surgery)
+7	2014-12-27	 Sabres	 • Mike Weber	 	 activated from IR
+8	2015-01-17	 Sabres	 	 • Mike Weber	 lower body injury (DTD)
+9	2015-01-27	 Sabres	 • Mike Weber	 	 returned to lineup
+10	2015-02-21	 Sabres	 	 • Mike Weber	 upper body injury (DTD)
+11	2015-02-26	 Sabres	 • Mike Weber	 	 returned to lineup
+12	2015-04-03	 Sabres	 	 • Mike Weber	 undisclosed (out for season)
+13	2015-10-24	 Sabres	 	 • Mike Weber	 undisclosed (DTD)
+14	2015-10-29	 Sabres	 • Mike Weber	 	 returned to lineup
+15	2015-11-10	 Sabres	 	 • Mike Weber	 lower body injury (DTD)
+16	2015-11-17	 Sabres	 	 • Mike Weber	 placed on IR with lower body injury
+17	2015-11-27	 Sabres	 • Mike Weber	 	 activated from IR

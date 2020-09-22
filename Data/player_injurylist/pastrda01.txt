@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-03	 Bruins	 	 • David Pastrnak	 foot injury (DTD)
+1	2015-11-21	 Bruins	 	 • David Pastrnak	 placed on IR with foot injury
+2	2015-12-28	 Bruins	 • David Pastrnak	 	 activated from IR
+3	2016-01-13	 Bruins	 	 • David Pastrnak	 upper body injury (DTD)
+4	2016-01-19	 Bruins	 • David Pastrnak	 	 returned to lineup
+5	2016-11-17	 Bruins	 	 • David Pastrnak	 undisclosed injury (DTD)
+6	2016-11-24	 Bruins	 • David Pastrnak	 	 returned to lineup
+7	2016-12-16	 Bruins	 	 • David Pastrnak	 surgery on right elbow (DTD)
+8	2016-12-22	 Bruins	 • David Pastrnak	 	 returned to lineup
+9	2019-02-12	 Bruins	 	 • David Pastrnak	 left thumb injury (out indefinitely)
+10	2019-02-13	 Bruins	 	 • David Pastrnak	 placed on IR with left thumb injury
+11	2019-03-19	 Bruins	 • David Pastrnak	 	 activated from IR
+12	2020-08-13	 Bruins	 	 • David Pastrnak	 undisclosed (DTD)
+13	2020-08-19	 Bruins	 • David Pastrnak	 	 returned to lineup

@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-02-14	 Blues	 	 • Jeff Brown (a)	 hairline crack in left ankle (out 3-4 weeks)
+1	1993-01-14	 Blues	 	 • Jeff Brown (a)	 broken foot (out indefinitely)
+2	1993-02-11	 Blues	 	 • Jeff Brown (a)	 sore foot (DTD)
+3	1993-10-30	 Blues	 	 • Jeff Brown (a)	 hand and foot injuries (DTD)
+4	1994-01-15	 Blues	 	 • Jeff Brown (a)	 broken thumb (DTD)
+5	1995-03-06	 Canucks	 	 • Jeff Brown (a)	 cracked bone in wrist (out indefinitely)
+6	1995-04-28	 Canucks	 	 • Jeff Brown (a)	 sprained shoulder (out for season)

@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-04-25	 Stars	 	 • Patrik Nemeth	 upper body injury (DTD)
+1	2014-04-27	 Stars	 • Patrik Nemeth	 	 returned to lineup
+2	2014-10-18	 Stars	 	 • Patrik Nemeth	 placed on IR with arm injury
+3	2015-03-03	 Stars	 • Patrik Nemeth	 	 activated from IR
+4	2016-04-09	 Stars	 	 • Patrik Nemeth	 flu (DTD)
+5	2017-10-17	 Avalanche	 	 • Patrik Nemeth	 shoulder injury (DTD)
+6	2017-10-19	 Avalanche	 • Patrik Nemeth	 	 returned to lineup
+7	2017-10-20	 Avalanche	 	 • Patrik Nemeth	 lower body injury (DTD)
+8	2017-10-27	 Avalanche	 • Patrik Nemeth	 	 returned to lineup
+9	2017-11-09	 Avalanche	 	 • Patrik Nemeth	 placed on IR with lower body injury
+10	2017-12-07	 Avalanche	 • Patrik Nemeth	 	 activated from IR
+11	2018-10-06	 Avalanche	 	 • Patrik Nemeth	 upper body injury (DTD)
+12	2018-10-10	 Avalanche	 • Patrik Nemeth	 	 returned to lineup
+13	2019-11-12	 Red Wings	 	 • Patrik Nemeth	 illness (DTD)
+14	2019-11-13	 Red Wings	 	 • Patrik Nemeth	 placed on IR with illness
+15	2019-11-23	 Red Wings	 • Patrik Nemeth	 	 activated from IR
+16	2019-11-29	 Red Wings	 	 • Patrik Nemeth	 illness (DTD)
+17	2019-11-30	 Red Wings	 • Patrik Nemeth	 	 returned to lineup

@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-11-10	 Avalanche	 	 • Jon Klemm	 knee injury (out indefinitely)
+1	2005-10-05	 Stars	 	 • Jon Klemm	 placed on IR with back spasms
+2	2005-10-11	 Stars	 • Jon Klemm	 	 activated from IR
+3	2005-11-18	 Stars	 	 • Jon Klemm	 groin injury (DTD)
+4	2005-11-25	 Stars	 • Jon Klemm	 	 returned to lineup
+5	2006-01-18	 Stars	 	 • Jon Klemm	 shoulder injury (DTD)
+6	2006-01-20	 Stars	 • Jon Klemm	 	 returned to lineup

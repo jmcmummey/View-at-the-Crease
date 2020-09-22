@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-26	 Sharks	 	 • Patrick Rissmiller / Pat Rissmiller	 leg injury (DTD)
+1	2007-02-28	 Sharks	 • Patrick Rissmiller / Pat Rissmiller	 	 returned to lineup
+2	2008-10-15	 Rangers	 	 • Patrick Rissmiller / Pat Rissmiller	 right ankle injury (DTD)
+3	2008-10-20	 Rangers	 • Patrick Rissmiller / Pat Rissmiller	 	 returned to lineup

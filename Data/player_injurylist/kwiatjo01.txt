@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-08	 Panthers	 	 • Joel Kwiatkowski	 head injury (left game)
+1	2005-12-10	 Panthers	 	 • Joel Kwiatkowski	 head injury (DTD)
+2	2005-12-13	 Panthers	 • Joel Kwiatkowski	 	 returned to lineup

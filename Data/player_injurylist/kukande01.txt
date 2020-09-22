@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-02-19	 Blue Jackets	 	 • Dean Kukan	 placed on IR with upper body injury
+1	2018-03-16	 Blue Jackets	 • Dean Kukan	 	 activated from IR
+2	2020-01-03	 Blue Jackets	 	 • Dean Kukan	 placed on IR with torn menuscis in left knee
+3	2020-06-18	 Blue Jackets	 • Dean Kukan	 	 activated from IR

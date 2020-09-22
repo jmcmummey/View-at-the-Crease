@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-11-10	 Flames	 	 • Matthew Tkachuk	 hand injury (DTD)
+1	2016-11-15	 Flames	 • Matthew Tkachuk	 	 returned to lineup
+2	2018-03-13	 Flames	 	 • Matthew Tkachuk	 upper body injury (out for season)
+3	2019-12-10	 Flames	 	 • Matthew Tkachuk	 upper body injury (DTD)
+4	2019-12-12	 Flames	 • Matthew Tkachuk	 	 returned to lineup
+5	2020-08-14	 Flames	 	 • Matthew Tkachuk	 undisclosed (out for season)

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-18	 Sharks	 	 • Tim Kennedy	 placed on IR with undisclosed injury
+1	2013-04-03	 Sharks	 • Tim Kennedy	 	 activated from IR
+2	2013-04-05	 Sharks	 	 • Tim Kennedy	 undisclosed (DTD)
+3	2013-04-27	 Sharks	 • Tim Kennedy	 	 returned to lineup

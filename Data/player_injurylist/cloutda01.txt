@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-03-01	 Lightning	 • Dan Cloutier	 	 activated from IR
+1	2003-12-09	 Canucks	 	 • Dan Cloutier	 groin injury (DTD)
+2	2005-10-29	 Canucks	 	 • Dan Cloutier	 head injury (left game)
+3	2005-10-31	 Canucks	 	 • Dan Cloutier	 concussion (out indefinitely)
+4	2005-11-13	 Canucks	 • Dan Cloutier	 	 returned to lineup
+5	2005-11-24	 Canucks	 	 • Dan Cloutier	 sprained knee (out indefintely)
+6	2005-12-13	 Canucks	 	 • Dan Cloutier	 surgery on left knee (out until mid-Apr)
+7	2006-12-16	 Kings	 	 • Dan Cloutier	 bruised shoulder (DTD)
+8	2006-12-19	 Kings	 • Dan Cloutier	 	 returned to lineup
+9	2006-12-28	 Kings	 	 • Dan Cloutier	 placed on IR with hip injury
+10	2008-03-29	 Kings	 	 • Dan Cloutier	 groin injury (DTD)
+11	2008-04-05	 Kings	 • Dan Cloutier	 	 returned to lineup

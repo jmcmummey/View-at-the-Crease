@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-01-05	 Stars	 • Joe Nieuwendyk	 	 activated from IR
+1	1998-10-22	 Stars	 • Joe Nieuwendyk	 	 activated from IR
+2	2000-01-12	 Stars	 • Joe Nieuwendyk	 	" ""activated"""
+3	2000-01-20	 Stars	 	 • Joe Nieuwendyk	 placed on IR with separated shoulder
+4	2001-03-09	 Stars	 	 • Joe Nieuwendyk	 placed on IR with strained groin
+5	2005-10-03	 Panthers	 	 • Joe Nieuwendyk	 aggravated hip flexor muscle
+6	2005-10-18	 Panthers	 	 • Joe Nieuwendyk	 back spasms (DTD)
+7	2005-11-23	 Panthers	 • Joe Nieuwendyk	 	 returned to lineup
+8	2005-11-26	 Panthers	 	 • Joe Nieuwendyk	 back injury (DTD)
+9	2005-11-28	 Panthers	 • Joe Nieuwendyk	 	 returned to lineup
+10	2005-12-13	 Panthers	 	 • Joe Nieuwendyk	 back injury (DTD)
+11	2005-12-17	 Panthers	 • Joe Nieuwendyk	 	 returned to lineup
+12	2006-10-11	 Panthers	 	 • Joe Nieuwendyk	 leg injury (DTD)
+13	2006-10-21	 Panthers	 • Joe Nieuwendyk	 	 returned to lineup
+14	2006-10-26	 Panthers	 	 • Joe Nieuwendyk	 back spasms (DTD)
+15	2006-11-08	 Panthers	 • Joe Nieuwendyk	 	 returned to lineup
+16	2006-11-11	 Panthers	 	 • Joe Nieuwendyk	 back injury (DTD)
+17	2006-11-16	 Panthers	 • Joe Nieuwendyk	 	 returned to lineup
+18	2006-11-30	 Panthers	 	 • Joe Nieuwendyk	 back injury (DTD)

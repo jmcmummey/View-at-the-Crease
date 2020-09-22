@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-30	 Predators	 	 • Dan Ellis (a)	 stiff back (DTD)
+1	2011-11-27	 Ducks	 	 • Dan Ellis (a)	 groin injury (DTD)
+2	2011-12-02	 Ducks	 	 • Dan Ellis (a)	 placed on IR with groin injury
+3	2011-12-06	 Ducks	 • Dan Ellis (a)	 	 activated from IR
+4	2012-01-07	 Ducks	 	 • Dan Ellis (a)	 placed on IR with groin injury
+5	2012-04-07	 Ducks	 • Dan Ellis (a)	 	 activated from IR
+6	2013-03-22	 Hurricanes	 	 • Dan Ellis (a)	 placed on IR with hand injury
+7	2013-03-25	 Hurricanes	 	 • Dan Ellis (a)	 placed on IR with lacerated leg
+8	2013-04-01	 Hurricanes	 • Dan Ellis (a)	 	 activated from IR
+9	2014-04-09	 Panthers	 	 • Dan Ellis (a)	 illness (DTD)
+10	2014-04-12	 Panthers	 • Dan Ellis (a)	 	 returned to lineup

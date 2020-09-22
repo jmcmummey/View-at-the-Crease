@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-13	 Predators	 	 • Greg Zanon	 concussion (DTD)
+1	2006-10-20	 Predators	 	 • Greg Zanon	 placed on IR with concussion(?)
+2	2006-11-09	 Predators	 • Greg Zanon	 	 activated from IR
+3	2010-03-19	 Wild	 	 • Greg Zanon	 ankle injury (DTD)
+4	2010-03-21	 Wild	 • Greg Zanon	 	 returned to lineup
+5	2011-10-21	 Wild	 	 • Greg Zanon	 groin injury (DTD)
+6	2011-10-29	 Wild	 	 • Greg Zanon	 placed on IR with groin injury
+7	2011-11-28	 Wild	 • Greg Zanon	 	 activated from IR
+8	2011-12-26	 Wild	 	 • Greg Zanon	 upper body injury (DTD)
+9	2011-12-28	 Wild	 • Greg Zanon	 	 returned to lineup

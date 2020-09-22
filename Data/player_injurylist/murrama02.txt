@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-04-13	 Penguins	 	 • Matt Murray	 head injury (DTD)
+1	2016-04-19	 Penguins	 • Matt Murray	 	 returned to lineup
+2	2016-10-13	 Penguins	 	 • Matt Murray	 fractured hand (DTD)
+3	2016-10-18	 Penguins	 	 • Matt Murray	 placed on IR with fractured hand
+4	2016-10-25	 Penguins	 • Matt Murray	 	 activated from IR
+5	2016-12-29	 Penguins	 	 • Matt Murray	 lower body injury (DTD)
+6	2017-01-11	 Penguins	 • Matt Murray	 	 returned to lineup
+7	2017-04-12	 Penguins	 	 • Matt Murray	 undisclosed injury (DTD)
+8	2017-05-10	 Penguins	 • Matt Murray	 	 returned to lineup
+9	2017-11-28	 Penguins	 	 • Matt Murray	 placed on IR with lower body injury
+10	2017-12-12	 Penguins	 • Matt Murray	 	 activated from IR
+11	2017-12-28	 Penguins	 	 • Matt Murray	 upper body injury (DTD)
+12	2017-12-30	 Penguins	 • Matt Murray	 	 returned to lineup
+13	2018-02-27	 Penguins	 	 • Matt Murray	 concussion (out indefinitely)
+14	2018-03-20	 Penguins	 • Matt Murray	 	 returned to lineup
+15	2018-10-09	 Penguins	 	 • Matt Murray	 concussion (out indefinitely)
+16	2018-10-13	 Penguins	 • Matt Murray	 	 returned to lineup
+17	2018-11-22	 Penguins	 	 • Matt Murray	 placed on IR with lower body injury
+18	2018-12-12	 Penguins	 • Matt Murray	 	 activated from IR
+19	2019-02-06	 Penguins	 	 • Matt Murray	 upper body injury (DTD)
+20	2019-02-09	 Penguins	 • Matt Murray	 	 returned to lineup

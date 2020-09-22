@@ -1,0 +1,43 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-02-12	 Kings	 	 • Rob Blake	 sprained knee (DTD)
+1	1991-10-08	 Kings	 	 • Rob Blake	 shoulder injury (out indefinitely)
+2	1991-11-28	 Kings	 	 • Rob Blake	 sprained ligaments in knee (DTD)
+3	1992-01-23	 Kings	 	 • Rob Blake	 flu (DTD)
+4	1992-02-13	 Kings	 	 • Rob Blake	 flu (DTD)
+5	1992-03-14	 Kings	 	 • Rob Blake	 strained shoulder (DTD)
+6	1992-12-19	 Kings	 	 • Rob Blake	 broken rib (DTD)
+7	1993-04-03	 Kings	 	 • Rob Blake	 bruised lower back (DTD)
+8	1995-01-23	 Kings	 	 • Rob Blake	 strained groin (out indefinitely)
+9	1995-03-11	 Kings	 	 • Rob Blake	 strained groin (out indefinitely)
+10	1995-04-07	 Kings	 	 • Rob Blake	 strained groin (DTD)
+11	1995-10-20	 Kings	 	 • Rob Blake	 partially torn ligaments in left knee (out indefinitely)
+12	1998-10-04	 Kings	 	 • Rob Blake	 strained right hip flexor (DTD)
+13	1998-11-06	 Kings	 	 • Rob Blake	 broken right foot (out 6-8 weeks)
+14	1998-11-06	 Kings	 	 • Rob Blake	 placed on IR with broken right foot
+15	1998-12-12	 Kings	 • Rob Blake	 	 activated from IR
+16	1999-12-14	 Kings	 • Rob Blake	 	 activated from IR
+17	2000-10-18	 Kings	 	 • Rob Blake	 placed on IR
+18	2000-10-23	 Kings	 • Rob Blake	 	 activated from IR
+19	2004-02-20	 Avalanche	 	 • Rob Blake	 placed on IR
+20	2006-01-05	 Avalanche	 	 • Rob Blake	 hand injury (DTD)
+21	2006-01-07	 Avalanche	 • Rob Blake	 	 returned to lineup
+22	2006-11-22	 Kings	 	 • Rob Blake	 groin injury (DTD)
+23	2006-11-24	 Kings	 • Rob Blake	 	 returned to lineup
+24	2007-03-06	 Kings	 	 • Rob Blake	 groin injury (DTD)
+25	2007-03-11	 Kings	 • Rob Blake	 	 returned to lineup
+26	2007-03-24	 Kings	 	 • Rob Blake	 strained neck (DTD)
+27	2007-03-27	 Kings	 • Rob Blake	 	 returned to lineup
+28	2007-03-29	 Kings	 	 • Rob Blake	 neck injury (DTD)
+29	2008-02-02	 Kings	 	 • Rob Blake	 left ankle injury (out indefinitely)
+30	2008-02-07	 Kings	 	 • Rob Blake	 placed on IR with left ankle injury
+31	2008-02-28	 Kings	 • Rob Blake	 	 activated from IR
+32	2009-01-17	 Sharks	 	 • Rob Blake	 jaw injury (DTD)
+33	2009-01-27	 Sharks	 • Rob Blake	 	 returned to lineup
+34	2009-03-09	 Sharks	 	 • Rob Blake	 foot injury (DTD)
+35	2009-03-14	 Sharks	 • Rob Blake	 	 returned to lineup
+36	2009-03-22	 Sharks	 	 • Rob Blake	 lower body injury (DTD)
+37	2009-04-02	 Sharks	 • Rob Blake	 	 returned to lineup
+38	2009-11-05	 Sharks	 	 • Rob Blake	 placed on IR with left arm injury
+39	2009-11-29	 Sharks	 • Rob Blake	 	 activated from IR
+40	2010-03-28	 Sharks	 	 • Rob Blake	 undisclosed (DTD)
+41	2010-03-31	 Sharks	 • Rob Blake	 	 returned to lineup

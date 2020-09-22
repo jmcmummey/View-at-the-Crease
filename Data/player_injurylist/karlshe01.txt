@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-05	 Flames	 	 • Henrik Karlsson	 placed on IR with sprained MCL in right knee
+1	2012-02-03	 Flames	 • Henrik Karlsson	 	 activated from IR
+2	2013-04-25	 Blackhawks	 • Henrik Karlsson	 	 activated from IR

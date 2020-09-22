@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-18	 Blues	 	 • Roman Polak	 broken right foot (DTD)
+1	2009-02-19	 Blues	 • Roman Polak	 	 returned to lineup
+2	2010-03-21	 Blues	 	 • Roman Polak	 sore shoulder (DTD)
+3	2010-03-25	 Blues	 • Roman Polak	 	 returned to lineup
+4	2010-04-09	 Blues	 	 • Roman Polak	 shoulder injury (out for season)
+5	2010-10-24	 Blues	 	 • Roman Polak	 right arm/wrist injury (DTD)
+6	2010-12-19	 Blues	 • Roman Polak	 	 activated from IR
+7	2011-03-05	 Blues	 	 • Roman Polak	 lower body injury (DTD)
+8	2011-03-10	 Blues	 • Roman Polak	 	 returned to lineup
+9	2012-03-21	 Blues	 	 • Roman Polak	 bruised left knee (DTD)
+10	2012-03-31	 Blues	 • Roman Polak	 	 returned to lineup
+11	2012-09-20	 Blues	 	 • Roman Polak	 signed with HC Vitkovice (Czech Republic)
+12	2013-12-21	 Blues	 	 • Roman Polak	 placed on IR with fractured right ankle
+13	2014-01-14	 Blues	 • Roman Polak	 	 activated from IR
+14	2014-11-23	 Maple Leafs	 	 • Roman Polak	 lower body injury (DTD)
+15	2014-12-06	 Maple Leafs	 	 • Roman Polak	 placed on IR with lower body injury
+16	2014-12-18	 Maple Leafs	 • Roman Polak	 	 activated from IR
+17	2015-03-09	 Maple Leafs	 	 • Roman Polak	 surgery to repair sports hernia (out for season)
+18	2017-04-16	 Maple Leafs	 	 • Roman Polak	 right leg injury (out for season)
+19	2018-01-31	 Maple Leafs	 	 • Roman Polak	 placed on IR with viral infection
+20	2018-02-05	 Maple Leafs	 • Roman Polak	 	 activated from IR
+21	2018-11-10	 Stars	 	 • Roman Polak	 illness (DTD)
+22	2018-11-12	 Stars	 • Roman Polak	 	 returned to lineup
+23	2019-03-15	 Stars	 	 • Roman Polak	 undisclosed (DTD)
+24	2019-03-17	 Stars	 • Roman Polak	 	 returned to lineup
+25	2019-10-04	 Stars	 	 • Roman Polak	 fractured sternum (out indefinitely)
+26	2019-10-10	 Stars	 	 • Roman Polak	 placed on IR with fractured sternum
+27	2019-11-14	 Stars	 • Roman Polak	 	 activated from IR
+28	2020-03-07	 Stars	 • Roman Polak	 	 returned to lineup

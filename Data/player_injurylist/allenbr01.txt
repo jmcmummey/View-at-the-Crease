@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-09-21	 Canucks	 	 • Bryan Allen	 knee injury (out indefinitely)
+1	2005-10-27	 Canucks	 	 • Bryan Allen	 knee injury (DTD)
+2	2005-11-07	 Canucks	 • Bryan Allen	 	 returned to lineup
+3	2007-11-07	 Panthers	 	 • Bryan Allen	 facial injury (DTD)
+4	2007-11-15	 Panthers	 • Bryan Allen	 	 returned to lineup
+5	2008-02-27	 Panthers	 	 • Bryan Allen	 leg injury (DTD)
+6	2008-03-06	 Panthers	 • Bryan Allen	 	 returned to lineup
+7	2008-03-16	 Panthers	 	 • Bryan Allen	 hand injury (DTD)
+8	2008-03-20	 Panthers	 • Bryan Allen	 	 returned to lineup
+9	2008-10-16	 Panthers	 	 • Bryan Allen	 placed on IR with surgery on left knee
+10	2009-12-19	 Panthers	 • Bryan Allen	 	 activated from IR
+11	2010-01-14	 Panthers	 	 • Bryan Allen	 knee injury (DTD)
+12	2010-01-16	 Panthers	 • Bryan Allen	 	 returned to lineup
+13	2010-02-09	 Panthers	 	 • Bryan Allen	 knee injury (DTD)
+14	2010-04-03	 Panthers	 	 • Bryan Allen	 rib injury (out indefinitely)
+15	2010-04-08	 Panthers	 • Bryan Allen	 	 returned to lineup
+16	2010-11-24	 Panthers	 	 • Bryan Allen	 fractured foot (DTD)
+17	2010-12-15	 Panthers	 • Bryan Allen	 	 returned to lineup
+18	2013-03-02	 Ducks	 	 • Bryan Allen	 flu (DTD)
+19	2013-03-12	 Ducks	 • Bryan Allen	 	 returned to lineup
+20	2013-11-26	 Ducks	 	 • Bryan Allen	 lower body injury (DTD)
+21	2013-12-03	 Ducks	 • Bryan Allen	 	 returned to lineup
+22	2014-01-07	 Ducks	 	 • Bryan Allen	 placed on IR with lower body injury
+23	2014-01-17	 Ducks	 • Bryan Allen	 	 activated from IR
+24	2014-01-30	 Ducks	 	 • Bryan Allen	 undisclosed (DTD)
+25	2014-02-03	 Ducks	 • Bryan Allen	 	 returned to lineup
+26	2014-10-09	 Ducks	 	 • Bryan Allen	 lower body injury (DTD)
+27	2014-10-14	 Ducks	 	 • Bryan Allen	 placed on IR with lower body injury
+28	2014-11-07	 Ducks	 • Bryan Allen	 	 activated from IR
+29	2014-12-08	 Canadiens	 	 • Bryan Allen	 placed on IR with flu
+30	2014-12-23	 Canadiens	 • Bryan Allen	 	 activated from IR

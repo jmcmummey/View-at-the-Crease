@@ -1,0 +1,83 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1998-10-09		Philadelphia Flyers	0	1	L			20	12	0		0		30	14	1		0
+1	1998-10-10	@	Montreal Canadiens	1	7	L			21	10	1		0		30	10	1		1
+2	1998-10-12		St. Louis Blues	2	4	L			18	8	0		0		42	6	1		0
+3	1998-10-16		New Jersey Devils	1	2	L			25	14	0		0		30	26	0		0
+4	1998-10-17	@	Pittsburgh Penguins	3	3	T	OT		26	14	2		0		30	14	1		0
+5	1998-10-20		Edmonton Oilers	3	2	W			28	14	2		0		26	20	2		0
+6	1998-10-22		New York Islanders	3	2	W			29	6	0		0		30	6	0		0
+7	1998-10-24	@	Philadelphia Flyers	2	2	T	OT		13	10	1		0		37	8	1		0
+8	1998-10-27		Buffalo Sabres	0	0	T	OT		16	15	0		0		24	17	0		0
+9	1998-10-30		Carolina Hurricanes	1	0	W			24	16	1		0		30	10	0		0
+10	1998-11-03	@	New Jersey Devils	1	3	L			25	21	0		0		29	11	1		0
+11	1998-11-04		Montreal Canadiens	1	4	L			20	20	0		0		32	20	1		0
+12	1998-11-07	@	Toronto Maple Leafs	6	6	T	OT		32	2	1		0		32	4	0		0
+13	1998-11-10	@	Tampa Bay Lightning	10	2	W			30	30	2		0		28	36	1		0
+14	1998-11-11	@	Florida Panthers	1	4	L			26	25	0		0		35	19	0		0
+15	1998-11-13		Boston Bruins	3	3	T	OT		25	16	2		0		27	14	1		0
+16	1998-11-18	@	Mighty Ducks of Anaheim	1	3	L			30	30	0		0		16	22	1		0
+17	1998-11-19	@	Los Angeles Kings	5	1	W			25	8	2		0		29	20	0		0
+18	1998-11-21	@	San Jose Sharks	2	2	T	OT		23	10	1		0		40	12	0		0
+19	1998-11-25	@	Buffalo Sabres	2	4	L			26	4	1		0		30	6	1		0
+20	1998-11-27	@	Pittsburgh Penguins	2	2	T	OT		21	8	1		0		31	6	0		0
+21	1998-11-29		Nashville Predators	5	1	W			35	13	2		0		25	13	0		0
+22	1998-12-01		Florida Panthers	5	4	W	OT		29	13	3		0		23	17	1		0
+23	1998-12-02	@	New York Islanders	3	2	W			17	17	0		0		27	19	2		0
+24	1998-12-05	@	Ottawa Senators	2	1	W			17	6	1		0		30	12	0		0
+25	1998-12-07		Toronto Maple Leafs	6	2	W			29	12	0		0		26	8	0		0
+26	1998-12-09		Colorado Avalanche	1	2	L			20	13	0		0		29	13	0		0
+27	1998-12-11	@	Buffalo Sabres	0	2	L			16	22	0		0		32	32	1		0
+28	1998-12-14		Calgary Flames	5	2	W			29	19	3		0		37	17	0		0
+29	1998-12-16	@	New Jersey Devils	3	6	L			26	8	2		0		27	34	0		1
+30	1998-12-19	@	Toronto Maple Leafs	4	7	L			26	10	3		0		31	10	1		0
+31	1998-12-23		Carolina Hurricanes	0	1	L			29	12	0		0		25	8	0		0
+32	1998-12-26	@	Carolina Hurricanes	6	3	W			20	19	0		0		22	15	1		0
+33	1998-12-30	@	Phoenix Coyotes	1	3	L			30	8	0		0		26	6	0		0
+34	1998-12-31	@	Colorado Avalanche	6	3	W			24	18	3		0		34	18	1		0
+35	1999-01-02	@	St. Louis Blues	1	0	W			10	4	1		0		24	8	0		0
+36	1999-01-04		San Jose Sharks	4	3	W			27	15	1		0		27	15	0		0
+37	1999-01-06		New Jersey Devils	2	5	L			32	19	2		0		29	21	1		0
+38	1999-01-07	@	Washington Capitals	1	5	L			18	4	0		0		33	4	1		0
+39	1999-01-10		Tampa Bay Lightning	5	2	W			27	21	2		1		24	17	1		1
+40	1999-01-13		New York Islanders	4	3	W	OT		27	30	0		0		21	21	1		0
+41	1999-01-15		Chicago Blackhawks	1	3	L			33	4	0		0		26	8	0		0
+42	1999-01-16	@	Montreal Canadiens	0	3	L			17	12	0		0		32	10	2		0
+43	1999-01-19		Ottawa Senators	1	2	L			22	4	1		0		28	4	0		0
+44	1999-01-21		Florida Panthers	1	2	L			28	16	0		0		26	14	0		0
+45	1999-01-26	@	Washington Capitals	4	1	W			23	11	1		1		35	9	0		0
+46	1999-01-28	@	Carolina Hurricanes	2	3	L	OT		26	6	1		0		30	10	0		0
+47	1999-01-30	@	Detroit Red Wings	3	2	W			14	8	0		0		40	4	1		0
+48	1999-02-01		Washington Capitals	1	3	L			25	9	0		0		38	13	0		0
+49	1999-02-04		Vancouver Canucks	8	4	W			36	23	2		1		31	31	1		0
+50	1999-02-07	@	Boston Bruins	2	3	L			27	14	0		1		23	12	1		0
+51	1999-02-12		Carolina Hurricanes	1	3	L			31	15	0		0		26	17	0		0
+52	1999-02-14		Detroit Red Wings	2	4	L			31	16	0		0		30	10	0		1
+53	1999-02-15	@	Nashville Predators	7	4	W			28	19	3		0		33	19	0		0
+54	1999-02-17		Montreal Canadiens	3	6	L			38	6	2		0		46	27	0		1
+55	1999-02-19		Pittsburgh Penguins	6	1	W			20	12	1		1		33	4	0		0
+56	1999-02-21	@	Edmonton Oilers	2	1	W	OT		28	4	0		0		40	4	0		0
+57	1999-02-22	@	Calgary Flames	2	6	L			31	4	1		0		38	12	1		1
+58	1999-02-26		Phoenix Coyotes	3	0	W			21	10	1		0		25	10	0		0
+59	1999-02-28		Philadelphia Flyers	6	5	W			26	18	4		0		26	18	2		1
+60	1999-03-02		Dallas Stars	2	2	T	OT		26	16	0		0		30	8	0		0
+61	1999-03-04	@	Washington Capitals	4	2	W			34	10	0		0		36	8	2		0
+62	1999-03-07	@	Boston Bruins	3	1	W			18	18	0		1		38	27	0		0
+63	1999-03-08		Toronto Maple Leafs	3	2	W	OT		35	8	2		0		26	14	0		0
+64	1999-03-10		Ottawa Senators	0	3	L			29	10	0		0		33	8	1		0
+65	1999-03-12		Boston Bruins	4	5	L			44	8	0		0		38	8	1		0
+66	1999-03-14	@	New York Islanders	3	2	W	OT		21	8	2		0		33	10	0		0
+67	1999-03-15		Washington Capitals	1	1	T	OT		23	16	0		0		34	16	0		0
+68	1999-03-19		Buffalo Sabres	2	3	L	OT		29	10	2		0		24	16	2		0
+69	1999-03-21		Pittsburgh Penguins	2	2	T	OT		24	8	1		0		32	4	1		0
+70	1999-03-22	@	Tampa Bay Lightning	3	6	L			30	8	1		0		27	10	1		1
+71	1999-03-24	@	Florida Panthers	2	1	W			24	12	1		0		35	6	0		0
+72	1999-03-27	@	Philadelphia Flyers	1	3	L			22	18	0		0		29	22	1		0
+73	1999-03-29		New York Islanders	3	1	W			35	11	0		0		22	15	0		0
+74	1999-04-02		Mighty Ducks of Anaheim	1	4	L			13	19	0		0		28	17	1		0
+75	1999-04-04	@	New Jersey Devils	1	4	L			20	38	0		0		29	23	2		0
+76	1999-04-05	@	Philadelphia Flyers	5	1	W			27	22	2		0		37	12	1		0
+77	1999-04-08	@	Chicago Blackhawks	2	6	L			24	4	1		0		34	2	1		0
+78	1999-04-09	@	Dallas Stars	1	3	L			22	2	0		0		34	2	1		0
+79	1999-04-12		Tampa Bay Lightning	2	1	W			28	11	1		0		25	15	0		1
+80	1999-04-15	@	Ottawa Senators	2	2	T	OT		23	29	0		1		33	12	1		0
+81	1999-04-18		Pittsburgh Penguins	1	2	L	OT		38	2	1		0		23	4	0		0

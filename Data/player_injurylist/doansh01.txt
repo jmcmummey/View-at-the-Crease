@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-26	 Coyotes	 	 • Shane Doan	 back injury (DTD)
+1	2006-11-04	 Coyotes	 • Shane Doan	 	 returned to lineup
+2	2006-11-09	 Coyotes	 	 • Shane Doan	 back injury (DTD)
+3	2006-11-10	 Coyotes	 	 • Shane Doan	 back injury (out 2-3 weeks)
+4	2006-11-22	 Coyotes	 • Shane Doan	 	 returned to lineup
+5	2008-01-03	 Coyotes	 	 • Shane Doan	 hand injury (DTD)
+6	2008-01-05	 Coyotes	 • Shane Doan	 	 returned to lineup
+7	2010-04-19	 Coyotes	 	 • Shane Doan	 upper body injury (DTD)
+8	2010-11-06	 Coyotes	 	 • Shane Doan	 lower (Y)/upper (CBC) body injury (DTD)
+9	2010-11-21	 Coyotes	 • Shane Doan	 	 returned to lineup
+10	2013-10-22	 Coyotes	 	 • Shane Doan	 lower body injury (DTD)
+11	2013-10-24	 Coyotes	 • Shane Doan	 	 returned to lineup
+12	2013-12-06	 Coyotes	 	 • Shane Doan	 illness/flu (DTD)
+13	2013-12-14	 Coyotes	 	 • Shane Doan	 placed on IR with illness
+14	2014-01-03	 Coyotes	 • Shane Doan	 	 activated from IR
+15	2015-01-14	 Coyotes	 	 • Shane Doan	 lower body injury (DTD)
+16	2015-01-18	 Coyotes	 • Shane Doan	 	 returned to lineup
+17	2015-04-09	 Coyotes	 	 • Shane Doan	 lower body injury (DTD)
+18	2015-04-11	 Coyotes	 • Shane Doan	 	 returned to lineup
+19	2015-11-25	 Coyotes	 	 • Shane Doan	 lower body injury (DTD)
+20	2015-12-06	 Coyotes	 	 • Shane Doan	 placed on IR with lower body injury
+21	2015-12-12	 Coyotes	 • Shane Doan	 	 activated from IR
+22	2016-03-27	 Coyotes	 	 • Shane Doan	 concussion (DTD)
+23	2016-03-31	 Coyotes	 • Shane Doan	 	 returned to lineup
+24	2017-03-17	 Coyotes	 	 • Shane Doan	 lower body injury (DTD)
+25	2017-03-31	 Coyotes	 • Shane Doan	 	 returned to lineup
+26	2017-04-04	 Coyotes	 	 • Shane Doan	 lower body injury (DTD)
+27	2017-04-06	 Coyotes	 • Shane Doan	 	 returned to lineup

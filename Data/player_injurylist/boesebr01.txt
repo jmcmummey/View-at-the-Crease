@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-30	 Canucks	 	 • Brock Boeser	 foot injury (DTD)
+1	2017-11-01	 Canucks	 • Brock Boeser	 	 returned to lineup
+2	2018-02-09	 Canucks	 	 • Brock Boeser	 hand injury (DTD)
+3	2018-02-11	 Canucks	 • Brock Boeser	 	 returned to lineup
+4	2018-03-06	 Canucks	 	 • Brock Boeser	 back injury (out for season)
+5	2018-10-24	 Canucks	 	 • Brock Boeser	 groin injury (DTD)
+6	2018-10-27	 Canucks	 • Brock Boeser	 	 returned to lineup
+7	2018-11-06	 Canucks	 	 • Brock Boeser	 groin injury (DTD)
+8	2018-11-08	 Canucks	 	 • Brock Boeser	 placed on IR with groin injury
+9	2018-11-27	 Canucks	 • Brock Boeser	 	 activated from IR
+10	2020-02-09	 Canucks	 	 • Brock Boeser	 placed on IR with rib injury
+11	2020-03-10	 Canucks	 • Brock Boeser	 	 activated from IR

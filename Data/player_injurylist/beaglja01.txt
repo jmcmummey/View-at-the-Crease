@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-01	 Capitals	 	 • Jay Beagle	 upper body injury (DTD)
+1	2011-03-15	 Capitals	 • Jay Beagle	 	 returned to lineup
+2	2011-10-14	 Capitals	 	 • Jay Beagle	 head injury (DTD)
+3	2011-11-01	 Capitals	 	 • Jay Beagle	 placed on IR with head injury
+4	2011-12-28	 Capitals	 • Jay Beagle	 	 activated from IR
+5	2012-05-09	 Capitals	 	 • Jay Beagle	 lower body injury (out for season)
+6	2013-11-01	 Capitals	 	 • Jay Beagle	 illness (DTD)
+7	2014-10-06	 Capitals	 	 • Jay Beagle	 placed on IR with upper body injury
+8	2014-10-22	 Capitals	 • Jay Beagle	 	 activated from IR
+9	2015-03-12	 Capitals	 	 • Jay Beagle	 shoulder injury (out for season)
+10	2015-12-31	 Capitals	 	 • Jay Beagle	 placed on IR with upper body injury
+11	2016-02-28	 Capitals	 • Jay Beagle	 	 activated from IR
+12	2016-04-10	 Capitals	 	 • Jay Beagle	 lower body injury (out for season)
+13	2017-01-24	 Capitals	 	 • Jay Beagle	 illness (DTD)
+14	2017-01-26	 Capitals	 • Jay Beagle	 	 returned to lineup
+15	2018-04-02	 Capitals	 	 • Jay Beagle	 upper body injury (DTD)
+16	2018-04-15	 Capitals	 • Jay Beagle	 	 returned to lineup
+17	2018-10-13	 Canucks	 	 • Jay Beagle	 placed on IR with fractured forearm
+18	2018-12-04	 Canucks	 • Jay Beagle	 	 activated from IR
+19	2019-03-15	 Canucks	 	 • Jay Beagle	 illness (DTD)
+20	2019-03-17	 Canucks	 • Jay Beagle	 	 returned to lineup
+21	2019-11-12	 Canucks	 	 • Jay Beagle	 undisclosed (DTD)
+22	2019-11-19	 Canucks	 • Jay Beagle	 	 returned to lineup
+23	2019-11-23	 Canucks	 	 • Jay Beagle	 lower body injury (DTD)
+24	2019-11-27	 Canucks	 	 • Jay Beagle	 placed on IR with lower body injury
+25	2019-12-07	 Canucks	 • Jay Beagle	 	 activated from IR
+26	2020-03-01	 Canucks	 	 • Jay Beagle	 undisclosed (DTD)

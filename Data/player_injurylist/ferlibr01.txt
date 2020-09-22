@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-11	 Bruins	 	 • Brian Ferlin	 placed on IR with lower body injury
+1	2017-10-03	 Oilers	 	 • Brian Ferlin	 placed on IR with undisclosed injury
+2	2017-11-08	 Oilers	 • Brian Ferlin	 	 activated from IR

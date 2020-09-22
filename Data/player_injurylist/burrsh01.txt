@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-10-20	 Red Wings	 	 • Shawn Burr	 lower back spasms (DTD)
+1	1993-12-08	 Red Wings	 	 • Shawn Burr	 surgery on wrist (out indefinitely)
+2	1994-01-25	 Red Wings	 	 • Shawn Burr	 leg injury (DTD)
+3	1996-01-15	 Lightning	 	 • Shawn Burr	 elbow injury (DTD)
+4	1999-10-15	 Lightning	 	 • Shawn Burr	 placed on IR with pulled groin

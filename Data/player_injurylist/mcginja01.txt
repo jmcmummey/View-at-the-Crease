@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-10-27	 Avalanche	 	 • Jamie McGinn	 knee injury (DTD)
+1	2013-11-06	 Avalanche	 • Jamie McGinn	 	 returned to lineup
+2	2014-11-19	 Avalanche	 	 • Jamie McGinn	 placed on IR with back injury (out for season)
+3	2016-10-14	 Coyotes	 	 • Jamie McGinn	 upper body injury (DTD)
+4	2016-10-19	 Coyotes	 	 • Jamie McGinn	 placed on IR with upper body injury
+5	2016-10-25	 Coyotes	 • Jamie McGinn	 	 activated from IR
+6	2017-04-04	 Coyotes	 • Jamie McGinn	 	 returned to lineup
+7	2017-12-22	 Panthers	 	 • Jamie McGinn	 upper body injury (DTD)
+8	2017-12-28	 Panthers	 • Jamie McGinn	 	 returned to lineup
+9	2018-01-30	 Panthers	 	 • Jamie McGinn	 upper body injury (DTD)
+10	2018-02-03	 Panthers	 • Jamie McGinn	 	 returned to lineup
+11	2018-10-01	 Panthers	 	 • Jamie McGinn	 placed on IR with shoulder injury
+12	2019-01-31	 Panthers	 • Jamie McGinn	 	 activated from IR
+13	2019-02-17	 Panthers	 	 • Jamie McGinn	 undisclosed (DTD)
+14	2019-02-21	 Panthers	 • Jamie McGinn	 	 returned to lineup

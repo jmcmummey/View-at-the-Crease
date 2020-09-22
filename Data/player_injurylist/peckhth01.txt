@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-22	 Oilers	 	 • Theo Peckham	 shoulder injury (out for season)
+1	2010-10-23	 Oilers	 	 • Theo Peckham	 hand injury (DTD)
+2	2010-10-26	 Oilers	 Theo Peckham	 	 returned to lineup
+3	2010-11-05	 Oilers	 	 Theo Peckham	 flu (DTD)
+4	2011-02-28	 Oilers	 	 Theo Peckham	 concussion (DTD)
+5	2011-03-19	 Oilers	 Theo Peckham	 	 returned to lineup
+6	2012-02-04	 Oilers	 	 Theo Peckham	 facial injury (DTD)
+7	2012-02-08	 Oilers	 	 Theo Peckham	 placed on IR with facial injury
+8	2012-03-06	 Oilers	 Theo Peckham	 	 activated from IR
+9	2012-03-25	 Oilers	 	 Theo Peckham	 concussion (out for season)
+10	2013-01-18	 Oilers	 	 Theo Peckham	 placed on IR with hip flexor injury
+11	2013-02-09	 Oilers	 	 Theo Peckham	 hip flexor injury (DTD)
+12	2013-02-21	 Oilers	 Theo Peckham	 	 activated from IR
+13	2013-03-05	 Oilers	 	 • Theo Peckham	 illness (DTD)
+14	2013-03-08	 Oilers	 Theo Peckham	 	 returned to lineup
+15	2013-04-19	 Oilers	 	 • Theo Peckham	 illness (out for season)

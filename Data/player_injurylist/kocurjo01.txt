@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-05-10	 Rangers	 	 • Joe Kocur / Joey Kocur	 surgery on right hand to repair ligament and tendon damage
+1	1999-05-01	 Red Wings	 	 • Joe Kocur / Joey Kocur	 recovering from surgery to repair hernia (out indefinitely)

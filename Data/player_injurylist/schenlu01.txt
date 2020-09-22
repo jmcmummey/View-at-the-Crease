@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-08	 Maple Leafs	 	 • Luke Schenn	 lower body injury (DTD)
+1	2009-01-06	 Maple Leafs	 • Luke Schenn	 	 returned to lineup
+2	2013-03-13	 Flyers	 	 • Luke Schenn	 flu (DTD)
+3	2013-03-15	 Flyers	 • Luke Schenn	 	 returned to lineup
+4	2014-11-09	 Flyers	 	 • Luke Schenn	 sprained left shoulder (DTD)
+5	2014-11-20	 Flyers	 • Luke Schenn	 	 returned to lineup
+6	2015-02-10	 Flyers	 	 • Luke Schenn	 upper body injury (DTD)
+7	2015-02-13	 Flyers	 • Luke Schenn	 	 returned to lineup
+8	2015-03-21	 Flyers	 	 • Luke Schenn	 lower body injury (out for season)
+9	2015-12-06	 Flyers	 	 • Luke Schenn	 lower body injury (DTD)
+10	2015-12-19	 Flyers	 • Luke Schenn	 	 returned to lineup

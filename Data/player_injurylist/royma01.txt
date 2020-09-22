@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-01	 Oilers	 	 • Mathieu Roy	 head injury (DTD)
+1	2007-03-24	 Oilers	 • Mathieu Roy	 	 returned to lineup
+2	2007-04-01	 Oilers	 	 • Mathieu Roy	 concussion (DTD)
+3	2007-10-02	 Oilers	 	 • Mathieu Roy	 placed on IR with aches & pains
+4	2007-10-23	 Oilers	 • Mathieu Roy	 	 activated from IR
+5	2007-11-05	 Oilers	 	 • Mathieu Roy	 placed on IR with separated shoulder
+6	2007-11-26	 Oilers	 • Mathieu Roy	 	 activated from IR
+7	2008-02-19	 Oilers	 	 • Mathieu Roy	 bruised sternum (DTD)
+8	2008-02-22	 Oilers	 • Mathieu Roy	 	 returned to lineup
+9	2008-03-07	 Oilers	 	 • Mathieu Roy	 upper body injury (DTD)
+10	2008-03-13	 Oilers	 • Mathieu Roy	 	 returned to lineup
+11	2008-10-09	 Oilers	 	 • Mathieu Roy	 sprained right wrist (out indefinitely)

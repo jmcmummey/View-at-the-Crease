@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-08	 Maple Leafs	 	 • Niklas Hagman	 head injury (DTD)
+1	2008-12-20	 Maple Leafs	 • Niklas Hagman	 	 returned to lineup
+2	2009-02-26	 Maple Leafs	 	 • Niklas Hagman	 head injury (DTD)
+3	2009-03-28	 Maple Leafs	 • Niklas Hagman	 	 returned to lineup
+4	2011-02-03	 Flames	 	 • Niklas Hagman	 lower body injury (DTD)
+5	2011-02-09	 Flames	 • Niklas Hagman	 	 returned to lineup
+6	2011-03-23	 Flames	 	 • Niklas Hagman	 concussion (out for season)

@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-11	 Maple Leafs	 	 • Ian White (a)	 shoulder injury (out 3-4 weeks)
+1	2007-01-30	 Maple Leafs	 • Ian White (a)	 	 returned to lineup
+2	2011-04-16	 Sharks	 	 • Ian White (a)	 head injury (DTD)
+3	2011-04-19	 Sharks	 • Ian White (a)	 	 returned to lineup
+4	2011-11-14	 Red Wings	 	 • Ian White (a)	 fractured cheekbone (DTD)
+5	2011-11-19	 Red Wings	 	 • Ian White (a)	 placed on 7-day IR with fractured cheekbone
+6	2011-11-22	 Red Wings	 • Ian White (a)	 	 activated from 7-day IR
+7	2013-01-23	 Red Wings	 	 • Ian White (a)	 placed on IR with lacerated left leg
+8	2013-02-05	 Red Wings	 • Ian White (a)	 	 activated from IR
+9	2013-03-13	 Red Wings	 	 • Ian White (a)	 illness (DTD)
+10	2013-03-16	 Red Wings	 • Ian White (a)	 	 returned to lineup

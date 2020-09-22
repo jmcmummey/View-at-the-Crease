@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-29	 Lightning	 	 • Anthony Cirelli	 lower body injury (DTD)
+1	2019-10-30	 Lightning	 • Anthony Cirelli	 	 returned to lineup
+2	2020-02-12	 Lightning	 	 • Anthony Cirelli	 lower body injury (DTD)
+3	2020-02-15	 Lightning	 • Anthony Cirelli	 	 returned to lineup

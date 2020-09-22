@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-03	 Oilers	 	 • Robert Nilsson	 shoulder injury (DTD)
+1	2008-12-05	 Oilers	 	 • Robert Nilsson	 placed on IR with shoulder injury
+2	2008-12-13	 Oilers	 • Robert Nilsson	 	 activated from IR
+3	2009-01-13	 Oilers	 	 • Robert Nilsson	 concussion (DTD)
+4	2009-01-18	 Oilers	 	 • Robert Nilsson	 placed on IR with concussion
+5	2009-01-20	 Oilers	 • Robert Nilsson	 	 activated from IR
+6	2009-11-10	 Oilers	 	 • Robert Nilsson	 head injury (DTD)
+7	2009-12-03	 Oilers	 • Robert Nilsson	 	 returned to lineup
+8	2010-04-10	 Oilers	 	 • Robert Nilsson	 dizzyness (out for season)

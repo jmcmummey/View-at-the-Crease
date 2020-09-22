@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-10-09	 Flames	 	 • Jordan Leopold	 placed on IR with concussion
+1	2006-03-31	 Flames	 	 • Jordan Leopold	 groin injury (DTD)
+2	2006-04-05	 Flames	 • Jordan Leopold	 	 returned to lineup
+3	2006-04-07	 Flames	 	 • Jordan Leopold	 groin injury (DTD)
+4	2006-04-17	 Flames	 • Jordan Leopold	 	 returned to lineup
+5	2006-09-14	 Avalanche	 	 • Jordan Leopold	 surgery to repair hernia (out indefinitely)
+6	2006-10-03	 Avalanche	 	 • Jordan Leopold	 placed on IR recovering from surgery to repair hernia
+7	2006-12-02	 Avalanche	 • Jordan Leopold	 	 activated from IR
+8	2006-12-13	 Avalanche	 	 • Jordan Leopold	 groin injury (out indefinitely)
+9	2007-01-26	 Avalanche	 • Jordan Leopold	 	 returned to lineup
+10	2007-02-17	 Avalanche	 	 • Jordan Leopold	 wrist injury (DTD)
+11	2007-10-12	 Avalanche	 	 • Jordan Leopold	 hip injury (DTD)
+12	2007-10-16	 Avalanche	 • Jordan Leopold	 	 returned to lineup
+13	2007-10-26	 Avalanche	 	 • Jordan Leopold	 wrist injury (out ~2 months)
+14	2007-12-13	 Avalanche	 • Jordan Leopold	 	 returned to lineup
+15	2007-12-19	 Avalanche	 	 • Jordan Leopold	 leg injury (DTD)
+16	2007-12-29	 Avalanche	 • Jordan Leopold	 	 returned to lineup
+17	2008-01-18	 Avalanche	 	 • Jordan Leopold	 illness (DTD)
+18	2008-01-22	 Avalanche	 • Jordan Leopold	 	 returned to lineup
+19	2008-03-11	 Avalanche	 	 • Jordan Leopold	 head injury (DTD)
+20	2008-03-22	 Avalanche	 • Jordan Leopold	 	 returned to lineup
+21	2008-03-28	 Avalanche	 	 • Jordan Leopold	 hip injury (DTD)
+22	2008-04-15	 Avalanche	 • Jordan Leopold	 	 returned to lineup
+23	2010-04-17	 Penguins	 	 • Jordan Leopold	 head injury (DTD)
+24	2010-05-02	 Penguins	 • Jordan Leopold	 	 returned to lineup
+25	2011-02-26	 Sabres	 	 • Jordan Leopold	 upper body injury (DTD)
+26	2011-03-05	 Sabres	 • Jordan Leopold	 	 returned to lineup
+27	2011-03-26	 Sabres	 	 • Jordan Leopold	 broken left hand (out indefinitely)
+28	2011-04-18	 Sabres	 • Jordan Leopold	 	 returned to lineup
+29	2011-11-30	 Sabres	 	 • Jordan Leopold	 upper body injury (DTD)
+30	2011-12-07	 Sabres	 	 • Jordan Leopold	 placed on IR with upper body injury
+31	2011-12-09	 Sabres	 • Jordan Leopold	 	 activated from IR
+32	2013-02-21	 Sabres	 	 • Jordan Leopold	 upper body injury (DTD)
+33	2013-03-01	 Sabres	 	 • Jordan Leopold	 placed on IR with upper body injury
+34	2013-03-10	 Sabres	 • Jordan Leopold	 	 activated from IR
+35	2013-11-09	 Blues	 	 • Jordan Leopold	 placed on IR with surgery on right hand
+36	2014-01-03	 Blues	 • Jordan Leopold	 	 activated from IR
+37	2014-02-26	 Blues	 	 • Jordan Leopold	 right ankle injury (DTD)
+38	2014-04-03	 Blues	 • Jordan Leopold	 	 returned to lineup

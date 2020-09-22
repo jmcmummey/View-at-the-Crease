@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-03-11	 Islanders	 	 • Andy Hilbert	 ankle injury (DTD)
+1	2008-12-26	 Islanders	 	 • Andy Hilbert	 hairline fracture in left foot (DTD)
+2	2009-01-29	 Islanders	 • Andy Hilbert	 	 returned to lineup
+3	2009-04-02	 Islanders	 	 • Andy Hilbert	 rib injury (DTD)
+4	2009-04-11	 Islanders	 • Andy Hilbert	 	 returned to lineup

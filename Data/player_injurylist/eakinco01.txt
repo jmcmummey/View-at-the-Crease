@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-03-14	 Stars	 	 • Cody Eakin	 concussion / lower body injury (CBC) (out indefinitely)
+1	2014-03-16	 Stars	 • Cody Eakin	 	 returned to lineup
+2	2014-11-06	 Stars	 	 • Cody Eakin	 lower body injury (DTD)
+3	2014-11-13	 Stars	 • Cody Eakin	 	 returned to lineup
+4	2016-10-11	 Stars	 	 • Cody Eakin	 placed on IR with knee injury
+5	2016-11-17	 Stars	 • Cody Eakin	 	 activated from IR
+6	2018-01-16	 Golden Knights	 	 • Cody Eakin	 undisclosed injury (DTD)
+7	2018-01-18	 Golden Knights	 • Cody Eakin	 	 returned to lineup
+8	2018-09-24	 Golden Knights	 	 • Cody Eakin	 placed on IR with lower body injury
+9	2018-10-01	 Golden Knights	 	 • Cody Eakin	 placed on IR with lower body injury
+10	2018-10-10	 Golden Knights	 • Cody Eakin	 	 activated from IR
+11	2019-10-02	 Golden Knights	 	 • Cody Eakin	 placed on IR with upper body injury
+12	2019-10-12	 Golden Knights	 • Cody Eakin	 	 activated from IR
+13	2019-11-30	 Golden Knights	 	 • Cody Eakin	 head injury (out indefinitely)
+14	2020-01-07	 Golden Knights	 • Cody Eakin	 	 returned to lineup

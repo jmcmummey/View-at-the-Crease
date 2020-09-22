@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-10-01	 Canadiens	 	 • Nathan Beaulieu	 placed on IR with surgery on left shoulder
+1	2015-03-16	 Canadiens	 	 • Nathan Beaulieu	 flu (DTD)
+2	2015-03-19	 Canadiens	 • Nathan Beaulieu	 	 returned to lineup
+3	2015-04-21	 Canadiens	 	 • Nathan Beaulieu	 upper body injury (DTD)
+4	2015-05-09	 Canadiens	 • Nathan Beaulieu	 	 returned to lineup
+5	2016-02-10	 Canadiens	 	 • Nathan Beaulieu	 lower body injury (DTD)
+6	2016-02-15	 Canadiens	 • Nathan Beaulieu	 	 returned to lineup
+7	2016-02-23	 Canadiens	 	 • Nathan Beaulieu	 placed on IR with lower body injury
+8	2016-02-27	 Canadiens	 	 • Nathan Beaulieu	 placed on IR with lower body injury
+9	2016-03-16	 Canadiens	 • Nathan Beaulieu	 	 activated from IR
+10	2016-03-31	 Canadiens	 	 • Nathan Beaulieu	 fractured thumb (out for season)
+11	2016-11-23	 Canadiens	 	 • Nathan Beaulieu	 placed on IR with neck injury
+12	2016-11-26	 Canadiens	 	 • Nathan Beaulieu	 placed on IR with neck injury
+13	2016-12-08	 Canadiens	 • Nathan Beaulieu	 	 activated from IR
+14	2017-10-21	 Sabres	 	 • Nathan Beaulieu	 upper body injury (DTD)
+15	2017-11-02	 Sabres	 	 • Nathan Beaulieu	 placed on IR with upper body injury
+16	2017-11-10	 Sabres	 • Nathan Beaulieu	 	 activated from IR
+17	2017-12-05	 Sabres	 	 • Nathan Beaulieu	 illness (DTD)
+18	2017-12-15	 Sabres	 • Nathan Beaulieu	 	 returned to lineup
+19	2018-01-17	 Sabres	 	 • Nathan Beaulieu	 illness (DTD)
+20	2018-01-22	 Sabres	 • Nathan Beaulieu	 	 returned to lineup
+21	2018-01-23	 Sabres	 	 • Nathan Beaulieu	 placed on IR with upper body injury
+22	2018-02-03	 Sabres	 • Nathan Beaulieu	 	 activated from IR
+23	2018-04-02	 Sabres	 	 • Nathan Beaulieu	 illness (DTD)
+24	2018-04-04	 Sabres	 • Nathan Beaulieu	 	 returned to lineup
+25	2018-10-20	 Sabres	 	 • Nathan Beaulieu	 undisclosed (DTD)
+26	2018-10-30	 Sabres	 • Nathan Beaulieu	 	 returned to lineup
+27	2018-12-16	 Sabres	 	 • Nathan Beaulieu	 upper body injury (DTD)
+28	2018-12-27	 Sabres	 • Nathan Beaulieu	 	 returned to lineup
+29	2019-03-20	 Jets	 	 • Nathan Beaulieu	 undisclosed (DTD)
+30	2019-03-23	 Jets	 • Nathan Beaulieu	 	 returned to lineup
+31	2019-10-01	 Jets	 	 • Nathan Beaulieu	 placed on IR with upper body injury
+32	2019-11-05	 Jets	 • Nathan Beaulieu	 	 activated from IR
+33	2019-11-26	 Jets	 	 • Nathan Beaulieu	 upper body injury (DTD)
+34	2019-11-30	 Jets	 	 • Nathan Beaulieu	 placed on IR with upper body injury
+35	2019-12-05	 Jets	 • Nathan Beaulieu	 	 activated from IR
+36	2020-01-02	 Jets	 	 • Nathan Beaulieu	 lower body injury (out indefinitely)
+37	2020-01-06	 Jets	 	 • Nathan Beaulieu	 placed on IR with lower body injury
+38	2020-02-04	 Jets	 • Nathan Beaulieu	 	 activated from IR

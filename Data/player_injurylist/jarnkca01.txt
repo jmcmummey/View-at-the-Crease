@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-24	 Predators	 	 • Calle Jarnkrok	 illness (DTD)
+1	2015-10-28	 Predators	 • Calle Jarnkrok	 	 returned to lineup
+2	2017-04-08	 Predators	 	 • Calle Jarnkrok	 lower body injury (DTD)
+3	2017-04-13	 Predators	 • Calle Jarnkrok	 	 returned to lineup
+4	2017-04-26	 Predators	 	 • Calle Jarnkrok	 lower body injury (DTD)
+5	2017-04-28	 Predators	 • Calle Jarnkrok	 	 returned to lineup
+6	2018-03-15	 Predators	 	 • Calle Jarnkrok	 upper body injury (DTD)
+7	2018-04-18	 Predators	 • Calle Jarnkrok	 	 returned to lineup
+8	2018-05-01	 Predators	 	 • Calle Jarnkrok	 undisclosed injury (DTD)
+9	2018-05-07	 Predators	 • Calle Jarnkrok	 	 returned to lineup
+10	2018-11-10	 Predators	 	 • Calle Jarnkrok	 lower body injury (DTD)
+11	2018-11-15	 Predators	 • Calle Jarnkrok	 	 returned to lineup
+12	2020-01-30	 Predators	 	 • Calle Jarnkrok	 illness (DTD)
+13	2020-02-10	 Predators	 • Calle Jarnkrok	 	 returned to lineup

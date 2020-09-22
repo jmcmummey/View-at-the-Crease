@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-10-08	 Rangers	 	 • Ryan Hollweg	 head injury (out indefinitely)
+1	2005-12-03	 Rangers	 	 • Ryan Hollweg	 eye injury (DTD)
+2	2005-12-07	 Rangers	 • Ryan Hollweg	 	 returned to lineup
+3	2007-03-16	 Rangers	 	 • Ryan Hollweg	 flu (DTD)
+4	2007-03-17	 Rangers	 • Ryan Hollweg	 	 returned to lineup

@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-03	 Coyotes	 	 • Ladislav Nagy	 placed on IR with shoulder injury
+1	2005-10-08	 Coyotes	 • Ladislav Nagy	 	 activated from IR
+2	2006-01-31	 Coyotes	 	 • Ladislav Nagy	 knee injury (DTD)
+3	2006-02-03	 Coyotes	 	 • Ladislav Nagy	 surgery on knee (out for rest of regular season)
+4	2007-03-15	 Stars	 	 • Ladislav Nagy	 facial injury (DTD)
+5	2007-03-17	 Stars	 • Ladislav Nagy	 	 returned to lineup
+6	2007-12-08	 Kings	 	 • Ladislav Nagy	 hip flexor (DTD)
+7	2007-12-21	 Kings	 • Ladislav Nagy	 	 returned to lineup
+8	2008-01-19	 Kings	 	 • Ladislav Nagy	 neck injury (DTD)
+9	2008-02-02	 Kings	 	 • Ladislav Nagy	 placed on IR with neck injury

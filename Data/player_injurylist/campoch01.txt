@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-05	 Islanders	 	 • Chris Campoli	 groin injury (out 2-3 weeks)
+1	2006-10-24	 Islanders	 • Chris Campoli	 	 returned to lineup
+2	2008-01-19	 Islanders	 	 • Chris Campoli	 shoulder injury (DTD)
+3	2008-09-30	 Islanders	 	 • Chris Campoli	 undisclosed injury (DTD)
+4	2008-10-07	 Islanders	 	 • Chris Campoli	 placed on IR with shoulder injury
+5	2008-10-23	 Islanders	 • Chris Campoli	 	 activated from IR
+6	2009-01-19	 Islanders	 	 • Chris Campoli	 groin injury (DTD)
+7	2009-01-29	 Islanders	 • Chris Campoli	 	 returned to lineup
+8	2010-02-12	 Senators	 	 • Chris Campoli	 placed on IR with left knee injury
+9	2010-03-16	 Senators	 • Chris Campoli	 	 activated from IR
+10	2011-02-18	 Senators	 	 • Chris Campoli	 back injury (DTD)
+11	2011-02-23	 Senators	 • Chris Campoli	 	 returned to lineup
+12	2011-10-07	 Canadiens	 	 • Chris Campoli	 placed on IR with left leg injury
+13	2011-12-13	 Canadiens	 • Chris Campoli	 	 activated from IR

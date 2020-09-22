@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-30	 Maple Leafs	 	 • Scott Harrington	 upper body injury (DTD)
+1	2015-11-02	 Maple Leafs	 	 • Scott Harrington	 placed on IR with upper body injury
+2	2015-11-06	 Maple Leafs	 • Scott Harrington	 	 activated from IR
+3	2018-02-03	 Blue Jackets	 	 • Scott Harrington	 illness (DTD)
+4	2018-02-10	 Blue Jackets	 • Scott Harrington	 	 returned to lineup
+5	2018-09-28	 Blue Jackets	 	 • Scott Harrington	 placed on IR with concussion
+6	2018-10-08	 Blue Jackets	 • Scott Harrington	 	 activated from IR
+7	2019-01-05	 Blue Jackets	 	 • Scott Harrington	 illness (DTD)
+8	2019-01-10	 Blue Jackets	 • Scott Harrington	 	 returned to lineup
+9	2019-12-27	 Blue Jackets	 	 • Scott Harrington	 illness (DTD)
+10	2019-12-31	 Blue Jackets	 • Scott Harrington	 	 returned to lineup

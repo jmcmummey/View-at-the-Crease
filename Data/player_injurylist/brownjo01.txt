@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-10-02	 Panthers	 	 • Joshua Brown / Josh Brown	 placed on IR with undisclosed injury
+1	2018-11-23	 Panthers	 • Joshua Brown / Josh Brown	 	 activated from IR

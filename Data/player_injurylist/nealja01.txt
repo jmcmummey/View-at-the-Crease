@@ -1,0 +1,45 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-06	 Stars	 	 • James Neal	 pulled groin (DTD)
+1	2009-11-12	 Stars	 • James Neal	 	 returned to lineup
+2	2012-04-05	 Penguins	 	 • James Neal	 lower body injury (out for season)
+3	2013-04-08	 Penguins	 	 • James Neal	 concussion (out indefinitely)
+4	2013-04-27	 Penguins	 • James Neal	 	 returned to lineup
+5	2013-05-03	 Penguins	 	 • James Neal	 sprained right ankle (DTD)
+6	2013-05-07	 Penguins	 • James Neal	 	 returned to lineup
+7	2013-10-04	 Penguins	 	 • James Neal	 lower body (CBC) / upper body injury (DTD)
+8	2013-10-15	 Penguins	 	 • James Neal	 placed on IR with upper body injury
+9	2013-11-09	 Penguins	 • James Neal	 	 activated from IR
+10	2014-01-15	 Penguins	 	 • James Neal	 upper body injury (DTD)
+11	2014-01-20	 Penguins	 • James Neal	 	 returned to lineup
+12	2014-03-14	 Penguins	 	 • James Neal	 concussion (out indefinitely)
+13	2014-03-18	 Penguins	 • James Neal	 	 returned to lineup
+14	2014-12-20	 Predators	 	 • James Neal	 illness (DTD)
+15	2014-12-22	 Predators	 • James Neal	 	 returned to lineup
+16	2015-01-03	 Predators	 	 • James Neal	 lower body injury (DTD)
+17	2015-01-08	 Predators	 	 • James Neal	 placed on IR with lower body injury
+18	2015-01-13	 Predators	 • James Neal	 	 activated from IR
+19	2015-03-14	 Predators	 	 • James Neal	 lower (CBC) / upper (Y) body injury (DTD)
+20	2015-04-04	 Predators	 • James Neal	 	 returned to lineup
+21	2016-11-26	 Predators	 	 • James Neal	 placed on IR with upper body injury
+22	2016-12-06	 Predators	 • James Neal	 	 activated from IR
+23	2017-01-05	 Predators	 	 • James Neal	 upper body injury (DTD)
+24	2017-01-07	 Predators	 	 • James Neal	 placed on IR with upper body injury
+25	2017-01-14	 Predators	 • James Neal	 	 activated from IR
+26	2017-04-01	 Predators	 	 • James Neal	 upper body injury (DTD)
+27	2017-04-06	 Predators	 • James Neal	 	 returned to lineup
+28	2017-10-03	 Golden Knights	 	 • James Neal	 placed on injured/non-roster list with hand injury
+29	2017-10-04	 Golden Knights	 	 • James Neal	 placed on IR with hand injury
+30	2018-02-19	 Golden Knights	 	 • James Neal	 illness (DTD)
+31	2018-02-23	 Golden Knights	 	 • James Neal	 placed on IR with illness
+32	2018-02-26	 Golden Knights	 • James Neal	 	 activated from IR
+33	2018-02-27	 Golden Knights	 	 • James Neal	 hand injury (DTD)
+34	2018-03-16	 Golden Knights	 • James Neal	 	 returned to lineup
+35	2018-12-18	 Flames	 	 • James Neal	 upper body injury (DTD)
+36	2018-12-20	 Flames	 • James Neal	 	 returned to lineup
+37	2019-01-16	 Flames	 	 • James Neal	 illness (DTD)
+38	2019-01-17	 Flames	 • James Neal	 	 returned to lineup
+39	2019-02-15	 Flames	 	 • James Neal	 upper body injury (DTD)
+40	2019-03-23	 Flames	 • James Neal	 	 returned to lineup
+41	2020-01-31	 Oilers	 	 • James Neal	 foot injury (DTD)
+42	2020-02-11	 Oilers	 	 • James Neal	 placed on IR with foot injury
+43	2020-03-03	 Oilers	 • James Neal	 	 activated from IR

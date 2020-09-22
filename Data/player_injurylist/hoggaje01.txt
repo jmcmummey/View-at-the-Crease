@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-27	 Blues	 	 • Jeff Hoggan	 placed on IR with fractured right clavicle
+1	2006-04-01	 Blues	 	 • Jeff Hoggan	 broken right clavicle (DTD)
+2	2006-04-08	 Blues	 • Jeff Hoggan	 	 returned to lineup
+3	2006-12-30	 Bruins	 	 • Jeff Hoggan	 shoulder injury (DTD)
+4	2007-01-11	 Bruins	 • Jeff Hoggan	 	 returned to lineup

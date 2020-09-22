@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-02-02	 Red Wings	 	 • Filip Zadina	 lower body injury (out indefinitely)
+1	2020-02-03	 Red Wings	 	 • Filip Zadina	 placed on IR with lower body injury

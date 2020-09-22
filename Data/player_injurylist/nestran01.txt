@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-12-11	 Hurricanes	 	 • Andrej Nestrasil	 upper body injury (DTD)
+1	2014-12-15	 Hurricanes	 	 • Andrej Nestrasil	 placed on IR with upper body injury
+2	2015-01-08	 Hurricanes	 • Andrej Nestrasil	 	 activated from IR
+3	2015-10-24	 Hurricanes	 	 • Andrej Nestrasil	 knee injury (DTD)
+4	2015-10-29	 Hurricanes	 • Andrej Nestrasil	 	 returned to lineup
+5	2016-02-26	 Hurricanes	 	 • Andrej Nestrasil	 lower body injury (out for season)

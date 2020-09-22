@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-23	 Maple Leafs	 	 • Leo Komarov	 placed on IR with upper body injury
+1	2013-04-06	 Maple Leafs	 • Leo Komarov	 	 activated from IR
+2	2014-11-30	 Maple Leafs	 	 • Leo Komarov	 placed on IR with concussion
+3	2014-12-28	 Maple Leafs	 	 • Leo Komarov	 placed on IR with concussion (CBC SN)
+4	2014-12-31	 Maple Leafs	 • Leo Komarov	 	 activated from IR
+5	2015-01-14	 Maple Leafs	 	 • Leo Komarov	 upper body injury (DTD)
+6	2015-01-28	 Maple Leafs	 • Leo Komarov	 	 returned to lineup
+7	2015-04-11	 Maple Leafs	 	 • Leo Komarov	 upper body injury (out for season)
+8	2016-03-16	 Maple Leafs	 	 • Leo Komarov	 lower body injury (DTD)
+9	2016-04-09	 Maple Leafs	 • Leo Komarov	 	 returned to lineup
+10	2018-03-17	 Maple Leafs	 	 • Leo Komarov	 lower body injury (DTD)
+11	2018-03-31	 Maple Leafs	 • Leo Komarov	 	 returned to lineup
+12	2018-04-16	 Maple Leafs	 	 • Leo Komarov	 lower body injury (DTD)
+13	2018-04-24	 Maple Leafs	 • Leo Komarov	 	 returned to lineup
+14	2019-10-19	 Islanders	 	 • Leo Komarov	 illness (DTD)
+15	2019-10-24	 Islanders	 	 • Leo Komarov	 placed on IR with illness
+16	2019-11-12	 Islanders	 • Leo Komarov	 	 activated from IR
+17	2020-09-05	 Islanders	 	 • Leo Komarov	 undisclosed (DTD)
+18	2020-09-07	 Islanders	 • Leo Komarov	 	 returned to lineup

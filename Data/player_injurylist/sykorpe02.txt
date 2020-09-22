@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-03	 Rangers	 	 • Petr Sykora	 back spasms (DTD)
+1	2005-11-22	 Mighty Ducks	 	 • Petr Sykora (a)	 groin injury (out indefinitely)
+2	2005-11-23	 Mighty Ducks	 	 • Petr Sykora (a)	 placed on IR with groin injury
+3	2005-12-03	 Mighty Ducks	 • Petr Sykora (a)	 	 activated from IR
+4	2007-12-29	 Penguins	 	 • Petr Sykora (a)	 illness (DTD)
+5	2008-01-01	 Penguins	 • Petr Sykora (a)	 	 returned to lineup
+6	2008-10-04	 Penguins	 	 • Petr Sykora (a)	 groin injury (DTD)
+7	2008-10-14	 Penguins	 • Petr Sykora (a)	 	 returned to lineup
+8	2009-03-08	 Penguins	 	 • Petr Sykora (a)	 upper body injury (DTD)
+9	2009-03-14	 Penguins	 • Petr Sykora (a)	 	 returned to lineup
+10	2009-04-23	 Penguins	 	 • Petr Sykora (a)	 shoulder injury (DTD)
+11	2009-05-02	 Penguins	 • Petr Sykora (a)	 	 returned to lineup
+12	2009-06-10	 Penguins	 	 • Petr Sykora (a)	 right ankle injury (DTD)
+13	2009-10-13	 Wild	 	 • Petr Sykora (a)	 sore groin (DTD)
+14	2009-10-24	 Wild	 • Petr Sykora (a)	 	 activated from IR
+15	2009-11-07	 Wild	 	 • Petr Sykora (a)	 concussion (out indefinitely)
+16	2009-12-31	 Wild	 • Petr Sykora (a)	 	 returned to lineup

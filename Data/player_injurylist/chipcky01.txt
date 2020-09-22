@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-09-30	 Canadiens	 	 • Kyle Chipchura	 surgury on shoulder (out indefinitely)
+1	2009-10-06	 Canadiens	 • Kyle Chipchura	 	 returned to lineup
+2	2010-11-02	 Ducks	 	 • Kyle Chipchura	 placed on IR with concussion
+3	2010-11-26	 Ducks	 • Kyle Chipchura	 	 activated from IR
+4	2010-11-29	 Ducks	 	 • Kyle Chipchura	 concussion (DTD)
+5	2010-12-01	 Ducks	 • Kyle Chipchura	 	 returned to lineup
+6	2012-02-19	 Coyotes	 	 • Kyle Chipchura	 wrist injury (DTD)
+7	2012-02-23	 Coyotes	 	 • Kyle Chipchura	 placed on IR with wrist injury
+8	2012-03-20	 Coyotes	 • Kyle Chipchura	 	 activated from IR
+9	2014-01-09	 Coyotes	 	 • Kyle Chipchura	 lower body injury (DTD)
+10	2014-01-11	 Coyotes	 • Kyle Chipchura	 	 returned to lineup

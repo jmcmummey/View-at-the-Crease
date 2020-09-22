@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-01-04	 Penguins	 	 • Sam Lafferty	 illness (DTD)
+1	2020-01-07	 Penguins	 • Sam Lafferty	 	 returned to lineup

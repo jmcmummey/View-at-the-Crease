@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-12-01	 Canucks	 	 • Shawn Antoski	 sore back (date approximate)
+1	1993-12-15	 Canucks	 	 • Shawn Antoski	 fractured knuckle (DTD)
+2	1994-01-19	 Canucks	 	 • Shawn Antoski	 sprained thumb (DTD)
+3	1994-04-01	 Canucks	 	 • Shawn Antoski	 sore hand (DTD)
+4	1995-03-02	 Flyers	 	 • Shawn Antoski	 flu (DTD)
+5	1995-10-22	 Flyers	 	 • Shawn Antoski	 shoulder injury (DTD)
+6	1995-12-18	 Flyers	 	 • Shawn Antoski	 strained hamstring (DTD)
+7	1996-01-09	 Flyers	 	 • Shawn Antoski	 sprained right ankle (DTD)
+8	1996-01-22	 Flyers	 	 • Shawn Antoski	 flu (DTD)
+9	1996-12-12	 Mighty Ducks	 	 • Shawn Antoski	 placed on IR

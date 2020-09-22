@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-12-23	 Stars	 	 • Stephen Johns (b. 1992-04-18)	 lower body injury (DTD)
+1	2016-12-27	 Stars	 • Stephen Johns (b. 1992-04-18)	 	 returned to lineup
+2	2017-02-16	 Stars	 	 • Stephen Johns (b. 1992-04-18)	 illness (DTD)
+3	2017-02-24	 Stars	 • Stephen Johns (b. 1992-04-18)	 	 returned to lineup
+4	2017-10-25	 Stars	 	 • Stephen Johns (b. 1992-04-18)	 concussion (out indefinitely)
+5	2017-11-02	 Stars	 • Stephen Johns (b. 1992-04-18)	 	 returned to lineup
+6	2018-03-30	 Stars	 	 • Stephen Johns (b. 1992-04-18)	 upper body injury (out for season)
+7	2018-09-28	 Stars	 	 • Stephen Johns (b. 1992-04-18)	 placed on IR with undisclosed injury (out for season)
+8	2018-10-02	 Stars	 	 • Stephen Johns (b. 1992-04-18)	 placed on IR with head injury (out for season)
+9	2019-09-15	 Stars	 	 • Stephen Johns (b. 1992-04-18)	 head injury (out indefinitely)
+10	2019-10-01	 Stars	 	 • Stephen Johns (b. 1992-04-18)	 placed on IR with head injury
+11	2020-01-18	 Stars	 • Stephen Johns (b. 1992-04-18)	 	 activated from IR
+12	2020-02-25	 Stars	 	 • Stephen Johns (b. 1992-04-18)	 upper body injury (DTD)
+13	2020-03-03	 Stars	 • Stephen Johns (b. 1992-04-18)	 	 returned to lineup
+14	2020-08-13	 Stars	 	 • Stephen Johns (b. 1992-04-18)	 undisclosed (DTD)

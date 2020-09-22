@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-12-27	 Panthers	 	 • Reilly Smith	 placed on IR with concussion
+1	2016-12-29	 Panthers	 	 • Reilly Smith	 placed on IR with concussion
+2	2016-12-31	 Panthers	 • Reilly Smith	 	 activated from IR
+3	2018-03-08	 Golden Knights	 	 • Reilly Smith	 upper body injury (DTD)
+4	2018-04-07	 Golden Knights	 • Reilly Smith	 	 returned to lineup
+5	2019-01-08	 Golden Knights	 	 • Reilly Smith	 placed on IR with undisclosed injury
+6	2019-02-01	 Golden Knights	 • Reilly Smith	 	 activated from IR

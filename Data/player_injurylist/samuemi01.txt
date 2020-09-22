@@ -1,0 +1,48 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-03-06	 Penguins	 	 • Mikael Samuelsson	 sprained knee ligament (DTD)
+1	2003-03-16	 Penguins	 • Mikael Samuelsson	 	 returned to lineup
+2	2003-11-21	 Panthers	 	 • Mikael Samuelsson	 jaw injury (out indefinitely)
+3	2004-01-21	 Panthers	 	 • Mikael Samuelsson	 hand injury (out indefinitely)
+4	2005-12-23	 Red Wings	 	 • Mikael Samuelsson	 leg injury (DTD)
+5	2005-12-27	 Red Wings	 • Mikael Samuelsson	 	 returned to lineup
+6	2006-03-04	 Red Wings	 	 • Mikael Samuelsson	 wrist injury (DTD)
+7	2006-03-23	 Red Wings	 • Mikael Samuelsson	 	 returned to lineup
+8	2006-10-19	 Red Wings	 	 • Mikael Samuelsson	 shoulder injury (DTD)
+9	2006-11-01	 Red Wings	 • Mikael Samuelsson	 	 returned to lineup
+10	2006-12-18	 Red Wings	 	 • Mikael Samuelsson	 groin injury (DTD)
+11	2006-12-31	 Red Wings	 • Mikael Samuelsson	 	 returned to lineup
+12	2007-01-25	 Red Wings	 	 • Mikael Samuelsson	 broken right foot (out indefinitely)
+13	2007-03-09	 Red Wings	 • Mikael Samuelsson	 	 returned to lineup
+14	2007-10-14	 Red Wings	 	 • Mikael Samuelsson	 groin injury (DTD)
+15	2007-10-20	 Red Wings	 • Mikael Samuelsson	 	 returned to lineup
+16	2008-03-30	 Red Wings	 	 • Mikael Samuelsson	 strained groin (out indefinitely)
+17	2008-04-10	 Red Wings	 • Mikael Samuelsson	 	 returned to lineup
+18	2008-12-30	 Red Wings	 	 • Mikael Samuelsson	 illness (DTD)
+19	2009-01-01	 Red Wings	 • Mikael Samuelsson	 	 returned to lineup
+20	2010-03-17	 Canucks	 	 • Mikael Samuelsson	 upper body injury (DTD)
+21	2010-04-05	 Canucks	 • Mikael Samuelsson	 	 returned to lineup
+22	2010-12-06	 Canucks	 	 • Mikael Samuelsson	 concussion (DTD)
+23	2010-12-11	 Canucks	 • Mikael Samuelsson	 	 returned to lineup
+24	2011-03-22	 Canucks	 	 • Mikael Samuelsson	 lower body injury (DTD)
+25	2011-04-05	 Canucks	 • Mikael Samuelsson	 	 returned to lineup
+26	2011-04-15	 Canucks	 	 • Mikael Samuelsson	 illness (DTD)
+27	2011-04-17	 Canucks	 • Mikael Samuelsson	 	 returned to lineup
+28	2011-05-08	 Canucks	 	 • Mikael Samuelsson	 left leg injury (out for season)
+29	2011-10-20	 Canucks	 	 • Mikael Samuelsson	 groin injury (DTD)
+30	2011-11-03	 Panthers	 	 • Mikael Samuelsson	 placed on IR with groin injury
+31	2011-12-08	 Panthers	 • Mikael Samuelsson	 	 activated from IR
+32	2011-12-21	 Panthers	 	 • Mikael Samuelsson	 upper body injury (DTD)
+33	2011-12-30	 Panthers	 	 • Mikael Samuelsson	 placed on IR with back injury
+34	2012-01-05	 Panthers	 • Mikael Samuelsson	 	 activated from IR
+35	2012-03-29	 Panthers	 	 • Mikael Samuelsson	 lower body injury (DTD)
+36	2012-03-30	 Panthers	 • Mikael Samuelsson	 	 returned to lineup
+37	2013-01-22	 Red Wings	 	 • Mikael Samuelsson	 groin injury (DTD)
+38	2013-01-25	 Red Wings	 	 • Mikael Samuelsson	 placed on IR with groin injury
+39	2013-02-17	 Red Wings	 • Mikael Samuelsson	 	 activated from IR
+40	2013-02-20	 Red Wings	 	 • Mikael Samuelsson	 placed on IR with fractured finger
+41	2013-03-31	 Red Wings	 • Mikael Samuelsson	 	 activated from IR
+42	2013-03-31	 Red Wings	 	 • Mikael Samuelsson	 upper body injury (left game)
+43	2013-04-01	 Red Wings	 	 • Mikael Samuelsson	 pectoral injury (out indefinitely)
+44	2013-05-04	 Red Wings	 • Mikael Samuelsson	 	 returned to lineup
+45	2013-05-15	 Red Wings	 	 • Mikael Samuelsson	 pectoral injury (out for season)
+46	2014-02-24	 Red Wings	 	 • Mikael Samuelsson	 placed on IR with undisclosed injury (out for season)

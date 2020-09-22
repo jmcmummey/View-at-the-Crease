@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-05	 Thrashers	 	 • Mark Popovic	 sprained ankle (DTD)
+1	2008-01-06	 Thrashers	 • Mark Popovic	 	 returned to lineup
+2	2009-12-09	 Thrashers	 	 • Mark Popovic	 foot injury (DTD)
+3	2010-02-02	 Thrashers	 • Mark Popovic	 	 returned to lineup
+4	2010-02-12	 Thrashers	 	 • Mark Popovic	 upper body injury (DTD)
+5	2010-03-07	 Thrashers	 • Mark Popovic	 	 returned to lineup

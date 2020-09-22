@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-12-30	 Sharks	 	 • Sandis Ozolinsh	 knee injury (out indefinitely)
+1	2001-01-19	 Hurricanes	 • Sandis Ozolinsh	 	 activated from IR
+2	2001-10-23	 Hurricanes	 	 • Sandis Ozolinsh	 placed on IR with sprained knee
+3	2003-12-19	 Mighty Ducks	 	 • Sandis Ozolinsh	 shoulder injury (out indefinitely)
+4	2005-10-14	 Mighty Ducks	 	 • Sandis Ozolinsh	 flu (DTD)
+5	2005-10-19	 Mighty Ducks	 • Sandis Ozolinsh	 	 returned to lineup
+6	2005-10-26	 Mighty Ducks	 	 • Sandis Ozolinsh	 fractured ribs (out indefinitely)
+7	2005-10-29	 Mighty Ducks	 	 • Sandis Ozolinsh	 placed on IR with fractured rib
+8	2005-11-16	 Mighty Ducks	 • Sandis Ozolinsh	 	 activated from IR
+9	2005-11-28	 Mighty Ducks	 	 • Sandis Ozolinsh	 knee injury (DTD)
+10	2005-12-01	 Mighty Ducks	 	 • Sandis Ozolinsh	 placed on IR with knee injury
+11	2006-03-01	 Mighty Ducks	 • Sandis Ozolinsh	 	 returned to lineup
+12	2006-10-03	 Rangers	 	 • Sandis Ozolinsh	 surgery on left knee (out indefinitely)
+13	2006-10-03	 Rangers	 	 • Sandis Ozolinsh	 surgery on knee (out indefinitely)
+14	2006-10-21	 Rangers	 • Sandis Ozolinsh	 	 returned to lineup
+15	2006-12-28	 Rangers	 	 • Sandis Ozolinsh	 placed on IR with knee injury

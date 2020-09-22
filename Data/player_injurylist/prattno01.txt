@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-12-30	 Lightning	 	 • Nolan Pratt	 placed on IR with fractured right leg
+1	2007-11-05	 Sabres	 	 • Nolan Pratt	 groin injury (DTD)
+2	2007-11-15	 Sabres	 • Nolan Pratt	 	 returned to lineup
+3	2008-04-04	 Sabres	 	 • Nolan Pratt	 groin injury (DTD)

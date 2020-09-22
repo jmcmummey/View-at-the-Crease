@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-11-02	 Senators	 	 • Logan Brown	 placed on IR with upper body injury
+1	2019-11-03	 Senators	 	 • Logan Brown	 upper body injury (out indefinitely)
+2	2019-11-04	 Senators	 	 • Logan Brown	 placed on IR with upper body injury
+3	2019-11-15	 Senators	 • Logan Brown	 	 activated from IR

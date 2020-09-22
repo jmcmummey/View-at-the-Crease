@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-09-24	 Canadiens	 	 • Benoit Brunet	 torn ligaments in left knee (out indefinitely)
+1	1991-12-04	 Canadiens	 	 • Benoit Brunet	 fractured ankle
+2	1992-11-21	 Canadiens	 	 • Benoit Brunet	 sprained left knee (out indefinitely)
+3	1993-01-22	 Canadiens	 	 • Benoit Brunet	 fractured thunb (out indefinitely)
+4	1993-11-17	 Canadiens	 	 • Benoit Brunet	 bruised left knee (DTD)
+5	1994-02-02	 Canadiens	 	 • Benoit Brunet	 concussion (DTD)
+6	1994-04-08	 Canadiens	 	 • Benoit Brunet	 sore throat (DTD)
+7	1995-03-18	 Canadiens	 	 • Benoit Brunet	 pulled hamstring (DTD)
+8	1995-05-03	 Canadiens	 	 • Benoit Brunet	 bruised right knee (DTD)
+9	1995-11-11	 Canadiens	 	 • Benoit Brunet	 sprained wrist (DTD)
+10	1995-11-25	 Canadiens	 	 • Benoit Brunet	 sprained wrist (out indefinitely)
+11	1996-01-11	 Canadiens	 	 • Benoit Brunet	 sprained back (out indefinitely)
+12	2000-12-16	 Canadiens	 	 • Benoit Brunet	 knee injury (out indefinitely)

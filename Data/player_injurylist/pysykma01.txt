@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-21	 Sabres	 	 • Mark Pysyk	 body soreness (DTD)
+1	2014-01-24	 Sabres	 • Mark Pysyk	 	 returned to lineup
+2	2014-10-06	 Sabres	 	 • Mark Pysyk	 placed on IR with upper body injury
+3	2014-10-16	 Sabres	 • Mark Pysyk	 	 activated from IR
+4	2015-11-19	 Sabres	 	 • Mark Pysyk	 lower body injury (DTD)
+5	2015-11-25	 Sabres	 	 • Mark Pysyk	 placed on IR with lower body injury
+6	2016-01-08	 Sabres	 • Mark Pysyk	 	 activated from IR
+7	2018-10-20	 Panthers	 	 • Mark Pysyk	 upper body injury (DTD)
+8	2018-11-09	 Panthers	 • Mark Pysyk	 	 returned to lineup

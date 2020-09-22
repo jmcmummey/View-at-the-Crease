@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-02-05	 Lightning	 	 • Andrej Meszaros	 left arm injury (DTD)
+1	2010-10-31	 Flyers	 	 • Andrej Meszaros	 head injury (DTD)
+2	2010-11-04	 Flyers	 • Andrej Meszaros	 	 returned to lineup
+3	2012-02-16	 Flyers	 	 • Andrej Meszaros	 upper body injury (DTD)
+4	2012-02-18	 Flyers	 • Andrej Meszaros	 	 returned to lineup
+5	2012-03-04	 Flyers	 	 • Andrej Meszaros	 lower body injury (out for season)
+6	2012-03-29	 Flyers	 	 • Andrej Meszaros	 placed on IR with lower body injury (out for season)
+7	2013-01-24	 Flyers	 	 • Andrej Meszaros	 placed on IR with sprained left shoulder
+8	2013-03-09	 Flyers	 • Andrej Meszaros	 	 activated from IR
+9	2013-03-27	 Flyers	 	 • Andrej Meszaros	 placed on IR with left shoulder injury (out for season)
+10	2014-11-29	 Sabres	 	 • Andrej Meszaros	 head injury (DTD)
+11	2014-12-13	 Sabres	 • Andrej Meszaros	 	 returned to lineup
+12	2015-03-09	 Sabres	 	 • Andrej Meszaros	 head injury (DTD)
+13	2015-03-16	 Sabres	 	 • Andrej Meszaros	 hand injury (DTD)
+14	2015-03-20	 Sabres	 • Andrej Meszaros	 	 returned to lineup

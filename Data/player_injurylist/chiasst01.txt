@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-11-29	 Red Wings	 	 • Steve Chiasson	 knee injury (DTD)
+1	1991-01-02	 Red Wings	 	 • Steve Chiasson	 broken right ankle
+2	1991-02-19	 Red Wings	 	 • Steve Chiasson	 reinjured right ankle (out indefinitely)
+3	1991-03-09	 Red Wings	 	 • Steve Chiasson	 reinjured right ankle
+4	1991-10-22	 Red Wings	 	 • Steve Chiasson	 ankle injury (out indefinitely)
+5	1992-10-25	 Red Wings	 	 • Steve Chiasson	 bruised thigh (DTD)
+6	1993-01-21	 Red Wings	 	 • Steve Chiasson	 pulled hamstring (DTD)
+7	1994-04-02	 Red Wings	 	 • Steve Chiasson	 unspecified injury (DTD)
+8	1995-02-23	 Flames	 	 • Steve Chiasson	 bruised left foot (DTD)
+9	1995-11-11	 Flames	 	 • Steve Chiasson	 wrist injury (DTD)
+10	1995-12-01	 Flames	 	 • Steve Chiasson	 bruised knee (DTD)
+11	1995-12-20	 Flames	 	 • Steve Chiasson	 bruised hip (DTD)
+12	1996-02-08	 Flames	 	 • Steve Chiasson	 concussion (DTD)

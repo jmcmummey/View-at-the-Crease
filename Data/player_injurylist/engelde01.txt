@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-03	 Penguins	 	 • Deryk Engelland	 lower body injury (DTD)
+1	2011-12-10	 Penguins	 • Deryk Engelland	 	 returned to lineup
+2	2012-03-05	 Penguins	 	 • Deryk Engelland	 lower body injury (DTD)
+3	2012-03-11	 Penguins	 • Deryk Engelland	 	 returned to lineup
+4	2014-10-15	 Flames	 	 • Deryk Engelland	 lower body injury (DTD)
+5	2014-10-21	 Flames	 • Deryk Engelland	 	 returned to lineup
+6	2014-11-26	 Flames	 	 • Deryk Engelland	 illness (DTD)
+7	2014-11-29	 Flames	 • Deryk Engelland	 	 returned to lineup
+8	2016-03-09	 Flames	 	 • Deryk Engelland	 lower body injury (DTD)
+9	2016-03-11	 Flames	 • Deryk Engelland	 	 returned to lineup
+10	2016-04-08	 Flames	 	 • Deryk Engelland	 undisclosed injury (out for season)
+11	2017-12-01	 Golden Knights	 	 • Deryk Engelland	 upper body injury (DTD)
+12	2017-12-03	 Golden Knights	 • Deryk Engelland	 	 returned to lineup
+13	2018-03-24	 Golden Knights	 	 • Deryk Engelland	 undisclosed (DTD)
+14	2018-03-27	 Golden Knights	 • Deryk Engelland	 	 returned to lineup
+15	2018-10-16	 Golden Knights	 	 • Deryk Engelland	 arm injury (DTD)
+16	2018-10-24	 Golden Knights	 	 • Deryk Engelland	 placed on IR with arm injury
+17	2018-10-26	 Golden Knights	 • Deryk Engelland	 	 activated from IR

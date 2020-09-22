@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-03-11	 Canadiens	 	 • P.K. Subban	 neck injury (out for season)
+1	2016-12-17	 Predators	 	 • P.K. Subban	 upper body injury (DTD)
+2	2017-01-01	 Predators	 	 • P.K. Subban	 placed on IR with upper body injury
+3	2017-01-20	 Predators	 • P.K. Subban	 	 activated from IR
+4	2018-11-15	 Predators	 	 • P.K. Subban	 placed on IR with upper body injury
+5	2018-12-27	 Predators	 • P.K. Subban	 	 activated from IR
+6	2020-02-04	 Devils	 	 • P.K. Subban	 illness (DTD)
+7	2020-02-06	 Devils	 • P.K. Subban	 	 returned to lineup

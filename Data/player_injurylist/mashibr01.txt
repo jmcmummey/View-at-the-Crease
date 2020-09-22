@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-06	 Blackhawks	 	 • Brandon Mashinter	 placed on IR with lower body injury
+1	2014-10-13	 Blackhawks	 • Brandon Mashinter	 	 activated from IR

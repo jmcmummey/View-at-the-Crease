@@ -1,0 +1,46 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-09	 Rangers	 	 • Brandon Dubinsky	 broken right hand (out indefinitely)
+1	2009-12-14	 Rangers	 • Brandon Dubinsky	 	 returned to lineup
+2	2011-01-19	 Rangers	 	 • Brandon Dubinsky	 placed on IR with fractured left leg
+3	2011-02-01	 Rangers	 • Brandon Dubinsky	 	 activated from IR
+4	2011-11-21	 Rangers	 	 • Brandon Dubinsky	 flu (DTD)
+5	2012-01-12	 Rangers	 	 • Brandon Dubinsky	 shoulder injury (DTD)
+6	2012-01-17	 Rangers	 • Brandon Dubinsky	 	 returned to lineup
+7	2012-03-07	 Rangers	 	 • Brandon Dubinsky	 sinus ailment (DTD)
+8	2012-03-11	 Rangers	 • Brandon Dubinsky	 	 returned to lineup
+9	2012-04-28	 Rangers	 	 • Brandon Dubinsky	 leg injury (DTD)
+10	2012-05-23	 Rangers	 • Brandon Dubinsky	 	 returned to lineup
+11	2013-02-16	 Blue Jackets	 	 • Brandon Dubinsky	 left knee injury (DTD)
+12	2013-02-20	 Blue Jackets	 	 • Brandon Dubinsky	 placed on IR with left knee injury
+13	2013-03-12	 Blue Jackets	 • Brandon Dubinsky	 	 activated from IR
+14	2013-03-22	 Blue Jackets	 	 • Brandon Dubinsky	 lower body injury (DTD)
+15	2013-03-28	 Blue Jackets	 	 • Brandon Dubinsky	 placed on IR with lower body injury
+16	2013-04-03	 Blue Jackets	 • Brandon Dubinsky	 	 activated from IR
+17	2013-04-07	 Blue Jackets	 	 • Brandon Dubinsky	 flu (DTD)
+18	2013-04-12	 Blue Jackets	 • Brandon Dubinsky	 	 returned to lineup
+19	2013-11-20	 Blue Jackets	 	 • Brandon Dubinsky	 bruised foot (DTD)
+20	2013-11-25	 Blue Jackets	 	 • Brandon Dubinsky	 placed on IR with bruised foot
+21	2013-12-02	 Blue Jackets	 • Brandon Dubinsky	 	 activated from IR
+22	2014-10-06	 Blue Jackets	 	 • Brandon Dubinsky	 placed on IR with lower body injury
+23	2014-12-09	 Blue Jackets	 • Brandon Dubinsky	 	 activated from IR
+24	2015-02-27	 Blue Jackets	 	 • Brandon Dubinsky	 concussion (DTD)
+25	2015-03-05	 Blue Jackets	 • Brandon Dubinsky	 	 returned to lineup
+26	2015-03-12	 Blue Jackets	 	 • Brandon Dubinsky	 illness (DTD)
+27	2015-03-15	 Blue Jackets	 • Brandon Dubinsky	 	 returned to lineup
+28	2015-03-18	 Blue Jackets	 	 • Brandon Dubinsky	 upper body injury (DTD)
+29	2015-03-27	 Blue Jackets	 • Brandon Dubinsky	 	 returned to lineup
+30	2015-11-13	 Blue Jackets	 	 • Brandon Dubinsky	 upper body injury (DTD)
+31	2015-11-17	 Blue Jackets	 	 • Brandon Dubinsky	 placed on IR with upper body injury
+32	2015-11-24	 Blue Jackets	 • Brandon Dubinsky	 	 activated from IR
+33	2016-11-09	 Blue Jackets	 	 • Brandon Dubinsky	 undisclosed (DTD)
+34	2016-11-12	 Blue Jackets	 • Brandon Dubinsky	 	 returned to lineup
+35	2017-12-13	 Blue Jackets	 	 • Brandon Dubinsky	 placed on IR with fractured orbital bone
+36	2018-01-30	 Blue Jackets	 • Brandon Dubinsky	 	 activated from IR
+37	2018-10-08	 Blue Jackets	 	 • Brandon Dubinsky	 placed on IR with strained oblique muscle
+38	2018-11-03	 Blue Jackets	 • Brandon Dubinsky	 	 activated from IR
+39	2019-01-08	 Blue Jackets	 	 • Brandon Dubinsky	 placed on IR with lower body injury
+40	2019-01-17	 Blue Jackets	 • Brandon Dubinsky	 	 activated from IR
+41	2019-02-05	 Blue Jackets	 	 • Brandon Dubinsky	 lower body injury (DTD)
+42	2019-02-15	 Blue Jackets	 	 • Brandon Dubinsky	 placed on IR with hip injury
+43	2019-02-19	 Blue Jackets	 • Brandon Dubinsky	 	 activated from IR
+44	2019-10-01	 Blue Jackets	 	 • Brandon Dubinsky	 placed on IR with wrist injury (out for season)

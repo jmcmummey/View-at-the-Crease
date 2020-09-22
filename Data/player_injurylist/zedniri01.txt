@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-06	 Canadiens	 	 • Richard Zednik	 groin injury (DTD)
+1	2005-10-27	 Canadiens	 • Richard Zednik	 	 returned to lineup
+2	2005-12-20	 Canadiens	 	 • Richard Zednik	 flu (DTD)
+3	2005-12-23	 Canadiens	 • Richard Zednik	 	 returned to lineup
+4	2006-01-16	 Canadiens	 	 • Richard Zednik	 thumb injury (DTD)
+5	2006-01-19	 Canadiens	 • Richard Zednik	 	 returned to lineup
+6	2006-02-09	 Canadiens	 	 • Richard Zednik	 flu (DTD)
+7	2006-02-11	 Canadiens	 • Richard Zednik	 	 returned to lineup
+8	2006-11-04	 Capitals	 	 • Richard Zednik	 wrist injury (DTD)
+9	2006-11-17	 Capitals	 • Richard Zednik	 	 returned to lineup
+10	2006-11-26	 Capitals	 	 • Richard Zednik	 undisclosed injury (DTD)
+11	2006-12-03	 Capitals	 	 • Richard Zednik	 groin injury (DTD)
+12	2006-12-16	 Capitals	 	 • Richard Zednik	 surgery on groin (out indefinitely)
+13	2007-02-01	 Capitals	 • Richard Zednik	 	 returned to lineup
+14	2007-10-03	 Panthers	 	 • Richard Zednik	 shoulder injury (DTD)
+15	2007-10-10	 Panthers	 • Richard Zednik	 	 returned to lineup
+16	2007-11-12	 Panthers	 	 • Richard Zednik	 flu (DTD)
+17	2007-11-15	 Panthers	 • Richard Zednik	 	 returned to lineup
+18	2008-02-10	 Panthers	 	 • Richard Zednik	 lacerated neck (left game)
+19	2008-11-24	 Panthers	 	 • Richard Zednik	 left arm injury (DTD)
+20	2008-12-18	 Panthers	 • Richard Zednik	 	 returned to lineup

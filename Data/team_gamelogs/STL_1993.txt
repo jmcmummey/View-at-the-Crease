@@ -1,0 +1,85 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1992-10-06		Minnesota North Stars	6	4	W			30	10	1		0		46	10	1		0
+1	1992-10-08	@	Minnesota North Stars	2	5	L			33	12	1		0		37	30	1		2
+2	1992-10-10		Chicago Blackhawks	0	3	L			25	14	0		0		28	16	0		0
+3	1992-10-13		Tampa Bay Lightning	1	2	L			36	6	0		0		21	10	0		0
+4	1992-10-15		Minnesota North Stars	4	5	L			31	31	3		0		35	55	3		0
+5	1992-10-17	@	Quebec Nordiques	6	5	W			32	16	1		1		30	12	1		0
+6	1992-10-19	@	Montreal Canadiens	2	6	L			27	21	0		0		33	17	0		0
+7	1992-10-21		Quebec Nordiques	5	5	T	OT		28	32	4		0		41	28	4		0
+8	1992-10-24		Detroit Red Wings	1	6	L			26	19	0		0		32	17	2		1
+9	1992-10-26		San Jose Sharks	4	1	W			28	21	1		1		24	35	0		0
+10	1992-10-29		Pittsburgh Penguins	6	4	W			35	8	2		0		31	44	1		0
+11	1992-10-31		Philadelphia Flyers	6	4	W			31	12	2		1		39	31	1		0
+12	1992-11-03	@	Tampa Bay Lightning	4	6	L			30	4	0		0		42	2	2		0
+13	1992-11-05	@	Pittsburgh Penguins	4	8	L			36	10	3		0		33	12	3		1
+14	1992-11-07	@	Philadelphia Flyers	2	4	L			27	21	1		0		31	29	1		0
+15	1992-11-10		Edmonton Oilers	4	4	T	OT		31	14	2		0		20	32	1		1
+16	1992-11-12	@	Chicago Blackhawks	0	1	L			16	15	0		0		23	11	0		0
+17	1992-11-14		Winnipeg Jets	4	2	W			37	12	1		0		31	18	1		0
+18	1992-11-16	@	Toronto Maple Leafs	2	2	T	OT		19	12	1		0		23	10	0		0
+19	1992-11-18	@	Hartford Whalers	2	5	L			30	8	0		0		27	12	0		0
+20	1992-11-21		Tampa Bay Lightning	4	2	W			42	19	2		0		25	15	1		0
+21	1992-11-25	@	Detroit Red Wings	6	11	L			23	40	3		0		36	41	3		0
+22	1992-11-26		Vancouver Canucks	7	5	W			28	33	2		0		31	19	1		0
+23	1992-11-28		Detroit Red Wings	2	2	T	OT		30	25	0		1		38	12	1		0
+24	1992-12-01		Hartford Whalers	8	4	W			32	24	4		0		26	28	2		1
+25	1992-12-04	@	Calgary Flames	3	5	L			22	12	1		1		31	14	1		1
+26	1992-12-05	@	Edmonton Oilers	5	1	W			26	17	3		0		29	17	1		0
+27	1992-12-07	@	Vancouver Canucks	3	4	L			22	8	0		0		32	4	0		0
+28	1992-12-10	@	San Jose Sharks	3	2	W			30	6	1		0		23	8	0		0
+29	1992-12-12	@	Los Angeles Kings	3	6	L			47	8	0		0		32	14	0		1
+30	1992-12-15	vs.	New York Islanders	3	4	L	OT		33	18	0		1		38	14	1		0
+31	1992-12-17		New York Rangers	3	4	L			30	8	2		0		36	32	0		1
+32	1992-12-19		Winnipeg Jets	0	1	L			32	17	0		0		33	23	0		0
+33	1992-12-22	@	Minnesota North Stars	2	2	T	OT		29	37	0		0		40	16	1		0
+34	1992-12-26	@	Chicago Blackhawks	3	2	W	OT		27	69	1		0		42	55	0		0
+35	1992-12-27		Toronto Maple Leafs	3	6	L			40	36	1		0		28	22	1		0
+36	1992-12-31		New York Islanders	5	1	W			31	55	2		1		41	52	1		0
+37	1993-01-02	@	Toronto Maple Leafs	2	2	T	OT		31	23	1		0		37	17	1		0
+38	1993-01-03	@	Buffalo Sabres	5	6	L	OT		30	16	1		1		33	12	1		0
+39	1993-01-05		Edmonton Oilers	6	1	W			36	17	2		0		25	25	0		1
+40	1993-01-07		Calgary Flames	3	2	W	OT		40	20	1		0		25	18	2		0
+41	1993-01-09		Chicago Blackhawks	4	1	W			27	110	1		0		24	120	0		0
+42	1993-01-11	@	Detroit Red Wings	1	0	W			15	22	0		0		31	8	0		0
+43	1993-01-13	@	Toronto Maple Leafs	3	4	L			29	41	1		0		29	27	2		1
+44	1993-01-14	@	Ottawa Senators	4	1	W			28	6	2		1		38	8	0		0
+45	1993-01-16	@	Tampa Bay Lightning	5	3	W			23	14	1		0		42	28	1		0
+46	1993-01-19		Toronto Maple Leafs	1	5	L			16	16	1		0		33	12	0		0
+47	1993-01-21	@	Detroit Red Wings	3	5	L			32	29	0		0		39	31	1		0
+48	1993-01-23		Detroit Red Wings	4	3	W			21	60	1		0		42	58	2		0
+49	1993-01-26		Ottawa Senators	5	1	W			31	12	2		0		22	14	0		0
+50	1993-01-28	@	Tampa Bay Lightning	4	2	W			32	13	1		0		41	17	1		0
+51	1993-01-30		New Jersey Devils	2	2	T	OT		31	12	0		0		36	14	1		0
+52	1993-02-01		Toronto Maple Leafs	1	1	T	OT		30	9	1		0		36	11	0		0
+53	1993-02-03	@	Winnipeg Jets	4	2	W			32	14	1		0		32	10	0		0
+54	1993-02-08	vs.	Hartford Whalers	3	1	W			33	13	1		0		32	15	0		0
+55	1993-02-09		Boston Bruins	1	6	L			17	21	0		0		32	19	1		0
+56	1993-02-11		Washington Capitals	6	10	L			33	43	3		0		48	41	2		1
+57	1993-02-13		Detroit Red Wings	4	3	W			36	42	2		0		34	14	3		0
+58	1993-02-15	@	New York Rangers	1	4	L			35	21	1		0		41	40	0		0
+59	1993-02-17	@	New Jersey Devils	3	4	L			32	24	3		0		37	26	0		0
+60	1993-02-18	@	New York Islanders	4	2	W			22	10	0		0		34	10	1		0
+61	1993-02-21	@	Washington Capitals	2	5	L			22	81	1		0		35	58	3		1
+62	1993-02-23		Montreal Canadiens	1	5	L			32	17	1		0		30	17	0		0
+63	1993-02-25		Los Angeles Kings	3	0	W			24	12	0		0		31	12	0		0
+64	1993-02-27		Minnesota North Stars	3	2	W			37	12	1		0		34	12	0		1
+65	1993-02-28	@	Chicago Blackhawks	7	1	W			26	12	3		1		33	24	1		0
+66	1993-03-04		Calgary Flames	2	1	W			25	32	0		1		26	18	0		0
+67	1993-03-06	@	Boston Bruins	3	4	L	OT		33	35	0		0		43	17	1		0
+68	1993-03-11		San Jose Sharks	5	2	W			34	25	1		1		30	21	0		0
+69	1993-03-13		Minnesota North Stars	6	2	W			21	27	2		1		43	31	1		0
+70	1993-03-14	@	Minnesota North Stars	3	1	W			26	27	0		0		41	34	0		0
+71	1993-03-16		Buffalo Sabres	2	2	T	OT		30	19	1		0		38	19	0		0
+72	1993-03-20	@	Los Angeles Kings	2	3	L			29	31	0		1		41	33	0		0
+73	1993-03-22	@	Vancouver Canucks	3	1	W			15	29	2		0		37	27	0		0
+74	1993-03-24	@	Calgary Flames	4	2	W			21	10	0		0		42	12	0		1
+75	1993-03-26	@	Winnipeg Jets	2	4	L			22	12	1		0		28	12	0		0
+76	1993-03-30		Vancouver Canucks	3	6	L			31	11	3		0		27	29	0		0
+77	1993-04-03		Chicago Blackhawks	3	3	T	OT		28	15	1		0		39	21	3		0
+78	1993-04-04	@	Chicago Blackhawks	4	5	L			31	28	2		0		40	10	3		0
+79	1993-04-06	@	Tampa Bay Lightning	2	2	T	OT		32	8	0		0		42	26	0		0
+80	1993-04-10	@	Minnesota North Stars	3	4	L			30	20	0		0		43	18	2		0
+81	1993-04-11		Minnesota North Stars	5	1	W			42	46	2		0		47	45	1		0
+82	1993-04-13	@	Toronto Maple Leafs	1	2	L	OT		18	6	0		0		28	8	0		0
+83	1993-04-15		Tampa Bay Lightning	6	5	W			26	16	0		0		31	14	0		0

@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-16	 Lightning	 	 • Matt Gilroy	 lower body injury (DTD)
+1	2011-12-21	 Lightning	 	 • Matt Gilroy	 placed on IR with lower body injury
+2	2011-12-27	 Lightning	 	 • Matt Gilroy	 lower body injury (DTD) (Y)
+3	2011-12-29	 Lightning	 • Matt Gilroy	 	 returned to lineup
+4	2012-02-12	 Lightning	 	 • Matt Gilroy	 upper body injury (DTD)
+5	2012-02-16	 Lightning	 • Matt Gilroy	 	 returned to lineup
+6	2013-02-28	 Rangers	 	 • Matt Gilroy	 illness/flu (DTD)
+7	2013-03-10	 Rangers	 • Matt Gilroy	 	 returned to lineup
+8	2013-11-23	 Panthers	 	 • Matt Gilroy	 placed on IR with lower body injury
+9	2013-12-07	 Panthers	 • Matt Gilroy	 	 activated from IR

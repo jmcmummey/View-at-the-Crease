@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-01-21	 Sabres	 	 • Sam Reinhart	 upper body injury (DTD)
+1	2016-01-25	 Sabres	 	 • Sam Reinhart	 placed on IR with upper body injury
+2	2016-02-03	 Sabres	 • Sam Reinhart	 	 activated from IR
+3	2017-02-18	 Sabres	 	 • Sam Reinhart	 flu (DTD)
+4	2017-02-25	 Sabres	 • Sam Reinhart	 	 returned to lineup

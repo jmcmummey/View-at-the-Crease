@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-02	 Red Wings	 	 • Evgeny Svechnikov	 placed on IR with neck injury
+1	2017-10-19	 Red Wings	 • Evgeny Svechnikov	 	 activated from IR
+2	2018-10-01	 Red Wings	 	 • Evgeny Svechnikov	 placed on injured/non-roster list recovering from surgery on right knee (out for season)

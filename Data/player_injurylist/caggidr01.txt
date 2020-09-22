@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-11	 Oilers	 	 • Drake Caggiula	 placed on injured/non-roster list with undisclosed injury
+1	2016-11-19	 Oilers	 • Drake Caggiula	 	 returned to lineup
+2	2017-10-08	 Oilers	 	 • Drake Caggiula	 placed on IR with undisclosed injury
+3	2017-10-09	 Oilers	 	 • Drake Caggiula	 undisclosed (DTD)
+4	2017-10-15	 Oilers	 	 • Drake Caggiula	 placed on IR with undisclosed
+5	2017-10-24	 Oilers	 • Drake Caggiula	 	 activated from IR
+6	2017-11-09	 Oilers	 	 • Drake Caggiula	 foot injury (DTD)
+7	2017-11-14	 Oilers	 • Drake Caggiula	 	 returned to lineup
+8	2018-02-10	 Oilers	 	 • Drake Caggiula	 mouth (DTD)
+9	2018-02-12	 Oilers	 • Drake Caggiula	 	 returned to lineup
+10	2018-02-22	 Oilers	 	 • Drake Caggiula	 illness (DTD)
+11	2018-02-24	 Oilers	 • Drake Caggiula	 	 returned to lineup
+12	2018-10-20	 Oilers	 	 • Drake Caggiula	 lower body injury (DTD)
+13	2018-10-25	 Oilers	 • Drake Caggiula	 	 returned to lineup
+14	2018-12-05	 Oilers	 	 • Drake Caggiula	 hand injury (DTD)
+15	2018-12-06	 Oilers	 	 • Drake Caggiula	 placed on IR with hand injury
+16	2018-12-12	 Oilers	 • Drake Caggiula	 	 activated from IR
+17	2018-12-27	 Oilers	 	 • Drake Caggiula	 illness (DTD)
+18	2018-12-29	 Oilers	 • Drake Caggiula	 	 returned to lineup
+19	2019-02-28	 Blackhawks	 	 • Drake Caggiula	 concussion (DTD)
+20	2019-03-30	 Blackhawks	 • Drake Caggiula	 	 returned to lineup
+21	2019-11-13	 Blackhawks	 	 • Drake Caggiula	 concussion (out indefinitely)
+22	2019-11-23	 Blackhawks	 	 • Drake Caggiula	 placed on IR with concussion
+23	2020-01-09	 Blackhawks	 • Drake Caggiula	 	 activated from IR
+24	2020-03-11	 Blackhawks	 	 • Drake Caggiula	 hand injury (DTD)

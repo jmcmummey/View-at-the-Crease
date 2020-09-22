@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-05	 Flames	 	 • Ronald Petrovicky	 wrist injury (out indefinitely)
+1	2006-01-05	 Thrashers	 	 • Ronald Petrovicky	 oblique injury (DTD)
+2	2006-01-18	 Thrashers	 • Ronald Petrovicky	 	 returned to lineup
+3	2006-10-03	 Penguins	 	 • Ronald Petrovicky	 surgery on hip (out indefinitely)
+4	2006-11-10	 Penguins	 • Ronald Petrovicky	 	 returned to lineup

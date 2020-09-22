@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-03	 Kings	 	 • Jason LaBarbera	 rib injury (DTD)
+1	2007-12-15	 Kings	 	 • Jason LaBarbera	 placed on IR with rib injury
+2	2007-12-17	 Kings	 • Jason LaBarbera	 	 activated from IR
+3	2008-02-21	 Kings	 	 • Jason LaBarbera	 groin injury (DTD)
+4	2008-03-05	 Kings	 	 • Jason LaBarbera	 surgery to repair sports hernia (out for season)
+5	2014-11-30	 Ducks	 	 • Jason LaBarbera	 placed on IR with fractured hand (date 11-30 per Y, 12-01 per CBC)
+6	2014-12-11	 Ducks	 • Jason LaBarbera	 	 activated from IR

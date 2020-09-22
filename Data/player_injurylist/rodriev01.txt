@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-03	 Sabres	 	 • Evan Rodrigues	 placed on IR with hand injury
+1	2017-11-18	 Sabres	 • Evan Rodrigues	 	 activated from IR
+2	2018-03-02	 Sabres	 	 • Evan Rodrigues	 rib injury (DTD)
+3	2018-03-15	 Sabres	 • Evan Rodrigues	 	 returned to lineup
+4	2019-03-28	 Sabres	 	 • Evan Rodrigues	 upper body injury (DTD)
+5	2019-03-31	 Sabres	 • Evan Rodrigues	 	 returned to lineup
+6	2019-11-25	 Sabres	 	 • Evan Rodrigues	 lower body injury (DTD)
+7	2019-12-08	 Sabres	 • Evan Rodrigues	 	 returned to lineup

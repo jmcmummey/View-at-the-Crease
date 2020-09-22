@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-04-13	 Lightning	 	 • Ondrej Palat	 upper body injury (DTD)
+1	2014-04-15	 Lightning	 • Ondrej Palat	 	 returned to lineup
+2	2014-04-18	 Lightning	 	 • Ondrej Palat	 upper body injury (DTD)
+3	2014-04-20	 Lightning	 • Ondrej Palat	 	 returned to lineup
+4	2014-12-11	 Lightning	 	 • Ondrej Palat	 lower body injury (DTD)
+5	2014-12-19	 Lightning	 • Ondrej Palat	 	 returned to lineup
+6	2015-03-12	 Lightning	 	 • Ondrej Palat	 lower body injury (DTD)
+7	2015-03-20	 Lightning	 • Ondrej Palat	 	 returned to lineup
+8	2015-11-08	 Lightning	 	 • Ondrej Palat	 lower body injury (DTD)
+9	2015-11-16	 Lightning	 	 • Ondrej Palat	 placed on IR with lower body injury
+10	2015-12-10	 Lightning	 • Ondrej Palat	 	 activated from IR
+11	2015-12-14	 Lightning	 	 • Ondrej Palat	 lower body injury (DTD)
+12	2015-12-20	 Lightning	 	 • Ondrej Palat	 placed on IR with lower body injury
+13	2016-01-02	 Lightning	 • Ondrej Palat	 	 activated from IR
+14	2016-12-15	 Lightning	 	 • Ondrej Palat	 undisclosed injury (DTD)
+15	2016-12-28	 Lightning	 • Ondrej Palat	 	 returned to lineup
+16	2017-02-04	 Lightning	 	 • Ondrej Palat	 lower body injury (DTD)
+17	2017-02-10	 Lightning	 • Ondrej Palat	 	 returned to lineup
+18	2018-01-22	 Lightning	 	 • Ondrej Palat	 lower body injury (DTD)
+19	2018-01-30	 Lightning	 	 • Ondrej Palat	 placed on IR with lower body injury
+20	2018-03-20	 Lightning	 • Ondrej Palat	 	 activated from IR
+21	2018-10-27	 Lightning	 	 • Ondrej Palat	 lower body injury (DTD)
+22	2018-11-13	 Lightning	 	 • Ondrej Palat	 placed on IR with lower body injury
+23	2018-11-29	 Lightning	 • Ondrej Palat	 	 activated from IR
+24	2019-02-10	 Lightning	 	 • Ondrej Palat	 upper body injury (DTD)
+25	2019-02-14	 Lightning	 • Ondrej Palat	 	 returned to lineup
+26	2020-01-10	 Lightning	 	 • Ondrej Palat	 lower body injury (DTD)
+27	2020-01-12	 Lightning	 • Ondrej Palat	 	 returned to lineup

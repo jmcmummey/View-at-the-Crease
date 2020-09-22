@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-24	 Canucks	 	 • Daniel Sedin	 abdominal injury (DTD)
+1	2006-11-28	 Canucks	 • Daniel Sedin	 	 returned to lineup
+2	2009-10-10	 Canucks	 	 • Daniel Sedin	 placed on IR with fractured left foot
+3	2009-11-22	 Canucks	 • Daniel Sedin	 	 activated from IR
+4	2010-04-01	 Canucks	 	 • Daniel Sedin	 back injury (DTD)
+5	2010-04-02	 Canucks	 • Daniel Sedin	 	 returned to lineup
+6	2011-12-15	 Canucks	 	 • Daniel Sedin	 back injury (DTD)
+7	2011-12-17	 Canucks	 • Daniel Sedin	 	 returned to lineup
+8	2012-03-22	 Canucks	 	 • Daniel Sedin	 head injury (DTD)
+9	2012-04-18	 Canucks	 • Daniel Sedin	 	 returned to lineup
+10	2014-03-04	 Canucks	 	 • Daniel Sedin	 strained left hamstring (out indefinitely)
+11	2014-03-05	 Canucks	 	 • Daniel Sedin	 placed on IR with strained left hamstring
+12	2014-03-23	 Canucks	 • Daniel Sedin	 	 activated from IR
+13	2018-01-14	 Canucks	 	 • Daniel Sedin	 back spasms (DTD)
+14	2018-01-20	 Canucks	 • Daniel Sedin	 	 returned to lineup

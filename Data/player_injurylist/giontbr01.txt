@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-15	 Devils	 	 • Brian Gionta	 groin injury (DTD)
+1	2007-03-04	 Devils	 • Brian Gionta	 	 returned to lineup
+2	2007-03-08	 Devils	 	 • Brian Gionta	 groin injury (DTD)
+3	2007-03-16	 Devils	 	 • Brian Gionta	 groin injury (out 2-3 weeks)
+4	2007-04-01	 Devils	 • Brian Gionta	 	 returned to lineup
+5	2007-04-05	 Devils	 	 • Brian Gionta	 leg injury (DTD)
+6	2007-04-08	 Devils	 • Brian Gionta	 	 returned to lineup
+7	2008-11-08	 Devils	 	 • Brian Gionta	 head/shoulder injury (DTD)
+8	2008-11-12	 Devils	 • Brian Gionta	 	 returned to lineup
+9	2009-11-14	 Canadiens	 	 • Brian Gionta	 broken bone in left foot (DTD)
+10	2009-12-28	 Canadiens	 • Brian Gionta	 	 returned to lineup
+11	2011-12-09	 Canadiens	 	 • Brian Gionta	 lower body injury (DTD)
+12	2011-12-10	 Canadiens	 	 • Brian Gionta	 arm injury (DTD)
+13	2011-12-13	 Canadiens	 	 • Brian Gionta	 placed on IR with lower body injury
+14	2012-01-07	 Canadiens	 • Brian Gionta	 	 activated from IR
+15	2012-01-11	 Canadiens	 	 • Brian Gionta	 surgery to repair torn right biceps (DTD)
+16	2012-01-14	 Canadiens	 	 • Brian Gionta	 placed on IR recovering from surgery to repair torn right biceps (out for season)
+17	2013-05-03	 Canadiens	 	 • Brian Gionta	 upper body injury (DTD)
+18	2013-05-05	 Canadiens	 • Brian Gionta	 	 returned to lineup
+19	2013-05-07	 Canadiens	 	 • Brian Gionta	 torn left biceps (out for season)
+20	2014-12-23	 Sabres	 	 • Brian Gionta	 upper body injury (DTD)
+21	2015-01-13	 Sabres	 	 • Brian Gionta	 placed on IR with upper body injury
+22	2015-01-27	 Sabres	 • Brian Gionta	 	 activated from IR
+23	2015-10-08	 Sabres	 	 • Brian Gionta	 lower body injury (DTD)
+24	2015-10-15	 Sabres	 • Brian Gionta	 	 returned to lineup

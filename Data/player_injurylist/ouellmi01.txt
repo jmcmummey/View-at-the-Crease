@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-28	 Penguins	 	 • Michel Ouellet	 placed on IR with back injury
+1	2005-12-06	 Penguins	 • Michel Ouellet	 	 returned to lineup
+2	2006-02-08	 Penguins	 	 • Michel Ouellet	 knee injury (DTD)
+3	2006-03-01	 Penguins	 • Michel Ouellet	 	 returned to lineup
+4	2006-11-24	 Penguins	 	 • Michel Ouellet	 hamstring injury (DTD)
+5	2006-12-07	 Penguins	 • Michel Ouellet	 	 returned to lineup
+6	2007-12-14	 Lightning	 	 • Michel Ouellet	 shoulder injury (out 4-6 weeks)
+7	2008-01-29	 Lightning	 • Michel Ouellet	 	 returned to lineup

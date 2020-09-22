@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-04-13	 Flyers	 	 • Patrick Thoresen	 groin (DTD)
+1	2008-04-15	 Flyers	 • Patrick Thoresen	 	 returned to lineup

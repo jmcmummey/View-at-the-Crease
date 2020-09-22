@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-14	 Devils	 	 • Adam Henrique	 pulled/strained groin (DTD)
+1	2012-01-19	 Devils	 • Adam Henrique	 	 returned to lineup
+2	2012-01-30	 Devils	 	 • Adam Henrique	 strained groin (DTD)
+3	2012-02-03	 Devils	 	 • Adam Henrique	 placed on IR with groin injury
+4	2012-02-05	 Devils	 • Adam Henrique	 	 activated from IR
+5	2013-01-18	 Devils	 	 • Adam Henrique	 placed on IR with torn ligament in left thumb (CBS SN)
+6	2013-01-31	 Devils	 • Adam Henrique	 	 activated from IR
+7	2014-01-22	 Devils	 	 • Adam Henrique	 sore left thumb (DTD)
+8	2014-01-31	 Devils	 • Adam Henrique	 	 returned to lineup
+9	2014-04-05	 Devils	 	 • Adam Henrique	 undisclosed injury (out for season)
+10	2014-11-06	 Devils	 	 • Adam Henrique	 lower body injury (DTD)
+11	2014-11-18	 Devils	 • Adam Henrique	 	 returned to lineup
+12	2014-11-29	 Devils	 	 • Adam Henrique	 upper body injury (DTD)
+13	2014-12-02	 Devils	 • Adam Henrique	 	 returned to lineup
+14	2015-12-09	 Devils	 	 • Adam Henrique	 lower body injury (DTD)
+15	2015-12-15	 Devils	 • Adam Henrique	 	 returned to lineup

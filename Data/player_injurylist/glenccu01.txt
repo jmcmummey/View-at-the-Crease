@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-01-08	 Blue Jackets	 	 • Curtis Glencross	 placed on IR with back injury
+1	2008-01-15	 Blue Jackets	 • Curtis Glencross	 	 activated from IR
+2	2008-12-15	 Flames	 	 • Curtis Glencross	 lower body injury (DTD)
+3	2008-12-31	 Flames	 • Curtis Glencross	 	 returned to lineup
+4	2009-04-10	 Flames	 	 • Curtis Glencross	 undisclosed injury (DTD)
+5	2009-04-16	 Flames	 • Curtis Glencross	 	 returned to lineup
+6	2010-03-18	 Flames	 	 • Curtis Glencross	 knee injury (out for season)
+7	2010-11-05	 Flames	 	 • Curtis Glencross	 undisclosed (DTD)
+8	2010-11-09	 Flames	 • Curtis Glencross	 	 returned to lineup
+9	2011-10-26	 Flames	 	 • Curtis Glencross	 lower body injury (DTD)
+10	2011-10-28	 Flames	 • Curtis Glencross	 	 returned to lineup
+11	2011-12-06	 Flames	 	 • Curtis Glencross	 flu (DTD)
+12	2011-12-08	 Flames	 • Curtis Glencross	 	 returned to lineup
+13	2012-01-18	 Flames	 	 • Curtis Glencross	 placed on IR with left knee injury
+14	2012-02-23	 Flames	 • Curtis Glencross	 	 activated from IR
+15	2013-03-09	 Flames	 	 • Curtis Glencross	 upper body injury (DTD)
+16	2013-03-13	 Flames	 • Curtis Glencross	 	 returned to lineup
+17	2013-04-06	 Flames	 	 • Curtis Glencross	 leg injury (DTD)
+18	2013-04-08	 Flames	 • Curtis Glencross	 	 returned to lineup
+19	2013-04-13	 Flames	 	 • Curtis Glencross	 flu (DTD)
+20	2013-04-15	 Flames	 • Curtis Glencross	 	 returned to lineup
+21	2013-04-20	 Flames	 	 • Curtis Glencross	 sprained MCL in left knee (out for season)
+22	2013-11-06	 Flames	 	 • Curtis Glencross	 sprained MCL in left knee (DTD)
+23	2013-11-12	 Flames	 	 • Curtis Glencross	 placed on IR with sprained MCL in left knee
+24	2013-12-12	 Flames	 • Curtis Glencross	 	 activated from IR
+25	2013-12-21	 Flames	 	 • Curtis Glencross	 placed on IR with lower body injury
+26	2014-03-12	 Flames	 • Curtis Glencross	 	 activated from IR
+27	2015-01-17	 Flames	 	 • Curtis Glencross	 placed on IR with lower body injury
+28	2015-02-06	 Flames	 • Curtis Glencross	 	 activated from IR

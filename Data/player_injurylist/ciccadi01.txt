@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-10-20	 Capitals	 	 • Dino Ciccarelli	 fractured bone in right hand (out ~6 weeks)
+1	1991-03-24	 Capitals	 	 • Dino Ciccarelli	 groin injury (DTD)
+2	1991-12-04	 Capitals	 	 • Dino Ciccarelli	 eye injury (DTD)
+3	1993-01-30	 Red Wings	 	 • Dino Ciccarelli	 flu (DTD)
+4	1994-01-15	 Red Wings	 	 • Dino Ciccarelli	 foot injury (out indefinitely)
+5	1995-01-08	 Red Wings	 	 • Dino Ciccarelli	 facial laceration (DTD)
+6	1995-04-02	 Red Wings	 	 • Dino Ciccarelli	 strained right groin (DTD)
+7	1998-11-04	 Panthers	 	 • Dino Ciccarelli	 back injury (out indefinitely)
+8	1999-02-08	 Panthers	 	 • Dino Ciccarelli	 placed on IR with strained lower back

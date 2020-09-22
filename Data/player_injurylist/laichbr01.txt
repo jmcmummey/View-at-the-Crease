@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-24	 Capitals	 	 • Brooks Laich	 cheekbone injury (DTD)
+1	2010-04-01	 Capitals	 • Brooks Laich	 	 returned to lineup
+2	2013-01-18	 Capitals	 	 • Brooks Laich	 placed on IR with groin injury
+3	2013-03-19	 Capitals	 • Brooks Laich	 	 activated from IR
+4	2013-04-06	 Capitals	 	 • Brooks Laich	 lower body injury (out for season)
+5	2013-11-29	 Capitals	 	 • Brooks Laich	 lower body injury (DTD)
+6	2013-12-15	 Capitals	 	 • Brooks Laich	 placed on IR with groin injury
+7	2013-12-23	 Capitals	 • Brooks Laich	 	 activated from IR
+8	2013-12-27	 Capitals	 	 • Brooks Laich	 groin injury (DTD)
+9	2014-01-02	 Capitals	 • Brooks Laich	 	 returned to lineup
+10	2014-02-01	 Capitals	 	 • Brooks Laich	 groin injury (DTD)
+11	2014-02-04	 Capitals	 • Brooks Laich	 	 returned to lineup
+12	2014-03-06	 Capitals	 	 • Brooks Laich	 strained groin (DTD)
+13	2014-03-08	 Capitals	 • Brooks Laich	 	 returned to lineup
+14	2014-03-11	 Capitals	 	 • Brooks Laich	 strained groin (DTD)
+15	2014-03-14	 Capitals	 • Brooks Laich	 	 returned to lineup
+16	2014-03-16	 Capitals	 	 • Brooks Laich	 groin injury (DTD)
+17	2014-03-31	 Capitals	 	 • Brooks Laich	 placed on IR with groin injury (out for season)
+18	2014-10-19	 Capitals	 	 • Brooks Laich	 shoulder injury (DTD)
+19	2014-11-07	 Capitals	 • Brooks Laich	 	 returned to lineup
+20	2014-11-08	 Capitals	 	 • Brooks Laich	 placed on IR with left shoulder injury
+21	2014-11-28	 Capitals	 • Brooks Laich	 	 activated from IR

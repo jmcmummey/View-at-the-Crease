@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-07	 Devils	 	 • Cam Janssen	 ill (DTD)
+1	2006-01-09	 Devils	 • Cam Janssen	 	 returned to lineup
+2	2006-11-25	 Devils	 	 • Cam Janssen	 separated right shoulder (out indefinitely)
+3	2006-12-09	 Devils	 	 • Cam Janssen	 placed on IR
+4	2006-12-19	 Devils	 • Cam Janssen	 	 activated from IR
+5	2007-04-01	 Devils	 	 • Cam Janssen	 soreness (DTD)
+6	2007-04-08	 Devils	 • Cam Janssen	 	 returned to lineup
+7	2007-09-21	 Devils	 	 • Cam Janssen	 dislocated right shoulder (out indefinitely)
+8	2008-01-23	 Devils	 • Cam Janssen	 	 returned to lineup
+9	2008-01-29	 Devils	 	 • Cam Janssen	 shoulder injury (DTD)
+10	2008-02-28	 Blues	 • Cam Janssen	 	 returned to lineup
+11	2010-10-10	 Blues	 	 • Cam Janssen	 placed on IR with concussion
+12	2010-10-27	 Blues	 • Cam Janssen	 	 activated from IR
+13	2011-12-05	 Devils	 	 • Cam Janssen	 bruised chest (DTD)
+14	2011-12-09	 Devils	 	 • Cam Janssen	 placed on IR with bruised chest
+15	2011-12-12	 Devils	 • Cam Janssen	 	 activated from IR

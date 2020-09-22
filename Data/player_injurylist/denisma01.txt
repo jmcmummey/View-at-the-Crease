@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-03-08	 Blue Jackets	 	 • Marc Denis	 placed on IR with strained groin
+1	2002-03-16	 Blue Jackets	 • Marc Denis	 	 activated from IR
+2	2005-10-25	 Blue Jackets	 	 • Marc Denis	 bruised clavicle (DTD)
+3	2005-11-01	 Blue Jackets	 • Marc Denis	 	 returned to lineup
+4	2005-11-22	 Blue Jackets	 	 • Marc Denis	 strained groin (DTD)
+5	2005-11-22	 Blue Jackets	 	 • Marc Denis	 strained groin (DTD)
+6	2005-11-24	 Blue Jackets	 	 • Marc Denis	 placed on IR with strained groin
+7	2005-12-01	 Blue Jackets	 • Marc Denis	 	 activated from IR
+8	2005-12-09	 Blue Jackets	 • Marc Denis	 	 returned to lineup

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-11-14	 Avalanche	 	 • Pavel Francouz	 concussion (DTD)
+1	2019-11-19	 Avalanche	 • Pavel Francouz	 	 returned to lineup
+2	2020-08-31	 Avalanche	 	 • Pavel Francouz	 undisclosed (out for season)

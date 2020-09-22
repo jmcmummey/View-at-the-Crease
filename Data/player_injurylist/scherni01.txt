@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-27	 Canadiens	 	 • Nikita Scherbak	 placed on IR with surgery on right knee
+1	2017-12-10	 Canadiens	 • Nikita Scherbak	 	 activated from IR
+2	2018-04-04	 Canadiens	 	 • Nikita Scherbak	 concussion (out for season)
+3	2018-11-14	 Canadiens	 	 • Nikita Scherbak	 lower body injury (DTD)
+4	2018-11-20	 Canadiens	 	 • Nikita Scherbak	 placed on IR with lower body injury
+5	2018-12-04	 Kings	 • Nikita Scherbak	 	 activated from IR

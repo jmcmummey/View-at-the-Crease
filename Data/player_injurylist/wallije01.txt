@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-09-10	 Red Wings	 	 • Jesse Wallin	 arm injury (suffered in car accident) (out indefinitely)
+1	1997-12-30	 Red Wings	 	 • Jesse Wallin	 foot injury (out indefinitely)
+2	2001-10-01	 Red Wings	 	 • Jesse Wallin	 groin injury (out indefinitely)
+3	2002-12-17	 Red Wings	 	 • Jesse Wallin	 elbow injury (out indefinitely)
+4	2003-01-05	 Red Wings	 	 • Jesse Wallin	 wrist injury (out indefinitely)
+5	2003-03-16	 Red Wings	 	 • Jesse Wallin	 knee injury (out indefinitely)
+6	2003-10-18	 Flames	 	 • Jesse Wallin	 concussion (out indefinitely)

@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-22	 Maple Leafs	 	 • Matt Frattin	 sprained ankle (DTD)
+1	2012-03-27	 Maple Leafs	 • Matt Frattin	 	 returned to lineup
+2	2013-02-13	 Maple Leafs	 	 • Matt Frattin	 knee injury (DTD)
+3	2013-02-13	 Maple Leafs	 	 • Matt Frattin	 placed on IR with left knee injury (surgery) (CBC CBS)
+4	2013-03-09	 Maple Leafs	 • Matt Frattin	 	 activated from IR
+5	2013-11-23	 Kings	 	 • Matt Frattin	 lower body injury (DTD)
+6	2013-12-02	 Kings	 • Matt Frattin	 	 returned to lineup

@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-09-30	 Islanders	 	 • Shane Prince	 lower body injury (DTD)
+1	2016-10-16	 Islanders	 	 • Shane Prince	 placed on IR with lower body injury
+2	2016-10-27	 Islanders	 • Shane Prince	 	 activated from IR
+3	2017-02-14	 Islanders	 	 • Shane Prince	 upper body injury (DTD)
+4	2017-02-22	 Islanders	 	 • Shane Prince	 placed on IR with upper body injury
+5	2017-03-02	 Islanders	 • Shane Prince	 	 activated from IR
+6	2017-03-08	 Islanders	 	 • Shane Prince	 leg injury (DTD)
+7	2017-03-25	 Islanders	 • Shane Prince	 	 returned to lineup
+8	2017-04-04	 Islanders	 	 • Shane Prince	 lower body injury (out for season)
+9	2017-10-03	 Islanders	 	 • Shane Prince	 placed on IR with ankle injury
+10	2017-12-10	 Islanders	 • Shane Prince	 	 activated from IR
+11	2018-01-19	 Islanders	 	 • Shane Prince	 upper body injury (DTD)
+12	2018-01-31	 Islanders	 	 • Shane Prince	 placed on IR with upper body injury
+13	2018-04-05	 Islanders	 • Shane Prince	 	 activated from IR

@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-10-01	 Coyotes	 	 • Josh Archibald	 placed on IR with upper body injury
+1	2018-10-16	 Coyotes	 • Josh Archibald	 	 activated from IR
+2	2019-10-05	 Oilers	 	 • Josh Archibald	 flu (DTD)
+3	2019-10-08	 Oilers	 	 • Josh Archibald	 placed on IR with flu
+4	2019-10-12	 Oilers	 • Josh Archibald	 	 activated from IR
+5	2019-10-25	 Oilers	 	 • Josh Archibald	 placed on IR with fractured right foot
+6	2019-11-08	 Oilers	 • Josh Archibald	 	 activated from IR

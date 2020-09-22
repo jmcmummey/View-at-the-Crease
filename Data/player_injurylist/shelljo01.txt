@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-12	 Blue Jackets	 	 • Jody Shelley	 eye injury (DTD)
+1	2007-01-16	 Blue Jackets	 • Jody Shelley	 	 returned to lineup
+2	2007-03-30	 Blue Jackets	 	 • Jody Shelley	 facial injury (out indefinitely)
+3	2007-04-07	 Blue Jackets	 • Jody Shelley	 	 returned to lineup
+4	2009-01-03	 Sharks	 	 • Jody Shelley	 undisclosed injury (DTD)
+5	2009-01-15	 Sharks	 • Jody Shelley	 	 returned to lineup
+6	2009-02-09	 Sharks	 	 • Jody Shelley	 lower body injury (DTD)
+7	2009-02-21	 Sharks	 • Jody Shelley	 	 returned to lineup
+8	2009-11-12	 Sharks	 	 • Jody Shelley	 soreness (DTD)
+9	2009-11-29	 Sharks	 	 • Jody Shelley	 placed on IR with soreness
+10	2010-01-02	 Sharks	 • Jody Shelley	 	 activated from IR
+11	2011-02-01	 Flyers	 	 • Jody Shelley	 illness (DTD)
+12	2011-02-05	 Flyers	 • Jody Shelley	 	 returned to lineup
+13	2011-03-22	 Flyers	 	 • Jody Shelley	 surgery to repair fractured left orbital bone (out indefinitely)
+14	2011-04-14	 Flyers	 • Jody Shelley	 	 returned to lineup
+15	2011-12-21	 Flyers	 	 • Jody Shelley	 undisclosed (DTD)
+16	2011-12-23	 Flyers	 • Jody Shelley	 	 returned to lineup
+17	2013-02-12	 Flyers	 	 • Jody Shelley	 placed on IR with hip injury (out for season)

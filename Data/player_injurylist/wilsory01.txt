@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-01-18	 Avalanche	 	 • Ryan Wilson	 concussion (DTD)
+1	2010-01-28	 Avalanche	 • Ryan Wilson	 	 returned to lineup
+2	2010-03-18	 Avalanche	 	 • Ryan Wilson	 concussion (DTD)
+3	2010-03-31	 Avalanche	 • Ryan Wilson	 	 returned to lineup
+4	2010-11-04	 Avalanche	 	 • Ryan Wilson	 leg injury (DTD)
+5	2010-11-15	 Avalanche	 • Ryan Wilson	 	 returned to lineup
+6	2011-03-25	 Avalanche	 	 • Ryan Wilson	 knee injury (DTD)
+7	2011-04-03	 Avalanche	 • Ryan Wilson	 	 returned to lineup
+8	2011-12-07	 Avalanche	 	 • Ryan Wilson	 head injury (DTD)
+9	2011-12-13	 Avalanche	 	 • Ryan Wilson	 placed on IR with head injury
+10	2012-01-06	 Avalanche	 • Ryan Wilson	 	 activated from IR
+11	2012-01-21	 Avalanche	 	 • Ryan Wilson	 groin inury (DTD)
+12	2012-01-24	 Avalanche	 • Ryan Wilson	 	 returned to lineup
+13	2012-02-15	 Avalanche	 	 • Ryan Wilson	 illness (DTD)
+14	2013-02-03	 Avalanche	 	 • Ryan Wilson	 placed on IR with ankle injury
+15	2013-03-10	 Avalanche	 • Ryan Wilson	 	 activated from IR
+16	2013-03-16	 Avalanche	 	 • Ryan Wilson	 ankle injury (DTD)
+17	2013-03-19	 Avalanche	 	 • Ryan Wilson	 placed on IR ankle injury
+18	2013-03-24	 Avalanche	 • Ryan Wilson	 	 activated from IR
+19	2013-03-25	 Avalanche	 	 • Ryan Wilson	 placed on IR with ankle injury (out for season)
+20	2013-09-29	 Avalanche	 	 • Ryan Wilson	 placed on IR with knee injury
+21	2013-10-12	 Avalanche	 • Ryan Wilson	 	 activated from IR
+22	2013-11-07	 Avalanche	 	 • Ryan Wilson	 back injury (DTD)
+23	2013-11-17	 Avalanche	 	 • Ryan Wilson	 placed on IR with back injury
+24	2013-12-14	 Avalanche	 • Ryan Wilson	 	 activated from IR
+25	2013-12-22	 Avalanche	 • Ryan Wilson	 	 activated from IR (T)
+26	2014-10-14	 Avalanche	 	 • Ryan Wilson	 undisclosed injury (DTD)
+27	2014-10-21	 Avalanche	 • Ryan Wilson	 	 returned to lineup
+28	2014-10-22	 Avalanche	 	 • Ryan Wilson	 shoulder injury (out for season)
+29	2014-11-08	 Avalanche	 	 • Ryan Wilson	 placed on IR with shoulder injury (out for season)

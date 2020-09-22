@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-01-23	 Canadiens	 	 • Jacob de la Rose	 flu (DTD)
+1	2016-01-26	 Canadiens	 • Jacob de la Rose	 	 returned to lineup
+2	2016-04-02	 Canadiens	 	 • Jacob de la Rose	 undisclosed injury (DTD)
+3	2016-04-04	 Canadiens	 • Jacob de la Rose	 	 returned to lineup
+4	2018-10-02	 Canadiens	 	 • Jacob de la Rose	 placed on IR with heart ailment
+5	2018-10-19	 Red Wings	 • Jacob de la Rose	 	 activated from IR
+6	2018-11-10	 Red Wings	 	 • Jacob de la Rose	 upper body injury (DTD)
+7	2018-11-17	 Red Wings	 • Jacob de la Rose	 	 returned to lineup
+8	2019-03-20	 Red Wings	 	 • Jacob de la Rose	 heart arrhythmia (out for season)

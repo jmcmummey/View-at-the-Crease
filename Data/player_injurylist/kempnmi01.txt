@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-11-22	 Blackhawks	 	 • Michal Kempny	 illness (DTD)
+1	2017-11-25	 Blackhawks	 • Michal Kempny	 	 returned to lineup
+2	2018-09-25	 Capitals	 	 • Michal Kempny	 placed on IR with upper body injury
+3	2018-10-02	 Capitals	 	 • Michal Kempny	 placed on IR with upper body injury
+4	2018-10-10	 Capitals	 • Michal Kempny	 	 activated from IR
+5	2018-11-14	 Capitals	 	 • Michal Kempny	 illness (DTD)
+6	2018-11-16	 Capitals	 • Michal Kempny	 	 returned to lineup
+7	2019-03-22	 Capitals	 	 • Michal Kempny	 torn hamstring in left leg (out for season)
+8	2019-10-01	 Capitals	 	 • Michal Kempny	 placed on injured/non-roster list with hamstring injury
+9	2019-10-18	 Capitals	 • Michal Kempny	 	 activated from injured/non-roster list
+10	2019-12-27	 Capitals	 	 • Michal Kempny	 illness (DTD)
+11	2019-12-31	 Capitals	 • Michal Kempny	 	 returned to lineup

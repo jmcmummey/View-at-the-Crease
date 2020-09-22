@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-11-03	 Stars	 	 • Brad Winchester	 placed on IR with abdominal injury
+1	2007-11-23	 Stars	 • Brad Winchester	 	 activated from IR
+2	2010-11-11	 Blues	 	 • Brad Winchester	 knee injury (DTD)
+3	2010-11-15	 Blues	 • Brad Winchester	 	 returned to lineup

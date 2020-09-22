@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-16	 Blackhawks	 	 • Michal Barinka	 concussion (DTD)
+1	2005-12-29	 Blackhawks	 • Michal Barinka	 	 returned to lineup

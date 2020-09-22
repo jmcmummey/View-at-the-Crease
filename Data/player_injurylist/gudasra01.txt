@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-23	 Lightning	 	 • Radko Gudas	 upper body injury (DTD)
+1	2013-12-06	 Lightning	 • Radko Gudas	 	 returned to lineup
+2	2014-03-03	 Lightning	 	 • Radko Gudas	 lower body injury (DTD)
+3	2014-03-13	 Lightning	 • Radko Gudas	 	 returned to lineup
+4	2014-04-22	 Lightning	 	 • Radko Gudas	 lower body injury (out for season)
+5	2014-10-14	 Lightning	 	 • Radko Gudas	 lower body injury (DTD)
+6	2014-10-21	 Lightning	 	 • Radko Gudas	 placed on IR with lower body injury
+7	2014-10-24	 Lightning	 • Radko Gudas	 	 activated from IR
+8	2014-12-13	 Lightning	 	 • Radko Gudas	 stomach virus (DTD)
+9	2014-12-19	 Lightning	 • Radko Gudas	 	 returned to lineup
+10	2014-12-31	 Lightning	 	 • Radko Gudas	 lower body injury (DTD)
+11	2015-01-13	 Lightning	 	 • Radko Gudas	 placed on IR with lower body injury (out for season)
+12	2016-12-03	 Flyers	 	 • Radko Gudas	 illness (DTD)
+13	2016-12-07	 Flyers	 • Radko Gudas	 	 returned to lineup
+14	2016-12-30	 Flyers	 	 • Radko Gudas	 upper body injury (DTD)
+15	2017-01-01	 Flyers	 • Radko Gudas	 	 returned to lineup
+16	2017-04-02	 Flyers	 	 • Radko Gudas	 upper body injury (out for season)
+17	2017-11-04	 Flyers	 	 • Radko Gudas	 upper body injury (DTD)
+18	2017-11-09	 Flyers	 • Radko Gudas	 	 returned to lineup
+19	2018-11-15	 Flyers	 	 • Radko Gudas	 undisclosed (DTD)
+20	2018-11-17	 Flyers	 • Radko Gudas	 	 returned to lineup

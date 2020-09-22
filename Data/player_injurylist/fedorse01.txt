@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-14	 Mighty Ducks	 	 • Sergei Fedorov	 groin injury (out indefinitely)
+1	2005-10-29	 Mighty Ducks	 	 • Sergei Fedorov	 placed on IR with strained left groin
+2	2005-11-12	 Mighty Ducks	 • Sergei Fedorov	 	 returned to lineup
+3	2006-03-17	 Blue Jackets	 	 • Sergei Fedorov	 back inury (DTD)
+4	2006-03-21	 Blue Jackets	 • Sergei Fedorov	 	 returned to lineup
+5	2006-09-21	 Blue Jackets	 	 • Sergei Fedorov	 placed on IR with left shoulder injury (out ~1 month)
+6	2006-10-23	 Blue Jackets	 • Sergei Fedorov	 	 activated from IR
+7	2007-01-07	 Blue Jackets	 	 • Sergei Fedorov	 elbow injury (DTD)
+8	2007-01-13	 Blue Jackets	 	 • Sergei Fedorov	 placed on IR with elbow injury
+9	2007-01-16	 Blue Jackets	 • Sergei Fedorov	 	 activated from IR
+10	2008-01-12	 Blue Jackets	 	 • Sergei Fedorov	 hip pointer (DTD)
+11	2008-01-15	 Blue Jackets	 • Sergei Fedorov	 	 returned to lineup
+12	2008-01-19	 Blue Jackets	 	 • Sergei Fedorov	 hip pointer (DTD)
+13	2008-01-22	 Blue Jackets	 	 • Sergei Fedorov	 placed on IR with hip pointer
+14	2008-02-17	 Blue Jackets	 • Sergei Fedorov	 	 activated from IR
+15	2008-11-08	 Capitals	 	 • Sergei Fedorov	 lower body injury (DTD)
+16	2008-11-22	 Capitals	 • Sergei Fedorov	 	 returned to lineup
+17	2008-11-24	 Capitals	 	 • Sergei Fedorov	 placed on IR with ankle injury
+18	2008-12-12	 Capitals	 • Sergei Fedorov	 	 activated from IR
+19	2008-12-15	 Capitals	 	 • Sergei Fedorov	 ankle injury (DTD)
+20	2009-01-09	 Capitals	 • Sergei Fedorov	 	 returned to lineup
+21	2009-01-10	 Capitals	 	 • Sergei Fedorov	 ankle injury (DTD)
+22	2009-01-13	 Capitals	 • Sergei Fedorov	 	 returned to lineup
+23	2009-03-12	 Capitals	 	 • Sergei Fedorov	 flu (DTD)
+24	2009-03-17	 Capitals	 • Sergei Fedorov	 	 returned to lineup

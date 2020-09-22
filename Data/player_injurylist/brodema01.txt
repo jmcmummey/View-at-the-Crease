@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1994-02-24	 Devils	 	 • Martin Brodeur	 strained knee (DTD)
+1	2005-10-06	 Devils	 	 • Martin Brodeur	 right knee injury (left game)
+2	2005-10-27	 Devils	 	 • Martin Brodeur	 right knee injury (DTD)
+3	2005-11-11	 Devils	 • Martin Brodeur	 	 returned to lineup
+4	2008-11-02	 Devils	 	 • Martin Brodeur	 placed on IR with surgery on left elbow
+5	2009-02-25	 Devils	 • Martin Brodeur	 	 activated from IR
+6	2010-11-05	 Devils	 	 • Martin Brodeur	 bruised right elbow (DTD)
+7	2010-11-12	 Devils	 • Martin Brodeur	 	 returned to lineup
+8	2010-11-19	 Devils	 	 • Martin Brodeur	 bruised right elbow (DTD)
+9	2010-12-06	 Devils	 • Martin Brodeur	 	 returned to lineup
+10	2011-02-07	 Devils	 	 • Martin Brodeur	 sprained right knee (DTD)
+11	2011-02-11	 Devils	 	 • Martin Brodeur	 placed on IR with sprained right knee
+12	2011-02-18	 Devils	 • Martin Brodeur	 	 activated from IR
+13	2011-10-14	 Devils	 	 • Martin Brodeur	 right shoulder injury (DTD)
+14	2011-10-22	 Devils	 	 • Martin Brodeur	 placed on IR right shoulder inflammation
+15	2011-10-31	 Devils	 • Martin Brodeur	 	 activated from IR
+16	2012-02-08	 Devils	 	 • Martin Brodeur	 sprained right ankle (DTD)
+17	2012-02-11	 Devils	 • Martin Brodeur	 	 returned to lineup
+18	2013-02-25	 Devils	 	 • Martin Brodeur	 placed on IR with sore back
+19	2013-03-19	 Devils	 • Martin Brodeur	 	 activated from IR
+20	2015-01-17	 Blues	 	 • Martin Brodeur	 placed on IR for personal reasons
+21	2015-01-27	 Blues	 • Martin Brodeur	 	 activated from IR

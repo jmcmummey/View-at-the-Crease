@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-23	 Senators	 	 • Zdeno Chara	 hand injury (DTD)
+1	2006-04-11	 Senators	 • Zdeno Chara	 	 returned to lineup
+2	2007-01-06	 Bruins	 	 • Zdeno Chara	 lower body injury (DTD)
+3	2007-01-11	 Bruins	 • Zdeno Chara	 	 returned to lineup
+4	2008-03-09	 Bruins	 	 • Zdeno Chara	 upper body injury (DTD)
+5	2008-03-20	 Bruins	 • Zdeno Chara	 	 returned to lineup
+6	2009-04-11	 Bruins	 	 • Zdeno Chara	 rest (DTD)
+7	2010-03-09	 Bruins	 	 • Zdeno Chara	 lower body injury (DTD)
+8	2010-03-11	 Bruins	 • Zdeno Chara	 	 returned to lineup
+9	2011-04-16	 Bruins	 	 • Zdeno Chara	 dehydration (DTD)
+10	2011-04-18	 Bruins	 • Zdeno Chara	 	 returned to lineup
+11	2011-12-11	 Bruins	 	 • Zdeno Chara	 leg injury (DTD)
+12	2011-12-17	 Bruins	 • Zdeno Chara	 	 returned to lineup
+13	2013-12-28	 Bruins	 	 • Zdeno Chara	 undisclosed injury (DTD)
+14	2014-01-01	 Bruins	 • Zdeno Chara	 	 returned to lineup
+15	2014-10-23	 Bruins	 	 • Zdeno Chara	 placed on IR with knee injury
+16	2014-12-11	 Bruins	 • Zdeno Chara	 	 activated from IR
+17	2015-04-06	 Bruins	 	 • Zdeno Chara	 undisclosed (DTD)
+18	2015-10-06	 Bruins	 	 • Zdeno Chara	 placed on IR with undisclosed injury
+19	2015-10-12	 Bruins	 • Zdeno Chara	 	 activated from IR
+20	2016-11-23	 Bruins	 	 • Zdeno Chara	 lower body injury (DTD)
+21	2016-12-05	 Bruins	 • Zdeno Chara	 	 returned to lineup
+22	2017-02-07	 Bruins	 	 • Zdeno Chara	 illness (DTD)
+23	2017-02-10	 Bruins	 • Zdeno Chara	 	 returned to lineup
+24	2018-03-15	 Bruins	 	 • Zdeno Chara	 upper body injury (DTD)
+25	2018-04-01	 Bruins	 • Zdeno Chara	 	 returned to lineup
+26	2018-11-15	 Bruins	 	 • Zdeno Chara	 lower body injury (DTD)
+27	2018-11-20	 Bruins	 	 • Zdeno Chara	 placed on IR with knee injury
+28	2018-12-27	 Bruins	 • Zdeno Chara	 	 activated from IR
+29	2019-05-16	 Bruins	 	 • Zdeno Chara	 undisclosed (DTD)
+30	2019-05-27	 Bruins	 • Zdeno Chara	 	 returned to lineup
+31	2019-12-22	 Bruins	 	 • Zdeno Chara	 jaw injury (DTD)
+32	2019-12-27	 Bruins	 • Zdeno Chara	 	 returned to lineup
+33	2020-01-09	 Bruins	 	 • Zdeno Chara	 jaw injury (DTD)
+34	2020-01-10	 Bruins	 • Zdeno Chara	 	 returned to lineup

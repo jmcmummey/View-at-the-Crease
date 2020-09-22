@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-10-14	 Penguins	 	 • Toby Petersen	 dehydration (DTD)
+1	2001-10-16	 Penguins	 • Toby Petersen	 	 returned to lineup
+2	2009-02-24	 Stars	 	 • Toby Petersen	 placed on IR with fractured left foot
+3	2010-12-04	 Stars	 	 • Toby Petersen	 hand injury (DTD)
+4	2010-12-09	 Stars	 	 • Toby Petersen	 placed on IR with hand injury
+5	2010-12-16	 Stars	 • Toby Petersen	 	 activated from IR
+6	2011-01-02	 Stars	 	 • Toby Petersen	 placed on IR with lower body injury
+7	2011-02-15	 Stars	 • Toby Petersen	 	 activated from IR

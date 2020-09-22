@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-19	 Canucks	 	 • Henrik Sedin	 bruised ribs (DTD)
+1	2014-02-03	 Canucks	 • Henrik Sedin	 	 returned to lineup
+2	2014-02-06	 Canucks	 	 • Henrik Sedin	 bruised ribs & finger injury (DTD)
+3	2014-02-25	 Canucks	 • Henrik Sedin	 	 returned to lineup
+4	2014-03-24	 Canucks	 	 • Henrik Sedin	 leg injury (DTD)
+5	2014-04-05	 Canucks	 • Henrik Sedin	 	 returned to lineup
+6	2015-12-18	 Canucks	 	 • Henrik Sedin	 lower body injury (DTD)
+7	2015-12-22	 Canucks	 • Henrik Sedin	 	 returned to lineup
+8	2016-01-18	 Canucks	 	 • Henrik Sedin	 placed on IR with undisclosed injury
+9	2016-02-04	 Canucks	 • Henrik Sedin	 	 activated from IR
+10	2016-03-06	 Canucks	 	 • Henrik Sedin	 upper body injury (DTD)
+11	2016-03-12	 Canucks	 • Henrik Sedin	 	 returned to lineup

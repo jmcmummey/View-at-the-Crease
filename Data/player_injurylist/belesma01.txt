@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-27	 Ducks	 	 • Matt Beleskey	 placed on IR with concussion
+1	2011-10-07	 Ducks	 	 • Matt Beleskey	 surgery on left shoulder (DTD)
+2	2011-10-16	 Ducks	 • Matt Beleskey	 	 returned to lineup
+3	2012-01-21	 Ducks	 	 • Matt Beleskey	 swollen right hand (DTD)
+4	2012-01-24	 Ducks	 	 • Matt Beleskey	 illness (DTD)
+5	2012-01-31	 Ducks	 • Matt Beleskey	 	 returned to lineup
+6	2013-03-30	 Ducks	 	 • Matt Beleskey	 placed on IR with undisclosed injury
+7	2013-04-01	 Ducks	 • Matt Beleskey	 	 activated from IR
+8	2013-10-10	 Ducks	 	 • Matt Beleskey	 placed on IR with upper body injury
+9	2013-11-18	 Ducks	 • Matt Beleskey	 	 activated from IR
+10	2014-03-20	 Ducks	 	 • Matt Beleskey	 illness (DTD)
+11	2014-03-23	 Ducks	 • Matt Beleskey	 	 returned to lineup
+12	2014-04-18	 Ducks	 	 • Matt Beleskey	 lower body injury (DTD)
+13	2014-04-27	 Ducks	 • Matt Beleskey	 	 returned to lineup
+14	2014-05-09	 Ducks	 	 • Matt Beleskey	 lower body injury (out for season)
+15	2015-02-16	 Ducks	 	 • Matt Beleskey	 placed on IR with upper body injury
+16	2015-03-11	 Ducks	 • Matt Beleskey	 	 activated from IR
+17	2015-03-29	 Ducks	 	 • Matt Beleskey	 lower body injury (DTD)
+18	2015-04-08	 Ducks	 • Matt Beleskey	 	 returned to lineup
+19	2015-10-21	 Bruins	 	 • Matt Beleskey	 upper body injury (DTD)
+20	2015-10-27	 Bruins	 • Matt Beleskey	 	 returned to lineup
+21	2016-04-14	 Bruins	 	 • Matt Beleskey	 surgery on left hand (out for season)
+22	2016-12-04	 Bruins	 	 • Matt Beleskey	 right hip injury (DTD)
+23	2016-12-05	 Bruins	 	 • Matt Beleskey	 right knee injury (DTD)
+24	2016-12-14	 Bruins	 	 • Matt Beleskey	 placed on IR with right knee injury
+25	2017-01-20	 Bruins	 • Matt Beleskey	 	 activated from IR
+26	2017-03-30	 Bruins	 • Matt Beleskey	 	 returned to lineup
+27	2018-09-23	 Rangers	 	 • Matt Beleskey	 placed on IR with shoulder injury
+28	2018-10-25	 Rangers	 • Matt Beleskey	 	 activated from IR

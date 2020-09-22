@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-01	 Bruins	 	 • Per-Johan Axelsson / P.J. Axelsson	 left knee injury (left game)
+1	2006-03-03	 Bruins	 	 • Per-Johan Axelsson / P.J. Axelsson	 left knee injury (DTD)
+2	2006-04-11	 Bruins	 	 • Per-Johan Axelsson / P.J. Axelsson	 left knee injury (out for remainder of regular season)
+3	2006-12-04	 Bruins	 	 • Per-Johan Axelsson / P.J. Axelsson	 foot injury (DTD)
+4	2006-12-26	 Bruins	 • Per-Johan Axelsson / P.J. Axelsson	 	 returned to lineup
+5	2007-03-08	 Bruins	 	 • Per-Johan Axelsson / P.J. Axelsson	 broken wrist (out indefinitely)
+6	2008-01-12	 Bruins	 	 • Per-Johan Axelsson / P.J. Axelsson	 foot injury (DTD)
+7	2008-01-31	 Bruins	 • Per-Johan Axelsson / P.J. Axelsson	 	 returned to lineup
+8	2008-10-18	 Bruins	 	 • Per-Johan Axelsson / P.J. Axelsson	 undisclosed injury (out indefinitely)
+9	2008-10-23	 Bruins	 • Per-Johan Axelsson / P.J. Axelsson	 	 returned to lineup
+10	2009-04-06	 Bruins	 	 • Per-Johan Axelsson / P.J. Axelsson	 undisclosed injury (DTD)
+11	2009-04-16	 Bruins	 • Per-Johan Axelsson / P.J. Axelsson	 	 returned to lineup

@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-17	 Rangers	 	 • Lauri Korpikoski	 arm injury (DTD)
+1	2008-10-18	 Rangers	 • Lauri Korpikoski	 	 returned to lineup
+2	2009-02-18	 Rangers	 	 • Lauri Korpikoski	 upper body injury (DTD)
+3	2009-02-21	 Rangers	 • Lauri Korpikoski	 	 returned to lineup
+4	2011-03-26	 Coyotes	 	 • Lauri Korpikoski	 lower / upper (CBC) body injury (DTD)
+5	2012-04-15	 Coyotes	 	 • Lauri Korpikoski	 upper body injury (DTD)
+6	2012-04-21	 Coyotes	 • Lauri Korpikoski	 	 returned to lineup
+7	2012-05-02	 Coyotes	 	 • Lauri Korpikoski	 undisclosed injury (DTD)
+8	2012-05-07	 Coyotes	 • Lauri Korpikoski	 	 returned to lineup
+9	2013-03-27	 Coyotes	 	 • Lauri Korpikoski	 upper body injury (DTD)
+10	2013-04-22	 Coyotes	 • Lauri Korpikoski	 	 returned to lineup
+11	2013-10-24	 Coyotes	 	 • Lauri Korpikoski	 upper body injury (DTD)
+12	2013-10-25	 Coyotes	 	 • Lauri Korpikoski	 placed on IR with upper body injury
+13	2013-10-31	 Coyotes	 • Lauri Korpikoski	 	 activated from IR
+14	2013-11-19	 Coyotes	 	 • Lauri Korpikoski	 upper body injury (DTD)
+15	2013-11-25	 Coyotes	 	 • Lauri Korpikoski	 placed on IR with upper body injury
+16	2013-12-21	 Coyotes	 • Lauri Korpikoski	 	 activated from IR
+17	2014-03-24	 Coyotes	 	 • Lauri Korpikoski	 upper body injury (DTD)
+18	2014-03-27	 Coyotes	 • Lauri Korpikoski	 	 returned to lineup
+19	2014-12-15	 Coyotes	 	 • Lauri Korpikoski	 lower body injury (DTD)
+20	2014-12-22	 Coyotes	 	 • Lauri Korpikoski	 placed on IR with lower body injury
+21	2014-12-27	 Coyotes	 • Lauri Korpikoski	 	 activated from IR
+22	2015-03-09	 Coyotes	 	 • Lauri Korpikoski	 lower (Y) / upper (CBC) body injury (DTD)
+23	2015-03-12	 Coyotes	 • Lauri Korpikoski	 	 returned to lineup
+24	2015-03-26	 Coyotes	 	 • Lauri Korpikoski	 facial injury (out for season)
+25	2015-10-29	 Oilers	 	 • Lauri Korpikoski	 head injury (DTD)
+26	2015-11-03	 Oilers	 	 • Lauri Korpikoski	 placed on IR with head injury
+27	2015-11-18	 Oilers	 • Lauri Korpikoski	 	 activated from IR
+28	2016-01-18	 Oilers	 	 • Lauri Korpikoski	 foot injury (DTD)
+29	2016-01-23	 Oilers	 • Lauri Korpikoski	 	 returned to lineup

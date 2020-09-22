@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-06	 Bruins	 	 • Vladimir Sobotka	 shoulder injury (DTD)
+1	2007-12-12	 Bruins	 • Vladimir Sobotka	 	 returned to lineup
+2	2010-03-24	 Bruins	 	 • Vladimir Sobotka	 head injury (DTD)
+3	2010-03-27	 Bruins	 • Vladimir Sobotka	 	 returned to lineup
+4	2010-10-06	 Blues	 	 • Vladimir Sobotka	 placed on IR recovering from surgery on shoulder
+5	2010-10-16	 Blues	 • Vladimir Sobotka	 	 activated from IR
+6	2011-02-28	 Blues	 	 • Vladimir Sobotka	 fractured foot (DTD)
+7	2011-03-02	 Blues	 	 • Vladimir Sobotka	 placed on IR with fractured foot
+8	2011-03-29	 Blues	 • Vladimir Sobotka	 	 activated from IR
+9	2011-11-27	 Blues	 	 • Vladimir Sobotka	 facial injury (DTD)
+10	2011-12-02	 Blues	 • Vladimir Sobotka	 	 returned to lineup
+11	2011-12-12	 Blues	 	 • Vladimir Sobotka	 placed on IR with left ankle injury
+12	2011-12-30	 Blues	 • Vladimir Sobotka	 	 activated from IR
+13	2013-12-14	 Blues	 	 • Vladimir Sobotka	 upper body injury (DTD)
+14	2013-12-20	 Blues	 	 • Vladimir Sobotka	 placed on IR with upper body injury
+15	2013-12-28	 Blues	 • Vladimir Sobotka	 	 activated from IR
+16	2013-12-28	 Blues	 	 • Vladimir Sobotka	 placed on IR with upper body injury
+17	2013-12-29	 Blues	 • Vladimir Sobotka	 	 activated from IR
+18	2014-01-14	 Blues	 	 • Vladimir Sobotka	 flu (DTD)
+19	2014-01-15	 Blues	 • Vladimir Sobotka	 	 returned to lineup
+20	2014-02-01	 Blues	 	 • Vladimir Sobotka	 placed on IR with left leg injury
+21	2014-03-13	 Blues	 • Vladimir Sobotka	 	 activated from IR
+22	2014-04-11	 Blues	 	 • Vladimir Sobotka	 undisclosed injury (out for season)
+23	2018-02-20	 Blues	 	 • Vladimir Sobotka	 illness (DTD)
+24	2018-02-23	 Blues	 • Vladimir Sobotka	 	 returned to lineup
+25	2018-10-05	 Sabres	 	 • Vladimir Sobotka	 upper body injury (DTD)
+26	2018-10-13	 Sabres	 • Vladimir Sobotka	 	 returned to lineup
+27	2019-02-28	 Sabres	 	 • Vladimir Sobotka	 upper body injury (DTD)
+28	2019-03-07	 Sabres	 • Vladimir Sobotka	 	 returned to lineup
+29	2019-03-30	 Sabres	 	 • Vladimir Sobotka	 upper body injury (out for season)
+30	2019-11-09	 Sabres	 	 • Vladimir Sobotka	 knee injury (DTD)
+31	2019-11-14	 Sabres	 	 • Vladimir Sobotka	 placed on IR with knee injury

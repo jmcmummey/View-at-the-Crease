@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-10-12	 Panthers	 	 • Branislav Mezei	 ankle injury (out indefinitely)
+1	2002-10-13	 Panthers	 	 • Branislav Mezei	 placed on IR with ankle injury
+2	2003-01-01	 Panthers	 	 • Branislav Mezei	 foot injury (out indefinitely)
+3	2005-11-09	 Panthers	 	 • Branislav Mezei	 knee injury (out for season)
+4	2007-01-11	 Panthers	 	 • Branislav Mezei	 separated left shoulder (out indefinitely)
+5	2008-01-30	 Panthers	 • Branislav Mezei	 	 returned to lineup

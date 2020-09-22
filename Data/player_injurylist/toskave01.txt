@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-26	 Sharks	 	 • Vesa Toskala	 groin injury (left game)
+1	2005-10-27	 Sharks	 	 • Vesa Toskala	 groin injury (out indefinitely)
+2	2005-11-04	 Sharks	 	 • Vesa Toskala	 placed on IR (retroactive to 10/26) with groin injury
+3	2005-11-05	 Sharks	 • Vesa Toskala	 	 activated from IR
+4	2005-11-08	 Sharks	 	 • Vesa Toskala	 groin injury
+5	2005-11-08	 Sharks	 • Vesa Toskala	 	 returned to lineup
+6	2005-11-09	 Sharks	 	 • Vesa Toskala	 placed on IR with groin injury (date approximate)
+7	2005-11-11	 Sharks	 	 • Vesa Toskala	 groin injury (DTD)
+8	2005-11-16	 Sharks	 	 • Vesa Toskala	 placed on IR with groin injury
+9	2005-12-01	 Sharks	 • Vesa Toskala	 	 returned to lineup
+10	2007-02-22	 Sharks	 	 • Vesa Toskala	 groin injury (DTD)
+11	2007-03-02	 Sharks	 • Vesa Toskala	 	 returned to lineup
+12	2007-03-04	 Sharks	 	 • Vesa Toskala	 groin injury (DTD)
+13	2007-03-11	 Sharks	 • Vesa Toskala	 	 returned to lineup
+14	2007-12-26	 Maple Leafs	 	 • Vesa Toskala	 groin injury (DTD)
+15	2008-01-09	 Maple Leafs	 • Vesa Toskala	 	 returned to lineup
+16	2008-12-22	 Maple Leafs	 	 • Vesa Toskala	 groin injury (DTD)
+17	2008-12-23	 Maple Leafs	 • Vesa Toskala	 	 returned to lineup
+18	2009-02-17	 Maple Leafs	 	 • Vesa Toskala	 strained hip (DTD)
+19	2009-02-21	 Maple Leafs	 • Vesa Toskala	 	 returned to lineup
+20	2009-03-04	 Maple Leafs	 	 • Vesa Toskala	 placed on IR with surgery on hip (out for season)
+21	2009-10-13	 Maple Leafs	 	 • Vesa Toskala	 knee injury (DTD)
+22	2009-10-30	 Maple Leafs	 • Vesa Toskala	 	 returned to lineup
+23	2009-11-24	 Maple Leafs	 	 • Vesa Toskala	 placed on IR with groin injury
+24	2009-12-03	 Maple Leafs	 • Vesa Toskala	 	 activated from IR

@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-10-03	 Coyotes	 	 • Barrett Hayton	 placed on IR with undisclosed injury
+1	2018-10-09	 Coyotes	 • Barrett Hayton	 	 activated from IR
+2	2020-01-09	 Coyotes	 	 • Barrett Hayton	 placed on IR with separated shoulder
+3	2020-02-13	 Coyotes	 • Barrett Hayton	 	 activated from IR
+4	2020-02-15	 Coyotes	 	 • Barrett Hayton	 shoulder injury (DTD)
+5	2020-02-20	 Coyotes	 • Barrett Hayton	 	 returned to lineup

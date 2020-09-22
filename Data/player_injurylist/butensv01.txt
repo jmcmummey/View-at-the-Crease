@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-03-07	 Penguins	 	 • Sven Butenschon	 sore shoulder (DTD)
+1	2001-03-12	 Penguins	 • Sven Butenschon	 	 returned to lineup

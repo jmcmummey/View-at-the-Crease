@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-12	 Canadiens	 	 • Raitis Ivanans	 hand injury (DTD)
+1	2005-11-11	 Canadiens	 • Raitis Ivanans	 	 returned to lineup
+2	2007-02-19	 Kings	 	 • Raitis Ivanans	 arm injury (out indefinitely)
+3	2007-03-01	 Kings	 • Raitis Ivanans	 	 returned to lineup
+4	2007-11-03	 Kings	 	 • Raitis Ivanans	 placed on IR with cheekbone injury
+5	2007-11-24	 Kings	 • Raitis Ivanans	 	 activated from IR
+6	2009-03-01	 Kings	 	 • Raitis Ivanans	 placed on IR with upper body injury
+7	2009-03-12	 Kings	 • Raitis Ivanans	 	 activated from IR
+8	2010-10-14	 Flames	 	 • Raitis Ivanans	 head injury (out for season)
+9	2011-10-05	 Flames	 	 • Raitis Ivanans	 placed on IR with concussion
+10	2012-01-04	 Flames	 • Raitis Ivanans	 	 activated from IR

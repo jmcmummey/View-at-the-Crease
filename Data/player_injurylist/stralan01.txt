@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-12-19	 Blue Jackets	 	 • Anton Stralman	 illness (DTD)
+1	2009-12-26	 Blue Jackets	 • Anton Stralman	 	 returned to lineup
+2	2010-01-28	 Blue Jackets	 	 • Anton Stralman	 flu (DTD)
+3	2010-02-02	 Blue Jackets	 • Anton Stralman	 	 returned to lineup
+4	2010-02-10	 Blue Jackets	 	 • Anton Stralman	 foot injury (DTD)
+5	2010-02-12	 Blue Jackets	 • Anton Stralman	 	 returned to lineup
+6	2010-03-15	 Blue Jackets	 	 • Anton Stralman	 illness (DTD)
+7	2010-03-19	 Blue Jackets	 • Anton Stralman	 	 returned to lineup
+8	2010-10-16	 Blue Jackets	 	 • Anton Stralman	 upper body injury (DTD)
+9	2010-10-22	 Blue Jackets	 • Anton Stralman	 	 returned to lineup
+10	2010-11-17	 Blue Jackets	 	 • Anton Stralman	 illness (DTD)
+11	2010-11-20	 Blue Jackets	 • Anton Stralman	 	 returned to lineup
+12	2011-01-14	 Blue Jackets	 	 • Anton Stralman	 illness (DTD)
+13	2011-01-15	 Blue Jackets	 • Anton Stralman	 	 returned to lineup
+14	2011-02-27	 Blue Jackets	 	 • Anton Stralman	 left knee injury (DTD)
+15	2011-03-31	 Blue Jackets	 • Anton Stralman	 	 returned to lineup
+16	2011-04-05	 Blue Jackets	 	 • Anton Stralman	 illness (DTD)
+17	2011-04-08	 Blue Jackets	 • Anton Stralman	 	 returned to lineup
+18	2013-05-23	 Rangers	 	 • Anton Stralman	 undisclosed (out for season)
+19	2013-12-28	 Rangers	 	 • Anton Stralman	 wrist injury (DTD)
+20	2014-01-01	 Rangers	 • Anton Stralman	 	 returned to lineup
+21	2016-03-08	 Lightning	 	 • Anton Stralman	 illness (DTD)
+22	2016-03-11	 Lightning	 • Anton Stralman	 	 returned to lineup
+23	2016-03-25	 Lightning	 	 • Anton Stralman	 fractured left fibula (DTD)
+24	2016-05-16	 Lightning	 • Anton Stralman	 	 returned to lineup
+25	2016-11-13	 Lightning	 	 • Anton Stralman	 upper body injury (DTD)
+26	2016-12-01	 Lightning	 • Anton Stralman	 	 returned to lineup
+27	2017-12-28	 Lightning	 	 • Anton Stralman	 lower body injury (DTD)
+28	2017-12-31	 Lightning	 • Anton Stralman	 	 returned to lineup
+29	2018-11-10	 Lightning	 	 • Anton Stralman	 upper body injury (DTD)
+30	2018-11-29	 Lightning	 	 • Anton Stralman	 placed on IR with upper body injury
+31	2018-12-16	 Lightning	 • Anton Stralman	 	 activated from IR
+32	2019-03-07	 Lightning	 	 • Anton Stralman	 lower body injury (DTD)
+33	2019-04-02	 Lightning	 • Anton Stralman	 	 returned to lineup
+34	2019-04-06	 Lightning	 	 • Anton Stralman	 undisclosed (out for season)

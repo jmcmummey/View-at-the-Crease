@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-01-01	 Lightning	 • Brian Holzinger	 	 activated from IR
+1	2002-10-08	 Lightning	 	 • Brian Holzinger	 placed on IR
+2	2002-11-19	 Lightning	 • Brian Holzinger	 	 activated from IR
+3	2003-03-31	 Penguins	 	 • Brian Holzinger	 knee injury (out for season)

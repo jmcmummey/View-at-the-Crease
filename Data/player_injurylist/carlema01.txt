@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-02	 Flyers	 	 • Matthew Carle / Matt Carle	 lower body injury (DTD)
+1	2008-12-13	 Flyers	 • Matthew Carle / Matt Carle	 	 returned to lineup
+2	2008-12-27	 Flyers	 	 • Matthew Carle / Matt Carle	 undisclosed injury (DTD)
+3	2008-12-30	 Flyers	 • Matthew Carle / Matt Carle	 	 returned to lineup
+4	2010-03-25	 Flyers	 	 • Matthew Carle / Matt Carle	 lower body injury (DTD)
+5	2010-03-28	 Flyers	 • Matthew Carle / Matt Carle	 	 returned to lineup
+6	2015-01-17	 Lightning	 	 • Matthew Carle / Matt Carle	 abdominal injury (DTD)
+7	2015-01-31	 Lightning	 	 • Matthew Carle / Matt Carle	 placed on IR with abdominal injury
+8	2015-03-14	 Lightning	 • Matthew Carle / Matt Carle	 	 activated from IR
+9	2015-05-21	 Lightning	 	 • Matthew Carle / Matt Carle	 undisclosed (DTD)
+10	2015-05-24	 Lightning	 • Matthew Carle / Matt Carle	 	 returned to lineup
+11	2015-12-18	 Lightning	 	 • Matthew Carle / Matt Carle	 flu (DTD)
+12	2015-12-20	 Lightning	 • Matthew Carle / Matt Carle	 	 returned to lineup
+13	2015-12-26	 Lightning	 	 • Matthew Carle / Matt Carle	 undisclosed injury (DTD)
+14	2015-12-30	 Lightning	 • Matthew Carle / Matt Carle	 	 returned to lineup
+15	2016-04-30	 Lightning	 	 • Matthew Carle / Matt Carle	 undisclosed injury (DTD)
+16	2016-05-06	 Lightning	 • Matthew Carle / Matt Carle	 	 returned to lineup

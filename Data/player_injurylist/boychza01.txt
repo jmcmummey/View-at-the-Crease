@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-10	 Hurricanes	 	 • Zach Boychuk	 surgery on wrist (DTD)
+1	2008-10-17	 Hurricanes	 • Zach Boychuk	 	 returned to lineup

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-02-03	 Maple Leafs	 • Gerald Diduck	 	 activated from IR
+1	2000-12-06	 Stars	 	 • Gerald Diduck	 ankle injury (out indefinitely)
+2	2000-12-18	 Stars	 	 • Gerald Diduck	 placed on IR with sprained ankle
+3	2000-12-31	 Stars	 • Gerald Diduck	 	 activated from IR
+4	2001-01-29	 Stars	 	 • Gerald Diduck	 placed on IR with bruised ankle

@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-08	 Predators	 	 • Joel Ward	 head injury (DTD)
+1	2008-11-14	 Predators	 • Joel Ward	 	 returned to lineup
+2	2009-09-30	 Predators	 	 • Joel Ward	 placed on IR with groin injury
+3	2009-10-10	 Predators	 • Joel Ward	 	 activated from IR
+4	2010-01-07	 Predators	 	 • Joel Ward	 lower body strain (DTD)
+5	2010-01-11	 Predators	 • Joel Ward	 	 returned to lineup
+6	2010-01-22	 Predators	 	 • Joel Ward	 groin injury (DTD)
+7	2010-01-30	 Predators	 • Joel Ward	 	 returned to lineup
+8	2010-03-23	 Predators	 	 • Joel Ward	 upper body injury (DTD)
+9	2010-03-30	 Predators	 • Joel Ward	 	 returned to lineup
+10	2011-03-15	 Predators	 	 • Joel Ward	 lower body injury (DTD)
+11	2011-03-19	 Predators	 • Joel Ward	 	 returned to lineup
+12	2011-11-21	 Capitals	 	 • Joel Ward	 flu (DTD)
+13	2012-03-23	 Capitals	 	 • Joel Ward	 lower body injury (DTD)
+14	2012-04-07	 Capitals	 • Joel Ward	 	 returned to lineup
+15	2013-04-09	 Capitals	 	 • Joel Ward	 knee injury (out for season)
+16	2015-12-20	 Sharks	 	 • Joel Ward	 upper body injury (DTD)
+17	2015-12-28	 Sharks	 • Joel Ward	 	 returned to lineup
+18	2016-03-29	 Sharks	 	 • Joel Ward	 undisclosed injury (DTD)
+19	2016-03-31	 Sharks	 • Joel Ward	 	 returned to lineup
+20	2018-02-10	 Sharks	 	 • Joel Ward	 shoulder injury (DTD)
+21	2018-02-19	 Sharks	 	 • Joel Ward	 placed on IR with shoulder injury
+22	2018-03-19	 Sharks	 • Joel Ward	 	 activated from IR

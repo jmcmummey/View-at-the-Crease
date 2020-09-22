@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-03-08	 Capitals	 	 • David Steckel / Dave Steckel	 finger injury (out 4-6 weeks)
+1	2008-04-11	 Capitals	 • David Steckel / Dave Steckel	 	 returned to lineup
+2	2009-02-01	 Capitals	 	 • David Steckel / Dave Steckel	 lower body injury (DTD)
+3	2009-02-03	 Capitals	 • David Steckel / Dave Steckel	 	 returned to lineup
+4	2011-11-27	 Maple Leafs	 	 • David Steckel / Dave Steckel	 hand injury (DTD)
+5	2011-11-30	 Maple Leafs	 • David Steckel / Dave Steckel	 	 returned to lineup
+6	2011-12-19	 Maple Leafs	 	 • David Steckel / Dave Steckel	 bronchitis (DTD)
+7	2011-12-22	 Maple Leafs	 • David Steckel / Dave Steckel	 	 returned to lineup
+8	2012-03-29	 Maple Leafs	 	 • David Steckel / Dave Steckel	 lower body injury (DTD)
+9	2012-04-05	 Maple Leafs	 • David Steckel / Dave Steckel	 	 returned to lineup

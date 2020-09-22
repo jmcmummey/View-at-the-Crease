@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-04	 Oilers	 	 • Jussi Markkanen	 placed on IR with broken collarbone
+1	2005-10-07	 Oilers	 	 • Jussi Markkanen	 broken collarbone (DTD)
+2	2005-10-07	 Oilers	 • Jussi Markkanen	 	 activated from IR
+3	2006-02-05	 Oilers	 	 • Jussi Markkanen	 flu (DTD) (date approximate)
+4	2006-02-12	 Oilers	 • Jussi Markkanen	 	 returned to lineup

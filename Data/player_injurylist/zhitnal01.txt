@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-30	 Islanders	 	 • Alexei Zhitnik	 shoulder injury (left game)
+1	2005-12-31	 Islanders	 	 • Alexei Zhitnik	 shoulder injury (DTD)
+2	2006-01-01	 Islanders	 • Alexei Zhitnik	 	 returned to lineup
+3	2006-02-02	 Islanders	 	 • Alexei Zhitnik	 ankle injury (DTD)
+4	2006-02-28	 Islanders	 • Alexei Zhitnik	 	 returned to lineup
+5	2006-03-15	 Islanders	 	 • Alexei Zhitnik	 broken ankle (out for remainder of regular season)
+6	2007-01-16	 Flyers	 	 • Alexei Zhitnik	 groin injury (DTD)
+7	2008-02-16	 Thrashers	 	 • Alexei Zhitnik	 flu (DTD)
+8	2008-02-21	 Thrashers	 • Alexei Zhitnik	 	 returned to lineup

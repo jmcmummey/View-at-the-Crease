@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-02-22	 Lightning	 	 • Mitchell Stephens	 lower body injury (DTD)
+1	2020-02-24	 Lightning	 • Mitchell Stephens	 	 returned to lineup

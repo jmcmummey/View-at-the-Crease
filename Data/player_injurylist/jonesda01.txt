@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-14	 Avalanche	 	 • David Jones	 back injury (DTD)
+1	2009-01-27	 Avalanche	 • David Jones	 	 returned to lineup
+2	2009-01-27	 Avalanche	 	 • David Jones	 shoulder injury (left game)
+3	2009-01-28	 Avalanche	 	 • David Jones	 placed on IR with shoulder injury
+4	2009-09-30	 Avalanche	 	 • David Jones	 bruised chest (out indefinitely / DTD (Y))
+5	2009-10-12	 Avalanche	 • David Jones	 	 returned to lineup
+6	2009-11-28	 Avalanche	 	 • David Jones	 placed on IR with torn ACL in left knee (out for season)
+7	2010-10-21	 Avalanche	 	 • David Jones	 forearm injury (DTD)
+8	2010-10-23	 Avalanche	 • David Jones	 	 returned to lineup
+9	2010-11-06	 Avalanche	 	 • David Jones	 hand injury (DTD)
+10	2010-11-12	 Avalanche	 • David Jones	 	 returned to lineup
+11	2011-01-26	 Avalanche	 	 • David Jones	 shoulder injury (DTD)
+12	2011-02-05	 Avalanche	 • David Jones	 	 returned to lineup
+13	2011-04-06	 Avalanche	 	 • David Jones	 leg injury (DTD)
+14	2011-04-08	 Avalanche	 • David Jones	 	 returned to lineup
+15	2011-12-15	 Avalanche	 	 • David Jones	 groin (DTD)
+16	2011-12-23	 Avalanche	 	 • David Jones	 placed on IR with groin
+17	2011-12-31	 Avalanche	 • David Jones	 	 activated from IR
+18	2013-02-02	 Avalanche	 	 • David Jones	 knee injury (DTD)
+19	2013-02-06	 Avalanche	 • David Jones	 	 returned to lineup
+20	2013-03-28	 Avalanche	 	 • David Jones	 knee injury (DTD)
+21	2013-04-08	 Avalanche	 • David Jones	 	 returned to lineup
+22	2013-10-10	 Flames	 	 • David Jones	 placed on IR with upper body injury
+23	2013-10-22	 Flames	 • David Jones	 	 activated from IR
+24	2014-01-06	 Flames	 	 • David Jones	 eye injury (DTD)
+25	2014-01-18	 Flames	 	 • David Jones	 placed on IR with eye injury
+26	2014-01-20	 Flames	 • David Jones	 	 activated from IR
+27	2014-03-04	 Flames	 	 • David Jones	 shoulder injury (out for season)
+28	2014-10-14	 Flames	 	 • David Jones	 lower body injury (DTD)
+29	2014-10-16	 Flames	 	 • David Jones	 placed on IR with lower body injury
+30	2014-10-28	 Flames	 • David Jones	 	 activated from IR
+31	2014-11-20	 Flames	 	 • David Jones	 placed on IR with upper body injury
+32	2014-11-26	 Flames	 • David Jones	 	 activated from IR
+33	2015-03-06	 Flames	 	 • David Jones	 lower body injury (DTD)
+34	2015-03-08	 Flames	 • David Jones	 	 returned to lineup
+35	2016-02-12	 Flames	 	 • David Jones	 lower body injury (DTD)
+36	2016-02-17	 Flames	 • David Jones	 	 returned to lineup
+37	2016-03-29	 Wild	 	 • David Jones	 illness (DTD)
+38	2016-04-01	 Wild	 • David Jones	 	 returned to lineup

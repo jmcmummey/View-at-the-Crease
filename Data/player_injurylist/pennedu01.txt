@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-02-04	 Oilers	 	 • Dustin Penner	 flu (DTD)
+1	2011-02-05	 Oilers	 • Dustin Penner	 	 returned to lineup
+2	2011-10-06	 Kings	 	 • Dustin Penner	 lower body injury (DTD)
+3	2011-10-13	 Kings	 • Dustin Penner	 	 returned to lineup
+4	2011-11-11	 Kings	 	 • Dustin Penner	 placed on IR with hand injury
+5	2011-12-02	 Kings	 • Dustin Penner	 	 activated from IR
+6	2012-01-07	 Kings	 	 • Dustin Penner	 back spasms (DTD)
+7	2012-01-09	 Kings	 • Dustin Penner	 	 returned to lineup
+8	2013-03-31	 Kings	 	 • Dustin Penner	 placed on IR with lower body injury
+9	2013-04-08	 Kings	 • Dustin Penner	 	 activated from IR
+10	2013-10-13	 Ducks	 	 • Dustin Penner	 lower (CBC) / upper (Y) body injury (DTD)
+11	2013-10-16	 Ducks	 • Dustin Penner	 	 returned to lineup
+12	2013-10-21	 Ducks	 	 • Dustin Penner	 concussion (DTD)
+13	2013-10-31	 Ducks	 • Dustin Penner	 	 returned to lineup
+14	2014-01-07	 Ducks	 	 • Dustin Penner	 upper body injury (DTD)
+15	2014-04-04	 Capitals	 	 • Dustin Penner	 upper body injury (DTD)
+16	2014-04-08	 Capitals	 • Dustin Penner	 	 returned to lineup

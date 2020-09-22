@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-03-05	 Jets	 	 • Mark Scheifele	 sprained MCL in knee (out for season)
+1	2015-12-27	 Jets	 	 • Mark Scheifele	 placed on IR with concussion
+2	2016-01-03	 Jets	 • Mark Scheifele	 	 activated from IR
+3	2016-01-10	 Jets	 	 • Mark Scheifele	 lower body injury (DTD)
+4	2016-01-13	 Jets	 	 • Mark Scheifele	 placed on IR with lower body injury
+5	2016-01-26	 Jets	 • Mark Scheifele	 	 activated from IR
+6	2016-12-03	 Jets	 	 • Mark Scheifele	 lower body injury (DTD)
+7	2016-12-08	 Jets	 • Mark Scheifele	 	 returned to lineup
+8	2017-12-28	 Jets	 	 • Mark Scheifele	 placed on IR with upper body injury
+9	2018-02-08	 Jets	 • Mark Scheifele	 	 activated from IR
+10	2018-03-08	 Jets	 	 • Mark Scheifele	 upper body injury (DTD)
+11	2018-03-18	 Jets	 • Mark Scheifele	 	 returned to lineup
+12	2020-08-03	 Jets	 	 • Mark Scheifele	 left Achilles injury (out for season)

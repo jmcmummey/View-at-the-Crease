@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-01-17	 Kings	 	 • Martin Jones	 placed on IR with illness / back injury
+1	2015-01-28	 Kings	 • Martin Jones	 	 activated from IR
+2	2017-11-28	 Sharks	 	 • Martin Jones	 lower body injury (DTD)
+3	2017-12-01	 Sharks	 • Martin Jones	 	 returned to lineup
+4	2018-01-20	 Sharks	 	 • Martin Jones	 lower body injury (DTD)
+5	2018-01-25	 Sharks	 	 • Martin Jones	 placed on IR with lower body injury
+6	2018-01-30	 Sharks	 • Martin Jones	 	 activated from IR

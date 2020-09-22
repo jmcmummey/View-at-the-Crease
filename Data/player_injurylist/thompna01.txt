@@ -1,0 +1,53 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-08	 Islanders	 	 • Nate Thompson	 placed on IR with groin injury
+1	2008-11-28	 Islanders	 • Nate Thompson	 	 activated from IR
+2	2008-12-04	 Islanders	 	 • Nate Thompson	 undisclosed injury (DTD)
+3	2008-12-06	 Islanders	 • Nate Thompson	 	 returned to lineup
+4	2008-12-09	 Islanders	 	 • Nate Thompson	 flu (DTD)
+5	2008-12-11	 Islanders	 • Nate Thompson	 	 returned to lineup
+6	2008-12-16	 Islanders	 	 • Nate Thompson	 placed on IR with broken ankle
+7	2009-01-13	 Islanders	 • Nate Thompson	 	 activated from IR
+8	2009-02-07	 Islanders	 	 • Nate Thompson	 placed on IR with left shoulder injury
+9	2009-03-12	 Islanders	 • Nate Thompson	 	 activated from IR
+10	2009-12-29	 Islanders	 	 • Nate Thompson	 shoulder injury (DTD)
+11	2010-01-06	 Islanders	 • Nate Thompson	 	 returned to lineup
+12	2011-02-07	 Lightning	 	 • Nate Thompson	 head injury / concussion (CBC) (DTD)
+13	2011-02-17	 Lightning	 • Nate Thompson	 	 returned to lineup
+14	2011-12-08	 Lightning	 	 • Nate Thompson	 upper body injury (DTD)
+15	2011-12-10	 Lightning	 • Nate Thompson	 	 returned to lineup
+16	2011-12-21	 Lightning	 	 • Nate Thompson	 lower body injury (DTD)
+17	2011-12-31	 Lightning	 	 • Nate Thompson	 placed on IR with lower body injury
+18	2012-01-03	 Lightning	 • Nate Thompson	 	 activated from IR
+19	2012-02-27	 Lightning	 	 • Nate Thompson	 flu (DTD)
+20	2012-03-02	 Lightning	 • Nate Thompson	 	 returned to lineup
+21	2012-03-16	 Lightning	 	 • Nate Thompson	 upper body injury (DTD)
+22	2012-03-31	 Lightning	 • Nate Thompson	 	 returned to lineup
+23	2013-04-14	 Lightning	 	 • Nate Thompson	 facial injury (DTD)
+24	2013-04-16	 Lightning	 • Nate Thompson	 	 returned to lineup
+25	2014-01-14	 Lightning	 	 • Nate Thompson	 flu (DTD)
+26	2014-01-16	 Lightning	 • Nate Thompson	 	 returned to lineup
+27	2015-02-24	 Ducks	 	 • Nate Thompson	 lower body injury (DTD)
+28	2015-03-01	 Ducks	 • Nate Thompson	 	 returned to lineup
+29	2015-04-16	 Ducks	 	 • Nate Thompson	 upper body injury (DTD)
+30	2015-04-30	 Ducks	 • Nate Thompson	 	 returned to lineup
+31	2015-10-05	 Ducks	 	 • Nate Thompson	 placed on IR with surgery on shoulder
+32	2015-12-02	 Ducks	 • Nate Thompson	 	 activated from IR
+33	2016-03-14	 Ducks	 	 • Nate Thompson	 lower body injury (DTD)
+34	2016-03-24	 Ducks	 • Nate Thompson	 	 returned to lineup
+35	2016-10-11	 Ducks	 	 • Nate Thompson	 placed on IR with surgery on Achilles
+36	2017-01-31	 Ducks	 • Nate Thompson	 	 activated from IR
+37	2017-04-06	 Ducks	 	 • Nate Thompson	 upper body injury (DTD)
+38	2017-04-09	 Ducks	 • Nate Thompson	 	 returned to lineup
+39	2018-01-06	 Senators	 	 • Nate Thompson	 lower body injury (DTD)
+40	2018-01-10	 Senators	 	 • Nate Thompson	 placed on IR with lower body injury
+41	2018-01-18	 Senators	 • Nate Thompson	 	 activated from IR
+42	2018-01-20	 Senators	 	 • Nate Thompson	 lower body injury (DTD)
+43	2018-01-20	 Senators	 	 • Nate Thompson	 placed on IR with lower body injury
+44	2018-02-01	 Senators	 • Nate Thompson	 	 activated from IR
+45	2018-02-06	 Senators	 	 • Nate Thompson	 lower body injury (DTD)
+46	2018-02-15	 Kings	 • Nate Thompson	 	 returned to lineup
+47	2019-02-01	 Kings	 	 • Nate Thompson	 flu (DTD)
+48	2019-02-05	 Kings	 • Nate Thompson	 	 returned to lineup
+49	2020-02-15	 Canadiens	 	 • Nate Thompson	 illness (DTD)
+50	2020-02-18	 Canadiens	 • Nate Thompson	 	 returned to lineup
+51	2020-03-11	 Flyers	 	 • Nate Thompson	 sprained knee (DTD)

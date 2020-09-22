@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-11-15	 Panthers	 	 • Cory Murphy	 bruised shoulder (DTD)
+1	2008-01-22	 Panthers	 • Cory Murphy	 	 returned to lineup
+2	2008-10-26	 Panthers	 	 • Cory Murphy	 placed on IR with strained shoulder
+3	2009-01-02	 Panthers	 • Cory Murphy	 	 activated from IR
+4	2009-03-18	 Lightning	 	 • Cory Murphy	 broken foot (out indefinitely)

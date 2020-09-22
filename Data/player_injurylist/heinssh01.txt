@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-02-14	 Sharks	 	 • Shawn Heins	 head injury (out indefinitely)
+1	2001-12-04	 Sharks	 	 • Shawn Heins	 knee injury (out indefinitely)
+2	2002-01-09	 Sharks	 	 • Shawn Heins	 fractured jaw (out indefinitely)
+3	2002-01-18	 Sharks	 	 • Shawn Heins	 placed on IR with fractured jaw

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-04-11	 Flyers	 	 • Marc-Andre Bourdon	 upper body injury (out for season)
+1	2013-01-13	 Flyers	 	 • Marc-Andre Bourdon	 placed on IR with concussion (out for season)
+2	2013-09-30	 Flyers	 	 • Marc-Andre Bourdon	 placed on IR with concussion

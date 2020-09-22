@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-18	 Stars	 	 • Stephane Robidas	 concussion (DTD)
+1	2007-04-02	 Stars	 • Stephane Robidas	 	 returned to lineup
+2	2008-12-12	 Stars	 	 • Stephane Robidas	 surgery to repair broken jaw (DTD)
+3	2008-12-18	 Stars	 • Stephane Robidas	 	 returned to lineup
+4	2009-03-30	 Stars	 	 • Stephane Robidas	 lower body injury (DTD)
+5	2011-12-21	 Stars	 	 • Stephane Robidas	 foot injury (DTD)
+6	2011-12-28	 Stars	 	 • Stephane Robidas	 placed on IR with foot injury
+7	2012-01-04	 Stars	 • Stephane Robidas	 	 activated from IR
+8	2013-11-30	 Stars	 	 • Stephane Robidas	 placed on IR with fractured right leg
+9	2014-03-15	 Ducks	 • Stephane Robidas	 	 activated from IR
+10	2014-04-22	 Ducks	 	 • Stephane Robidas	 fractured right leg (out for season)
+11	2015-01-19	 Maple Leafs	 	 • Stephane Robidas	 upper body injury (DTD)
+12	2015-02-03	 Maple Leafs	 • Stephane Robidas	 	 returned to lineup
+13	2015-03-07	 Maple Leafs	 	 • Stephane Robidas	 surgery on shoulder (out for season)
+14	2015-10-06	 Maple Leafs	 	 • Stephane Robidas	 placed on IR with knee injury
+15	2016-04-09	 Maple Leafs	 • Stephane Robidas	 	 activated from IR
+16	2016-10-10	 Maple Leafs	 	 • Stephane Robidas	 placed on IR with knee injury (out for season)

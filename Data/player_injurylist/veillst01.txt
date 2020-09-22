@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-12-23	 Wild	 	 • Stephane Veilleux	 broken nose (out indefinitely)
+1	2006-12-29	 Wild	 • Stephane Veilleux	 	 returned to lineup
+2	2007-11-11	 Wild	 	 • Stephane Veilleux	 facial injury (DTD)
+3	2007-11-15	 Wild	 • Stephane Veilleux	 	 returned to lineup
+4	2008-03-26	 Wild	 	 • Stephane Veilleux	 flu (DTD)
+5	2008-04-03	 Wild	 • Stephane Veilleux	 	 returned to lineup
+6	2010-01-23	 Lightning	 	 • Stephane Veilleux	 back injury (DTD)
+7	2010-01-31	 Lightning	 • Stephane Veilleux	 	 returned to lineup

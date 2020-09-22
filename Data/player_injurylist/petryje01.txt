@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-30	 Oilers	 	 • Jeff Petry	 facial injury (DTD)
+1	2012-04-05	 Oilers	 • Jeff Petry	 	 returned to lineup
+2	2013-12-08	 Oilers	 	 • Jeff Petry	 head injury (DTD)
+3	2013-12-12	 Oilers	 • Jeff Petry	 	 returned to lineup
+4	2015-02-19	 Oilers	 	 • Jeff Petry	 ribs injury (DTD)
+5	2015-02-24	 Oilers	 • Jeff Petry	 	 returned to lineup
+6	2015-03-19	 Canadiens	 	 • Jeff Petry	 flu (DTD)
+7	2015-03-21	 Canadiens	 • Jeff Petry	 	 returned to lineup
+8	2015-12-20	 Canadiens	 	 • Jeff Petry	 upper body injury (DTD)
+9	2015-12-26	 Canadiens	 • Jeff Petry	 	 returned to lineup
+10	2016-01-08	 Canadiens	 	 • Jeff Petry	 lower body injury (DTD)
+11	2016-01-14	 Canadiens	 • Jeff Petry	 	 returned to lineup
+12	2016-02-09	 Canadiens	 	 • Jeff Petry	 placed on IR with sports hernia (out for season)
+13	2016-02-12	 Canadiens	 	 • Jeff Petry	 placed on IR with sports hernia (CBC) (out for season)
+14	2016-10-10	 Canadiens	 	 • Jeff Petry	 placed on IR with knee injury
+15	2016-10-15	 Canadiens	 • Jeff Petry	 	 activated from IR
+16	2017-01-31	 Canadiens	 	 • Jeff Petry	 flu (DTD)
+17	2017-02-02	 Canadiens	 • Jeff Petry	 	 returned to lineup

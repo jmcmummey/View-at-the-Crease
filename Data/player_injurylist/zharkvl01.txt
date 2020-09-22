@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-01-20	 Devils	 	 • Vladimir Zharkov	 lower body injury (DTD)
+1	2010-01-22	 Devils	 • Vladimir Zharkov	 	 returned to lineup
+2	2011-01-22	 Devils	 	 • Vladimir Zharkov	 flu (DTD)
+3	2011-01-26	 Devils	 • Vladimir Zharkov	 	 returned to lineup

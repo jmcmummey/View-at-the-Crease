@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-11-12	 Red Wings	 	 • Jiri Fischer	 knee injury (out indefinitely)
+1	2005-11-21	 Red Wings	 	 • Jiri Fischer	 heart abnormality (out indefinitely)
+2	2005-11-23	 Red Wings	 	 • Jiri Fischer	 placed on IR with heart abnormality

@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-11-26	 Panthers	 	 • Rob Niedermayer	 thumb injury (out indefinitely)
+1	1998-03-19	 Panthers	 	 • Rob Niedermayer	 head injury (out indefinitely)
+2	2004-03-03	 Mighty Ducks	 • Rob Niedermayer	 	 activated from IR
+3	2006-01-06	 Mighty Ducks	 	 • Rob Niedermayer	 concussion (DTD)
+4	2006-01-21	 Mighty Ducks	 • Rob Niedermayer	 	 returned to lineup
+5	2007-11-01	 Ducks	 • Rob Niedermayer	 	 returned to lineup
+6	2008-01-15	 Ducks	 	 • Rob Niedermayer	 groin injury (DTD)
+7	2008-01-17	 Ducks	 • Rob Niedermayer	 	 returned to lineup
+8	2008-04-15	 Ducks	 	 • Rob Niedermayer	 concussion (out for season)
+9	2009-02-05	 Ducks	 	 • Rob Niedermayer	 undisclosed injury (DTD)
+10	2009-02-07	 Ducks	 • Rob Niedermayer	 	 returned to lineup
+11	2009-11-04	 Devils	 	 • Rob Niedermayer	 undisclosed injury (left game)
+12	2009-11-06	 Devils	 	 • Rob Niedermayer	 placed on IR with upper body injury
+13	2009-12-02	 Devils	 • Rob Niedermayer	 	 activated from IR
+14	2010-11-22	 Sabres	 	 • Rob Niedermayer	 surgery on knee (out indefinitely)
+15	2010-11-24	 Sabres	 	 • Rob Niedermayer	 placed on IR recovering from surgery on knee
+16	2010-12-15	 Sabres	 • Rob Niedermayer	 	 activated from IR

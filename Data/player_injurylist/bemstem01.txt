@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-12-09	 Blue Jackets	 	 • Emil Bemstrom	 rib injury (DTD)
+1	2019-12-15	 Blue Jackets	 	 • Emil Bemstrom	 placed on IR with rib injury
+2	2020-01-04	 Blue Jackets	 • Emil Bemstrom	 	 activated from IR

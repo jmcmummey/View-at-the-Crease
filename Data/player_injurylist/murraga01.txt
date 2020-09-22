@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-22	 Canadiens	 	 • Garth Murray	 separated right shoulder (out indefinitely)
+1	2006-03-07	 Canadiens	 • Garth Murray	 	 returned to lineup
+2	2007-01-06	 Canadiens	 	 • Garth Murray	 gastrointestinal virus (DTD)
+3	2007-01-11	 Canadiens	 • Garth Murray	 	 returned to lineup
+4	2007-10-18	 Canadiens	 	 • Garth Murray	 fractured ankle (out indefinitely)
+5	2007-11-08	 Canadiens	 • Garth Murray	 	 returned to lineup
+6	2007-12-11	 Panthers	 	 • Garth Murray	 right shoulder injury (out indefinitely)

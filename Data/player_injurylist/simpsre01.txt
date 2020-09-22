@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-01-13	 Lightning	 	 • Reid Simpson	 jaw injury (out indefinitely)
+1	2000-11-24	 Blues	 	 • Reid Simpson	 groin injury (out indefinitely)

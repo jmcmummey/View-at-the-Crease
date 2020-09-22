@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1995-02-04	 	 	 • Gary Roberts	 neck injury (out indefinitely)
+1	1996-04-03	 	 	 • Gary Roberts	 neck injury (out indefinitely)
+2	2002-08-13	 Maple Leafs	 	 • Gary Roberts	 surgery on shoulder (out indefinitely)
+3	2005-10-13	 Panthers	 	 • Gary Roberts	 groin injury (DTD)
+4	2005-10-25	 Panthers	 • Gary Roberts	 	 returned to lineup
+5	2006-01-19	 Panthers	 	 • Gary Roberts	 sprained knee (left game)
+6	2006-01-21	 Panthers	 	 • Gary Roberts	 sprained MCL in knee (out indefinitely)
+7	2006-03-03	 Panthers	 	 • Gary Roberts	 sprained MCL in knee (out until late-Mar)
+8	2006-03-20	 Panthers	 • Gary Roberts	 	 returned to lineup
+9	2007-01-04	 Panthers	 	 • Gary Roberts	 placed on IR with hip injury
+10	2007-02-06	 Panthers	 • Gary Roberts	 	 activated from IR
+11	2007-03-29	 Penguins	 	 • Gary Roberts	 knee injury (DTD)
+12	2007-03-31	 Penguins	 • Gary Roberts	 	 returned to lineup
+13	2007-10-27	 Penguins	 	 • Gary Roberts	 cold (DTD)
+14	2008-01-01	 Penguins	 	 • Gary Roberts	 broken leg (out indefinitely)
+15	2008-04-06	 Penguins	 • Gary Roberts	 	 returned to lineup
+16	2008-04-14	 Penguins	 	 • Gary Roberts	 groin injury (DTD)
+17	2008-05-01	 Penguins	 • Gary Roberts	 	 returned to lineup
+18	2008-05-13	 Penguins	 	 • Gary Roberts	 pneumonia (DTD)
+19	2008-11-21	 Lightning	 	 • Gary Roberts	 upper body injury (DTD)
+20	2008-11-23	 Lightning	 	 • Gary Roberts	 placed on IR
+21	2008-11-29	 Lightning	 • Gary Roberts	 	 activated from IR
+22	2008-12-02	 Lightning	 	 • Gary Roberts	 groin injury (DTD)
+23	2009-02-04	 Lightning	 • Gary Roberts	 	 returned to lineup

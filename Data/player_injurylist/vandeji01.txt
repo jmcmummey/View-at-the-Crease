@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-29	 Blackhawks	 	 • Jim Vandermeer	 groin injury (DTD)
+1	2005-11-02	 Blackhawks	 • Jim Vandermeer	 	 returned to lineup
+2	2005-11-19	 Blackhawks	 	 • Jim Vandermeer	 ankle injury (DTD)
+3	2005-11-26	 Blackhawks	 • Jim Vandermeer	 	 returned to lineup
+4	2007-01-27	 Blackhawks	 	 • Jim Vandermeer	 broken right ankle (out indefinitely)
+5	2008-11-11	 Flames	 	 • Jim Vandermeer	 undisclosed (DTD)
+6	2008-11-19	 Flames	 	 • Jim Vandermeer	 fractured left foot/ankle (DTD)
+7	2009-01-13	 Flames	 • Jim Vandermeer	 	 returned to lineup
+8	2009-02-19	 Flames	 • Jim Vandermeer	 	 activated from IR
+9	2009-12-29	 Coyotes	 	 • Jim Vandermeer	 upper body injury (DTD)
+10	2010-01-05	 Coyotes	 • Jim Vandermeer	 	 returned to lineup
+11	2010-12-13	 Oilers	 	 • Jim Vandermeer	 ankle injury (out indefinnitely)
+12	2010-12-16	 Oilers	 	 • Jim Vandermeer	 placed on IR with ankle injury
+13	2011-01-04	 Oilers	 • Jim Vandermeer	 	 activated from IR
+14	2011-01-07	 Oilers	 	 • Jim Vandermeer	 placed on IR with ankle injury
+15	2011-01-23	 Oilers	 • Jim Vandermeer	 	 activated from IR
+16	2011-12-08	 Sharks	 	 • Jim Vandermeer	 hand injury (DTD)
+17	2011-12-12	 Sharks	 	 • Jim Vandermeer	 placed on IR with hand injury
+18	2012-01-21	 Sharks	 • Jim Vandermeer	 	 activated from IR

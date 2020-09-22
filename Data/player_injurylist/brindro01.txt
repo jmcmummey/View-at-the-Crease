@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-11-19	 Flyers	 	 • Rod Brind'Amour	 lacerated elbow (DTD)
+1	1993-02-20	 Flyers	 	 • Rod Brind'Amour	 bruised right hand (DTD)
+2	1999-10-01	 Flyers	 	 • Rod Brind'Amour	 placed on IR with fractured left foot
+3	2003-01-21	 Hurricanes	 	 • Rod Brind'Amour	 placed on IR with hand injury
+4	2005-11-17	 Hurricanes	 	 • Rod Brind'Amour	 groin injury (DTD)
+5	2005-11-25	 Hurricanes	 • Rod Brind'Amour	 	 returned to lineup
+6	2006-12-07	 Hurricanes	 	 • Rod Brind'Amour	 lower body injury (DTD)
+7	2006-12-19	 Hurricanes	 • Rod Brind'Amour	 	 returned to lineup
+8	2007-12-18	 Hurricanes	 	 • Rod Brind'Amour	 flu (DTD)
+9	2007-12-20	 Hurricanes	 • Rod Brind'Amour	 	 returned to lineup
+10	2008-02-14	 Hurricanes	 	 • Rod Brind'Amour	 torn ACL in left knee (out for season)
+11	2008-02-18	 Hurricanes	 	 • Rod Brind'Amour	 placed on IR with torn ACL in left knee
+12	2009-02-04	 Hurricanes	 	 • Rod Brind'Amour	 lower body injury (DTD)
+13	2009-02-12	 Hurricanes	 • Rod Brind'Amour	 	 returned to lineup

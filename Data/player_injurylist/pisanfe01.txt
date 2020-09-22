@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-25	 Oilers	 	 • Fernando Pisani	 illness (DTD)
+1	2005-10-29	 Oilers	 • Fernando Pisani	 	 returned to lineup
+2	2007-02-12	 Oilers	 	 • Fernando Pisani	 concussion (DTD)
+3	2007-02-23	 Oilers	 • Fernando Pisani	 	 returned to lineup
+4	2007-09-11	 Oilers	 	 • Fernando Pisani	 placed on IR with ulcerative colitis (out 6-8 weeks)
+5	2007-12-02	 Oilers	 • Fernando Pisani	 	 activated from IR
+6	2008-10-23	 Oilers	 	 • Fernando Pisani	 back injury (DTD)
+7	2008-10-27	 Oilers	 • Fernando Pisani	 	 returned to lineup
+8	2008-11-17	 Oilers	 	 • Fernando Pisani	 broken left ankle (out indefinitely)
+9	2008-11-18	 Oilers	 	 • Fernando Pisani	 placed on IR with broken left ankle
+10	2009-02-26	 Oilers	 • Fernando Pisani	 	 activated from IR
+11	2009-09-30	 Oilers	 	 • Fernando Pisani	 placed on IR with back injury
+12	2009-10-31	 Oilers	 • Fernando Pisani	 	 activated from IR
+13	2009-11-15	 Oilers	 	 • Fernando Pisani	 placed on IR with ulcerative colitis
+14	2010-01-05	 Oilers	 • Fernando Pisani	 	 activated from IR
+15	2010-01-16	 Oilers	 	 • Fernando Pisani	 flu (DTD)
+16	2010-01-18	 Oilers	 • Fernando Pisani	 	 returned to lineup
+17	2010-02-01	 Oilers	 	 • Fernando Pisani	 undisclosed (DTD)
+18	2010-02-03	 Oilers	 • Fernando Pisani	 	 returned to lineup
+19	2010-03-13	 Oilers	 	 • Fernando Pisani	 groin injury (DTD)
+20	2010-03-16	 Oilers	 • Fernando Pisani	 	 returned to lineup
+21	2010-11-27	 Blackhawks	 	 • Fernando Pisani	 upper body injury (DTD)
+22	2010-12-17	 Blackhawks	 • Fernando Pisani	 	 returned to lineup
+23	2010-12-28	 Blackhawks	 	 • Fernando Pisani	 illness (DTD)
+24	2011-01-02	 Blackhawks	 • Fernando Pisani	 	 returned to lineup
+25	2011-02-11	 Blackhawks	 	 • Fernando Pisani	 head injury (DTD)
+26	2011-03-09	 Blackhawks	 • Fernando Pisani	 	 returned to lineup

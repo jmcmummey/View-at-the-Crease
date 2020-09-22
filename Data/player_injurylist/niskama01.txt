@@ -1,0 +1,34 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-28	 Stars	 	 • Matt Niskanen	 foot injury (DTD)
+1	2008-03-05	 Stars	 • Matt Niskanen	 	 returned to lineup
+2	2008-03-09	 Stars	 	 • Matt Niskanen	 sore back (DTD)
+3	2008-03-13	 Stars	 • Matt Niskanen	 	 returned to lineup
+4	2009-10-22	 Stars	 	 • Matt Niskanen	 head injury (DTD)
+5	2009-10-28	 Stars	 • Matt Niskanen	 	 returned to lineup
+6	2011-01-07	 Stars	 	 • Matt Niskanen	 lacerated hand (DTD)
+7	2011-01-21	 Stars	 • Matt Niskanen	 	 returned to lineup
+8	2011-02-09	 Stars	 	 • Matt Niskanen	 hand injury (DTD)
+9	2011-02-15	 Stars	 • Matt Niskanen	 	 returned to lineup
+10	2011-03-13	 Penguins	 	 • Matt Niskanen	 flu-like symptoms (DTD)
+11	2011-03-20	 Penguins	 • Matt Niskanen	 	 returned to lineup
+12	2011-11-05	 Penguins	 	 • Matt Niskanen	 lower body injury (DTD)
+13	2011-11-11	 Penguins	 • Matt Niskanen	 	 returned to lineup
+14	2012-03-23	 Penguins	 	 • Matt Niskanen	 upper body injury (DTD)
+15	2012-03-30	 Penguins	 • Matt Niskanen	 	 returned to lineup
+16	2012-04-05	 Penguins	 	 • Matt Niskanen	 upper body injury (DTD)
+17	2012-04-15	 Penguins	 • Matt Niskanen	 	 returned to lineup
+18	2013-01-29	 Penguins	 	 • Matt Niskanen	 ankle injury (DTD)
+19	2013-01-31	 Penguins	 	 • Matt Niskanen	 placed on IR with ankle injury
+20	2013-02-13	 Penguins	 • Matt Niskanen	 	 activated from IR
+21	2016-12-08	 Capitals	 	 • Matt Niskanen	 upper body injury (DTD)
+22	2016-12-11	 Capitals	 • Matt Niskanen	 	 returned to lineup
+23	2017-02-23	 Capitals	 	 • Matt Niskanen	 lower body injury (DTD)
+24	2017-02-28	 Capitals	 • Matt Niskanen	 	 returned to lineup
+25	2017-10-14	 Capitals	 	 • Matt Niskanen	 placed on IR with upper body injury
+26	2017-11-14	 Capitals	 • Matt Niskanen	 	 activated from IR
+27	2018-01-02	 Capitals	 	 • Matt Niskanen	 upper body injury (DTD)
+28	2018-01-06	 Capitals	 • Matt Niskanen	 	 returned to lineup
+29	2018-12-28	 Capitals	 	 • Matt Niskanen	 head injury (DTD)
+30	2019-01-03	 Capitals	 • Matt Niskanen	 	 returned to lineup
+31	2019-12-21	 Flyers	 	 • Matt Niskanen	 illness (DTD)
+32	2019-12-23	 Flyers	 • Matt Niskanen	 	 returned to lineup

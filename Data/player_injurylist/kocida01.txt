@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-26	 Blackhawks	 	 • David Koci	 placed on IR with broken nose
+1	2007-11-22	 Blackhawks	 • David Koci	 	 returned to lineup
+2	2008-11-27	 Lightning	 	 • David Koci	 placed on IR with broken hand
+3	2009-01-12	 Lightning	 • David Koci	 	 activated from IR
+4	2010-02-09	 Avalanche	 	 • David Koci	 placed on IR with broken right hand
+5	2010-04-07	 Avalanche	 • David Koci	 	 activated from IR
+6	2010-09-24	 Avalanche	 	 • David Koci	 jaw injury (out indefinitely)
+7	2010-10-06	 Avalanche	 	 • David Koci	 placed on IR with jaw injury

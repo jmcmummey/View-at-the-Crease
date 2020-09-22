@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-02-06	 Canadiens	 • Dainius Zubrus	 	 activated from IR
+1	2002-12-03	 Capitals	 	 • Dainius Zubrus	 placed on IR with left hand injury
+2	2004-01-07	 Capitals	 	 • Dainius Zubrus	 placed on IR
+3	2005-09-01	 Capitals	 	 • Dainius Zubrus	 arthroscopic surgery on knee (date approximate)
+4	2005-11-03	 Capitals	 	 • Dainius Zubrus	 groin injury (DTD)
+5	2005-11-08	 Capitals	 • Dainius Zubrus	 	 returned to lineup
+6	2005-11-15	 Capitals	 	 • Dainius Zubrus	 groin injury (DTD)
+7	2005-12-01	 Capitals	 • Dainius Zubrus	 	 returned to lineup
+8	2006-01-31	 Capitals	 	 • Dainius Zubrus	 arm injury (DTD)
+9	2006-02-03	 Capitals	 • Dainius Zubrus	 	 returned to lineup
+10	2006-11-18	 Capitals	 	 • Dainius Zubrus	 undisclosed injury (DTD)
+11	2006-11-22	 Capitals	 • Dainius Zubrus	 	 returned to lineup
+12	2006-11-30	 Capitals	 	 • Dainius Zubrus	 flu (DTD)
+13	2006-12-06	 Capitals	 • Dainius Zubrus	 	 returned to lineup
+14	2009-11-20	 Devils	 	 • Dainius Zubrus	 fractured right patella (out indefinitely)
+15	2010-01-26	 Devils	 • Dainius Zubrus	 	 activated from IR
+16	2010-04-02	 Devils	 	 • Dainius Zubrus	 illness (DTD)
+17	2010-04-03	 Devils	 • Dainius Zubrus	 	 returned to lineup
+18	2011-01-04	 Devils	 	 • Dainius Zubrus	 undisclosed injury (DTD)
+19	2011-01-06	 Devils	 • Dainius Zubrus	 	 returned to lineup
+20	2011-04-09	 Devils	 	 • Dainius Zubrus	 neck injury (out for season)
+21	2013-02-07	 Devils	 	 • Dainius Zubrus	 wrist injury (DTD)
+22	2013-02-13	 Devils	 	 • Dainius Zubrus	 placed on IR with surgery on wrist
+23	2013-04-01	 Devils	 • Dainius Zubrus	 	 activated from IR
+24	2014-12-09	 Devils	 	 • Dainius Zubrus	 leg injury (DTD)
+25	2014-12-18	 Devils	 	 • Dainius Zubrus	 placed on IR with leg injury
+26	2014-12-27	 Devils	 • Dainius Zubrus	 	 activated from IR
+27	2016-01-09	 Sharks	 	 • Dainius Zubrus	 upper body injury (DTD)
+28	2016-01-13	 Sharks	 	 • Dainius Zubrus	 placed on IR with upper body injury
+29	2016-01-21	 Sharks	 • Dainius Zubrus	 	 activated from IR
+30	2016-04-07	 Sharks	 	 • Dainius Zubrus	 undisclosed injury (DTD)
+31	2016-04-09	 Sharks	 • Dainius Zubrus	 	 returned to lineup

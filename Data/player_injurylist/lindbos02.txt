@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-05-06	 Rangers	 	 • Oscar Lindberg	 surgery on hip (out indefinitely)
+1	2016-10-11	 Rangers	 	 • Oscar Lindberg	 placed on IR recovering from surgery on hip
+2	2016-10-23	 Rangers	 • Oscar Lindberg	 	 activated from IR
+3	2018-02-27	 Golden Knights	 	 • Oscar Lindberg	 upper body injury (DTD)
+4	2018-03-28	 Golden Knights	 • Oscar Lindberg	 	 returned to lineup

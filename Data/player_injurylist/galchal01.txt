@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-07	 Canadiens	 	 • Alex Galchenyuk	 placed on IR with fractured hand
+1	2014-02-26	 Canadiens	 • Alex Galchenyuk	 	 activated from IR
+2	2014-04-10	 Canadiens	 	 • Alex Galchenyuk	 lower body injury (DTD)
+3	2014-05-19	 Canadiens	 • Alex Galchenyuk	 	 returned to lineup
+4	2015-02-19	 Canadiens	 	 • Alex Galchenyuk	 flu (DTD)
+5	2015-02-24	 Canadiens	 • Alex Galchenyuk	 	 returned to lineup
+6	2016-12-05	 Canadiens	 	 • Alex Galchenyuk	 leg injury (DTD)
+7	2016-12-08	 Canadiens	 	 • Alex Galchenyuk	 placed on IR with lower body injury
+8	2017-01-14	 Canadiens	 • Alex Galchenyuk	 	 activated from IR
+9	2017-01-23	 Canadiens	 	 • Alex Galchenyuk	 knee injury (DTD)
+10	2017-01-31	 Canadiens	 	 • Alex Galchenyuk	 placed on IR with knee injury
+11	2017-02-01	 Canadiens	 • Alex Galchenyuk	 	 activated from IR
+12	2018-10-01	 Coyotes	 	 • Alex Galchenyuk	 placed on IR with lower body injury
+13	2018-10-23	 Coyotes	 • Alex Galchenyuk	 	 activated from IR
+14	2018-12-11	 Coyotes	 	 • Alex Galchenyuk	 lower body injury (DTD)
+15	2018-12-16	 Coyotes	 • Alex Galchenyuk	 	 returned to lineup
+16	2019-10-09	 Penguins	 	 • Alex Galchenyuk	 placed on IR with lower body injury
+17	2019-10-29	 Penguins	 • Alex Galchenyuk	 	 activated from IR

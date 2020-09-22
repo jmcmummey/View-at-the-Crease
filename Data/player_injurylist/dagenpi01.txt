@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-10	 Canadiens	 	 • Pierre Dagenais	 flu (DTD)
+1	2005-11-11	 Canadiens	 • Pierre Dagenais	 	 returned to lineup

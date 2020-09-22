@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-17	 Coyotes	 	 • Joel Perrault	 rib injury (DTD)
+1	2006-10-19	 Coyotes	 • Joel Perrault	 	 returned to lineup
+2	2008-09-20	 Coyotes	 	 • Joel Perrault	 placed on IR with concussion
+3	2010-02-09	 Coyotes	 	 • Joel Perrault	 placed on IR with upper body injury
+4	2010-03-02	 Coyotes	 • Joel Perrault	 	 activated from IR

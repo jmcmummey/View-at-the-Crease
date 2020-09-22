@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-11	 Penguins	 	 • Simon Despres	 placed on IR with lower body injury
+1	2012-02-13	 Penguins	 • Simon Despres	 	 activated from IR
+2	2015-01-20	 Penguins	 	 • Simon Despres	 illness (DTD)
+3	2015-01-27	 Penguins	 • Simon Despres	 	 returned to lineup
+4	2015-10-17	 Ducks	 	 • Simon Despres	 placed on IR with upper body injury
+5	2016-01-26	 Ducks	 • Simon Despres	 	 activated from IR
+6	2016-03-02	 Ducks	 	 • Simon Despres	 flu (DTD)
+7	2016-03-05	 Ducks	 • Simon Despres	 	 returned to lineup
+8	2016-03-24	 Ducks	 	 • Simon Despres	 undisclosed injury (DTD)
+9	2016-04-05	 Ducks	 • Simon Despres	 	 returned to lineup
+10	2016-10-14	 Ducks	 	 • Simon Despres	 concussion-like symptoms (DTD)
+11	2016-10-23	 Ducks	 	 • Simon Despres	 placed on IR with concussion-like symptoms (out for season)
+12	2017-04-26	 Ducks	 	 • Simon Despres	 concussion-like symptoms (out for season)

@@ -1,0 +1,49 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1995-01-20		Chicago Blackhawks	4	1	W			25	16	1		0		21	25	1		0
+1	1995-01-22		Calgary Flames	1	4	L			33	40	0		0		19	40	1		0
+2	1995-01-24		Vancouver Canucks	6	3	W			22	17	3		0		29	15	2		0
+3	1995-01-26		Calgary Flames	5	1	W			33	17	1		0		19	21	1		0
+4	1995-01-28		Edmonton Oilers	5	2	W			32	21	2		0		28	15	1		0
+5	1995-01-30	@	Edmonton Oilers	4	2	W			29	18	0		1		24	18	0		1
+6	1995-02-01	@	Calgary Flames	1	2	L			28	12	0		0		25	12	0		1
+7	1995-02-03	@	Mighty Ducks of Anaheim	5	2	W			44	11	1		0		20	13	0		0
+8	1995-02-04	@	Los Angeles Kings	3	4	L			35	6	1		0		33	10	2		0
+9	1995-02-07		San Jose Sharks	6	0	W			29	15	2		0		16	38	0		0
+10	1995-02-10		Toronto Maple Leafs	1	2	L			35	8	0		0		18	8	0		0
+11	1995-02-12		Los Angeles Kings	4	4	T	OT		49	12	1		1		31	10	1		0
+12	1995-02-15	@	Winnipeg Jets	5	1	W			30	10	0		0		31	8	0		0
+13	1995-02-17		Edmonton Oilers	4	2	W			32	19	2		0		26	29	0		0
+14	1995-02-20	@	Toronto Maple Leafs	4	2	W			41	32	1		0		27	10	0		0
+15	1995-02-22		Toronto Maple Leafs	4	1	W			34	12	1		0		25	6	0		0
+16	1995-02-23	@	Chicago Blackhawks	4	2	W			28	6	1		0		27	19	0		0
+17	1995-02-25		St. Louis Blues	2	3	L			37	29	1		0		19	25	1		0
+18	1995-03-02		Winnipeg Jets	6	1	W			33	6	2		0		24	12	0		0
+19	1995-03-05	@	Edmonton Oilers	2	4	L			29	11	1		0		25	23	0		1
+20	1995-03-06	@	Vancouver Canucks	5	2	W			37	12	1		0		40	14	0		0
+21	1995-03-09	@	Mighty Ducks of Anaheim	4	4	T	OT		36	32	0		0		28	18	2		0
+22	1995-03-12	@	St. Louis Blues	2	1	W			28	17	2		0		23	17	1		0
+23	1995-03-14		Los Angeles Kings	5	2	W			43	39	3		1		22	38	0		1
+24	1995-03-16		Dallas Stars	5	4	W			33	6	1		0		23	8	1		0
+25	1995-03-17		Vancouver Canucks	3	1	W			38	38	0		1		24	23	0		0
+26	1995-03-22		Winnipeg Jets	6	3	W			38	22	2		0		16	26	0		0
+27	1995-03-24	@	Calgary Flames	2	3	L			24	49	0		1		32	16	0		0
+28	1995-03-25	@	Vancouver Canucks	2	1	W			23	16	0		0		25	33	1		0
+29	1995-03-28		Mighty Ducks of Anaheim	6	4	W			38	27	3		0		23	31	1		0
+30	1995-03-30		Dallas Stars	3	2	W			34	23	2		0		17	40	0		0
+31	1995-04-01	@	Dallas Stars	3	2	W			27	26	1		0		34	24	0		0
+32	1995-04-02		St. Louis Blues	3	3	T	OT		30	11	1		0		34	23	0		1
+33	1995-04-05	@	San Jose Sharks	5	3	W			39	8	1		0		25	6	2		0
+34	1995-04-07	@	Toronto Maple Leafs	4	2	W			33	10	0		0		23	8	0		0
+35	1995-04-09	@	Chicago Blackhawks	4	1	W			28	11	2		0		26	15	0		0
+36	1995-04-11	@	Dallas Stars	4	1	W			23	33	1		0		25	31	0		0
+37	1995-04-13		San Jose Sharks	3	0	W			41	20	1		0		12	22	0		0
+38	1995-04-14	@	Chicago Blackhawks	3	1	W			23	44	1		0		31	48	0		1
+39	1995-04-16	@	St. Louis Blues	5	6	L			33	48	2		0		23	30	2		1
+40	1995-04-19		Winnipeg Jets	5	5	T	OT		50	14	1		0		28	10	2		0
+41	1995-04-21		Mighty Ducks of Anaheim	6	5	W			34	22	0		0		38	10	2		0
+42	1995-04-23	@	San Jose Sharks	5	1	W			36	15	1		0		14	13	0		0
+43	1995-04-25	@	Los Angeles Kings	1	5	L			31	2	0		0		36	6	0		0
+44	1995-04-27	@	Winnipeg Jets	3	4	L			35	27	1		0		25	34	1		0
+45	1995-04-29		Dallas Stars	4	2	W			27	12	2		0		30	19	1		0
+46	1995-04-30		Chicago Blackhawks	0	4	L			27	10	0		0		22	25	1		0
+47	1995-05-03	@	St. Louis Blues	3	2	W			24	10	2		0		20	12	1		0

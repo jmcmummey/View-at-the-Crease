@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-11-15	 Capitals	 	 • Christian Djoos	 upper body injury (DTD)
+1	2017-11-25	 Capitals	 	 • Christian Djoos	 placed on IR with upper body injury
+2	2017-11-30	 Capitals	 • Christian Djoos	 	 activated from IR
+3	2018-12-12	 Capitals	 	 • Christian Djoos	 lower body injury (DTD)
+4	2018-12-14	 Capitals	 	 • Christian Djoos	 placed on IR with left thigh injury (surgery)
+5	2019-02-09	 Capitals	 • Christian Djoos	 	 activated from IR
+6	2019-12-30	 Capitals	 	 • Christian Djoos	 upper body injury (DTD)
+7	2020-01-11	 Capitals	 • Christian Djoos	 	 returned to lineup

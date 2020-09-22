@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-01-10	 Kings	 	 • Tyler Toffoli	 mononucleosis (DTD)
+1	2015-01-17	 Kings	 	 • Tyler Toffoli	 placed on IR with mononucleosis
+2	2015-01-28	 Kings	 • Tyler Toffoli	 	 activated from IR
+3	2016-12-22	 Kings	 	 • Tyler Toffoli	 lower body injury (DTD)
+4	2016-12-28	 Kings	 	 • Tyler Toffoli	 placed on IR with lower body injury
+5	2017-02-04	 Kings	 • Tyler Toffoli	 	 activated from IR
+6	2020-08-04	 Canucks	 	 • Tyler Toffoli	 lower body injury (DTD)
+7	2020-08-25	 Canucks	 • Tyler Toffoli	 	 returned to lineup

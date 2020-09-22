@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-12-03	 Sabres	 	 • Chris Butler	 ankle injury (DTD)
+1	2009-12-13	 Sabres	 	 • Chris Butler	 placed on IR with ankle injury
+2	2009-12-27	 Sabres	 • Chris Butler	 	 activated from IR
+3	2011-01-09	 Sabres	 	 • Chris Butler	 undisclosed injury (DTD)
+4	2011-03-12	 Sabres	 	 • Chris Butler	 upper body injury (DTD)
+5	2011-03-13	 Sabres	 • Chris Butler	 	 returned to lineup
+6	2012-02-22	 Flames	 	 • Chris Butler	 lacerated left thigh (DTD)
+7	2012-02-25	 Flames	 	 • Chris Butler	 placed on IR with lacerated left thigh
+8	2012-03-22	 Flames	 • Chris Butler	 	 activated from IR

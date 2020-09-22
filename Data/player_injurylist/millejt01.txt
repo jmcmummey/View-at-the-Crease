@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-24	 Rangers	 	 • J.T. Miller	 wrist injury (DTD)
+1	2013-03-26	 Rangers	 • J.T. Miller	 	 returned to lineup
+2	2013-04-06	 Rangers	 	 • J.T. Miller	 wrist injury (DTD)
+3	2013-04-09	 Rangers	 • J.T. Miller	 	 returned to lineup
+4	2014-05-27	 Rangers	 	 • J.T. Miller	 upper body injury (DTD)
+5	2018-12-29	 Lightning	 	 • J.T. Miller	 placed on IR with upper body injury
+6	2019-01-12	 Lightning	 • J.T. Miller	 	 activated from IR

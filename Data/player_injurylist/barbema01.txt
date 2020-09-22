@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-16	 Lightning	 	 • Mark Barberio	 lower body injury (DTD)
+1	2013-11-21	 Lightning	 • Mark Barberio	 	 returned to lineup
+2	2016-03-18	 Canadiens	 	 • Mark Barberio	 concussion (out for season)
+3	2018-01-25	 Avalanche	 	 • Mark Barberio	 lower body injury (DTD)
+4	2018-01-30	 Avalanche	 	 • Mark Barberio	 placed on IR with lower body injury
+5	2018-04-05	 Avalanche	 • Mark Barberio	 	 activated from IR
+6	2018-11-30	 Avalanche	 	 • Mark Barberio	 placed on IR with upper body injury
+7	2019-01-12	 Avalanche	 • Mark Barberio	 	 activated from IR
+8	2019-02-01	 Avalanche	 	 • Mark Barberio	 placed on IR with head injury
+9	2019-02-02	 Avalanche	 	 • Mark Barberio	 head injury (DTD)
+10	2019-02-05	 Avalanche	 	 • Mark Barberio	 placed on IR with head injury
+11	2019-02-16	 Avalanche	 • Mark Barberio	 	 activated from IR
+12	2019-02-18	 Avalanche	 • Mark Barberio	 	 activated from IR

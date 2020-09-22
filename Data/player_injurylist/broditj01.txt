@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-11	 Flames	 	 • T.J. Brodie	 upper body injury (out for season)
+1	2015-10-06	 Flames	 	 • T.J. Brodie	 placed on IR with fractured hand
+2	2015-10-28	 Flames	 • T.J. Brodie	 	 activated from IR
+3	2016-03-10	 Flames	 	 • T.J. Brodie	 upper body injury (DTD)
+4	2016-03-18	 Flames	 • T.J. Brodie	 	 returned to lineup
+5	2018-03-19	 Flames	 	 • T.J. Brodie	 upper body injury (out for season)
+6	2019-02-18	 Flames	 	 • T.J. Brodie	 undisclosed (DTD)
+7	2019-02-20	 Flames	 • T.J. Brodie	 	 returned to lineup
+8	2019-11-15	 Flames	 	 • T.J. Brodie	 undisclosed (out indefinitely)
+9	2019-11-20	 Flames	 	 • T.J. Brodie	 placed on IR with undisclosed
+10	2019-11-25	 Flames	 • T.J. Brodie	 	 activated from IR
+11	2019-12-31	 Flames	 	 • T.J. Brodie	 illness (DTD)
+12	2020-01-02	 Flames	 • T.J. Brodie	 	 returned to lineup

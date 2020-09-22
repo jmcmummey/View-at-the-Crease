@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-01	 Penguins	 	 • Zach Trotman	 placed on IR with surgery to repair hernia
+1	2019-10-26	 Penguins	 • Zach Trotman	 	 activated from IR

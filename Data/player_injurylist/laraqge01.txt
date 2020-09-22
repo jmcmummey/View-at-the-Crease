@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-12-05	 Oilers	 	 • Georges Laraque	 placed on IR with lacerated left elbow
+1	2005-11-11	 Oilers	 	 • Georges Laraque	 thumb injury (DTD)
+2	2005-11-13	 Oilers	 • Georges Laraque	 	 returned to lineup
+3	2006-03-28	 Oilers	 	 • Georges Laraque	 hip flexor injury (DTD)
+4	2006-04-01	 Oilers	 • Georges Laraque	 	 returned to lineup
+5	2006-04-03	 Oilers	 	 • Georges Laraque	 hip flexor injury (DTD)
+6	2006-04-13	 Oilers	 • Georges Laraque	 	 returned to lineup
+7	2007-03-13	 Penguins	 	 • Georges Laraque	 back spasms (DTD)
+8	2007-03-16	 Penguins	 • Georges Laraque	 	 returned to lineup
+9	2007-10-13	 Penguins	 	 • Georges Laraque	 groin injury (DTD)
+10	2007-10-20	 Penguins	 • Georges Laraque	 	 returned to lineup
+11	2007-10-23	 Penguins	 	 • Georges Laraque	 groin injury (DTD)
+12	2007-11-03	 Penguins	 • Georges Laraque	 	 returned to lineup
+13	2008-09-21	 Canadiens	 	 • Georges Laraque	 strained groin (DTD)
+14	2008-10-15	 Canadiens	 • Georges Laraque	 	 returned to lineup
+15	2008-10-20	 Canadiens	 	 • Georges Laraque	 groin injury (DTD)
+16	2008-10-25	 Canadiens	 • Georges Laraque	 	 returned to lineup
+17	2008-11-18	 Canadiens	 	 • Georges Laraque	 undisclosed injury (DTD)
+18	2008-11-20	 Canadiens	 • Georges Laraque	 	 returned to lineup
+19	2008-11-26	 Canadiens	 	 • Georges Laraque	 groin injury (DTD)
+20	2008-12-02	 Canadiens	 • Georges Laraque	 	 returned to lineup
+21	2008-12-13	 Canadiens	 	 • Georges Laraque	 groin injury (DTD)
+22	2008-12-18	 Canadiens	 • Georges Laraque	 	 returned to lineup
+23	2008-12-27	 Canadiens	 	 • Georges Laraque	 groin injury (DTD)
+24	2009-02-06	 Canadiens	 • Georges Laraque	 	 returned to lineup
+25	2009-03-05	 Canadiens	 	 • Georges Laraque	 back injury (out indefinitely)
+26	2009-03-21	 Canadiens	 • Georges Laraque	 	 returned to lineup
+27	2009-11-02	 Canadiens	 	 • Georges Laraque	 back injury (DTD)
+28	2009-11-10	 Canadiens	 	 • Georges Laraque	 placed on IR with upper body injury
+29	2009-11-20	 Canadiens	 • Georges Laraque	 	 activated from IR
+30	2010-01-09	 Canadiens	 	 • Georges Laraque	 upper body injury (DTD)
+31	2010-01-14	 Canadiens	 • Georges Laraque	 	 returned to lineup

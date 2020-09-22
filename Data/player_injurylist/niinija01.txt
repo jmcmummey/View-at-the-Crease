@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-23	 Stars	 	 • Janne Niinimaa	 ankle injury (DTD)
+1	2006-01-25	 Stars	 	 • Janne Niinimaa	 placed on IR with ankle injury
+2	2006-02-06	 Stars	 • Janne Niinimaa	 	 activated from IR
+3	2006-03-26	 Stars	 	 • Janne Niinimaa	 left ankle injury (DTD)
+4	2006-03-31	 Stars	 • Janne Niinimaa	 	 returned to lineup

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-03-09	 Canucks	 	 • Jason King	 head injury (out indefinitely)
+1	2005-10-04	 Canucks	 	 • Jason King	 placed on IR with post-concussion symptoms
+2	2006-01-06	 Canucks	 • Jason King	 	 activated from IR

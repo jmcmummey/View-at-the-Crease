@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-05	 Maple Leafs	 	 • Mats Sundin	 struck in face by puck (left game)
+1	2005-10-06	 Maple Leafs	 	 • Mats Sundin	 placed on IR with broken lower orbital bone (out 4-6 weeks)
+2	2005-11-05	 Maple Leafs	 • Mats Sundin	 	 activated from IR
+3	2006-11-09	 Maple Leafs	 	 • Mats Sundin	 right elbow injury (out 2-4 weeks)
+4	2006-11-25	 Maple Leafs	 • Mats Sundin	 	 returned to lineup
+5	2008-03-15	 Maple Leafs	 	 • Mats Sundin	 strained groin (DTD)
+6	2008-03-27	 Maple Leafs	 • Mats Sundin	 	 returned to lineup
+7	2008-04-01	 Maple Leafs	 	 • Mats Sundin	 groin injury (DTD)
+8	2009-04-19	 Canucks	 	 • Mats Sundin	 sore groin (DTD)
+9	2009-04-30	 Canucks	 • Mats Sundin	 	 returned to lineup

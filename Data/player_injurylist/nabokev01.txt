@@ -1,0 +1,34 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-21	 Sharks	 	 • Evgeni Nabokov	 upper body injury (left game)
+1	2005-10-22	 Sharks	 	 • Evgeni Nabokov	 shoulder injury (out indefinitely)
+2	2005-10-27	 Sharks	 	 • Evgeni Nabokov	 placed on IR with upper body stiffness
+3	2005-11-08	 Sharks	 • Evgeni Nabokov	 	 activated from IR
+4	2005-11-12	 Sharks	 • Evgeni Nabokov	 	 returned to lineup
+5	2005-12-02	 Sharks	 	 • Evgeni Nabokov	 groin injury (left game)
+6	2005-12-03	 Sharks	 	 • Evgeni Nabokov	 groin injury (DTD)
+7	2005-12-08	 Sharks	 • Evgeni Nabokov	 	 returned to lineup
+8	2006-01-16	 Sharks	 	 • Evgeni Nabokov	 groin injury (DTD)
+9	2006-01-21	 Sharks	 • Evgeni Nabokov	 	 returned to lineup
+10	2006-03-09	 Sharks	 	 • Evgeni Nabokov	 abdominal injury (DTD)
+11	2006-03-19	 Sharks	 • Evgeni Nabokov	 	 returned to lineup
+12	2006-11-11	 Sharks	 	 • Evgeni Nabokov	 neck injury (left game)
+13	2007-02-02	 Sharks	 	 • Evgeni Nabokov	 groin injury (DTD)
+14	2007-02-14	 Sharks	 • Evgeni Nabokov	 	 returned to lineup
+15	2008-11-07	 Sharks	 	 • Evgeni Nabokov	 lower body injury (DTD)
+16	2008-11-26	 Sharks	 • Evgeni Nabokov	 	 returned to lineup
+17	2009-02-28	 Sharks	 	 • Evgeni Nabokov	 flu (DTD)
+18	2009-03-05	 Sharks	 	 • Evgeni Nabokov	 lower body injury (DTD)
+19	2009-03-14	 Sharks	 • Evgeni Nabokov	 	 returned to lineup
+20	2011-10-29	 Islanders	 	 • Evgeni Nabokov	 lower body injury (DTD)
+21	2011-11-07	 Islanders	 • Evgeni Nabokov	 	 returned to lineup
+22	2011-11-18	 Islanders	 	 • Evgeni Nabokov	 placed on IR with groin injury
+23	2011-12-12	 Islanders	 • Evgeni Nabokov	 	 activated from IR
+24	2011-12-15	 Islanders	 	 • Evgeni Nabokov	 groin injury (DTD)
+25	2011-12-17	 Islanders	 • Evgeni Nabokov	 	 returned to lineup
+26	2012-02-16	 Islanders	 	 • Evgeni Nabokov	 flu (DTD)
+27	2012-02-24	 Islanders	 • Evgeni Nabokov	 	 returned to lineup
+28	2012-03-28	 Islanders	 	 • Evgeni Nabokov	 lower body injury (out for season)
+29	2013-11-17	 Islanders	 	 • Evgeni Nabokov	 placed on IR with groin injury
+30	2013-12-12	 Islanders	 • Evgeni Nabokov	 	 activated from IR
+31	2014-01-06	 Islanders	 	 • Evgeni Nabokov	 placed on IR with lower body injury
+32	2014-01-27	 Islanders	 • Evgeni Nabokov	 	 activated from IR

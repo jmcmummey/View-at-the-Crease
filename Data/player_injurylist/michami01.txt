@@ -1,0 +1,44 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-10-11	 Sharks	 	 • Milan Michalek	 knee injury (out indefinitely)
+1	2005-12-03	 Sharks	 	 • Milan Michalek	 knee injury (DTD)
+2	2005-12-06	 Sharks	 • Milan Michalek	 	 returned to lineup
+3	2006-11-22	 Sharks	 	 • Milan Michalek	 arm injury (DTD)
+4	2006-11-27	 Sharks	 	 • Milan Michalek	 placed on IR with arm injury
+5	2006-11-29	 Sharks	 • Milan Michalek	 	 activated from IR
+6	2007-01-06	 Sharks	 	 • Milan Michalek	 strained groin (DTD)
+7	2007-01-10	 Sharks	 • Milan Michalek	 	 returned to lineup
+8	2007-11-14	 Sharks	 	 • Milan Michalek	 elbow injury (DTD)
+9	2007-11-24	 Sharks	 • Milan Michalek	 	 returned to lineup
+10	2008-10-17	 Sharks	 	 • Milan Michalek	 upper body injury (DTD)
+11	2008-10-22	 Sharks	 • Milan Michalek	 	 returned to lineup
+12	2008-12-19	 Sharks	 	 • Milan Michalek	 upper body injury (DTD)
+13	2008-12-27	 Sharks	 • Milan Michalek	 	 returned to lineup
+14	2009-11-05	 Senators	 	 • Milan Michalek	 lower body injury (DTD)
+15	2010-01-09	 Senators	 	 • Milan Michalek	 head injury (DTD)
+16	2010-01-21	 Senators	 • Milan Michalek	 	 activated from IR
+17	2010-03-20	 Senators	 	 • Milan Michalek	 leg injury (DTD)
+18	2010-04-08	 Senators	 • Milan Michalek	 	 returned to lineup
+19	2010-04-15	 Senators	 	 • Milan Michalek	 torn ACL in left knee (out for season)
+20	2010-10-30	 Senators	 	 • Milan Michalek	 left knee injury (DTD)
+21	2010-11-09	 Senators	 • Milan Michalek	 	 returned to lineup
+22	2011-02-28	 Senators	 	 • Milan Michalek	 foot injury (DTD)
+23	2011-03-25	 Senators	 • Milan Michalek	 	 returned to lineup
+24	2011-12-14	 Senators	 	 • Milan Michalek	 concussion (DTD)
+25	2011-12-27	 Senators	 • Milan Michalek	 	 returned to lineup
+26	2013-02-13	 Senators	 	 • Milan Michalek	 lower body injury (DTD)
+27	2013-02-22	 Senators	 	 • Milan Michalek	 placed on IR with knee injury
+28	2013-03-05	 Senators	 • Milan Michalek	 	 activated from IR
+29	2013-03-11	 Senators	 	 • Milan Michalek	 knee injury (DTD)
+30	2013-03-16	 Senators	 	 • Milan Michalek	 placed on IR with knee injury
+31	2013-04-12	 Senators	 • Milan Michalek	 	 activated from IR
+32	2014-12-06	 Senators	 	 • Milan Michalek	 placed on IR with upper body injury (date 12-11 per CBC)
+33	2014-12-15	 Senators	 • Milan Michalek	 	 activated from IR
+34	2015-02-07	 Senators	 	 • Milan Michalek	 illness (DTD)
+35	2015-02-10	 Senators	 • Milan Michalek	 	 returned to lineup
+36	2015-03-23	 Senators	 	 • Milan Michalek	 upper body injury (out for season)
+37	2015-12-02	 Senators	 	 • Milan Michalek	 placed on IR with fractured index finger
+38	2016-01-07	 Senators	 • Milan Michalek	 	 activated from IR
+39	2016-01-23	 Senators	 	 • Milan Michalek	 fractured right finger (DTD)
+40	2016-02-02	 Senators	 	 • Milan Michalek	 placed on IR with fractured right finger
+41	2016-03-07	 Maple Leafs	 • Milan Michalek	 	 activated from IR
+42	2016-04-01	 Maple Leafs	 	 • Milan Michalek	 knee injury (out for season)

@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-01-18	 Maple Leafs	 	 • Morgan Rielly	 right knee injury (DTD)
+1	2017-02-02	 Maple Leafs	 • Morgan Rielly	 	 returned to lineup
+2	2018-01-19	 Maple Leafs	 	 • Morgan Rielly	 placed on IR with upper body injury
+3	2018-01-20	 Maple Leafs	 	 • Morgan Rielly	 upper body injury (DTD)
+4	2018-01-22	 Maple Leafs	 	 • Morgan Rielly	 placed on IR with upper body injury
+5	2018-02-03	 Maple Leafs	 • Morgan Rielly	 	 activated from IR
+6	2020-01-13	 Maple Leafs	 	 • Morgan Rielly	 placed on IR with fractured foot
+7	2020-03-10	 Maple Leafs	 • Morgan Rielly	 	 activated from IR

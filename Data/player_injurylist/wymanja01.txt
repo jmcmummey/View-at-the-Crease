@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-05	 Lightning	 	 • J.T. Wyman	 right hand injury (DTD)
+1	2012-01-17	 Lightning	 	 • J.T. Wyman	 placed on IR with finger injury
+2	2012-01-31	 Lightning	 • J.T. Wyman	 	 activated from IR

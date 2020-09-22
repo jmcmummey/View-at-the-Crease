@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-04	 Coyotes	 	 • Fredrik Sjostrom	 placed on IR with lacerated foot
+1	2005-10-08	 Coyotes	 	 • Fredrik Sjostrom	 placed on IR
+2	2006-09-29	 Coyotes	 	 • Fredrik Sjostrom	 shoulder injury (out indefinitely)
+3	2006-10-09	 Coyotes	 • Fredrik Sjostrom	 	 returned to lineup
+4	2010-02-08	 Maple Leafs	 	 • Fredrik Sjostrom	 flu (DTD)
+5	2010-02-12	 Maple Leafs	 • Fredrik Sjostrom	 	 returned to lineup
+6	2010-03-06	 Maple Leafs	 	 • Fredrik Sjostrom	 upper body injury (DTD)
+7	2010-03-18	 Maple Leafs	 • Fredrik Sjostrom	 	 returned to lineup
+8	2011-01-07	 Maple Leafs	 	 • Fredrik Sjostrom	 charley horse (DTD)
+9	2011-01-10	 Maple Leafs	 • Fredrik Sjostrom	 	 returned to lineup
+10	2011-01-13	 Maple Leafs	 	 • Fredrik Sjostrom	 charley horse (DTD)
+11	2011-01-24	 Maple Leafs	 • Fredrik Sjostrom	 	 returned to lineup
+12	2011-03-12	 Maple Leafs	 	 • Fredrik Sjostrom	 upper body injury (DTD)
+13	2011-03-14	 Maple Leafs	 • Fredrik Sjostrom	 	 returned to lineup

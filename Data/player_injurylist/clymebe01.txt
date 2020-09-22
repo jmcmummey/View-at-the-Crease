@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-22	 Lightning	 	 • Ben Clymer	 placed on IR with groin injury
+1	2005-10-22	 Capitals	 	 • Ben Clymer	 groin injury (DTD)
+2	2005-10-26	 Capitals	 • Ben Clymer	 	 returned to lineup
+3	2006-01-25	 Capitals	 	 • Ben Clymer	 flu (DTD)
+4	2006-01-26	 Capitals	 • Ben Clymer	 	 returned to lineup
+5	2007-03-16	 Capitals	 	 • Ben Clymer	 groin injury (DTD)
+6	2007-03-18	 Capitals	 • Ben Clymer	 	 returned to lineup
+7	2007-03-25	 Capitals	 	 • Ben Clymer	 sports hernia (out for remainder of regular season)

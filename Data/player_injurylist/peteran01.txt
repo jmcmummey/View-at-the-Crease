@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-03	 Sabres	 	 • Andrew Peters	 placed on IR with tricep injury
+1	2007-01-08	 Sabres	 	 • Andrew Peters	 foot injury (DTD)
+2	2007-03-03	 Sabres	 	 • Andrew Peters	 upper body injury (DTD)
+3	2007-03-10	 Sabres	 • Andrew Peters	 	 returned to lineup
+4	2007-11-28	 Sabres	 	 • Andrew Peters	 flu (DTD)
+5	2007-12-05	 Sabres	 • Andrew Peters	 	 returned to lineup
+6	2008-12-04	 Sabres	 	 • Andrew Peters	 abdominal injury (DTD)
+7	2008-12-13	 Sabres	 • Andrew Peters	 	 returned to lineup
+8	2010-03-28	 Devils	 	 • Andrew Peters	 eye injury (DTD)
+9	2010-04-06	 Devils	 • Andrew Peters	 	 returned to lineup
+10	2010-04-16	 Devils	 	 • Andrew Peters	 eye injury (DTD)

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-15	 Jets	 	 • Blake Wheeler	 throat injury (DTD)
+1	2012-01-19	 Jets	 • Blake Wheeler	 	 returned to lineup
+2	2015-02-24	 Jets	 	 • Blake Wheeler	 placed on IR with knee injury
+3	2015-03-01	 Jets	 • Blake Wheeler	 	 activated from IR

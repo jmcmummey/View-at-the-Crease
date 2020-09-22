@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-03-02	 Blackhawks	 	 • Nick Schmaltz	 illness (DTD)
+1	2017-03-09	 Blackhawks	 • Nick Schmaltz	 	 returned to lineup
+2	2017-10-08	 Blackhawks	 	 • Nick Schmaltz	 upper body injury (DTD)
+3	2017-10-18	 Blackhawks	 • Nick Schmaltz	 	 returned to lineup
+4	2018-11-25	 Blackhawks	 • Dylan Strome• Brendan Perlini	 • Nick Schmaltz	 trade with Coyotes
+5	2019-01-01	 Coyotes	 	 • Nick Schmaltz	 lower body injury (out for season)
+6	2019-01-01	 Coyotes	 	 • Nick Schmaltz	 placed on IR with lower body injury (out for season)
+7	2020-08-02	 Coyotes	 	 • Nick Schmaltz	 stiff neck (out for season)

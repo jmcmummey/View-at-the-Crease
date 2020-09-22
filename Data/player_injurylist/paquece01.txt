@@ -1,0 +1,37 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-11-19	 Lightning	 	 • Cedric Paquette	 lower body injury (DTD)
+1	2014-11-22	 Lightning	 • Cedric Paquette	 	 returned to lineup
+2	2015-02-10	 Lightning	 	 • Cedric Paquette	 upper body injury (DTD)
+3	2015-02-14	 Lightning	 • Cedric Paquette	 	 returned to lineup
+4	2015-03-12	 Lightning	 	 • Cedric Paquette	 upper body injury (DTD)
+5	2015-03-26	 Lightning	 • Cedric Paquette	 	 returned to lineup
+6	2015-05-06	 Lightning	 	 • Cedric Paquette	 upper body injury (DTD)
+7	2015-05-07	 Lightning	 • Cedric Paquette	 	 returned to lineup
+8	2015-05-26	 Lightning	 	 • Cedric Paquette	 right arm/hand injury (DTD)
+9	2015-05-29	 Lightning	 • Cedric Paquette	 	 returned to lineup
+10	2015-10-06	 Lightning	 	 • Cedric Paquette	 placed on IR with undisclosed injury
+11	2015-10-15	 Lightning	 • Cedric Paquette	 	 activated from IR
+12	2015-10-27	 Lightning	 	 • Cedric Paquette	 undisclosed (DTD)
+13	2015-10-31	 Lightning	 	 • Cedric Paquette	 placed on IR with leg injury
+14	2015-11-05	 Lightning	 • Cedric Paquette	 	 activated from IR
+15	2015-11-16	 Lightning	 	 • Cedric Paquette	 undisclosed (DTD)
+16	2015-11-19	 Lightning	 	 • Cedric Paquette	 placed on IR with upper body injury
+17	2015-12-22	 Lightning	 • Cedric Paquette	 	 activated from IR
+18	2016-03-12	 Lightning	 	 • Cedric Paquette	 lower body injury (DTD)
+19	2016-03-17	 Lightning	 • Cedric Paquette	 	 returned to lineup
+20	2016-12-17	 Lightning	 	 • Cedric Paquette	 upper body injury (DTD)
+21	2016-12-20	 Lightning	 • Cedric Paquette	 	 returned to lineup
+22	2016-12-22	 Lightning	 	 • Cedric Paquette	 lower body injury (DTD)
+23	2016-12-29	 Lightning	 	 • Cedric Paquette	 placed on IR with lower body injury
+24	2017-01-05	 Lightning	 • Cedric Paquette	 	 activated from IR
+25	2017-03-10	 Lightning	 	 • Cedric Paquette	 lower body injury (out for season)
+26	2017-10-12	 Lightning	 	 • Cedric Paquette	 lower body injury (DTD)
+27	2017-10-14	 Lightning	 • Cedric Paquette	 	 returned to lineup
+28	2017-10-19	 Lightning	 	 • Cedric Paquette	 upper body injury (DTD)
+29	2017-11-22	 Lightning	 • Cedric Paquette	 	 returned to lineup
+30	2018-11-19	 Lightning	 	 • Cedric Paquette	 lower body injury (DTD)
+31	2018-11-21	 Lightning	 • Cedric Paquette	 	 returned to lineup
+32	2019-09-28	 Lightning	 	 • Cedric Paquette	 placed on IR with arm injury
+33	2019-10-23	 Lightning	 • Cedric Paquette	 	 activated from IR
+34	2020-02-22	 Lightning	 	 • Cedric Paquette	 undisclosed (DTD)
+35	2020-02-25	 Lightning	 • Cedric Paquette	 	 returned to lineup

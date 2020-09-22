@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-10-04	 Flyers	 	 • Jiri Dopita	 sprained MCL in left knee (out indefinitely)
+1	2002-11-13	 Oilers	 	 • Jiri Dopita	 placed on IR with sore right knee
+2	2002-12-05	 Oilers	 • Jiri Dopita	 	 activated from IR

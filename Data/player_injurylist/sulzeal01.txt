@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-28	 Predators	 	 • Alexander Sulzer	 left shoulder injury (DTD)
+1	2009-02-03	 Predators	 	 • Alexander Sulzer	 placed on IR
+2	2009-03-04	 Predators	 • Alexander Sulzer	 	 activated from IR
+3	2011-03-06	 Panthers	 	 • Alexander Sulzer	 oblique injury (DTD)
+4	2011-03-22	 Panthers	 • Alexander Sulzer	 	 returned to lineup
+5	2011-03-29	 Panthers	 	 • Alexander Sulzer	 groin injury (out for season)
+6	2013-02-24	 Sabres	 	 • Alexander Sulzer	 placed on IR with lower body injury
+7	2013-12-05	 Sabres	 	 • Alexander Sulzer	 placed on IR with undisclosed injury
+8	2013-12-17	 Sabres	 • Alexander Sulzer	 	 activated from IR
+9	2013-12-23	 Sabres	 	 • Alexander Sulzer	 illness (DTD)
+10	2014-01-01	 Sabres	 • Alexander Sulzer	 	 returned to lineup
+11	2014-03-08	 Sabres	 	 • Alexander Sulzer	 lower body injury (DTD)
+12	2014-03-13	 Sabres	 • Alexander Sulzer	 	 returned to lineup
+13	2014-03-15	 Sabres	 	 • Alexander Sulzer	 arm injury (out for season)

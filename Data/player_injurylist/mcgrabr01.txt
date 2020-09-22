@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-02-06	 Senators	 	 • Brian McGrattan	 right eye injury (DTD)
+1	2006-03-04	 Senators	 • Brian McGrattan	 	 returned to lineup
+2	2007-12-12	 Senators	 	 • Brian McGrattan	 hand injury (DTD)
+3	2007-12-14	 Senators	 • Brian McGrattan	 	 returned to lineup
+4	2007-12-15	 Senators	 	 • Brian McGrattan	 shoulder injury (DTD)
+5	2007-12-18	 Senators	 • Brian McGrattan	 	 returned to lineup
+6	2008-01-22	 Senators	 	 • Brian McGrattan	 shoulder injury (DTD)
+7	2008-01-29	 Senators	 • Brian McGrattan	 	 returned to lineup
+8	2008-02-28	 Senators	 	 • Brian McGrattan	 flu (DTD)
+9	2008-03-06	 Senators	 • Brian McGrattan	 	 returned to lineup
+10	2009-03-22	 Coyotes	 	 • Brian McGrattan	 upper body injury (out for season)
+11	2009-09-29	 Flames	 	 • Brian McGrattan	 recovering from surgery on shoulder (DTD)
+12	2009-10-12	 Flames	 • Brian McGrattan	 	 returned to lineup
+13	2010-04-02	 Flames	 	 • Brian McGrattan	 undisclosed (out for season)
+14	2012-02-09	 Predators	 	 • Brian McGrattan	 upper body injury (DTD)
+15	2012-02-15	 Predators	 	 • Brian McGrattan	 placed on IR with upper body injury
+16	2012-03-03	 Predators	 	 • Brian McGrattan	 upper body injury (out for season)
+17	2013-04-08	 Flames	 	 • Brian McGrattan	 shoulder injury (DTD)
+18	2013-04-19	 Flames	 • Brian McGrattan	 	 returned to lineup
+19	2013-12-06	 Flames	 	 • Brian McGrattan	 lower body injury (DTD)
+20	2013-12-07	 Flames	 • Brian McGrattan	 	 returned to lineup
+21	2014-01-24	 Flames	 	 • Brian McGrattan	 undisclosed injury (DTD)
+22	2014-01-28	 Flames	 • Brian McGrattan	 	 returned to lineup
+23	2014-02-27	 Flames	 	 • Brian McGrattan	 upper body injury (DTD)
+24	2014-03-03	 Flames	 • Brian McGrattan	 	 returned to lineup

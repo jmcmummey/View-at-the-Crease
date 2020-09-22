@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-10-11	 Wild	 • Willie Mitchell	 	 activated from IR
+1	2002-12-15	 Wild	 	 • Willie Mitchell	 placed on IR with concussion
+2	2006-04-09	 Stars	 	 • Willie Mitchell	 upper body injury (DTD)
+3	2006-04-15	 Stars	 • Willie Mitchell	 	 returned to lineup
+4	2006-10-23	 Canucks	 	 • Willie Mitchell	 concussion (DTD)
+5	2006-11-14	 Canucks	 • Willie Mitchell	 	 returned to lineup
+6	2007-01-13	 Canucks	 	 • Willie Mitchell	 groin injury (DTD)
+7	2007-01-18	 Canucks	 • Willie Mitchell	 	 returned to lineup
+8	2007-01-19	 Canucks	 	 • Willie Mitchell	 groin injury (DTD)
+9	2007-02-01	 Canucks	 • Willie Mitchell	 	 returned to lineup
+10	2007-03-13	 Canucks	 	 • Willie Mitchell	 groin injury (DTD)
+11	2007-03-25	 Canucks	 • Willie Mitchell	 	 returned to lineup
+12	2008-01-19	 Canucks	 	 • Willie Mitchell	 sore back (DTD)
+13	2008-02-14	 Canucks	 • Willie Mitchell	 	 returned to lineup
+14	2010-01-19	 Canucks	 	 • Willie Mitchell	 back injury (DTD)
+15	2010-11-07	 Kings	 	 • Willie Mitchell	 broken wrist (out indefinitely)
+16	2010-11-08	 Kings	 	 • Willie Mitchell	 placed on IR with broken wrist
+17	2010-12-13	 Kings	 • Willie Mitchell	 	 activated from IR
+18	2010-12-17	 Kings	 	 • Willie Mitchell	 lower body injury (DTD)
+19	2011-01-08	 Kings	 • Willie Mitchell	 	 returned to lineup
+20	2011-12-02	 Kings	 	 • Willie Mitchell	 lower body injury (DTD)
+21	2011-12-08	 Kings	 	 • Willie Mitchell	 placed on IR with lower body injury
+22	2011-12-10	 Kings	 • Willie Mitchell	 	 activated from IR
+23	2011-12-13	 Kings	 	 • Willie Mitchell	 groin injury (DTD)
+24	2011-12-19	 Kings	 • Willie Mitchell	 	 returned to lineup
+25	2013-01-18	 Kings	 	 • Willie Mitchell	 placed on IR with surgery on knee (out for season)
+26	2013-12-15	 Kings	 	 • Willie Mitchell	 upper body injury (DTD)
+27	2013-12-28	 Kings	 • Willie Mitchell	 	 returned to lineup
+28	2015-02-05	 Panthers	 	 • Willie Mitchell	 upper body injury (DTD)
+29	2015-02-14	 Panthers	 	 • Willie Mitchell	 placed on IR with upper body injury
+30	2015-03-07	 Panthers	 • Willie Mitchell	 	 activated from IR
+31	2016-01-21	 Panthers	 	 • Willie Mitchell	 placed on IR with upper body injury (out for season)

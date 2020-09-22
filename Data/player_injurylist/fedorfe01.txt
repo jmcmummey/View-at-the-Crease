@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-15	 Rangers	 	 • Fedor Fedorov	 eye injury (DTD)
+1	2005-11-19	 Rangers	 • Fedor Fedorov	 	 returned to lineup

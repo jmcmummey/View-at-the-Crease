@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-12-10	 Predators	 	 • Ville Peltonen	 surgery on shoulder (out indefinitely)
+1	2006-10-03	 Panthers	 	 • Ville Peltonen	 placed on IR with shoulder injury
+2	2006-10-25	 Panthers	 • Ville Peltonen	 	 activated from IR
+3	2007-12-16	 Panthers	 	 • Ville Peltonen	 foot injury (DTD)
+4	2007-12-19	 Panthers	 	 • Ville Peltonen	 foot injury (out 4-6 weeks)
+5	2008-02-09	 Panthers	 • Ville Peltonen	 	 returned to lineup
+6	2008-03-25	 Panthers	 	 • Ville Peltonen	 broken toe (DTD)
+7	2008-03-29	 Panthers	 • Ville Peltonen	 	 returned to lineup
+8	2009-01-18	 Panthers	 	 • Ville Peltonen	 knee injury (DTD)
+9	2009-01-27	 Panthers	 • Ville Peltonen	 	 returned to lineup

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-30	 Bruins	 	 • Joonas Kemppainen	 undisclosed (DTD)
+1	2015-10-31	 Bruins	 • Joonas Kemppainen	 	 returned to lineup
+2	2015-12-08	 Bruins	 	 • Joonas Kemppainen	 placed on IR with upper body injury
+3	2016-01-05	 Bruins	 • Joonas Kemppainen	 	 activated from IR

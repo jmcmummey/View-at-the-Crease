@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-02-04	 Devils	 	 • Adam Larsson	 bruised lower back (DTD)
+1	2012-02-19	 Devils	 	 • Adam Larsson	 placed on IR with back injury
+2	2012-02-26	 Devils	 • Adam Larsson	 	 activated from IR
+3	2013-11-25	 Devils	 	 • Adam Larsson	 lower body injury (DTD)
+4	2013-12-01	 Devils	 	 • Adam Larsson	 placed on IR with lower body injury
+5	2014-01-09	 Devils	 • Adam Larsson	 	 activated from IR
+6	2014-12-04	 Devils	 	 • Adam Larsson	 flu (DTD)
+7	2014-12-08	 Devils	 	 • Adam Larsson	 placed on IR with flu
+8	2014-12-19	 Devils	 • Adam Larsson	 	 activated from IR
+9	2017-02-22	 Oilers	 	 • Adam Larsson	 lower body injury (DTD)
+10	2017-02-26	 Oilers	 • Adam Larsson	 	 returned to lineup
+11	2017-11-30	 Oilers	 	 • Adam Larsson	 upper body injury (DTD)
+12	2017-12-01	 Oilers	 	 • Adam Larsson	 placed on IR with upper body injury
+13	2017-12-18	 Oilers	 • Adam Larsson	 	 activated from IR
+14	2019-10-03	 Oilers	 	 • Adam Larsson	 placed on IR with fractured fibula in right leg
+15	2019-11-21	 Oilers	 • Adam Larsson	 	 activated from IR
+16	2020-08-05	 Oilers	 	 • Adam Larsson	 undisclosed (out for season)

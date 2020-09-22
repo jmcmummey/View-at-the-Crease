@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-01-06	 Red Wings	 	 • Kris Draper	 placed on IR recovering from surgery to repair dislocated thumb
+1	2005-10-20	 Red Wings	 	 • Kris Draper	 eye injury (DTD)
+2	2005-10-22	 Red Wings	 • Kris Draper	 	 returned to lineup
+3	2007-01-26	 Red Wings	 	 • Kris Draper	 flu (DTD)
+4	2007-01-28	 Red Wings	 • Kris Draper	 	 returned to lineup
+5	2007-11-28	 Red Wings	 	 • Kris Draper	 sprained left knee (DTD)
+6	2007-12-19	 Red Wings	 • Kris Draper	 	 returned to lineup
+7	2008-03-13	 Red Wings	 	 • Kris Draper	 groin injury (DTD)
+8	2008-03-22	 Red Wings	 • Kris Draper	 	 returned to lineup
+9	2008-04-02	 Red Wings	 	 • Kris Draper	 groin injury (DTD)
+10	2008-04-10	 Red Wings	 • Kris Draper	 	 returned to lineup
+11	2009-04-12	 Red Wings	 	 • Kris Draper	 upper body injury (DTD)
+12	2009-05-24	 Red Wings	 	 • Kris Draper	 groin injury (DTD)
+13	2009-06-04	 Red Wings	 • Kris Draper	 	 returned to lineup
+14	2010-10-08	 Red Wings	 	 • Kris Draper	 placed on IR with groin injury
+15	2010-12-04	 Red Wings	 • Kris Draper	 	 activated from IR

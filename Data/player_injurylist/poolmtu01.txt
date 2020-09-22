@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-22	 Jets	 	 • Tucker Poolman	 undisclosed (DTD)
+1	2019-10-26	 Jets	 • Tucker Poolman	 	 returned to lineup
+2	2019-11-04	 Jets	 	 • Tucker Poolman	 upper body injury (DTD)
+3	2019-11-08	 Jets	 • Tucker Poolman	 	 returned to lineup
+4	2020-01-13	 Jets	 	 • Tucker Poolman	 lower body injury (DTD)
+5	2020-01-16	 Jets	 	 • Tucker Poolman	 placed on IR with lower body injury
+6	2020-02-14	 Jets	 • Tucker Poolman	 	 activated from IR

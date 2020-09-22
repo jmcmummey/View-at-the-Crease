@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-12-09	 Islanders	 	 • Tim Jackman	 hip pointer (DTD)
+1	2009-12-13	 Islanders	 	 • Tim Jackman	 placed on IR
+2	2009-12-26	 Islanders	 • Tim Jackman	 	 activated from IR
+3	2010-01-02	 Islanders	 	 • Tim Jackman	 fractured orbital bone (out indefinitely)
+4	2010-03-02	 Islanders	 • Tim Jackman	 	 returned to lineup
+5	2012-03-07	 Flames	 	 • Tim Jackman	 upper body injury (DTD)
+6	2012-03-20	 Flames	 • Tim Jackman	 	 returned to lineup
+7	2014-03-29	 Ducks	 	 • Tim Jackman	 flu (DTD)
+8	2014-04-04	 Ducks	 • Tim Jackman	 	 returned to lineup
+9	2014-04-05	 Ducks	 	 • Tim Jackman	 fractured left hand (out for season)
+10	2014-11-16	 Ducks	 	 • Tim Jackman	 flu (DTD)
+11	2014-11-18	 Ducks	 • Tim Jackman	 	 returned to lineup
+12	2014-12-23	 Ducks	 	 • Tim Jackman	 placed on IR with upper body injury
+13	2014-12-28	 Ducks	 	 • Tim Jackman	 placed on IR with upper body injury (CBC)
+14	2014-12-31	 Ducks	 • Tim Jackman	 	 activated from IR
+15	2015-03-02	 Ducks	 	 • Tim Jackman	 placed on IR with lower body injury
+16	2015-04-08	 Ducks	 • Tim Jackman	 	 activated from IR

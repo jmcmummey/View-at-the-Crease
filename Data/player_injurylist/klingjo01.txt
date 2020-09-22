@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-03-11	 Stars	 	 • John Klingberg	 upper body injury (DTD)
+1	2015-03-18	 Stars	 • John Klingberg	 	 returned to lineup
+2	2016-03-05	 Stars	 	 • John Klingberg	 lower body injury (DTD)
+3	2016-03-19	 Stars	 • John Klingberg	 	 returned to lineup
+4	2018-11-09	 Stars	 	 • John Klingberg	 placed on IR with surgery on hand
+5	2018-12-19	 Stars	 • John Klingberg	 	 activated from IR
+6	2019-11-06	 Stars	 	 • John Klingberg	 lower body injury (out indefinitely)
+7	2019-11-14	 Stars	 	 • John Klingberg	 placed on IR with lower body injury
+8	2019-11-23	 Stars	 • John Klingberg	 	 activated from IR
+9	2020-01-03	 Stars	 	 • John Klingberg	 lower body injury (DTD)
+10	2020-01-07	 Stars	 	 • John Klingberg	 placed on IR with lower body injury
+11	2020-01-14	 Stars	 • John Klingberg	 	 activated from IR
+12	2020-08-05	 Stars	 	 • John Klingberg	 undisclosed (DTD)
+13	2020-08-09	 Stars	 • John Klingberg	 	 returned to lineup

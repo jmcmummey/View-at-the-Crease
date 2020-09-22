@@ -1,0 +1,51 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-01	 Bruins	 	 • David Krejci	 concussion (DTD)
+1	2007-02-05	 Bruins	 • David Krejci	 	 returned to lineup
+2	2009-11-05	 Bruins	 	 • David Krejci	 H1N1 flu (DTD)
+3	2009-11-10	 Bruins	 • David Krejci	 	 returned to lineup
+4	2010-01-14	 Bruins	 	 • David Krejci	 undisclosed (DTD)
+5	2010-01-16	 Bruins	 • David Krejci	 	 returned to lineup
+6	2010-02-07	 Bruins	 	 • David Krejci	 undisclosed injury (left game)
+7	2010-05-06	 Bruins	 	 • David Krejci	 broken / dislocated right wrist (out for season)
+8	2010-11-07	 Bruins	 	 • David Krejci	 concussion (DTD)
+9	2010-11-20	 Bruins	 • David Krejci	 	 returned to lineup
+10	2010-11-28	 Bruins	 	 • David Krejci	 flu (DTD)
+11	2010-12-01	 Bruins	 • David Krejci	 	 returned to lineup
+12	2011-10-11	 Bruins	 	 • David Krejci	 leg injury (DTD)
+13	2011-10-20	 Bruins	 • David Krejci	 	 returned to lineup
+14	2013-03-18	 Bruins	 	 • David Krejci	 bruised right knee (DTD)
+15	2013-03-21	 Bruins	 • David Krejci	 	 returned to lineup
+16	2014-10-06	 Bruins	 	 • David Krejci	 placed on IR with undisclosed injury
+17	2014-10-13	 Bruins	 • David Krejci	 	 activated from IR
+18	2014-11-01	 Bruins	 	 • David Krejci	 undisclosed injury (DTD)
+19	2014-11-06	 Bruins	 • David Krejci	 	 returned to lineup
+20	2014-11-10	 Bruins	 	 • David Krejci	 hip injury (DTD)
+21	2014-11-18	 Bruins	 • David Krejci	 	 returned to lineup
+22	2014-11-21	 Bruins	 	 • David Krejci	 hip injury (DTD)
+23	2014-11-30	 Bruins	 	 • David Krejci	 placed on IR with lower body injury
+24	2014-12-17	 Bruins	 • David Krejci	 	 activated from IR
+25	2015-02-21	 Bruins	 	 • David Krejci	 placed on IR with torn MCL in knee
+26	2015-03-26	 Bruins	 • David Krejci	 	 activated from IR
+27	2015-12-28	 Bruins	 	 • David Krejci	 placed on IR with upper body injury
+28	2016-01-21	 Bruins	 • David Krejci	 	 activated from IR
+29	2016-04-25	 Bruins	 	 • David Krejci	 surgery on left hip (out indefinitely)
+30	2017-04-12	 Bruins	 	 • David Krejci	 upper body injury (DTD)
+31	2017-04-17	 Bruins	 • David Krejci	 	 returned to lineup
+32	2017-04-23	 Bruins	 	 • David Krejci	 lower body injury (out for season)
+33	2017-10-20	 Bruins	 	 • David Krejci	 upper body injury (DTD)
+34	2017-11-06	 Bruins	 	 • David Krejci	 placed on IR with back injury
+35	2017-11-18	 Bruins	 • David Krejci	 	 activated from IR
+36	2017-11-28	 Bruins	 	 • David Krejci	 upper body injury (DTD)
+37	2017-12-02	 Bruins	 • David Krejci	 	 returned to lineup
+38	2017-12-18	 Bruins	 	 • David Krejci	 upper body injury (DTD)
+39	2017-12-18	 Bruins	 	 • David Krejci	 placed on IR with upper body injury
+40	2017-12-30	 Bruins	 • David Krejci	 	 activated from IR
+41	2019-10-03	 Bruins	 	 • David Krejci	 lower body injury (DTD)
+42	2019-10-05	 Bruins	 • David Krejci	 	 returned to lineup
+43	2019-10-17	 Bruins	 	 • David Krejci	 upper body injury (DTD)
+44	2019-10-22	 Bruins	 	 • David Krejci	 placed on IR with upper body injury
+45	2019-10-29	 Bruins	 • David Krejci	 	 activated from IR
+46	2019-12-30	 Bruins	 	 • David Krejci	 lower body injury (DTD)
+47	2020-01-02	 Bruins	 • David Krejci	 	 returned to lineup
+48	2020-01-16	 Bruins	 	 • David Krejci	 upper body injury (DTD)
+49	2020-01-21	 Bruins	 • David Krejci	 	 returned to lineup

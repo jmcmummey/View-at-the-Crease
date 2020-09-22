@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-03-30	 Sharks	 	 • Lukas Radil	 lower body injury (DTD)
+1	2019-04-05	 Sharks	 • Lukas Radil	 	 returned to lineup
+2	2019-10-18	 Sharks	 	 • Lukas Radil	 illness (DTD)
+3	2019-10-25	 Sharks	 • Lukas Radil	 	 returned to lineup

@@ -1,0 +1,35 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-13	 Sharks	 	 • Marc-Edouard Vlasic	 upper body injury (DTD)
+1	2007-01-15	 Sharks	 • Marc-Edouard Vlasic	 	 returned to lineup
+2	2010-01-30	 Sharks	 	 • Marc-Edouard Vlasic	 lower body injury (DTD)
+3	2010-03-02	 Sharks	 	 • Marc-Edouard Vlasic	 placed on IR with lower body injury
+4	2010-03-21	 Sharks	 • Marc-Edouard Vlasic	 	 activated from IR
+5	2010-03-31	 Sharks	 	 • Marc-Edouard Vlasic	 knee injury (DTD)
+6	2010-04-02	 Sharks	 • Marc-Edouard Vlasic	 	 returned to lineup
+7	2011-02-19	 Sharks	 	 • Marc-Edouard Vlasic	 upper body injury (DTD)
+8	2011-02-22	 Sharks	 • Marc-Edouard Vlasic	 	 returned to lineup
+9	2014-04-27	 Sharks	 	 • Marc-Edouard Vlasic	 upper body injury (out for season)
+10	2014-12-11	 Sharks	 	 • Marc-Edouard Vlasic	 upper body injury (DTD)
+11	2014-12-13	 Sharks	 • Marc-Edouard Vlasic	 	 returned to lineup
+12	2015-02-07	 Sharks	 	 • Marc-Edouard Vlasic	 placed on IR with upper body injury
+13	2015-02-15	 Sharks	 • Marc-Edouard Vlasic	 	 activated from IR
+14	2015-03-29	 Sharks	 	 • Marc-Edouard Vlasic	 lower body injury (out for season)
+15	2015-12-05	 Sharks	 	 • Marc-Edouard Vlasic	 lower body injury (DTD)
+16	2015-12-12	 Sharks	 • Marc-Edouard Vlasic	 	 returned to lineup
+17	2016-03-18	 Sharks	 	 • Marc-Edouard Vlasic	 lower body injury (out for season)
+18	2016-12-13	 Sharks	 	 • Marc-Edouard Vlasic	 lower body injury (DTD)
+19	2016-12-14	 Sharks	 • Marc-Edouard Vlasic	 	 returned to lineup
+20	2016-12-31	 Sharks	 	 • Marc-Edouard Vlasic	 placed on IR with facial injury
+21	2017-01-03	 Sharks	 	 • Marc-Edouard Vlasic	 placed on IR with facial injury
+22	2017-01-10	 Sharks	 • Marc-Edouard Vlasic	 	 activated from IR
+23	2017-03-21	 Sharks	 	 • Marc-Edouard Vlasic	 flu (DTD)
+24	2017-03-24	 Sharks	 • Marc-Edouard Vlasic	 	 returned to lineup
+25	2017-03-25	 Sharks	 	 • Marc-Edouard Vlasic	 illness (DTD)
+26	2017-03-28	 Sharks	 • Marc-Edouard Vlasic	 	 returned to lineup
+27	2017-11-02	 Sharks	 	 • Marc-Edouard Vlasic	 head injury (DTD)
+28	2017-11-08	 Sharks	 • Marc-Edouard Vlasic	 	 returned to lineup
+29	2019-01-04	 Sharks	 	 • Marc-Edouard Vlasic	 wrist injury (DTD)
+30	2019-01-20	 Sharks	 	 • Marc-Edouard Vlasic	 placed on IR with wrist injury
+31	2019-02-02	 Sharks	 • Marc-Edouard Vlasic	 	 activated from IR
+32	2019-04-14	 Sharks	 	 • Marc-Edouard Vlasic	 undisclosed (DTD)
+33	2019-04-18	 Sharks	 • Marc-Edouard Vlasic	 	 returned to lineup

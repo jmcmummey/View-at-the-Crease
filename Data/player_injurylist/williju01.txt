@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-11-15	 Flyers	 	 • Justin Williams	 shoulder injury (out indefinitely)
+1	2003-01-18	 Flyers	 	 • Justin Williams	 knee injury (out indefinitely)
+2	2004-02-13	 Hurricanes	 	 • Justin Williams	 placed on IR
+3	2005-10-04	 Hurricanes	 	 • Justin Williams	 shoulder injury (DTD)
+4	2007-12-20	 Hurricanes	 	 • Justin Williams	 torn ACL in knee (out indefinitely)
+5	2008-04-01	 Hurricanes	 • Justin Williams	 	 activated from IR
+6	2008-04-02	 Hurricanes	 	 • Justin Williams	 back injury (DTD)
+7	2008-09-17	 Hurricanes	 	 • Justin Williams	 Achilles tendon injury (out indefinitely)
+8	2008-09-23	 Hurricanes	 	 • Justin Williams	 placed on IR with torn right Achilles tendon
+9	2008-12-04	 Hurricanes	 • Justin Williams	 	 activated from IR
+10	2009-02-16	 Hurricanes	 	 • Justin Williams	 broken bone in hand (DTD)
+11	2009-02-19	 Hurricanes	 	 • Justin Williams	 placed on IR with broken bone in hand
+12	2009-03-20	 Kings	 • Justin Williams	 	 activated from IR
+13	2009-10-22	 Kings	 	 • Justin Williams	 lower body injury (DTD)
+14	2009-11-02	 Kings	 • Justin Williams	 	 returned to lineup
+15	2009-12-26	 Kings	 	 • Justin Williams	 right knee injury (left game)
+16	2009-12-27	 Kings	 	 • Justin Williams	 placed on IR with right knee injury / broken right leg (CBC Y)
+17	2010-03-12	 Kings	 • Justin Williams	 	 activated from IR
+18	2011-03-22	 Kings	 	 • Justin Williams	 dislocated right shoulder (out indefinitely)
+19	2011-04-14	 Kings	 • Justin Williams	 	 returned to lineup
+20	2014-11-06	 Kings	 	 • Justin Williams	 eye injury (DTD)
+21	2014-11-08	 Kings	 • Justin Williams	 	 returned to lineup
+22	2017-02-01	 Capitals	 	 • Justin Williams	 lower body injury (DTD)
+23	2017-02-03	 Capitals	 • Justin Williams	 	 returned to lineup
+24	2020-08-12	 Hurricanes	 	 • Justin Williams	 undisclosed (DTD)
+25	2020-08-13	 Hurricanes	 • Justin Williams	 	 returned to lineup

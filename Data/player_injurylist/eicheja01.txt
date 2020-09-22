@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-03-19	 Sabres	 	 • Jack Eichel	 flu (DTD)
+1	2016-03-22	 Sabres	 • Jack Eichel	 	 returned to lineup
+2	2016-10-12	 Sabres	 	 • Jack Eichel	 ankle injury (DTD)
+3	2016-10-16	 Sabres	 	 • Jack Eichel	 placed on IR with ankle injury
+4	2016-11-29	 Sabres	 • Jack Eichel	 	 activated from IR
+5	2018-02-11	 Sabres	 	 • Jack Eichel	 ankle injury (out indefinitely)
+6	2018-02-19	 Sabres	 	 • Jack Eichel	 placed on IR with ankle injury
+7	2018-03-17	 Sabres	 • Jack Eichel	 	 activated from IR
+8	2019-01-03	 Sabres	 	 • Jack Eichel	 upper body injury (DTD)
+9	2019-01-08	 Sabres	 	 • Jack Eichel	 placed on IR with upper body injury
+10	2019-01-11	 Sabres	 • Jack Eichel	 	 activated from IR
+11	2019-12-19	 Sabres	 	 • Jack Eichel	 upper body injury (DTD)
+12	2019-12-21	 Sabres	 • Jack Eichel	 	 returned to lineup

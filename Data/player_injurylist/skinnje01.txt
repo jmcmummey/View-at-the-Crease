@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-09	 Hurricanes	 	 • Jeff Skinner	 flu (DTD)
+1	2011-12-21	 Hurricanes	 	 • Jeff Skinner	 placed on IR with concussion
+2	2012-01-15	 Hurricanes	 • Jeff Skinner	 	 activated from IR
+3	2013-02-18	 Hurricanes	 	 • Jeff Skinner	 concussion (DTD)
+4	2013-02-28	 Hurricanes	 • Jeff Skinner	 	 returned to lineup
+5	2013-04-17	 Hurricanes	 	 • Jeff Skinner	 upper body injury (DTD)
+6	2013-04-20	 Hurricanes	 • Jeff Skinner	 	 returned to lineup
+7	2013-10-25	 Hurricanes	 	 • Jeff Skinner	 upper body injury (DTD)
+8	2013-10-31	 Hurricanes	 	 • Jeff Skinner	 placed on IR with upper body injury
+9	2013-11-21	 Hurricanes	 • Jeff Skinner	 	 activated from IR
+10	2014-10-10	 Hurricanes	 	 • Jeff Skinner	 concussion (out indefinitely)
+11	2014-10-12	 Hurricanes	 	 • Jeff Skinner	 placed on IR with concussion
+12	2014-10-17	 Hurricanes	 • Jeff Skinner	 	 activated from IR
+13	2015-01-02	 Hurricanes	 	 • Jeff Skinner	 illness (DTD)
+14	2015-01-04	 Hurricanes	 • Jeff Skinner	 	 returned to lineup
+15	2016-10-24	 Hurricanes	 	 • Jeff Skinner	 lower body injury (DTD)
+16	2016-10-28	 Hurricanes	 • Jeff Skinner	 	 returned to lineup
+17	2017-02-28	 Hurricanes	 	 • Jeff Skinner	 stiff neck (DTD)
+18	2017-03-03	 Hurricanes	 • Jeff Skinner	 	 returned to lineup
+19	2019-12-28	 Sabres	 	 • Jeff Skinner	 upper body injury (out indefinitely)
+20	2019-12-30	 Sabres	 	 • Jeff Skinner	 placed on IR with upper body injury
+21	2020-01-27	 Sabres	 • Jeff Skinner	 	 activated from IR

@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-04	 Blues	 	 • Tyson Strachan	 placed on IR with undisclosed injury (Y)
+1	2011-03-18	 Blues	 • Tyson Strachan	 	 activated from IR
+2	2013-04-17	 Panthers	 	 • Tyson Strachan	 upper body injury (DTD)
+3	2013-04-25	 Panthers	 • Tyson Strachan	 	 returned to lineup
+4	2014-12-06	 Sabres	 	 • Tyson Strachan	 lower body injury (DTD)
+5	2014-12-15	 Sabres	 • Tyson Strachan	 	 returned to lineup
+6	2014-12-19	 Sabres	 	 • Tyson Strachan	 placed on IR with lower body injury
+7	2014-12-29	 Sabres	 • Tyson Strachan	 	 activated from IR
+8	2015-02-22	 Sabres	 	 • Tyson Strachan	 illness (DTD)
+9	2015-03-07	 Sabres	 • Tyson Strachan	 	 returned to lineup

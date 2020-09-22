@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-03-21	 Red Wings	 	 • Chris Osgood	 placed on IR with groin injury
+1	1998-03-24	 Red Wings	 • Chris Osgood	 	 activated from IR
+2	1999-12-02	 Red Wings	 	 • Chris Osgood	 placed on IR
+3	2005-09-21	 Red Wings	 	 • Chris Osgood	 groin injury (out 2-3 weeks)
+4	2005-10-05	 Red Wings	 	 • Chris Osgood	 placed on IR with groin injury
+5	2005-10-18	 Red Wings	 • Chris Osgood	 	 activated from IR
+6	2006-04-27	 Red Wings	 	 • Chris Osgood	 groin injury (DTD)
+7	2006-11-14	 Red Wings	 	 • Chris Osgood	 hand injury (DTD)
+8	2006-12-18	 Red Wings	 • Chris Osgood	 	 returned to lineup
+9	2007-01-19	 Red Wings	 	 • Chris Osgood	 flu (DTD)
+10	2007-01-26	 Red Wings	 • Chris Osgood	 	 returned to lineup
+11	2007-01-28	 Red Wings	 	 • Chris Osgood	 broken finger (DTD)
+12	2007-02-14	 Red Wings	 • Chris Osgood	 	 returned to lineup
+13	2008-12-17	 Red Wings	 	 • Chris Osgood	 sore groin (DTD)
+14	2008-12-20	 Red Wings	 • Chris Osgood	 	 returned to lineup
+15	2009-11-12	 Red Wings	 	 • Chris Osgood	 flu (DTD)
+16	2009-11-20	 Red Wings	 • Chris Osgood	 	 returned to lineup
+17	2010-11-01	 Red Wings	 	 • Chris Osgood	 groin injury (DTD)
+18	2010-12-03	 Red Wings	 • Chris Osgood	 	 returned to lineup
+19	2011-01-08	 Red Wings	 	 • Chris Osgood	 surgery to repair sports hernia (out indefinitely)
+20	2011-01-18	 Red Wings	 	 • Chris Osgood	 placed on IR recovering from surgery to repair groin injury
+21	2011-03-14	 Red Wings	 • Chris Osgood	 	 activated from IR
+22	2011-03-16	 Red Wings	 	 • Chris Osgood	 groin injury (DTD)
+23	2011-03-23	 Red Wings	 	 • Chris Osgood	 placed on IR with groin injury (out for season)

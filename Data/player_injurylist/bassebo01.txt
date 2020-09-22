@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-12-04	 Blues	 	 • Bob Bassen	 broken right foot (out indefinitely)
+1	1993-01-28	 Blues	 	 • Bob Bassen	 broken finger (DTD)
+2	1994-03-30	 Nordiques	 	 • Bob Bassen	 lacerated eye (DTD)
+3	1995-02-18	 Nordiques	 	 • Bob Bassen	 back injury (DTD)
+4	1995-09-30	 Stars	 	 • Bob Bassen	 knee injury (out indefinitely)
+5	1996-03-13	 Stars	 • Bob Bassen	 	 activated from IR
+6	1998-03-03	 Stars	 	 • Bob Bassen	 placed on IR

@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-29	 Devils	 	 • Pierre-Luc Letourneau-Leblond	 nose injury (out indefinitely)
+1	2008-11-04	 Devils	 	 • Pierre-Luc Letourneau-Leblond	 placed on IR with nose injury
+2	2008-11-20	 Devils	 • Pierre-Luc Letourneau-Leblond	 	 activated from IR
+3	2009-11-19	 Devils	 	 • Pierre-Luc Letourneau-Leblond	 upper body injury (DTD)
+4	2009-11-20	 Devils	 	 • Pierre-Luc Letourneau-Leblond	 placed on IR
+5	2009-11-24	 Devils	 • Pierre-Luc Letourneau-Leblond	 	 activated from IR
+6	2009-12-29	 Devils	 	 • Pierre-Luc Letourneau-Leblond	 placed on IR with upper body injury
+7	2010-01-05	 Devils	 • Pierre-Luc Letourneau-Leblond	 	 activated from IR
+8	2010-02-12	 Devils	 	 • Pierre-Luc Letourneau-Leblond	 placed on IR with undisclosed injury
+9	2010-03-10	 Devils	 • Pierre-Luc Letourneau-Leblond	 	 activated from IR

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1993-04-07	 Oilers	 	 • Kelly Buchberger	 strained shoulder (DTD)
+1	1999-01-06	 Oilers	 	 • Kelly Buchberger	 placed on IR with fractured right forearm
+2	2002-03-11	 Kings	 	 • Kelly Buchberger	 placed on IR with sprained right ankle

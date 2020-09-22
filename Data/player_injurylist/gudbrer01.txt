@@ -1,0 +1,39 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-13	 Panthers	 	 • Erik Gudbranson	 charley horse (DTD)
+1	2011-12-18	 Panthers	 • Erik Gudbranson	 	 returned to lineup
+2	2013-03-23	 Panthers	 	 • Erik Gudbranson	 flu (DTD)
+3	2013-03-26	 Panthers	 • Erik Gudbranson	 	 returned to lineup
+4	2013-04-20	 Panthers	 	 • Erik Gudbranson	 hand/wrist injury (out for season)
+5	2013-12-23	 Panthers	 	 • Erik Gudbranson	 fractured orbital bone (out indefinitely)
+6	2013-12-27	 Panthers	 	 • Erik Gudbranson	 placed on IR with fractured orbital bone
+7	2014-01-06	 Panthers	 • Erik Gudbranson	 	 activated from IR
+8	2014-03-10	 Panthers	 	 • Erik Gudbranson	 knee injury (DTD)
+9	2014-03-27	 Panthers	 • Erik Gudbranson	 	 returned to lineup
+10	2015-01-02	 Panthers	 	 • Erik Gudbranson	 upper body injury (DTD)
+11	2015-01-09	 Panthers	 • Erik Gudbranson	 	 returned to lineup
+12	2015-03-05	 Panthers	 	 • Erik Gudbranson	 flu/illness (DTD)
+13	2015-03-07	 Panthers	 • Erik Gudbranson	 	 returned to lineup
+14	2015-04-10	 Panthers	 	 • Erik Gudbranson	 upper body injury (out for season)
+15	2016-02-06	 Panthers	 	 • Erik Gudbranson	 placed on IR with undisclosed injury
+16	2016-02-09	 Panthers	 	 • Erik Gudbranson	 placed on IR with undisclosed injury (CBC)
+17	2016-02-25	 Panthers	 • Erik Gudbranson	 	 activated from IR
+18	2016-03-15	 Panthers	 	 • Erik Gudbranson	 lower body injury (DTD)
+19	2016-03-31	 Panthers	 • Erik Gudbranson	 	 returned to lineup
+20	2016-04-05	 Panthers	 	 • Erik Gudbranson	 concussion-like symptoms (out for season)
+21	2016-12-16	 Canucks	 	 • Erik Gudbranson	 placed on IR with wrist injury (out for season)
+22	2017-11-24	 Canucks	 	 • Erik Gudbranson	 upper body injury (DTD)
+23	2017-11-24	 Canucks	 	 • Erik Gudbranson	 placed on IR with upper body injury
+24	2017-12-02	 Canucks	 	 • Erik Gudbranson	 placed on IR with upper body injury
+25	2017-12-19	 Canucks	 • Erik Gudbranson	 	 activated from IR
+26	2018-01-20	 Canucks	 	 • Erik Gudbranson	 back injury (DTD)
+27	2018-01-21	 Canucks	 	 • Erik Gudbranson	 placed on IR with back injury
+28	2018-02-01	 Canucks	 • Erik Gudbranson	 	 activated from IR
+29	2018-03-14	 Canucks	 	 • Erik Gudbranson	 shoulder injury (out indefinitely)
+30	2018-03-15	 Canucks	 	 • Erik Gudbranson	 placed on IR with shoulder injury (surgery)
+31	2018-03-17	 Canucks	 	 • Erik Gudbranson	 shoulder injury (out for season)
+32	2018-03-17	 Canucks	 • Erik Gudbranson	 	 activated from IR
+33	2018-11-27	 Canucks	 	 • Erik Gudbranson	 neck injury (DTD)
+34	2018-12-04	 Canucks	 • Erik Gudbranson	 	 returned to lineup
+35	2018-12-13	 Canucks	 	 • Erik Gudbranson	 back spasms (DTD)
+36	2018-12-16	 Canucks	 • Erik Gudbranson	 	 returned to lineup
+37	2020-02-09	 Ducks	 	 • Erik Gudbranson	 placed on IR with upper body injury

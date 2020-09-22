@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-03-20	 Capitals	 	 • Quintin Laing	 lacerated spleen (out for season)
+1	2009-10-27	 Capitals	 	 • Quintin Laing	 flu (DTD)
+2	2009-11-01	 Capitals	 • Quintin Laing	 	 returned to lineup
+3	2009-11-18	 Capitals	 	 • Quintin Laing	 broken jaw (out indefinitely)
+4	2009-12-19	 Capitals	 • Quintin Laing	 	 returned to lineup
+5	2010-04-01	 Capitals	 	 • Quintin Laing	 lower body injury (DTD)
+6	2010-04-03	 Capitals	 • Quintin Laing	 	 returned to lineup

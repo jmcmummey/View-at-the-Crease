@@ -1,0 +1,44 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-17	 Flyers	 	 • Steve Downie	 upper body injury (out indefinitely)
+1	2008-02-25	 Flyers	 • Steve Downie	 	 returned to lineup
+2	2008-10-02	 Flyers	 	 • Steve Downie	 strained MCL in knee (DTD)
+3	2008-10-13	 Flyers	 • Steve Downie	 	 returned to lineup
+4	2009-02-12	 Lightning	 	 • Steve Downie	 undisclosed injury (DTD)
+5	2009-02-14	 Lightning	 • Steve Downie	 	 returned to lineup
+6	2009-11-22	 Lightning	 	 • Steve Downie	 upper body injury (DTD)
+7	2009-12-16	 Lightning	 	 • Steve Downie	 head injury (DTD)
+8	2009-12-21	 Lightning	 • Steve Downie	 	 returned to lineup
+9	2010-03-25	 Lightning	 	 • Steve Downie	 undisclosed injury (DTD)
+10	2010-11-07	 Lightning	 	 • Steve Downie	 back injury (DTD)
+11	2010-11-14	 Lightning	 • Steve Downie	 	 returned to lineup
+12	2010-12-03	 Lightning	 	 • Steve Downie	 placed on IR with high ankle sprain
+13	2011-01-04	 Lightning	 • Steve Downie	 	 activated from IR
+14	2011-03-05	 Lightning	 	 • Steve Downie	 lower body injury (DTD)
+15	2011-03-25	 Lightning	 • Steve Downie	 	 returned to lineup
+16	2011-11-25	 Lightning	 	 • Steve Downie	 upper body injury (DTD)
+17	2011-11-30	 Lightning	 • Steve Downie	 	 returned to lineup
+18	2012-03-04	 Avalanche	 	 • Steve Downie	 shoulder injury (DTD)
+19	2012-03-06	 Avalanche	 • Steve Downie	 	 returned to lineup
+20	2013-01-23	 Avalanche	 	 • Steve Downie	 placed on IR with torn ACL in knee (out for season)
+21	2013-11-02	 Flyers	 	 • Steve Downie	 placed on IR with concussion
+22	2013-11-12	 Flyers	 • Steve Downie	 	 activated from IR
+23	2013-12-21	 Flyers	 	 • Steve Downie	 placed on IR with upper body injury
+24	2013-12-27	 Flyers	 • Steve Downie	 	 activated from IR
+25	2014-03-08	 Flyers	 	 • Steve Downie	 flu (DTD)
+26	2014-03-11	 Flyers	 • Steve Downie	 	 returned to lineup
+27	2014-03-23	 Flyers	 	 • Steve Downie	 upper body injury (DTD)
+28	2014-04-08	 Flyers	 • Steve Downie	 	 returned to lineup
+29	2014-04-17	 Flyers	 	 • Steve Downie	 upper body injury (out for season)
+30	2014-12-22	 Penguins	 	 • Steve Downie	 illness/mumps (DTD)
+31	2015-01-02	 Penguins	 • Steve Downie	 	 returned to lineup
+32	2015-02-12	 Penguins	 	 • Steve Downie	 illness (DTD)
+33	2015-02-15	 Penguins	 • Steve Downie	 	 returned to lineup
+34	2015-03-06	 Penguins	 	 • Steve Downie	 undisclosed injury (DTD)
+35	2015-03-07	 Penguins	 • Steve Downie	 	 returned to lineup
+36	2015-04-05	 Penguins	 	 • Steve Downie	 upper body injury (DTD)
+37	2015-04-10	 Penguins	 • Steve Downie	 	 returned to lineup
+38	2015-11-10	 Coyotes	 	 • Steve Downie	 upper body injury (DTD)
+39	2015-11-23	 Coyotes	 	 • Steve Downie	 placed on IR with upper body injury
+40	2015-12-03	 Coyotes	 • Steve Downie	 	 activated from IR
+41	2015-12-29	 Coyotes	 	 • Steve Downie	 upper body injury (DTD)
+42	2016-01-02	 Coyotes	 • Steve Downie	 	 returned to lineup

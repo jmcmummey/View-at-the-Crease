@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-05	 Sharks	 	 • Alex Stalock	 placed on IR with left leg injury
+1	2014-11-12	 Sharks	 	 • Alex Stalock	 placed on IR with lower body injury
+2	2014-11-29	 Sharks	 • Alex Stalock	 	 activated from IR
+3	2017-11-10	 Wild	 • Alex Stalock	 	 returned to lineup

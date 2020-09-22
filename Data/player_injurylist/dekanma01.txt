@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-01	 Blue Jackets	 	 • Mark Dekanich	 placed on IR with sprained ankle
+1	2011-11-09	 Blue Jackets	 • Mark Dekanich	 	 activated from IR
+2	2013-01-19	 Jets	 	 • Mark Dekanich	 placed on IR with hamstring injury

@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-11	 Canucks	 	 • Cody Hodgson	 head injury (DTD)
+1	2013-12-12	 Sabres	 	 • Cody Hodgson	 lower body injury (DTD)
+2	2013-12-17	 Sabres	 • Cody Hodgson	 	 returned to lineup
+3	2013-12-20	 Sabres	 	 • Cody Hodgson	 upper body injury (DTD)
+4	2014-01-01	 Sabres	 	 • Cody Hodgson	 placed on IR with left leg / left hand/finger (CBC) injury
+5	2014-01-11	 Sabres	 • Cody Hodgson	 	 activated from IR

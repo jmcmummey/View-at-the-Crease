@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-11-13	 Stars	 	 • Devin Shore	 lower body injury (DTD)
+1	2018-11-20	 Stars	 	 • Devin Shore	 placed on IR with lower body injury
+2	2018-11-23	 Stars	 • Devin Shore	 	 activated from IR
+3	2019-03-05	 Ducks	 	 • Devin Shore	 knee injury (DTD)
+4	2019-03-08	 Ducks	 • Devin Shore	 	 returned to lineup

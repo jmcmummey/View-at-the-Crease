@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-04-22	 Penguins	 	 • Beau Bennett	 upper body injury (DTD)
+1	2013-04-23	 Penguins	 • Beau Bennett	 	 returned to lineup
+2	2013-10-14	 Penguins	 	 • Beau Bennett	 lower body injury (DTD)
+3	2013-10-24	 Penguins	 	 • Beau Bennett	 placed on IR with lower body injury
+4	2013-11-09	 Penguins	 • Beau Bennett	 	 activated from IR
+5	2013-11-23	 Penguins	 	 • Beau Bennett	 placed on IR with surgery on wrist
+6	2014-03-27	 Penguins	 • Beau Bennett	 	 activated from IR
+7	2014-05-22	 Penguins	 	 • Beau Bennett	 surgery on wrist (out indefinitely)
+8	2014-10-08	 Penguins	 	 • Beau Bennett	 placed on IR with lower body injury / surgery on wrist
+9	2014-11-04	 Penguins	 • Beau Bennett	 	 activated from IR
+10	2014-11-26	 Penguins	 	 • Beau Bennett	 lower body injury (DTD)
+11	2014-12-02	 Penguins	 	 • Beau Bennett	 placed on IR with lower body injury
+12	2014-12-31	 Penguins	 • Beau Bennett	 	 activated from IR
+13	2015-04-20	 Penguins	 	 • Beau Bennett	 upper body injury (out for season)
+14	2015-10-15	 Penguins	 	 • Beau Bennett	 undisclosed (DTD)
+15	2015-10-15	 Penguins	 	 • Beau Bennett	 placed on IR with undisclosed injury
+16	2015-10-28	 Penguins	 • Beau Bennett	 	 activated from IR
+17	2015-12-15	 Penguins	 	 • Beau Bennett	 placed on IR with upper body injury
+18	2016-01-23	 Penguins	 • Beau Bennett	 	 activated from IR
+19	2016-01-25	 Penguins	 	 • Beau Bennett	 placed on IR with undisclosed injury
+20	2016-03-24	 Penguins	 • Beau Bennett	 	 activated from IR
+21	2016-04-07	 Penguins	 	 • Beau Bennett	 undisclosed injury (DTD)
+22	2016-05-22	 Penguins	 • Beau Bennett	 	 returned to lineup
+23	2016-11-29	 Devils	 	 • Beau Bennett	 placed on IR with lacerated right leg
+24	2016-12-06	 Devils	 • Beau Bennett	 	 activated from IR
+25	2017-01-23	 Devils	 	 • Beau Bennett	 lower body injury (DTD)
+26	2017-01-25	 Devils	 	 • Beau Bennett	 placed on IR with lower body injury
+27	2017-02-16	 Devils	 • Beau Bennett	 	 activated from IR

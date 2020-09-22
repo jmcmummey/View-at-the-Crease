@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-05	 Mighty Ducks	 	 • Jonathan Hedstrom	 groin injury (DTD)
+1	2005-10-10	 Mighty Ducks	 • Jonathan Hedstrom	 	 returned to lineup

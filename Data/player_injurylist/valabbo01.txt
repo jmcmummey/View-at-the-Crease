@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-03-20	 Thrashers	 	 • Boris Valabik	 right shoulder injury (DTD)
+1	2009-04-03	 Thrashers	 • Boris Valabik	 	 returned to lineup
+2	2009-10-05	 Thrashers	 	 • Boris Valabik	 right leg injury (DTD)
+3	2009-10-07	 Thrashers	 	 • Boris Valabik	 left ankle injury (DTD)
+4	2009-10-08	 Thrashers	 	 • Boris Valabik	 placed on IR
+5	2009-12-03	 Thrashers	 	 • Boris Valabik	 ankle injury (DTD)
+6	2009-12-09	 Thrashers	 • Boris Valabik	 	 returned to lineup
+7	2010-02-05	 Thrashers	 	 • Boris Valabik	 torn ACL in knee (out indefinitely)
+8	2010-02-09	 Thrashers	 	 • Boris Valabik	 placed on IR with torn ACL in knee (out for season)
+9	2011-10-03	 Penguins	 	 • Boris Valabik	 placed on IR with knee injury

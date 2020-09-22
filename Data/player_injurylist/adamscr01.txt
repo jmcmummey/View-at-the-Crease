@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-12-27	 Hurricanes	 	 • Craig Adams	 shoulder injury (out indefinitely)
+1	2012-01-08	 Penguins	 	 • Craig Adams	 lower body injury (DTD)
+2	2014-12-20	 Penguins	 	 • Craig Adams	 placed on IR with undisclosed injury
+3	2014-12-31	 Penguins	 • Craig Adams	 	 activated from IR

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-30	 Flames	 	 • Derek Smith (A.)	 ankle injury (out indefinitely)
+1	2012-01-03	 Flames	 	 • Derek Smith (A.)	 placed on IR with ankle injury
+2	2012-02-23	 Flames	 • Derek Smith (A.)	 	 activated from IR
+3	2012-03-24	 Flames	 	 • Derek Smith (A.)	 upper body injury (out for season)
+4	2013-04-03	 Flames	 	 • Derek Smith (A.)	 placed on IR with lower body injury (out for season)

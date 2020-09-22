@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-10	 Blackhawks	 	 • Curtis Brown	 sprained knee (DTD)
+1	2006-01-19	 Blackhawks	 • Curtis Brown	 	 returned to lineup
+2	2006-04-08	 Blackhawks	 	 • Curtis Brown	 mild concussion (DTD)
+3	2008-01-20	 Sharks	 	 • Curtis Brown	 placed on IR with hand injury
+4	2008-03-19	 Sharks	 • Curtis Brown	 	 returned to lineup

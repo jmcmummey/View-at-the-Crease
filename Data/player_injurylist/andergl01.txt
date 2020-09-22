@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-03-05	 Oilers	 	 • Glenn Anderson	 thigh injury (DTD)
+1	1992-12-03	 Maple Leafs	 	 • Glenn Anderson	 sprained knee (DTD)

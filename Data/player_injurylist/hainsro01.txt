@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-02	 Blue Jackets	 	 • Ron Hainsey	 sprained knee (DTD)
+1	2006-03-07	 Blue Jackets	 • Ron Hainsey	 	 returned to lineup
+2	2007-01-17	 Blue Jackets	 	 • Ron Hainsey	 shoulder injury (DTD)
+3	2007-01-26	 Blue Jackets	 • Ron Hainsey	 	 returned to lineup
+4	2007-02-04	 Blue Jackets	 	 • Ron Hainsey	 concussion (DTD)
+5	2008-01-18	 Blue Jackets	 	 • Ron Hainsey	 back injury (DTD)
+6	2008-01-22	 Blue Jackets	 • Ron Hainsey	 	 returned to lineup
+7	2008-03-30	 Blue Jackets	 	 • Ron Hainsey	 head injury (DTD)
+8	2008-04-03	 Blue Jackets	 • Ron Hainsey	 	 returned to lineup
+9	2009-03-17	 Thrashers	 	 • Ron Hainsey	 leg injury (DTD)
+10	2009-03-20	 Thrashers	 • Ron Hainsey	 	 returned to lineup
+11	2009-10-31	 Thrashers	 	 • Ron Hainsey	 undisclosed injury (DTD)
+12	2009-11-05	 Thrashers	 • Ron Hainsey	 	 returned to lineup
+13	2011-10-18	 Jets	 	 • Ron Hainsey	 upper body injury (DTD)
+14	2011-10-22	 Jets	 	 • Ron Hainsey	 placed on IR
+15	2011-11-23	 Jets	 • Ron Hainsey	 	 activated from IR
+16	2011-11-25	 Jets	 	 • Ron Hainsey	 lower body injury (DTD)
+17	2011-12-13	 Jets	 • Ron Hainsey	 	 activated from IR
+18	2012-04-05	 Jets	 	 • Ron Hainsey	 bruised foot (out for season)
+19	2013-03-24	 Jets	 	 • Ron Hainsey	 upper body injury (DTD)
+20	2013-03-26	 Jets	 • Ron Hainsey	 	 returned to lineup
+21	2013-11-19	 Hurricanes	 	 • Ron Hainsey	 flu (DTD)
+22	2016-03-15	 Hurricanes	 	 • Ron Hainsey	 illness (DTD)
+23	2016-03-17	 Hurricanes	 • Ron Hainsey	 	 returned to lineup
+24	2017-03-16	 Penguins	 	 • Ron Hainsey	 upper body injury (DTD)
+25	2017-03-31	 Penguins	 • Ron Hainsey	 	 returned to lineup
+26	2018-01-31	 Maple Leafs	 	 • Ron Hainsey	 illness (DTD)
+27	2018-02-03	 Maple Leafs	 • Ron Hainsey	 	 returned to lineup
+28	2019-12-20	 Senators	 	 • Ron Hainsey	 undisclosed (DTD)
+29	2020-01-02	 Senators	 	 • Ron Hainsey	 placed on IR with lower body injury
+30	2020-01-10	 Senators	 • Ron Hainsey	 	 activated from IR

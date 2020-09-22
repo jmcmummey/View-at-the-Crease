@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-02	 Ducks	 	 • Jiri Sekac	 placed on IR with lower body injury
+1	2015-12-17	 Ducks	 • Jiri Sekac	 	 activated from IR
+2	2016-01-25	 Blackhawks	 	 • Jiri Sekac	 illness (DTD)
+3	2016-02-02	 Blackhawks	 • Jiri Sekac	 	 returned to lineup

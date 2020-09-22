@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-17	 Sabres	 	 • Derek Roy	 hand injury (out 1-2 weeks)
+1	2006-12-02	 Sabres	 • Derek Roy	 	 returned to lineup
+2	2008-01-07	 Sabres	 	 • Derek Roy	 shoulder injury (DTD)
+3	2008-01-18	 Sabres	 • Derek Roy	 	 returned to lineup
+4	2009-12-26	 Sabres	 	 • Derek Roy	 upper body injury (DTD)
+5	2010-01-01	 Sabres	 • Derek Roy	 	 returned to lineup
+6	2010-12-24	 Sabres	 	 • Derek Roy	 placed on IR with surgery to repair torn left quadriceps tendon (out for season)
+7	2011-04-26	 Sabres	 • Derek Roy	 	 activated from IR
+8	2012-01-07	 Sabres	 	 • Derek Roy	 arm/shoulder injury (out indefinitely)
+9	2012-01-13	 Sabres	 • Derek Roy	 	 returned to lineup
+10	2013-01-26	 Stars	 	 • Derek Roy	 strained groin (DTD)
+11	2013-01-28	 Stars	 	 • Derek Roy	 placed on IR with strained groin
+12	2013-02-04	 Stars	 • Derek Roy	 	 activated from IR
+13	2013-12-28	 Blues	 	 • Derek Roy	 illness (DTD)
+14	2013-12-29	 Blues	 • Derek Roy	 	 returned to lineup
+15	2014-03-23	 Blues	 	 • Derek Roy	 lower body injury (DTD)
+16	2014-03-27	 Blues	 • Derek Roy	 	 returned to lineup
+17	2014-04-11	 Blues	 	 • Derek Roy	 undisclosed (DTD)
+18	2014-04-13	 Blues	 • Derek Roy	 	 returned to lineup
+19	2014-11-29	 Predators	 	 • Derek Roy	 upper body injury (DTD)
+20	2014-12-11	 Predators	 • Derek Roy	 	 returned to lineup

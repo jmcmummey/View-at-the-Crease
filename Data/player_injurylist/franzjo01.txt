@@ -1,0 +1,54 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-06	 Red Wings	 	 • Johan Franzen	 upper body injury (DTD)
+1	2006-01-10	 Red Wings	 • Johan Franzen	 	 returned to lineup
+2	2006-11-23	 Red Wings	 	 • Johan Franzen	 concussion (DTD)
+3	2006-12-14	 Red Wings	 • Johan Franzen	 	 returned to lineup
+4	2007-03-11	 Red Wings	 	 • Johan Franzen	 upper body injury (DTD)
+5	2007-03-20	 Red Wings	 • Johan Franzen	 	 returned to lineup
+6	2007-10-06	 Red Wings	 	 • Johan Franzen	 right knee injury (left game)
+7	2007-10-07	 Red Wings	 	 • Johan Franzen	 right knee injury (out 3-4 weeks)
+8	2007-10-30	 Red Wings	 • Johan Franzen	 	 returned to lineup
+9	2008-05-10	 Red Wings	 	 • Johan Franzen	 concussion (DTD)
+10	2008-05-25	 Red Wings	 • Johan Franzen	 	 returned to lineup
+11	2008-10-26	 Red Wings	 	 • Johan Franzen	 sprained MCL in left knee (out 2-3 weeks)
+12	2008-11-11	 Red Wings	 • Johan Franzen	 	 returned to lineup
+13	2009-01-17	 Red Wings	 	 • Johan Franzen	 hip injury (DTD)
+14	2009-01-27	 Red Wings	 • Johan Franzen	 	 returned to lineup
+15	2009-02-08	 Red Wings	 	 • Johan Franzen	 hand injury (DTD)
+16	2009-02-18	 Red Wings	 • Johan Franzen	 	 returned to lineup
+17	2009-10-09	 Red Wings	 	 • Johan Franzen	 placed on IR with torn ACL in left knee (out indefinitely)
+18	2010-02-09	 Red Wings	 • Johan Franzen	 	 activated from IR
+19	2010-10-15	 Red Wings	 	 • Johan Franzen	 concussion (DTD)
+20	2010-10-21	 Red Wings	 • Johan Franzen	 	 returned to lineup
+21	2011-03-19	 Red Wings	 	 • Johan Franzen	 groin injury (DTD)
+22	2011-03-28	 Red Wings	 • Johan Franzen	 	 returned to lineup
+23	2011-04-20	 Red Wings	 	 • Johan Franzen	 ankle injury (DTD)
+24	2011-04-29	 Red Wings	 • Johan Franzen	 	 returned to lineup
+25	2011-05-10	 Red Wings	 	 • Johan Franzen	 left ankle injury (out for season)
+26	2012-03-17	 Red Wings	 	 • Johan Franzen	 back spasms (DTD)
+27	2012-03-28	 Red Wings	 • Johan Franzen	 	 returned to lineup
+28	2013-02-13	 Red Wings	 	 • Johan Franzen	 hip flexor injury (DTD)
+29	2013-02-15	 Red Wings	 	 • Johan Franzen	 placed on IR with hip flexor injury
+30	2013-02-27	 Red Wings	 • Johan Franzen	 	 activated from IR
+31	2013-10-30	 Red Wings	 	 • Johan Franzen	 undisclosed injury (DTD)
+32	2013-11-01	 Red Wings	 • Johan Franzen	 	 returned to lineup
+33	2013-11-02	 Red Wings	 	 • Johan Franzen	 illness (DTD)
+34	2013-11-08	 Red Wings	 	 • Johan Franzen	 placed on IR with illness
+35	2013-11-12	 Red Wings	 • Johan Franzen	 	 activated from IR
+36	2013-12-16	 Red Wings	 	 • Johan Franzen	 head injury / concussion symptoms (DTD)
+37	2013-12-19	 Red Wings	 	 • Johan Franzen	 placed on IR with head injury
+38	2014-01-25	 Red Wings	 • Johan Franzen	 	 activated from IR
+39	2014-01-28	 Red Wings	 	 • Johan Franzen	 placed on IR with concussion
+40	2014-02-26	 Red Wings	 • Johan Franzen	 	 activated from IR
+41	2014-10-17	 Red Wings	 	 • Johan Franzen	 placed on IR with thigh injury
+42	2014-11-02	 Red Wings	 • Johan Franzen	 	 activated from IR
+43	2014-12-15	 Red Wings	 	 • Johan Franzen	 illness (DTD)
+44	2014-12-19	 Red Wings	 • Johan Franzen	 	 returned to lineup
+45	2015-01-07	 Red Wings	 	 • Johan Franzen	 placed on IR with upper body injury (out for season)
+46	2015-10-13	 Red Wings	 	 • Johan Franzen	 placed on IR with concussion-like symptoms (out for season) (Y)
+47	2015-10-15	 Red Wings	 	 • Johan Franzen	 placed on IR with concussion (out for season)
+48	2016-10-01	 Red Wings	 	 • Johan Franzen	 concussion-like symptoms (DTD)
+49	2017-10-03	 Red Wings	 	 • Johan Franzen	 placed on IR with concussion / concussion-like symptoms (out for season)
+50	2018-10-02	 Red Wings	 	 • Johan Franzen	 placed on IR with concussion-like symptoms
+51	2019-10-01	 Red Wings	 	 • Johan Franzen	 placed on IR with concussion-like symptoms
+52	2019-10-07	 Red Wings	 	 • Johan Franzen	 placed on long-term IR with concussion-like symptoms

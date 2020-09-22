@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-05	 Avalanche	 	 • Ben Street	 placed on IR with undisclosed injury
+1	2014-11-30	 Avalanche	 	 • Ben Street	 placed on IR with hand injury (date 12-04 per CBC)
+2	2015-01-13	 Avalanche	 • Ben Street	 	 activated from IR
+3	2015-11-19	 Avalanche	 	 • Ben Street	 placed on IR with chest injury
+4	2016-02-24	 Avalanche	 • Ben Street	 	 activated from IR
+5	2020-01-11	 Devils	 	 • Ben Street	 placed on IR with upper body injury
+6	2020-02-04	 Devils	 • Ben Street	 	 activated from IR

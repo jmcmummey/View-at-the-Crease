@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-31	 Canadiens	 	 • Jesperi Kotkaniemi	 groin injury (DTD)
+1	2019-10-31	 Canadiens	 	 • Jesperi Kotkaniemi	 placed on IR with groin injury
+2	2019-11-16	 Canadiens	 • Jesperi Kotkaniemi	 	 activated from IR
+3	2019-12-06	 Canadiens	 	 • Jesperi Kotkaniemi	 concussion (out indefinitely)
+4	2019-12-11	 Canadiens	 	 • Jesperi Kotkaniemi	 placed on IR with concussion
+5	2019-12-27	 Canadiens	 • Jesperi Kotkaniemi	 	 activated from IR

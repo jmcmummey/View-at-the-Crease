@@ -1,0 +1,68 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-22	 Senators	 	 • Martin Havlat / Marty Havlat	 hamstring injury (left game)
+1	2005-11-23	 Senators	 	 • Martin Havlat / Marty Havlat	 hamstring injury (DTD)
+2	2005-11-26	 Senators	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+3	2005-11-29	 Senators	 	 • Martin Havlat / Marty Havlat	 dislocated right shoulder (left game)
+4	2005-11-30	 Senators	 	 • Martin Havlat / Marty Havlat	 dislocated right shoulder (out indefinitely)
+5	2005-12-07	 Senators	 	 • Martin Havlat / Marty Havlat	 surgery on dislocated right shoulder (out until early-Apr)
+6	2006-04-15	 Senators	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+7	2006-10-20	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 right ankle injury (left game)
+8	2006-10-21	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 placed on IR with right ankle injury
+9	2006-12-06	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 right ankle injury (DTD)
+10	2006-12-09	 Blackhawks	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+11	2007-01-05	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 groin injury (DTD)
+12	2007-01-13	 Blackhawks	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+13	2007-02-27	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 flu (DTD)
+14	2007-03-01	 Blackhawks	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+15	2007-04-05	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 shoulder injury (out for season)
+16	2007-10-05	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 shoulder injury (out indefinitely)
+17	2007-10-17	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 shoulder injury (out 3-4 weeks)
+18	2007-11-17	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 shoulder injury (DTD)
+19	2007-11-28	 Blackhawks	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+20	2007-12-23	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 groin injury (out indefinitely)
+21	2007-12-26	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 placed on IR with groin injury
+22	2008-01-06	 Blackhawks	 • Martin Havlat / Marty Havlat	 	 activated from IR
+23	2008-02-28	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 left shoulder injury (out for season)
+24	2009-03-11	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 lower body injury (DTD)
+25	2009-03-13	 Blackhawks	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+26	2009-05-26	 Blackhawks	 	 • Martin Havlat / Marty Havlat	 undisclosed injury (DTD)
+27	2009-10-14	 Wild	 	 • Martin Havlat / Marty Havlat	 groin injury (DTD)
+28	2009-10-21	 Wild	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+29	2009-11-20	 Wild	 	 • Martin Havlat / Marty Havlat	 hamstring injury (DTD)
+30	2009-11-26	 Wild	 	 • Martin Havlat / Marty Havlat	 placed on IR with hamstring injury
+31	2009-12-02	 Wild	 • Martin Havlat / Marty Havlat	 	 activated from IR
+32	2010-04-02	 Wild	 	 • Martin Havlat / Marty Havlat	 illness (DTD)
+33	2010-04-05	 Wild	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+34	2010-04-07	 Wild	 	 • Martin Havlat / Marty Havlat	 pulled groin (DTD)
+35	2010-04-08	 Wild	 	 • Martin Havlat / Marty Havlat	 hamstring injury (out for season)
+36	2011-04-03	 Wild	 	 • Martin Havlat / Marty Havlat	 undisclosed injury (DTD)
+37	2011-04-08	 Wild	 	 • Martin Havlat / Marty Havlat	 upper body injury (out for season)
+38	2011-10-06	 Sharks	 	 • Martin Havlat / Marty Havlat	 placed on IR with surgery on shoulder
+39	2011-10-21	 Sharks	 • Martin Havlat / Marty Havlat	 	 activated from IR
+40	2011-12-18	 Sharks	 	 • Martin Havlat / Marty Havlat	 left leg injury (DTD)
+41	2011-12-21	 Sharks	 	 • Martin Havlat / Marty Havlat	 placed on IR with lower body injury
+42	2012-03-15	 Sharks	 • Martin Havlat / Marty Havlat	 	 activated from IR
+43	2013-03-03	 Sharks	 	 • Martin Havlat / Marty Havlat	 lower body injury (DTD)
+44	2013-03-09	 Sharks	 	 • Martin Havlat / Marty Havlat	 placed on IR with lower body injury
+45	2013-03-18	 Sharks	 • Martin Havlat / Marty Havlat	 	 activated from IR
+46	2013-04-27	 Sharks	 	 • Martin Havlat / Marty Havlat	 lower body injury (out indefinitely))
+47	2013-05-18	 Sharks	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+48	2013-05-21	 Sharks	 	 • Martin Havlat / Marty Havlat	 lower body injury (out for season)
+49	2013-10-03	 Sharks	 	 • Martin Havlat / Marty Havlat	 surgery on groin (out indefinitely)
+50	2013-10-30	 Sharks	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+51	2013-12-08	 Sharks	 	 • Martin Havlat / Marty Havlat	 undisclosed (DTD)
+52	2013-12-10	 Sharks	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+53	2013-12-31	 Sharks	 	 • Martin Havlat / Marty Havlat	 placed on IR with lower body injury
+54	2014-01-16	 Sharks	 • Martin Havlat / Marty Havlat	 	 activated from IR
+55	2014-10-17	 Devils	 	 • Martin Havlat / Marty Havlat	 facial injury (DTD)
+56	2014-10-21	 Devils	 • Martin Havlat / Marty Havlat	 	 returned to lineup
+57	2014-10-24	 Devils	 	 • Martin Havlat / Marty Havlat	 facial injury (DTD)
+58	2014-10-27	 Devils	 	 • Martin Havlat / Marty Havlat	 placed on IR with lower body injury
+59	2014-11-11	 Devils	 • Martin Havlat / Marty Havlat	 	 activated from IR
+60	2014-11-30	 Devils	 	 • Martin Havlat / Marty Havlat	 placed on IR with lower body injury (date 12-04 per CBC E)
+61	2014-12-08	 Devils	 • Martin Havlat / Marty Havlat	 	 activated from IR
+62	2014-12-22	 Devils	 	 • Martin Havlat / Marty Havlat	 placed on IR with illness
+63	2014-12-26	 Devils	 	 • Martin Havlat / Marty Havlat	 placed on IR with illness (CBC E)
+64	2015-01-02	 Devils	 • Martin Havlat / Marty Havlat	 	 activated from IR
+65	2015-01-06	 Devils	 	 • Martin Havlat / Marty Havlat	 illness (DTD)
+66	2015-01-08	 Devils	 • Martin Havlat / Marty Havlat	 	 returned to lineup

@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-08	 Wild	 	 • Darcy Kuemper	 placed on IR with groin injury
+1	2013-03-13	 Wild	 • Darcy Kuemper	 	 activated from IR
+2	2014-03-31	 Wild	 	 • Darcy Kuemper	 upper body injury (DTD)
+3	2014-04-20	 Wild	 • Darcy Kuemper	 	 returned to lineup
+4	2014-05-01	 Wild	 	 • Darcy Kuemper	 upper body injury (out for season)
+5	2014-12-17	 Wild	 	 • Darcy Kuemper	 illness (DTD)
+6	2014-12-20	 Wild	 • Darcy Kuemper	 	 returned to lineup
+7	2015-01-08	 Wild	 	 • Darcy Kuemper	 placed on IR with lower body injury
+8	2015-01-19	 Wild	 • Darcy Kuemper	 	 activated from IR
+9	2015-04-15	 Wild	 	 • Darcy Kuemper	 illness (DTD)
+10	2015-04-18	 Wild	 • Darcy Kuemper	 	 returned to lineup
+11	2015-12-28	 Wild	 	 • Darcy Kuemper	 upper body injury (DTD)
+12	2016-01-02	 Wild	 	 • Darcy Kuemper	 placed on IR with concussion
+13	2016-01-09	 Wild	 • Darcy Kuemper	 	 activated from IR
+14	2016-03-18	 Wild	 	 • Darcy Kuemper	 upper body injury (DTD)
+15	2016-03-22	 Wild	 • Darcy Kuemper	 	 returned to lineup
+16	2017-04-19	 Wild	 	 • Darcy Kuemper	 illness (out for season)
+17	2018-11-24	 Coyotes	 	 • Darcy Kuemper	 placed on IR with lower body injury
+18	2018-11-25	 Coyotes	 	 • Darcy Kuemper	 lower body injury (DTD)
+19	2018-12-11	 Coyotes	 • Darcy Kuemper	 	 returned to lineup
+20	2019-02-05	 Coyotes	 	 • Darcy Kuemper	 upper body injury (DTD)
+21	2019-02-07	 Coyotes	 • Darcy Kuemper	 	 returned to lineup
+22	2019-12-20	 Coyotes	 	 • Darcy Kuemper	 lower body injury (out indefinitely)
+23	2019-12-22	 Coyotes	 	 • Darcy Kuemper	 placed on IR with lower body injury
+24	2020-02-01	 Coyotes	 	 • Darcy Kuemper	 placed on IR with lower body injury
+25	2020-02-25	 Coyotes	 • Darcy Kuemper	 	 activated from IR

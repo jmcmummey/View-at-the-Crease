@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-03-12	 Jets	 	 • John Albert	 upper body injury (DTD)
+1	2014-03-22	 Jets	 • John Albert	 	 returned to lineup

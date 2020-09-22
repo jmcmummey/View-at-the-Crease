@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-04-28	 Predators	 	 • Pontus Aberg	 undisclosed (DTD)
+1	2017-05-12	 Predators	 • Pontus Aberg	 	 returned to lineup
+2	2019-02-02	 Wild	 	 • Pontus Aberg	 lower body injury (DTD)
+3	2019-02-03	 Wild	 	 • Pontus Aberg	 placed on IR with lower body injury
+4	2019-02-19	 Wild	 • Pontus Aberg	 	 activated from IR
+5	2019-04-06	 Wild	 	 • Pontus Aberg	 undisclosed (out for season)

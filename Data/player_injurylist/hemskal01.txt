@@ -1,0 +1,60 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-29	 Oilers	 	 • Ales Hemsky	 right shoulder injury (DTD)
+1	2006-12-15	 Oilers	 • Ales Hemsky	 	 returned to lineup
+2	2007-01-17	 Oilers	 	 • Ales Hemsky	 shoulder injury (left game)
+3	2007-01-18	 Oilers	 	 • Ales Hemsky	 shoulder injury (DTD)
+4	2007-01-20	 Oilers	 • Ales Hemsky	 	 returned to lineup
+5	2007-03-04	 Oilers	 	 • Ales Hemsky	 right shoulder injury (DTD)
+6	2007-03-23	 Oilers	 • Ales Hemsky	 	 returned to lineup
+7	2007-03-24	 Oilers	 	 • Ales Hemsky	 right shoulder injury (DTD)
+8	2007-03-27	 Oilers	 • Ales Hemsky	 	 returned to lineup
+9	2007-12-02	 Oilers	 	 • Ales Hemsky	 knee injury (DTD)
+10	2007-12-05	 Oilers	 • Ales Hemsky	 	 returned to lineup
+11	2007-12-27	 Oilers	 	 • Ales Hemsky	 knee injury (DTD)
+12	2008-01-05	 Oilers	 • Ales Hemsky	 	 returned to lineup
+13	2008-04-02	 Oilers	 	 • Ales Hemsky	 knee injury (DTD)
+14	2008-12-30	 Oilers	 	 • Ales Hemsky	 nose injury (DTD)
+15	2009-01-04	 Oilers	 	 • Ales Hemsky	 concussion (DTD)
+16	2009-01-09	 Oilers	 	 • Ales Hemsky	 placed on IR with concussion
+17	2009-01-18	 Oilers	 • Ales Hemsky	 	 activated from IR
+18	2009-10-16	 Oilers	 	 • Ales Hemsky	 flu (DTD)
+19	2009-10-19	 Oilers	 • Ales Hemsky	 	 returned to lineup
+20	2009-11-08	 Oilers	 	 • Ales Hemsky	 shoulder injury (DTD)
+21	2009-11-11	 Oilers	 • Ales Hemsky	 	 returned to lineup
+22	2009-11-26	 Oilers	 	 • Ales Hemsky	 surgery on left shoulder to repair torn labrum (out for season)
+23	2010-11-25	 Oilers	 	 • Ales Hemsky	 groin injury (DTD)
+24	2010-12-01	 Oilers	 • Ales Hemsky	 	 returned to lineup
+25	2010-12-02	 Oilers	 	 • Ales Hemsky	 groin injury (DTD)
+26	2010-12-10	 Oilers	 	 • Ales Hemsky	 placed on IR with groin injury
+27	2010-12-28	 Oilers	 • Ales Hemsky	 	 activated from IR
+28	2011-01-19	 Oilers	 	 • Ales Hemsky	 concussion (DTD)
+29	2011-02-02	 Oilers	 • Ales Hemsky	 	 returned to lineup
+30	2011-03-03	 Oilers	 	 • Ales Hemsky	 shoulder injury (out for season)
+31	2011-10-15	 Oilers	 	 • Ales Hemsky	 right shoulder injury (DTD)
+32	2011-10-28	 Oilers	 	 • Ales Hemsky	 placed on IR with right shoulder injury
+33	2011-11-08	 Oilers	 • Ales Hemsky	 	 activated from IR
+34	2011-12-22	 Oilers	 	 • Ales Hemsky	 illness (DTD)
+35	2011-12-29	 Oilers	 • Ales Hemsky	 	 returned to lineup
+36	2013-03-08	 Oilers	 	 • Ales Hemsky	 bruised right foot (DTD)
+37	2013-03-10	 Oilers	 • Ales Hemsky	 	 returned to lineup
+38	2013-04-08	 Oilers	 	 • Ales Hemsky	 foot injury (DTD)
+39	2013-04-10	 Oilers	 • Ales Hemsky	 	 returned to lineup
+40	2013-04-13	 Oilers	 	 • Ales Hemsky	 foot injury (out for season)
+41	2013-12-15	 Oilers	 	 • Ales Hemsky	 rib injury (DTD)
+42	2013-12-17	 Oilers	 • Ales Hemsky	 	 returned to lineup
+43	2014-01-15	 Oilers	 	 • Ales Hemsky	 bruised ankle (DTD)
+44	2014-01-29	 Oilers	 	 • Ales Hemsky	 placed on IR with bruised ankle
+45	2014-02-01	 Oilers	 • Ales Hemsky	 	 activated from IR
+46	2015-02-14	 Stars	 	 • Ales Hemsky	 lower body injury (DTD)
+47	2015-02-20	 Stars	 • Ales Hemsky	 	 returned to lineup
+48	2015-11-03	 Stars	 	 • Ales Hemsky	 hip injury (DTD)
+49	2015-11-06	 Stars	 • Ales Hemsky	 	 returned to lineup
+50	2015-12-30	 Stars	 	 • Ales Hemsky	 placed on IR with lower body injury
+51	2016-01-15	 Stars	 • Ales Hemsky	 	 activated from IR
+52	2016-10-11	 Stars	 	 • Ales Hemsky	 placed on IR with groin injury
+53	2016-10-22	 Stars	 • Ales Hemsky	 	 activated from IR
+54	2016-10-24	 Stars	 	 • Ales Hemsky	 placed on IR with groin injury
+55	2016-10-31	 Stars	 	 • Ales Hemsky	 surgery on hip to repair torn labrum (out indefinitely)
+56	2017-03-01	 Stars	 • Ales Hemsky	 	 activated from IR
+57	2017-03-31	 Stars	 	 • Ales Hemsky	 hip injury (out for season)
+58	2017-10-21	 Canadiens	 	 • Ales Hemsky	 placed on IR with concussion (out for season)

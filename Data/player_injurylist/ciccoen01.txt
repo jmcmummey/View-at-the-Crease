@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1994-01-25	 Capitals	 	 • Enrico Ciccone	 pulled groin (DTD)
+1	1995-02-05	 Lightning	 	 • Enrico Ciccone	 whiplash (DTD)
+2	1995-03-01	 Lightning	 	 • Enrico Ciccone	 neck injury (DTD)
+3	1995-04-26	 Lightning	 	 • Enrico Ciccone	 shoulder injury (DTD)
+4	1995-11-18	 Lightning	 	 • Enrico Ciccone	 torn ligament in right thumb (out indefinitely)
+5	1996-01-30	 Lightning	 	 • Enrico Ciccone	 shoulder injury (DTD)

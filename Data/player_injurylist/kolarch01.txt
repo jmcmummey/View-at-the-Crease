@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-05	 Rangers	 	 • Chad Kolarik	 placed on IR with surgery on knee
+1	2012-03-15	 Rangers	 • Chad Kolarik	 	 activated from IR

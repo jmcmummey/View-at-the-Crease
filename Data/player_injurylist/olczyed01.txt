@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1994-01-03	 Rangers	 	 • Ed Olczyk	 thumb injury (out indefinitely)
+1	1999-10-16	 Blackhawks	 	 • Ed Olczyk	 hernia (out indefinitely)
+2	2000-03-05	 Blackhawks	 • Ed Olczyk	 	 activated from IR

@@ -1,0 +1,53 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-17	 Blue Jackets	 	 • Rostislav Klesla	 placed on IR
+1	2003-01-28	 Blue Jackets	 • Rostislav Klesla	 	 activated from IR
+2	2003-12-01	 Blue Jackets	 	 • Rostislav Klesla	 placed on IR with sprained MCL in knee
+3	2003-12-31	 Blue Jackets	 • Rostislav Klesla	 	 activated from IR
+4	2004-02-25	 Blue Jackets	 	 • Rostislav Klesla	 placed on IR
+5	2004-03-27	 Blue Jackets	 • Rostislav Klesla	 	 activated from IR
+6	2005-09-26	 Blue Jackets	 	 • Rostislav Klesla	 stress fracture in right leg (out 4-6 weeks)
+7	2005-10-03	 Blue Jackets	 	 • Rostislav Klesla	 placed on IR with stress fracture in right leg
+8	2005-11-01	 Blue Jackets	 • Rostislav Klesla	 	 activated from IR
+9	2005-11-09	 Blue Jackets	 	 • Rostislav Klesla	 broken hand (out indefinitely)
+10	2005-11-10	 Blue Jackets	 	 • Rostislav Klesla	 placed on IR with broken hand
+11	2005-12-20	 Blue Jackets	 • Rostislav Klesla	 	 activated from IR
+12	2006-04-15	 Blue Jackets	 	 • Rostislav Klesla	 groin injury (DTD)
+13	2006-12-29	 Blue Jackets	 	 • Rostislav Klesla	 foot injury (DTD)
+14	2007-01-03	 Blue Jackets	 • Rostislav Klesla	 	 returned to lineup
+15	2007-03-18	 Blue Jackets	 	 • Rostislav Klesla	 hip injury (DTD)
+16	2007-03-27	 Blue Jackets	 • Rostislav Klesla	 	 returned to lineup
+17	2008-11-05	 Blue Jackets	 	 • Rostislav Klesla	 wrist injury (DTD)
+18	2008-11-12	 Blue Jackets	 • Rostislav Klesla	 	 returned to lineup
+19	2008-11-15	 Blue Jackets	 	 • Rostislav Klesla	 ankle injury (DTD)
+20	2008-11-19	 Blue Jackets	 	 • Rostislav Klesla	 placed on IR with ankle injury
+21	2008-12-23	 Blue Jackets	 • Rostislav Klesla	 	 activated from IR
+22	2009-01-05	 Blue Jackets	 	 • Rostislav Klesla	 placed on IR with bruised foot
+23	2009-02-03	 Blue Jackets	 • Rostislav Klesla	 	 activated from IR
+24	2009-02-11	 Blue Jackets	 	 • Rostislav Klesla	 placed on IR with separated shoulder
+25	2009-03-05	 Blue Jackets	 • Rostislav Klesla	 	 activated from IR
+26	2009-03-29	 Blue Jackets	 	 • Rostislav Klesla	 undisclosed injury (DTD)
+27	2009-04-11	 Blue Jackets	 • Rostislav Klesla	 	 returned to lineup
+28	2009-12-01	 Blue Jackets	 	 • Rostislav Klesla	 placed on IR with torn groin muscle (out for season)
+29	2010-12-18	 Blue Jackets	 	 • Rostislav Klesla	 lower body injury (DTD)
+30	2010-12-21	 Blue Jackets	 • Rostislav Klesla	 	 returned to lineup
+31	2011-01-15	 Blue Jackets	 	 • Rostislav Klesla	 illness (DTD)
+32	2011-01-18	 Blue Jackets	 • Rostislav Klesla	 	 returned to lineup
+33	2011-01-25	 Blue Jackets	 	 • Rostislav Klesla	 lower body injury (DTD)
+34	2011-03-01	 Coyotes	 • Rostislav Klesla	 	 returned to lineup
+35	2011-03-10	 Coyotes	 	 • Rostislav Klesla	 head injury (DTD)
+36	2011-03-15	 Coyotes	 • Rostislav Klesla	 	 returned to lineup
+37	2011-12-05	 Coyotes	 	 • Rostislav Klesla	 placed on IR with lower body injury
+38	2011-12-20	 Coyotes	 • Rostislav Klesla	 	 activated from IR
+39	2012-02-18	 Coyotes	 	 • Rostislav Klesla	 upper body injury (DTD)
+40	2012-02-21	 Coyotes	 	 • Rostislav Klesla	 placed on IR with upper body injury
+41	2012-03-10	 Coyotes	 • Rostislav Klesla	 	 activated from IR
+42	2013-01-23	 Coyotes	 	 • Rostislav Klesla	 lower body injury (DTD)
+43	2013-01-24	 Coyotes	 	 • Rostislav Klesla	 placed on IR with lower body injury
+44	2013-02-08	 Coyotes	 • Rostislav Klesla	 	 activated from IR
+45	2013-09-30	 Coyotes	 	 • Rostislav Klesla	 placed on IR with concussion
+46	2013-10-10	 Coyotes	 • Rostislav Klesla	 	 activated from IR
+47	2013-10-26	 Coyotes	 	 • Rostislav Klesla	 lower body injury (DTD)
+48	2013-10-28	 Coyotes	 	 • Rostislav Klesla	 placed on IR with lower body injury
+49	2013-11-05	 Coyotes	 • Rostislav Klesla	 	 activated from IR
+50	2013-12-27	 Coyotes	 	 • Rostislav Klesla	 placed on IR with illness
+51	2014-01-02	 Coyotes	 • Rostislav Klesla	 	 activated from IR

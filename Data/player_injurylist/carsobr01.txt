@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-06	 Flames	 	 • Brett Carson	 placed on IR with back injury
+1	2011-11-30	 Flames	 • Brett Carson	 	 activated from IR
+2	2011-12-21	 Flames	 	 • Brett Carson	 placed on IR with upper body injury
+3	2012-01-05	 Flames	 • Brett Carson	 	 activated from IR

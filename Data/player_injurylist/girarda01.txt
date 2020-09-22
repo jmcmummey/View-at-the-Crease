@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-23	 Rangers	 	 • Dan Girardi	 ribs injury (DTD)
+1	2011-02-01	 Rangers	 • Dan Girardi	 	 returned to lineup
+2	2013-02-05	 Rangers	 	 • Dan Girardi	 lower body injury (DTD)
+3	2013-02-10	 Rangers	 • Dan Girardi	 	 returned to lineup
+4	2015-12-14	 Rangers	 	 • Dan Girardi	 knee injury (DTD)
+5	2015-12-28	 Rangers	 • Dan Girardi	 	 returned to lineup
+6	2016-01-12	 Rangers	 	 • Dan Girardi	 lacerated hand (DTD)
+7	2016-01-16	 Rangers	 • Dan Girardi	 	 returned to lineup
+8	2016-04-07	 Rangers	 	 • Dan Girardi	 upper body injury (DTD)
+9	2016-04-13	 Rangers	 • Dan Girardi	 	 returned to lineup
+10	2016-04-15	 Rangers	 	 • Dan Girardi	 undisclosed injury (out for season)
+11	2016-04-23	 Rangers	 • Dan Girardi	 	 returned to lineup
+12	2016-10-16	 Rangers	 	 • Dan Girardi	 groin (CBC) / hip flexor injury (DTD)
+13	2016-10-23	 Rangers	 • Dan Girardi	 	 returned to lineup
+14	2017-02-09	 Rangers	 	 • Dan Girardi	 lower body injury (DTD)
+15	2017-02-13	 Rangers	 • Dan Girardi	 	 returned to lineup
+16	2017-02-28	 Rangers	 	 • Dan Girardi	 placed on IR with ankle injury
+17	2017-03-24	 Rangers	 • Dan Girardi	 	 activated from IR
+18	2018-01-09	 Lightning	 	 • Dan Girardi	 neck injury (DTD)
+19	2018-01-17	 Lightning	 • Dan Girardi	 	 returned to lineup
+20	2018-02-01	 Lightning	 	 • Dan Girardi	 lower body injury (DTD)
+21	2018-02-08	 Lightning	 • Dan Girardi	 	 returned to lineup
+22	2019-03-09	 Lightning	 	 • Dan Girardi	 lower body injury (DTD)
+23	2019-04-06	 Lightning	 • Dan Girardi	 	 returned to lineup

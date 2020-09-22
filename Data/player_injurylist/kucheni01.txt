@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-02-21	 Lightning	 	 • Nikita Kucherov	 lower body injury (DTD)
+1	2016-02-26	 Lightning	 • Nikita Kucherov	 	 returned to lineup
+2	2016-03-26	 Lightning	 	 • Nikita Kucherov	 lower body injury (DTD)
+3	2016-03-31	 Lightning	 • Nikita Kucherov	 	 returned to lineup
+4	2016-04-09	 Lightning	 	 • Nikita Kucherov	 undisclosed injury (out for season)
+5	2016-10-28	 Lightning	 	 • Nikita Kucherov	 upper body injury (DTD)
+6	2016-10-30	 Lightning	 • Nikita Kucherov	 	 returned to lineup
+7	2016-12-14	 Lightning	 	 • Nikita Kucherov	 undisclosed injury (DTD)
+8	2016-12-14	 Lightning	 	 • Nikita Kucherov	 placed on IR with lower body injury
+9	2016-12-17	 Lightning	 	 • Nikita Kucherov	 placed on IR with lower body injury
+10	2016-12-28	 Lightning	 • Nikita Kucherov	 	 activated from IR
+11	2017-03-30	 Lightning	 	 • Nikita Kucherov	 illness (DTD)
+12	2017-04-01	 Lightning	 • Nikita Kucherov	 	 returned to lineup
+13	2018-02-28	 Lightning	 	 • Nikita Kucherov	 upper body injury (DTD)
+14	2018-03-03	 Lightning	 • Nikita Kucherov	 	 returned to lineup
+15	2019-11-20	 Lightning	 	 • Nikita Kucherov	 upper body injury (DTD)
+16	2019-11-23	 Lightning	 • Nikita Kucherov	 	 returned to lineup
+17	2020-02-12	 Lightning	 	 • Nikita Kucherov	 lower body injury (DTD)
+18	2020-02-15	 Lightning	 • Nikita Kucherov	 	 returned to lineup

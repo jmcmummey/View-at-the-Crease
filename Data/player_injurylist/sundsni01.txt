@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-20	 Canadiens	 	 • Niklas Sundstrom	 groin injury (DTD)
+1	2005-10-31	 Canadiens	 • Niklas Sundstrom	 	 returned to lineup

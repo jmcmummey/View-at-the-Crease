@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-11-29	 Ducks	 	 • Brandon Montour	 elbow injury (DTD)
+1	2017-12-01	 Ducks	 • Brandon Montour	 	 returned to lineup
+2	2019-10-01	 Sabres	 	 • Brandon Montour	 placed on IR with hand injury
+3	2019-11-02	 Sabres	 • Brandon Montour	 	 activated from IR
+4	2020-02-01	 Sabres	 	 • Brandon Montour	 lower body injury (DTD)
+5	2020-02-04	 Sabres	 • Brandon Montour	 	 returned to lineup

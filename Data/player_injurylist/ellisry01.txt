@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-03	 Predators	 	 • Ryan Ellis	 flu (DTD)
+1	2012-03-06	 Predators	 • Ryan Ellis	 	 returned to lineup
+2	2015-01-09	 Predators	 	 • Ryan Ellis	 placed on IR with lower body injury
+3	2015-02-26	 Predators	 • Ryan Ellis	 	 activated from IR
+4	2015-10-20	 Predators	 	 • Ryan Ellis	 lower body injury (DTD)
+5	2015-10-22	 Predators	 • Ryan Ellis	 	 returned to lineup
+6	2016-03-31	 Predators	 	 • Ryan Ellis	 upper body injury (DTD)
+7	2016-04-05	 Predators	 • Ryan Ellis	 	 returned to lineup
+8	2016-11-25	 Predators	 	 • Ryan Ellis	 upper body injury (DTD)
+9	2016-11-26	 Predators	 	 • Ryan Ellis	 placed on IR with upper body injury
+10	2016-12-13	 Predators	 • Ryan Ellis	 	 activated from IR
+11	2017-03-04	 Predators	 	 • Ryan Ellis	 lower body injury (DTD)
+12	2017-03-07	 Predators	 • Ryan Ellis	 	 returned to lineup
+13	2017-03-09	 Predators	 	 • Ryan Ellis	 lower body injury (DTD)
+14	2017-03-11	 Predators	 • Ryan Ellis	 	 returned to lineup
+15	2017-04-06	 Predators	 	 • Ryan Ellis	 lower body injury (DTD)
+16	2017-04-08	 Predators	 • Ryan Ellis	 	 returned to lineup
+17	2017-10-03	 Predators	 	 • Ryan Ellis	 placed on IR with knee injury
+18	2018-01-02	 Predators	 • Ryan Ellis	 	 activated from IR
+19	2020-01-03	 Predators	 	 • Ryan Ellis	 placed on IR with upper body injury
+20	2020-02-21	 Predators	 • Ryan Ellis	 	 activated from IR

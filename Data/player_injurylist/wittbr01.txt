@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-28	 Capitals	 • Brendan Witt	 	 returned to lineup
+1	2005-11-27	 Capitals	 	 • Brendan Witt	 leg injury (DTD)
+2	2005-12-01	 Capitals	 • Brendan Witt	 	 returned to lineup
+3	2007-01-27	 Islanders	 	 • Brendan Witt	 hand injury (DTD)
+4	2007-01-30	 Islanders	 • Brendan Witt	 	 returned to lineup
+5	2008-01-13	 Islanders	 	 • Brendan Witt	 sprained ankle (DTD)
+6	2008-01-21	 Islanders	 • Brendan Witt	 	 returned to lineup
+7	2008-02-14	 Islanders	 	 • Brendan Witt	 knee injury (DTD)
+8	2008-03-01	 Islanders	 • Brendan Witt	 	 returned to lineup
+9	2008-03-12	 Islanders	 	 • Brendan Witt	 right knee injury (DTD)
+10	2008-10-24	 Islanders	 	 • Brendan Witt	 placed on IR with knee injury
+11	2008-11-21	 Islanders	 • Brendan Witt	 	 activated from IR

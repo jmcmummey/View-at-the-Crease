@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-18	 Canadiens	 	 • Andrei Kostitsyn	 head injury (out indefinitely)
+1	2008-10-28	 Canadiens	 • Andrei Kostitsyn	 	 returned to lineup
+2	2008-12-19	 Canadiens	 	 • Andrei Kostitsyn	 lower body injury (DTD)
+3	2008-12-27	 Canadiens	 • Andrei Kostitsyn	 	 returned to lineup
+4	2009-03-26	 Canadiens	 	 • Andrei Kostitsyn	 flu (DTD)
+5	2009-03-31	 Canadiens	 • Andrei Kostitsyn	 	 returned to lineup
+6	2009-04-04	 Canadiens	 	 • Andrei Kostitsyn	 facial injury (DTD)
+7	2009-11-25	 Canadiens	 	 • Andrei Kostitsyn	 leg injury (DTD)
+8	2009-12-03	 Canadiens	 • Andrei Kostitsyn	 	 returned to lineup
+9	2010-01-03	 Canadiens	 	 • Andrei Kostitsyn	 surgery on left knee (DTD)
+10	2010-03-02	 Canadiens	 • Andrei Kostitsyn	 	 returned to lineup
+11	2011-04-16	 Canadiens	 	 • Andrei Kostitsyn	 foot injury (DTD)
+12	2011-04-18	 Canadiens	 • Andrei Kostitsyn	 	 returned to lineup
+13	2011-11-07	 Canadiens	 	 • Andrei Kostitsyn	 lower body injury (DTD)
+14	2011-11-16	 Canadiens	 	 • Andrei Kostitsyn	 placed on IR with lower body injury
+15	2011-11-26	 Canadiens	 • Andrei Kostitsyn	 	 activated from IR

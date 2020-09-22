@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-11-30	 Lightning	 	 • Mattias Ritola	 ear injury (DTD)
+1	2010-12-04	 Lightning	 • Mattias Ritola	 	 returned to lineup
+2	2010-12-10	 Lightning	 	 • Mattias Ritola	 inner ear infection (DTD)
+3	2010-12-23	 Lightning	 • Mattias Ritola	 	 returned to lineup
+4	2011-02-04	 Lightning	 	 • Mattias Ritola	 illness (DTD)
+5	2011-03-03	 Lightning	 • Mattias Ritola	 	 returned to lineup
+6	2011-03-25	 Lightning	 	 • Mattias Ritola	 lower body injury (DTD)

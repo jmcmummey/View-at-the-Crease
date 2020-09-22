@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-02-29	 Red Wings	 	 • Petr Mrazek	 groin injury (DTD)
+1	2016-03-02	 Red Wings	 • Petr Mrazek	 	 returned to lineup
+2	2016-03-17	 Red Wings	 	 • Petr Mrazek	 illness (DTD)
+3	2016-03-22	 Red Wings	 • Petr Mrazek	 	 returned to lineup
+4	2018-11-03	 Hurricanes	 	 • Petr Mrazek	 lower body injury (DTD)
+5	2018-11-24	 Hurricanes	 • Petr Mrazek	 	 returned to lineup
+6	2019-04-29	 Hurricanes	 	 • Petr Mrazek	 lower body injury (DTD)
+7	2019-05-07	 Hurricanes	 • Petr Mrazek	 	 returned to lineup
+8	2020-02-25	 Hurricanes	 	 • Petr Mrazek	 concussion (out indefinitely)
+9	2020-03-10	 Hurricanes	 • Petr Mrazek	 	 returned to lineup

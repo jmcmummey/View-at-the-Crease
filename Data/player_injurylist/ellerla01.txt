@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-05	 Canadiens	 	 • Lars Eller	 placed on IR with surgery on right shoulder
+1	2011-10-13	 Canadiens	 • Lars Eller	 	 activated from IR
+2	2013-05-03	 Canadiens	 	 • Lars Eller	 concussion (out for season)
+3	2014-03-24	 Canadiens	 	 • Lars Eller	 knee injury (DTD)
+4	2014-03-25	 Canadiens	 • Lars Eller	 	 returned to lineup
+5	2014-04-09	 Canadiens	 	 • Lars Eller	 illness (out for season)
+6	2014-12-06	 Canadiens	 	 • Lars Eller	 upper body injury (DTD)
+7	2014-12-18	 Canadiens	 • Lars Eller	 	 returned to lineup
+8	2016-03-07	 Canadiens	 	 • Lars Eller	 lower (CBC) / upper body injury (DTD)
+9	2016-03-10	 Canadiens	 • Lars Eller	 	 returned to lineup
+10	2016-03-12	 Canadiens	 	 • Lars Eller	 illness (DTD)
+11	2016-03-16	 Canadiens	 • Lars Eller	 	 returned to lineup
+12	2016-11-19	 Capitals	 	 • Lars Eller	 upper body injury (DTD)
+13	2016-11-23	 Capitals	 • Lars Eller	 	 returned to lineup
+14	2017-10-17	 Capitals	 	 • Lars Eller	 illness (DTD)
+15	2017-10-20	 Capitals	 • Lars Eller	 	 returned to lineup
+16	2019-02-03	 Capitals	 	 • Lars Eller	 lower body injury (DTD)
+17	2019-02-05	 Capitals	 • Lars Eller	 	 returned to lineup

@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-23	 Panthers	 	 • Shawn Matthias	 foot injury (DTD)
+1	2010-10-28	 Panthers	 • Shawn Matthias	 	 returned to lineup
+2	2011-01-31	 Panthers	 	 • Shawn Matthias	 broken right ankle (DTD)
+3	2011-02-08	 Panthers	 	 • Shawn Matthias	 placed on IR with broken right ankle
+4	2011-03-22	 Panthers	 • Shawn Matthias	 	 activated from IR
+5	2011-03-29	 Panthers	 	 • Shawn Matthias	 right ankle injury (DTD)
+6	2011-04-02	 Panthers	 • Shawn Matthias	 	 returned to lineup
+7	2011-10-20	 Panthers	 	 • Shawn Matthias	 illness (DTD)
+8	2011-10-22	 Panthers	 • Shawn Matthias	 	 returned to lineup
+9	2013-03-19	 Panthers	 	 • Shawn Matthias	 illness (DTD)
+10	2014-01-28	 Panthers	 	 • Shawn Matthias	 illness (DTD)
+11	2014-01-30	 Panthers	 • Shawn Matthias	 	 returned to lineup
+12	2014-12-06	 Canucks	 	 • Shawn Matthias	 head injury (DTD)
+13	2014-12-13	 Canucks	 • Shawn Matthias	 	 returned to lineup
+14	2015-04-09	 Canucks	 	 • Shawn Matthias	 undisclosed (out for season)
+15	2015-10-10	 Maple Leafs	 	 • Shawn Matthias	 undisclosed (DTD)
+16	2015-10-16	 Maple Leafs	 • Shawn Matthias	 	 returned to lineup
+17	2016-02-08	 Maple Leafs	 	 • Shawn Matthias	 whiplash (DTD)
+18	2016-02-20	 Maple Leafs	 • Shawn Matthias	 	 returned to lineup
+19	2016-11-02	 Jets	 	 • Shawn Matthias	 placed on IR with lower body injury
+20	2016-12-22	 Jets	 • Shawn Matthias	 	 activated from IR
+21	2017-03-15	 Jets	 	 • Shawn Matthias	 shoulder injury (DTD)
+22	2017-03-18	 Jets	 	 • Shawn Matthias	 surgery on shoulder (out for season)
+23	2018-01-13	 Jets	 	 • Shawn Matthias	 upper body injury (DTD)
+24	2018-01-24	 Jets	 	 • Shawn Matthias	 placed on IR with upper body injury
+25	2018-03-13	 Jets	 • Shawn Matthias	 	 activated from IR

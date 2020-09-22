@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-12	 Stars	 	 • Shaun Van Allen	 placed on IR with back spasms
+1	2000-10-25	 Stars	 • Shaun Van Allen	 	 activated from IR

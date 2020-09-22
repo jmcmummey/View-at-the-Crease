@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-10	 Islanders	 	 • Casey Cizikas	 flu (DTD)
+1	2012-03-13	 Islanders	 • Casey Cizikas	 	 returned to lineup
+2	2012-03-31	 Islanders	 	 • Casey Cizikas	 upper body injury (out for season)
+3	2013-12-14	 Islanders	 	 • Casey Cizikas	 jaw injury (DTD)
+4	2013-12-20	 Islanders	 • Casey Cizikas	 	 returned to lineup
+5	2014-12-09	 Islanders	 	 • Casey Cizikas	 placed on IR with upper body injury
+6	2014-12-15	 Islanders	 • Casey Cizikas	 	 activated from IR
+7	2015-02-17	 Islanders	 	 • Casey Cizikas	 placed on IR with lower body injury
+8	2015-03-05	 Islanders	 • Casey Cizikas	 	 activated from IR
+9	2016-03-17	 Islanders	 	 • Casey Cizikas	 undisclosed injury (DTD)
+10	2016-03-19	 Islanders	 • Casey Cizikas	 	 returned to lineup
+11	2016-12-16	 Islanders	 	 • Casey Cizikas	 upper body injury (DTD)
+12	2016-12-31	 Islanders	 • Casey Cizikas	 	 returned to lineup
+13	2017-02-22	 Islanders	 	 • Casey Cizikas	 placed on IR with hand injury
+14	2017-03-17	 Islanders	 • Casey Cizikas	 	 activated from IR
+15	2017-03-31	 Islanders	 	 • Casey Cizikas	 hand injury (out for season)
+16	2017-11-27	 Islanders	 	 • Casey Cizikas	 placed on IR with lower body injury
+17	2017-11-28	 Islanders	 	 • Casey Cizikas	 lower body injury (DTD)
+18	2017-12-03	 Islanders	 	 • Casey Cizikas	 placed on IR with lower body injury
+19	2017-12-07	 Islanders	 • Casey Cizikas	 	 activated from IR
+20	2018-01-13	 Islanders	 	 • Casey Cizikas	 hand injury (DTD)
+21	2018-01-19	 Islanders	 	 • Casey Cizikas	 placed on IR with hand injury
+22	2018-01-30	 Islanders	 • Casey Cizikas	 	 activated from IR
+23	2018-03-26	 Islanders	 	 • Casey Cizikas	 upper body injury (out for season)
+24	2018-10-13	 Islanders	 	 • Casey Cizikas	 placed on IR with lower body injury
+25	2018-10-17	 Islanders	 • Casey Cizikas	 	 activated from IR
+26	2018-11-15	 Islanders	 	 • Casey Cizikas	 placed on IR with lower body injury
+27	2018-11-28	 Islanders	 • Casey Cizikas	 	 activated from IR
+28	2019-03-16	 Islanders	 	 • Casey Cizikas	 lower body injury (DTD)
+29	2019-03-19	 Islanders	 • Casey Cizikas	 	 returned to lineup
+30	2019-10-11	 Islanders	 	 • Casey Cizikas	 undisclosed (DTD)
+31	2019-10-11	 Islanders	 	 • Casey Cizikas	 placed on IR with undisclosed injury
+32	2019-10-14	 Islanders	 	 • Casey Cizikas	 placed on IR with lower body injury
+33	2019-10-24	 Islanders	 • Casey Cizikas	 	 activated from IR
+34	2020-01-13	 Islanders	 	 • Casey Cizikas	 groin injury (DTD)
+35	2020-01-16	 Islanders	 • Casey Cizikas	 	 returned to lineup
+36	2020-02-12	 Islanders	 	 • Casey Cizikas	 placed on IR with lacerated leg
+37	2020-07-26	 Islanders	 • Casey Cizikas	 	 activated from IR
+38	2020-09-11	 Islanders	 	 • Casey Cizikas	 upper body injury (out for season)

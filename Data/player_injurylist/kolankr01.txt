@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-03-20	 Coyotes	 	 • Krystofer Kolanos / Krys Kolanos	 head injury (out indefinitely)
+1	2012-02-25	 Flames	 	 • Krystofer Kolanos / Krys Kolanos	 lower body injury (DTD)
+2	2012-02-27	 Flames	 • Krystofer Kolanos / Krys Kolanos	 	 returned to lineup

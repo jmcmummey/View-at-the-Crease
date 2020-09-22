@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-01-28	 Blue Jackets	 	 • David Vyborny	 placed on IR
+1	2005-12-01	 Blue Jackets	 	 • David Vyborny	 knee injury (left game)
+2	2005-12-02	 Blue Jackets	 	 • David Vyborny	 knee injury (DTD)
+3	2005-12-20	 Blue Jackets	 	 • David Vyborny	 rib injury (DTD)
+4	2005-12-26	 Blue Jackets	 • David Vyborny	 	 returned to lineup
+5	2007-12-03	 Blue Jackets	 	 • David Vyborny	 back injury (DTD)
+6	2007-12-09	 Blue Jackets	 	 • David Vyborny	 placed on IR with back injury
+7	2007-12-21	 Blue Jackets	 • David Vyborny	 	 activated from IR
+8	2008-01-02	 Blue Jackets	 	 • David Vyborny	 groin injury (DTD)
+9	2008-01-03	 Blue Jackets	 	 • David Vyborny	 placed on IR with groin injury
+10	2008-01-08	 Blue Jackets	 • David Vyborny	 	 activated from IR
+11	2008-03-18	 Blue Jackets	 	 • David Vyborny	 knee injury (DTD)
+12	2008-03-25	 Blue Jackets	 • David Vyborny	 	 returned to lineup
+13	2008-04-03	 Blue Jackets	 	 • David Vyborny	 flu (DTD)

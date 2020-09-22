@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-12-22	 Wild	 	 • Petteri Nummelin	 upper body injury (DTD)
+1	2007-01-19	 Wild	 • Petteri Nummelin	 	 returned to lineup
+2	2007-04-03	 Wild	 • Petteri Nummelin	 	 returned to lineup
+3	2007-11-22	 Wild	 	 • Petteri Nummelin	 placed on IR with head injury
+4	2007-12-22	 Wild	 • Petteri Nummelin	 	 activated from IR
+5	2008-03-04	 Wild	 	 • Petteri Nummelin	 right thigh injury (DTD)
+6	2008-04-06	 Wild	 • Petteri Nummelin	 	 returned to lineup

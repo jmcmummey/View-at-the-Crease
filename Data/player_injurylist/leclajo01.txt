@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-07	 Flyers	 	 • John LeClair	 back injury (out indefinitely)
+1	2000-10-11	 Flyers	 	 • John LeClair	 recovering from back surgery to repair herniated disc
+2	2000-11-24	 Flyers	 • John LeClair	 	 returned to lineup
+3	2000-12-10	 Flyers	 	 • John LeClair	 disc space infection in back
+4	2001-03-22	 Flyers	 • John LeClair	 	 returned to lineup
+5	2001-03-25	 Flyers	 • John LeClair	 	 activated from IR
+6	2002-11-27	 Flyers	 	 • John LeClair	 shoulder injury (out indefinitely)
+7	2005-11-05	 Penguins	 	 • John LeClair	 facial injury (out indefinitely)
+8	2005-11-10	 Penguins	 • John LeClair	 	 returned to lineup
+9	2005-12-03	 Penguins	 	 • John LeClair	 groin injury (DTD)
+10	2005-12-08	 Penguins	 • John LeClair	 	 returned to lineup
+11	2005-12-10	 Penguins	 	 • John LeClair	 groin injury (DTD)
+12	2005-12-23	 Penguins	 • John LeClair	 	 returned to lineup

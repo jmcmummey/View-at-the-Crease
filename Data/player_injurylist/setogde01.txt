@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-04	 Sharks	 	 • Devin Setoguchi	 placed on IR with ankle injury
+1	2007-10-12	 Sharks	 • Devin Setoguchi	 	 activated from IR
+2	2008-03-30	 Sharks	 	 • Devin Setoguchi	 undisclosed injury (DTD)
+3	2009-10-25	 Sharks	 	 • Devin Setoguchi	 leg injury (DTD)
+4	2009-11-10	 Sharks	 • Devin Setoguchi	 	 returned to lineup
+5	2009-11-17	 Sharks	 	 • Devin Setoguchi	 leg injury (DTD)
+6	2009-11-22	 Sharks	 	 • Devin Setoguchi	 placed on IR
+7	2009-11-29	 Sharks	 • Devin Setoguchi	 	 activated from IR
+8	2010-11-27	 Sharks	 	 • Devin Setoguchi	 upper body injury (DTD)
+9	2010-12-04	 Sharks	 	 • Devin Setoguchi	 placed on IR with upper body injury
+10	2010-12-15	 Sharks	 • Devin Setoguchi	 	 activated from IR
+11	2011-12-07	 Wild	 	 • Devin Setoguchi	 placed on IR wiith lower body injury
+12	2012-01-03	 Wild	 • Devin Setoguchi	 	 activated from IR
+13	2012-01-10	 Wild	 	 • Devin Setoguchi	 knee injury (DTD)
+14	2014-10-23	 Flames	 	 • Devin Setoguchi	 flu (DTD)

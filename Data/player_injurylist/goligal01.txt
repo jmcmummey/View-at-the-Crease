@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-20	 Penguins	 	 • Alex Goligoski	 illness (DTD)
+1	2009-01-31	 Penguins	 • Alex Goligoski	 	 returned to lineup
+2	2009-11-15	 Penguins	 	 • Alex Goligoski	 leg injury (DTD)
+3	2009-11-28	 Penguins	 • Alex Goligoski	 	 returned to lineup
+4	2009-11-30	 Penguins	 	 • Alex Goligoski	 groin injury (DTD)
+5	2009-12-10	 Penguins	 • Alex Goligoski	 	 returned to lineup
+6	2010-01-25	 Penguins	 	 • Alex Goligoski	 undisclosed (DTD)
+7	2010-01-31	 Penguins	 • Alex Goligoski	 	 returned to lineup
+8	2010-11-01	 Penguins	 	 • Alex Goligoski	 undisclosed injury (DTD)
+9	2011-11-12	 Stars	 	 • Alex Goligoski	 broken thumb (out indefinitely)
+10	2011-11-15	 Stars	 	 • Alex Goligoski	 placed on IR with broken thumb
+11	2011-12-08	 Stars	 • Alex Goligoski	 	 activated from IR
+12	2015-04-11	 Stars	 	 • Alex Goligoski	 undisclosed (out for season)
+13	2016-11-21	 Coyotes	 	 • Alex Goligoski	 illness (DTD)
+14	2016-11-23	 Coyotes	 • Alex Goligoski	 	 returned to lineup
+15	2018-01-25	 Coyotes	 	 • Alex Goligoski	 illness (DTD)
+16	2018-02-01	 Coyotes	 • Alex Goligoski	 	 returned to lineup
+17	2018-11-10	 Coyotes	 	 • Alex Goligoski	 lower body injury (DTD)
+18	2018-11-15	 Coyotes	 	 • Alex Goligoski	 placed on IR with lower body injury
+19	2018-11-21	 Coyotes	 • Alex Goligoski	 	 activated from IR
+20	2019-01-02	 Coyotes	 	 • Alex Goligoski	 flu (DTD)
+21	2019-01-04	 Coyotes	 • Alex Goligoski	 	 returned to lineup

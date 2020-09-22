@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-03-19	 Flyers	 	 • Philippe Myers / Phil Myers	 illness (DTD)
+1	2019-03-21	 Flyers	 • Philippe Myers / Phil Myers	 	 returned to lineup
+2	2019-12-09	 Flyers	 	 • Philippe Myers / Phil Myers	 back spasms (DTD)
+3	2019-12-14	 Flyers	 • Philippe Myers / Phil Myers	 	 returned to lineup
+4	2020-03-10	 Flyers	 	 • Philippe Myers / Phil Myers	 fractured patella in right knee (out indefinitely)

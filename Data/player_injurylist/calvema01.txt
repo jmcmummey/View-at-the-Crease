@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-01-29	 Blue Jackets	 	 • Matt Calvert	 placed on IR with upper body injury
+1	2013-02-05	 Blue Jackets	 • Matt Calvert	 	 activated from IR
+2	2013-04-19	 Blue Jackets	 	 • Matt Calvert	 fractured finger (out for season)
+3	2013-10-11	 Blue Jackets	 	 • Matt Calvert	 placed on IR with groin injury / abdominal injury
+4	2013-11-21	 Blue Jackets	 • Matt Calvert	 	 activated from IR
+5	2013-12-22	 Blue Jackets	 	 • Matt Calvert	 sprained shoulder (DTD)
+6	2013-12-31	 Blue Jackets	 	 • Matt Calvert	 placed on IR with sprained shoulder
+7	2014-01-09	 Blue Jackets	 • Matt Calvert	 	 activated from IR
+8	2014-10-26	 Blue Jackets	 	 • Matt Calvert	 placed on IR with upper body injury
+9	2014-11-04	 Blue Jackets	 • Matt Calvert	 	 activated from IR
+10	2014-11-08	 Blue Jackets	 	 • Matt Calvert	 upper body injury (DTD)
+11	2014-11-15	 Blue Jackets	 	 • Matt Calvert	 placed on IR with wrist injury
+12	2014-11-18	 Blue Jackets	 • Matt Calvert	 	 activated from IR
+13	2015-01-31	 Blue Jackets	 	 • Matt Calvert	 illness (DTD)
+14	2015-02-06	 Blue Jackets	 • Matt Calvert	 	 returned to lineup
+15	2015-02-27	 Blue Jackets	 	 • Matt Calvert	 placed on IR with concussion
+16	2015-03-31	 Blue Jackets	 • Matt Calvert	 	 activated from IR
+17	2015-12-30	 Blue Jackets	 	 • Matt Calvert	 placed on IR with sprained knee
+18	2016-01-22	 Blue Jackets	 • Matt Calvert	 	 activated from IR
+19	2016-11-23	 Blue Jackets	 	 • Matt Calvert	 head injury (DTD)
+20	2016-11-25	 Blue Jackets	 	 • Matt Calvert	 placed on IR with head injury
+21	2016-12-02	 Blue Jackets	 • Matt Calvert	 	 activated from IR
+22	2017-01-10	 Blue Jackets	 	 • Matt Calvert	 illness (DTD)
+23	2017-01-12	 Blue Jackets	 • Matt Calvert	 	 returned to lineup
+24	2017-02-24	 Blue Jackets	 	 • Matt Calvert	 placed on IR with strained oblique muscle
+25	2017-02-27	 Blue Jackets	 	 • Matt Calvert	 placed on IR with strained oblique muscle
+26	2017-03-13	 Blue Jackets	 • Matt Calvert	 	 activated from IR
+27	2017-11-05	 Blue Jackets	 	 • Matt Calvert	 placed on IR with upper body injury
+28	2017-12-02	 Blue Jackets	 • Matt Calvert	 	 activated from IR
+29	2018-03-12	 Blue Jackets	 	 • Matt Calvert	 illness (DTD)
+30	2018-03-14	 Blue Jackets	 • Matt Calvert	 	 returned to lineup
+31	2019-04-30	 Avalanche	 	 • Matt Calvert	 upper body injury (DTD)
+32	2019-05-02	 Avalanche	 • Matt Calvert	 	 returned to lineup
+33	2019-05-04	 Avalanche	 	 • Matt Calvert	 upper body injury (out for season)
+34	2019-11-18	 Avalanche	 	 • Matt Calvert	 placed on IR with head injury
+35	2019-12-04	 Avalanche	 • Matt Calvert	 	 activated from IR
+36	2020-02-17	 Avalanche	 	 • Matt Calvert	 placed on IR with lower body injury
+37	2020-07-13	 Avalanche	 • Matt Calvert	 	 activated from IR
+38	2020-08-22	 Avalanche	 	 • Matt Calvert	 undisclosed (out for season)

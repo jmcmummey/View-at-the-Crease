@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-04-08	 Flames	 	 • Derek Grant	 groin injury (out for season)
+1	2017-02-17	 Sabres	 	 • Derek Grant	 placed on IR with shoulder injury
+2	2017-02-24	 Sabres	 • Derek Grant	 	 activated from IR
+3	2018-11-23	 Penguins	 	 • Derek Grant	 undisclosed (DTD)
+4	2018-11-27	 Penguins	 • Derek Grant	 	 returned to lineup
+5	2019-03-03	 Ducks	 	 • Derek Grant	 upper body injury (DTD)
+6	2019-03-08	 Ducks	 • Derek Grant	 	 returned to lineup
+7	2019-12-18	 Ducks	 	 • Derek Grant	 sprained AC joint in shoulder (out indefinitely)
+8	2019-12-21	 Ducks	 	 • Derek Grant	 placed on IR with sprained AC joint in shoulder
+9	2020-01-16	 Ducks	 • Derek Grant	 	 activated from IR

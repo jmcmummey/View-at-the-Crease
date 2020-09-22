@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-12-15	 Penguins	 	 • Kris Beech	 appendectomy (DTD)
+1	2003-01-15	 Penguins	 • Kris Beech	 	 returned to lineup
+2	2007-11-25	 Blue Jackets	 	 • Kris Beech	 placed on IR with undisclosed injury
+3	2007-11-27	 Blue Jackets	 • Kris Beech	 	 activated from IR
+4	2008-02-15	 Penguins	 	 • Kris Beech	 broken right wrist (out indefinitely)
+5	2008-02-15	 Penguins	 	 • Kris Beech	 placed on IR with broken right wrist
+6	2008-04-06	 Penguins	 • Kris Beech	 	 activated from IR

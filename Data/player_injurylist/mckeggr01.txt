@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-01-08	 Panthers	 	 • Greg McKegg	 upper body injury (DTD)
+1	2017-01-17	 Panthers	 • Greg McKegg	 	 returned to lineup
+2	2019-11-25	 Rangers	 	 • Greg McKegg	 lower body injury (DTD)
+3	2019-12-06	 Rangers	 • Greg McKegg	 	 returned to lineup

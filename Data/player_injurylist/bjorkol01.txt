@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-03-23	 Blue Jackets	 	 • Oliver Bjorkstrand	 undisclosed injury (DTD)
+1	2017-04-04	 Blue Jackets	 • Oliver Bjorkstrand	 	 returned to lineup
+2	2019-12-22	 Blue Jackets	 	 • Oliver Bjorkstrand	 placed on IR with rib injury
+3	2020-01-19	 Blue Jackets	 • Oliver Bjorkstrand	 	 activated from IR
+4	2020-02-21	 Blue Jackets	 	 • Oliver Bjorkstrand	 fractured ankle (out indefinitely)

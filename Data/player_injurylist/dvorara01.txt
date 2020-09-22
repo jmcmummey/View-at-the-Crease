@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-02-20	 Oilers	 	 • Radek Dvorak	 placed on IR with groin injury
+1	2005-12-05	 Oilers	 	 • Radek Dvorak	 strained groin
+2	2005-12-07	 Oilers	 	 • Radek Dvorak	 placed on IR with strained groin
+3	2005-12-13	 Oilers	 • Radek Dvorak	 	 activated from IR
+4	2005-12-14	 Oilers	 	 • Radek Dvorak	 groin injury (DTD)
+5	2005-12-19	 Oilers	 	 • Radek Dvorak	 placed on IR with groin injury
+6	2006-01-14	 Oilers	 • Radek Dvorak	 	 returned to lineup
+7	2006-03-22	 Oilers	 	 • Radek Dvorak	 left hip flexor injury (DTD)
+8	2006-03-28	 Oilers	 • Radek Dvorak	 	 returned to lineup
+9	2006-05-08	 Oilers	 	 • Radek Dvorak	 knee injury (DTD)
+10	2006-05-25	 Oilers	 • Radek Dvorak	 	 returned to lineup
+11	2008-02-05	 Panthers	 	 • Radek Dvorak	 broken finger (out 4-6 weeks)
+12	2008-03-06	 Panthers	 • Radek Dvorak	 	 returned to lineup
+13	2008-10-09	 Panthers	 • Radek Dvorak	 	 activated from IR
+14	2008-11-12	 Panthers	 	 • Radek Dvorak	 hamstring injury (DTD)
+15	2008-11-14	 Panthers	 • Radek Dvorak	 	 returned to lineup
+16	2009-10-25	 Panthers	 	 • Radek Dvorak	 placed on IR with torn ligament in left knee (out indefinitely)
+17	2009-11-12	 Panthers	 • Radek Dvorak	 	 activated from IR
+18	2010-12-05	 Panthers	 	 • Radek Dvorak	 placed on IR with shoulder injury
+19	2010-12-31	 Panthers	 • Radek Dvorak	 	 activated from IR
+20	2011-03-31	 Thrashers	 	 • Radek Dvorak	 upper body injury (out for season)
+21	2012-03-10	 Stars	 	 • Radek Dvorak	 ankle injury (DTD)
+22	2012-03-20	 Stars	 • Radek Dvorak	 	 returned to lineup
+23	2012-03-26	 Stars	 	 • Radek Dvorak	 ankle injury (DTD)
+24	2012-04-05	 Stars	 • Radek Dvorak	 	 returned to lineup
+25	2013-10-28	 Hurricanes	 	 • Radek Dvorak	 lower body injury (DTD)
+26	2013-10-31	 Hurricanes	 	 • Radek Dvorak	 placed on IR with lower body injury
+27	2013-11-05	 Hurricanes	 • Radek Dvorak	 	 activated from IR
+28	2013-11-13	 Hurricanes	 	 • Radek Dvorak	 lower body injury (DTD)
+29	2013-11-18	 Hurricanes	 • Radek Dvorak	 	 returned to lineup

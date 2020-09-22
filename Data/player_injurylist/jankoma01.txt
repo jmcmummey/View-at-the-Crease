@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-12-07	 Flames	 	 • Mark Jankowski	 illness (DTD)
+1	2019-12-09	 Flames	 • Mark Jankowski	 	 returned to lineup

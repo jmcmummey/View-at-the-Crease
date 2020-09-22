@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-10-06	 Senators	 	 • Max McCormick	 placed on IR with lower body injury
+1	2018-10-16	 Senators	 • Max McCormick	 	 activated from IR
+2	2019-10-01	 Hurricanes	 	 • Max McCormick	 placed on IR with undisclosed injury

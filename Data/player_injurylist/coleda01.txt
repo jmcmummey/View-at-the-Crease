@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-01-26	 Jets	 	 • Danton Cole	 strained left knee (DTD)
+1	1992-12-15	 Lightning	 	 • Danton Cole	 torn ligament in left knee (out indefinitely)
+2	1993-10-23	 Lightning	 	 • Danton Cole	 groin injury (DTD)
+3	1993-10-30	 Lightning	 	 • Danton Cole	 facial laceration (DTD)

@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-12-17	 Coyotes	 	 • Anthony Duclair	 illness (DTD)
+1	2015-12-18	 Coyotes	 • Anthony Duclair	 	 returned to lineup
+2	2018-03-10	 Blackhawks	 	 • Anthony Duclair	 lower body injury (out for season)
+3	2018-11-28	 Blue Jackets	 	 • Anthony Duclair	 undisclosed (DTD)
+4	2020-01-04	 Senators	 	 • Anthony Duclair	 foot injury (DTD)
+5	2020-01-07	 Senators	 • Anthony Duclair	 	 returned to lineup
+6	2020-02-25	 Senators	 	 • Anthony Duclair	 ankle / foot injury (DTD)
+7	2020-03-05	 Senators	 • Anthony Duclair	 	 returned to lineup

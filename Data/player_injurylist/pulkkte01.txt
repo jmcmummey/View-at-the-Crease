@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-14	 Red Wings	 	 • Teemu Pulkkinen	 general soreness (DTD)
+1	2015-11-16	 Red Wings	 • Teemu Pulkkinen	 	 returned to lineup
+2	2015-12-04	 Red Wings	 	 • Teemu Pulkkinen	 dislocated shoulder (DTD)
+3	2015-12-22	 Red Wings	 	 • Teemu Pulkkinen	 placed on IR with dislocated shoulder
+4	2016-01-16	 Red Wings	 • Teemu Pulkkinen	 	 activated from IR
+5	2016-01-25	 Red Wings	 	 • Teemu Pulkkinen	 undisclosed (DTD)
+6	2016-02-03	 Red Wings	 • Teemu Pulkkinen	 	 returned to lineup

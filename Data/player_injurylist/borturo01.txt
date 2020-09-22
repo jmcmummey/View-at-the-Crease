@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-03	 Penguins	 	 • Robert Bortuzzo	 placed on IR with knee injury
+1	2011-12-09	 Penguins	 	 • Robert Bortuzzo	 concussion (DTD)
+2	2011-12-17	 Penguins	 	 • Robert Bortuzzo	 placed on IR with concussion
+3	2012-01-06	 Penguins	 • Robert Bortuzzo	 	 activated from IR
+4	2014-03-07	 Penguins	 	 • Robert Bortuzzo	 upper body injury (DTD)
+5	2014-03-11	 Penguins	 • Robert Bortuzzo	 	 returned to lineup
+6	2014-10-09	 Penguins	 	 • Robert Bortuzzo	 lower body injury (DTD)
+7	2014-11-04	 Penguins	 • Robert Bortuzzo	 	 returned to lineup
+8	2014-12-15	 Penguins	 	 • Robert Bortuzzo	 placed on IR with upper body injury (date 12-18 per CBC)
+9	2014-12-27	 Penguins	 • Robert Bortuzzo	 	 activated from IR
+10	2015-04-06	 Blues	 	 • Robert Bortuzzo	 upper body injury (DTD)
+11	2015-04-10	 Blues	 • Robert Bortuzzo	 	 returned to lineup
+12	2016-01-18	 Blues	 	 • Robert Bortuzzo	 lower body injury (DTD)
+13	2016-02-09	 Blues	 • Robert Bortuzzo	 	 returned to lineup
+14	2016-10-29	 Blues	 	 • Robert Bortuzzo	 lower body injury (DTD)
+15	2016-11-02	 Blues	 	 • Robert Bortuzzo	 placed on IR with lower body injury
+16	2016-11-17	 Blues	 • Robert Bortuzzo	 	 activated from IR
+17	2016-12-04	 Blues	 	 • Robert Bortuzzo	 placed on IR with lower body injury
+18	2016-12-06	 Blues	 	 • Robert Bortuzzo	 placed on IR with lower body injury
+19	2017-01-11	 Blues	 • Robert Bortuzzo	 	 activated from IR
+20	2017-04-01	 Blues	 	 • Robert Bortuzzo	 upper body injury (DTD)
+21	2017-04-14	 Blues	 • Robert Bortuzzo	 	 returned to lineup
+22	2018-02-20	 Blues	 	 • Robert Bortuzzo	 lower body injury (DTD)
+23	2018-02-22	 Blues	 	 • Robert Bortuzzo	 placed on IR with lower body injury
+24	2018-03-03	 Blues	 • Robert Bortuzzo	 	 activated from IR
+25	2018-10-17	 Blues	 	 • Robert Bortuzzo	 lower body injury (DTD)
+26	2018-10-20	 Blues	 • Robert Bortuzzo	 	 returned to lineup
+27	2018-10-22	 Blues	 	 • Robert Bortuzzo	 lower body injury (DTD)
+28	2018-10-25	 Blues	 	 • Robert Bortuzzo	 placed on IR with lower body injury
+29	2018-11-30	 Blues	 • Robert Bortuzzo	 	 activated from IR
+30	2019-04-18	 Blues	 	 • Robert Bortuzzo	 undisclosed (DTD)
+31	2019-04-29	 Blues	 • Robert Bortuzzo	 	 returned to lineup

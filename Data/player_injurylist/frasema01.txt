@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-09-30	 Devils	 	 • Mark Fraser	 placed on IR with upper body injury
+1	2009-10-23	 Devils	 • Mark Fraser	 	 activated from IR
+2	2010-10-14	 Devils	 	 • Mark Fraser	 fractured right hand (out indefinitely)
+3	2010-10-29	 Devils	 	 • Mark Fraser	 placed on IR with fractured right hand
+4	2011-01-04	 Devils	 • Mark Fraser	 	 activated from IR
+5	2013-05-09	 Maple Leafs	 	 • Mark Fraser	 head injury (out for season)
+6	2013-10-03	 Maple Leafs	 	 • Mark Fraser	 placed on IR with knee injury
+7	2013-11-08	 Maple Leafs	 • Mark Fraser	 	 activated from IR
+8	2013-11-19	 Maple Leafs	 	 • Mark Fraser	 lower body injury (DTD)
+9	2013-11-23	 Maple Leafs	 • Mark Fraser	 	 returned to lineup
+10	2014-03-14	 Oilers	 	 • Mark Fraser	 groin injury (DTD)
+11	2014-03-16	 Oilers	 • Mark Fraser	 	 returned to lineup

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-01-24	 Flames	 	 • Oleg Saprykin	 placed on IR
+1	2005-12-13	 Coyotes	 	 • Oleg Saprykin	 knee injury (out until late-Dec)
+2	2005-12-28	 Coyotes	 • Oleg Saprykin	 	 returned to lineup
+3	2006-04-08	 Coyotes	 	 • Oleg Saprykin	 shoulder injury (DTD)
+4	2006-04-10	 Coyotes	 • Oleg Saprykin	 	 returned to lineup

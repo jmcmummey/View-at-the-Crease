@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-31	 Coyotes	 	 • Christian Dvorak	 lower body injury (out for season)
+1	2018-10-02	 Coyotes	 	 • Christian Dvorak	 placed on IR with lower body injury
+2	2019-02-25	 Coyotes	 • Christian Dvorak	 	 activated from IR

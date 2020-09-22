@@ -1,0 +1,50 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-10-04	 Canucks	 	 • Adrian Aucoin	 ankle injury (out indefinitely)
+1	1997-11-01	 Canucks	 	 • Adrian Aucoin	 groin injury (out indefinitely)
+2	2005-10-09	 Blackhawks	 	 • Adrian Aucoin	 groin injury (DTD)
+3	2005-10-18	 Blackhawks	 • Adrian Aucoin	 	 returned to lineup
+4	2005-10-23	 Blackhawks	 	 • Adrian Aucoin	 groin injury (DTD)
+5	2005-10-27	 Blackhawks	 • Adrian Aucoin	 	 returned to lineup
+6	2005-12-03	 Blackhawks	 	 • Adrian Aucoin	 groin injury (DTD)
+7	2005-12-11	 Blackhawks	 • Adrian Aucoin	 	 returned to lineup
+8	2005-12-13	 Blackhawks	 	 • Adrian Aucoin	 groin injury (DTD)
+9	2005-12-21	 Blackhawks	 • Adrian Aucoin	 	 returned to lineup
+10	2006-01-13	 Blackhawks	 	 • Adrian Aucoin	 groin injury (DTD)
+11	2006-01-26	 Blackhawks	 • Adrian Aucoin	 	 returned to lineup
+12	2006-01-31	 Blackhawks	 	 • Adrian Aucoin	 shoulder injury (out for remainder of regular season)
+13	2006-11-24	 Blackhawks	 	 • Adrian Aucoin	 groin injury (DTD)
+14	2006-12-17	 Blackhawks	 • Adrian Aucoin	 	 returned to lineup
+15	2007-01-13	 Blackhawks	 	 • Adrian Aucoin	 groin injury (DTD)
+16	2007-01-14	 Blackhawks	 	 • Adrian Aucoin	 placed on IR with groin injury
+17	2007-02-03	 Blackhawks	 • Adrian Aucoin	 	 activated from IR
+18	2007-11-29	 Flames	 	 • Adrian Aucoin	 shoulder injury (DTD)
+19	2007-12-01	 Flames	 • Adrian Aucoin	 	 returned to lineup
+20	2008-01-05	 Flames	 	 • Adrian Aucoin	 lower body injury (DTD)
+21	2008-01-15	 Flames	 • Adrian Aucoin	 	 returned to lineup
+22	2009-04-03	 Flames	 	 • Adrian Aucoin	 upper body injury (DTD)
+23	2010-11-22	 Coyotes	 	 • Adrian Aucoin	 lower body injury (DTD)
+24	2010-11-27	 Coyotes	 • Adrian Aucoin	 	 returned to lineup
+25	2011-02-17	 Coyotes	 	 • Adrian Aucoin	 lower body injury (DTD)
+26	2011-02-22	 Coyotes	 	 • Adrian Aucoin	 placed on IR with lower body injury
+27	2011-02-27	 Coyotes	 • Adrian Aucoin	 	 activated from IR
+28	2011-12-20	 Coyotes	 	 • Adrian Aucoin	 lower body injury (DTD)
+29	2011-12-21	 Coyotes	 	 • Adrian Aucoin	 placed on IR with lower body injury
+30	2011-12-29	 Coyotes	 • Adrian Aucoin	 	 activated from IR
+31	2012-01-07	 Coyotes	 	 • Adrian Aucoin	 eye injury (DTD)
+32	2012-01-10	 Coyotes	 • Adrian Aucoin	 	 returned to lineup
+33	2012-01-16	 Coyotes	 	 • Adrian Aucoin	 lower (CBC) / upper body injury (DTD)
+34	2012-01-21	 Coyotes	 	 • Adrian Aucoin	 placed on IR with lower body injury
+35	2012-01-24	 Coyotes	 • Adrian Aucoin	 	 activated from IR
+36	2012-03-15	 Coyotes	 	 • Adrian Aucoin	 lower body injury (DTD)
+37	2012-03-29	 Coyotes	 • Adrian Aucoin	 	 returned to lineup
+38	2012-05-13	 Coyotes	 	 • Adrian Aucoin	 undisclosed injury (DTD)
+39	2012-05-20	 Coyotes	 • Adrian Aucoin	 	 returned to lineup
+40	2013-01-30	 Blue Jackets	 	 • Adrian Aucoin	 lower body injury (DTD)
+41	2013-02-04	 Blue Jackets	 	 • Adrian Aucoin	 placed on IR with lower body injury
+42	2013-02-15	 Blue Jackets	 • Adrian Aucoin	 	 activated from IR
+43	2013-03-16	 Blue Jackets	 	 • Adrian Aucoin	 undisclosed (DTD)
+44	2013-03-22	 Blue Jackets	 • Adrian Aucoin	 	 returned to lineup
+45	2013-03-29	 Blue Jackets	 	 • Adrian Aucoin	 undisclosed (DTD)
+46	2013-03-31	 Blue Jackets	 • Adrian Aucoin	 	 returned to lineup
+47	2013-04-16	 Blue Jackets	 	 • Adrian Aucoin	 lower body injury (DTD)
+48	2013-04-21	 Blue Jackets	 • Adrian Aucoin	 	 returned to lineup

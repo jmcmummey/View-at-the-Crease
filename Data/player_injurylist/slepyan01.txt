@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-11-05	 Oilers	 	 • Anton Slepyshev	 undisclosed (DTD)
+1	2017-11-09	 Oilers	 • Anton Slepyshev	 	 returned to lineup
+2	2017-11-10	 Oilers	 	 • Anton Slepyshev	 placed on IR with groin injury
+3	2017-11-26	 Oilers	 • Anton Slepyshev	 	 activated from IR

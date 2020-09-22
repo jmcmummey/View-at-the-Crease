@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-04-03	 Red Wings	 	 Damien Brunner	 hip flexor injury (DTD)
+1	2013-04-11	 Red Wings	 Damien Brunner	 	 returned to lineup
+2	2013-10-19	 Devils	 	 • Damien Brunner	 upper body soreness (DTD)
+3	2013-10-22	 Devils	 Damien Brunner	 	 returned to lineup
+4	2013-12-21	 Devils	 	 Damien Brunner	 right knee injury (DTD)
+5	2013-12-27	 Devils	 	 Damien Brunner	 placed on IR with right knee injury
+6	2014-01-21	 Devils	 Damien Brunner	 	 activated from IR
+7	2014-02-28	 Devils	 	 Damien Brunner	 charley horse (DTD)
+8	2014-03-04	 Devils	 Damien Brunner	 	 returned to lineup

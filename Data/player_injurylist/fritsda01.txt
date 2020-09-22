@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-16	 Blue Jackets	 	 • Dan Fritsche	 ankle injury (DTD)
+1	2005-10-17	 Blue Jackets	 	 • Dan Fritsche	 placed on IR with ankle injury
+2	2005-10-28	 Blue Jackets	 • Dan Fritsche	 	 activated from IR
+3	2006-01-07	 Blue Jackets	 	 • Dan Fritsche	 mild concussion (DTD)
+4	2006-01-11	 Blue Jackets	 • Dan Fritsche	 	 returned to lineup
+5	2006-10-11	 Blue Jackets	 	 • Dan Fritsche	 placed on IR with shoulder injury
+6	2006-10-26	 Blue Jackets	 • Dan Fritsche	 	 activated from IR
+7	2007-02-26	 Blue Jackets	 	 • Dan Fritsche	 wrist injury (out for remainder of regular season)
+8	2008-01-22	 Blue Jackets	 	 • Dan Fritsche	 back injury (DTD)
+9	2008-01-29	 Blue Jackets	 • Dan Fritsche	 	 returned to lineup
+10	2008-03-20	 Blue Jackets	 	 • Dan Fritsche	 broken hand (out for season)

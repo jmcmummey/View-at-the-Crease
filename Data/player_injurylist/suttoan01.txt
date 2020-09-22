@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-01-19	 Sharks	 	 • Andy Sutton	 placed on IR with wrist injury
+1	2001-11-23	 Wild	 • Andy Sutton	 	" ""activated"""
+2	2003-02-16	 Thrashers	 	 • Andy Sutton	 placed on IR
+3	2004-01-05	 Thrashers	 	 • Andy Sutton	 placed on IR
+4	2004-02-10	 Thrashers	 • Andy Sutton	 	 activated from IR
+5	2005-12-13	 Thrashers	 	 • Andy Sutton	 flu (DTD)
+6	2005-12-15	 Thrashers	 • Andy Sutton	 	 returned to lineup
+7	2006-11-28	 Thrashers	 	 • Andy Sutton	 cracked bone in ankle (out indefinitely)
+8	2007-01-30	 Thrashers	 • Andy Sutton	 	 returned to lineup
+9	2008-01-29	 Islanders	 	 • Andy Sutton	 flu (DTD)
+10	2008-02-02	 Islanders	 • Andy Sutton	 	 returned to lineup
+11	2008-02-18	 Islanders	 	 • Andy Sutton	 leg injury (left game)
+12	2008-10-07	 Islanders	 	 • Andy Sutton	 surgery on hand (out indefinitely)
+13	2008-10-07	 Islanders	 	 • Andy Sutton	 placed on IR recovering from surgery on hand
+14	2008-10-30	 Islanders	 • Andy Sutton	 	 returned to lineup
+15	2008-12-09	 Islanders	 	 • Andy Sutton	 flu (DTD)
+16	2008-12-11	 Islanders	 • Andy Sutton	 	 returned to lineup
+17	2008-12-19	 Islanders	 	 • Andy Sutton	 broken foot (out indefinitely)
+18	2009-11-28	 Islanders	 	 • Andy Sutton	 groin injury (DTD)
+19	2009-12-02	 Islanders	 	 • Andy Sutton	 placed on IR with groin injury
+20	2009-12-14	 Islanders	 • Andy Sutton	 	 activated from IR
+21	2010-10-09	 Ducks	 	 • Andy Sutton	 placed on IR with broken right thumb
+22	2010-11-21	 Ducks	 • Andy Sutton	 	 activated from IR
+23	2011-11-17	 Oilers	 	 • Andy Sutton	 placed on IR with groin injury
+24	2011-11-30	 Oilers	 • Andy Sutton	 	 activated from IR
+25	2013-01-16	 Oilers	 	 • Andy Sutton	 placed on IR with surgery on knee (out for season)

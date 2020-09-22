@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-05	 Ducks	 	 • Rickard Rakell	 upper body injury (DTD)
+1	2015-11-11	 Ducks	 • Rickard Rakell	 	 returned to lineup
+2	2016-03-30	 Ducks	 	 • Rickard Rakell	 flu (out for season)
+3	2016-04-01	 Ducks	 	 • Rickard Rakell	 appendicitis (out for season)
+4	2016-12-04	 Ducks	 	 • Rickard Rakell	 lower body injury (DTD)
+5	2016-12-09	 Ducks	 • Rickard Rakell	 	 returned to lineup
+6	2017-05-20	 Ducks	 	 • Rickard Rakell	 lower body injury (out for season)
+7	2017-11-25	 Ducks	 	 • Rickard Rakell	 upper body injury (DTD)
+8	2017-12-01	 Ducks	 	 • Rickard Rakell	 placed on IR with upper body injury
+9	2017-12-05	 Ducks	 • Rickard Rakell	 	 activated from IR
+10	2018-12-06	 Ducks	 	 • Rickard Rakell	 lower body injury (DTD)
+11	2018-12-12	 Ducks	 	 • Rickard Rakell	 placed on IR with ankle injury
+12	2019-01-09	 Ducks	 • Rickard Rakell	 	 activated from IR
+13	2019-12-22	 Ducks	 	 • Rickard Rakell	 upper body injury (DTD)
+14	2020-01-02	 Ducks	 	 • Rickard Rakell	 placed on IR with upper body injury
+15	2020-01-07	 Ducks	 • Rickard Rakell	 	 activated from IR

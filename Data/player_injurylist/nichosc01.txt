@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-04	 Predators	 	 • Scott Nichol	 groin injury (out indefinitely)
+1	2005-10-06	 Predators	 • Scott Nichol	 	 returned to lineup
+2	2005-11-15	 Predators	 	 • Scott Nichol	 broken foot (out until late January)
+3	2006-01-12	 Predators	 • Scott Nichol	 	 returned to lineup
+4	2006-02-02	 Predators	 	 • Scott Nichol	 head injury (out indefinitely)
+5	2006-02-09	 Predators	 • Scott Nichol	 	 activated from IR
+6	2007-03-07	 Predators	 	 • Scott Nichol	 broken thumb (DTD)
+7	2007-04-03	 Predators	 • Scott Nichol	 	 returned to lineup
+8	2008-04-10	 Predators	 	 • Scott Nichol	 left arm injury (DTD)
+9	2008-04-20	 Predators	 • Scott Nichol	 	 returned to lineup
+10	2008-12-10	 Predators	 	 • Scott Nichol	 placed on IR with upper body injury / concussion
+11	2009-03-10	 Predators	 • Scott Nichol	 	 activated from IR
+12	2010-03-05	 Sharks	 	 • Scott Nichol	 shoulder injury (DTD)
+13	2010-03-11	 Sharks	 • Scott Nichol	 	 returned to lineup
+14	2010-03-23	 Sharks	 	 • Scott Nichol	 upper body injury (DTD)
+15	2010-03-27	 Sharks	 • Scott Nichol	 	 returned to lineup
+16	2010-10-25	 Sharks	 	 • Scott Nichol	 lower body injury (DTD)
+17	2010-11-26	 Sharks	 	 • Scott Nichol	 eye injury (DTD)
+18	2010-11-30	 Sharks	 • Scott Nichol	 	 returned to lineup
+19	2011-02-19	 Sharks	 	 • Scott Nichol	 upper body injury (DTD)
+20	2011-03-01	 Sharks	 	 • Scott Nichol	 placed on IR with upper body injury
+21	2011-04-08	 Sharks	 • Scott Nichol	 	 activated from IR
+22	2013-04-04	 Blues	 	 • Scott Nichol	 body soreness (out for season)

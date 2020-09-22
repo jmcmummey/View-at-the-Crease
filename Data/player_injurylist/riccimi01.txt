@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-02-27	 Sharks	 	 • Mike Ricci	 placed on IR
+1	2005-10-11	 Coyotes	 	 • Mike Ricci	 broken nose (DTD)
+2	2005-10-17	 Coyotes	 • Mike Ricci	 	 returned to lineup
+3	2006-09-16	 Coyotes	 	 • Mike Ricci	 neck injury (DTD)
+4	2006-11-16	 Coyotes	 • Mike Ricci	 	 returned to lineup
+5	2007-01-09	 Coyotes	 	 • Mike Ricci	 placed on IR with neck injury

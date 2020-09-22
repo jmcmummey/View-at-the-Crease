@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-11-20	 Senators	 	 • Curtis Lazar	 undisclosed (DTD)
+1	2014-11-24	 Senators	 • Curtis Lazar	 	 returned to lineup
+2	2015-02-28	 Senators	 	 • Curtis Lazar	 flu (DTD)
+3	2015-03-03	 Senators	 • Curtis Lazar	 	 returned to lineup
+4	2015-10-27	 Senators	 	 • Curtis Lazar	 concussion (DTD)
+5	2015-11-03	 Senators	 • Curtis Lazar	 	 returned to lineup
+6	2015-12-27	 Senators	 	 • Curtis Lazar	 lower body injury (DTD)
+7	2015-12-30	 Senators	 • Curtis Lazar	 	 returned to lineup
+8	2016-04-08	 Senators	 	 • Curtis Lazar	 undisclosed injury (out for season)
+9	2016-12-06	 Senators	 	 • Curtis Lazar	 placed on IR with concussion
+10	2016-12-14	 Senators	 • Curtis Lazar	 	 activated from IR
+11	2017-02-26	 Senators	 	 • Curtis Lazar	 upper body injury (DTD)
+12	2017-03-19	 Flames	 • Curtis Lazar	 	 returned to lineup
+13	2020-02-04	 Sabres	 	 • Curtis Lazar	 illness (DTD)
+14	2020-02-06	 Sabres	 • Curtis Lazar	 	 returned to lineup

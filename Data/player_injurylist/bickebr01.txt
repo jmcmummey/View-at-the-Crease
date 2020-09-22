@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-17	 Blackhawks	 	 • Bryan Bickell	 illness (DTD)
+1	2011-04-16	 Blackhawks	 	 • Bryan Bickell	 right wrist injury (DTD)
+2	2011-04-19	 Blackhawks	 • Bryan Bickell	 	 returned to lineup
+3	2013-11-20	 Blackhawks	 	 • Bryan Bickell	 lower body injury (DTD)
+4	2013-12-09	 Blackhawks	 	 • Bryan Bickell	 placed on IR with lower body injury
+5	2013-12-16	 Blackhawks	 • Bryan Bickell	 	 activated from IR
+6	2014-03-21	 Blackhawks	 	 • Bryan Bickell	 undisclosed (DTD)
+7	2014-04-03	 Blackhawks	 • Bryan Bickell	 	 returned to lineup
+8	2015-06-03	 Blackhawks	 	 • Bryan Bickell	 upper body injury (DTD)
+9	2015-06-08	 Blackhawks	 • Bryan Bickell	 	 returned to lineup
+10	2016-11-10	 Hurricanes	 	 • Bryan Bickell	 placed on IR with multiple sclerosis
+11	2017-02-24	 Hurricanes	 • Bryan Bickell	 	 activated from IR

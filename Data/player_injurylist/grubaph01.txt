@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-28	 Capitals	 	 • Philipp Grubauer	 undisclosed injury (DTD)
+1	2018-03-30	 Capitals	 • Philipp Grubauer	 	 returned to lineup
+2	2019-11-07	 Avalanche	 	 • Philipp Grubauer	 lower body injury (DTD)
+3	2019-11-11	 Avalanche	 	 • Philipp Grubauer	 placed on IR with lower body injury
+4	2019-11-19	 Avalanche	 • Philipp Grubauer	 	 activated from IR
+5	2019-12-09	 Avalanche	 	 • Philipp Grubauer	 hamstring injury (DTD)
+6	2019-12-13	 Avalanche	 • Philipp Grubauer	 	 returned to lineup
+7	2020-02-17	 Avalanche	 	 • Philipp Grubauer	 lower body injury (out indefinitely)
+8	2020-02-22	 Avalanche	 	 • Philipp Grubauer	 placed on IR with lower body injury
+9	2020-07-13	 Avalanche	 • Philipp Grubauer	 	 activated from IR
+10	2020-08-23	 Avalanche	 	 • Philipp Grubauer	 lower body injury (out for season)

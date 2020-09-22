@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-01-31	 Thrashers	 	 • Garnet Exelby	 placed on IR
+1	2004-02-04	 Thrashers	 • Garnet Exelby	 	 activated from IR
+2	2005-10-04	 Thrashers	 	 • Garnet Exelby	 placed on IR with bruised leg
+3	2005-10-07	 Thrashers	 • Garnet Exelby	 	 activated from IR
+4	2006-03-10	 Thrashers	 	 • Garnet Exelby	 illness (DTD)
+5	2006-03-16	 Thrashers	 • Garnet Exelby	 	 returned to lineup
+6	2006-11-16	 Thrashers	 	 • Garnet Exelby	 placed on IR with mononucleosis (out 3-4 weeks)
+7	2006-12-27	 Thrashers	 • Garnet Exelby	 	 activated from IR
+8	2007-01-02	 Thrashers	 	 • Garnet Exelby	 mononucleosis (out indefinitely)
+9	2007-01-05	 Thrashers	 • Garnet Exelby	 	 returned to lineup
+10	2008-12-18	 Thrashers	 	 • Garnet Exelby	 undisclosed (DTD)
+11	2008-12-26	 Thrashers	 	 • Garnet Exelby	 placed on IR with right leg injury
+12	2009-02-02	 Thrashers	 • Garnet Exelby	 	 activated from IR
+13	2009-02-06	 Thrashers	 	 • Garnet Exelby	 right leg injury (DTD)
+14	2009-02-08	 Thrashers	 • Garnet Exelby	 	 returned to lineup

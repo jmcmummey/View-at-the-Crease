@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-05	 Blues	 	 • Mike Van Ryn	 shoulder injury (out indefinitely)
+1	2005-11-12	 Panthers	 	 • Mike Van Ryn	 hip flexor injury (DTD)
+2	2005-11-15	 Panthers	 • Mike Van Ryn	 	 returned to lineup
+3	2006-01-07	 Panthers	 	 • Mike Van Ryn	 thigh injury (DTD)
+4	2006-01-08	 Panthers	 • Mike Van Ryn	 	 returned to lineup
+5	2006-10-28	 Panthers	 	 • Mike Van Ryn	 shoulder injury (DTD)
+6	2006-10-31	 Panthers	 • Mike Van Ryn	 	 returned to lineup
+7	2006-11-24	 Panthers	 	 • Mike Van Ryn	 flu (DTD)
+8	2006-11-28	 Panthers	 • Mike Van Ryn	 	 returned to lineup
+9	2007-02-03	 Panthers	 	 • Mike Van Ryn	 hand injury (DTD)
+10	2007-02-06	 Panthers	 • Mike Van Ryn	 	 returned to lineup
+11	2007-10-06	 Panthers	 	 • Mike Van Ryn	 groin injury (DTD)
+12	2007-10-10	 Panthers	 • Mike Van Ryn	 	 returned to lineup
+13	2007-10-24	 Panthers	 	 • Mike Van Ryn	 knee injury (DTD)
+14	2007-10-26	 Panthers	 • Mike Van Ryn	 	 returned to lineup
+15	2007-11-21	 Panthers	 	 • Mike Van Ryn	 wrist injury (DTD)
+16	2007-12-21	 Panthers	 	 • Mike Van Ryn	 surgery on wrist (out 8-10 weeks)
+17	2008-11-09	 Maple Leafs	 	 • Mike Van Ryn	 placed on IR with concussion / broken nose / broken finger
+18	2008-12-12	 Maple Leafs	 • Mike Van Ryn	 	 activated from IR
+19	2008-12-19	 Maple Leafs	 	 • Mike Van Ryn	 concussion (DTD)
+20	2009-01-27	 Maple Leafs	 • Mike Van Ryn	 	 returned to lineup
+21	2009-02-09	 Maple Leafs	 	 • Mike Van Ryn	 placed on IR with lower body injury
+22	2009-02-28	 Maple Leafs	 • Mike Van Ryn	 	 activated from IR
+23	2009-03-08	 Maple Leafs	 	 • Mike Van Ryn	 torn MCL in left knee (out for season)
+24	2009-09-30	 Maple Leafs	 	 • Mike Van Ryn	 placed on IR with torn MCL in left knee (out for season)

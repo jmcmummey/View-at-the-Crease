@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-12-18	 Maple Leafs	 	 • Garret Sparks	 lower body injury (DTD)
+1	2015-12-30	 Maple Leafs	 	 • Garret Sparks	 placed on IR with lower body injury
+2	2016-01-11	 Maple Leafs	 • Garret Sparks	 	 activated from IR
+3	2019-01-03	 Maple Leafs	 	 • Garret Sparks	 concussion (DTD)
+4	2019-01-14	 Maple Leafs	 • Garret Sparks	 	 returned to lineup

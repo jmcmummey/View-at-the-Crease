@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-05	 Jets	 	 • Ben Maxwell	 placed on IR with upper body injury
+1	2011-10-22	 Jets	 • Ben Maxwell	 	 activated from IR

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-12-19	 Coyotes	 	 • Conor Garland	 upper body injury (DTD)
+1	2019-12-22	 Coyotes	 • Conor Garland	 	 returned to lineup
+2	2020-03-08	 Coyotes	 	 • Conor Garland	 lower body injury (out indefinitely)
+3	2020-07-26	 Coyotes	 • Conor Garland	 	 returned to lineup
+4	2020-08-19	 Coyotes	 	 • Conor Garland	 undisclosed (out for season)

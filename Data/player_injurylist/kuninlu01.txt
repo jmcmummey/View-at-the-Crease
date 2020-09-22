@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-04-07	 Wild	 	 • Luke Kunin	 placed on IR with torn ACL in left knee (out for season)
+1	2018-10-02	 Wild	 	 • Luke Kunin	 placed on IR recovering from surgery to repair torn ACL in left knee
+2	2018-10-07	 Wild	 • Luke Kunin	 	 activated from IR
+3	2019-03-08	 Wild	 	 • Luke Kunin	 upper body injury (DTD)
+4	2019-03-13	 Wild	 • Luke Kunin	 	 returned to lineup
+5	2019-11-09	 Wild	 	 • Luke Kunin	 food poisoning (DTD)
+6	2019-11-11	 Wild	 • Luke Kunin	 	 returned to lineup
+7	2020-02-23	 Wild	 	 • Luke Kunin	 upper body injury (out indefinitely)
+8	2020-03-02	 Wild	 • Luke Kunin	 	 returned to lineup

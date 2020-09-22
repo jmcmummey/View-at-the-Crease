@@ -1,0 +1,83 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1997-10-01		Detroit Red Wings	1	3	L			26	8	0		0		20	8	2		0
+1	1997-10-03		Colorado Avalanche	1	4	L			27	54	0		0		22	40	1		0
+2	1997-10-07		Toronto Maple Leafs	1	2	L			26	20	0		0		26	14	0		0
+3	1997-10-09		New York Rangers	1	1	T	OT		28	42	0		0		14	48	0		0
+4	1997-10-12	@	Detroit Red Wings	4	4	T	OT		28	16	1		0		37	12	2		0
+5	1997-10-14	@	Dallas Stars	4	5	L	OT		19	10	3		0		31	12	1		0
+6	1997-10-17		Colorado Avalanche	6	5	W	OT		37	23	2		3		23	32	1		0
+7	1997-10-18		Boston Bruins	0	3	L			30	19	0		0		15	19	0		0
+8	1997-10-22	@	Buffalo Sabres	1	4	L			18	24	0		0		21	24	3		0
+9	1997-10-23	@	Philadelphia Flyers	3	4	L			23	46	1		0		34	26	0		0
+10	1997-10-25	@	Toronto Maple Leafs	3	4	L			34	24	0		0		21	34	2		0
+11	1997-10-28		Pittsburgh Penguins	6	3	W			37	4	1		0		29	6	0		1
+12	1997-10-30		Phoenix Coyotes	4	2	W			35	10	2		0		30	8	1		0
+13	1997-11-01	@	Colorado Avalanche	3	3	T	OT		35	14	1		0		40	12	0		0
+14	1997-11-02	@	Phoenix Coyotes	1	3	L			24	34	0		0		31	30	1		0
+15	1997-11-05		Toronto Maple Leafs	3	4	L			30	4	1		0		26	8	0		0
+16	1997-11-07		Mighty Ducks of Anaheim	3	4	L	OT		31	4	1		0		24	4	0		0
+17	1997-11-09	@	Detroit Red Wings	3	6	L			27	60	0		1		33	39	1		0
+18	1997-11-10	@	Chicago Blackhawks	1	1	T	OT		30	30	0		0		19	26	0		0
+19	1997-11-13		Carolina Hurricanes	2	4	L			32	23	0		0		24	25	2		0
+20	1997-11-15	@	Edmonton Oilers	2	2	T	OT		22	19	0		0		34	13	1		0
+21	1997-11-18	@	New Jersey Devils	1	2	L			12	8	0		0		41	6	0		0
+22	1997-11-20	@	Florida Panthers	2	1	W			25	13	0		0		29	7	1		0
+23	1997-11-22	@	Tampa Bay Lightning	3	4	L			23	20	0		0		21	29	1		1
+24	1997-11-23	@	Carolina Hurricanes	3	3	T	OT		25	17	0		1		33	23	0		0
+25	1997-11-27		Chicago Blackhawks	2	2	T	OT		41	6	0		0		32	6	0		1
+26	1997-11-29		Mighty Ducks of Anaheim	3	2	W	OT		23	10	0		1		20	6	0		0
+27	1997-12-01		San Jose Sharks	3	2	W	OT		28	4	0		0		23	6	1		0
+28	1997-12-03		Detroit Red Wings	3	4	L			26	12	0		1		26	10	2		0
+29	1997-12-05	@	Dallas Stars	1	4	L			21	36	0		0		25	42	1		0
+30	1997-12-06	@	St. Louis Blues	3	4	L	OT		25	28	1		0		36	4	1		0
+31	1997-12-09	@	New York Islanders	3	1	W			21	12	1		1		20	12	1		0
+32	1997-12-10	@	New York Rangers	4	1	W			18	10	0		0		31	2	1		0
+33	1997-12-12		Colorado Avalanche	3	1	W			25	27	0		0		34	11	0		0
+34	1997-12-16		Chicago Blackhawks	4	3	W	OT		36	17	0		0		30	19	0		0
+35	1997-12-18		Dallas Stars	1	2	L			24	14	1		0		20	6	1		0
+36	1997-12-20		Los Angeles Kings	1	4	L			37	37	0		0		21	26	2		0
+37	1997-12-22	@	Mighty Ducks of Anaheim	1	5	L			34	14	0		0		24	25	1		0
+38	1997-12-23	@	Phoenix Coyotes	2	2	T	OT		28	8	1		0		27	12	0		0
+39	1997-12-27		Philadelphia Flyers	5	2	W			31	17	1		0		27	17	0		0
+40	1997-12-29		Phoenix Coyotes	3	5	L			14	4	0		0		34	6	0		1
+41	1997-12-31		Montreal Canadiens	2	3	L			30	10	0		0		27	8	2		0
+42	1998-01-03	@	St. Louis Blues	3	4	L			36	44	0		0		31	24	0		1
+43	1998-01-05	@	Chicago Blackhawks	1	1	T	OT		29	13	1		0		23	9	1		0
+44	1998-01-06	@	Colorado Avalanche	3	1	W			26	17	0		0		23	15	0		0
+45	1998-01-09		Florida Panthers	3	3	T	OT		33	20	0		2		26	20	0		1
+46	1998-01-10		St. Louis Blues	1	5	L			28	14	1		0		37	8	2		0
+47	1998-01-14	@	Edmonton Oilers	2	5	L			42	21	0		0		28	23	0		0
+48	1998-01-20	@	Los Angeles Kings	3	4	L			23	8	1		0		37	6	0		0
+49	1998-01-21	@	San Jose Sharks	1	7	L			32	10	1		0		28	8	1		0
+50	1998-01-24		Vancouver Canucks	5	2	W			32	13	3		1		20	15	0		0
+51	1998-01-28	@	Mighty Ducks of Anaheim	5	2	W			45	21	2		1		28	34	1		0
+52	1998-01-29	@	Los Angeles Kings	3	5	L			31	17	0		0		23	17	2		0
+53	1998-01-31		New Jersey Devils	2	2	T	OT		24	39	0		0		24	33	0		0
+54	1998-02-03		Los Angeles Kings	3	6	L			23	30	0		0		23	20	1		0
+55	1998-02-05		San Jose Sharks	4	2	W			26	10	1		0		25	4	0		0
+56	1998-02-07		Edmonton Oilers	4	2	W			28	21	0		0		27	21	1		0
+57	1998-02-27		Vancouver Canucks	4	4	T	OT		28	28	0		0		31	26	1		0
+58	1998-03-01		Ottawa Senators	2	1	W			23	22	1		0		47	16	0		0
+59	1998-03-03		Tampa Bay Lightning	2	1	W			23	22	1		0		26	30	0		0
+60	1998-03-05	@	Vancouver Canucks	6	2	W			32	57	3		0		37	69	0		0
+61	1998-03-07	@	Ottawa Senators	1	2	L			23	18	1		0		20	12	2		0
+62	1998-03-09	@	Washington Capitals	2	5	L			23	51	0		0		27	53	2		0
+63	1998-03-11	@	Pittsburgh Penguins	1	4	L			32	29	0		0		24	31	1		0
+64	1998-03-12	@	Boston Bruins	5	2	W			17	35	0		1		32	17	1		0
+65	1998-03-14	@	Toronto Maple Leafs	1	2	L			33	10	0		0		21	14	0		0
+66	1998-03-16	@	Montreal Canadiens	3	3	T	OT		32	13	0		0		29	13	1		0
+67	1998-03-20		New York Islanders	4	1	W			21	54	0		1		32	30	0		0
+68	1998-03-22		St. Louis Blues	5	3	W			32	27	1		0		31	19	1		0
+69	1998-03-24		Buffalo Sabres	0	2	L			29	4	0		0		21	8	0		0
+70	1998-03-26		Washington Capitals	3	2	W			26	18	1		0		27	14	0		0
+71	1998-03-28		Los Angeles Kings	5	2	W			29	41	1		0		28	39	0		0
+72	1998-03-30	@	Edmonton Oilers	1	3	L			21	12	0		0		38	8	1		1
+73	1998-04-01		Dallas Stars	3	1	W			21	16	1		1		34	12	0		0
+74	1998-04-05	@	Mighty Ducks of Anaheim	3	3	T	OT		35	23	1		0		36	15	1		0
+75	1998-04-07	@	San Jose Sharks	0	6	L			16	62	0		0		30	46	3		0
+76	1998-04-09		Vancouver Canucks	3	6	L			38	58	0		0		25	50	1		3
+77	1998-04-11		Edmonton Oilers	4	5	L			30	49	1		1		32	41	4		1
+78	1998-04-13	@	Los Angeles Kings	2	4	L			29	16	1		0		27	12	3		1
+79	1998-04-15		San Jose Sharks	3	3	T	OT		21	28	1		0		30	16	2		1
+80	1998-04-17	@	Vancouver Canucks	4	2	W			32	16	0		2		26	10	1		0
+81	1998-04-18	@	San Jose Sharks	1	4	L			20	30	1		0		27	18	2		0

@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-03-08	 Sabres	 	 • Steve Bernier	 undisclosed injury (DTD)
+1	2008-03-12	 Sabres	 • Steve Bernier	 	 returned to lineup
+2	2008-11-27	 Canucks	 	 • Steve Bernier	 shoulder injury (DTD)
+3	2008-11-29	 Canucks	 • Steve Bernier	 	 returned to lineup
+4	2009-11-05	 Canucks	 	 • Steve Bernier	 flu (DTD)
+5	2009-11-10	 Canucks	 • Steve Bernier	 	 returned to lineup
+6	2010-01-11	 Canucks	 	 • Steve Bernier	 groin injury (DTD)
+7	2010-01-20	 Canucks	 • Steve Bernier	 	 returned to lineup
+8	2010-03-03	 Canucks	 	 • Steve Bernier	 groin injury (DTD)
+9	2010-04-06	 Canucks	 • Steve Bernier	 	 activated from IR
+10	2010-11-13	 Panthers	 	 • Steve Bernier	 fractured orbital bone (DTD)
+11	2010-11-24	 Panthers	 	 • Steve Bernier	 placed on IR
+12	2010-12-01	 Panthers	 • Steve Bernier	 	 activated from IR
+13	2011-02-16	 Panthers	 	 • Steve Bernier	 flu (DTD)
+14	2011-02-18	 Panthers	 • Steve Bernier	 	 returned to lineup
+15	2011-04-07	 Panthers	 	 • Steve Bernier	 shoulder injury (out for season)
+16	2015-01-01	 Devils	 	 • Steve Bernier	 left ankle (CBC) / knee injury (DTD)
+17	2015-01-06	 Devils	 • Steve Bernier	 	 returned to lineup

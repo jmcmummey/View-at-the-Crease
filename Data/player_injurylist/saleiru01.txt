@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-28	 Mighty Ducks	 	 • Ruslan Salei	 orbital fracture (DTD)
+1	2006-02-06	 Mighty Ducks	 • Ruslan Salei	 	 returned to lineup
+2	2008-03-10	 Avalanche	 	 • Ruslan Salei	 eye injury (DTD)
+3	2008-03-13	 Avalanche	 • Ruslan Salei	 	 returned to lineup
+4	2008-12-23	 Avalanche	 	 • Ruslan Salei	 upper body injury (DTD)
+5	2008-12-27	 Avalanche	 • Ruslan Salei	 	 returned to lineup
+6	2009-03-19	 Avalanche	 	 • Ruslan Salei	 foot injury (DTD)
+7	2009-03-22	 Avalanche	 • Ruslan Salei	 	 returned to lineup
+8	2009-03-27	 Avalanche	 	 • Ruslan Salei	 knee injury (DTD)
+9	2009-10-08	 Avalanche	 	 • Ruslan Salei	 back injury (DTD)
+10	2010-03-07	 Avalanche	 	 • Ruslan Salei	 torso injury (DTD)
+11	2010-03-21	 Avalanche	 • Ruslan Salei	 	 returned to lineup

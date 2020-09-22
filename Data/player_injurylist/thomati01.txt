@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-06	 Bruins	 	 • Tim Thomas	 placed on IR with lower body injury
+1	2007-12-15	 Bruins	 • Tim Thomas	 	 activated from IR
+2	2013-10-09	 Panthers	 	 • Tim Thomas	 strained groin (DTD)
+3	2013-10-17	 Panthers	 • Tim Thomas	 	 returned to lineup
+4	2013-10-22	 Panthers	 	 • Tim Thomas	 placed on IR with lower body injury
+5	2013-11-09	 Panthers	 • Tim Thomas	 	 activated from IR
+6	2013-12-12	 Panthers	 	 • Tim Thomas	 lower body injury (DTD)
+7	2013-12-15	 Panthers	 	 • Tim Thomas	 placed on IR with lower body injury
+8	2013-12-24	 Panthers	 • Tim Thomas	 	 activated from IR
+9	2014-01-21	 Panthers	 	 • Tim Thomas	 illness (DTD)

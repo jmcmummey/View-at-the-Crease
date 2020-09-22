@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-21	 Red Wings	 	 • Brian Lashoff	 flu-like symptoms (left game)
+1	2018-10-01	 Red Wings	 	 • Brian Lashoff	 placed on IR with undisclosed injury
+2	2018-10-19	 Red Wings	 • Brian Lashoff	 	 activated from IR

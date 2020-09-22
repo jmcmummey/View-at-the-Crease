@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-01-08	 Hurricanes	 	 • Victor Rask	 upper body injury (DTD)
+1	2016-01-12	 Hurricanes	 • Victor Rask	 	 returned to lineup
+2	2018-03-21	 Hurricanes	 	 • Victor Rask	 shoulder injury (out for season)
+3	2018-09-12	 Hurricanes	 	 • Victor Rask	 laceration on right hand (DTD)
+4	2018-09-13	 Hurricanes	 	 • Victor Rask	 surgery on right hand to repair laceration (out indefinitely) (date approximate)
+5	2018-09-13	 Hurricanes	 	 • Victor Rask	 placed on IR recovering from surgery on right hand to repair laceration (out indefinitely) (date approximate)
+6	2018-11-21	 Hurricanes	 • Victor Rask	 	 activated from IR
+7	2019-02-14	 Wild	 	 • Victor Rask	 lower body injury (DTD)
+8	2019-02-19	 Wild	 	 • Victor Rask	 placed on IR with lower body injury
+9	2019-03-10	 Wild	 • Victor Rask	 	 activated from IR
+10	2019-10-17	 Wild	 	 • Victor Rask	 lower body injury (DTD)
+11	2019-10-24	 Wild	 • Victor Rask	 	 returned to lineup

@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-26	 Flyers	 	 • Nolan Patrick	 placed on IR with upper body injury
+1	2017-11-18	 Flyers	 • Nolan Patrick	 	 activated from IR
+2	2018-10-11	 Flyers	 	 • Nolan Patrick	 upper body injury (out indefinitely)
+3	2018-10-20	 Flyers	 • Nolan Patrick	 	 returned to lineup
+4	2018-12-28	 Flyers	 	 • Nolan Patrick	 upper body injury (DTD)
+5	2019-01-05	 Flyers	 • Nolan Patrick	 	 returned to lineup
+6	2019-03-06	 Flyers	 	 • Nolan Patrick	 upper body injury (DTD)
+7	2019-03-09	 Flyers	 • Nolan Patrick	 	 returned to lineup
+8	2019-04-04	 Flyers	 	 • Nolan Patrick	 upper body injury (out for season)
+9	2019-09-13	 Flyers	 	 • Nolan Patrick	 placed on IR with migraine headaches (out for season)

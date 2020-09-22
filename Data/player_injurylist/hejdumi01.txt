@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-09-16	 Avalanche	 	 • Milan Hejduk	 right knee injury (DTD)
+1	2005-09-20	 Avalanche	 	 • Milan Hejduk	 arthroscopic surgery on right knee (out 4-5 weeks)
+2	2005-10-21	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+3	2006-02-02	 Avalanche	 	 • Milan Hejduk	 neck injury (left game)
+4	2006-02-04	 Avalanche	 	 • Milan Hejduk	 neck injury (DTD)
+5	2006-02-07	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+6	2006-03-25	 Avalanche	 	 • Milan Hejduk	 flu (DTD)
+7	2006-03-26	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+8	2006-11-25	 Avalanche	 	 • Milan Hejduk	 flu (DTD)
+9	2006-11-28	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+10	2006-12-11	 Avalanche	 	 • Milan Hejduk	 nose injury (DTD)
+11	2006-12-13	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+12	2007-10-16	 Avalanche	 	 • Milan Hejduk	 sore back (DTD)
+13	2007-10-19	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+14	2007-10-21	 Avalanche	 	 • Milan Hejduk	 sore back (DTD)
+15	2007-11-01	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+16	2009-02-08	 Avalanche	 	 • Milan Hejduk	 jaw injury (DTD)
+17	2009-11-11	 Avalanche	 	 • Milan Hejduk	 back injury (DTD)
+18	2009-11-14	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+19	2009-11-28	 Avalanche	 	 • Milan Hejduk	 knee injury (DTD)
+20	2009-12-03	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+21	2009-12-13	 Avalanche	 	 • Milan Hejduk	 right knee injury (DTD)
+22	2009-12-19	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+23	2010-01-16	 Avalanche	 	 • Milan Hejduk	 knee injury (DTD)
+24	2010-03-06	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+25	2010-04-19	 Avalanche	 	 • Milan Hejduk	 head injury (out for season)
+26	2010-12-11	 Avalanche	 	 • Milan Hejduk	 groin injury (DTD)
+27	2010-12-27	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+28	2011-03-12	 Avalanche	 	 • Milan Hejduk	 shoulder injury (DTD)
+29	2011-03-22	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+30	2012-02-25	 Avalanche	 	 • Milan Hejduk	 groin injury (DTD)
+31	2012-02-27	 Avalanche	 • Milan Hejduk	 	 returned to lineup
+32	2013-02-21	 Avalanche	 	 • Milan Hejduk	 torso injury (DTD)
+33	2013-03-05	 Avalanche	 	 • Milan Hejduk	 torso injury (DTD)
+34	2013-03-10	 Avalanche	 	 • Milan Hejduk	 placed on IR with torso injury
+35	2013-03-14	 Avalanche	 • Milan Hejduk	 	 activated from IR
+36	2013-04-01	 Avalanche	 	 • Milan Hejduk	 placed on IR with shoulder injury
+37	2013-04-10	 Avalanche	 • Milan Hejduk	 	 activated from IR
+38	2013-04-11	 Avalanche	 	 • Milan Hejduk	 shoulder injury (DTD)

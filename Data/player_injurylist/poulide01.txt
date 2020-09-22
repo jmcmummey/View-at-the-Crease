@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-05-21	 Penguins	 	 • Derrick Pouliot	 surgery on shoulder to repair labrum (out indefinitely)
+1	2014-10-06	 Penguins	 	 • Derrick Pouliot	 placed on IR recovering from surgery on shoulder to repair labrum
+2	2014-10-21	 Penguins	 • Derrick Pouliot	 	 activated from IR
+3	2015-04-09	 Penguins	 	 • Derrick Pouliot	 upper body injury (DTD)
+4	2015-04-20	 Penguins	 	 • Derrick Pouliot	 placed on IR with upper body injury (out for season)
+5	2016-10-21	 Penguins	 	 • Derrick Pouliot	 placed on IR with undisclosed injury
+6	2016-12-07	 Penguins	 • Derrick Pouliot	 	 activated from IR

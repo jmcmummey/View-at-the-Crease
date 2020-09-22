@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-03-13	 Stars	 	 • Darryl Sydor	 placed on IR with sprained knee
+1	1999-03-18	 Stars	 • Darryl Sydor	 	 activated from IR
+2	1999-10-08	 Stars	 	 • Darryl Sydor	 placed on IR
+3	1999-10-12	 Stars	 • Darryl Sydor	 	 activated from IR
+4	1999-10-30	 Stars	 	 • Darryl Sydor	 placed on IR with strained groin
+5	1999-11-03	 Stars	 • Darryl Sydor	 	 activated from IR
+6	2001-12-21	 Stars	 • Darryl Sydor	 	 activated from IR
+7	2006-01-28	 Lightning	 	 • Darryl Sydor	 facial injury (left game)
+8	2006-01-30	 Lightning	 	 • Darryl Sydor	 facial injury (DTD)
+9	2006-02-04	 Lightning	 • Darryl Sydor	 	 returned to lineup
+10	2006-12-04	 Stars	 	 • Darryl Sydor	 arm injury (DTD)
+11	2006-12-06	 Stars	 • Darryl Sydor	 	 returned to lineup
+12	2007-01-11	 Stars	 	 • Darryl Sydor	 upper body injury (DTD)
+13	2007-01-15	 Stars	 • Darryl Sydor	 	 returned to lineup
+14	2007-03-27	 Stars	 	 • Darryl Sydor	 hand injury (out 1-2 weeks)
+15	2007-04-06	 Stars	 • Darryl Sydor	 	 returned to lineup
+16	2009-02-01	 Stars	 	 • Darryl Sydor	 lower body injury (DTD)

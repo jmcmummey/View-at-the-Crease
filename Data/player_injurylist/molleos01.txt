@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-08	 Kings	 	 • Oscar Moller	 fractured clavicle (out indefinitely)
+1	2009-01-14	 Kings	 	 • Oscar Moller	 placed on IR with fractured clavicle
+2	2009-02-11	 Kings	 • Oscar Moller	 	 activated from IR

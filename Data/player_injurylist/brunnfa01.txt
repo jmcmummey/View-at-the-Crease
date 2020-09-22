@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-29	 Stars	 	 • Fabian Brunnstrom	 foot injury (DTD)
+1	2008-12-30	 Stars	 	 • Fabian Brunnstrom	 placed on IR with foot injury
+2	2009-01-27	 Stars	 • Fabian Brunnstrom	 	 activated from IR
+3	2009-01-31	 Stars	 	 • Fabian Brunnstrom	 flu (DTD)
+4	2009-02-06	 Stars	 • Fabian Brunnstrom	 	 returned to lineup
+5	2009-03-10	 Stars	 	 • Fabian Brunnstrom	 shoulder injury (DTD)
+6	2009-03-18	 Stars	 • Fabian Brunnstrom	 	 returned to lineup
+7	2009-11-11	 Stars	 	 • Fabian Brunnstrom	 shoulder injury (DTD)
+8	2009-11-19	 Stars	 	 • Fabian Brunnstrom	 placed on IR

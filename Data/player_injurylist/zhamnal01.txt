@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-03-04	 Blackhawks	 • Alexei Zhamnov / Alex Zhamnov	 	 activated from IR
+1	2005-10-04	 Bruins	 	 • Alexei Zhamnov / Alex Zhamnov	 shoulder injury (out indefinitely)
+2	2005-11-10	 Bruins	 • Alexei Zhamnov / Alex Zhamnov	 	 returned to lineup
+3	2006-01-07	 Bruins	 	 • Alexei Zhamnov / Alex Zhamnov	 fractured ankle (left game)
+4	2006-01-09	 Bruins	 	 • Alexei Zhamnov / Alex Zhamnov	 fractured ankle (out for season)

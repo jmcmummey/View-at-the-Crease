@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-04	 Bruins	 	 • Tuukka Rask	 undisclosed injury (DTD)
+1	2010-03-09	 Bruins	 • Tuukka Rask	 	 returned to lineup
+2	2012-03-04	 Bruins	 	 • Tuukka Rask	 groin injury (out indefinitely)
+3	2012-04-22	 Bruins	 • Tuukka Rask	 	 returned to lineup
+4	2015-02-27	 Bruins	 	 • Tuukka Rask	 illness (DTD)
+5	2015-02-28	 Bruins	 • Tuukka Rask	 	 returned to lineup
+6	2015-03-17	 Bruins	 	 • Tuukka Rask	 illness (DTD)
+7	2015-03-19	 Bruins	 • Tuukka Rask	 	 returned to lineup
+8	2016-04-09	 Bruins	 	 • Tuukka Rask	 illness (out for season)
+9	2016-10-21	 Bruins	 	 • Tuukka Rask	 general soreness (DTD)
+10	2016-10-26	 Bruins	 	 • Tuukka Rask	 placed on IR with lower body injury
+11	2016-10-29	 Bruins	 • Tuukka Rask	 	 activated from IR
+12	2017-03-25	 Bruins	 	 • Tuukka Rask	 lower body injury (DTD)
+13	2017-03-28	 Bruins	 • Tuukka Rask	 	 returned to lineup
+14	2017-10-18	 Bruins	 	 • Tuukka Rask	 concussion (out indefinitely)
+15	2017-10-26	 Bruins	 • Tuukka Rask	 	 returned to lineup
+16	2019-01-21	 Bruins	 	 • Tuukka Rask	 concussion (DTD)
+17	2019-01-28	 Bruins	 	 • Tuukka Rask	 placed on IR with concussion
+18	2019-01-31	 Bruins	 • Tuukka Rask	 	 activated from IR
+19	2020-01-14	 Bruins	 	 • Tuukka Rask	 placed on IR with concussion
+20	2020-01-16	 Bruins	 	 • Tuukka Rask	 placed on IR with concussion
+21	2020-01-31	 Bruins	 • Tuukka Rask	 	 activated from IR
+22	2020-08-02	 Bruins	 	 • Tuukka Rask	 undisclosed (DTD)
+23	2020-08-04	 Bruins	 • Tuukka Rask	 	 returned to lineup

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-30	 Sharks	 	 • Niko Dimitrakos	 flu (DTD)
+1	2006-01-07	 Sharks	 • Niko Dimitrakos	 	 returned to lineup
+2	2007-10-03	 Senators	 	 • Niko Dimitrakos	 hip injury (out indefinitely)
+3	2007-10-05	 Senators	 • Niko Dimitrakos	 	 returned to lineup

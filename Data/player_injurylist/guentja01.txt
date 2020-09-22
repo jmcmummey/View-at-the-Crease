@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-03-23	 Penguins	 	 • Jake Guentzel	 concussion (DTD)
+1	2017-03-31	 Penguins	 • Jake Guentzel	 	 returned to lineup
+2	2019-12-31	 Penguins	 	 • Jake Guentzel	 surgery on shoulder (out for season)
+3	2020-01-03	 Penguins	 	 • Jake Guentzel	 placed on IR with surgery on shoulder

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-08	 Lightning	 	 • Evgeny Artyukhin	 undisclosed (DTD)
+1	2008-11-12	 Lightning	 • Evgeny Artyukhin	 	 returned to lineup
+2	2010-04-03	 Thrashers	 	 • Evgeny Artyukhin	 upper body injury (DTD)
+3	2010-04-06	 Thrashers	 • Evgeny Artyukhin	 	 returned to lineup

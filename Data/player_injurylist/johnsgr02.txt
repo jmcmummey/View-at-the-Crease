@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-10-21	 Predators	 	 • Greg Johnson	 placed on IR with head injury
+1	2005-10-26	 Predators	 	 • Greg Johnson	 foot injury (DTD)
+2	2005-10-29	 Predators	 • Greg Johnson	 	 returned to lineup
+3	2005-11-23	 Predators	 	 • Greg Johnson	 groin injury (DTD)
+4	2005-12-21	 Predators	 • Greg Johnson	 	 returned to lineup
+5	2006-10-05	 Red Wings	 	 • Greg Johnson	 heart abnormality (out indefinitely)

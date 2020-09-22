@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-03	 Predators	 	 • Kevin Klein	 shoulder injury (DTD)
+1	2007-10-20	 Predators	 • Kevin Klein	 	 returned to lineup
+2	2009-12-30	 Predators	 	 • Kevin Klein	 head injury (DTD)
+3	2010-01-02	 Predators	 • Kevin Klein	 	 returned to lineup
+4	2010-11-26	 Predators	 	 • Kevin Klein	 illness (DTD)
+5	2010-11-27	 Predators	 • Kevin Klein	 	 returned to lineup
+6	2011-11-04	 Predators	 	 • Kevin Klein	 ankle injury (DTD)
+7	2011-11-09	 Predators	 • Kevin Klein	 	 returned to lineup
+8	2011-12-20	 Predators	 	 • Kevin Klein	 flu (DTD)
+9	2011-12-28	 Predators	 	 • Kevin Klein	 placed on IR with illness
+10	2012-01-01	 Predators	 • Kevin Klein	 	 activated from IR
+11	2012-02-27	 Predators	 	 • Kevin Klein	 upper body injury (DTD)
+12	2012-03-17	 Predators	 • Kevin Klein	 	 returned to lineup
+13	2013-04-15	 Predators	 	 • Kevin Klein	 upper body injury (DTD)
+14	2013-04-19	 Predators	 • Kevin Klein	 	 returned to lineup
+15	2013-11-30	 Predators	 	 • Kevin Klein	 lower body injury (DTD)
+16	2013-12-05	 Predators	 • Kevin Klein	 	 returned to lineup
+17	2014-01-16	 Predators	 	 • Kevin Klein	 flu (DTD)
+18	2014-01-20	 Predators	 • Kevin Klein	 	 returned to lineup
+19	2014-11-03	 Rangers	 	 • Kevin Klein	 foot injury (DTD)
+20	2014-11-05	 Rangers	 • Kevin Klein	 	 returned to lineup
+21	2015-03-12	 Rangers	 	 • Kevin Klein	 arm injury (DTD)
+22	2015-03-29	 Rangers	 	 • Kevin Klein	 placed on IR with arm injury
+23	2015-04-30	 Rangers	 • Kevin Klein	 	 activated from IR
+24	2015-12-01	 Rangers	 	 • Kevin Klein	 strained oblique (DTD)
+25	2015-12-18	 Rangers	 	 • Kevin Klein	 placed on IR with oblique injury
+26	2015-12-28	 Rangers	 • Kevin Klein	 	 activated from IR
+27	2016-01-17	 Rangers	 	 • Kevin Klein	 thumb injury (DTD)
+28	2016-01-19	 Rangers	 • Kevin Klein	 	 returned to lineup
+29	2016-02-03	 Rangers	 	 • Kevin Klein	 fractured thumb (DTD)
+30	2016-02-06	 Rangers	 • Kevin Klein	 	 returned to lineup
+31	2016-10-10	 Rangers	 	 • Kevin Klein	 back spasms (DTD)
+32	2016-10-19	 Rangers	 • Kevin Klein	 	 returned to lineup
+33	2017-02-16	 Rangers	 	 • Kevin Klein	 illness (DTD)
+34	2017-02-19	 Rangers	 • Kevin Klein	 	 returned to lineup
+35	2017-02-23	 Rangers	 	 • Kevin Klein	 placed on IR with back spasms
+36	2017-03-26	 Rangers	 • Kevin Klein	 	 activated from IR
+37	2017-03-28	 Rangers	 	 • Kevin Klein	 back injury (DTD)
+38	2017-03-31	 Rangers	 • Kevin Klein	 	 returned to lineup

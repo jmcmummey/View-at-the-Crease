@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-01-16	 Stars	 	 • Brett Ritchie	 placed on IR with undisclosed injury
+1	2015-01-29	 Stars	 • Brett Ritchie	 	 activated from IR
+2	2015-10-05	 Stars	 	 • Brett Ritchie	 placed on IR with surgery on wrist
+3	2015-12-05	 Stars	 • Brett Ritchie	 	 activated from IR
+4	2016-03-28	 Stars	 	 • Brett Ritchie	 lower body injury (DTD)
+5	2016-03-29	 Stars	 	 • Brett Ritchie	 lower body injury (DTD)
+6	2016-04-17	 Stars	 • Brett Ritchie	 	 returned to lineup
+7	2017-04-06	 Stars	 	 • Brett Ritchie	 lower body injury (out for season)
+8	2017-11-02	 Stars	 	 • Brett Ritchie	 placed on IR with upper body injury
+9	2017-11-05	 Stars	 	 • Brett Ritchie	 placed on IR with upper body injury
+10	2017-11-10	 Stars	 • Brett Ritchie	 	 activated from IR
+11	2018-03-16	 Stars	 	 • Brett Ritchie	 lower body injury (DTD)
+12	2018-03-18	 Stars	 • Brett Ritchie	 	 returned to lineup
+13	2018-03-20	 Stars	 	 • Brett Ritchie	 lower body injury (DTD)
+14	2018-03-22	 Stars	 • Brett Ritchie	 	 returned to lineup
+15	2018-10-28	 Stars	 	 • Brett Ritchie	 upper body injury (DTD)
+16	2018-10-30	 Stars	 • Brett Ritchie	 	 returned to lineup
+17	2018-11-05	 Stars	 	 • Brett Ritchie	 illness / upper body injury (DTD)
+18	2018-11-12	 Stars	 • Brett Ritchie	 	 returned to lineup
+19	2019-03-27	 Stars	 	 • Brett Ritchie	 hand injury (DTD)
+20	2019-03-28	 Stars	 • Brett Ritchie	 	 returned to lineup
+21	2019-03-30	 Stars	 	 • Brett Ritchie	 hand injury (DTD)
+22	2019-04-05	 Stars	 • Brett Ritchie	 	 returned to lineup
+23	2019-11-02	 Bruins	 	 • Brett Ritchie	 infection (DTD)
+24	2019-11-04	 Bruins	 • Brett Ritchie	 	 returned to lineup
+25	2019-11-08	 Bruins	 	 • Brett Ritchie	 upper body injury (DTD)
+26	2019-11-19	 Bruins	 • Brett Ritchie	 	 returned to lineup
+27	2019-11-21	 Bruins	 	 • Brett Ritchie	 infected laceration (DTD)
+28	2019-11-23	 Bruins	 • Brett Ritchie	 	 returned to lineup
+29	2019-11-26	 Bruins	 	 • Brett Ritchie	 placed on IR with infected laceration
+30	2019-12-06	 Bruins	 	 • Brett Ritchie	 placed on IR with sprained MCL in left knee
+31	2019-12-07	 Bruins	 • Brett Ritchie	 	 activated from IR

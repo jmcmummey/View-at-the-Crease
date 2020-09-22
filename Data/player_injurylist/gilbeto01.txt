@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-23	 Oilers	 	 • Tom Gilbert	 head injury (DTD)
+1	2007-03-23	 Oilers	 • Tom Gilbert	 	 returned to lineup
+2	2011-04-05	 Oilers	 	 • Tom Gilbert	 back injury (DTD)
+3	2011-04-10	 Oilers	 • Tom Gilbert	 	 returned to lineup
+4	2012-01-03	 Oilers	 	 • Tom Gilbert	 lower body injury (DTD)
+5	2012-01-10	 Oilers	 	 • Tom Gilbert	 placed on IR with right knee injury
+6	2012-02-06	 Oilers	 • Tom Gilbert	 	 activated from IR
+7	2013-03-18	 Wild	 	 • Tom Gilbert	 undisclosed injury (DTD)
+8	2013-03-23	 Wild	 • Tom Gilbert	 	 returned to lineup
+9	2014-03-26	 Panthers	 	 • Tom Gilbert	 sports hernia (out for season)
+10	2015-03-24	 Canadiens	 	 • Tom Gilbert	 jaw injury (DTD)
+11	2015-04-01	 Canadiens	 • Tom Gilbert	 	 returned to lineup
+12	2015-04-09	 Canadiens	 	 • Tom Gilbert	 upper body injury (out for season)
+13	2015-12-22	 Canadiens	 	 • Tom Gilbert	 placed on IR with upper body injury / lower body injury (S Y)
+14	2015-12-26	 Canadiens	 	 • Tom Gilbert	 placed on IR with lower body injury (CBC)
+15	2016-02-02	 Canadiens	 • Tom Gilbert	 	 activated from IR
+16	2016-02-20	 Canadiens	 	 • Tom Gilbert	 placed on IR with surgery on left knee (CBS S Y) (out for season)
+17	2016-02-23	 Canadiens	 	 • Tom Gilbert	 placed on IR with surgery on left knee (CBC) (out for season)

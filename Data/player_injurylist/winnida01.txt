@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-18	 Coyotes	 	 • Daniel Winnik	 upper body injury (DTD)
+1	2008-11-21	 Coyotes	 	 • Daniel Winnik	 placed on IR with bruised midsection
+2	2008-11-27	 Coyotes	 • Daniel Winnik	 	 activated from IR
+3	2009-12-27	 Coyotes	 	 • Daniel Winnik	 placed on IR with arm injury
+4	2010-01-07	 Coyotes	 • Daniel Winnik	 	 activated from IR
+5	2010-01-18	 Coyotes	 	 • Daniel Winnik	 upper body injury (DTD)
+6	2010-01-26	 Coyotes	 • Daniel Winnik	 	 returned to lineup
+7	2010-12-19	 Avalanche	 	 • Daniel Winnik	 flu (DTD)
+8	2010-12-21	 Avalanche	 • Daniel Winnik	 	 returned to lineup
+9	2014-11-08	 Maple Leafs	 	 • Daniel Winnik	 head injury (DTD)
+10	2014-11-12	 Maple Leafs	 • Daniel Winnik	 	 returned to lineup
+11	2015-11-10	 Maple Leafs	 	 • Daniel Winnik	 lower body injury (DTD)
+12	2015-11-12	 Maple Leafs	 • Daniel Winnik	 	 returned to lineup
+13	2015-11-23	 Maple Leafs	 	 • Daniel Winnik	 undisclosed (DTD)
+14	2015-11-30	 Maple Leafs	 • Daniel Winnik	 	 returned to lineup
+15	2016-01-16	 Maple Leafs	 	 • Daniel Winnik	 undisclosed (DTD)
+16	2016-01-19	 Maple Leafs	 • Daniel Winnik	 	 returned to lineup

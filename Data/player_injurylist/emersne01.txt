@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-12-14	 Thrashers	 • Nelson Emerson	 	 activated from IR
+1	2001-10-02	 Kings	 	 • Nelson Emerson	 placed on IR
+2	2001-10-23	 Kings	 • Nelson Emerson	 	 activated from IR
+3	2001-10-31	 Kings	 	 • Nelson Emerson	 placed on IR with post-concussion syndrome
+4	2001-12-06	 Kings	 • Nelson Emerson	 	 activated from IR

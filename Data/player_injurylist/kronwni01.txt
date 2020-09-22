@@ -1,0 +1,50 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-01-22	 Red Wings	 	 • Niklas Kronwall	 broken leg (out for season)
+1	2005-09-27	 Red Wings	 	 • Niklas Kronwall	 left knee injury (out 6+ weeks)
+2	2005-09-30	 Red Wings	 	 • Niklas Kronwall	 will have surgery on left knee (out 4-6 months)
+3	2006-02-01	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+4	2006-11-14	 Red Wings	 	 • Niklas Kronwall	 groin injury (DTD)
+5	2006-11-24	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+6	2006-12-02	 Red Wings	 	 • Niklas Kronwall	 groin injury (DTD)
+7	2006-12-16	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+8	2007-03-31	 Red Wings	 	 • Niklas Kronwall	 sacrum (out inderfinitely)
+9	2007-10-28	 Red Wings	 	 • Niklas Kronwall	 groin injury (DTD)
+10	2007-11-09	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+11	2008-01-31	 Red Wings	 	 • Niklas Kronwall	 sprained shoulder (DTD)
+12	2008-02-11	 Red Wings	 	 • Niklas Kronwall	 placed on IR with sprained shoulder
+13	2008-02-28	 Red Wings	 • Niklas Kronwall	 	 activated from IR
+14	2008-11-20	 Red Wings	 	 • Niklas Kronwall	 ankle injury (DTD)
+15	2008-11-22	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+16	2009-01-10	 Red Wings	 	 • Niklas Kronwall	 flu (DTD)
+17	2009-01-12	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+18	2009-11-22	 Red Wings	 	 • Niklas Kronwall	 sprained MCL in left knee (DTD)
+19	2009-11-24	 Red Wings	 	 • Niklas Kronwall	 placed on IR with sprained MCL in left knee
+20	2010-01-26	 Red Wings	 • Niklas Kronwall	 	 activated from IR
+21	2010-02-03	 Red Wings	 	 • Niklas Kronwall	 left knee injury (DTD)
+22	2010-02-13	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+23	2011-04-03	 Red Wings	 	 • Niklas Kronwall	 shoulder injury (out for season)
+24	2013-10-18	 Red Wings	 	 • Niklas Kronwall	 concussion (DTD)
+25	2013-10-23	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+26	2015-03-24	 Red Wings	 	 • Niklas Kronwall	 lower body injury (DTD)
+27	2015-03-26	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+28	2016-01-19	 Red Wings	 	 • Niklas Kronwall	 knee injury (out indefinitely)
+29	2016-02-01	 Red Wings	 	 • Niklas Kronwall	 placed on IR with knee injury
+30	2016-02-23	 Red Wings	 • Niklas Kronwall	 	 activated from IR
+31	2016-03-13	 Red Wings	 	 • Niklas Kronwall	 sprained knee (DTD)
+32	2016-03-19	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+33	2016-10-11	 Red Wings	 	 • Niklas Kronwall	 placed on IR with knee injury
+34	2016-11-04	 Red Wings	 • Niklas Kronwall	 	 activated from IR
+35	2016-11-14	 Red Wings	 	 • Niklas Kronwall	 knee injury (DTD)
+36	2016-11-18	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+37	2016-11-26	 Red Wings	 	 • Niklas Kronwall	 undisclosed injury (DTD)
+38	2016-11-29	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+39	2017-01-05	 Red Wings	 	 • Niklas Kronwall	 placed on IR with lower body injury
+40	2017-01-22	 Red Wings	 • Niklas Kronwall	 	 activated from IR
+41	2017-02-04	 Red Wings	 	 • Niklas Kronwall	 lower body injury (DTD)
+42	2017-02-10	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+43	2017-03-27	 Red Wings	 	 • Niklas Kronwall	 knee injury (DTD)
+44	2017-03-28	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+45	2017-10-05	 Red Wings	 	 • Niklas Kronwall	 groin injury (DTD)
+46	2017-10-12	 Red Wings	 • Niklas Kronwall	 	 returned to lineup
+47	2018-09-28	 Red Wings	 	 • Niklas Kronwall	 placed on IR with undisclosed injury
+48	2018-10-10	 Red Wings	 • Niklas Kronwall	 	 activated from IR

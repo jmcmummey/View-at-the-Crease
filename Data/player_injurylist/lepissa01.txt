@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-07	 Blackhawks	 	 • Sami Lepisto	 left leg injury (out indefinitely)
+1	2012-04-07	 Blackhawks	 • Sami Lepisto	 	 returned to lineup

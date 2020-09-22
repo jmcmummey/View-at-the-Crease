@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-01-11	 Islanders	 	 • Miroslav Satan	 knee injury (DTD)
+1	2008-01-13	 Islanders	 • Miroslav Satan	 	 returned to lineup
+2	2008-02-07	 Islanders	 	 • Miroslav Satan	 knee injury (DTD)
+3	2008-02-09	 Islanders	 • Miroslav Satan	 	 returned to lineup
+4	2010-02-12	 Bruins	 	 • Miroslav Satan	 right hand injury (DTD)
+5	2010-03-02	 Bruins	 • Miroslav Satan	 	 returned to lineup
+6	2010-03-11	 Bruins	 	 • Miroslav Satan	 groin injury (DTD)
+7	2010-03-15	 Bruins	 • Miroslav Satan	 	 returned to lineup

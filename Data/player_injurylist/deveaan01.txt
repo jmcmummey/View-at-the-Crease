@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-01	 Maple Leafs	 	 • Andre Deveaux	 foot injury (DTD)
+1	2009-01-06	 Maple Leafs	 • Andre Deveaux	 	 returned to lineup

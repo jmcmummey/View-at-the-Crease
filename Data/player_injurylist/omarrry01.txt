@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-09-16	 Islanders	 	 • Ryan O'Marra	 broken ankle (out indefinitely)
+1	2012-01-11	 Oilers	 	 • Ryan O'Marra	 flu (DTD)
+2	2012-01-13	 Oilers	 • Ryan O'Marra	 	 returned to lineup

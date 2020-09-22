@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-25	 Capitals	 	 • Alex Henry	 placed on IR with flu
+1	2005-10-16	 Wild	 	 • Alex Henry	 groin injury (DTD)
+2	2005-10-22	 Wild	 • Alex Henry	 	 returned to lineup
+3	2005-10-25	 Wild	 	 • Alex Henry	 leg injury (DTD)
+4	2005-11-05	 Wild	 • Alex Henry	 	 returned to lineup
+5	2006-01-24	 Wild	 	 • Alex Henry	 chest injury (out indefinitely)
+6	2006-01-26	 Wild	 • Alex Henry	 	 returned to lineup
+7	2006-09-28	 Predators	 	 • Alex Henry	 foot injury (DTD)
+8	2006-10-12	 Predators	 • Alex Henry	 	 returned to lineup
+9	2009-09-21	 Canadiens	 	 • Alex Henry	 fractured hand (out indefinitely)
+10	2009-09-30	 Canadiens	 	 • Alex Henry	 placed on IR

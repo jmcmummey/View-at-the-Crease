@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-15	 Canadiens	 	 • Mathieu Dandenault	 thigh injury (DTD)
+1	2006-11-15	 Canadiens	 • Mathieu Dandenault	 	 returned to lineup
+2	2006-12-19	 Canadiens	 	 • Mathieu Dandenault	 hand injury (DTD)
+3	2006-12-23	 Canadiens	 • Mathieu Dandenault	 	 returned to lineup
+4	2008-12-09	 Canadiens	 	 • Mathieu Dandenault	 broken arm (out indefinitely)
+5	2009-02-12	 Canadiens	 • Mathieu Dandenault	 	 returned to lineup

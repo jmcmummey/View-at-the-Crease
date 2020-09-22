@@ -1,0 +1,37 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-10	 Blues	 	 • Erik Johnson (Robert)	 fractured foot (DTD)
+1	2007-11-04	 Blues	 • Erik Johnson (Robert)	 	 returned to lineup
+2	2008-09-23	 Blues	 	 • Erik Johnson (Robert)	 placed on IR with torn ACL and MCL in knee (out for season)
+3	2010-01-28	 Blues	 	 • Erik Johnson (Robert)	 undisclosed (DTD)
+4	2010-01-30	 Blues	 • Erik Johnson (Robert)	 	 returned to lineup
+5	2010-12-16	 Blues	 	 • Erik Johnson (Robert)	 knee injury (DTD)
+6	2010-12-18	 Blues	 • Erik Johnson (Robert)	 	 returned to lineup
+7	2011-11-23	 Avalanche	 	 • Erik Johnson (Robert)	 placed on IR with groin injury
+8	2011-12-04	 Avalanche	 • Erik Johnson (Robert)	 	 activated from IR
+9	2012-01-07	 Avalanche	 	 • Erik Johnson (Robert)	 hand injury (DTD)
+10	2012-01-12	 Avalanche	 • Erik Johnson (Robert)	 	 returned to lineup
+11	2012-03-20	 Avalanche	 	 • Erik Johnson (Robert)	 back spasms (DTD)
+12	2012-03-26	 Avalanche	 • Erik Johnson (Robert)	 	 returned to lineup
+13	2013-02-13	 Avalanche	 	 • Erik Johnson (Robert)	 head injury (DTD)
+14	2013-02-23	 Avalanche	 	 • Erik Johnson (Robert)	 placed on IR with head injury
+15	2013-03-08	 Avalanche	 • Erik Johnson (Robert)	 	 activated from IR
+16	2013-04-12	 Avalanche	 	 • Erik Johnson (Robert)	 bruised left hand (DTD)
+17	2013-04-27	 Avalanche	 • Erik Johnson (Robert)	 	 returned to lineup
+18	2014-11-26	 Avalanche	 	 • Erik Johnson (Robert)	 upper body injury (DTD)
+19	2014-11-29	 Avalanche	 • Erik Johnson (Robert)	 	 returned to lineup
+20	2015-01-22	 Avalanche	 	 • Erik Johnson (Robert)	 lower body injury (DTD)
+21	2015-01-26	 Avalanche	 	 • Erik Johnson (Robert)	 placed on IR with knee injury (out for season)
+22	2016-01-05	 Avalanche	 	 • Erik Johnson (Robert)	 lower body injury (DTD)
+23	2016-01-13	 Avalanche	 	 • Erik Johnson (Robert)	 placed on IR with lower body injury
+24	2016-01-23	 Avalanche	 • Erik Johnson (Robert)	 	 activated from IR
+25	2016-12-04	 Avalanche	 	 • Erik Johnson (Robert)	 placed on IR with fractured fibula in leg
+26	2016-12-06	 Avalanche	 	 • Erik Johnson (Robert)	 placed on IR with fractured fibula in leg
+27	2017-02-24	 Avalanche	 • Erik Johnson (Robert)	 	 activated from IR
+28	2018-02-19	 Avalanche	 	 • Erik Johnson (Robert)	 placed on IR with upper body injury
+29	2018-03-18	 Avalanche	 • Erik Johnson (Robert)	 	 activated from IR
+30	2018-03-30	 Avalanche	 	 • Erik Johnson (Robert)	 knee injury (out for season)
+31	2019-01-20	 Avalanche	 	 • Erik Johnson (Robert)	 concussion (DTD)
+32	2019-02-02	 Avalanche	 • Erik Johnson (Robert)	 	 returned to lineup
+33	2019-11-27	 Avalanche	 	 • Erik Johnson (Robert)	 placed on IR with lower body injury
+34	2019-12-19	 Avalanche	 • Erik Johnson (Robert)	 	 activated from IR
+35	2020-08-24	 Avalanche	 	 • Erik Johnson (Robert)	 undisclosed (out for season)

@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-11-25	 Oilers	 	 • Ethan Moreau	 placed on IR with torn rib cartilage
+1	2000-05-24	 Oilers	 	 • Ethan Moreau	 surgery on shoulder to repair chronic dislocations
+2	2006-01-31	 Oilers	 	 • Ethan Moreau	 placed on IR with sprained ankle
+3	2006-03-03	 Oilers	 • Ethan Moreau	 	 activated from IR
+4	2006-04-17	 Oilers	 	 • Ethan Moreau	 groin injury (DTD)
+5	2006-04-27	 Oilers	 • Ethan Moreau	 	 returned to lineup
+6	2006-10-21	 Oilers	 	 • Ethan Moreau	 sprained shoulder (out indefinitely)
+7	2006-10-24	 Oilers	 	 • Ethan Moreau	 placed on IR with sprained shoulder (out indefinitely)
+8	2006-11-06	 Oilers	 	 • Ethan Moreau	 surgery on right shoulder (out indefinitely)
+9	2007-10-03	 Oilers	 	 • Ethan Moreau	 fractured tibia (DTD)
+10	2007-10-03	 Oilers	 	 • Ethan Moreau	 placed on IR with fractured tibia
+11	2007-12-28	 Oilers	 • Ethan Moreau	 	 activated from IR
+12	2008-02-25	 Oilers	 	 • Ethan Moreau	 broken left leg (out for season)
+13	2008-02-27	 Oilers	 	 • Ethan Moreau	 placed on IR with broken left leg
+14	2009-03-02	 Oilers	 	 • Ethan Moreau	 eye injury (out indefinitely)
+15	2009-03-05	 Oilers	 	 • Ethan Moreau	 placed on IR with eye injury
+16	2009-03-12	 Oilers	 • Ethan Moreau	 	 activated from IR
+17	2009-10-02	 Oilers	 	 • Ethan Moreau	 left ankle injury (DTD)
+18	2009-10-08	 Oilers	 • Ethan Moreau	 	 returned to lineup
+19	2010-03-05	 Oilers	 	 • Ethan Moreau	 neck injury (DTD)
+20	2010-03-13	 Oilers	 • Ethan Moreau	 	 returned to lineup
+21	2010-10-21	 Blue Jackets	 	 • Ethan Moreau	 placed on IR with broken hand
+22	2010-12-01	 Blue Jackets	 • Ethan Moreau	 	 activated from IR
+23	2011-01-05	 Blue Jackets	 	 • Ethan Moreau	 placed on IR with ribs injury
+24	2011-02-16	 Blue Jackets	 • Ethan Moreau	 	 activated from IR
+25	2011-02-16	 Blue Jackets	 	 • Ethan Moreau	 rib injury (DTD)
+26	2011-02-18	 Blue Jackets	 • Ethan Moreau	 	 returned to lineup
+27	2011-03-24	 Blue Jackets	 	 • Ethan Moreau	 bruised foot (out for season)

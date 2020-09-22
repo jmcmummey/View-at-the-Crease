@@ -1,0 +1,47 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-03	 Red Wings	 	 • Darren Helm	 undisclosed injury (out indefinitely)
+1	2009-09-15	 Red Wings	 	 • Darren Helm	 right arm injury (out indefinitely)
+2	2009-09-30	 Red Wings	 	 • Darren Helm	 placed on IR with right arm injury
+3	2009-10-13	 Red Wings	 • Darren Helm	 	 activated from IR
+4	2009-12-14	 Red Wings	 	 • Darren Helm	 left wrist injury (DTD)
+5	2009-12-19	 Red Wings	 • Darren Helm	 	 returned to lineup
+6	2011-12-29	 Red Wings	 	 • Darren Helm	 groin injury (DTD)
+7	2012-01-08	 Red Wings	 • Darren Helm	 	 returned to lineup
+8	2012-03-18	 Red Wings	 	 • Darren Helm	 sprained MCL in left knee (out for season)
+9	2012-04-12	 Red Wings	 	 • Darren Helm	 lacerated right forearm (out for season)
+10	2013-01-18	 Red Wings	 	 • Darren Helm	 placed on IR with strained back
+11	2013-01-25	 Red Wings	 • Darren Helm	 	 activated from IR
+12	2013-01-27	 Red Wings	 	 • Darren Helm	 back injury (out for season)
+13	2013-02-05	 Red Wings	 	 • Darren Helm	 placed on IR with back injury (out for season)
+14	2013-09-30	 Red Wings	 	 • Darren Helm	 placed on IR with back/groin injury
+15	2013-11-02	 Red Wings	 • Darren Helm	 	 activated from IR
+16	2013-12-05	 Red Wings	 	 • Darren Helm	 shoulder injury (DTD)
+17	2013-12-15	 Red Wings	 	 • Darren Helm	 placed on IR with shoulder injury
+18	2013-12-30	 Red Wings	 • Darren Helm	 	 activated from IR
+19	2014-01-01	 Red Wings	 	 • Darren Helm	 sore groin (Y) / shoulder injury (CBC) (DTD)
+20	2014-01-11	 Red Wings	 	 • Darren Helm	 placed on IR with groin injury
+21	2014-01-20	 Red Wings	 • Darren Helm	 	 activated from IR
+22	2014-03-05	 Red Wings	 	 • Darren Helm	 head injury (DTD)
+23	2014-03-21	 Red Wings	 • Darren Helm	 	 returned to lineup
+24	2015-03-01	 Red Wings	 	 • Darren Helm	 upper body injury (DTD)
+25	2015-03-19	 Red Wings	 • Darren Helm	 	 returned to lineup
+26	2015-10-04	 Red Wings	 	 • Darren Helm	 placed on IR with shoulder injury (CBC) / concussion (CBS S T)
+27	2015-10-17	 Red Wings	 • Darren Helm	 	 activated from IR
+28	2016-03-13	 Red Wings	 	 • Darren Helm	 flu (DTD)
+29	2016-03-15	 Red Wings	 • Darren Helm	 	 returned to lineup
+30	2016-11-16	 Red Wings	 	 • Darren Helm	 placed on IR with dislocated shoulder
+31	2017-01-20	 Red Wings	 • Darren Helm	 	 activated from IR
+32	2017-03-19	 Red Wings	 	 • Darren Helm	 left knee injury (DTD)
+33	2017-03-27	 Red Wings	 • Darren Helm	 	 returned to lineup
+34	2017-11-15	 Red Wings	 	 • Darren Helm	 undisclosed (DTD)
+35	2017-11-17	 Red Wings	 • Darren Helm	 	 returned to lineup
+36	2018-01-13	 Red Wings	 	 • Darren Helm	 lower body injury (DTD)
+37	2018-01-21	 Red Wings	 	 • Darren Helm	 placed on IR with lower body injury
+38	2018-01-30	 Red Wings	 • Darren Helm	 	 activated from IR
+39	2018-11-17	 Red Wings	 	 • Darren Helm	 placed on IR with upper body injury
+40	2018-11-18	 Red Wings	 	 • Darren Helm	 upper body injury (DTD)
+41	2019-01-02	 Red Wings	 • Darren Helm	 	 returned to lineup
+42	2019-11-20	 Red Wings	 	 • Darren Helm	 lower body injury (DTD)
+43	2019-11-23	 Red Wings	 • Darren Helm	 	 returned to lineup
+44	2020-02-07	 Red Wings	 	 • Darren Helm	 undisclosed (DTD)
+45	2020-02-11	 Red Wings	 • Darren Helm	 	 returned to lineup

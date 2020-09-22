@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-03-31	 Blackhawks	 	 • Troy Brouwer	 knee injury (DTD)
+1	2009-04-07	 Blackhawks	 • Troy Brouwer	 	 returned to lineup
+2	2011-04-06	 Blackhawks	 	 • Troy Brouwer	 right shoulder injury (DTD)
+3	2011-04-13	 Blackhawks	 • Troy Brouwer	 	 returned to lineup
+4	2011-11-02	 Capitals	 	 • Troy Brouwer	 right shoulder injury (DTD)
+5	2013-03-05	 Capitals	 	 • Troy Brouwer	 illness (DTD)
+6	2013-03-07	 Capitals	 • Troy Brouwer	 	 returned to lineup
+7	2016-12-27	 Flames	 	 • Troy Brouwer	 finger injury (DTD)
+8	2017-01-12	 Flames	 • Troy Brouwer	 	 returned to lineup
+9	2018-02-09	 Flames	 	 • Troy Brouwer	 facial fracture (out indefinitely)
+10	2018-02-09	 Flames	 	 • Troy Brouwer	 placed on IR with facial fracture
+11	2018-02-21	 Flames	 • Troy Brouwer	 	 activated from IR
+12	2020-02-13	 Blues	 	 • Troy Brouwer	 illness (DTD)
+13	2020-02-16	 Blues	 • Troy Brouwer	 	 returned to lineup

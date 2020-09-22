@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-01	 Wild	 	 • Niklas Backstrom	 lower body injury (DTD)
+1	2007-03-04	 Wild	 • Niklas Backstrom	 	 returned to lineup
+2	2007-10-27	 Wild	 	 • Niklas Backstrom	 groin injury (DTD)
+3	2007-11-01	 Wild	 • Niklas Backstrom	 	 returned to lineup
+4	2009-04-21	 Wild	 	 • Niklas Backstrom	 surgery on left hip (out for season)
+5	2010-01-28	 Wild	 	 • Niklas Backstrom	 sore back (DTD)
+6	2010-02-04	 Wild	 	 • Niklas Backstrom	 placed on IR with sore back
+7	2010-02-10	 Wild	 • Niklas Backstrom	 	 activated from IR
+8	2010-03-11	 Wild	 	 • Niklas Backstrom	 groin injury (DTD)
+9	2010-03-21	 Wild	 • Niklas Backstrom	 	 returned to lineup
+10	2011-01-08	 Wild	 	 • Niklas Backstrom	 hip injury (DTD)
+11	2011-01-16	 Wild	 • Niklas Backstrom	 	 returned to lineup
+12	2011-01-18	 Wild	 • Niklas Backstrom	 	 activated from IR
+13	2011-12-03	 Wild	 	 • Niklas Backstrom	 groin injury (DTD)
+14	2011-12-08	 Wild	 • Niklas Backstrom	 	 returned to lineup
+15	2012-01-12	 Wild	 	 • Niklas Backstrom	 flu (DTD)
+16	2012-01-17	 Wild	 • Niklas Backstrom	 	 returned to lineup
+17	2012-03-01	 Wild	 	 • Niklas Backstrom	 right leg injury (out indefinitely)
+18	2012-03-19	 Wild	 • Niklas Backstrom	 	 returned to lineup
+19	2012-03-24	 Wild	 	 • Niklas Backstrom	 lower body injury (DTD)
+20	2012-03-27	 Wild	 • Niklas Backstrom	 	 returned to lineup
+21	2013-04-30	 Wild	 	 • Niklas Backstrom	 left leg injury (out for season)
+22	2013-10-09	 Wild	 	 • Niklas Backstrom	 strained knee (DTD)
+23	2013-10-17	 Wild	 • Niklas Backstrom	 	 returned to lineup
+24	2013-11-14	 Wild	 	 • Niklas Backstrom	 concussion (out indefinitely)
+25	2013-11-18	 Wild	 	 • Niklas Backstrom	 placed on IR with concussion
+26	2013-11-23	 Wild	 • Niklas Backstrom	 	 activated from IR
+27	2014-01-21	 Wild	 	 • Niklas Backstrom	 lower body injury (DTD)
+28	2014-01-23	 Wild	 • Niklas Backstrom	 	 returned to lineup
+29	2014-02-06	 Wild	 	 • Niklas Backstrom	 strained abdominal muscle (DTD)
+30	2014-02-27	 Wild	 • Niklas Backstrom	 	 returned to lineup
+31	2014-03-05	 Wild	 	 • Niklas Backstrom	 strained abdominal muscle (out for season)
+32	2014-12-23	 Wild	 	 • Niklas Backstrom	 placed on IR with illness
+33	2014-12-27	 Wild	 	 • Niklas Backstrom	 placed on IR with illness (CBC)
+34	2014-12-31	 Wild	 • Niklas Backstrom	 	 activated from IR

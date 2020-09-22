@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-10-16	 Kings	 	 • Andreas Lilja	 placed on IR
+1	2001-12-01	 Kings	 • Andreas Lilja	 	 activated from IR
+2	2006-11-01	 Red Wings	 	 • Andreas Lilja	 back injury (DTD)
+3	2006-11-04	 Red Wings	 • Andreas Lilja	 	 returned to lineup
+4	2008-03-12	 Red Wings	 	 • Andreas Lilja	 flu (DTD)
+5	2008-03-15	 Red Wings	 • Andreas Lilja	 	 returned to lineup
+6	2008-10-21	 Red Wings	 	 • Andreas Lilja	 appendectomy (DTD)
+7	2008-10-25	 Red Wings	 • Andreas Lilja	 	 returned to lineup
+8	2009-03-02	 Red Wings	 	 • Andreas Lilja	 concussion (out for season)
+9	2009-09-27	 Red Wings	 	 • Andreas Lilja	 concussion (out indefinitely)
+10	2009-09-30	 Red Wings	 	 • Andreas Lilja	 placed on IR
+11	2010-02-01	 Red Wings	 • Andreas Lilja	 	 activated from IR
+12	2010-02-26	 Red Wings	 • Andreas Lilja	 	 activated from IR
+13	2011-11-26	 Flyers	 	 • Andreas Lilja	 placed on IR with high left ankle sprain
+14	2011-12-19	 Flyers	 • Andreas Lilja	 	 activated from IR
+15	2012-03-17	 Flyers	 	 • Andreas Lilja	 throat injury (DTD)
+16	2012-03-20	 Flyers	 • Andreas Lilja	 	 returned to lineup
+17	2012-03-24	 Flyers	 	 • Andreas Lilja	 upper body injury (DTD)
+18	2012-04-03	 Flyers	 • Andreas Lilja	 	 returned to lineup

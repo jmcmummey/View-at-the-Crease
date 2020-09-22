@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-12	 Ducks	 	 • Viktor Fasth	 upper body injury (DTD)
+1	2013-03-16	 Ducks	 • Viktor Fasth	 	 returned to lineup
+2	2013-04-19	 Ducks	 	 • Viktor Fasth	 lower body injury (DTD)
+3	2013-04-21	 Ducks	 • Viktor Fasth	 	 returned to lineup
+4	2013-10-18	 Ducks	 	 • Viktor Fasth	 lower body injury (DTD)
+5	2013-10-22	 Ducks	 	 • Viktor Fasth	 placed on IR with lower body injury
+6	2013-11-14	 Ducks	 • Viktor Fasth	 	 activated from IR
+7	2013-11-23	 Ducks	 	 • Viktor Fasth	 placed on IR with lower body muscle inflammation
+8	2014-03-04	 Oilers	 	 • Viktor Fasth	 lower body injury (DTD)
+9	2014-03-06	 Oilers	 • Viktor Fasth	 	 returned to lineup
+10	2014-03-25	 Oilers	 	 • Viktor Fasth	 neck injury (DTD)
+11	2014-03-30	 Oilers	 • Viktor Fasth	 	 returned to lineup
+12	2014-10-14	 Oilers	 	 • Viktor Fasth	 placed on IR with strained groin
+13	2014-11-01	 Oilers	 • Viktor Fasth	 	 activated from IR
+14	2015-02-17	 Oilers	 	 • Viktor Fasth	 placed on IR with knee injury
+15	2015-04-10	 Oilers	 • Viktor Fasth	 	 activated from IR

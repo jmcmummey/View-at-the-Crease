@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-27	 Penguins	 	 • Matt Murley	 left shoulder injury (out indefinitely)
+1	2006-01-02	 Penguins	 • Matt Murley	 	 returned to lineup
+2	2006-01-19	 Penguins	 	 • Matt Murley	 placed on IR with laboral tear in left shoulder

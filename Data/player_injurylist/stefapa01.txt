@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-03	 Thrashers	 	 • Patrik Stefan	 placed on IR
+1	2000-10-21	 Thrashers	 • Patrik Stefan	 	 activated from IR
+2	2001-10-10	 Thrashers	 	 • Patrik Stefan	 placed on IR
+3	2001-11-01	 Thrashers	 • Patrik Stefan	 	 activated from IR
+4	2001-11-09	 Thrashers	 	 • Patrik Stefan	 placed on IR
+5	2005-09-21	 Thrashers	 	 • Patrik Stefan	 head injury
+6	2005-09-22	 Thrashers	 	 • Patrik Stefan	 released from hospital
+7	2005-10-29	 Thrashers	 	 • Patrik Stefan	 strained oblique muscle (left game)
+8	2005-11-04	 Thrashers	 	 • Patrik Stefan	 strained oblique muscle (DTD)
+9	2005-11-18	 Thrashers	 • Patrik Stefan	 	 returned to lineup
+10	2006-02-12	 Thrashers	 	 • Patrik Stefan	 sports hernia (out until late Mar)
+11	2006-02-28	 Thrashers	 	 • Patrik Stefan	 placed on IR with sports hernia
+12	2006-03-23	 Thrashers	 • Patrik Stefan	 	 activated from IR
+13	2006-10-01	 Stars	 	 • Patrik Stefan	 hip injury (DTD)
+14	2006-10-03	 Stars	 	 • Patrik Stefan	 placed on IR with hip injury
+15	2006-10-11	 Stars	 • Patrik Stefan	 	 activated from IR
+16	2006-10-21	 Stars	 	 • Patrik Stefan	 hand infection (DTD)
+17	2006-11-01	 Stars	 • Patrik Stefan	 	 returned to lineup
+18	2007-02-23	 Stars	 	 • Patrik Stefan	 sore hip flexor (out indefinitely)

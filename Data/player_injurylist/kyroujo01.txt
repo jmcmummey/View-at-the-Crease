@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-09-29	 Blues	 	 • Jordan Kyrou	 placed on injured/non-roster list with knee injury
+1	2019-10-24	 Blues	 • Jordan Kyrou	 	 activated from injured/non-roster list
+2	2020-02-29	 Blues	 	 • Jordan Kyrou	 illness (DTD)
+3	2020-03-06	 Blues	 • Jordan Kyrou	 	 returned to lineup

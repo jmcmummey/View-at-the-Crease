@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-10-21	 Bruins	 	 • Richard Jackman / Ric Jackman	 shoulder injury (out indefinitely)
+1	2007-03-23	 Ducks	 	 • Richard Jackman / Ric Jackman	 back spasms (out indefinitely)

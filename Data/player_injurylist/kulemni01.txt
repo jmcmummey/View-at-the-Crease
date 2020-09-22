@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-13	 Maple Leafs	 	 • Nikolai Kulemin / Nikolay Kulemin	 placed on IR with ankle injury
+1	2009-01-21	 Maple Leafs	 • Nikolai Kulemin / Nikolay Kulemin	 	 activated from IR
+2	2012-03-15	 Maple Leafs	 	 • Nikolai Kulemin / Nikolay Kulemin	 fractured finger (out for season)
+3	2013-10-03	 Maple Leafs	 	 • Nikolai Kulemin / Nikolay Kulemin	 placed on IR with chipped bone in ankle
+4	2013-11-02	 Maple Leafs	 • Nikolai Kulemin / Nikolay Kulemin	 	 activated from IR
+5	2016-10-25	 Islanders	 	 • Nikolai Kulemin / Nikolay Kulemin	 undisclosed injury (DTD)
+6	2016-10-30	 Islanders	 • Nikolai Kulemin / Nikolay Kulemin	 	 returned to lineup
+7	2017-03-25	 Islanders	 	 • Nikolai Kulemin / Nikolay Kulemin	 upper body injury (DTD)
+8	2017-04-08	 Islanders	 • Nikolai Kulemin / Nikolay Kulemin	 	 returned to lineup
+9	2017-11-07	 Islanders	 	 • Nikolai Kulemin / Nikolay Kulemin	 placed on IR with upper body injury (out for season)

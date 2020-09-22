@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-17	 Predators	 	 • Mikko Lehtonen (b. 1978-06-12)	 head injury (DTD)
+1	2006-11-21	 Predators	 	 • Mikko Lehtonen (b. 1978-06-12)	 placed on IR with head injury
+2	2006-11-27	 Predators	 • Mikko Lehtonen (b. 1978-06-12)	 	 activated from IR

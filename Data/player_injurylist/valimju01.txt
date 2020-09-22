@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-11-25	 Flames	 	 • Juuso Valimaki	 lower body injury (DTD)
+1	2018-12-08	 Flames	 	 • Juuso Valimaki	 placed on IR with lower body injury
+2	2019-01-23	 Flames	 • Juuso Valimaki	 	 activated from IR
+3	2019-09-13	 Flames	 	 • Juuso Valimaki	 ACL injury in knee (out for season)
+4	2019-10-03	 Flames	 	 • Juuso Valimaki	 placed on IR with ACL injury in knee (out for season)

@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-10-23	 Thrashers	 	 • Steve Staios	 knee injury (out indefinitely)
+1	2000-01-01	 Thrashers	 	 • Steve Staios	 placed on IR
+2	2000-01-08	 Thrashers	 	 • Steve Staios	 placed on IR
+3	2001-02-09	 Thrashers	 	 • Steve Staios	 placed on IR with groin injury
+4	2001-02-13	 Thrashers	 • Steve Staios	 	 activated from IR
+5	2006-11-24	 Oilers	 	 • Steve Staios	 knee injury (DTD)
+6	2006-11-30	 Oilers	 • Steve Staios	 	 returned to lineup
+7	2007-01-10	 Oilers	 	 • Steve Staios	 flu (DTD)
+8	2007-01-14	 Oilers	 	 • Steve Staios	 knee injury (DTD)
+9	2007-01-27	 Oilers	 • Steve Staios	 	 returned to lineup
+10	2007-03-09	 Oilers	 	 • Steve Staios	 knee injury (DTD)
+11	2007-03-20	 Oilers	 • Steve Staios	 	 returned to lineup
+12	2009-10-08	 Oilers	 	 • Steve Staios	 head injury (DTD)
+13	2009-10-10	 Oilers	 • Steve Staios	 	 returned to lineup
+14	2009-10-12	 Oilers	 	 • Steve Staios	 concussion (DTD)
+15	2009-11-05	 Oilers	 • Steve Staios	 	 activated from IR
+16	2010-01-18	 Oilers	 	 • Steve Staios	 flu-like symptoms / head injury (CBC) (DTD)
+17	2010-02-08	 Oilers	 • Steve Staios	 	 activated from IR
+18	2010-12-06	 Flames	 	 • Steve Staios	 placed on IR with shoulder injury
+19	2011-02-01	 Flames	 	 • Steve Staios	 upper body injury (DTD)
+20	2011-02-03	 Flames	 • Steve Staios	 	 activated from IR
+21	2011-02-05	 Flames	 	 • Steve Staios	 upper body injury (DTD)
+22	2011-02-09	 Flames	 • Steve Staios	 	 returned to lineup
+23	2011-12-14	 Islanders	 	 • Steve Staios	 concussion-like symptoms (DTD)
+24	2011-12-31	 Islanders	 • Steve Staios	 	 returned to lineup
+25	2012-02-16	 Islanders	 	 • Steve Staios	 flu (DTD)
+26	2012-02-18	 Islanders	 • Steve Staios	 	 returned to lineup
+27	2012-02-26	 Islanders	 	 • Steve Staios	 lower body injury (DTD)
+28	2012-02-28	 Islanders	 • Steve Staios	 	 returned to lineup

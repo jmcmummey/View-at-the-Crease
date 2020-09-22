@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-11	 Penguins	 	 • Daniel Sprong	 placed on IR with surgery on shoulder
+1	2017-01-07	 Penguins	 • Daniel Sprong	 	 activated from IR

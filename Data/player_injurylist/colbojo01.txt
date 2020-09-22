@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-06	 Flames	 	 • Joe Colborne	 illness (DTD)
+1	2013-12-07	 Flames	 • Joe Colborne	 	 returned to lineup
+2	2014-10-28	 Flames	 	 • Joe Colborne	 placed on IR with upper body injury
+3	2014-12-11	 Flames	 • Joe Colborne	 	 activated from IR
+4	2015-10-06	 Flames	 	 • Joe Colborne	 placed on IR with thumb injury
+5	2015-10-20	 Flames	 • Joe Colborne	 	 activated from IR
+6	2016-01-27	 Flames	 	 • Joe Colborne	 undisclosed injury (DTD)
+7	2016-02-03	 Flames	 • Joe Colborne	 	 returned to lineup
+8	2016-12-13	 Avalanche	 	 • Joe Colborne	 lower body injury (DTD)
+9	2016-12-20	 Avalanche	 • Joe Colborne	 	 returned to lineup

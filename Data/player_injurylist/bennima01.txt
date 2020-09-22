@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-02-04	 Oilers	 	 • Matthew Benning / Matt Benning	 placed on IR with undisclosed injury
+1	2017-02-10	 Oilers	 • Matthew Benning / Matt Benning	 	 activated from IR
+2	2017-03-28	 Oilers	 	 • Matthew Benning / Matt Benning	 undisclosed injury (DTD)
+3	2017-03-30	 Oilers	 • Matthew Benning / Matt Benning	 	 returned to lineup
+4	2017-10-17	 Oilers	 	 • Matthew Benning / Matt Benning	 illness (DTD)
+5	2017-10-21	 Oilers	 • Matthew Benning / Matt Benning	 	 returned to lineup
+6	2018-03-14	 Oilers	 	 • Matthew Benning / Matt Benning	 illness (DTD)
+7	2018-03-17	 Oilers	 • Matthew Benning / Matt Benning	 	 returned to lineup
+8	2018-03-31	 Oilers	 	 • Matthew Benning / Matt Benning	 upper body injury (DTD)
+9	2018-04-05	 Oilers	 • Matthew Benning / Matt Benning	 	 returned to lineup
+10	2018-10-19	 Oilers	 	 • Matthew Benning / Matt Benning	 placed on IR with undisclosed injury
+11	2018-10-27	 Oilers	 • Matthew Benning / Matt Benning	 	 activated from IR
+12	2019-02-09	 Oilers	 	 • Matthew Benning / Matt Benning	 upper body injury (DTD)
+13	2019-02-16	 Oilers	 	 • Matthew Benning / Matt Benning	 placed on IR with upper body injury
+14	2019-02-19	 Oilers	 • Matthew Benning / Matt Benning	 	 activated from IR
+15	2019-11-21	 Oilers	 	 • Matthew Benning / Matt Benning	 placed on IR with concussion
+16	2019-11-30	 Oilers	 • Matthew Benning / Matt Benning	 	 activated from IR
+17	2019-12-03	 Oilers	 	 • Matthew Benning / Matt Benning	 placed on IR with head injury
+18	2020-01-29	 Oilers	 • Matthew Benning / Matt Benning	 	 activated from IR

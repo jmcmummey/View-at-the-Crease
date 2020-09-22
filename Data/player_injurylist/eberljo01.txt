@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-02	 Oilers	 	 • Jordan Eberle	 placed on IR with sprained left ankle
+1	2011-02-04	 Oilers	 • Jordan Eberle	 	 activated from IR
+2	2012-01-08	 Oilers	 	 • Jordan Eberle	 right knee injury (out indefinitely)
+3	2012-01-19	 Oilers	 • Jordan Eberle	 	 returned to lineup
+4	2014-01-03	 Oilers	 	 • Jordan Eberle	 knee injury (DTD)
+5	2014-01-05	 Oilers	 • Jordan Eberle	 	 returned to lineup
+6	2014-03-20	 Oilers	 	 • Jordan Eberle	 sprained knee (DTD)
+7	2014-03-22	 Oilers	 • Jordan Eberle	 	 returned to lineup
+8	2014-10-12	 Oilers	 	 • Jordan Eberle	 undisclosed injury (DTD)
+9	2014-10-15	 Oilers	 • Jordan Eberle	 	 returned to lineup
+10	2015-09-30	 Oilers	 	 • Jordan Eberle	 placed on IR with shoulder injury
+11	2015-11-06	 Oilers	 • Jordan Eberle	 	 activated from IR
+12	2018-03-02	 Islanders	 	 • Jordan Eberle	 undisclosed (DTD)
+13	2018-03-03	 Islanders	 • Jordan Eberle	 	 returned to lineup
+14	2018-12-28	 Islanders	 	 • Jordan Eberle	 undisclosed (DTD)
+15	2018-12-29	 Islanders	 	 • Jordan Eberle	 placed on IR with upper body injury
+16	2019-01-04	 Islanders	 • Jordan Eberle	 	 activated from IR
+17	2019-10-14	 Islanders	 	 • Jordan Eberle	 leg injury (DTD)
+18	2019-10-19	 Islanders	 	 • Jordan Eberle	 placed on IR with leg injury
+19	2019-11-09	 Islanders	 • Jordan Eberle	 	 activated from IR

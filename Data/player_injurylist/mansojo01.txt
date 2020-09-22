@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-23	 Ducks	 	 • Josh Manson	 placed on IR with upper body injury
+1	2015-11-04	 Ducks	 • Josh Manson	 	 activated from IR
+2	2015-11-16	 Ducks	 	 • Josh Manson	 flu (DTD)
+3	2015-11-19	 Ducks	 • Josh Manson	 	 returned to lineup
+4	2016-03-30	 Ducks	 	 • Josh Manson	 undisclosed injury (DTD)
+5	2016-04-01	 Ducks	 • Josh Manson	 	 returned to lineup
+6	2016-04-16	 Ducks	 	 • Josh Manson	 head injury (out for season)
+7	2018-03-20	 Ducks	 	 • Josh Manson	 upper body injury (DTD)
+8	2018-03-25	 Ducks	 • Josh Manson	 	 returned to lineup
+9	2018-10-30	 Ducks	 	 • Josh Manson	 upper body injury (DTD)
+10	2018-11-05	 Ducks	 	 • Josh Manson	 placed on IR with upper body injury
+11	2018-11-07	 Ducks	 • Josh Manson	 	 activated from IR
+12	2019-03-29	 Ducks	 	 • Josh Manson	 upper body injury (out for season)
+13	2019-10-24	 Ducks	 	 • Josh Manson	 placed on IR with lower body injury
+14	2019-12-10	 Ducks	 • Josh Manson	 	 activated from IR
+15	2020-03-04	 Ducks	 	 • Josh Manson	 upper body injury (DTD)
+16	2020-03-08	 Ducks	 • Josh Manson	 	 returned to lineup

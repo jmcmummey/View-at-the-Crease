@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-02-04	 Capitals	 	 • Ilya Samsonov	 head injury (DTD)
+1	2020-02-05	 Capitals	 • Ilya Samsonov	 	 returned to lineup
+2	2020-07-25	 Capitals	 	 • Ilya Samsonov	 undisclosed (out for season)
+3	2020-08-03	 Capitals	 	 • Ilya Samsonov	 placed on IR with undisclosed injury (out for season)

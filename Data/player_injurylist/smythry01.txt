@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-10	 Oilers	 	 • Ryan Smyth	 left knee injury (out indefinitely)
+1	2005-10-21	 Oilers	 • Ryan Smyth	 	 activated from IR
+2	2006-12-02	 Oilers	 	 • Ryan Smyth	 broken right thumb (left game)
+3	2006-12-02	 Oilers	 	 • Ryan Smyth	 placed on IR with broken right thumb
+4	2006-12-28	 Oilers	 • Ryan Smyth	 	 activated from IR
+5	2007-03-30	 Islanders	 	 • Ryan Smyth	 leg injury (DTD)
+6	2007-03-31	 Islanders	 • Ryan Smyth	 	 returned to lineup
+7	2007-12-19	 Avalanche	 	 • Ryan Smyth	 sore neck (DTD)
+8	2007-12-27	 Avalanche	 • Ryan Smyth	 	 returned to lineup
+9	2008-01-01	 Avalanche	 	 • Ryan Smyth	 ankle injury (DTD)
+10	2008-01-03	 Avalanche	 	 • Ryan Smyth	 fractured right ankle (out 6-8 weeks)
+11	2008-01-04	 Avalanche	 	 • Ryan Smyth	 placed on IR with fractured right ankle
+12	2008-02-14	 Avalanche	 • Ryan Smyth	 	 activated from IR
+13	2008-03-01	 Avalanche	 	 • Ryan Smyth	 head injury (left game)
+14	2008-03-15	 Avalanche	 • Ryan Smyth	 	 returned to lineup
+15	2008-04-28	 Avalanche	 	 • Ryan Smyth	 foot injury (DTD)
+16	2009-04-02	 Avalanche	 	 • Ryan Smyth	 fractured right hand (out for season)
+17	2009-11-16	 Kings	 	 • Ryan Smyth	 upper body injury (DTD)
+18	2009-11-23	 Kings	 	 • Ryan Smyth	 placed on IR with upper body injury
+19	2009-12-18	 Kings	 • Ryan Smyth	 	 activated from IR
+20	2013-10-21	 Oilers	 	 • Ryan Smyth	 strained groin (DTD)
+21	2013-11-05	 Oilers	 • Ryan Smyth	 	 activated from IR
+22	2013-12-10	 Oilers	 	 • Ryan Smyth	 strained neck (DTD)
+23	2013-12-15	 Oilers	 • Ryan Smyth	 	 returned to lineup

@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-07	 Flyers	 	 • Ryan Parent	 placed on IR with torn labrum in left shoulder (right shoulder?)
+1	2009-04-09	 Flyers	 	 • Ryan Parent	 groin injury (DTD)
+2	2009-04-11	 Flyers	 • Ryan Parent	 	 returned to lineup
+3	2009-04-12	 Flyers	 	 • Ryan Parent	 lower body injury (DTD)
+4	2009-10-16	 Flyers	 	 • Ryan Parent	 placed on IR with groin injury
+5	2009-10-31	 Flyers	 • Ryan Parent	 	 activated from IR
+6	2009-11-01	 Flyers	 	 • Ryan Parent	 placed on IR with groin injury
+7	2009-11-14	 Flyers	 • Ryan Parent	 	 activated from IR
+8	2009-12-26	 Flyers	 	 • Ryan Parent	 lower body injury (DTD)
+9	2010-03-02	 Flyers	 • Ryan Parent	 	 activated from IR
+10	2010-11-01	 Canucks	 	 • Ryan Parent	 pulled groin (DTD)
+11	2010-12-15	 Canucks	 • Ryan Parent	 	 returned to lineup

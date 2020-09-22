@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-12-04	 Capitals	 	 • Chandler Stephenson	 upper body injury (DTD)
+1	2017-12-05	 Capitals	 • Chandler Stephenson	 	 returned to lineup
+2	2020-03-09	 Golden Knights	 	 • Chandler Stephenson	 undisclosed (DTD)

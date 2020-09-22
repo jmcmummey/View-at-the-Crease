@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-11-27	 Red Wings	 	 • Tyler Bertuzzi	 placed on IR with foot / leg injury
+1	2016-12-28	 Red Wings	 • Tyler Bertuzzi	 	 activated from IR
+2	2017-10-02	 Red Wings	 	 • Tyler Bertuzzi	 placed on IR with wrist injury
+3	2017-10-30	 Red Wings	 • Tyler Bertuzzi	 	 activated from IR
+4	2019-01-23	 Red Wings	 	 • Tyler Bertuzzi	 upper body injury (DTD)
+5	2019-02-12	 Red Wings	 	 • Tyler Bertuzzi	 placed on IR with upper body injury
+6	2019-02-16	 Red Wings	 • Tyler Bertuzzi	 	 activated from IR

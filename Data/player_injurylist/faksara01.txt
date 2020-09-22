@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-01-22	 Stars	 	 • Radek Faksa	 lower body injury (DTD)
+1	2017-01-31	 Stars	 • Radek Faksa	 	 returned to lineup
+2	2017-11-06	 Stars	 	 • Radek Faksa	 lower body injury (DTD)
+3	2017-11-10	 Stars	 • Radek Faksa	 	 returned to lineup
+4	2018-03-05	 Stars	 	 • Radek Faksa	 foot injury (DTD)
+5	2018-03-09	 Stars	 • Radek Faksa	 	 returned to lineup
+6	2019-03-06	 Stars	 	 • Radek Faksa	 neck injury (DTD)
+7	2019-03-09	 Stars	 • Radek Faksa	 	 returned to lineup
+8	2020-01-14	 Stars	 	 • Radek Faksa	 upper body injury (DTD)
+9	2020-01-14	 Stars	 	 • Radek Faksa	 placed on IR with upper body injury
+10	2020-01-27	 Stars	 • Radek Faksa	 	 activated from IR
+11	2020-09-12	 Stars	 	 • Radek Faksa	 left hand injury (DTD)

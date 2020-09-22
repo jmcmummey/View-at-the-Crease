@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-12-19	 Wild	 	 • Brad Brown	 placed on IR
+1	2004-02-10	 Wild	 • Brad Brown	 	 activated from IR

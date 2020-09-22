@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-27	 Bruins	 	 • Andrew Raycroft	 hamstring injury (DTD)
+1	2005-11-10	 Bruins	 • Andrew Raycroft	 	 returned to lineup
+2	2006-01-19	 Bruins	 	 • Andrew Raycroft	 knee injury (DTD)
+3	2006-01-28	 Bruins	 • Andrew Raycroft	 	 returned to lineup
+4	2006-11-11	 Maple Leafs	 	 • Andrew Raycroft	 groin injury (DTD)
+5	2006-11-20	 Maple Leafs	 • Andrew Raycroft	 	 returned to lineup
+6	2008-02-21	 Maple Leafs	 	 • Andrew Raycroft	 flu (DTD)

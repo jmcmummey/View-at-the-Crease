@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-02-22	 Devils	 	 • Keith Kinkaid	 lower body injury (DTD)
+1	2015-03-02	 Devils	 • Keith Kinkaid	 	 returned to lineup
+2	2017-03-09	 Devils	 	 • Keith Kinkaid	 knee injury (DTD)
+3	2017-03-11	 Devils	 • Keith Kinkaid	 	 returned to lineup
+4	2018-01-21	 Devils	 	 • Keith Kinkaid	 placed on IR with groin injury
+5	2018-01-30	 Devils	 • Keith Kinkaid	 	 activated from IR

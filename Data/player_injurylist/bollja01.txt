@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-15	 Blue Jackets	 	 • Jared Boll	 bronchitis (DTD)
+1	2008-02-21	 Blue Jackets	 • Jared Boll	 	 returned to lineup
+2	2008-03-22	 Blue Jackets	 	 • Jared Boll	 hip injury (out indefinitely)
+3	2008-03-28	 Blue Jackets	 • Jared Boll	 	 returned to lineup
+4	2008-10-15	 Blue Jackets	 	 • Jared Boll	 placed on IR with head injury
+5	2008-10-27	 Blue Jackets	 • Jared Boll	 	 activated from IR
+6	2009-10-05	 Blue Jackets	 	 • Jared Boll	 head injury (left game)
+7	2009-10-22	 Blue Jackets	 	 • Jared Boll	 hip flexor injury (DTD)
+8	2010-03-25	 Blue Jackets	 	 • Jared Boll	 hand injury (out for season)
+9	2010-10-08	 Blue Jackets	 	 • Jared Boll	 placed on IR with back injury
+10	2010-10-25	 Blue Jackets	 • Jared Boll	 	 activated from IR
+11	2010-12-11	 Blue Jackets	 	 • Jared Boll	 sore lower back (DTD)
+12	2010-12-16	 Blue Jackets	 • Jared Boll	 	 returned to lineup
+13	2011-09-30	 Blue Jackets	 	 • Jared Boll	 placed on IR with broken thumb
+14	2011-11-10	 Blue Jackets	 • Jared Boll	 	 activated from IR
+15	2012-02-09	 Blue Jackets	 	 • Jared Boll	 broken foot (out indefinitely)
+16	2012-02-21	 Blue Jackets	 	 • Jared Boll	 placed on IR with fractured foot
+17	2012-03-11	 Blue Jackets	 • Jared Boll	 	 activated from IR
+18	2013-03-30	 Blue Jackets	 	 • Jared Boll	 upper body injury (DTD)
+19	2013-04-12	 Blue Jackets	 • Jared Boll	 	 returned to lineup
+20	2013-10-04	 Blue Jackets	 	 • Jared Boll	 upper body injury (DTD)
+21	2013-10-10	 Blue Jackets	 • Jared Boll	 	 returned to lineup
+22	2013-11-25	 Blue Jackets	 	 • Jared Boll	 bruised left foot (DTD)
+23	2013-11-26	 Blue Jackets	 	 • Jared Boll	 placed on IR with bruised left foot
+24	2014-03-19	 Blue Jackets	 • Jared Boll	 	 activated from IR
+25	2015-11-18	 Blue Jackets	 	 • Jared Boll	 placed on IR with foot injury
+26	2015-12-12	 Blue Jackets	 • Jared Boll	 	 activated from IR
+27	2016-02-09	 Blue Jackets	 	 • Jared Boll	 neck injury (DTD)
+28	2016-02-29	 Blue Jackets	 • Jared Boll	 	 returned to lineup
+29	2017-10-03	 Ducks	 	 • Jared Boll	 back injury (out indefinitely)
+30	2017-11-08	 Ducks	 	 • Jared Boll	 placed on IR with lower body injury
+31	2017-12-11	 Ducks	 • Jared Boll	 	 activated from IR

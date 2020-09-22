@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-10-04	 Whalers	 	 • Mikael Andersson	 flu (DTD)
+1	1991-01-01	 Whalers	 	 • Mikael Andersson	 pulled groin (DTD) (date approximate)
+2	1991-10-26	 Whalers	 	 • Mikael Andersson	 toe injury (DTD)
+3	1991-12-17	 Whalers	 	 • Mikael Andersson	 groin injury (DTD)
+4	1992-04-12	 Whalers	 	 • Mikael Andersson	 chip fracture to foot (DTD)
+5	1992-11-21	 Lightning	 	 • Mikael Andersson	 back spasms (DTD)
+6	1993-10-27	 Lightning	 	 • Mikael Andersson	 rotator cuff injury (DTD)
+7	1995-03-04	 Lightning	 	 • Mikael Andersson	 groin injury (DTD)
+8	1995-04-08	 Lightning	 	 • Mikael Andersson	 sprained ankle (DTD)
+9	1995-11-25	 Lightning	 	 • Mikael Andersson	 left knee injury (DTD)
+10	1995-12-03	 Lightning	 	 • Mikael Andersson	 left knee injury (DTD)
+11	1995-12-19	 Lightning	 	 • Mikael Andersson	 left knee tendinitis (DTD)

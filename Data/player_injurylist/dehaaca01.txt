@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-04-06	 Islanders	 	 • Calvin de Haan	 leg injury (out for season)
+1	2014-10-06	 Islanders	 	 • Calvin de Haan	 placed on IR with upper body injury
+2	2014-10-16	 Islanders	 • Calvin de Haan	 	 activated from IR
+3	2014-11-24	 Islanders	 	 • Calvin de Haan	 illness (DTD)
+4	2014-11-26	 Islanders	 • Calvin de Haan	 	 returned to lineup
+5	2015-02-08	 Islanders	 	 • Calvin de Haan	 facial injury (DTD)
+6	2015-02-12	 Islanders	 	 • Calvin de Haan	 undisclosed injury (DTD)
+7	2015-02-17	 Islanders	 • Calvin de Haan	 	 returned to lineup
+8	2015-04-25	 Islanders	 	 • Calvin de Haan	 shoulder injury (out for season)
+9	2016-02-16	 Islanders	 	 • Calvin de Haan	 lower body injury (DTD)
+10	2016-02-21	 Islanders	 	 • Calvin de Haan	 placed on IR with lower body injury
+11	2016-03-01	 Islanders	 • Calvin de Haan	 	 activated from IR
+12	2016-03-05	 Islanders	 	 • Calvin de Haan	 lower body injury (DTD)
+13	2016-03-14	 Islanders	 • Calvin de Haan	 	 returned to lineup
+14	2016-04-05	 Islanders	 	 • Calvin de Haan	 undisclosed injury (DTD)
+15	2016-04-07	 Islanders	 • Calvin de Haan	 	 returned to lineup
+16	2017-12-17	 Islanders	 	 • Calvin de Haan	 placed on IR with upper body injury (out for season)
+17	2019-02-27	 Hurricanes	 	 • Calvin de Haan	 upper body injury (DTD)
+18	2019-03-05	 Hurricanes	 • Calvin de Haan	 	 returned to lineup
+19	2019-03-12	 Hurricanes	 	 • Calvin de Haan	 eye injury (DTD)
+20	2019-03-21	 Hurricanes	 • Calvin de Haan	 	 returned to lineup
+21	2019-04-02	 Hurricanes	 	 • Calvin de Haan	 upper body injury (out indefinitely)
+22	2019-04-18	 Hurricanes	 • Calvin de Haan	 	 returned to lineup
+23	2019-10-04	 Blackhawks	 	 • Calvin de Haan	 groin injury (DTD)
+24	2019-10-12	 Blackhawks	 • Calvin de Haan	 	 returned to lineup
+25	2019-12-12	 Blackhawks	 	 • Calvin de Haan	 placed on IR with right shoulder injury

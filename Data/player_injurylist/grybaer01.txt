@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-05-17	 Senators	 	 • Eric Gryba	 upper body injury (out for season)
+1	2015-12-31	 Oilers	 	 • Eric Gryba	 undisclosed (DTD)
+2	2016-01-02	 Oilers	 • Eric Gryba	 	 returned to lineup
+3	2016-02-17	 Oilers	 	 • Eric Gryba	 placed on IR with knee injury (out for season)
+4	2016-11-30	 Oilers	 	 • Eric Gryba	 placed on IR with undisclosed injury
+5	2016-12-14	 Oilers	 • Eric Gryba	 	 activated from IR

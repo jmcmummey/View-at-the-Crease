@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-04-18	 Canadiens	 	 • Michael Ryder / Mike Ryder	 virus (DTD)
+1	2008-04-03	 Canadiens	 	 • Michael Ryder / Mike Ryder	 leg injury (DTD)
+2	2008-04-10	 Canadiens	 • Michael Ryder / Mike Ryder	 	 returned to lineup
+3	2009-01-27	 Bruins	 	 • Michael Ryder / Mike Ryder	 flu (DTD)
+4	2009-01-29	 Bruins	 • Michael Ryder / Mike Ryder	 	 returned to lineup
+5	2009-02-06	 Bruins	 	 • Michael Ryder / Mike Ryder	 fracture facial bone (DTD)
+6	2009-02-24	 Bruins	 • Michael Ryder / Mike Ryder	 	 returned to lineup
+7	2013-03-16	 Canadiens	 	 • Michael Ryder / Mike Ryder	 lower body injury (DTD)
+8	2013-03-19	 Canadiens	 • Michael Ryder / Mike Ryder	 	 returned to lineup
+9	2013-04-17	 Canadiens	 	 • Michael Ryder / Mike Ryder	 upper body injury (DTD)
+10	2013-04-18	 Canadiens	 • Michael Ryder / Mike Ryder	 	 returned to lineup
+11	2014-12-27	 Devils	 	 • Michael Ryder / Mike Ryder	 placed on IR with mumps
+12	2015-01-02	 Devils	 • Michael Ryder / Mike Ryder	 	 activated from IR

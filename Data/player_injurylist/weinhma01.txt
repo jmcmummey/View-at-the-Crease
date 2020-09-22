@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-14	 Wild	 	 • Mattias Weinhandl	 head injury (left game)
+1	2006-10-16	 Wild	 	 • Mattias Weinhandl	 head injury (DTD)
+2	2006-10-25	 Wild	 • Mattias Weinhandl	 	 returned to lineup

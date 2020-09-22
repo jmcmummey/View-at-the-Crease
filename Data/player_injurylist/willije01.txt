@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-31	 Maple Leafs	 	 • Jeremy Williams	 shoulder injury (DTD)
+1	2009-02-04	 Maple Leafs	 • Jeremy Williams	 	 returned to lineup

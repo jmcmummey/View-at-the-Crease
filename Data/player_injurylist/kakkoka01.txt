@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-11-14	 Rangers	 	 • Kaapo Kakko	 flu (DTD)
+1	2019-11-20	 Rangers	 • Kaapo Kakko	 	 returned to lineup
+2	2019-12-22	 Rangers	 	 • Kaapo Kakko	 lower body injury (DTD)
+3	2019-12-27	 Rangers	 • Kaapo Kakko	 	 returned to lineup

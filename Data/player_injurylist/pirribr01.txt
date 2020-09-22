@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-31	 Panthers	 	 • Brandon Pirri	 placed on IR with concussion
+1	2014-11-24	 Panthers	 • Brandon Pirri	 	 activated from IR
+2	2015-02-11	 Panthers	 	 • Brandon Pirri	 upper body injury (DTD)
+3	2015-02-14	 Panthers	 	 • Brandon Pirri	 placed on IR with upper body injury
+4	2015-02-28	 Panthers	 • Brandon Pirri	 	 activated from IR
+5	2016-02-14	 Panthers	 	 • Brandon Pirri	 ankle injury (DTD)
+6	2016-02-18	 Panthers	 	 • Brandon Pirri	 placed on IR with ankle injury
+7	2016-03-16	 Ducks	 • Brandon Pirri	 	 activated from IR
+8	2016-04-03	 Ducks	 	 • Brandon Pirri	 upper body injury (out for season)
+9	2019-02-07	 Golden Knights	 	 • Brandon Pirri	 stiff neck (DTD)
+10	2019-02-12	 Golden Knights	 • Brandon Pirri	 	 returned to lineup
+11	2019-03-27	 Golden Knights	 	 • Brandon Pirri	 lower body injury (DTD)
+12	2019-04-01	 Golden Knights	 • Brandon Pirri	 	 returned to lineup

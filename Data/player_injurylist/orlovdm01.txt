@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-02-05	 Capitals	 	 • Dmitry Orlov	 facial injury (DTD)
+1	2012-02-20	 Capitals	 	 • Dmitry Orlov	 illness (DTD)
+2	2012-02-22	 Capitals	 • Dmitry Orlov	 	 returned to lineup
+3	2013-02-22	 Capitals	 	 • Dmitry Orlov	 placed on IR with upper body injury
+4	2014-10-06	 Capitals	 	 • Dmitry Orlov	 placed on IR with fractured wrist (out for season)

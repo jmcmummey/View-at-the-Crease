@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-30	 Canadiens	 	 • Matt D'Agostini	 head injury (DTD)
+1	2009-10-31	 Canadiens	 	 • Matt D'Agostini	 placed on IR with concussion
+2	2009-12-01	 Canadiens	 • Matt D'Agostini	 	 activated from IR
+3	2011-12-11	 Blues	 	 • Matt D'Agostini	 upper body injury (DTD)
+4	2012-02-08	 Blues	 	 • Matt D'Agostini	 head injury (DTD)
+5	2012-02-12	 Blues	 	 • Matt D'Agostini	 placed on IR with head injury
+6	2012-03-29	 Blues	 	 • Matt D'Agostini	 concussion (DTD)
+7	2012-03-29	 Blues	 • Matt D'Agostini	 	 activated from IR
+8	2013-10-02	 Penguins	 	 • Matt D'Agostini	 placed on IR with lower body injury
+9	2013-10-26	 Penguins	 • Matt D'Agostini	 	 activated from IR
+10	2014-01-16	 Sabres	 	 • Matt D'Agostini	 upper body injury (DTD)
+11	2014-01-21	 Sabres	 	 • Matt D'Agostini	 placed on IR with upper body injury
+12	2014-01-30	 Sabres	 • Matt D'Agostini	 	 activated from IR

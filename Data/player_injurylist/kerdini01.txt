@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-11	 Ducks	 	 • Nicolas Kerdiles / Nic Kerdiles	 placed on injured/non-roster list / IR with concussion
+1	2017-01-27	 Ducks	 • Nicolas Kerdiles / Nic Kerdiles	 	 activated from injured/non-roster list / IR with concussion

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-03-10	 Rangers	 	 • Libor Hajek	 separated shoulder (out for season)
+1	2019-12-06	 Rangers	 	 • Libor Hajek	 sprained knee (out indefinitely)
+2	2020-01-11	 Rangers	 • Libor Hajek	 	 returned to lineup

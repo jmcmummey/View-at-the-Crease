@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-02-25	 Devils	 	 • Will Butcher	 lower body injury (DTD)
+1	2019-02-27	 Devils	 • Will Butcher	 	 returned to lineup
+2	2019-03-21	 Devils	 	 • Will Butcher	 illness (DTD)
+3	2019-03-27	 Devils	 • Will Butcher	 	 returned to lineup
+4	2019-10-19	 Devils	 	 • Will Butcher	 placed on IR with upper body injury
+5	2019-10-29	 Devils	 • Will Butcher	 	 activated from IR
+6	2019-12-28	 Devils	 	 • Will Butcher	 undisclosed (DTD)
+7	2019-12-31	 Devils	 • Will Butcher	 	 returned to lineup
+8	2020-02-20	 Devils	 	 • Will Butcher	 upper body injury (DTD)
+9	2020-03-06	 Devils	 	 • Will Butcher	 surery on right thumb (out for season)

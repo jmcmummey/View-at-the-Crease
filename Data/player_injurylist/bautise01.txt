@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-12-29	 Jets	 	 • Sergei Bautin	 hip injury (DTD)
+1	1993-01-03	 Jets	 	 • Sergei Bautin	 hip injury (DTD)
+2	1993-02-28	 Jets	 	 • Sergei Bautin	 fractured foot (DTD)
+3	1993-10-06	 Jets	 	 • Sergei Bautin	 bruised foot (DTD)

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-03	 Penguins	 	 • Shane Endicott	 placed on IR with ankle injury
+1	2005-11-19	 Penguins	 • Shane Endicott	 	 activated from IR
+2	2005-11-22	 Penguins	 	 • Shane Endicott	 ankle injury (out indefinitely)
+3	2005-11-25	 Penguins	 	 • Shane Endicott	 placed on IR with groin injury
+4	2005-12-03	 Penguins	 • Shane Endicott	 	 activated from IR

@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-05-14	 Stars	 	 • Mark Fistric	 flu (DTD)
+1	2009-03-29	 Stars	 	 • Mark Fistric	 upper body injury (DTD)
+2	2009-12-12	 Stars	 	 • Mark Fistric	 illness (DTD)
+3	2009-12-16	 Stars	 • Mark Fistric	 	 returned to lineup
+4	2009-12-18	 Stars	 	 • Mark Fistric	 concussion (DTD)
+5	2009-12-21	 Stars	 	 • Mark Fistric	 placed on IR with concussion
+6	2009-12-31	 Stars	 • Mark Fistric	 	 activated from IR
+7	2010-02-08	 Stars	 	 • Mark Fistric	 surgery on knee (out indefinitely)
+8	2010-03-04	 Stars	 • Mark Fistric	 	 activated from IR
+9	2010-11-24	 Stars	 	 • Mark Fistric	 lower body injury (DTD)
+10	2010-11-26	 Stars	 	 • Mark Fistric	 placed on IR with lower body injury
+11	2010-12-08	 Stars	 • Mark Fistric	 	 activated from IR
+12	2011-02-01	 Stars	 	 • Mark Fistric	 illness (DTD)
+13	2011-02-05	 Stars	 • Mark Fistric	 	 returned to lineup
+14	2011-04-03	 Stars	 	 • Mark Fistric	 head injury (DTD)
+15	2011-04-05	 Stars	 • Mark Fistric	 	 returned to lineup
+16	2012-03-21	 Stars	 	 • Mark Fistric	 strained abdominal muscle (DTD)
+17	2012-03-31	 Stars	 • Mark Fistric	 	 returned to lineup
+18	2013-02-05	 Oilers	 	 • Mark Fistric	 back injury (DTD)
+19	2013-02-10	 Oilers	 • Mark Fistric	 	 returned to lineup
+20	2013-03-01	 Oilers	 	 • Mark Fistric	 elbow injury (DTD)
+21	2013-03-04	 Oilers	 	 • Mark Fistric	 placed on IR with elbow injury
+22	2013-03-15	 Oilers	 • Mark Fistric	 	 activated from IR
+23	2013-12-10	 Ducks	 	 • Mark Fistric	 upper body injury (DTD)
+24	2013-12-20	 Ducks	 • Mark Fistric	 	 returned to lineup
+25	2014-02-02	 Ducks	 	 • Mark Fistric	 placed on IR with lower body injury
+26	2014-02-26	 Ducks	 • Mark Fistric	 	 activated from IR
+27	2014-04-13	 Ducks	 	 • Mark Fistric	 placed on IR with lower body injury
+28	2014-04-23	 Ducks	 • Mark Fistric	 	 activated from IR
+29	2014-10-31	 Ducks	 	 • Mark Fistric	 placed on IR with upper body injury
+30	2014-12-03	 Ducks	 • Mark Fistric	 	 activated from IR

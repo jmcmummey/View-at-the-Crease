@@ -1,0 +1,56 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-09-25	 Blue Jackets	 	 • Derek Dorsett	 placed on IR
+1	2007-11-06	 Blue Jackets	 • Derek Dorsett	 	 activated from IR
+2	2008-11-26	 Blue Jackets	 	 • Derek Dorsett	 placed on IR with broken finger
+3	2008-12-17	 Blue Jackets	 • Derek Dorsett	 	 activated from IR
+4	2009-02-13	 Blue Jackets	 	 • Derek Dorsett	 flu (DTD)
+5	2009-02-16	 Blue Jackets	 • Derek Dorsett	 	 returned to lineup
+6	2009-11-05	 Blue Jackets	 	 • Derek Dorsett	 undisclosed injury (DTD)
+7	2009-11-21	 Blue Jackets	 	 • Derek Dorsett	 head injury (out indefinitely)
+8	2009-11-23	 Blue Jackets	 	 • Derek Dorsett	 placed on IR with head injury / concussion
+9	2009-12-09	 Blue Jackets	 • Derek Dorsett	 	 activated from IR
+10	2009-12-12	 Blue Jackets	 	 • Derek Dorsett	 placed on IR with broken hand
+11	2010-01-12	 Blue Jackets	 • Derek Dorsett	 	 activated from IR
+12	2010-01-28	 Blue Jackets	 	 • Derek Dorsett	 forearm injury (DTD)
+13	2010-01-30	 Blue Jackets	 • Derek Dorsett	 	 returned to lineup
+14	2010-02-04	 Blue Jackets	 	 • Derek Dorsett	 hand injury (DTD)
+15	2010-02-10	 Blue Jackets	 • Derek Dorsett	 	 returned to lineup
+16	2010-02-14	 Blue Jackets	 	 • Derek Dorsett	 undisclosed (DTD)
+17	2010-03-02	 Blue Jackets	 • Derek Dorsett	 	 returned to lineup
+18	2010-11-20	 Blue Jackets	 	 • Derek Dorsett	 undisclosed (DTD)
+19	2010-11-22	 Blue Jackets	 • Derek Dorsett	 	 returned to lineup
+20	2010-12-16	 Blue Jackets	 	 • Derek Dorsett	 lower body injury (DTD)
+21	2010-12-18	 Blue Jackets	 • Derek Dorsett	 	 returned to lineup
+22	2011-02-12	 Blue Jackets	 	 • Derek Dorsett	 head/neck injury (DTD)
+23	2011-02-17	 Blue Jackets	 	 • Derek Dorsett	 placed on IR with head/neck injury
+24	2011-02-22	 Blue Jackets	 • Derek Dorsett	 	 activated from IR
+25	2011-12-11	 Blue Jackets	 	 • Derek Dorsett	 left leg injury (DTD)
+26	2011-12-17	 Blue Jackets	 • Derek Dorsett	 	 returned to lineup
+27	2012-03-08	 Blue Jackets	 	 • Derek Dorsett	 upper body injury (DTD)
+28	2012-03-17	 Blue Jackets	 • Derek Dorsett	 	 returned to lineup
+29	2013-03-08	 Blue Jackets	 	 • Derek Dorsett	 placed on IR with fractured clavicle (out for season)
+30	2013-11-27	 Rangers	 	 • Derek Dorsett	 wrist injury (DTD)
+31	2013-11-30	 Rangers	 • Derek Dorsett	 	 returned to lineup
+32	2013-12-05	 Rangers	 	 • Derek Dorsett	 sprained left wrist (DTD)
+33	2013-12-10	 Rangers	 • Derek Dorsett	 	 returned to lineup
+34	2014-01-04	 Rangers	 	 • Derek Dorsett	 fractured fibula (DTD)
+35	2014-01-04	 Rangers	 	 • Derek Dorsett	 placed on IR with fractured fibula
+36	2014-03-01	 Rangers	 • Derek Dorsett	 	 activated from IR
+37	2014-03-22	 Rangers	 	 • Derek Dorsett	 flu (DTD)
+38	2014-03-24	 Rangers	 • Derek Dorsett	 	 returned to lineup
+39	2014-11-09	 Canucks	 	 • Derek Dorsett	 undisclosed (DTD)
+40	2014-11-14	 Canucks	 • Derek Dorsett	 	 returned to lineup
+41	2015-01-30	 Canucks	 	 • Derek Dorsett	 lower body injury (DTD)
+42	2015-02-01	 Canucks	 • Derek Dorsett	 	 returned to lineup
+43	2016-01-15	 Canucks	 	 • Derek Dorsett	 flu (DTD)
+44	2016-01-17	 Canucks	 • Derek Dorsett	 	 returned to lineup
+45	2016-02-10	 Canucks	 	 • Derek Dorsett	 illness (DTD)
+46	2016-02-13	 Canucks	 • Derek Dorsett	 	 returned to lineup
+47	2016-03-15	 Canucks	 	 • Derek Dorsett	 upper body injury (DTD)
+48	2016-03-25	 Canucks	 • Derek Dorsett	 	 returned to lineup
+49	2016-10-23	 Canucks	 	 • Derek Dorsett	 placed on IR with shoulder injury
+50	2016-11-02	 Canucks	 • Derek Dorsett	 	 activated from IR
+51	2016-11-18	 Canucks	 	 • Derek Dorsett	 placed on IR with shoulder injury
+52	2016-12-05	 Canucks	 	 • Derek Dorsett	 placed on IR with surgery on neck (out for season)
+53	2017-11-21	 Canucks	 	 • Derek Dorsett	 placed on IR with neck injury
+54	2017-11-30	 Canucks	 • Derek Dorsett	 	 activated from IR

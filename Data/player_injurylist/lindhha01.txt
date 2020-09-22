@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-02-06	 Ducks	 	 • Hampus Lindholm	 placed on IR with concussion
+1	2013-02-18	 Ducks	 • Hampus Lindholm	 	 activated from IR
+2	2014-04-27	 Ducks	 	 • Hampus Lindholm	 stiff neck (DTD)
+3	2014-05-03	 Ducks	 • Hampus Lindholm	 	 returned to lineup
+4	2014-12-19	 Ducks	 	 • Hampus Lindholm	 lower body injury (DTD)
+5	2014-12-22	 Ducks	 • Hampus Lindholm	 	 returned to lineup
+6	2015-02-09	 Ducks	 	 • Hampus Lindholm	 lower body injury (DTD)
+7	2015-02-12	 Ducks	 • Hampus Lindholm	 	 returned to lineup
+8	2015-02-18	 Ducks	 	 • Hampus Lindholm	 lower body injury (DTD)
+9	2015-02-20	 Ducks	 • Hampus Lindholm	 	 returned to lineup
+10	2015-11-21	 Ducks	 	 • Hampus Lindholm	 upper body injury (DTD)
+11	2015-11-24	 Ducks	 • Hampus Lindholm	 	 returned to lineup
+12	2016-04-01	 Ducks	 	 • Hampus Lindholm	 illness (DTD)
+13	2016-04-03	 Ducks	 • Hampus Lindholm	 	 returned to lineup
+14	2017-04-02	 Ducks	 	 • Hampus Lindholm	 upper body injury (DTD)
+15	2017-04-09	 Ducks	 • Hampus Lindholm	 	 returned to lineup
+16	2017-10-03	 Ducks	 	 • Hampus Lindholm	 placed on IR with shoulder injury
+17	2017-10-24	 Ducks	 • Hampus Lindholm	 	 activated from IR
+18	2017-11-15	 Ducks	 	 • Hampus Lindholm	 lower body injury (DTD)
+19	2017-11-19	 Ducks	 • Hampus Lindholm	 	 returned to lineup
+20	2017-12-05	 Ducks	 	 • Hampus Lindholm	 placed on IR with upper body injury
+21	2017-12-16	 Ducks	 • Hampus Lindholm	 	 activated from IR
+22	2018-11-18	 Ducks	 	 • Hampus Lindholm	 placed on IR with lower body injury
+23	2018-11-30	 Ducks	 • Hampus Lindholm	 	 activated from IR
+24	2019-10-27	 Ducks	 	 • Hampus Lindholm	 lower body injury (DTD)
+25	2019-11-01	 Ducks	 • Hampus Lindholm	 	 returned to lineup
+26	2019-11-10	 Ducks	 	 • Hampus Lindholm	 placed on IR with lower body injury
+27	2019-11-23	 Ducks	 • Hampus Lindholm	 	 activated from IR
+28	2020-02-26	 Ducks	 	 • Hampus Lindholm	 upper body injury (DTD)

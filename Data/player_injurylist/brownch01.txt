@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-06	 Capitals	 	 • Chris Brown	 placed on IR with hand injury
+1	2015-11-13	 Capitals	 • Chris Brown	 	 activated from IR

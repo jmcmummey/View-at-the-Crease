@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-03-15	 Flames	 	 • Dean McAmmond	 ruled ineligible to play remainder of 2002-03 season by NHL due to transaction violation by Flames
+1	2007-06-04	 Senators	 	 • Dean McAmmond	 concussion (DTD)
+2	2007-09-26	 Senators	 	 • Dean McAmmond	 concussion (out indefinitely)
+3	2007-10-31	 Senators	 	 • Dean McAmmond	 concussion (DTD)
+4	2007-11-01	 Senators	 • Dean McAmmond	 	 returned to lineup
+5	2008-02-25	 Senators	 	 • Dean McAmmond	 flu (DTD)
+6	2008-02-26	 Senators	 • Dean McAmmond	 	 returned to lineup
+7	2008-03-24	 Senators	 	 • Dean McAmmond	 quadricep injury (DTD)
+8	2008-03-25	 Senators	 • Dean McAmmond	 	 returned to lineup
+9	2008-11-27	 Senators	 	 • Dean McAmmond	 flu (DTD)
+10	2008-12-10	 Senators	 	 • Dean McAmmond	 pneumonia (DTD)
+11	2008-12-23	 Senators	 • Dean McAmmond	 	 returned to lineup
+12	2009-04-02	 Islanders	 	 • Dean McAmmond	 illness (DTD)
+13	2009-11-11	 Devils	 	 • Dean McAmmond	 placed on IR with illness
+14	2009-11-19	 Devils	 • Dean McAmmond	 	 activated from IR
+15	2010-03-07	 Devils	 	 • Dean McAmmond	 upper body injury (left game)

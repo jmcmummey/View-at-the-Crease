@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-09-28	 Kings	 	 • Scott Barney	 back injury (out indefinitely)
+1	2004-02-14	 Kings	 	 • Scott Barney	 placed on IR
+2	2004-03-09	 Kings	 • Scott Barney	 	 activated from IR

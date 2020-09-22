@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-12-27	 Blackhawks	 	 • Adam Boqvist	 shoulder injury (DTD)
+1	2019-12-29	 Blackhawks	 • Adam Boqvist	 	 returned to lineup
+2	2020-02-06	 Blackhawks	 	 • Adam Boqvist	 right shoulder injury (DTD)
+3	2020-02-11	 Blackhawks	 • Adam Boqvist	 	 returned to lineup
+4	2020-03-06	 Blackhawks	 	 • Adam Boqvist	 right wrist injury (DTD)
+5	2020-03-08	 Blackhawks	 • Adam Boqvist	 	 returned to lineup
+6	2020-03-11	 Blackhawks	 	 • Adam Boqvist	 concussion (DTD)

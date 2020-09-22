@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-11-28	 Stars	 	 • Colton Sceviour	 illness (DTD)
+1	2014-11-28	 Stars	 • Colton Sceviour	 	 returned to lineup
+2	2016-02-04	 Stars	 	 • Colton Sceviour	 upper body injury (DTD)
+3	2016-02-06	 Stars	 • Colton Sceviour	 	 returned to lineup
+4	2016-12-31	 Panthers	 	 • Colton Sceviour	 shoulder injury (DTD)
+5	2017-01-06	 Panthers	 • Colton Sceviour	 	 returned to lineup
+6	2017-10-17	 Panthers	 	 • Colton Sceviour	 head injury (DTD)
+7	2017-10-20	 Panthers	 • Colton Sceviour	 	 returned to lineup
+8	2017-10-24	 Panthers	 	 • Colton Sceviour	 upper body injury (DTD)
+9	2017-11-04	 Panthers	 • Colton Sceviour	 	 returned to lineup
+10	2019-02-10	 Panthers	 	 • Colton Sceviour	 placed on IR with hand injury
+11	2019-03-16	 Panthers	 • Colton Sceviour	 	 activated from IR

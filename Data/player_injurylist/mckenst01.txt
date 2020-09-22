@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-11-07	 Kings	 	 • Steve McKenna	 abdominal strain (out indefinitely)
+1	1998-11-12	 Kings	 	 • Steve McKenna	 placed on IR with abdominal strain
+2	1998-12-09	 Kings	 • Steve McKenna	 	 activated from IR
+3	1998-12-10	 Kings	 	 • Steve McKenna	 abdominal strain (DTD)
+4	1998-12-12	 Kings	 	 • Steve McKenna	 placed on IR with abdominal strain
+5	1999-10-09	 Kings	 	 • Steve McKenna	 placed on IR
+6	2000-10-02	 Wild	 	 • Steve McKenna	 placed on IR
+7	2002-12-10	 Penguins	 	 • Steve McKenna	 elbow infection (DTD)
+8	2002-12-12	 Penguins	 • Steve McKenna	 	 returned to lineup
+9	2003-02-04	 Penguins	 	 • Steve McKenna	 flu (DTD)
+10	2003-02-06	 Penguins	 • Steve McKenna	 	 returned to lineup

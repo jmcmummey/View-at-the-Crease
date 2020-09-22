@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-13	 Lightning	 	 • Ruslan Fedotenko	 lower body injury (left game)
+1	2005-12-17	 Lightning	 	 • Ruslan Fedotenko	 hip injury (DTD)
+2	2005-12-22	 Lightning	 • Ruslan Fedotenko	 	 returned to lineup
+3	2006-09-14	 Lightning	 	 • Ruslan Fedotenko	 surgery on hip (DTD)
+4	2007-02-06	 Lightning	 	 • Ruslan Fedotenko	 flu (DTD)
+5	2007-02-09	 Lightning	 • Ruslan Fedotenko	 	 returned to lineup
+6	2007-12-08	 Islanders	 	 • Ruslan Fedotenko	 shoulder injury (DTD)
+7	2007-12-13	 Islanders	 • Ruslan Fedotenko	 	 returned to lineup
+8	2008-01-29	 Islanders	 	 • Ruslan Fedotenko	 flu (DTD)
+9	2008-02-02	 Islanders	 • Ruslan Fedotenko	 	 returned to lineup
+10	2008-03-12	 Islanders	 	 • Ruslan Fedotenko	 knee injury (DTD)
+11	2008-11-01	 Penguins	 	 • Ruslan Fedotenko	 undisclosed injury (DTD)
+12	2009-01-08	 Penguins	 	 • Ruslan Fedotenko	 hand injury (DTD)
+13	2009-01-09	 Penguins	 	 • Ruslan Fedotenko	 placed on IR with broken right hand
+14	2009-02-14	 Penguins	 • Ruslan Fedotenko	 	 activated from IR
+15	2010-01-07	 Penguins	 	 • Ruslan Fedotenko	 knee injury (DTD)
+16	2010-01-09	 Penguins	 • Ruslan Fedotenko	 	 returned to lineup
+17	2011-01-20	 Rangers	 	 • Ruslan Fedotenko	 sprained/separated (CBC) left shoulder (DTD)
+18	2011-02-05	 Rangers	 	 • Ruslan Fedotenko	 placed on IR with separated left shoulder
+19	2011-02-25	 Rangers	 • Ruslan Fedotenko	 	 activated from IR
+20	2011-02-27	 Rangers	 	 • Ruslan Fedotenko	 shoulder injury (DTD)
+21	2011-03-03	 Rangers	 • Ruslan Fedotenko	 	 returned to lineup
+22	2012-01-15	 Rangers	 	 • Ruslan Fedotenko	 back spasms (DTD)
+23	2012-01-17	 Rangers	 • Ruslan Fedotenko	 	 returned to lineup
+24	2012-02-09	 Rangers	 	 • Ruslan Fedotenko	 head injury (DTD)
+25	2012-02-24	 Rangers	 • Ruslan Fedotenko	 	 returned to lineup

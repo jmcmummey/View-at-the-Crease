@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-15	 Sharks	 	 • Andrew Desjardins	 concussion / head injury (DTD)
+1	2012-01-19	 Sharks	 • Andrew Desjardins	 	 returned to lineup
+2	2013-02-09	 Sharks	 	 • Andrew Desjardins	 illness (DTD)
+3	2013-02-12	 Sharks	 	 • Andrew Desjardins	 placed on IR with illness
+4	2013-02-19	 Sharks	 • Andrew Desjardins	 	 activated from IR
+5	2016-04-17	 Blackhawks	 	 • Andrew Desjardins	 undisclosed injury (DTD)
+6	2016-10-10	 Blackhawks	 	 • Andrew Desjardins	 placed on IR with lower body injury
+7	2016-11-05	 Blackhawks	 • Andrew Desjardins	 	 activated from IR (E)
+8	2016-11-05	 Blackhawks	 	 • Andrew Desjardins	 lower body injury (DTD)
+9	2016-11-09	 Blackhawks	 • Andrew Desjardins	 	 returned to lineup
+10	2017-04-07	 Blackhawks	 	 • Andrew Desjardins	 lower body injury (out for season)

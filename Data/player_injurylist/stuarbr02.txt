@@ -1,0 +1,35 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-04	 Sharks	 	 • Brad Stuart	 ankle injury (out indefinitely)
+1	2003-02-21	 Sharks	 	 • Brad Stuart	 head injury (out indefinitely)
+2	2005-12-17	 Bruins	 	 • Brad Stuart	 flu (DTD)
+3	2005-12-22	 Bruins	 • Brad Stuart	 	 returned to lineup
+4	2006-10-21	 Bruins	 	 • Brad Stuart	 broken finger (left game)
+5	2006-10-23	 Bruins	 	 • Brad Stuart	 placed on IR with broken finger
+6	2006-11-09	 Bruins	 • Brad Stuart	 	 activated from IR
+7	2008-02-10	 Kings	 	 • Brad Stuart	 sick (DTD)
+8	2008-02-12	 Kings	 • Brad Stuart	 	 returned to lineup
+9	2008-03-20	 Red Wings	 	 • Brad Stuart	 broken finger (out indefinitely)
+10	2008-04-10	 Red Wings	 • Brad Stuart	 	 returned to lineup
+11	2008-10-18	 Red Wings	 	 • Brad Stuart	 left knee injury (DTD)
+12	2008-10-22	 Red Wings	 • Brad Stuart	 	 returned to lineup
+13	2009-01-27	 Red Wings	 	 • Brad Stuart	 knee injury (DTD)
+14	2009-01-29	 Red Wings	 	 • Brad Stuart	 placed on IR with knee injury
+15	2009-02-25	 Red Wings	 • Brad Stuart	 	 activated from IR
+16	2010-01-27	 Red Wings	 	 • Brad Stuart	 sprained left shoulder (left game)
+17	2010-05-06	 Red Wings	 	 • Brad Stuart	 lower body injury (left game)
+18	2011-01-08	 Red Wings	 	 • Brad Stuart	 broken jaw (DTD)
+19	2011-01-15	 Red Wings	 	 • Brad Stuart	 placed on IR with broken jaw
+20	2011-02-17	 Red Wings	 • Brad Stuart	 	 activated from IR
+21	2012-02-06	 Red Wings	 	 • Brad Stuart	 flu (DTD)
+22	2012-02-08	 Red Wings	 • Brad Stuart	 	 returned to lineup
+23	2013-10-03	 Sharks	 	 • Brad Stuart	 lower body injury (DTD)
+24	2013-10-08	 Sharks	 • Brad Stuart	 	 returned to lineup
+25	2014-02-27	 Sharks	 	 • Brad Stuart	 placed on IR with upper body injury
+26	2014-03-24	 Sharks	 • Brad Stuart	 	 activated from IR
+27	2014-11-05	 Avalanche	 	 • Brad Stuart	 hamstring injury (out indefinitely)
+28	2014-11-21	 Avalanche	 	 • Brad Stuart	 placed on IR with hamstring injury
+29	2014-12-15	 Avalanche	 • Brad Stuart	 	 activated from IR
+30	2015-04-11	 Avalanche	 	 • Brad Stuart	 leg injury (out for season)
+31	2015-10-24	 Avalanche	 	 • Brad Stuart	 back injury (DTD)
+32	2015-11-01	 Avalanche	 • Brad Stuart	 	 returned to lineup
+33	2015-11-12	 Avalanche	 	 • Brad Stuart	 placed on IR with undisclosed injury (out for season)

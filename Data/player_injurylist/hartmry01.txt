@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-15	 Blackhawks	 	 • Ryan Hartman	 lower body injury (DTD)
+1	2016-10-21	 Blackhawks	 • Ryan Hartman	 	 returned to lineup
+2	2018-01-05	 Blackhawks	 	 • Ryan Hartman	 upper body injury (DTD)
+3	2018-01-07	 Blackhawks	 • Ryan Hartman	 	 returned to lineup
+4	2018-09-29	 Predators	 	 • Ryan Hartman	 placed on IR with shoulder injury
+5	2019-03-15	 Flyers	 	 • Ryan Hartman	 illness (DTD)
+6	2019-03-17	 Flyers	 • Ryan Hartman	 	 returned to lineup

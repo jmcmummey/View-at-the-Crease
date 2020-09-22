@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-28	 Islanders	 	 • Jean-Francois Berube / J-F Berube / J.F. Berube	 placed on IR with lower body injury
+1	2016-01-22	 Islanders	 • Jean-Francois Berube / J-F Berube / J.F. Berube	 	 activated from IR
+2	2016-04-04	 Islanders	 	 • Jean-Francois Berube / J-F Berube / J.F. Berube	 lower body injury (out for season)

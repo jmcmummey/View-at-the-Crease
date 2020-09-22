@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-12-20	 Sharks	 	 • Melker Karlsson	 flu (DTD)
+1	2015-12-22	 Sharks	 • Melker Karlsson	 	 returned to lineup
+2	2016-03-03	 Sharks	 	 • Melker Karlsson	 undisclosed (DTD)
+3	2016-03-07	 Sharks	 • Melker Karlsson	 	 returned to lineup
+4	2016-11-13	 Sharks	 	 • Melker Karlsson	 ankle injury (DTD)
+5	2016-11-26	 Sharks	 	 • Melker Karlsson	 placed on IR with ankle injury
+6	2016-11-29	 Sharks	 • Melker Karlsson	 	 activated from IR
+7	2017-03-12	 Sharks	 	 • Melker Karlsson	 lower body injury (DTD)
+8	2017-03-28	 Sharks	 • Melker Karlsson	 	 returned to lineup
+9	2017-11-20	 Sharks	 	 • Melker Karlsson	 upper body injury (DTD)
+10	2017-11-28	 Sharks	 • Melker Karlsson	 	 returned to lineup
+11	2018-03-08	 Sharks	 	 • Melker Karlsson	 lower body injury (DTD)
+12	2018-03-14	 Sharks	 • Melker Karlsson	 	 returned to lineup
+13	2018-04-05	 Sharks	 	 • Melker Karlsson	 undisclosed injury (DTD)
+14	2018-04-12	 Sharks	 • Melker Karlsson	 	 returned to lineup
+15	2019-03-30	 Sharks	 	 • Melker Karlsson	 lower body injury (DTD)
+16	2019-04-04	 Sharks	 • Melker Karlsson	 	 returned to lineup
+17	2019-11-05	 Sharks	 	 • Melker Karlsson	 upper body injury (DTD)
+18	2019-11-09	 Sharks	 • Melker Karlsson	 	 returned to lineup
+19	2019-11-22	 Sharks	 	 • Melker Karlsson	 upper body injury (DTD)
+20	2019-11-25	 Sharks	 • Melker Karlsson	 	 returned to lineup
+21	2019-12-29	 Sharks	 	 • Melker Karlsson	 head injury (DTD)
+22	2020-01-02	 Sharks	 • Melker Karlsson	 	 returned to lineup
+23	2020-02-22	 Sharks	 	 • Melker Karlsson	 lower body injury (DTD)
+24	2020-03-02	 Sharks	 • Melker Karlsson	 	 returned to lineup

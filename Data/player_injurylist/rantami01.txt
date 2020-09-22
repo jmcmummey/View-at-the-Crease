@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-11	 Avalanche	 	 • Mikko Rantanen	 placed on IR with ankle injury
+1	2017-04-04	 Avalanche	 	 • Mikko Rantanen	 lower body injury (DTD)
+2	2017-04-08	 Avalanche	 • Mikko Rantanen	 	 returned to lineup
+3	2018-02-06	 Avalanche	 	 • Mikko Rantanen	 lower body injury (DTD)
+4	2018-02-08	 Avalanche	 • Mikko Rantanen	 	 returned to lineup
+5	2019-03-23	 Avalanche	 	 • Mikko Rantanen	 upper body injury (out for season)
+6	2019-10-22	 Avalanche	 	 • Mikko Rantanen	 leg injury (out indefinitely)
+7	2019-10-22	 Avalanche	 	 • Mikko Rantanen	 placed on IR with leg injury
+8	2019-11-30	 Avalanche	 • Mikko Rantanen	 	 activated from IR
+9	2020-02-18	 Avalanche	 	 • Mikko Rantanen	 placed on IR with upper body injury
+10	2020-07-13	 Avalanche	 • Mikko Rantanen	 	 activated from IR

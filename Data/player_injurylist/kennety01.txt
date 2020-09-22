@@ -1,0 +1,49 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-01-10	 Penguins	 	 • Tyler Kennedy	 flu (DTD)
+1	2008-01-14	 Penguins	 • Tyler Kennedy	 	 returned to lineup
+2	2008-01-19	 Penguins	 	 • Tyler Kennedy	 flu (DTD)
+3	2008-01-23	 Penguins	 	 • Tyler Kennedy	 placed on IR with mononucleosis
+4	2008-02-08	 Penguins	 • Tyler Kennedy	 	 activated from IR
+5	2008-12-04	 Penguins	 	 • Tyler Kennedy	 undisclosed injury (DTD)
+6	2008-12-05	 Penguins	 	 • Tyler Kennedy	 placed on IR with sprained knee
+7	2009-01-03	 Penguins	 • Tyler Kennedy	 	 activated from IR
+8	2009-10-28	 Penguins	 	 • Tyler Kennedy	 undisclosed injury (DTD)
+9	2009-11-03	 Penguins	 • Tyler Kennedy	 	 returned to lineup
+10	2009-11-05	 Penguins	 	 • Tyler Kennedy	 undisclosed injury (DTD)
+11	2009-11-28	 Penguins	 • Tyler Kennedy	 	 activated from IR
+12	2010-01-28	 Penguins	 	 • Tyler Kennedy	 undisclosed (DTD)
+13	2010-01-31	 Penguins	 • Tyler Kennedy	 	 returned to lineup
+14	2010-03-09	 Penguins	 	 • Tyler Kennedy	 groin injury (DTD) (date approximate)
+15	2010-03-14	 Penguins	 • Tyler Kennedy	 	 returned to lineup
+16	2010-04-22	 Penguins	 	 • Tyler Kennedy	 leg injury (DTD)
+17	2010-05-02	 Penguins	 • Tyler Kennedy	 	 returned to lineup
+18	2010-11-15	 Penguins	 	 • Tyler Kennedy	 illness (DTD)
+19	2010-11-17	 Penguins	 • Tyler Kennedy	 	 returned to lineup
+20	2011-02-26	 Penguins	 	 • Tyler Kennedy	 lower body injury (DTD)
+21	2011-03-02	 Penguins	 • Tyler Kennedy	 	 returned to lineup
+22	2011-10-17	 Penguins	 	 • Tyler Kennedy	 concussion (CBC) / concussion-like symptoms (DTD)
+23	2011-10-20	 Penguins	 	 • Tyler Kennedy	 placed on IR with concussion
+24	2011-11-15	 Penguins	 • Tyler Kennedy	 	 activated from IR
+25	2012-02-07	 Penguins	 	 • Tyler Kennedy	 lower body injury (DTD)
+26	2012-02-20	 Penguins	 	 • Tyler Kennedy	 placed on IR with ankle injury
+27	2012-03-05	 Penguins	 • Tyler Kennedy	 	 activated from IR
+28	2013-03-22	 Penguins	 	 • Tyler Kennedy	 illness (DTD)
+29	2013-03-24	 Penguins	 • Tyler Kennedy	 	 returned to lineup
+30	2014-01-02	 Sharks	 	 • Tyler Kennedy	 flu (DTD)
+31	2014-01-09	 Sharks	 • Tyler Kennedy	 	 returned to lineup
+32	2014-01-30	 Sharks	 	 • Tyler Kennedy	 lower body injury (DTD)
+33	2014-02-28	 Sharks	 • Tyler Kennedy	 	 returned to lineup
+34	2014-10-06	 Sharks	 	 • Tyler Kennedy	 placed on IR with undisclosed injury
+35	2014-11-06	 Sharks	 • Tyler Kennedy	 	 activated from IR
+36	2014-11-29	 Sharks	 	 • Tyler Kennedy	 placed on IR with lower body injury
+37	2014-12-04	 Sharks	 • Tyler Kennedy	 	 activated from IR
+38	2014-12-07	 Sharks	 	 • Tyler Kennedy	 placed on IR with shoulder injury
+39	2015-01-13	 Sharks	 • Tyler Kennedy	 	 activated from IR
+40	2015-01-28	 Sharks	 	 • Tyler Kennedy	 lower body injury (DTD)
+41	2015-02-02	 Sharks	 • Tyler Kennedy	 	 returned to lineup
+42	2015-03-03	 Islanders	 	 • Tyler Kennedy	 upper body injury (DTD)
+43	2015-03-09	 Islanders	 • Tyler Kennedy	 	 returned to lineup
+44	2016-01-06	 Devils	 	 • Tyler Kennedy	 upper body injury (DTD)
+45	2016-01-10	 Devils	 • Tyler Kennedy	 	 returned to lineup
+46	2016-03-21	 Devils	 	 • Tyler Kennedy	 lower body injury (DTD)
+47	2016-03-31	 Devils	 • Tyler Kennedy	 	 returned to lineup

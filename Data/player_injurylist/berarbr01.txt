@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-03-11	 Maple Leafs	 	 • Bryan Berard	 eye injury (out indefininitely)
+1	2005-12-20	 Blue Jackets	 	 • Bryan Berard	 back injury (DTD)
+2	2005-12-21	 Blue Jackets	 	 • Bryan Berard	 placed on IR with lower back injury
+3	2006-01-05	 Blue Jackets	 • Bryan Berard	 	 activated from IR
+4	2006-01-28	 Blue Jackets	 	 • Bryan Berard	 back injury (DTD)
+5	2006-03-14	 Blue Jackets	 	 • Bryan Berard	 back injury (out for rest of regular season)
+6	2006-09-28	 Blue Jackets	 	 • Bryan Berard	 back injury (DTD)
+7	2006-10-19	 Blue Jackets	 	 • Bryan Berard	 surgery on back (out ~3 months)
+8	2007-01-31	 Blue Jackets	 • Bryan Berard	 	 returned to lineup
+9	2007-03-07	 Blue Jackets	 	 • Bryan Berard	 back injury (out for remainder of regular season)
+10	2007-10-21	 Islanders	 	 • Bryan Berard	 groin injury (DTD)
+11	2007-11-15	 Islanders	 • Bryan Berard	 	 returned to lineup

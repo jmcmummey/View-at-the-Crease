@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-09-26	 Sabres	 	 • Joel Armia	 fractured hand (DTD)
+1	2016-03-08	 Jets	 	 • Joel Armia	 lower body injury (DTD)
+2	2016-03-24	 Jets	 • Joel Armia	 	 returned to lineup
+3	2016-11-04	 Jets	 	 • Joel Armia	 lower body injury (DTD)
+4	2016-11-04	 Jets	 	 • Joel Armia	 placed on IR with lower body injury
+5	2016-11-08	 Jets	 	 • Joel Armia	 placed on IR with lower body injury
+6	2016-12-22	 Jets	 • Joel Armia	 	 activated from IR
+7	2017-10-27	 Jets	 	 • Joel Armia	 undisclosed (DTD)
+8	2017-10-29	 Jets	 • Joel Armia	 	 returned to lineup
+9	2018-04-27	 Jets	 	 • Joel Armia	 upper body injury (DTD)
+10	2018-05-03	 Jets	 • Joel Armia	 	 returned to lineup
+11	2018-11-08	 Canadiens	 	 • Joel Armia	 knee injury (DTD)
+12	2018-11-09	 Canadiens	 	 • Joel Armia	 placed on IR with knee injury
+13	2019-01-03	 Canadiens	 • Joel Armia	 	 activated from IR
+14	2019-10-19	 Canadiens	 	 • Joel Armia	 lower body injury (DTD)
+15	2019-10-24	 Canadiens	 • Joel Armia	 	 returned to lineup
+16	2019-12-28	 Canadiens	 	 • Joel Armia	 placed on IR with hand injury
+17	2020-01-16	 Canadiens	 • Joel Armia	 	 activated from IR

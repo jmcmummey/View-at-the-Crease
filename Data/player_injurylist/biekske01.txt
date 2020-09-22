@@ -1,0 +1,46 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-04-25	 Canucks	 	 • Kevin Bieksa	 unknown injury (DTD)
+1	2007-05-01	 Canucks	 • Kevin Bieksa	 	 returned to lineup
+2	2007-11-03	 Canucks	 	 • Kevin Bieksa	 lacerated calf (out indefinitely)
+3	2008-02-20	 Canucks	 • Kevin Bieksa	 	 returned to lineup
+4	2008-02-21	 Canucks	 • Kevin Bieksa	 	 activated from IR
+5	2008-10-13	 Canucks	 	 • Kevin Bieksa	 left knee injury (DTD)
+6	2008-10-19	 Canucks	 • Kevin Bieksa	 	 returned to lineup
+7	2008-11-13	 Canucks	 	 • Kevin Bieksa	 placed on IR with broken foot
+8	2008-11-27	 Canucks	 • Kevin Bieksa	 	 activated from IR
+9	2009-12-30	 Canucks	 	 • Kevin Bieksa	 lacerated leg (out indefinitely)
+10	2010-03-13	 Canucks	 • Kevin Bieksa	 	 returned to lineup
+11	2010-11-26	 Canucks	 	 • Kevin Bieksa	 flu (DTD)
+12	2010-12-01	 Canucks	 • Kevin Bieksa	 	 returned to lineup
+13	2011-02-17	 Canucks	 	 • Kevin Bieksa	 fractured left foot (DTD)
+14	2011-03-08	 Canucks	 	 • Kevin Bieksa	 placed on IR with fractured left foot
+15	2011-03-23	 Canucks	 • Kevin Bieksa	 	 activated from IR
+16	2012-03-30	 Canucks	 	 • Kevin Bieksa	 undisclosed (DTD)
+17	2012-04-05	 Canucks	 • Kevin Bieksa	 	 returned to lineup
+18	2013-02-22	 Canucks	 	 • Kevin Bieksa	 groin injury (DTD)
+19	2013-03-02	 Canucks	 • Kevin Bieksa	 	 returned to lineup
+20	2013-03-03	 Canucks	 	 • Kevin Bieksa	 groin injury (DTD)
+21	2013-03-14	 Canucks	 • Kevin Bieksa	 	 returned to lineup
+22	2013-04-16	 Canucks	 	 • Kevin Bieksa	 lower body injury (DTD)
+23	2013-04-27	 Canucks	 • Kevin Bieksa	 	 returned to lineup
+24	2014-01-30	 Canucks	 	 • Kevin Bieksa	 placed on IR with bruised foot
+25	2014-02-26	 Canucks	 • Kevin Bieksa	 	 activated from IR
+26	2015-01-21	 Canucks	 	 • Kevin Bieksa	 fractured hand (DTD)
+27	2015-01-30	 Canucks	 	 • Kevin Bieksa	 placed on IR with fractured hand
+28	2015-03-13	 Canucks	 • Kevin Bieksa	 	 activated from IR
+29	2016-03-14	 Ducks	 	 • Kevin Bieksa	 lower body injury (DTD)
+30	2016-03-18	 Ducks	 • Kevin Bieksa	 	 returned to lineup
+31	2016-03-25	 Ducks	 	 • Kevin Bieksa	 upper body injury (DTD)
+32	2016-04-17	 Ducks	 • Kevin Bieksa	 	 returned to lineup
+33	2017-03-24	 Ducks	 	 • Kevin Bieksa	 facial injury (DTD)
+34	2017-03-26	 Ducks	 • Kevin Bieksa	 	 returned to lineup
+35	2017-04-28	 Ducks	 	 • Kevin Bieksa	 lower body injury (DTD)
+36	2017-05-07	 Ducks	 • Kevin Bieksa	 	 returned to lineup
+37	2017-05-10	 Ducks	 	 • Kevin Bieksa	 lower body injury (DTD)
+38	2017-05-13	 Ducks	 • Kevin Bieksa	 	 returned to lineup
+39	2017-05-16	 Ducks	 	 • Kevin Bieksa	 lower body injury (DTD)
+40	2017-05-18	 Ducks	 • Kevin Bieksa	 	 returned to lineup
+41	2017-10-26	 Ducks	 	 • Kevin Bieksa	 placed on IR with left hand injury
+42	2017-11-03	 Ducks	 • Kevin Bieksa	 	 activated from IR
+43	2018-03-16	 Ducks	 	 • Kevin Bieksa	 placed on IR with hand injury
+44	2018-04-14	 Ducks	 • Kevin Bieksa	 	 activated from IR

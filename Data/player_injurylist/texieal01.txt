@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-26	 Blue Jackets	 	 • Alexandre Texier	 placed on IR with knee injury
+1	2019-11-06	 Blue Jackets	 • Alexandre Texier	 	 activated from IR
+2	2020-01-01	 Blue Jackets	 	 • Alexandre Texier	 placed on IR with lumbar stress fracture
+3	2020-06-30	 Blue Jackets	 • Alexandre Texier	 	 activated from IR

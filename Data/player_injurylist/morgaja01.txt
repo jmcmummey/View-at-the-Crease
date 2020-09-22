@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-09-18	 Kings	 	 • Jason Morgan	 knee tendinitis (DTD)
+1	2006-11-09	 Wild	 	 • Jason Morgan	 thigh injury (out indefinitely)
+2	2006-11-11	 Wild	 	 • Jason Morgan	 placed on IR with thigh injury
+3	2006-12-11	 Wild	 • Jason Morgan	 	 activated from IR

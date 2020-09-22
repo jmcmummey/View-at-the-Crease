@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-02-02	 Flames	 	 • Karri Ramo	 sprained MCL in right knee (DTD)
+1	2014-03-01	 Flames	 	 • Karri Ramo	 placed on IR withi sprained MCL in right knee
+2	2014-03-22	 Flames	 • Karri Ramo	 	 activated from IR
+3	2015-01-08	 Flames	 	 • Karri Ramo	 placed on IR with upper body injury
+4	2015-01-20	 Flames	 • Karri Ramo	 	 activated from IR
+5	2015-01-21	 Flames	 	 • Karri Ramo	 upper body injury (DTD)
+6	2015-01-27	 Flames	 • Karri Ramo	 	 returned to lineup
+7	2015-04-04	 Flames	 	 • Karri Ramo	 leg injury (out for season)
+8	2016-02-12	 Flames	 	 • Karri Ramo	 placed on IR recovering from surgery to repair ACL in knee (out for season)

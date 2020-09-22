@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-17	 Avalanche	 	 • Reto Berra	 head injury (DTD)
+1	2014-10-21	 Avalanche	 • Reto Berra	 	 returned to lineup
+2	2015-12-21	 Avalanche	 	 • Reto Berra	 ankle injury (DTD)
+3	2015-12-28	 Avalanche	 	 • Reto Berra	 placed on IR with ankle injury
+4	2016-02-20	 Avalanche	 • Reto Berra	 	 activated from IR

@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-01-04	 Coyotes	 	 • Mike Johnson (b)	 placed on IR
+1	2003-11-01	 Coyotes	 	 • Mike Johnson (b)	 shoulder injury (out indefinitely)
+2	2005-10-18	 Coyotes	 	 • Mike Johnson (b)	 flu (DTD)
+3	2005-10-20	 Coyotes	 • Mike Johnson (b)	 	 returned to lineup
+4	2006-01-16	 Coyotes	 	 • Mike Johnson (b)	 neck injury (DTD)
+5	2006-01-19	 Coyotes	 • Mike Johnson (b)	 	 returned to lineup
+6	2007-02-13	 Canadiens	 	 • Mike Johnson (b)	 flu (DTD)
+7	2007-02-17	 Canadiens	 • Mike Johnson (b)	 	 returned to lineup
+8	2008-01-10	 Blues	 	 • Mike Johnson (b)	 shoulder injury (out for season)

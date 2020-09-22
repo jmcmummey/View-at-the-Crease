@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-11-15	 Flyers	 	 • Brian Boucher	 strained left hamstring (DTD)
+1	2001-12-09	 Flyers	 • Brian Boucher	 	 returned to lineup
+2	2005-09-16	 Coyotes	 	 • Brian Boucher	 pulled groin (DTD)
+3	2005-10-03	 Coyotes	 	 • Brian Boucher	 pulled groin (out indefinitely)
+4	2005-10-04	 Coyotes	 	 • Brian Boucher	 placed on IR with pulled groin
+5	2005-10-23	 Coyotes	 	 • Brian Boucher	 groin injury (DTD)
+6	2005-11-05	 Coyotes	 	 • Brian Boucher	 placed on IR with groin pull
+7	2005-11-10	 Coyotes	 	 • Brian Boucher	 pulled groin (out indefinitely)
+8	2005-12-01	 Coyotes	 • Brian Boucher	 	 returned to lineup
+9	2007-04-01	 Blue Jackets	 	 • Brian Boucher	 shoulder injury (out indefinitely)
+10	2008-03-07	 Sharks	 	 • Brian Boucher	 right shoulder injury (DTD)
+11	2009-09-28	 Flyers	 	 • Brian Boucher	 lower body injury (DTD)
+12	2009-09-30	 Flyers	 	 • Brian Boucher	 placed on IR with lower body injury
+13	2009-10-08	 Flyers	 • Brian Boucher	 	 activated from IR
+14	2009-12-22	 Flyers	 	 • Brian Boucher	 lacerated finger (DTD)
+15	2009-12-26	 Flyers	 • Brian Boucher	 	 returned to lineup
+16	2010-05-11	 Flyers	 	 • Brian Boucher	 sprained MCL in left knee (DTD)
+17	2010-05-29	 Flyers	 • Brian Boucher	 	 returned to lineup
+18	2011-12-06	 Hurricanes	 	 • Brian Boucher	 lower body injury (DTD)
+19	2011-12-11	 Hurricanes	 	 • Brian Boucher	 placed on IR with lower body injury
+20	2012-03-02	 Hurricanes	 • Brian Boucher	 	 activated from IR

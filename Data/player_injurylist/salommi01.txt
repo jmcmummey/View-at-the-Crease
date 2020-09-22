@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-26	 Predators	 	 • Miikka Salomaki / Miika Salomaki	 placed on IR with undisclosed injury
+1	2015-12-07	 Predators	 • Miikka Salomaki / Miika Salomaki	 	 activated from IR
+2	2016-04-05	 Predators	 	 • Miikka Salomaki / Miika Salomaki	 lower body injury (out for season)
+3	2016-10-15	 Predators	 	 • Miikka Salomaki / Miika Salomaki	 placed on IR with upper body injury
+4	2016-10-18	 Predators	 	 • Miikka Salomaki / Miika Salomaki	 placed on IR with upper body injury
+5	2017-04-04	 Predators	 • Miikka Salomaki / Miika Salomaki	 	 activated from IR
+6	2017-05-12	 Predators	 	 • Miikka Salomaki / Miika Salomaki	 undisclosed (DTD)
+7	2017-05-20	 Predators	 • Miikka Salomaki / Miika Salomaki	 	 returned to lineup
+8	2019-01-05	 Predators	 	 • Miikka Salomaki / Miika Salomaki	 upper body injury (DTD)
+9	2019-01-07	 Predators	 	 • Miikka Salomaki / Miika Salomaki	 placed on IR with upper body injury
+10	2019-03-27	 Predators	 • Miikka Salomaki / Miika Salomaki	 	 activated from IR

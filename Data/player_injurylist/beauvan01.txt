@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-01-24	 Islanders	 	 • Anthony Beauvillier	 foot injury (DTD)
+1	2017-01-26	 Islanders	 • Anthony Beauvillier	 	 returned to lineup
+2	2017-03-02	 Islanders	 	 • Anthony Beauvillier	 illness (DTD)
+3	2017-03-03	 Islanders	 • Anthony Beauvillier	 	 returned to lineup
+4	2017-11-11	 Islanders	 	 • Anthony Beauvillier	 leg injury (DTD)
+5	2017-11-18	 Islanders	 • Anthony Beauvillier	 	 returned to lineup
+6	2018-10-20	 Islanders	 	 • Anthony Beauvillier	 illness (DTD)
+7	2018-10-24	 Islanders	 • Anthony Beauvillier	 	 returned to lineup

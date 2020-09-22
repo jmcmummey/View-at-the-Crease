@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-12-29	 Rangers	 	 • Tony Amonte	 separated shoulder (out indefinitely)
+1	2005-12-31	 Flames	 	 • Tony Amonte	 rib injury (DTD)
+2	2006-01-06	 Flames	 • Tony Amonte	 	 returned to lineup

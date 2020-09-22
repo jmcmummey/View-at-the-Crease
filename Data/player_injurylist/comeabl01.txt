@@ -1,0 +1,35 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-18	 Islanders	 	 • Blake Comeau	 head injury (left game)
+1	2009-04-09	 Islanders	 	 • Blake Comeau	 broken wrist (out for season)
+2	2009-10-03	 Islanders	 	 • Blake Comeau	 illness (DTD)
+3	2009-10-08	 Islanders	 • Blake Comeau	 	 returned to lineup
+4	2009-11-11	 Islanders	 	 • Blake Comeau	 illness (DTD)
+5	2009-11-13	 Islanders	 • Blake Comeau	 	 returned to lineup
+6	2010-03-09	 Islanders	 	 • Blake Comeau	 sore back (Y) / facial injury (CBC) (DTD)
+7	2010-03-11	 Islanders	 • Blake Comeau	 	 returned to lineup
+8	2010-04-07	 Islanders	 	 • Blake Comeau	 broken foot (out for season)
+9	2011-02-03	 Islanders	 	 • Blake Comeau	 concussion (DTD)
+10	2011-02-10	 Islanders	 	 • Blake Comeau	 placed on IR with concussion
+11	2011-02-13	 Islanders	 • Blake Comeau	 	 activated from IR
+12	2012-03-04	 Flames	 	 • Blake Comeau	 shoulder injury (DTD)
+13	2012-03-13	 Flames	 • Blake Comeau	 	 returned to lineup
+14	2014-01-10	 Blue Jackets	 	 • Blake Comeau	 placed on IR with sprained left knee
+15	2014-01-26	 Blue Jackets	 • Blake Comeau	 	 activated from IR
+16	2014-01-30	 Blue Jackets	 	 • Blake Comeau	 sprained left knee (DTD)
+17	2014-03-08	 Blue Jackets	 • Blake Comeau	 	 returned to lineup
+18	2014-11-14	 Penguins	 	 • Blake Comeau	 illness (DTD)
+19	2014-11-15	 Penguins	 • Blake Comeau	 	 returned to lineup
+20	2014-12-23	 Penguins	 	 • Blake Comeau	 placed on IR with wrist injury
+21	2015-02-11	 Penguins	 • Blake Comeau	 	 activated from IR
+22	2016-11-06	 Avalanche	 	 • Blake Comeau	 groin injury (DTD)
+23	2016-11-15	 Avalanche	 • Blake Comeau	 	 returned to lineup
+24	2017-04-04	 Avalanche	 	 • Blake Comeau	 leg injury (DTD)
+25	2017-04-06	 Avalanche	 • Blake Comeau	 	 returned to lineup
+26	2018-02-10	 Avalanche	 	 • Blake Comeau	 upper body injury (DTD)
+27	2018-02-16	 Avalanche	 • Blake Comeau	 	 returned to lineup
+28	2019-02-14	 Stars	 	 • Blake Comeau	 upper body injury (DTD)
+29	2019-02-21	 Stars	 • Blake Comeau	 	 returned to lineup
+30	2019-03-17	 Stars	 	 • Blake Comeau	 undisclosed (DTD)
+31	2019-03-19	 Stars	 • Blake Comeau	 	 returned to lineup
+32	2019-10-04	 Stars	 	 • Blake Comeau	 placed on IR with lower body injury
+33	2019-11-02	 Stars	 • Blake Comeau	 	 activated from IR

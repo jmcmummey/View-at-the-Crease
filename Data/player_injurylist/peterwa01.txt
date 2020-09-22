@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-09-25	 Stars	 	 • Warren Peters	 placed on IR with fractured orbital bone
+1	2009-10-09	 Stars	 • Warren Peters	 	 activated from IR
+2	2012-04-01	 Wild	 	 • Warren Peters	 pinched nerve (DTD)
+3	2012-04-03	 Wild	 • Warren Peters	 	 returned to lineup

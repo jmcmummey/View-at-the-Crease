@@ -1,0 +1,45 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-09	 Stars	 	 • Mike Smith (b. 1982-03-22)	 concussion (DTD)
+1	2007-01-14	 Stars	 	 • Mike Smith (b. 1982-03-22)	 placed on IR with concussion
+2	2007-01-23	 Stars	 • Mike Smith (b. 1982-03-22)	 	 activated from IR
+3	2007-10-10	 Stars	 	 • Mike Smith (b. 1982-03-22)	 placed on IR with arm injury
+4	2007-10-17	 Stars	 • Mike Smith (b. 1982-03-22)	 	 activated from IR
+5	2008-03-25	 Lightning	 	 • Mike Smith (b. 1982-03-22)	 sprained left knee (DTD)
+6	2008-03-31	 Lightning	 • Mike Smith (b. 1982-03-22)	 	 returned to lineup
+7	2008-11-23	 Lightning	 	 • Mike Smith (b. 1982-03-22)	 lower body injury (DTD)
+8	2009-02-03	 Lightning	 	 • Mike Smith (b. 1982-03-22)	 post-concussion (out for season)
+9	2010-01-13	 Lightning	 	 • Mike Smith (b. 1982-03-22)	 neck injury (DTD)
+10	2010-01-27	 Lightning	 • Mike Smith (b. 1982-03-22)	 	 activated from IR
+11	2010-12-20	 Lightning	 	 • Mike Smith (b. 1982-03-22)	 placed on IR with left knee injury
+12	2011-01-25	 Lightning	 • Mike Smith (b. 1982-03-22)	 	 activated from IR
+13	2011-12-21	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 groin injury (DTD)
+14	2011-12-26	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 placed on IR with groin injury
+15	2012-01-03	 Coyotes	 • Mike Smith (b. 1982-03-22)	 	 activated from IR
+16	2013-01-24	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 lower body injury (DTD)
+17	2013-01-28	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 placed on IR with groin injury
+18	2013-02-01	 Coyotes	 • Mike Smith (b. 1982-03-22)	 	 activated from IR
+19	2013-03-22	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 head injury (DTD)
+20	2013-03-26	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 placed on IR with head injury
+21	2013-04-06	 Coyotes	 • Mike Smith (b. 1982-03-22)	 	 activated from IR
+22	2013-04-15	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 lower body injury (DTD)
+23	2013-04-20	 Coyotes	 • Mike Smith (b. 1982-03-22)	 	 returned to lineup
+24	2014-03-25	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 leg injury (out for season)
+25	2015-11-21	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 lower body injury (DTD)
+26	2015-11-24	 Coyotes	 • Mike Smith (b. 1982-03-22)	 	 returned to lineup
+27	2015-12-11	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 lower body injury (DTD)
+28	2015-12-12	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 placed on IR with lower body injury
+29	2016-03-12	 Coyotes	 • Mike Smith (b. 1982-03-22)	 	 activated from IR
+30	2016-10-19	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 placed on IR with lower body injury
+31	2016-10-21	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 placed on IR with lower body injury
+32	2016-11-15	 Coyotes	 • Mike Smith (b. 1982-03-22)	 	 activated from IR
+33	2017-02-24	 Coyotes	 	 • Mike Smith (b. 1982-03-22)	 illness (DTD)
+34	2017-02-26	 Coyotes	 • Mike Smith (b. 1982-03-22)	 	 returned to lineup
+35	2017-11-15	 Flames	 	 • Mike Smith (b. 1982-03-22)	 undisclosed (DTD)
+36	2017-11-17	 Flames	 • Mike Smith (b. 1982-03-22)	 	 returned to lineup
+37	2018-02-13	 Flames	 	 • Mike Smith (b. 1982-03-22)	 groin injury (DTD)
+38	2018-02-24	 Flames	 	 • Mike Smith (b. 1982-03-22)	 placed on IR with groin injury
+39	2018-03-11	 Flames	 • Mike Smith (b. 1982-03-22)	 	 activated from IR
+40	2018-12-14	 Flames	 	 • Mike Smith (b. 1982-03-22)	 undisclosed (DTD)
+41	2018-12-16	 Flames	 • Mike Smith (b. 1982-03-22)	 	 returned to lineup
+42	2019-12-01	 Oilers	 	 • Mike Smith (b. 1982-03-22)	 leg injury (DTD)
+43	2019-12-03	 Oilers	 • Mike Smith (b. 1982-03-22)	 	 returned to lineup

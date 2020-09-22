@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-10-01	 Flyers	 	 • Chris Simon	 surgery on shoulder (out indefinitely) (date approximate)
+1	2005-10-29	 Flames	 	 • Chris Simon	 torso injury (DTD)
+2	2005-11-12	 Flames	 • Chris Simon	 	 returned to lineup
+3	2008-03-06	 Wild	 	 • Chris Simon	 flu (DTD)
+4	2008-03-13	 Wild	 • Chris Simon	 	 returned to lineup

@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-22	 Coyotes	 	 • Peter Mueller	 leg injury (DTD)
+1	2008-12-23	 Coyotes	 • Peter Mueller	 	 returned to lineup
+2	2009-01-29	 Coyotes	 	 • Peter Mueller	 placed on IR with concussion
+3	2009-02-13	 Coyotes	 • Peter Mueller	 	 activated from IR
+4	2009-11-29	 Coyotes	 	 • Peter Mueller	 upper body injury (DTD)
+5	2009-12-07	 Coyotes	 • Peter Mueller	 	 returned to lineup
+6	2010-04-06	 Avalanche	 	 • Peter Mueller	 concussion (out for season)
+7	2010-09-24	 Avalanche	 	 • Peter Mueller	 placed on IR with concussion (out for season)
+8	2011-10-15	 Avalanche	 	 • Peter Mueller	 head injury (DTD) (CBC)
+9	2011-11-16	 Avalanche	 	 • Peter Mueller	 placed on IR with concussion
+10	2012-01-11	 Avalanche	 • Peter Mueller	 	 activated from IR
+11	2012-02-04	 Avalanche	 	 • Peter Mueller	 flu (DTD)
+12	2012-02-07	 Avalanche	 • Peter Mueller	 	 returned to lineup
+13	2012-02-15	 Avalanche	 	 • Peter Mueller	 torso injury (DTD)
+14	2012-02-19	 Avalanche	 	 • Peter Mueller	 placed on IR with upper body injury
+15	2012-02-27	 Avalanche	 • Peter Mueller	 	 activated from IR

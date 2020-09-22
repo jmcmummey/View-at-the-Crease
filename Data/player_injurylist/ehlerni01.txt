@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-03-04	 Jets	 	 • Nikolaj Ehlers / Nik Ehlers	 eye injury (DTD)
+1	2016-03-24	 Jets	 • Nikolaj Ehlers / Nik Ehlers	 	 returned to lineup
+2	2018-04-20	 Jets	 	 • Nikolaj Ehlers / Nik Ehlers	 undisclosed injury (DTD)
+3	2018-04-27	 Jets	 • Nikolaj Ehlers / Nik Ehlers	 	 returned to lineup
+4	2018-05-16	 Jets	 	 • Nikolaj Ehlers / Nik Ehlers	 illness (DTD)
+5	2018-05-18	 Jets	 • Nikolaj Ehlers / Nik Ehlers	 	 returned to lineup
+6	2019-01-04	 Jets	 	 • Nikolaj Ehlers / Nik Ehlers	 placed on IR with left shoulder injury
+7	2019-01-05	 Jets	 	 • Nikolaj Ehlers / Nik Ehlers	 left shoulder injury (DTD)
+8	2019-02-22	 Jets	 • Nikolaj Ehlers / Nik Ehlers	 	 activated from IR

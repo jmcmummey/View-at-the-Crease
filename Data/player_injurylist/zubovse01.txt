@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-03-03	 Stars	 	 • Sergei Zubov	 placed on IR
+1	1998-03-26	 Stars	 • Sergei Zubov	 	 activated from IR
+2	2005-10-20	 Stars	 	 • Sergei Zubov	 back spasms (DTD)
+3	2005-10-26	 Stars	 • Sergei Zubov	 	 returned to lineup
+4	2006-03-31	 Stars	 	 • Sergei Zubov	 lower body injury (DTD)
+5	2006-04-03	 Stars	 • Sergei Zubov	 	 returned to lineup
+6	2007-01-06	 Stars	 	 • Sergei Zubov	 back spasms (DTD)
+7	2007-01-09	 Stars	 • Sergei Zubov	 	 returned to lineup
+8	2007-01-12	 Stars	 	 • Sergei Zubov	 surgery on elbow (out 2-3 weeks)
+9	2007-01-14	 Stars	 	 • Sergei Zubov	 placed on IR with elbow injury
+10	2007-01-26	 Stars	 • Sergei Zubov	 	 activated from IR
+11	2007-04-23	 Stars	 	 • Sergei Zubov	 torso injury (DTD)
+12	2008-01-02	 Stars	 	 • Sergei Zubov	 hand injury (DTD)
+13	2008-01-05	 Stars	 • Sergei Zubov	 	 returned to lineup
+14	2008-01-12	 Stars	 	 • Sergei Zubov	 bruised foot (DTD)
+15	2008-01-15	 Stars	 • Sergei Zubov	 	 returned to lineup
+16	2008-01-19	 Stars	 	 • Sergei Zubov	 foot injury (DTD)
+17	2008-02-07	 Stars	 	 • Sergei Zubov	 placed on IR with foot injury
+18	2008-04-27	 Stars	 • Sergei Zubov	 	 activated from IR
+19	2008-09-19	 Stars	 	 • Sergei Zubov	 placed on IR with surgery on hip
+20	2008-11-07	 Stars	 • Sergei Zubov	 	 activated from IR
+21	2008-11-30	 Stars	 	 • Sergei Zubov	 undisclosed injury (DTD)
+22	2008-12-11	 Stars	 	 • Sergei Zubov	 placed on IR
+23	2009-02-17	 Stars	 	 • Sergei Zubov	 surgery on hip (out for season)

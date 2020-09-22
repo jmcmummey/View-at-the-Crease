@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-07	 Senators	 	 • David Dziurzynski / Dave Dziurzynski	 concussion (out indefinitely)
+1	2013-03-13	 Senators	 	 • David Dziurzynski / Dave Dziurzynski	 placed on IR with concussion
+2	2013-03-23	 Senators	 • David Dziurzynski / Dave Dziurzynski	 	 activated from IR
+3	2016-02-05	 Senators	 	 • David Dziurzynski / Dave Dziurzynski	 placed on IR with undisclosed injury
+4	2016-02-22	 Senators	 • David Dziurzynski / Dave Dziurzynski	 	 activated from IR

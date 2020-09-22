@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-11-17	 Kings	 • Mark Visheau	 	 activated
+1	1999-02-08	 Kings	 	 • Mark Visheau	 surgery on urinary tract (out for season)

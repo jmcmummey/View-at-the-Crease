@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-25	 Devils	 	 • Brad Mills	 undisclosed (DTD)
+1	2013-10-31	 Blackhawks	 	 • Brad Mills	 lower body injury (DTD)
+2	2013-11-09	 Blackhawks	 	 • Brad Mills	 placed on IR with lower body injury
+3	2013-11-15	 Blackhawks	 • Brad Mills	 	 activated from IR

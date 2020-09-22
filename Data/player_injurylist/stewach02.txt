@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-11-28	 Avalanche	 	 • Chris Stewart (a)	 placed on IR with broken left hand
+1	2011-01-14	 Avalanche	 • Chris Stewart (a)	 	 activated from IR
+2	2014-03-07	 Sabres	 	 • Chris Stewart (a)	 right knee injury (DTD)
+3	2014-04-08	 Sabres	 • Chris Stewart (a)	 	 returned to lineup
+4	2014-04-13	 Sabres	 	 • Chris Stewart (a)	 lower body injury (out for season)
+5	2015-01-12	 Sabres	 	 • Chris Stewart (a)	 flu/illness (DTD)
+6	2015-01-14	 Sabres	 • Chris Stewart (a)	 	 returned to lineup
+7	2015-05-05	 Wild	 	 • Chris Stewart (a)	 arm injury (out for season)
+8	2016-02-12	 Ducks	 	 • Chris Stewart (a)	 placed on IR with jaw injury
+9	2016-03-24	 Ducks	 • Chris Stewart (a)	 	 activated from IR
+10	2017-04-04	 Wild	 	 • Chris Stewart (a)	 illness (DTD)
+11	2017-04-08	 Wild	 • Chris Stewart (a)	 	 returned to lineup
+12	2020-01-11	 Flyers	 	 • Chris Stewart (a)	 illness (DTD)
+13	2020-01-15	 Flyers	 • Chris Stewart (a)	 	 returned to lineup

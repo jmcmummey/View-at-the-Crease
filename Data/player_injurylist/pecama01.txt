@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-12-11	 Canadiens	 	 • Matthew Peca	 right knee injury (DTD)
+1	2019-12-14	 Canadiens	 	 • Matthew Peca	 placed on IR with right knee injury
+2	2020-01-11	 Canadiens	 • Matthew Peca	 	 activated from IR

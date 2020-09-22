@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-03-05	 Hurricanes	 	 • Glen Wesley	 placed on IR
+1	2005-11-09	 Hurricanes	 	 • Glen Wesley	 groin injury (DTD)
+2	2005-11-17	 Hurricanes	 	 • Glen Wesley	 placed on IR with groin injury
+3	2005-11-25	 Hurricanes	 • Glen Wesley	 	 activated from IR
+4	2006-01-04	 Hurricanes	 	 • Glen Wesley	 knee injury (out until early Feb)
+5	2006-01-25	 Hurricanes	 • Glen Wesley	 	 returned to lineup
+6	2006-10-14	 Hurricanes	 	 • Glen Wesley	 lower body injury (DTD)
+7	2006-10-25	 Hurricanes	 • Glen Wesley	 	 returned to lineup
+8	2007-01-06	 Hurricanes	 	 • Glen Wesley	 lower body injury (DTD)
+9	2007-01-16	 Hurricanes	 • Glen Wesley	 	 returned to lineup
+10	2007-03-28	 Hurricanes	 	 • Glen Wesley	 left foot injury (DTD)
+11	2008-01-08	 Hurricanes	 	 • Glen Wesley	 illness (DTD)
+12	2008-01-12	 Hurricanes	 	 • Glen Wesley	 placed on IR with illness
+13	2008-01-13	 Hurricanes	 • Glen Wesley	 	 activated from IR

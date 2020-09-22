@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-22	 Islanders	 	 • Brent Sopel	 wrist injury (DTD)
+1	2005-10-29	 Islanders	 • Brent Sopel	 	 returned to lineup
+2	2006-03-09	 Kings	 	 • Brent Sopel	 knee injury (DTD)
+3	2006-03-16	 Kings	 • Brent Sopel	 	 returned to lineup
+4	2006-03-25	 Kings	 	 • Brent Sopel	 knee injury (DTD)
+5	2006-03-26	 Kings	 • Brent Sopel	 	 returned to lineup
+6	2006-04-13	 Kings	 	 • Brent Sopel	 knee injury (DTD)
+7	2006-10-27	 Kings	 	 • Brent Sopel	 ankle injury (DTD)
+8	2006-10-30	 Kings	 • Brent Sopel	 	 returned to lineup
+9	2006-11-10	 Kings	 	 • Brent Sopel	 broken right ankle (out indefinitely)
+10	2006-11-11	 Kings	 	 • Brent Sopel	 placed on IR with broken right ankle
+11	2006-12-13	 Kings	 • Brent Sopel	 	 activated from IR
+12	2007-04-11	 Canucks	 	 • Brent Sopel	 back spasms (DTD)
+13	2007-04-13	 Canucks	 • Brent Sopel	 	 returned to lineup
+14	2007-11-14	 Blackhawks	 	 • Brent Sopel	 flu (DTD)
+15	2007-11-17	 Blackhawks	 • Brent Sopel	 	 returned to lineup
+16	2007-12-30	 Blackhawks	 	 • Brent Sopel	 placed on IR with broken finger
+17	2008-01-11	 Blackhawks	 • Brent Sopel	 	 activated from IR
+18	2008-02-24	 Blackhawks	 	 • Brent Sopel	 left wrist injury (out 3-4 weeks)
+19	2008-03-16	 Blackhawks	 • Brent Sopel	 	 returned to lineup
+20	2008-11-09	 Blackhawks	 	 • Brent Sopel	 undisclosed injury (DTD)
+21	2008-11-14	 Blackhawks	 • Brent Sopel	 	 returned to lineup
+22	2008-11-18	 Blackhawks	 	 • Brent Sopel	 elbow injury (out for season)
+23	2008-12-30	 Blackhawks	 	 • Brent Sopel	 placed on IR with elbow injury (out for season)
+24	2010-01-26	 Blackhawks	 	 • Brent Sopel	 soreness (DTD)
+25	2010-01-28	 Blackhawks	 • Brent Sopel	 	 returned to lineup
+26	2010-02-14	 Blackhawks	 	 • Brent Sopel	 foot injury (DTD)
+27	2010-03-02	 Blackhawks	 • Brent Sopel	 	 returned to lineup
+28	2010-03-07	 Blackhawks	 	 • Brent Sopel	 lower body injury (DTD)
+29	2010-03-10	 Blackhawks	 • Brent Sopel	 	 returned to lineup
+30	2011-03-10	 Canadiens	 	 • Brent Sopel	 left hand injury (DTD)
+31	2011-03-24	 Canadiens	 • Brent Sopel	 	 returned to lineup

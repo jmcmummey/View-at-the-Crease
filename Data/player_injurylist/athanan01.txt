@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-11-11	 Red Wings	 	 • Andreas Athanasiou	 placed on IR with sprained knee
+1	2016-12-08	 Red Wings	 • Andreas Athanasiou	 	 activated from IR
+2	2017-03-28	 Red Wings	 	 • Andreas Athanasiou	 upper body injury (DTD)
+3	2017-03-30	 Red Wings	 • Andreas Athanasiou	 	 returned to lineup
+4	2017-04-06	 Red Wings	 	 • Andreas Athanasiou	 upper body injury (out for season)
+5	2018-02-15	 Red Wings	 	 • Andreas Athanasiou	 illness (DTD)
+6	2018-02-17	 Red Wings	 • Andreas Athanasiou	 	 returned to lineup
+7	2018-10-30	 Red Wings	 	 • Andreas Athanasiou	 undisclosed (DTD)
+8	2018-11-09	 Red Wings	 • Andreas Athanasiou	 	 returned to lineup
+9	2018-12-22	 Red Wings	 	 • Andreas Athanasiou	 upper body injury (DTD)
+10	2018-12-27	 Red Wings	 • Andreas Athanasiou	 	 returned to lineup
+11	2019-10-05	 Red Wings	 	 • Andreas Athanasiou	 undisclosed (DTD)
+12	2019-10-07	 Red Wings	 	 • Andreas Athanasiou	 placed on IR with lower body injury
+13	2019-10-08	 Red Wings	 • Andreas Athanasiou	 	 activated from IR
+14	2019-12-09	 Red Wings	 	 • Andreas Athanasiou	 undisclosed (DTD)
+15	2019-12-14	 Red Wings	 • Andreas Athanasiou	 	 returned to lineup
+16	2019-12-31	 Red Wings	 	 • Andreas Athanasiou	 lower body injury (out indefinitely)
+17	2020-01-07	 Red Wings	 	 • Andreas Athanasiou	 placed on IR with lower body injury
+18	2020-02-03	 Red Wings	 • Andreas Athanasiou	 	 activated from IR
+19	2020-02-27	 Oilers	 	 • Andreas Athanasiou	 lower body injury (DTD)

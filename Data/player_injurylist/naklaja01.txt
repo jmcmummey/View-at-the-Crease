@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-03-06	 Flames	 	 • Jakub Nakladal	 eye injury (DTD)
+1	2016-03-09	 Flames	 • Jakub Nakladal	 	 returned to lineup
+2	2016-04-08	 Flames	 	 • Jakub Nakladal	 undisclosed injury (out for season)
+3	2016-10-11	 Hurricanes	 	 • Jakub Nakladal	 placed on injured/non-roster list with undisclosed injury

@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-16	 Sharks	 	 • Jonathan Cheechoo	 knee injury (DTD)
+1	2006-11-21	 Sharks	 	 • Jonathan Cheechoo	 placed on IR with knee injury
+2	2006-12-02	 Sharks	 • Jonathan Cheechoo	 	 activated from IR
+3	2007-12-11	 Sharks	 	 • Jonathan Cheechoo	 placed on IR with groin injury
+4	2007-12-26	 Sharks	 • Jonathan Cheechoo	 	 activated from IR
+5	2008-03-25	 Sharks	 	 • Jonathan Cheechoo	 sore neck (DTD)
+6	2008-11-08	 Sharks	 	 • Jonathan Cheechoo	 upper body injury (DTD)
+7	2008-11-16	 Sharks	 • Jonathan Cheechoo	 	 returned to lineup
+8	2008-11-29	 Sharks	 	 • Jonathan Cheechoo	 undisclosed injury (DTD)
+9	2008-12-18	 Sharks	 • Jonathan Cheechoo	 	 returned to lineup
+10	2009-03-26	 Sharks	 	 • Jonathan Cheechoo	 lower body injury (DTD)
+11	2009-03-30	 Sharks	 • Jonathan Cheechoo	 	 returned to lineup
+12	2009-04-09	 Sharks	 	 • Jonathan Cheechoo	 undisclosed injury (DTD)
+13	2009-04-16	 Sharks	 • Jonathan Cheechoo	 	 returned to lineup

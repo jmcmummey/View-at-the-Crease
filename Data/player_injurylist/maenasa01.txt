@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-04-29	 Hurricanes	 	 • Saku Maenalanen	 surgery on hand (out indefinitely)
+1	2019-04-30	 Hurricanes	 	 • Saku Maenalanen	 placed on IR recovering from surgery on hand
+2	2019-05-14	 Hurricanes	 • Saku Maenalanen	 	 activated from IR

@@ -1,0 +1,43 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-25	 Senators	 	 • Mark Borowiecki	 strained neck (DTD)
+1	2013-11-28	 Senators	 • Mark Borowiecki	 	 returned to lineup
+2	2014-10-30	 Senators	 	 • Mark Borowiecki	 undisclosed injury (DTD)
+3	2014-11-06	 Senators	 • Mark Borowiecki	 	 returned to lineup
+4	2014-11-28	 Senators	 	 • Mark Borowiecki	 groin injury (DTD)
+5	2014-12-02	 Senators	 • Mark Borowiecki	 	 returned to lineup
+6	2014-12-29	 Senators	 	 • Mark Borowiecki	 placed on IR with leg injury
+7	2015-01-02	 Senators	 	 • Mark Borowiecki	 placed on IR with leg injury (CBC)
+8	2015-01-29	 Senators	 • Mark Borowiecki	 	 activated from IR
+9	2016-02-16	 Senators	 	 • Mark Borowiecki	 upper body injury (DTD)
+10	2016-02-20	 Senators	 • Mark Borowiecki	 	 returned to lineup
+11	2016-03-04	 Senators	 	 • Mark Borowiecki	 knee injury (out for season)
+12	2017-01-19	 Senators	 	 • Mark Borowiecki	 flu (DTD)
+13	2017-02-02	 Senators	 • Mark Borowiecki	 	 returned to lineup
+14	2017-03-09	 Senators	 	 • Mark Borowiecki	 upper body injury (DTD)
+15	2017-03-18	 Senators	 • Mark Borowiecki	 	 returned to lineup
+16	2017-04-17	 Senators	 	 • Mark Borowiecki	 leg injury (out for season)
+17	2017-10-18	 Senators	 	 • Mark Borowiecki	 upper body injury (DTD)
+18	2017-10-24	 Senators	 • Mark Borowiecki	 	 returned to lineup
+19	2017-10-30	 Senators	 	 • Mark Borowiecki	 illness (DTD)
+20	2017-11-10	 Senators	 	 • Mark Borowiecki	 placed on IR with illness
+21	2017-11-13	 Senators	 • Mark Borowiecki	 	 activated from IR
+22	2017-11-20	 Senators	 	 • Mark Borowiecki	 placed on IR with concussion
+23	2018-01-09	 Senators	 • Mark Borowiecki	 	 activated from IR
+24	2018-11-06	 Senators	 	 • Mark Borowiecki	 upper body injury (DTD)
+25	2018-11-08	 Senators	 • Mark Borowiecki	 	 returned to lineup
+26	2018-11-23	 Senators	 	 • Mark Borowiecki	 fractured hand (out indefinitely)
+27	2018-11-27	 Senators	 	 • Mark Borowiecki	 placed on IR with fractured hand
+28	2018-12-17	 Senators	 • Mark Borowiecki	 	 activated from IR
+29	2019-01-19	 Senators	 	 • Mark Borowiecki	 lower body injury (DTD)
+30	2019-01-22	 Senators	 • Mark Borowiecki	 	 returned to lineup
+31	2019-02-14	 Senators	 	 • Mark Borowiecki	 foot injury (DTD)
+32	2019-02-14	 Senators	 	 • Mark Borowiecki	 placed on IR with foot injury
+33	2019-02-25	 Senators	 • Mark Borowiecki	 	 activated from IR
+34	2019-03-14	 Senators	 	 • Mark Borowiecki	 illness (DTD)
+35	2019-03-16	 Senators	 • Mark Borowiecki	 	 returned to lineup
+36	2019-03-30	 Senators	 	 • Mark Borowiecki	 upper body injury (DTD)
+37	2019-04-06	 Senators	 • Mark Borowiecki	 	 returned to lineup
+38	2020-01-10	 Senators	 	 • Mark Borowiecki	 illness (DTD)
+39	2020-01-14	 Senators	 • Mark Borowiecki	 	 returned to lineup
+40	2020-02-14	 Senators	 	 • Mark Borowiecki	 right ankle injury (out indefinitely)
+41	2020-02-20	 Senators	 	 • Mark Borowiecki	 placed on IR with right ankle injury

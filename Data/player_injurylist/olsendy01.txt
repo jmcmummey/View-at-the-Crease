@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-03	 Panthers	 	 • Dylan Olsen	 placed on IR with lower body injury
+1	2014-01-26	 Panthers	 • Dylan Olsen	 	 activated from IR

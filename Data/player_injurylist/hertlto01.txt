@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-20	 Sharks	 	 • Tomas Hertl	 right knee injury (DTD)
+1	2013-12-20	 Sharks	 	 • Tomas Hertl	 placed on IR with bruised right knee
+2	2013-12-29	 Sharks	 	 • Tomas Hertl	 placed on IR with knee injury (CBC)
+3	2014-04-11	 Sharks	 • Tomas Hertl	 	 activated from IR
+4	2015-12-15	 Sharks	 	 • Tomas Hertl	 lower body injury (DTD)
+5	2015-12-17	 Sharks	 • Tomas Hertl	 	 returned to lineup
+6	2016-06-04	 Sharks	 	 • Tomas Hertl	 knee injury (out for season)
+7	2016-11-18	 Sharks	 	 • Tomas Hertl	 placed on IR with right knee injury
+8	2017-01-25	 Sharks	 • Tomas Hertl	 	 activated from IR
+9	2018-02-15	 Sharks	 	 • Tomas Hertl	 undisclosed (DTD)
+10	2018-02-19	 Sharks	 	 • Tomas Hertl	 placed on IR with shoulder injury
+11	2018-02-22	 Sharks	 • Tomas Hertl	 	 activated from IR
+12	2018-11-05	 Sharks	 	 • Tomas Hertl	 head injury (DTD)
+13	2018-11-11	 Sharks	 • Tomas Hertl	 	 returned to lineup
+14	2018-11-14	 Sharks	 	 • Tomas Hertl	 lower body injury (DTD)
+15	2018-11-20	 Sharks	 • Tomas Hertl	 	 returned to lineup
+16	2019-05-21	 Sharks	 	 • Tomas Hertl	 undisclosed (out for season)
+17	2019-11-21	 Sharks	 	 • Tomas Hertl	 lower body injury (DTD)
+18	2019-11-29	 Sharks	 • Tomas Hertl	 	 returned to lineup
+19	2020-01-30	 Sharks	 	 • Tomas Hertl	 torn ACL, MCL in knee (out for season)
+20	2020-02-01	 Sharks	 	 • Tomas Hertl	 placed on IR with torn ACL, MCL in knee

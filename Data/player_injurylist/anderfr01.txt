@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-04-05	 Ducks	 	 • Frederik Andersen	 upper body injury (DTD)
+1	2014-04-12	 Ducks	 • Frederik Andersen	 	 returned to lineup
+2	2014-05-09	 Ducks	 	 • Frederik Andersen	 lower body injury (out for season)
+3	2014-11-02	 Ducks	 	 • Frederik Andersen	 leg injury (DTD)
+4	2014-11-05	 Ducks	 • Frederik Andersen	 	 returned to lineup
+5	2015-02-09	 Ducks	 	 • Frederik Andersen	 placed on IR with head injury
+6	2015-02-27	 Ducks	 • Frederik Andersen	 	 activated from IR
+7	2015-11-24	 Ducks	 	 • Frederik Andersen	 placed on IR with flu
+8	2015-11-30	 Ducks	 	 • Frederik Andersen	 placed on IR with flu (CBC)
+9	2015-12-06	 Ducks	 • Frederik Andersen	 	 activated from IR
+10	2016-01-17	 Ducks	 	 • Frederik Andersen	 upper body injury (DTD)
+11	2016-01-19	 Ducks	 • Frederik Andersen	 	 returned to lineup
+12	2016-04-01	 Ducks	 	 • Frederik Andersen	 concussion (DTD)
+13	2016-04-09	 Ducks	 • Frederik Andersen	 	 returned to lineup
+14	2017-03-28	 Maple Leafs	 	 • Frederik Andersen	 upper body injury (DTD)
+15	2017-03-29	 Maple Leafs	 • Frederik Andersen	 	 returned to lineup
+16	2017-04-09	 Maple Leafs	 	 • Frederik Andersen	 upper body injury (out for season)
+17	2018-03-15	 Maple Leafs	 	 • Frederik Andersen	 upper body injury (DTD)
+18	2018-03-20	 Maple Leafs	 • Frederik Andersen	 	 returned to lineup
+19	2018-10-15	 Maple Leafs	 	 • Frederik Andersen	 knee injury (DTD)
+20	2018-10-18	 Maple Leafs	 • Frederik Andersen	 	 returned to lineup
+21	2018-12-29	 Maple Leafs	 	 • Frederik Andersen	 groin injury (DTD)
+22	2019-01-03	 Maple Leafs	 	 • Frederik Andersen	 placed on IR with groin injury
+23	2019-01-14	 Maple Leafs	 • Frederik Andersen	 	 activated from IR
+24	2020-02-04	 Maple Leafs	 	 • Frederik Andersen	 neck injury (DTD)
+25	2020-02-10	 Maple Leafs	 	 • Frederik Andersen	 placed on IR with neck injury
+26	2020-02-13	 Maple Leafs	 • Frederik Andersen	 	 activated from IR

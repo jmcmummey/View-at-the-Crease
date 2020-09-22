@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-01-04	 Hurricanes	 	 • Clark Bishop	 lower body injury (DTD)
+1	2019-01-19	 Hurricanes	 • Clark Bishop	 	 returned to lineup

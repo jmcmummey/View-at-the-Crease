@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-05	 Thrashers	 	 • Kari Lehtonen	 injured groin (left game)
+1	2005-10-06	 Thrashers	 	 • Kari Lehtonen	 placed on IR with groin injury
+2	2005-12-26	 Thrashers	 • Kari Lehtonen	 	 activated from IR
+3	2006-04-07	 Thrashers	 	 • Kari Lehtonen	 sprained ankle (out indefinitely)
+4	2007-10-19	 Thrashers	 	 • Kari Lehtonen	 placed in IR with groin injury
+5	2007-11-26	 Thrashers	 • Kari Lehtonen	 	 activated from IR
+6	2008-11-01	 Thrashers	 	 • Kari Lehtonen	 flu (DTD)
+7	2008-11-21	 Thrashers	 	 • Kari Lehtonen	 placed on IR with back injury
+8	2008-12-20	 Thrashers	 • Kari Lehtonen	 	 activated from IR
+9	2009-03-28	 Thrashers	 	 • Kari Lehtonen	 upper body injury (DTD)
+10	2009-04-11	 Thrashers	 • Kari Lehtonen	 	 returned to lineup
+11	2010-12-08	 Stars	 	 • Kari Lehtonen	 back injury (DTD)
+12	2010-12-16	 Stars	 • Kari Lehtonen	 	 returned to lineup
+13	2011-11-26	 Stars	 	 • Kari Lehtonen	 placed on IR with groin injury
+14	2011-12-28	 Stars	 • Kari Lehtonen	 	 activated from IR
+15	2013-02-16	 Stars	 	 • Kari Lehtonen	 placed on IR with strained groin
+16	2013-02-27	 Stars	 • Kari Lehtonen	 	 activated from IR
+17	2013-04-10	 Stars	 	 • Kari Lehtonen	 groin injury (DTD)
+18	2013-04-18	 Stars	 • Kari Lehtonen	 	 returned to lineup
+19	2013-10-12	 Stars	 	 • Kari Lehtonen	 placed on IR with lower body injury
+20	2013-10-21	 Stars	 • Kari Lehtonen	 	 activated from IR
+21	2014-03-09	 Stars	 	 • Kari Lehtonen	 concussion (DTD)
+22	2014-03-18	 Stars	 • Kari Lehtonen	 	 returned to lineup
+23	2015-11-25	 Stars	 	 • Kari Lehtonen	 placed on IR with upper body injury
+24	2015-12-02	 Stars	 • Kari Lehtonen	 	 activated from IR

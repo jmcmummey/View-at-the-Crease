@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-09	 Oilers	 	 • Jan Hejda	 dislocated shoulder (out indefinitely)
+1	2009-04-23	 Blue Jackets	 	 • Jan Hejda	 leg injury (DTD)
+2	2009-10-14	 Blue Jackets	 	 • Jan Hejda	 sprained left knee (DTD)
+3	2009-10-16	 Blue Jackets	 	 • Jan Hejda	 placed on IR with sprained left knee
+4	2009-11-04	 Blue Jackets	 • Jan Hejda	 	 activated from IR
+5	2010-03-16	 Blue Jackets	 	 • Jan Hejda	 right knee injury (out for season)
+6	2010-10-28	 Blue Jackets	 	 • Jan Hejda	 strained calf muscle (DTD)
+7	2010-11-02	 Blue Jackets	 • Jan Hejda	 	 returned to lineup
+8	2012-01-18	 Avalanche	 	 • Jan Hejda	 groin injury (DTD)
+9	2012-01-21	 Avalanche	 • Jan Hejda	 	 returned to lineup
+10	2013-12-06	 Avalanche	 	 • Jan Hejda	 bruised knee (DTD)
+11	2013-12-14	 Avalanche	 • Jan Hejda	 	 returned to lineup
+12	2015-02-22	 Avalanche	 	 • Jan Hejda	 knee injury (DTD)
+13	2015-02-24	 Avalanche	 • Jan Hejda	 	 returned to lineup

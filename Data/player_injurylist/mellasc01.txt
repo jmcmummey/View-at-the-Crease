@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-10-20	 Panthers	 	 • Scott Mellanby	 placed on IR with concussion
+1	2005-10-27	 Thrashers	 	 • Scott Mellanby	 groin injury (DTD)
+2	2005-11-09	 Thrashers	 • Scott Mellanby	 	 returned to lineup
+3	2005-12-05	 Thrashers	 	 • Scott Mellanby	 abdominal injury (DTD)
+4	2005-12-15	 Thrashers	 • Scott Mellanby	 	 returned to lineup
+5	2006-11-05	 Thrashers	 	 • Scott Mellanby	 neck injury (DTD)
+6	2006-12-13	 Thrashers	 	 • Scott Mellanby	 flu (DTD)
+7	2006-12-15	 Thrashers	 • Scott Mellanby	 	 returned to lineup
+8	2006-12-21	 Thrashers	 	 • Scott Mellanby	 neck injury (DTD)
+9	2006-12-27	 Thrashers	 	 • Scott Mellanby	 placed on IR with neck injury
+10	2007-01-12	 Thrashers	 • Scott Mellanby	 	 activated from IR

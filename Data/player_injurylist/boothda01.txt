@@ -1,0 +1,34 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-16	 Panthers	 	 • David Booth	 upper body injury (DTD)
+1	2007-01-20	 Panthers	 • David Booth	 	 returned to lineup
+2	2007-10-24	 Panthers	 	 • David Booth	 neck injury (DTD)
+3	2007-10-26	 Panthers	 • David Booth	 	 returned to lineup
+4	2007-12-13	 Panthers	 	 • David Booth	 knee injury (DTD)
+5	2007-12-30	 Panthers	 • David Booth	 	 returned to lineup
+6	2008-10-09	 Panthers	 • David Booth	 	 activated from IR
+7	2008-12-01	 Panthers	 	 • David Booth	 left shoulder injury (DTD)
+8	2008-12-18	 Panthers	 • David Booth	 	 returned to lineup
+9	2009-02-03	 Panthers	 	 • David Booth	 flu (DTD)
+10	2009-03-03	 Panthers	 	 • David Booth	 rib injury (DTD)
+11	2009-03-05	 Panthers	 • David Booth	 	 returned to lineup
+12	2009-10-24	 Panthers	 	 • David Booth	 upper body injury (left game)
+13	2009-10-25	 Panthers	 	 • David Booth	 placed on IR with concussion
+14	2010-01-31	 Panthers	 • David Booth	 	 activated from IR
+15	2010-03-26	 Panthers	 	 • David Booth	 head injury / concussion (out for season)
+16	2011-12-07	 Canucks	 	 • David Booth	 sprained MCL in right knee (DTD)
+17	2011-12-08	 Canucks	 	 • David Booth	 placed on IR with sprained MCL in right knee
+18	2013-01-15	 Canucks	 	 • David Booth	 placed on IR with strained groin
+19	2013-02-19	 Canucks	 • David Booth	 	 activated from IR
+20	2013-02-24	 Canucks	 	 • David Booth	 illness (DTD)
+21	2013-02-26	 Canucks	 • David Booth	 	 returned to lineup
+22	2013-03-17	 Canucks	 	 • David Booth	 placed on IR with left ankle injury (out for season)
+23	2013-10-25	 Canucks	 	 • David Booth	 lower body injury (DTD)
+24	2013-11-12	 Canucks	 • David Booth	 	 returned to lineup
+25	2014-01-07	 Canucks	 	 • David Booth	 undisclosed (DTD)
+26	2014-01-15	 Canucks	 • David Booth	 	 returned to lineup
+27	2014-10-06	 Maple Leafs	 	 • David Booth	 placed on IR with fractured foot
+28	2014-11-26	 Maple Leafs	 • David Booth	 	 activated from IR
+29	2015-01-15	 Maple Leafs	 	 • David Booth	 head/nose injury (DTD)
+30	2015-01-17	 Maple Leafs	 • David Booth	 	 returned to lineup
+31	2017-12-09	 Red Wings	 	 • David Booth	 groin injury (DTD)
+32	2017-12-20	 Red Wings	 • David Booth	 	 returned to lineup

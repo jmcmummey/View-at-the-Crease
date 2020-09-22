@@ -1,0 +1,49 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-18	 Maple Leafs	 	 • Alexander Steen / Alex Steen	 thumb injury (DTD)
+1	2006-01-02	 Maple Leafs	 • Alexander Steen / Alex Steen	 	 returned to lineup
+2	2008-01-15	 Maple Leafs	 	 • Alexander Steen / Alex Steen	 flu (DTD)
+3	2008-01-17	 Maple Leafs	 • Alexander Steen / Alex Steen	 	 returned to lineup
+4	2008-01-29	 Maple Leafs	 	 • Alexander Steen / Alex Steen	 shoulder injury (DTD)
+5	2008-02-09	 Maple Leafs	 • Alexander Steen / Alex Steen	 	 returned to lineup
+6	2009-03-12	 Blues	 	 • Alexander Steen / Alex Steen	 lower body injury (DTD)
+7	2009-03-14	 Blues	 • Alexander Steen / Alex Steen	 	 returned to lineup
+8	2009-10-16	 Blues	 	 • Alexander Steen / Alex Steen	 placed on IR with broken right wrist
+9	2009-11-21	 Blues	 • Alexander Steen / Alex Steen	 	 activated from IR
+10	2011-03-10	 Blues	 	 • Alexander Steen / Alex Steen	 high ankle sprain (DTD) / out for season (CBC)
+11	2011-04-01	 Blues	 • Alexander Steen / Alex Steen	 	 returned to lineup
+12	2011-12-30	 Blues	 	 • Alexander Steen / Alex Steen	 concussion / concussion-like symptoms (DTD)
+13	2012-01-05	 Blues	 	 • Alexander Steen / Alex Steen	 placed on IR with concussion
+14	2012-03-25	 Blues	 • Alexander Steen / Alex Steen	 	 activated from IR
+15	2013-02-26	 Blues	 	 • Alexander Steen / Alex Steen	 upper body injury (DTD)
+16	2013-03-02	 Blues	 	 • Alexander Steen / Alex Steen	 placed on IR with upper body injury
+17	2013-03-14	 Blues	 • Alexander Steen / Alex Steen	 	 activated from IR
+18	2013-12-22	 Blues	 	 • Alexander Steen / Alex Steen	 upper body injury (DTD)
+19	2013-12-28	 Blues	 	 • Alexander Steen / Alex Steen	 placed on IR with concussion
+20	2014-01-16	 Blues	 • Alexander Steen / Alex Steen	 	 activated from IR
+21	2014-04-03	 Blues	 	 • Alexander Steen / Alex Steen	 upper body injury (DTD)
+22	2014-04-08	 Blues	 • Alexander Steen / Alex Steen	 	 returned to lineup
+23	2014-12-06	 Blues	 	 • Alexander Steen / Alex Steen	 lower body injury (DTD)
+24	2014-12-11	 Blues	 • Alexander Steen / Alex Steen	 	 returned to lineup
+25	2015-03-29	 Blues	 	 • Alexander Steen / Alex Steen	 knee injury (DTD)
+26	2015-04-10	 Blues	 • Alexander Steen / Alex Steen	 	 returned to lineup
+27	2016-02-21	 Blues	 	 • Alexander Steen / Alex Steen	 placed on IR with upper body injury
+28	2016-03-29	 Blues	 • Alexander Steen / Alex Steen	 	 activated from IR
+29	2016-11-17	 Blues	 	 • Alexander Steen / Alex Steen	 upper body injury (DTD)
+30	2016-12-01	 Blues	 • Alexander Steen / Alex Steen	 	 returned to lineup
+31	2017-05-05	 Blues	 	 • Alexander Steen / Alex Steen	 lower body injury (DTD)
+32	2017-05-07	 Blues	 • Alexander Steen / Alex Steen	 	 returned to lineup
+33	2017-10-02	 Blues	 	 • Alexander Steen / Alex Steen	 placed on IR with fractured hand
+34	2017-10-18	 Blues	 • Alexander Steen / Alex Steen	 	 activated from IR
+35	2018-11-16	 Blues	 	 • Alexander Steen / Alex Steen	 upper body injury (DTD)
+36	2018-11-28	 Blues	 • Alexander Steen / Alex Steen	 	 returned to lineup
+37	2018-12-01	 Blues	 	 • Alexander Steen / Alex Steen	 concussion (DTD)
+38	2018-12-07	 Blues	 • Alexander Steen / Alex Steen	 	 returned to lineup
+39	2019-01-08	 Blues	 	 • Alexander Steen / Alex Steen	 placed on IR with shoulder injury
+40	2019-01-19	 Blues	 • Alexander Steen / Alex Steen	 	 activated from IR
+41	2019-02-26	 Blues	 	 • Alexander Steen / Alex Steen	 illness (DTD)
+42	2019-02-28	 Blues	 • Alexander Steen / Alex Steen	 	 returned to lineup
+43	2019-11-07	 Blues	 	 • Alexander Steen / Alex Steen	 placed on IR with sprained left ankle
+44	2019-12-14	 Blues	 • Alexander Steen / Alex Steen	 	 activated from IR
+45	2020-08-12	 Blues	 	 • Alexander Steen / Alex Steen	 undisclosed (DTD)
+46	2020-08-14	 Blues	 • Alexander Steen / Alex Steen	 	 returned to lineup
+47	2020-08-16	 Blues	 	 • Alexander Steen / Alex Steen	 undisclosed (out for season)

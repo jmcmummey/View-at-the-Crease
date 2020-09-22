@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-24	 Coyotes	 	 • Mike Zigomanis	 groin injury (out indefinitely)
+1	2006-11-09	 Coyotes	 • Mike Zigomanis	 	 returned to lineup
+2	2008-12-04	 Penguins	 	 • Mike Zigomanis	 recovering from surgery on shoulder (out for season)

@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-11-09	 Senators	 • Patrick Lalime	 	 activated from IR
+1	2005-10-29	 Blues	 	 • Patrick Lalime	 bruised leg (DTD)
+2	2005-11-02	 Blues	 • Patrick Lalime	 	 returned to lineup
+3	2006-04-01	 Blues	 	 • Patrick Lalime	 torn ACL (out for season)
+4	2006-09-14	 Blackhawks	 	 • Patrick Lalime	 surgery on back (out until early Dec)
+5	2007-01-10	 Blackhawks	 • Patrick Lalime	 	 returned to lineup
+6	2009-04-04	 Sabres	 	 • Patrick Lalime	 hip injury (DTD)
+7	2009-11-04	 Sabres	 	 • Patrick Lalime	 groin injury (DTD)
+8	2009-11-13	 Sabres	 • Patrick Lalime	 	 returned to lineup
+9	2010-11-09	 Sabres	 	 • Patrick Lalime	 appendicitis (out indefinitely)
+10	2010-11-10	 Sabres	 • Patrick Lalime	 	 returned to lineup
+11	2011-03-10	 Sabres	 	 • Patrick Lalime	 knee injury (DTD)
+12	2011-04-02	 Sabres	 • Patrick Lalime	 	 returned to lineup
+13	2011-04-08	 Sabres	 	 • Patrick Lalime	 knee injury (out for season)

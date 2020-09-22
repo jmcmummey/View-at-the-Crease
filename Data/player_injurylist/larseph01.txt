@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-19	 Stars	 	 • Philip Larsen	 bruised quadriceps (DTD)
+1	2011-12-23	 Stars	 • Philip Larsen	 	 returned to lineup
+2	2012-01-01	 Stars	 	 • Philip Larsen	 concussion / head injury (DTD)
+3	2012-01-10	 Stars	 	 • Philip Larsen	 placed on IR with concussion
+4	2012-01-19	 Stars	 • Philip Larsen	 	 activated from IR
+5	2013-02-25	 Stars	 	 • Philip Larsen	 upper body injury (DTD)
+6	2013-03-14	 Stars	 • Philip Larsen	 	 returned to lineup
+7	2013-03-20	 Stars	 	 • Philip Larsen	 illness (DTD)
+8	2013-03-21	 Stars	 • Philip Larsen	 	 returned to lineup
+9	2013-11-19	 Oilers	 	 • Philip Larsen	 undisclosed (DTD)
+10	2013-11-28	 Oilers	 	 • Philip Larsen	 placed on IR with back injury
+11	2013-12-05	 Oilers	 • Philip Larsen	 	 activated from IR
+12	2014-01-03	 Oilers	 	 • Philip Larsen	 placed on IR with illness
+13	2014-01-29	 Oilers	 • Philip Larsen	 	 activated from IR
+14	2014-01-31	 Oilers	 	 • Philip Larsen	 placed on IR with undisclosed injury
+15	2014-03-04	 Oilers	 • Philip Larsen	 	 activated from IR
+16	2016-11-22	 Canucks	 	 • Philip Larsen	 placed on IR with virus
+17	2016-11-29	 Canucks	 • Philip Larsen	 	 activated from IR
+18	2016-12-07	 Canucks	 	 • Philip Larsen	 placed on IR with upper body injury
+19	2017-01-25	 Canucks	 • Philip Larsen	 	 activated from IR

@@ -1,0 +1,50 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-21	 Ducks	 	 • Ryan Carter	 broken wrist (out indefinitely)
+1	2008-04-06	 Ducks	 • Ryan Carter	 	 returned to lineup
+2	2008-11-28	 Ducks	 	 • Ryan Carter	 flu (DTD)
+3	2008-12-07	 Ducks	 • Ryan Carter	 	 returned to lineup
+4	2009-10-21	 Ducks	 	 • Ryan Carter	 bruised foot (DTD) / out indefinitely (CBC)
+5	2009-10-30	 Ducks	 • Ryan Carter	 	 returned to lineup
+6	2009-11-13	 Ducks	 	 • Ryan Carter	 broken right foot (DTD)
+7	2009-11-20	 Ducks	 	 • Ryan Carter	 placed on IR with broken right foot
+8	2009-12-29	 Ducks	 • Ryan Carter	 	 activated from IR
+9	2011-01-07	 Hurricanes	 	 • Ryan Carter	 upper body injury (DTD)
+10	2011-01-13	 Hurricanes	 • Ryan Carter	 	 returned to lineup
+11	2011-02-12	 Hurricanes	 	 • Ryan Carter	 back injury (DTD)
+12	2011-02-27	 Panthers	 	 • Ryan Carter	 placed on IR with back injury
+13	2011-03-12	 Panthers	 • Ryan Carter	 	 activated from IR
+14	2011-04-07	 Panthers	 	 • Ryan Carter	 concussion (out for season)
+15	2012-02-04	 Devils	 	 • Ryan Carter	 sore hand (DTD)
+16	2012-02-09	 Devils	 	 • Ryan Carter	 placed on IR with hand injury
+17	2012-02-24	 Devils	 • Ryan Carter	 	 activated from IR
+18	2012-05-03	 Devils	 • Ryan Carter	 	 returned to lineup
+19	2012-05-06	 Devils	 	 • Ryan Carter	 food poisoning (DTD)
+20	2012-05-08	 Devils	 • Ryan Carter	 	 returned to lineup
+21	2013-02-19	 Devils	 	 • Ryan Carter	 head injury (DTD)
+22	2013-02-24	 Devils	 	 • Ryan Carter	 placed on IR with head injury
+23	2013-03-01	 Devils	 • Ryan Carter	 	 activated from IR
+24	2013-10-11	 Devils	 	 • Ryan Carter	 placed on IR with upper body injury
+25	2013-10-17	 Devils	 • Ryan Carter	 	 activated from IR
+26	2013-12-01	 Devils	 	 • Ryan Carter	 facial lacerations (DTD)
+27	2013-12-04	 Devils	 	 • Ryan Carter	 placed on IR with lower body injury
+28	2014-01-03	 Devils	 • Ryan Carter	 	 activated from IR
+29	2014-03-14	 Devils	 	 • Ryan Carter	 upper body injury (DTD)
+30	2014-03-22	 Devils	 • Ryan Carter	 	 returned to lineup
+31	2014-10-31	 Wild	 	 • Ryan Carter	 undisclosed injury (DTD)
+32	2014-11-04	 Wild	 • Ryan Carter	 	 returned to lineup
+33	2014-12-13	 Wild	 	 • Ryan Carter	 placed on IR with upper body injury
+34	2014-12-20	 Wild	 • Ryan Carter	 	 activated from IR
+35	2015-02-10	 Wild	 	 • Ryan Carter	 placed on IR with upper body injury
+36	2015-03-24	 Wild	 • Ryan Carter	 	 activated from IR
+37	2015-03-27	 Wild	 • Ryan Carter	 	 activated from IR (SN)
+38	2015-11-28	 Wild	 	 • Ryan Carter	 upper body injury (DTD)
+39	2015-12-01	 Wild	 • Ryan Carter	 	 returned to lineup
+40	2015-12-26	 Wild	 	 • Ryan Carter	 upper body injury (DTD)
+41	2015-12-28	 Wild	 • Ryan Carter	 	 returned to lineup
+42	2016-01-05	 Wild	 	 • Ryan Carter	 hand injury (DTD)
+43	2016-01-07	 Wild	 • Ryan Carter	 	 returned to lineup
+44	2016-01-12	 Wild	 	 • Ryan Carter	 hand injury (DTD)
+45	2016-01-19	 Wild	 	 • Ryan Carter	 placed on IR with hand injury
+46	2016-02-02	 Wild	 • Ryan Carter	 	 activated from IR
+47	2016-03-19	 Wild	 	 • Ryan Carter	 upper body injury (DTD)
+48	2016-04-09	 Wild	 • Ryan Carter	 	 returned to lineup

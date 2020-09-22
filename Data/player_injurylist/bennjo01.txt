@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-12-19	 Stars	 	 • Jordie Benn	 flu (DTD)
+1	2014-12-21	 Stars	 • Jordie Benn	 	 returned to lineup
+2	2015-03-28	 Stars	 	 • Jordie Benn	 back injury (DTD)
+3	2015-04-04	 Stars	 • Jordie Benn	 	 returned to lineup
+4	2015-11-21	 Stars	 	 • Jordie Benn	 illness (DTD)
+5	2015-11-24	 Stars	 • Jordie Benn	 	 returned to lineup
+6	2016-01-07	 Stars	 	 • Jordie Benn	 lower body injury (DTD)
+7	2016-01-15	 Stars	 • Jordie Benn	 	 returned to lineup
+8	2016-01-17	 Stars	 	 • Jordie Benn	 placed on IR with lower body injury
+9	2016-02-02	 Stars	 • Jordie Benn	 	 activated from IR
+10	2016-03-03	 Stars	 	 • Jordie Benn	 lower body injury (DTD)
+11	2016-03-22	 Stars	 • Jordie Benn	 	 returned to lineup
+12	2017-03-30	 Canadiens	 	 • Jordie Benn	 upper body injury (out for season)

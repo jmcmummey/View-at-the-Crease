@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-12-23	 Flames	 	 • Adam Pardy	 wrist injury (DTD)
+1	2009-12-27	 Flames	 • Adam Pardy	 	 returned to lineup
+2	2010-10-11	 Flames	 	 • Adam Pardy	 shoulder injury (out indefinitely)
+3	2010-10-16	 Flames	 	 • Adam Pardy	 placed on IR with shoulder injury
+4	2010-12-07	 Flames	 • Adam Pardy	 	 activated from IR
+5	2011-02-08	 Flames	 	 • Adam Pardy	 upper body injury (DTD)
+6	2011-02-12	 Flames	 	 • Adam Pardy	 placed on IR with upper body injury (out for season)
+7	2011-10-02	 Stars	 	 • Adam Pardy	 placed on IR with rib injury
+8	2011-10-14	 Stars	 • Adam Pardy	 	 activated from IR
+9	2016-03-12	 Oilers	 	 • Adam Pardy	 hand injury (DTD)
+10	2016-04-02	 Oilers	 • Adam Pardy	 	 returned to lineup

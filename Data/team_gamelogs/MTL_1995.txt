@@ -1,0 +1,49 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1995-01-21	@	New York Rangers	2	5	L			32	17	2		0		40	15	4		0
+1	1995-01-25		Washington Capitals	2	0	W			17	27	1		0		33	23	0		0
+2	1995-01-28		New Jersey Devils	5	1	W			21	11	0		0		25	23	0		0
+3	1995-01-29		Philadelphia Flyers	2	2	T	OT		32	17	0		0		15	15	1		0
+4	1995-01-31	@	Tampa Bay Lightning	1	4	L			20	8	1		0		30	12	0		0
+5	1995-02-02	@	Florida Panthers	1	1	T	OT		23	6	1		0		21	8	0		0
+6	1995-02-04		New York Islanders	4	2	W			40	8	0		0		34	4	0		1
+7	1995-02-07	@	Boston Bruins	4	7	L			28	24	0		0		42	20	2		0
+8	1995-02-08	@	Ottawa Senators	4	2	W			31	25	2		0		30	19	1		0
+9	1995-02-11	@	Pittsburgh Penguins	1	3	L			32	12	0		0		38	8	0		0
+10	1995-02-13		Hartford Whalers	2	2	T	OT		36	9	0		0		28	9	0		0
+11	1995-02-15	@	Hartford Whalers	1	4	L			21	18	1		0		38	18	0		0
+12	1995-02-16	@	New York Rangers	2	2	T	OT		35	6	0		0		34	6	1		0
+13	1995-02-18		New York Rangers	5	2	W			23	10	3		0		36	16	1		0
+14	1995-02-20		New York Islanders	3	2	W	OT		28	21	1		0		37	16	0		0
+15	1995-02-23	@	Florida Panthers	5	2	W			24	8	1		0		28	8	0		0
+16	1995-02-25		Philadelphia Flyers	0	7	L			18	83	0		0		41	43	1		0
+17	1995-02-27	@	New Jersey Devils	1	6	L			27	13	0		0		53	13	0		0
+18	1995-02-28	@	New York Islanders	1	2	L			23	11	1		0		17	17	0		0
+19	1995-03-04	@	Washington Capitals	1	5	L			29	30	0		0		27	30	2		0
+20	1995-03-05	@	Buffalo Sabres	1	4	L			24	43	0		0		33	31	2		1
+21	1995-03-08		Buffalo Sabres	2	2	T	OT		33	32	1		0		16	17	1		0
+22	1995-03-11		New York Rangers	3	1	W			32	8	0		0		27	6	0		0
+23	1995-03-13	@	Pittsburgh Penguins	2	4	L			33	8	1		0		22	8	1		0
+24	1995-03-15		Pittsburgh Penguins	8	5	W			26	27	2		0		32	15	1		0
+25	1995-03-16	@	Boston Bruins	0	6	L			29	43	0		0		38	27	1		0
+26	1995-03-18		Quebec Nordiques	5	4	W			38	12	0		0		30	14	2		0
+27	1995-03-20	@	Philadelphia Flyers	4	8	L			21	6	0		0		39	4	2		1
+28	1995-03-22		Florida Panthers	2	3	L			37	0	0		0		25	8	0		0
+29	1995-03-25		Ottawa Senators	3	1	W			26	20	1		0		27	16	0		0
+30	1995-03-27	@	Tampa Bay Lightning	2	3	L	OT		31	15	1		0		31	25	1		0
+31	1995-04-01	@	New Jersey Devils	1	4	L			36	6	0		0		34	8	0		0
+32	1995-04-03	@	Ottawa Senators	5	4	W			28	18	1		0		32	16	1		0
+33	1995-04-05		Quebec Nordiques	6	5	W			38	19	1		0		28	27	3		0
+34	1995-04-06	@	Quebec Nordiques	2	3	L			34	12	1		0		35	8	2		0
+35	1995-04-08		Pittsburgh Penguins	2	1	W			27	6	0		0		32	2	1		0
+36	1995-04-10		New Jersey Devils	2	1	W			21	9	0		0		43	9	0		0
+37	1995-04-12	@	Philadelphia Flyers	2	3	L			16	13	0		1		29	11	0		0
+38	1995-04-14	@	Hartford Whalers	3	4	L	OT		23	17	0		0		45	13	0		0
+39	1995-04-15		Boston Bruins	2	3	L			27	16	0		0		31	10	2		0
+40	1995-04-17		Washington Capitals	5	2	W			29	24	1		0		32	26	1		0
+41	1995-04-19		Ottawa Senators	4	1	W			37	10	0		0		30	12	0		0
+42	1995-04-22		Tampa Bay Lightning	3	1	W			32	13	2		0		32	11	0		0
+43	1995-04-24		Hartford Whalers	3	4	L			30	8	0		0		28	10	1		0
+44	1995-04-26	@	Quebec Nordiques	1	1	T	OT		39	19	1		0		35	30	1		0
+45	1995-04-29		Buffalo Sabres	3	3	T	OT		32	6	1		0		39	10	1		0
+46	1995-05-01	@	Buffalo Sabres	0	2	L			32	25	0		0		29	33	0		0
+47	1995-05-03		Boston Bruins	2	4	L			25	31	0		0		31	6	0		0

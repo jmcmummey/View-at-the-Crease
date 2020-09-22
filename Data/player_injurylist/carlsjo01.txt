@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-04-01	 Capitals	 	 • John Carlson	 upper body injury (DTD)
+1	2010-04-09	 Capitals	 • John Carlson	 	 returned to lineup
+2	2015-12-28	 Capitals	 	 • John Carlson	 lower body injury (DTD)
+3	2016-01-07	 Capitals	 	 • John Carlson	 placed on IR with lower body injury
+4	2016-01-27	 Capitals	 • John Carlson	 	 activated from IR
+5	2016-02-26	 Capitals	 	 • John Carlson	 placed on IR with lower body injury
+6	2016-02-28	 Capitals	 	 • John Carlson	 placed on IR with lower body injury
+7	2016-03-25	 Capitals	 • John Carlson	 	 activated from IR
+8	2017-01-16	 Capitals	 	 • John Carlson	 lower body injury (DTD)
+9	2017-01-31	 Capitals	 • John Carlson	 	 returned to lineup
+10	2017-04-04	 Capitals	 	 • John Carlson	 lower body injury (out for season)
+11	2018-11-09	 Capitals	 	 • John Carlson	 lower body injury (DTD)
+12	2018-11-11	 Capitals	 • John Carlson	 	 returned to lineup
+13	2020-08-03	 Capitals	 	 • John Carlson	 undisclosed (DTD)
+14	2020-08-12	 Capitals	 • John Carlson	 	 returned to lineup

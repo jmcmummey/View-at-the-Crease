@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-22	 Avalanche	 	 • Jeff Finger	 hand injury (DTD)
+1	2008-03-06	 Avalanche	 • Jeff Finger	 	 returned to lineup
+2	2008-10-09	 Maple Leafs	 	 • Jeff Finger	 bruised foot (out indefinitely)
+3	2008-10-25	 Maple Leafs	 • Jeff Finger	 	 returned to lineup
+4	2009-01-10	 Maple Leafs	 	 • Jeff Finger	 upper body injury (DTD)
+5	2009-01-29	 Maple Leafs	 • Jeff Finger	 	 returned to lineup
+6	2009-02-26	 Maple Leafs	 	 • Jeff Finger	 upper body injury (DTD)
+7	2009-03-03	 Maple Leafs	 • Jeff Finger	 	 returned to lineup
+8	2009-10-01	 Maple Leafs	 	 • Jeff Finger	 strained oblique muscle (DTD)
+9	2009-10-03	 Maple Leafs	 • Jeff Finger	 	 returned to lineup
+10	2009-11-23	 Maple Leafs	 	 • Jeff Finger	 lower body injury (DTD)
+11	2009-12-01	 Maple Leafs	 • Jeff Finger	 	 returned to lineup

@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-03-13	 Thrashers	 	 • Ilya Kovalchuk	 placed on IR
+1	2008-01-31	 Thrashers	 	 • Ilya Kovalchuk	 knee injury (DTD)
+2	2008-02-05	 Thrashers	 • Ilya Kovalchuk	 	 returned to lineup
+3	2009-03-13	 Thrashers	 	 • Ilya Kovalchuk	 upper body injury (DTD)
+4	2009-03-20	 Thrashers	 • Ilya Kovalchuk	 	 returned to lineup
+5	2009-10-24	 Thrashers	 	 • Ilya Kovalchuk	 broken bone in right foot (DTD)
+6	2009-11-12	 Thrashers	 • Ilya Kovalchuk	 	 activated from IR
+7	2011-11-04	 Devils	 	 • Ilya Kovalchuk	 lower body injury (DTD)
+8	2011-11-16	 Devils	 • Ilya Kovalchuk	 	 returned to lineup
+9	2012-05-01	 Devils	 	 • Ilya Kovalchuk	 lower body injury (DTD)
+10	2012-05-03	 Devils	 • Ilya Kovalchuk	 	 returned to lineup
+11	2013-03-23	 Devils	 	 • Ilya Kovalchuk	 placed on IR with left shoulder injury
+12	2013-04-20	 Devils	 • Ilya Kovalchuk	 	 activated from IR
+13	2018-11-30	 Kings	 	 • Ilya Kovalchuk	 ankle injury (out indefinitely)
+14	2018-11-30	 Kings	 	 • Ilya Kovalchuk	 placed on IR with ankle injury (surgery)
+15	2018-12-19	 Kings	 • Ilya Kovalchuk	 	 activated from IR
+16	2019-02-28	 Kings	 	 • Ilya Kovalchuk	 upper body injury (DTD)
+17	2019-03-02	 Kings	 • Ilya Kovalchuk	 	 returned to lineup

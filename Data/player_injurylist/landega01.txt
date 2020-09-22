@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-01-28	 Avalanche	 	 • Gabriel Landeskog	 head injury (out indefinitely)
+1	2013-01-29	 Avalanche	 	 • Gabriel Landeskog	 head/leg injuries (DTD)
+2	2013-02-01	 Avalanche	 	 • Gabriel Landeskog	 placed on IR with head injury
+3	2013-02-22	 Avalanche	 • Gabriel Landeskog	 	 activated from IR
+4	2013-03-23	 Avalanche	 	 • Gabriel Landeskog	 torso injury (DTD)
+5	2013-03-24	 Avalanche	 • Gabriel Landeskog	 	 returned to lineup
+6	2013-10-04	 Avalanche	 	 • Gabriel Landeskog	 leg injury (DTD)
+7	2013-10-08	 Avalanche	 • Gabriel Landeskog	 	 returned to lineup
+8	2015-12-09	 Avalanche	 	 • Gabriel Landeskog	 back injury (DTD)
+9	2015-12-13	 Avalanche	 • Gabriel Landeskog	 	 returned to lineup
+10	2016-11-17	 Avalanche	 	 • Gabriel Landeskog	 lower body injury (DTD)
+11	2016-11-30	 Avalanche	 	 • Gabriel Landeskog	 placed on IR with lower body injury
+12	2016-12-10	 Avalanche	 • Gabriel Landeskog	 	 activated from IR
+13	2019-03-08	 Avalanche	 	 • Gabriel Landeskog	 upper body injury (out indefinitely)
+14	2019-03-29	 Avalanche	 • Gabriel Landeskog	 	 returned to lineup
+15	2019-10-30	 Avalanche	 	 • Gabriel Landeskog	 placed on IR with lower body injury
+16	2019-12-05	 Avalanche	 • Gabriel Landeskog	 	 activated from IR
+17	2020-09-04	 Avalanche	 	 • Gabriel Landeskog	 leg injury (out for season)

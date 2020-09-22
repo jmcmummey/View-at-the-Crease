@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-12-01	 Penguins	 	 • Phil Bourque	 sprained wrist (date approximate)
+1	1991-11-15	 Penguins	 	 • Phil Bourque	 left elbow inflammation (DTD)
+2	1991-12-18	 Penguins	 	 • Phil Bourque	 strained back (DTD)
+3	1992-01-10	 Penguins	 	 • Phil Bourque	 fractured left foot (DTD)
+4	1992-02-09	 Penguins	 	 • Phil Bourque	 left foot injury (DTD)
+5	1992-12-11	 Rangers	 	 • Phil Bourque	 concussion (DTD)
+6	1993-02-03	 Rangers	 	 • Phil Bourque	 sprained left knee (DTD)
+7	1993-04-08	 Rangers	 	 • Phil Bourque	 bruised ankle (DTD)
+8	1995-02-08	 Senators	 	 • Phil Bourque	 flu (DTD)
+9	1995-04-24	 Senators	 	 • Phil Bourque	 knee injury (out for season)
+10	1995-11-02	 Senators	 	 • Phil Bourque	 bruised ribs (DTD)

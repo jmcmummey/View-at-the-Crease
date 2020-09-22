@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-11	 Blues	 	 • Lee Stempniak	 knee injury (out indefinitely)
+1	2008-10-22	 Blues	 • Lee Stempniak	 	 returned to lineup
+2	2009-04-04	 Maple Leafs	 	 • Lee Stempniak	 undisclosed injury (DTD)
+3	2012-02-02	 Flames	 	 • Lee Stempniak	 high ankle sprain (out indefinitely)
+4	2012-02-08	 Flames	 	 • Lee Stempniak	 placed on IR with high ankle sprain
+5	2012-03-18	 Flames	 • Lee Stempniak	 	 activated from IR
+6	2013-10-26	 Flames	 	 • Lee Stempniak	 lower body injury (DTD)
+7	2013-11-02	 Flames	 	 • Lee Stempniak	 placed on IR with fractured foot
+8	2013-11-12	 Flames	 • Lee Stempniak	 	 activated from IR
+9	2014-11-19	 Rangers	 	 • Lee Stempniak	 back injury (DTD)
+10	2014-11-28	 Rangers	 • Lee Stempniak	 	 returned to lineup
+11	2014-12-19	 Rangers	 	 • Lee Stempniak	 illness (DTD)
+12	2014-12-27	 Rangers	 • Lee Stempniak	 	 returned to lineup
+13	2017-10-03	 Hurricanes	 	 • Lee Stempniak	 placed on IR with hip injury
+14	2017-11-09	 Hurricanes	 • Lee Stempniak	 	 activated from IR
+15	2017-11-13	 Hurricanes	 	 • Lee Stempniak	 placed on IR with upper body injury
+16	2018-01-08	 Hurricanes	 • Lee Stempniak	 	 activated from IR

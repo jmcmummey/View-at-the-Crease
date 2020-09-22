@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-02	 Blues	 	 • Zach Sanford	 placed on IR with dislocated left shoulder
+1	2018-02-15	 Blues	 • Zach Sanford	 	 activated from IR
+2	2019-01-17	 Blues	 	 • Zach Sanford	 concussion (DTD)
+3	2019-01-19	 Blues	 	 • Zach Sanford	 placed on IR with concussion
+4	2019-01-23	 Blues	 • Zach Sanford	 	 activated from IR
+5	2019-12-10	 Blues	 	 • Zach Sanford	 upper body injury (DTD)
+6	2019-12-14	 Blues	 • Zach Sanford	 	 returned to lineup

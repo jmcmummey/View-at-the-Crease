@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-11-25	 Ducks	 	 • Drew Miller (a)	 knee injury (DTD)
+1	2007-11-30	 Ducks	 • Drew Miller (a)	 	 returned to lineup
+2	2010-02-06	 Red Wings	 	 • Drew Miller (a)	 ankle injury (left game)
+3	2013-04-21	 Red Wings	 	 • Drew Miller (a)	 fractured right hand (DTD)
+4	2013-05-18	 Red Wings	 • Drew Miller (a)	 	 returned to lineup
+5	2015-12-05	 Red Wings	 	 • Drew Miller (a)	 fractured jaw (out indefinitely)
+6	2015-12-22	 Red Wings	 	 • Drew Miller (a)	 placed on IR with fractured jaw
+7	2016-01-06	 Red Wings	 • Drew Miller (a)	 	 activated from IR
+8	2016-01-11	 Red Wings	 	 • Drew Miller (a)	 placed on IR with lower body injury (out for season)
+9	2016-10-11	 Hurricanes	 	 • Andrew Miller (b)	 placed on injured/non-roster list with undisclosed injury
+10	2016-10-26	 Hurricanes	 • Andrew Miller (b)	 	 activated from injured/non-roster list
+11	2017-04-03	 Red Wings	 	 • Drew Miller (a)	 flu (DTD)
+12	2017-04-08	 Red Wings	 • Drew Miller (a)	 	 returned to lineup

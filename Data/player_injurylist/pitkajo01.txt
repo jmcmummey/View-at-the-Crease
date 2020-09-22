@@ -1,0 +1,65 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-05	 Flyers	 	 • Joni Pitkanen	 torn abdominal muscle (out 4-6 weeks)
+1	2006-01-21	 Flyers	 	 • Joni Pitkanen	 groin injury (left game)
+2	2006-01-21	 Flyers	 • Joni Pitkanen	 	 returned to lineup
+3	2006-01-23	 Flyers	 	 • Joni Pitkanen	 groin injury (DTD)
+4	2006-01-28	 Flyers	 • Joni Pitkanen	 	 returned to lineup
+5	2006-11-29	 Flyers	 	 • Joni Pitkanen	 flu & left hip flexor injury (DTD)
+6	2006-12-02	 Flyers	 • Joni Pitkanen	 	 returned to lineup
+7	2006-12-09	 Flyers	 	 • Joni Pitkanen	 abdominal strain (DTD)
+8	2006-12-12	 Flyers	 • Joni Pitkanen	 	 returned to lineup
+9	2007-01-09	 Flyers	 	 • Joni Pitkanen	 flu (DTD)
+10	2007-01-11	 Flyers	 • Joni Pitkanen	 	 returned to lineup
+11	2007-04-05	 Flyers	 	 • Joni Pitkanen	 flu (DTD)
+12	2007-04-07	 Flyers	 • Joni Pitkanen	 	 returned to lineup
+13	2007-10-23	 Oilers	 	 • Joni Pitkanen	 knee injury (out indefinitely)
+14	2007-11-22	 Oilers	 • Joni Pitkanen	 	 returned to lineup
+15	2007-12-31	 Oilers	 	 • Joni Pitkanen	 back injury (DTD)
+16	2008-01-02	 Oilers	 • Joni Pitkanen	 	 returned to lineup
+17	2008-01-10	 Oilers	 	 • Joni Pitkanen	 flu (DTD)
+18	2008-01-13	 Oilers	 • Joni Pitkanen	 	 returned to lineup
+19	2008-01-18	 Oilers	 	 • Joni Pitkanen	 knee injury (DTD)
+20	2008-01-22	 Oilers	 • Joni Pitkanen	 	 returned to lineup
+21	2008-02-16	 Oilers	 	 • Joni Pitkanen	 hip injury (DTD)
+22	2008-02-21	 Oilers	 • Joni Pitkanen	 	 returned to lineup
+23	2008-03-13	 Oilers	 	 • Joni Pitkanen	 undisclosed injury (DTD)
+24	2008-03-15	 Oilers	 • Joni Pitkanen	 	 returned to lineup
+25	2008-10-26	 Hurricanes	 	 • Joni Pitkanen	 torn menuscus in knee (DTD)
+26	2008-11-12	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+27	2009-02-18	 Hurricanes	 	 • Joni Pitkanen	 upper body injury (DTD)
+28	2009-02-22	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+29	2009-03-12	 Hurricanes	 	 • Joni Pitkanen	 lower body injury (DTD)
+30	2009-03-14	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+31	2009-10-02	 Hurricanes	 	 • Joni Pitkanen	 surgery on knee (out indefinitely)
+32	2009-10-06	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+33	2009-10-09	 Hurricanes	 	 • Joni Pitkanen	 knee injury (DTD)
+34	2009-10-17	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+35	2009-11-11	 Hurricanes	 	 • Joni Pitkanen	 illness (DTD)
+36	2009-11-13	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+37	2009-11-17	 Hurricanes	 	 • Joni Pitkanen	 lower body injury (DTD)
+38	2009-11-21	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+39	2009-11-28	 Hurricanes	 	 • Joni Pitkanen	 upper body injury (DTD)
+40	2009-11-30	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+41	2010-04-08	 Hurricanes	 	 • Joni Pitkanen	 lower body injury (out for season)
+42	2010-11-04	 Hurricanes	 	 • Joni Pitkanen	 upper body injury (DTD)
+43	2010-12-29	 Hurricanes	 	 • Joni Pitkanen	 upper body / lower body (CBC) injury (DTD)
+44	2011-01-09	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+45	2011-02-10	 Hurricanes	 	 • Joni Pitkanen	 lower body injury (DTD)
+46	2011-02-12	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+47	2011-02-19	 Hurricanes	 	 • Joni Pitkanen	 lower body injury (DTD)
+48	2011-02-22	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+49	2011-03-26	 Hurricanes	 	 • Joni Pitkanen	 food poisoning (DTD)
+50	2011-03-29	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+51	2011-11-12	 Hurricanes	 	 • Joni Pitkanen	 lower body injury (DTD)
+52	2011-11-27	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+53	2011-12-06	 Hurricanes	 	 • Joni Pitkanen	 upper body injury (DTD)
+54	2012-01-14	 Hurricanes	 	 • Joni Pitkanen	 placed on IR with concussion
+55	2012-03-21	 Hurricanes	 • Joni Pitkanen	 	 activated from IR
+56	2013-02-14	 Hurricanes	 	 • Joni Pitkanen	 lower body injury (DTD)
+57	2013-02-18	 Hurricanes	 	 • Joni Pitkanen	 placed on IR with lower body injury
+58	2013-03-02	 Hurricanes	 • Joni Pitkanen	 	 activated from IR
+59	2013-03-03	 Hurricanes	 	 • Joni Pitkanen	 lower body injury (DTD)
+60	2013-03-16	 Hurricanes	 • Joni Pitkanen	 	 returned to lineup
+61	2013-04-03	 Hurricanes	 	 • Joni Pitkanen	 fractured left heel (out for season)
+62	2013-09-11	 Hurricanes	 	 • Joni Pitkanen	 fractured left heel (out indefinitely)
+63	2013-09-30	 Hurricanes	 	 • Joni Pitkanen	 placed on IR with hip injury / heel injury (CBC) (out for season)

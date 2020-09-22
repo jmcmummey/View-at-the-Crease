@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-10-13	 Blue Jackets	 	 • Trevor Letowski	 placed on IR with fractured and lacerated finger
+1	2003-11-07	 Blue Jackets	 • Trevor Letowski	 	 activated from IR
+2	2006-10-14	 Hurricanes	 	 • Trevor Letowski	 head injury (left game)
+3	2006-10-15	 Hurricanes	 	 • Trevor Letowski	 concussion (out indefinitely)
+4	2006-11-07	 Hurricanes	 • Trevor Letowski	 	 returned to lineup
+5	2008-01-10	 Hurricanes	 	 • Trevor Letowski	 flu (DTD)
+6	2008-01-15	 Hurricanes	 • Trevor Letowski	 	 returned to lineup

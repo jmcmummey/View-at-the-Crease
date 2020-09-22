@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-30	 Blue Jackets	 	 • Manny Malhotra	 back spasms (DTD)
+1	2005-12-01	 Blue Jackets	 	 • Manny Malhotra	 placed on IR with back spasms
+2	2005-12-08	 Blue Jackets	 • Manny Malhotra	 	 activated from IR
+3	2005-12-08	 Blue Jackets	 	 • Manny Malhotra	 shoulder injury (left game)
+4	2005-12-09	 Blue Jackets	 	 • Manny Malhotra	 placed on IR with shoulder injury
+5	2006-01-24	 Blue Jackets	 • Manny Malhotra	 	 activated from IR
+6	2007-12-02	 Blue Jackets	 	 • Manny Malhotra	 knee injury (DTD)
+7	2007-12-12	 Blue Jackets	 • Manny Malhotra	 	 returned to lineup
+8	2007-12-21	 Blue Jackets	 	 • Manny Malhotra	 knee injury (DTD)
+9	2007-12-27	 Blue Jackets	 	 • Manny Malhotra	 placed on IR
+10	2008-01-02	 Blue Jackets	 • Manny Malhotra	 	 activated from IR
+11	2008-10-09	 Blue Jackets	 	 • Manny Malhotra	 placed on IR with lower body injury
+12	2008-10-21	 Blue Jackets	 • Manny Malhotra	 	 activated from IR
+13	2010-01-02	 Sharks	 	 • Manny Malhotra	 lower body injury (DTD)
+14	2010-01-14	 Sharks	 • Manny Malhotra	 	 returned to lineup
+15	2010-02-06	 Sharks	 	 • Manny Malhotra	 undisclosed (DTD)
+16	2010-03-02	 Sharks	 • Manny Malhotra	 	 returned to lineup
+17	2011-03-17	 Canucks	 	 • Manny Malhotra	 placed on IR with left eye injury
+18	2011-06-04	 Canucks	 • Manny Malhotra	 	 activated from IR
+19	2013-02-14	 Canucks	 	 • Manny Malhotra	 placed on IR with eye injury (out for season)

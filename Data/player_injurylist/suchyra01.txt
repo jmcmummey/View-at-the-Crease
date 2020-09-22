@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-20	 Blue Jackets	 	 • Radoslav Suchy	 flu (DTD)
+1	2006-01-27	 Blue Jackets	 • Radoslav Suchy	 	 returned to lineup

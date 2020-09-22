@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-06	 Canadiens	 	 • Guillaume Latendresse	 gastrointestinal virus (DTD)
+1	2007-01-07	 Canadiens	 • Guillaume Latendresse	 	 returned to lineup
+2	2007-11-08	 Canadiens	 	 • Guillaume Latendresse	 back injury (DTD)
+3	2007-11-10	 Canadiens	 • Guillaume Latendresse	 	 returned to lineup
+4	2007-12-15	 Canadiens	 	 • Guillaume Latendresse	 upper body injury (DTD)
+5	2007-12-20	 Canadiens	 • Guillaume Latendresse	 	 returned to lineup
+6	2008-03-22	 Canadiens	 	 • Guillaume Latendresse	 neck injury (DTD)
+7	2008-04-01	 Canadiens	 • Guillaume Latendresse	 	 returned to lineup
+8	2008-11-22	 Canadiens	 	 • Guillaume Latendresse	 shoulder injury (DTD)
+9	2008-11-28	 Canadiens	 • Guillaume Latendresse	 	 returned to lineup
+10	2009-02-02	 Canadiens	 	 • Guillaume Latendresse	 placed on IR with shoulder injury
+11	2009-03-17	 Canadiens	 • Guillaume Latendresse	 	 activated from IR
+12	2009-12-19	 Wild	 	 • Guillaume Latendresse	 flu (DTD)
+13	2009-12-23	 Wild	 • Guillaume Latendresse	 	 returned to lineup
+14	2010-04-08	 Wild	 	 • Guillaume Latendresse	 back spasms (out for season)
+15	2010-10-27	 Wild	 	 • Guillaume Latendresse	 groin injury (DTD)
+16	2010-10-28	 Wild	 	 • Guillaume Latendresse	 placed on IR with groin injury (Y)
+17	2010-11-03	 Wild	 	 • Guillaume Latendresse	 placed on IR with groin injury
+18	2011-03-08	 Wild	 • Guillaume Latendresse	 	 activated from IR
+19	2011-03-14	 Wild	 	 • Guillaume Latendresse	 lower body injury (out indefinitely)
+20	2011-10-22	 Wild	 	 • Guillaume Latendresse	 groin / hip injury (DTD)
+21	2011-10-27	 Wild	 • Guillaume Latendresse	 	 returned to lineup
+22	2011-11-11	 Wild	 	 • Guillaume Latendresse	 concussion (out indefinitely)
+23	2011-11-16	 Wild	 	 • Guillaume Latendresse	 placed on IR with concussion
+24	2011-12-13	 Wild	 • Guillaume Latendresse	 	 activated from IR
+25	2011-12-15	 Wild	 	 • Guillaume Latendresse	 placed on IR with post-concussion syndrome (out for season)
+26	2013-01-25	 Senators	 	 • Guillaume Latendresse	 undisclosed injury (DTD)
+27	2013-01-27	 Senators	 • Guillaume Latendresse	 	 returned to lineup
+28	2013-02-01	 Senators	 	 • Guillaume Latendresse	 illness / neck injury (CBC) (DTD)
+29	2013-02-05	 Senators	 	 • Guillaume Latendresse	 placed on IR with neck injury
+30	2013-03-11	 Senators	 • Guillaume Latendresse	 	 activated from IR

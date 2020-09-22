@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-11-21	 Coyotes	 	 • Kyle Turris	 head injury (DTD)
+1	2010-11-23	 Coyotes	 	 • Kyle Turris	 placed on IR with upper body injury
+2	2010-11-30	 Coyotes	 • Kyle Turris	 	 activated from IR
+3	2011-01-06	 Coyotes	 	 • Kyle Turris	 upper body injury (DTD)
+4	2011-01-08	 Coyotes	 • Kyle Turris	 	 returned to lineup
+5	2011-02-14	 Coyotes	 	 • Kyle Turris	 undisclosed (DTD)
+6	2011-02-22	 Coyotes	 • Kyle Turris	 	 returned to lineup
+7	2016-01-21	 Senators	 	 • Kyle Turris	 lower body injury (DTD)
+8	2016-02-06	 Senators	 • Kyle Turris	 	 returned to lineup
+9	2016-02-29	 Senators	 	 • Kyle Turris	 high ankle sprain (out for season)
+10	2017-03-08	 Senators	 	 • Kyle Turris	 finger injury (DTD)
+11	2017-03-14	 Senators	 • Kyle Turris	 	 returned to lineup
+12	2017-10-25	 Senators	 	 • Kyle Turris	 viral illness (DTD)
+13	2017-11-02	 Senators	 • Kyle Turris	 	 returned to lineup
+14	2018-02-15	 Predators	 	 • Kyle Turris	 illness (DTD)
+15	2018-02-17	 Predators	 • Kyle Turris	 	 returned to lineup
+16	2018-03-06	 Predators	 	 • Kyle Turris	 undisclosed (DTD)
+17	2018-03-08	 Predators	 • Kyle Turris	 	 returned to lineup
+18	2018-11-25	 Predators	 	 • Kyle Turris	 placed on IR with undisclosed injury
+19	2018-12-13	 Predators	 • Kyle Turris	 	 activated from IR
+20	2018-12-29	 Predators	 	 • Kyle Turris	 lower body injury (DTD)
+21	2018-12-29	 Predators	 	 • Kyle Turris	 placed on IR with lower body injury
+22	2019-02-07	 Predators	 • Kyle Turris	 	 activated from IR

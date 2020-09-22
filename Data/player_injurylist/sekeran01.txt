@@ -1,0 +1,46 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-15	 Sabres	 	 • Andrej Sekera	 placed on IR with lower body injury
+1	2009-02-13	 Sabres	 • Andrej Sekera	 	 activated from IR
+2	2009-10-12	 Sabres	 	 • Andrej Sekera	 placed on IR with rib injury
+3	2009-10-31	 Sabres	 • Andrej Sekera	 	 activated from IR
+4	2010-10-26	 Sabres	 	 • Andrej Sekera	 upper body injury (DTD)
+5	2010-10-29	 Sabres	 • Andrej Sekera	 	 returned to lineup
+6	2011-04-09	 Sabres	 	 • Andrej Sekera	 upper body injury (DTD)
+7	2011-04-16	 Sabres	 • Andrej Sekera	 	 returned to lineup
+8	2011-12-29	 Sabres	 	 • Andrej Sekera	 upper body injury (DTD)
+9	2011-12-31	 Sabres	 	 • Andrej Sekera	 placed on IR with upper body injury
+10	2012-01-16	 Sabres	 • Andrej Sekera	 	 activated from IR
+11	2012-03-07	 Sabres	 	 • Andrej Sekera	 flu / pneumonia (DTD)
+12	2012-03-17	 Sabres	 • Andrej Sekera	 	 returned to lineup
+13	2013-02-03	 Sabres	 	 • Andrej Sekera	 left ankle injury (DTD)
+14	2013-02-09	 Sabres	 • Andrej Sekera	 	 returned to lineup
+15	2013-02-17	 Sabres	 	 • Andrej Sekera	 ankle injury (DTD)
+16	2013-02-23	 Sabres	 • Andrej Sekera	 	 returned to lineup
+17	2013-03-17	 Sabres	 	 • Andrej Sekera	 upper body injury (DTD)
+18	2013-03-28	 Sabres	 • Andrej Sekera	 	 returned to lineup
+19	2013-11-29	 Hurricanes	 	 • Andrej Sekera	 upper body injury (DTD)
+20	2013-12-03	 Hurricanes	 • Andrej Sekera	 	 returned to lineup
+21	2014-04-03	 Hurricanes	 	 • Andrej Sekera	 lower body injury (out for season)
+22	2014-10-15	 Hurricanes	 	 • Andrej Sekera	 upper body injury (DTD)
+23	2014-10-21	 Hurricanes	 • Andrej Sekera	 	 returned to lineup
+24	2014-12-04	 Hurricanes	 	 • Andrej Sekera	 undisclosed injury (DTD)
+25	2014-12-06	 Hurricanes	 • Andrej Sekera	 	 returned to lineup
+26	2015-03-31	 Kings	 	 • Andrej Sekera	 lower body injury (out for season)
+27	2015-11-20	 Oilers	 	 • Andrej Sekera	 flu (DTD)
+28	2015-11-23	 Oilers	 • Andrej Sekera	 	 returned to lineup
+29	2016-12-29	 Oilers	 	 • Andrej Sekera	 illness (DTD)
+30	2017-01-03	 Oilers	 • Andrej Sekera	 	 returned to lineup
+31	2017-05-07	 Oilers	 	 • Andrej Sekera	 lower body injury (out for season)
+32	2017-10-03	 Oilers	 	 • Andrej Sekera	 placed on IR with knee injury
+33	2017-12-21	 Oilers	 • Andrej Sekera	 	 activated from IR
+34	2018-02-09	 Oilers	 	 • Andrej Sekera	 placed on IR with facial injury
+35	2018-02-10	 Oilers	 	 • Andrej Sekera	 facial injury (DTD)
+36	2018-02-14	 Oilers	 	 • Andrej Sekera	 placed on IR with facial injury
+37	2018-02-24	 Oilers	 • Andrej Sekera	 	 activated from IR
+38	2018-03-20	 Oilers	 	 • Andrej Sekera	 foot injury (DTD)
+39	2018-03-24	 Oilers	 • Andrej Sekera	 	 returned to lineup
+40	2018-04-04	 Oilers	 	 • Andrej Sekera	 knee injury (out for season)
+41	2018-10-02	 Oilers	 	 • Andrej Sekera	 placed on IR with Achiles injury
+42	2019-02-18	 Oilers	 • Andrej Sekera	 	 activated from IR
+43	2019-10-29	 Stars	 	 • Andrej Sekera	 undisclosed (DTD)
+44	2019-11-10	 Stars	 • Andrej Sekera	 	 returned to lineup

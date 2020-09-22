@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-10-16	 Sabres	 	 • Zemgus Girgensons	 facial injury (DTD)
+1	2013-10-19	 Sabres	 • Zemgus Girgensons	 	 returned to lineup
+2	2014-03-07	 Sabres	 	 • Zemgus Girgensons	 lower body injury (DTD)
+3	2014-03-29	 Sabres	 • Zemgus Girgensons	 	 returned to lineup
+4	2015-02-25	 Sabres	 	 • Zemgus Girgensons	 placed on IR with foot injury (out for season)
+5	2015-11-17	 Sabres	 	 • Zemgus Girgensons	 upper body injury (DTD)
+6	2015-11-21	 Sabres	 	 • Zemgus Girgensons	 placed on IR with upper body injury
+7	2015-11-25	 Sabres	 • Zemgus Girgensons	 	 activated from IR
+8	2016-01-16	 Sabres	 	 • Zemgus Girgensons	 upper body injury (DTD)
+9	2016-01-22	 Sabres	 	 • Zemgus Girgensons	 placed on IR with upper body injury
+10	2016-01-25	 Sabres	 • Zemgus Girgensons	 	 activated from IR
+11	2016-02-09	 Sabres	 	 • Zemgus Girgensons	 lower body injury (DTD)
+12	2016-02-09	 Sabres	 	 • Zemgus Girgensons	 placed on IR with lower body injury
+13	2016-02-14	 Sabres	 • Zemgus Girgensons	 	 activated from IR
+14	2017-02-09	 Sabres	 	 • Zemgus Girgensons	 mid-body injury (DTD)
+15	2017-02-14	 Sabres	 	 • Zemgus Girgensons	 placed on IR with mid-body injury
+16	2017-02-25	 Sabres	 • Zemgus Girgensons	 	 activated from IR
+17	2017-10-17	 Sabres	 	 • Zemgus Girgensons	 lower body injury (DTD)
+18	2017-10-20	 Sabres	 	 • Zemgus Girgensons	 lower body injury (DTD)
+19	2017-10-25	 Sabres	 • Zemgus Girgensons	 	 returned to lineup
+20	2018-02-10	 Sabres	 	 • Zemgus Girgensons	 illness (DTD)
+21	2018-02-11	 Sabres	 • Zemgus Girgensons	 	 returned to lineup
+22	2018-03-19	 Sabres	 	 • Zemgus Girgensons	 undisclosed (DTD)
+23	2018-03-23	 Sabres	 • Zemgus Girgensons	 	 returned to lineup
+24	2018-04-04	 Sabres	 	 • Zemgus Girgensons	 facial injury (out for season)
+25	2018-12-29	 Sabres	 	 • Zemgus Girgensons	 placed on IR with upper body injury
+26	2019-01-08	 Sabres	 • Zemgus Girgensons	 	 activated from IR

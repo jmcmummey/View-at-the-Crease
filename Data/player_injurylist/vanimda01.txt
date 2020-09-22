@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-23	 Bruins	 	 • Darren Van Impe	 shoulder injury (out indefinitely)
+1	2001-01-10	 Bruins	 	 • Darren Van Impe	 placed on IR
+2	2003-03-03	 Blue Jackets	 	 • Darren Van Impe	 placed on IR with broken foot

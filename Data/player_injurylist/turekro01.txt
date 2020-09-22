@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-11-14	 Stars	 	 • Roman Turek	 placed on IR with strained groin
+1	2002-11-03	 Flames	 	 • Roman Turek	 placed on IR with broken finger
+2	2003-10-14	 Flames	 	 • Roman Turek	 knee injury (out indefinitely)

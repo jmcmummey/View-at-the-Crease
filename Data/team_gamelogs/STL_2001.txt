@@ -1,0 +1,83 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	2000-10-05	@	Phoenix Coyotes	1	4	L			33	11	1		0		20	13	1		0
+1	2000-10-06	@	San Jose Sharks	4	1	W			29	16	1		0		19	16	0		0
+2	2000-10-08	@	Mighty Ducks of Anaheim	5	1	W			40	19	1		0		25	35	0		0
+3	2000-10-11	@	Los Angeles Kings	4	4	T	OT		31	35	0		0		25	14	4		0
+4	2000-10-13		Minnesota Wild	2	0	W			22	22	1		0		16	24	0		0
+5	2000-10-17	@	Detroit Red Wings	1	2	L			31	12	0		1		23	14	0		0
+6	2000-10-19		Los Angeles Kings	7	1	W			30	34	3		1		18	24	0		0
+7	2000-10-21		Chicago Blackhawks	1	0	W			28	13	0		0		16	13	0		0
+8	2000-10-26		Calgary Flames	4	3	W			21	48	2		0		21	29	1		0
+9	2000-10-28		Dallas Stars	4	3	W	OT		30	11	0		0		24	11	0		0
+10	2000-10-29	@	Carolina Hurricanes	4	1	W			30	24	0		1		32	16	0		0
+11	2000-10-31	@	Nashville Predators	4	2	W			27	37	1		1		22	17	1		0
+12	2000-11-02		Washington Capitals	2	0	W			26	12	0		0		30	8	0		0
+13	2000-11-04		Toronto Maple Leafs	0	0	T	OT		36	13	0		0		16	25	0		0
+14	2000-11-09	@	Colorado Avalanche	3	3	T	OT		30	18	1		0		22	22	0		1
+15	2000-11-11	@	Vancouver Canucks	5	2	W			29	6	0		0		29	4	0		0
+16	2000-11-14	@	Edmonton Oilers	0	3	L			29	20	0		0		17	28	0		0
+17	2000-11-16		Pittsburgh Penguins	4	3	W			34	14	2		0		20	26	2		0
+18	2000-11-18		Buffalo Sabres	4	1	W			39	15	0		0		21	13	1		0
+19	2000-11-21		Vancouver Canucks	3	4	L			33	13	0		0		24	7	2		0
+20	2000-11-24	@	Nashville Predators	4	0	W			29	6	1		0		28	6	0		0
+21	2000-11-25		Phoenix Coyotes	5	1	W			31	19	2		0		26	19	0		1
+22	2000-11-29	@	Toronto Maple Leafs	6	5	W	OT		35	13	2		0		25	21	0		0
+23	2000-12-02		Florida Panthers	5	2	W			40	10	0		0		15	8	0		0
+24	2000-12-05		Mighty Ducks of Anaheim	1	0	W			32	13	1		0		19	13	0		0
+25	2000-12-09		Chicago Blackhawks	6	4	W			24	10	1		0		29	8	0		0
+26	2000-12-10	@	Chicago Blackhawks	6	1	W			23	18	1		0		23	20	0		0
+27	2000-12-15	@	Atlanta Thrashers	6	3	W			38	16	1		0		22	22	1		0
+28	2000-12-16		Detroit Red Wings	2	2	T	OT		20	21	1		0		21	21	1		0
+29	2000-12-20	@	New York Rangers	6	3	W			29	36	1		0		23	40	0		0
+30	2000-12-23		Mighty Ducks of Anaheim	5	2	W			38	16	3		1		24	18	1		0
+31	2000-12-26		Columbus Blue Jackets	5	0	W			31	8	2		0		24	12	0		0
+32	2000-12-28		Los Angeles Kings	2	5	L			35	27	0		0		36	27	1		0
+33	2000-12-30		Phoenix Coyotes	2	1	W			45	37	1		0		19	58	0		0
+34	2001-01-01		Edmonton Oilers	5	2	W			39	11	2		0		21	13	0		0
+35	2001-01-02	@	Ottawa Senators	1	3	L			34	10	1		0		27	12	0		0
+36	2001-01-04		Nashville Predators	2	4	L			25	12	0		0		26	10	1		0
+37	2001-01-06		Minnesota Wild	5	1	W			50	27	2		1		21	51	0		0
+38	2001-01-08		Philadelphia Flyers	1	2	L	OT		27	13	1		0		22	9	1		0
+39	2001-01-10	@	Mighty Ducks of Anaheim	4	2	W			41	39	1		1		22	15	2		0
+40	2001-01-11	@	San Jose Sharks	3	6	L			24	36	1		0		25	22	0		0
+41	2001-01-13	@	Los Angeles Kings	4	2	W			30	10	2		0		21	8	2		0
+42	2001-01-15	@	Phoenix Coyotes	1	3	L			33	19	0		1		17	21	2		1
+43	2001-01-18		Edmonton Oilers	4	1	W			36	8	2		0		15	12	0		0
+44	2001-01-20		Vancouver Canucks	3	0	W			27	8	1		1		27	18	0		0
+45	2001-01-21	@	Nashville Predators	1	3	L			33	17	0		0		24	15	1		0
+46	2001-01-23	@	Montreal Canadiens	5	2	W			29	8	1		0		23	6	1		0
+47	2001-01-25		New Jersey Devils	4	3	W	OT		25	4	1		0		31	10	1		0
+48	2001-01-27		San Jose Sharks	3	4	L	OT		31	14	2		0		14	20	2		0
+49	2001-01-29		Toronto Maple Leafs	2	1	W			19	6	0		1		27	6	0		0
+50	2001-01-30	@	Boston Bruins	1	5	L			28	4	0		0		31	8	0		0
+51	2001-02-01		Columbus Blue Jackets	2	2	T	OT		30	4	0		0		16	8	0		0
+52	2001-02-06	@	Columbus Blue Jackets	2	2	T	OT		41	16	0		0		26	10	1		0
+53	2001-02-08		Tampa Bay Lightning	4	1	W			36	15	1		0		27	18	0		0
+54	2001-02-10	@	Colorado Avalanche	4	3	W	OT		32	12	0		0		37	6	2		0
+55	2001-02-11	@	Dallas Stars	3	3	T	OT		29	10	0		1		23	8	3		0
+56	2001-02-15		Calgary Flames	4	1	W			28	18	0		1		26	8	1		0
+57	2001-02-16	@	Chicago Blackhawks	2	6	L			31	12	1		0		23	18	1		0
+58	2001-02-19	@	Florida Panthers	0	3	L			35	17	0		0		26	30	1		1
+59	2001-02-20	@	Tampa Bay Lightning	2	3	L			30	24	1		0		20	18	0		0
+60	2001-02-23	@	Detroit Red Wings	2	4	L			30	19	0		0		27	13	1		0
+61	2001-02-24		Boston Bruins	3	2	W	OT		25	14	2		0		18	12	2		0
+62	2001-02-26		San Jose Sharks	7	2	W			29	35	1		1		27	14	2		0
+63	2001-02-28	@	Edmonton Oilers	3	5	L			16	22	1		1		25	22	1		0
+64	2001-03-02	@	Vancouver Canucks	2	3	L	OT		26	10	1		0		24	10	2		0
+65	2001-03-03	@	Calgary Flames	2	3	L	OT		21	10	1		1		25	10	0		0
+66	2001-03-06	@	Minnesota Wild	3	3	T	OT		35	10	1		0		29	10	0		1
+67	2001-03-08		Colorado Avalanche	2	5	L			24	17	1		0		27	21	0		0
+68	2001-03-10		Detroit Red Wings	2	2	T	OT		28	10	0		0		27	10	0		0
+69	2001-03-13	@	Philadelphia Flyers	2	5	L			30	13	1		0		28	13	1		1
+70	2001-03-14	@	Minnesota Wild	1	0	W	OT		15	8	0		0		21	6	0		0
+71	2001-03-17	@	Calgary Flames	2	2	T	OT		31	17	1		0		29	11	1		0
+72	2001-03-20		New York Islanders	3	4	L	OT		23	8	2		0		20	10	1		0
+73	2001-03-22		Colorado Avalanche	1	3	L			28	8	1		0		22	10	3		0
+74	2001-03-24		Chicago Blackhawks	5	1	W			33	18	3		0		23	32	0		0
+75	2001-03-25	@	Dallas Stars	1	1	T	OT		29	18	1		0		27	35	0		0
+76	2001-03-28	@	Detroit Red Wings	2	5	L			27	6	2		0		33	4	0		1
+77	2001-03-31	@	Pittsburgh Penguins	3	5	L			34	20	1		0		19	18	2		0
+78	2001-04-01	@	Columbus Blue Jackets	1	2	L			30	25	1		0		17	17	1		0
+79	2001-04-03		Carolina Hurricanes	2	2	T	OT		32	10	0		0		27	6	1		0
+80	2001-04-05		Columbus Blue Jackets	4	1	W			40	10	1		0		27	16	1		0
+81	2001-04-07		Nashville Predators	1	0	W			27	6	0		0		19	10	0		0

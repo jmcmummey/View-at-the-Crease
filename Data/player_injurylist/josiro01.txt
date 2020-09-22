@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-09-24	 Predators	 	 • Roman Josi	 wrist injury (out indefinitely)
+1	2011-10-02	 Predators	 	 • Roman Josi	 placed on IR with upper body injury
+2	2011-11-25	 Predators	 • Roman Josi	 	 activated from IR
+3	2012-03-12	 Predators	 	 • Roman Josi	 upper body injury (DTD)
+4	2012-03-30	 Predators	 • Roman Josi	 	 returned to lineup
+5	2013-10-05	 Predators	 	 • Roman Josi	 concussion (DTD)
+6	2013-10-10	 Predators	 	 • Roman Josi	 placed on IR with concussion
+7	2013-10-31	 Predators	 • Roman Josi	 	 activated from IR
+8	2015-04-11	 Predators	 	 • Roman Josi	 lower body injury (out for season)
+9	2017-01-13	 Predators	 	 • Roman Josi	 placed on IR with upper body injury
+10	2017-02-04	 Predators	 • Roman Josi	 	 activated from IR
+11	2017-04-08	 Predators	 	 • Roman Josi	 lower body injury (out for season)
+12	2017-10-10	 Predators	 	 • Roman Josi	 lower body injury (DTD)
+13	2017-10-17	 Predators	 • Roman Josi	 	 returned to lineup
+14	2018-03-04	 Predators	 	 • Roman Josi	 upper body injury (DTD)
+15	2018-03-10	 Predators	 • Roman Josi	 	 returned to lineup

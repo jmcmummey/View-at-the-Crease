@@ -1,0 +1,48 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-01	 Sabres	 	 • Patrick Kaleta	 head & neck injury (DTD)
+1	2008-12-04	 Sabres	 	 • Patrick Kaleta	 placed on IR
+2	2008-12-17	 Sabres	 • Patrick Kaleta	 	 activated from IR
+3	2008-12-20	 Sabres	 	 • Patrick Kaleta	 head injury (DTD)
+4	2009-01-31	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+5	2009-04-06	 Sabres	 	 • Patrick Kaleta	 migraine headache (DTD)
+6	2009-04-07	 Sabres	 	 • Patrick Kaleta	 torn ligament in neck (out for season)
+7	2009-10-31	 Sabres	 	 • Patrick Kaleta	 flu (DTD)
+8	2009-11-04	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+9	2009-12-16	 Sabres	 	 • Patrick Kaleta	 head injury (DTD)
+10	2009-12-19	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+11	2009-12-21	 Sabres	 	 • Patrick Kaleta	 neck injury (DTD)
+12	2009-12-27	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+13	2009-12-29	 Sabres	 	 • Patrick Kaleta	 leg injury (DTD)
+14	2010-01-14	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+15	2010-02-02	 Sabres	 	 • Patrick Kaleta	 bruised foot (DTD)
+16	2010-03-02	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+17	2010-03-27	 Sabres	 	 • Patrick Kaleta	 upper body injury (DTD)
+18	2010-04-11	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+19	2010-11-17	 Sabres	 	 • Patrick Kaleta	 upper body injury (DTD)
+20	2010-11-19	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+21	2010-12-29	 Sabres	 	 • Patrick Kaleta	 upper body injury (DTD)
+22	2011-01-18	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+23	2011-01-22	 Sabres	 	 • Patrick Kaleta	 placed on IR with fractured left hand
+24	2011-02-13	 Sabres	 • Patrick Kaleta	 	 activated from IR
+25	2011-03-08	 Sabres	 	 • Patrick Kaleta	 knee injury (DTD)
+26	2011-04-09	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+27	2011-11-23	 Sabres	 	 • Patrick Kaleta	 lower body injury (DTD)
+28	2011-12-02	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+29	2011-12-03	 Sabres	 	 • Patrick Kaleta	 groin injury (DTD)
+30	2011-12-09	 Sabres	 	 • Patrick Kaleta	 placed on IR with groin injury
+31	2011-12-22	 Sabres	 • Patrick Kaleta	 	 activated from IR
+32	2012-03-10	 Sabres	 	 • Patrick Kaleta	 neck injury (DTD)
+33	2012-03-21	 Sabres	 	 • Patrick Kaleta	 upper body injury (DTD)
+34	2012-03-27	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+35	2013-01-30	 Sabres	 	 • Patrick Kaleta	 neck injury (DTD)
+36	2013-02-05	 Sabres	 	 • Patrick Kaleta	 placed on IR with neck injury
+37	2013-02-09	 Sabres	 • Patrick Kaleta	 	 activated from IR
+38	2013-04-22	 Sabres	 	 • Patrick Kaleta	 hand injury (out for season)
+39	2014-10-06	 Sabres	 	 • Patrick Kaleta	 placed on IR with facial fractures
+40	2014-11-11	 Sabres	 • Patrick Kaleta	 	 activated from IR
+41	2014-11-26	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+42	2014-12-21	 Sabres	 	 • Patrick Kaleta	 illness (DTD)
+43	2014-12-23	 Sabres	 • Patrick Kaleta	 	 returned to lineup
+44	2015-02-15	 Sabres	 	 • Patrick Kaleta	 lower body injury (DTD)
+45	2015-02-22	 Sabres	 	 • Patrick Kaleta	 placed on IR with lower body injury
+46	2015-03-26	 Sabres	 • Patrick Kaleta	 	 activated from IR

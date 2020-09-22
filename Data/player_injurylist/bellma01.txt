@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-09	 Sharks	 	 • Mark Bell	 placed on IR with groin injury
+1	2006-10-17	 Sharks	 • Mark Bell	 	 activated from IR
+2	2007-01-26	 Sharks	 	 • Mark Bell	 groin injury (DTD)
+3	2007-01-30	 Sharks	 • Mark Bell	 	 returned to lineup
+4	2008-01-05	 Maple Leafs	 	 • Mark Bell	 orbital fracture (out indefinitely)
+5	2008-03-15	 Maple Leafs	 • Mark Bell	 	 returned to lineup

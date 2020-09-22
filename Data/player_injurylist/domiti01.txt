@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-17	 Maple Leafs	 	 • Tie Domi	 shoulder injury (DTD)
+1	2005-12-22	 Maple Leafs	 • Tie Domi	 	 returned to lineup

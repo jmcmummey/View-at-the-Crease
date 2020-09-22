@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-23	 Thrashers	 	 • Shawn McEachern	 placed on IR with strained groin
+1	2005-10-20	 Bruins	 	 • Shawn McEachern	 back spasms (DTD)
+2	2005-10-29	 Bruins	 • Shawn McEachern	 	 returned to lineup

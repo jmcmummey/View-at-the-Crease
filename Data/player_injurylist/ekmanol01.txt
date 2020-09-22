@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-03	 Coyotes	 	 • Oliver Ekman-Larsson	 upper body injury (DTD)
+1	2014-01-08	 Coyotes	 • Oliver Ekman-Larsson	 	 returned to lineup
+2	2016-03-08	 Coyotes	 	 • Oliver Ekman-Larsson	 upper body injury (DTD)
+3	2016-03-22	 Coyotes	 • Oliver Ekman-Larsson	 	 returned to lineup
+4	2016-03-31	 Coyotes	 	 • Oliver Ekman-Larsson	 illness (DTD)
+5	2016-04-02	 Coyotes	 • Oliver Ekman-Larsson	 	 returned to lineup
+6	2019-01-23	 Coyotes	 	 • Oliver Ekman-Larsson	 knee injury (DTD)
+7	2019-02-02	 Coyotes	 • Oliver Ekman-Larsson	 	 returned to lineup
+8	2020-01-31	 Coyotes	 	 • Oliver Ekman-Larsson	 lower body injury (DTD)
+9	2020-02-10	 Coyotes	 • Oliver Ekman-Larsson	 	 returned to lineup

@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-02-17	 Canadiens	 	 • Brendan Gallagher	 concussion (DTD)
+1	2013-02-23	 Canadiens	 • Brendan Gallagher	 	 returned to lineup
+2	2013-11-15	 Canadiens	 	 • Brendan Gallagher	 flu (DTD)
+3	2013-11-16	 Canadiens	 • Brendan Gallagher	 	 returned to lineup
+4	2015-11-23	 Canadiens	 	 • Brendan Gallagher	 placed on IR with fractured fingers
+5	2015-12-31	 Canadiens	 • Brendan Gallagher	 	 activated from IR
+6	2016-03-06	 Canadiens	 	 • Brendan Gallagher	 lower body injury (DTD)
+7	2016-04-01	 Canadiens	 • Brendan Gallagher	 	 returned to lineup
+8	2017-01-05	 Canadiens	 	 • Brendan Gallagher	 placed on IR with fractured right hand
+9	2017-02-12	 Canadiens	 • Brendan Gallagher	 	 activated from IR
+10	2020-01-02	 Canadiens	 	 • Brendan Gallagher	 placed on IR with concussion
+11	2020-01-09	 Canadiens	 • Brendan Gallagher	 	 activated from IR
+12	2020-01-11	 Canadiens	 	 • Brendan Gallagher	 headache (DTD)
+13	2020-01-30	 Canadiens	 • Brendan Gallagher	 	 returned to lineup
+14	2020-02-18	 Canadiens	 	 • Brendan Gallagher	 lower body injury (DTD)
+15	2020-02-20	 Canadiens	 • Brendan Gallagher	 	 returned to lineup
+16	2020-03-05	 Canadiens	 	 • Brendan Gallagher	 flu (DTD)
+17	2020-03-07	 Canadiens	 • Brendan Gallagher	 	 returned to lineup
+18	2020-08-20	 Canadiens	 	 • Brendan Gallagher	 fractured jaw (out for season)

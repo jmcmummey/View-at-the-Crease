@@ -1,0 +1,38 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-01-12	 Flames	 • Jean-Sebastien Giguere	 	 activated from IR
+1	2005-10-19	 Mighty Ducks	 	 • Jean-Sebastien Giguere	 groin injury (left game)
+2	2005-10-26	 Mighty Ducks	 • Jean-Sebastien Giguere	 	 returned to lineup
+3	2005-11-13	 Mighty Ducks	 	 • Jean-Sebastien Giguere	 leg injury (left game)
+4	2005-11-15	 Mighty Ducks	 	 • Jean-Sebastien Giguere	 dehydration (DTD)
+5	2005-11-20	 Mighty Ducks	 • Jean-Sebastien Giguere	 	 returned to lineup
+6	2005-11-22	 Mighty Ducks	 	 • Jean-Sebastien Giguere	 hamstring injury (out indefinitely)
+7	2005-11-23	 Mighty Ducks	 	 • Jean-Sebastien Giguere	 placed on IR with hamstring injury
+8	2005-12-01	 Mighty Ducks	 • Jean-Sebastien Giguere	 	 activated from IR
+9	2006-04-21	 Mighty Ducks	 	 • Jean-Sebastien Giguere	 lower body injury (DTD)
+10	2006-04-23	 Mighty Ducks	 • Jean-Sebastien Giguere	 	 returned to lineup
+11	2006-11-26	 Ducks	 	 • Jean-Sebastien Giguere	 broken finger (out indefinitely)
+12	2006-11-28	 Ducks	 • Jean-Sebastien Giguere	 	 returned to lineup
+13	2006-12-29	 Ducks	 	 • Jean-Sebastien Giguere	 strained groin (DTD)
+14	2007-01-28	 Ducks	 • Jean-Sebastien Giguere	 	 returned to lineup
+15	2007-09-21	 Ducks	 	 • Jean-Sebastien Giguere	 hernia (DTD)
+16	2007-10-14	 Ducks	 • Jean-Sebastien Giguere	 	 returned to lineup
+17	2008-03-22	 Ducks	 	 • Jean-Sebastien Giguere	 back spasms (DTD)
+18	2008-03-30	 Ducks	 • Jean-Sebastien Giguere	 	 returned to lineup
+19	2009-10-21	 Ducks	 	 • Jean-Sebastien Giguere	 placed on IR with strained groin (date approximate)
+20	2009-11-09	 Ducks	 • Jean-Sebastien Giguere	 	 activated from IR
+21	2010-11-17	 Maple Leafs	 	 • Jean-Sebastien Giguere	 groin injury (DTD)
+22	2010-12-02	 Maple Leafs	 • Jean-Sebastien Giguere	 	 returned to lineup
+23	2010-12-06	 Maple Leafs	 	 • Jean-Sebastien Giguere	 groin injury (DTD)
+24	2010-12-08	 Maple Leafs	 • Jean-Sebastien Giguere	 	 returned to lineup
+25	2010-12-17	 Maple Leafs	 	 • Jean-Sebastien Giguere	 groin injury (DTD)
+26	2010-12-26	 Maple Leafs	 	 • Jean-Sebastien Giguere	 placed on IR with groin injury
+27	2011-01-13	 Maple Leafs	 • Jean-Sebastien Giguere	 	 activated from IR (date 01-16 per S)
+28	2011-02-17	 Maple Leafs	 	 • Jean-Sebastien Giguere	 lower body injury (DTD)
+29	2011-02-26	 Maple Leafs	 • Jean-Sebastien Giguere	 	 returned to lineup
+30	2012-02-16	 Avalanche	 	 • Jean-Sebastien Giguere	 groin injury (DTD)
+31	2012-02-22	 Avalanche	 • Jean-Sebastien Giguere	 	 returned to lineup
+32	2013-02-16	 Avalanche	 	 • Jean-Sebastien Giguere	 placed on IR for personal reasons
+33	2014-01-13	 Avalanche	 	 • Jean-Sebastien Giguere	 back spasms (DTD)
+34	2014-01-16	 Avalanche	 • Jean-Sebastien Giguere	 	 returned to lineup
+35	2014-01-25	 Avalanche	 	 • Jean-Sebastien Giguere	 back injury (DTD)
+36	2014-01-27	 Avalanche	 • Jean-Sebastien Giguere	 	 returned to lineup

@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-10-18	 Bruins	 	 • Sergei Samsonov	 wrist injury (out indefinitely)
+1	2005-12-04	 Bruins	 	 • Sergei Samsonov	 hand injury (DTD)
+2	2005-12-11	 Bruins	 • Sergei Samsonov	 	 returned to lineup
+3	2005-12-28	 Bruins	 	 • Sergei Samsonov	 ribcage injury (DTD)
+4	2005-12-30	 Bruins	 • Sergei Samsonov	 	 returned to lineup
+5	2006-01-05	 Bruins	 	 • Sergei Samsonov	 flu (DTD)
+6	2006-01-10	 Bruins	 • Sergei Samsonov	 	 returned to lineup
+7	2006-01-21	 Bruins	 	 • Sergei Samsonov	 leg injury (left game)
+8	2006-02-09	 Bruins	 	 • Sergei Samsonov	 foot injury (DTD)
+9	2006-03-01	 Bruins	 • Sergei Samsonov	 	 returned to lineup
+10	2007-02-26	 Canadiens	 	 • Sergei Samsonov	 flu (DTD)
+11	2007-03-02	 Canadiens	 • Sergei Samsonov	 	 returned to lineup
+12	2009-02-26	 Hurricanes	 	 • Sergei Samsonov	 upper body injury (DTD)
+13	2009-02-28	 Hurricanes	 • Sergei Samsonov	 	 returned to lineup
+14	2009-04-23	 Hurricanes	 	 • Sergei Samsonov	 lower body injury (DTD)
+15	2009-04-26	 Hurricanes	 • Sergei Samsonov	 	 returned to lineup
+16	2009-12-09	 Hurricanes	 	 • Sergei Samsonov	 lower body injury (DTD)
+17	2009-12-16	 Hurricanes	 • Sergei Samsonov	 	 returned to lineup
+18	2010-01-01	 Hurricanes	 	 • Sergei Samsonov	 upper body injury (DTD)
+19	2010-01-05	 Hurricanes	 	 • Sergei Samsonov	 placed on IR
+20	2010-01-18	 Hurricanes	 • Sergei Samsonov	 	 activated from IR
+21	2010-09-26	 Hurricanes	 	 • Sergei Samsonov	 neck injury (out indefinitely)
+22	2010-09-30	 Hurricanes	 	 • Sergei Samsonov	 placed on IR with neck injury
+23	2010-10-14	 Hurricanes	 • Sergei Samsonov	 	 activated from IR

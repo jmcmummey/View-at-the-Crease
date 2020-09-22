@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-06	 Sabres	 	 • Johan Larsson	 placed on IR with concussion
+1	2014-10-09	 Sabres	 • Johan Larsson	 	 activated from IR
+2	2016-02-09	 Sabres	 	 • Johan Larsson	 undisclosed injury (DTD)
+3	2016-02-16	 Sabres	 • Johan Larsson	 	 returned to lineup
+4	2016-04-09	 Sabres	 	 • Johan Larsson	 undisclosed injury (out for season)
+5	2016-12-31	 Sabres	 	 • Johan Larsson	 dislocated wrist (out for season)
+6	2017-01-10	 Sabres	 	 • Johan Larsson	 placed on IR with dislocated wrist (out for season)
+7	2018-09-27	 Sabres	 	 • Johan Larsson	 placed on IR with foot injury
+8	2018-10-02	 Sabres	 	 • Johan Larsson	 placed on IR with foot injury
+9	2018-10-11	 Sabres	 • Johan Larsson	 	 activated from IR
+10	2019-02-01	 Sabres	 	 • Johan Larsson	 upper body injury (DTD)
+11	2019-02-07	 Sabres	 • Johan Larsson	 	 returned to lineup
+12	2019-11-15	 Sabres	 	 • Johan Larsson	 upper body injury (DTD)
+13	2019-11-21	 Sabres	 • Johan Larsson	 	 returned to lineup
+14	2019-12-20	 Sabres	 	 • Johan Larsson	 upper body injury (DTD)
+15	2019-12-29	 Sabres	 • Johan Larsson	 	 returned to lineup
+16	2020-02-04	 Sabres	 	 • Johan Larsson	 lower body injury (DTD)
+17	2020-02-05	 Sabres	 • Johan Larsson	 	 returned to lineup

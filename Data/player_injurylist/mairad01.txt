@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-03	 Sabres	 	 • Adam Mair	 placed on IR with groin injury
+1	2005-10-20	 Sabres	 • Adam Mair	 	 activated from IR
+2	2006-01-12	 Sabres	 	 • Adam Mair	 concussion (left game)
+3	2006-01-13	 Sabres	 	 • Adam Mair	 concussion (DTD)
+4	2006-01-14	 Sabres	 	 • Adam Mair	 placed on IR with concussion
+5	2006-04-03	 Sabres	 • Adam Mair	 	 returned to lineup
+6	2006-04-17	 Sabres	 	 • Adam Mair	 post-concussion (out indefinitely)
+7	2006-05-28	 Sabres	 • Adam Mair	 	 returned to lineup
+8	2007-11-06	 Sabres	 	 • Adam Mair	 right ankle injury (out indefinitely)
+9	2007-12-01	 Sabres	 • Adam Mair	 	 returned to lineup
+10	2009-01-28	 Sabres	 	 • Adam Mair	 leg injury (DTD)
+11	2009-02-02	 Sabres	 • Adam Mair	 	 returned to lineup
+12	2009-03-16	 Sabres	 	 • Adam Mair	 knee injury (DTD)
+13	2009-03-28	 Sabres	 • Adam Mair	 	 returned to lineup
+14	2009-09-30	 Sabres	 	 • Adam Mair	 placed on injured / non-roster status
+15	2009-10-17	 Sabres	 • Adam Mair	 	 activated from injured / non-roster status

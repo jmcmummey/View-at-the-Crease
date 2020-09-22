@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-17	 Sharks	 	 • Brad Staubitz	 facial injury (DTD)
+1	2009-12-03	 Sharks	 	 • Brad Staubitz	 placed on IR with facial injury
+2	2010-01-02	 Sharks	 • Brad Staubitz	 	 activated from IR
+3	2010-05-02	 Sharks	 	 • Brad Staubitz	 lower body injury (out for season)
+4	2013-03-11	 Ducks	 	 • Brad Staubitz	 placed on IR with facial laceration
+5	2013-03-16	 Ducks	 • Brad Staubitz	 	 activated from IR

@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-16	 Capitals	 	 • Lawrence Nycholat	 illness (out indefinitely)
+1	2007-03-27	 Senators	 • Lawrence Nycholat	 	 returned to lineup
+2	2008-10-07	 Canucks	 	 • Lawrence Nycholat	 placed on IR with back injury
+3	2008-10-16	 Canucks	 • Lawrence Nycholat	 	 activated from IR
+4	2009-03-14	 Avalanche	 • Lawrence Nycholat	 	 returned to lineup
+5	2009-03-25	 Avalanche	 	 • Lawrence Nycholat	 upper body injury (DTD)

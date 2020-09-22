@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-19	 Kings	 	 • Kyle Clifford	 head injury (DTD)
+1	2011-03-24	 Kings	 • Kyle Clifford	 	 returned to lineup
+2	2012-04-12	 Kings	 	 • Kyle Clifford	 concussion (DTD)
+3	2012-05-15	 Kings	 • Kyle Clifford	 	 returned to lineup
+4	2013-05-10	 Kings	 	 • Kyle Clifford	 undisclosed (DTD)
+5	2013-05-21	 Kings	 • Kyle Clifford	 	 returned to lineup
+6	2013-11-10	 Kings	 	 • Kyle Clifford	 upper body injury (DTD)
+7	2013-11-13	 Kings	 	 • Kyle Clifford	 placed on IR with upper body injury
+8	2013-11-23	 Kings	 • Kyle Clifford	 	 activated from IR
+9	2014-12-09	 Kings	 	 • Kyle Clifford	 flu (DTD)
+10	2014-12-11	 Kings	 • Kyle Clifford	 	 returned to lineup
+11	2015-12-08	 Kings	 	 • Kyle Clifford	 upper / lower (Y) body injury (DTD)
+12	2015-12-14	 Kings	 	 • Kyle Clifford	 placed on IR with upper body injury (CBC)
+13	2016-02-04	 Kings	 • Kyle Clifford	 	 activated from IR
+14	2016-12-20	 Kings	 	 • Kyle Clifford	 upper body injury (DTD)
+15	2016-12-28	 Kings	 • Kyle Clifford	 	 returned to lineup
+16	2017-10-12	 Kings	 	 • Kyle Clifford	 placed on IR with upper body injury
+17	2017-12-12	 Kings	 • Kyle Clifford	 	 activated from IR
+18	2017-12-23	 Kings	 	 • Kyle Clifford	 placed on IR with undisclosed injury
+19	2017-12-28	 Kings	 • Kyle Clifford	 	 activated from IR
+20	2018-12-09	 Kings	 	 • Kyle Clifford	 upper body injury (DTD)
+21	2018-12-27	 Kings	 • Kyle Clifford	 	 returned to lineup
+22	2019-12-06	 Kings	 	 • Kyle Clifford	 illness (DTD)
+23	2019-12-07	 Kings	 • Kyle Clifford	 	 returned to lineup

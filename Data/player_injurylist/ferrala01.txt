@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-09-29	 Red Wings	 	 • Landon Ferraro	 placed on IR
+1	2015-11-07	 Red Wings	 	 • Landon Ferraro	 lower body injury (DTD)
+2	2015-11-13	 Red Wings	 	 • Landon Ferraro	 placed on IR with knee injury
+3	2015-11-23	 Bruins	 • Landon Ferraro	 	 activated from IR
+4	2016-01-19	 Bruins	 	 • Landon Ferraro	 lower body injury (DTD)
+5	2016-01-21	 Bruins	 • Landon Ferraro	 	 returned to lineup
+6	2017-10-21	 Wild	 	 • Landon Ferraro	 hip injury (DTD)
+7	2017-10-26	 Wild	 	 • Landon Ferraro	 hip injury (DTD)
+8	2017-11-05	 Wild	 • Landon Ferraro	 	 returned to lineup

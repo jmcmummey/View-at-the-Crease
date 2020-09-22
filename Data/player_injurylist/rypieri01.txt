@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-02	 Canucks	 	 • Rick Rypien	 broken ankle (out indefinitely)
+1	2006-12-05	 Canucks	 	 • Rick Rypien	 partially torn groin muscle (out 6-8 weeks)
+2	2007-02-09	 Canucks	 • Rick Rypien	 	 returned to lineup
+3	2007-10-25	 Canucks	 	 • Rick Rypien	 placed on IR with broken finger
+4	2007-12-04	 Canucks	 • Rick Rypien	 	 activated from IR
+5	2008-10-19	 Canucks	 	 • Rick Rypien	 placed on IR with sports hernia
+6	2008-10-21	 Canucks	 	 • Rick Rypien	 viral infection (DTD)
+7	2009-03-31	 Canucks	 • Rick Rypien	 	 activated from IR
+8	2009-10-24	 Canucks	 	 • Rick Rypien	 groin injury (DTD)
+9	2009-10-29	 Canucks	 • Rick Rypien	 	 returned to lineup
+10	2009-11-26	 Canucks	 	 • Rick Rypien	 lower (Y) / upper (CBC) body injury (DTD)
+11	2009-12-02	 Canucks	 • Rick Rypien	 	 returned to lineup
+12	2010-01-20	 Canucks	 	 • Rick Rypien	 illness (DTD)
+13	2010-01-25	 Canucks	 • Rick Rypien	 	 returned to lineup
+14	2010-10-04	 Canucks	 	 • Rick Rypien	 upper body injury (our indefinitely)
+15	2010-10-09	 Canucks	 	 • Rick Rypien	 placed on IR with upper body injury
+16	2010-10-13	 Canucks	 • Rick Rypien	 	 activated from IR

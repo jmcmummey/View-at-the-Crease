@@ -1,0 +1,46 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-25	 Blues	 	 • Ben Bishop	 lower body injury (left game, DTD)
+1	2008-10-26	 Blues	 	 • Ben Bishop	 placed on IR with lower body injury (date approximate)
+2	2008-11-05	 Blues	 • Ben Bishop	 	 activated from iR
+3	2012-03-24	 Senators	 	 • Ben Bishop	 groin injury (out indefinitely)
+4	2012-04-05	 Senators	 • Ben Bishop	 	 returned to lineup
+5	2013-10-11	 Lightning	 	 • Ben Bishop	 lower body injury (DTD)
+6	2013-10-15	 Lightning	 • Ben Bishop	 	 returned to lineup
+7	2014-01-06	 Lightning	 	 • Ben Bishop	 upper body injury (DTD)
+8	2014-01-09	 Lightning	 	 • Ben Bishop	 placed on IR with sprained right wrist
+9	2014-01-13	 Lightning	 • Ben Bishop	 	 activated from IR
+10	2014-04-09	 Lightning	 	 • Ben Bishop	 wrist injury (out for season)
+11	2014-12-15	 Lightning	 	 • Ben Bishop	 lower body injury (DTD)
+12	2014-12-27	 Lightning	 • Ben Bishop	 	 returned to lineup
+13	2014-12-31	 Lightning	 	 • Ben Bishop	 lower body injury (DTD)
+14	2015-01-02	 Lightning	 • Ben Bishop	 	 returned to lineup
+15	2015-06-10	 Lightning	 	 • Ben Bishop	 undisclosed (DTD)
+16	2015-06-13	 Lightning	 • Ben Bishop	 	 returned to lineup
+17	2016-05-16	 Lightning	 	 • Ben Bishop	 lower body injury (out for season)
+18	2016-12-21	 Lightning	 	 • Ben Bishop	 placed on IR with lower body injury
+19	2017-01-11	 Lightning	 • Ben Bishop	 	 activated from IR
+20	2017-12-06	 Stars	 	 • Ben Bishop	 sore back (DTD)
+21	2017-12-08	 Stars	 • Ben Bishop	 	 returned to lineup
+22	2018-02-02	 Stars	 	 • Ben Bishop	 facial injury (DTD)
+23	2018-02-05	 Stars	 • Ben Bishop	 	 returned to lineup
+24	2018-03-06	 Stars	 	 • Ben Bishop	 lower body injury (DTD)
+25	2018-03-16	 Stars	 • Ben Bishop	 	 returned to lineup
+26	2018-03-18	 Stars	 	 • Ben Bishop	 lower body injury (out for season)
+27	2018-11-19	 Stars	 	 • Ben Bishop	 placed on IR with strained muscle
+28	2018-11-20	 Stars	 	 • Ben Bishop	 lower body injury (DTD)
+29	2018-11-23	 Stars	 	 • Ben Bishop	 placed on IR with lower body injury
+30	2018-11-29	 Stars	 • Ben Bishop	 	 activated from IR
+31	2019-02-07	 Stars	 	 • Ben Bishop	 undisclosed (DTD)
+32	2019-02-08	 Stars	 	 • Ben Bishop	 placed on IR with upper body injury
+33	2019-02-21	 Stars	 • Ben Bishop	 	 activated from IR
+34	2019-03-15	 Stars	 	 • Ben Bishop	 lower body injury (DTD)
+35	2019-03-18	 Stars	 • Ben Bishop	 	 returned to lineup
+36	2019-03-28	 Stars	 	 • Ben Bishop	 lower body injury (DTD)
+37	2019-04-06	 Stars	 • Ben Bishop	 	 returned to lineup
+38	2020-03-03	 Stars	 	 • Ben Bishop	 lower body injury (DTD)
+39	2020-03-05	 Stars	 • Ben Bishop	 	 returned to lineup
+40	2020-08-05	 Stars	 	 • Ben Bishop	 undisclosed (DTD)
+41	2020-08-11	 Stars	 • Ben Bishop	 	 returned to lineup
+42	2020-08-16	 Stars	 	 • Ben Bishop	 undisclosed (DTD)
+43	2020-08-31	 Stars	 • Ben Bishop	 	 returned to lineup
+44	2020-09-02	 Stars	 	 • Ben Bishop	 undisclosed (DTD)

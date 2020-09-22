@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-01-12	 Thrashers	 	 • Eric Perrin	 knee injury (DTD)
+1	2008-01-15	 Thrashers	 • Eric Perrin	 	 returned to lineup

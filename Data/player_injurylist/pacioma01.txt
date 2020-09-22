@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-19	 Canadiens	 	 • Max Pacioretty	 rib injury (out indefinitely)
+1	2011-01-21	 Canadiens	 • Max Pacioretty	 	 returned to lineup
+2	2011-03-09	 Canadiens	 	 • Max Pacioretty	 concussion, fractured vertebrae in neck (out indefinitely)
+3	2011-03-12	 Canadiens	 	 • Max Pacioretty	 placed on IR with fractured vertebrae in neck (out for season)
+4	2013-01-26	 Canadiens	 	 • Max Pacioretty	 placed on IR with appendectomy
+5	2013-02-03	 Canadiens	 • Max Pacioretty	 	 activated from IR
+6	2013-05-03	 Canadiens	 	 • Max Pacioretty	 upper body injury (DTD)
+7	2013-05-05	 Canadiens	 • Max Pacioretty	 	 returned to lineup
+8	2013-10-05	 Canadiens	 	 • Max Pacioretty	 left wrist injury (DTD)
+9	2013-10-09	 Canadiens	 • Max Pacioretty	 	 returned to lineup
+10	2013-10-16	 Canadiens	 	 • Max Pacioretty	 left hamstring injury (DTD)
+11	2013-10-21	 Canadiens	 	 • Max Pacioretty	 placed on IR with left hamstring injury
+12	2013-11-02	 Canadiens	 • Max Pacioretty	 	 activated from IR
+13	2015-04-06	 Canadiens	 	 • Max Pacioretty	 head injury (DTD)
+14	2015-04-17	 Canadiens	 • Max Pacioretty	 	 returned to lineup
+15	2018-03-03	 Canadiens	 	 • Max Pacioretty	 knee injury (out for season)
+16	2018-10-28	 Golden Knights	 	 • Max Pacioretty	 upper body injury (DTD)
+17	2018-11-06	 Golden Knights	 • Max Pacioretty	 	 returned to lineup
+18	2018-12-04	 Golden Knights	 	 • Max Pacioretty	 illness (DTD)
+19	2018-12-06	 Golden Knights	 • Max Pacioretty	 	 returned to lineup
+20	2018-12-14	 Golden Knights	 	 • Max Pacioretty	 undisclosed (DTD)
+21	2018-12-16	 Golden Knights	 • Max Pacioretty	 	 returned to lineup
+22	2018-12-17	 Golden Knights	 	 • Max Pacioretty	 placed on IR with lower body injury
+23	2019-01-04	 Golden Knights	 • Max Pacioretty	 	 activated from IR
+24	2019-03-22	 Golden Knights	 	 • Max Pacioretty	 leg injury (DTD)
+25	2019-03-29	 Golden Knights	 • Max Pacioretty	 	 returned to lineup
+26	2020-03-11	 Golden Knights	 	 • Max Pacioretty	 lower body injury (out indefinitely)
+27	2020-08-02	 Golden Knights	 	 • Max Pacioretty	 undisclosed (DTD)
+28	2020-08-11	 Golden Knights	 • Max Pacioretty	 	 returned to lineup
+29	2020-08-13	 Golden Knights	 	 • Max Pacioretty	 undisclosed (DTD)
+30	2020-08-15	 Golden Knights	 • Max Pacioretty	 	 returned to lineup

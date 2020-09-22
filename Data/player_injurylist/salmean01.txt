@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-04-02	 Thrashers	 	 • Anssi Salmela	 head injury (DTD)
+1	2010-02-09	 Devils	 	 • Anssi Salmela	 concussion (DTD)
+2	2010-02-13	 Devils	 • Anssi Salmela	 	 returned to lineup
+3	2010-09-17	 Devils	 	 • Anssi Salmela	 surgery on knee (out indefinitely)
+4	2010-10-05	 Devils	 	 • Anssi Salmela	 placed on IR recovering from surgery on right knee
+5	2010-10-06	 Devils	 	 • Anssi Salmela	 designated injured, non-roster player recovering from surgery on right knee
+6	2010-12-15	 Devils	 • Anssi Salmela	 	 activated from IR
+7	2010-12-21	 Devils	 	 • Anssi Salmela	 placed on IR with surgery on right knee
+8	2010-12-23	 Devils	 • Anssi Salmela	 	 activated from IR

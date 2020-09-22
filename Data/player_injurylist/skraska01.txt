@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-25	 Avalanche	 	 • Karlis Skrastins	 knee injury (DTD)
+1	2007-03-27	 Avalanche	 • Karlis Skrastins	 	 returned to lineup
+2	2007-10-21	 Avalanche	 	 • Karlis Skrastins	 placed on IR with separated shoulder (out indefinitely)
+3	2007-11-20	 Avalanche	 • Karlis Skrastins	 	 activated from IR
+4	2008-10-08	 Panthers	 	 • Karlis Skrastins	 neck injury (out indefinitely)
+5	2008-10-16	 Panthers	 • Karlis Skrastins	 	 returned to lineup
+6	2009-12-04	 Stars	 	 • Karlis Skrastins	 placed on IR with lacerated right index finger
+7	2009-12-11	 Stars	 • Karlis Skrastins	 	 activated from IR
+8	2010-12-23	 Stars	 	 • Karlis Skrastins	 quadriceps injury (DTD)
+9	2010-12-26	 Stars	 • Karlis Skrastins	 	 returned to lineup
+10	2011-01-07	 Stars	 	 • Karlis Skrastins	 broken nose (DTD)
+11	2011-01-15	 Stars	 • Karlis Skrastins	 	 returned to lineup
+12	2011-03-22	 Stars	 	 • Karlis Skrastins	 lacerated leg (DTD)
+13	2011-04-02	 Stars	 • Karlis Skrastins	 	 returned to lineup

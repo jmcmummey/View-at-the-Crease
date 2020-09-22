@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-04	 Blue Jackets	 	 • Espen Knutsen	 placed on IR
+1	2000-10-25	 Blue Jackets	 • Espen Knutsen	 	 activated from IR
+2	2002-11-05	 Blue Jackets	 	 • Espen Knutsen	 groin injury (out indefinitely)
+3	2002-11-15	 Blue Jackets	 	 • Espen Knutsen	 placed on IR with groin injury
+4	2003-01-28	 Blue Jackets	 • Espen Knutsen	 	 activated from IR
+5	2003-03-13	 Blue Jackets	 	 • Espen Knutsen	 wrist injury (out indefinitely)
+6	2003-11-14	 Blue Jackets	 	 • Espen Knutsen	 placed on IR with hip pointer

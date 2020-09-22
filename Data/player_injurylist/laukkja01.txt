@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-14	 Penguins	 	 • Janne Laukkanen	 bruised knee (DTD)
+1	2000-10-21	 Penguins	 • Janne Laukkanen	 	 returned to lineup
+2	2000-11-16	 Penguins	 	 • Janne Laukkanen	 sprained knee (DTD)
+3	2000-12-26	 Penguins	 • Janne Laukkanen	 	 returned to lineup
+4	2000-12-26	 Penguins	 • Janne Laukkanen	 	 activated from IR
+5	2001-02-16	 Penguins	 	 • Janne Laukkanen	 flu (DTD)
+6	2001-02-25	 Penguins	 	 • Janne Laukkanen	 strained groin (DTD)
+7	2001-03-12	 Penguins	 	 • Janne Laukkanen	 sprained knee (DTD)
+8	2001-03-25	 Penguins	 • Janne Laukkanen	 	 returned to lineup
+9	2001-03-31	 Penguins	 	 • Janne Laukkanen	 sprained knee (DTD)
+10	2001-04-07	 Penguins	 • Janne Laukkanen	 	 returned to lineup
+11	2001-10-03	 Penguins	 	 • Janne Laukkanen	 placed on IR with surgery on knee
+12	2001-11-23	 Penguins	 • Janne Laukkanen	 	 activated from IR
+13	2002-12-12	 Penguins	 	 • Janne Laukkanen	 hip injury (out indefinitely)
+14	2003-02-12	 Penguins	 • Janne Laukkanen	 	 returned to lineup

@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-07	 Senators	 	 • Ray Emery	 wrist injury (out indefinitely)
+1	2006-11-15	 Senators	 • Ray Emery	 	 returned to lineup
+2	2007-09-30	 Senators	 	 • Ray Emery	 wrist injury (DTD)
+3	2007-10-11	 Senators	 • Ray Emery	 	 returned to lineup
+4	2009-12-08	 Flyers	 	 • Ray Emery	 placed on IR with torn abdominal muscle
+5	2009-12-09	 Flyers	 	 • Ray Emery	 surgery to repair torn abdominal muscle
+6	2010-01-12	 Flyers	 • Ray Emery	 	 activated from IR
+7	2010-02-03	 Flyers	 	 • Ray Emery	 groin injury (DTD)
+8	2010-03-01	 Flyers	 	 • Ray Emery	 placed on IR with groin injury (out for season)
+9	2011-04-07	 Ducks	 	 • Ray Emery	 lower body injury (DTD)
+10	2011-04-13	 Ducks	 • Ray Emery	 	 returned to lineup
+11	2012-03-15	 Blackhawks	 	 • Ray Emery	 flu (DTD)
+12	2012-03-18	 Blackhawks	 • Ray Emery	 	 returned to lineup
+13	2012-03-26	 Blackhawks	 	 • Ray Emery	 upper body injury (DTD)
+14	2012-03-29	 Blackhawks	 • Ray Emery	 	 returned to lineup
+15	2013-04-18	 Blackhawks	 	 • Ray Emery	 lower body injury (DTD)
+16	2013-04-22	 Blackhawks	 • Ray Emery	 	 returned to lineup
+17	2013-04-25	 Blackhawks	 	 • Ray Emery	 lower body injury (DTD)
+18	2013-05-15	 Blackhawks	 • Ray Emery	 	 returned to lineup
+19	2014-03-01	 Flyers	 	 • Ray Emery	 lower body injury (DTD)
+20	2014-03-06	 Flyers	 	 • Ray Emery	 lower body injury (DTD) (Y)
+21	2014-03-15	 Flyers	 • Ray Emery	 	 returned to lineup
+22	2015-02-23	 Flyers	 	 • Ray Emery	 lower body injury (DTD)
+23	2015-02-23	 Flyers	 	 • Ray Emery	 placed on IR with lower body injury (CBS)
+24	2015-02-26	 Flyers	 	 • Ray Emery	 placed on IR with lower body injury
+25	2015-03-02	 Flyers	 • Ray Emery	 	 activated from IR

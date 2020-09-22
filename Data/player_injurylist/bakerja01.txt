@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-01-09	 Nordiques	 	 • Jamie Baker	 sprained ankle (DTD)
+1	1992-12-15	 Senators	 	 • Jamie Baker	 sprained ankle (DTD)
+2	1993-02-22	 Senators	 	 • Jamie Baker	 bruised foot (DTD)
+3	1993-10-16	 Sharks	 	 • Jamie Baker	 pulled groin (out indefinitely)
+4	1995-02-26	 Sharks	 	 • Jamie Baker	 flu (DTD)
+5	1995-03-15	 Sharks	 	 • Jamie Baker	 shoulder injury (DTD)
+6	1995-12-16	 Sharks	 	 • Jamie Baker	 concussion (DTD)
+7	1996-03-03	 Sharks	 	 • Jamie Baker	 body aches (DTD)
+8	1996-04-04	 Sharks	 	 • Jamie Baker	 flu (DTD)

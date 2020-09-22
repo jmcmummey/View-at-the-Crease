@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-01-03	 Sabres	 	 • Victor Olofsson	 lower body injury (out indefinitely)
+1	2020-01-08	 Sabres	 	 • Victor Olofsson	 placed on IR with lower body injury
+2	2020-02-13	 Sabres	 • Victor Olofsson	 	 activated from IR

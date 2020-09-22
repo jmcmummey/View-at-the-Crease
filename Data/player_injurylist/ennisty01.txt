@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-24	 Sabres	 	 • Tyler Ennis	 sprained ankle (DTD)
+1	2011-11-16	 Sabres	 	 • Tyler Ennis	 placed on IR with sprained ankle
+2	2011-12-02	 Sabres	 • Tyler Ennis	 	 activated from IR
+3	2011-12-18	 Sabres	 	 • Tyler Ennis	 left ankle injury (DTD)
+4	2012-01-06	 Sabres	 	 • Tyler Ennis	 placed on IR with left ankle injury
+5	2012-01-31	 Sabres	 • Tyler Ennis	 	 activated from IR
+6	2013-03-12	 Sabres	 	 • Tyler Ennis	 head injury (DTD)
+7	2013-03-16	 Sabres	 • Tyler Ennis	 	 returned to lineup
+8	2014-02-26	 Sabres	 	 • Tyler Ennis	 general body soreness (DTD)
+9	2014-03-03	 Sabres	 • Tyler Ennis	 	 returned to lineup
+10	2015-02-25	 Sabres	 	 • Tyler Ennis	 lower body injury (DTD)
+11	2015-03-03	 Sabres	 • Tyler Ennis	 	 returned to lineup
+12	2015-03-28	 Sabres	 	 • Tyler Ennis	 upper body injury (DTD)
+13	2015-04-01	 Sabres	 • Tyler Ennis	 	 returned to lineup
+14	2015-10-29	 Sabres	 	 • Tyler Ennis	 lower body injury (DTD)
+15	2015-11-01	 Sabres	 • Tyler Ennis	 	 returned to lineup
+16	2015-11-25	 Sabres	 	 • Tyler Ennis	 placed on IR with upper body injury
+17	2015-11-27	 Sabres	 	 • Tyler Ennis	 placed on IR with upper body injury
+18	2015-12-19	 Sabres	 • Tyler Ennis	 	 activated from IR
+19	2015-12-31	 Sabres	 	 • Tyler Ennis	 upper body injury (out for season)
+20	2016-01-05	 Sabres	 	 • Tyler Ennis	 placed on IR with upper body injury (out for season)
+21	2016-11-09	 Sabres	 	 • Tyler Ennis	 mid-body injury (DTD)
+22	2016-11-11	 Sabres	 	 • Tyler Ennis	 placed on IR with groin injury
+23	2017-01-16	 Sabres	 • Tyler Ennis	 	 activated from IR
+24	2018-12-22	 Maple Leafs	 	 • Tyler Ennis	 fractured ankle (out indefinitely)
+25	2018-12-25	 Maple Leafs	 	 • Tyler Ennis	 placed on IR with fractured ankle
+26	2020-08-06	 Oilers	 	 • Tyler Ennis	 right leg injury (out for season)

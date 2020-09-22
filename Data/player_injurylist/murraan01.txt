@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-01-09	 Blue Jackets	 	 • Andrew Murray	 placed on IR with concussion
+1	2008-01-22	 Blue Jackets	 • Andrew Murray	 	 activated from IR
+2	2008-12-19	 Blue Jackets	 	 • Andrew Murray	 upper body injury (DTD)
+3	2008-12-23	 Blue Jackets	 • Andrew Murray	 	 returned to lineup
+4	2009-01-12	 Blue Jackets	 	 • Andrew Murray	 upper body injury (DTD)
+5	2009-01-18	 Blue Jackets	 • Andrew Murray	 	 returned to lineup
+6	2009-02-13	 Blue Jackets	 	 • Andrew Murray	 back injury (DTD)
+7	2009-02-14	 Blue Jackets	 • Andrew Murray	 	 returned to lineup
+8	2009-04-12	 Blue Jackets	 	 • Andrew Murray	 hamstring injury (DTD)
+9	2009-10-27	 Blue Jackets	 	 • Andrew Murray	 placed on IR with shoulder injury
+10	2009-12-05	 Blue Jackets	 • Andrew Murray	 	 activated from IR
+11	2010-04-07	 Blue Jackets	 	 • Andrew Murray	 head injury (out for season)
+12	2010-10-05	 Blue Jackets	 	 • Andrew Murray	 placed on IR with lower body injury
+13	2010-11-06	 Blue Jackets	 • Andrew Murray	 	 activated from IR
+14	2011-03-04	 Blue Jackets	 	 • Andrew Murray	 lower body injury (out for season)

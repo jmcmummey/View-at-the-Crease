@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-11	 Lightning	 	 • Steven Stamkos	 fractured right tibia (out indefinitely)
+1	2013-11-12	 Lightning	 	 • Steven Stamkos	 placed on IR with fractured right tibia
+2	2014-03-05	 Lightning	 • Steven Stamkos	 	 activated from IR
+3	2016-04-02	 Lightning	 	 • Steven Stamkos	 blood clots (out for season)
+4	2016-11-16	 Lightning	 	 • Steven Stamkos	 torn meniscus in right knee (out for season)
+5	2016-11-21	 Lightning	 	 • Steven Stamkos	 placed on IR with torn meniscus in right knee (out for season)
+6	2018-03-26	 Lightning	 	 • Steven Stamkos	 lower body injury (DTD)
+7	2018-03-29	 Lightning	 • Steven Stamkos	 	 returned to lineup
+8	2018-04-03	 Lightning	 	 • Steven Stamkos	 lower body injury (DTD)
+9	2018-04-11	 Lightning	 • Steven Stamkos	 	 returned to lineup
+10	2019-11-22	 Lightning	 	 • Steven Stamkos	 lower body injury (DTD)
+11	2019-11-29	 Lightning	 • Steven Stamkos	 	 returned to lineup
+12	2020-02-10	 Lightning	 	 • Steven Stamkos	 lower body injury (DTD)
+13	2020-02-15	 Lightning	 • Steven Stamkos	 	 returned to lineup
+14	2020-02-26	 Lightning	 	 • Steven Stamkos	 core muscle injury (out for season)
+15	2020-08-02	 Lightning	 	 • Steven Stamkos	 lower body injury (DTD)

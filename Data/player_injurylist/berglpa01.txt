@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-18	 Blues	 	 • Patrik Berglund	 undisclosed injury (DTD)
+1	2008-10-22	 Blues	 • Patrik Berglund	 	 returned to lineup
+2	2008-11-21	 Blues	 	 • Patrik Berglund	 groin injury (DTD)
+3	2008-11-29	 Blues	 • Patrik Berglund	 	 returned to lineup
+4	2008-12-01	 Blues	 • Patrik Berglund	 	 activated from IR
+5	2009-03-12	 Blues	 	 • Patrik Berglund	 back injury (DTD)
+6	2009-03-14	 Blues	 • Patrik Berglund	 	 returned to lineup
+7	2010-01-20	 Blues	 	 • Patrik Berglund	 illness (DTD)
+8	2010-01-21	 Blues	 • Patrik Berglund	 	 returned to lineup
+9	2010-04-07	 Blues	 	 • Patrik Berglund	 upper body injury (out for season)
+10	2011-03-24	 Blues	 	 • Patrik Berglund	 lower body injury (DTD)
+11	2011-03-26	 Blues	 • Patrik Berglund	 	 returned to lineup
+12	2013-11-17	 Blues	 	 • Patrik Berglund	 upper body injury (DTD)
+13	2013-11-23	 Blues	 • Patrik Berglund	 	 returned to lineup
+14	2014-04-12	 Blues	 	 • Patrik Berglund	 sprained shoulder (DTD)
+15	2014-04-21	 Blues	 • Patrik Berglund	 	 returned to lineup
+16	2014-10-11	 Blues	 	 • Patrik Berglund	 upper body injury (DTD)
+17	2014-10-16	 Blues	 • Patrik Berglund	 	 returned to lineup
+18	2015-01-30	 Blues	 	 • Patrik Berglund	 upper body injury (DTD)
+19	2015-02-05	 Blues	 • Patrik Berglund	 	 returned to lineup
+20	2015-10-06	 Blues	 	 • Patrik Berglund	 placed on IR with shoulder injury
+21	2016-01-02	 Blues	 • Patrik Berglund	 	 activated from IR
+22	2017-10-02	 Blues	 	 • Patrik Berglund	 placed on injured/non-roster list with shoulder injury
+23	2017-11-29	 Blues	 • Patrik Berglund	 	 activated from injured/non-roster list
+24	2018-11-21	 Sabres	 	 • Patrik Berglund	 placed on IR with upper body injury
+25	2018-11-30	 Sabres	 • Patrik Berglund	 	 activated from IR
+26	2018-12-11	 Sabres	 	 • Patrik Berglund	 illness (DTD)
+27	2018-12-15	 Sabres	 • Patrik Berglund	 	 returned to lineup

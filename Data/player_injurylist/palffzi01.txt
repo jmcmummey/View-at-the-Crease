@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-12-10	 Kings	 	 • Zigmund Palffy / Ziggy Palffy	 placed on IR
+1	1999-12-14	 Kings	 • Zigmund Palffy / Ziggy Palffy	 	 activated from IR
+2	2000-03-16	 Kings	 	 • Zigmund Palffy / Ziggy Palffy	 placed on IR with sprained shoulder
+3	2000-10-03	 Kings	 	 • Zigmund Palffy / Ziggy Palffy	 placed on IR
+4	2000-10-06	 Kings	 • Zigmund Palffy / Ziggy Palffy	 	 activated from IR
+5	2000-12-20	 Kings	 	 • Zigmund Palffy / Ziggy Palffy	 placed on IR with strained right hamstring
+6	2001-01-04	 Kings	 • Zigmund Palffy / Ziggy Palffy	 	 activated from IR
+7	2001-10-29	 Kings	 	 • Zigmund Palffy / Ziggy Palffy	 placed on IR with back spasms
+8	2001-11-10	 Kings	 • Zigmund Palffy / Ziggy Palffy	 	 activated from IR
+9	2001-12-04	 Kings	 	 • Zigmund Palffy / Ziggy Palffy	 placed on IR with fractured rib
+10	2002-01-01	 Kings	 • Zigmund Palffy / Ziggy Palffy	 	 activated from IR
+11	2002-10-19	 Kings	 	 • Zigmund Palffy / Ziggy Palffy	 placed on IR with strained left groin
+12	2002-10-23	 Kings	 • Zigmund Palffy / Ziggy Palffy	 	 activated from IR
+13	2003-11-26	 Kings	 	 • Zigmund Palffy / Ziggy Palffy	 placed on IR
+14	2003-12-04	 Kings	 • Zigmund Palffy / Ziggy Palffy	 	 activated from IR
+15	2004-01-07	 Kings	 	 • Zigmund Palffy / Ziggy Palffy	 shoulder injury (out indefinitely)
+16	2005-12-01	 Penguins	 	 • Zigmund Palffy / Ziggy Palffy	 groin injury (left game)
+17	2005-12-02	 Penguins	 	 • Zigmund Palffy / Ziggy Palffy	 groin injury (DTD)
+18	2005-12-08	 Penguins	 • Zigmund Palffy / Ziggy Palffy	 	 returned to lineup
+19	2005-12-09	 Penguins	 	 • Zigmund Palffy / Ziggy Palffy	 groin injury (DTD)
+20	2005-12-16	 Penguins	 • Zigmund Palffy / Ziggy Palffy	 	 returned to lineup

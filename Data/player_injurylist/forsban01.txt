@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-29	 Blackhawks	 	 • Anton Forsberg	 lower body injury (out for season)
+1	2018-10-04	 Blackhawks	 	 • Anton Forsberg	 undisclosed (DTD)
+2	2018-10-06	 Blackhawks	 • Anton Forsberg	 	 returned to lineup

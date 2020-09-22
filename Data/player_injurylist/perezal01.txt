@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-02	 Canadiens	 	 • Alexander Perezhogin	 head injury (DTD)
+1	2007-04-07	 Canadiens	 • Alexander Perezhogin	 	 returned to lineup

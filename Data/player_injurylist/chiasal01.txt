@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-04-16	 Stars	 	 • Alex Chiasson	 shoulder injury (out for season)
+1	2013-12-23	 Stars	 	 • Alex Chiasson	 illness (DTD)
+2	2013-12-28	 Stars	 • Alex Chiasson	 	 returned to lineup
+3	2014-11-04	 Senators	 	 • Alex Chiasson	 foot injury (DTD)
+4	2014-11-06	 Senators	 • Alex Chiasson	 	 returned to lineup
+5	2014-11-08	 Senators	 	 • Alex Chiasson	 lower body injury (DTD)
+6	2014-11-11	 Senators	 • Alex Chiasson	 	 returned to lineup
+7	2015-01-30	 Senators	 	 • Alex Chiasson	 undisclosed injury (DTD)
+8	2015-02-07	 Senators	 • Alex Chiasson	 	 returned to lineup
+9	2018-12-28	 Oilers	 	 • Alex Chiasson	 placed on IR with knee injury
+10	2019-01-05	 Oilers	 • Alex Chiasson	 	 activated from IR
+11	2019-10-05	 Oilers	 	 • Alex Chiasson	 illness (DTD)
+12	2019-10-12	 Oilers	 • Alex Chiasson	 	 returned to lineup
+13	2019-11-16	 Oilers	 	 • Alex Chiasson	 illness (DTD)
+14	2019-11-19	 Oilers	 • Alex Chiasson	 	 returned to lineup
+15	2019-11-28	 Oilers	 	 • Alex Chiasson	 concussion (out indefinitely)

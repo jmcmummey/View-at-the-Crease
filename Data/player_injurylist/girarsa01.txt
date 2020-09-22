@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-04-14	 Avalanche	 	 • Samuel Girard	 upper body injury (DTD)
+1	2018-04-20	 Avalanche	 • Samuel Girard	 	 returned to lineup
+2	2019-04-15	 Avalanche	 	 • Samuel Girard	 shoulder injury (DTD)
+3	2019-04-26	 Avalanche	 • Samuel Girard	 	 returned to lineup

@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-01-11	 Sharks	 	 • Dylan DeMelo	 wrist injury (DTD)
+1	2017-01-14	 Sharks	 	 • Dylan DeMelo	 placed on IR with wrist injury
+2	2017-03-05	 Sharks	 • Dylan DeMelo	 	 activated from IR
+3	2018-01-07	 Sharks	 	 • Dylan DeMelo	 placed on IR with undisclosed injury / flu
+4	2018-01-14	 Sharks	 • Dylan DeMelo	 	 activated from IR
+5	2018-12-09	 Senators	 	 • Dylan DeMelo	 upper body injury (DTD)
+6	2018-12-10	 Senators	 	 • Dylan DeMelo	 placed on IR with upper body injury
+7	2018-12-21	 Senators	 • Dylan DeMelo	 	 activated from IR
+8	2019-12-14	 Senators	 	 • Dylan DeMelo	 placed on IR with fractured finger
+9	2020-01-07	 Senators	 • Dylan DeMelo	 	 activated from IR

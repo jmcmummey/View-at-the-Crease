@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-09-28	 Bruins	 	 • Carl Soderberg	 placed on IR with ankle injury
+1	2013-10-19	 Bruins	 • Carl Soderberg	 	 activated from IR
+2	2013-12-28	 Bruins	 	 • Carl Soderberg	 concussion (DTD)
+3	2014-01-02	 Bruins	 • Carl Soderberg	 	 returned to lineup
+4	2018-03-20	 Avalanche	 	 • Carl Soderberg	 illness (DTD)
+5	2018-03-24	 Avalanche	 • Carl Soderberg	 	 returned to lineup

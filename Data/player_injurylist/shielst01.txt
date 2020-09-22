@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-09	 Thrashers	 	 • Steve Shields	 knee injury (out indefinitely)
+1	2005-11-22	 Thrashers	 • Steve Shields	 	 returned to lineup
+2	2005-11-26	 Thrashers	 	 • Steve Shields	 knee injury (DTD)
+3	2005-12-08	 Thrashers	 	 • Steve Shields	 placed on IR with knee injury
+4	2006-01-04	 Thrashers	 • Steve Shields	 	 activated from IR

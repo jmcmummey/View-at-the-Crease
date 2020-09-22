@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-19	 Oilers	 	 • Mark Arcobello	 placed on IR with rib injury
+1	2014-01-02	 Oilers	 • Mark Arcobello	 	 activated from IR

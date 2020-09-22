@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-11-22	 Blackhawks	 	 • Steve McCarthy	 groin injury (out indefinitely)
+1	2004-03-27	 Blackhawks	 • Steve McCarthy	 	 activated from IR
+2	2005-11-10	 Canucks	 	 • Steve McCarthy	 groin injury (DTD)
+3	2005-11-27	 Canucks	 • Steve McCarthy	 	 returned to lineup
+4	2006-02-08	 Canucks	 	 • Steve McCarthy	 charley horse (DTD)
+5	2006-02-10	 Canucks	 • Steve McCarthy	 	 returned to lineup
+6	2006-11-10	 Thrashers	 	 • Steve McCarthy	 shoulder injury (DTD)
+7	2006-11-24	 Thrashers	 	 • Steve McCarthy	 placed on IR
+8	2006-11-30	 Thrashers	 • Steve McCarthy	 	 activated from IR
+9	2007-01-06	 Thrashers	 	 • Steve McCarthy	 shoulder injury (DTD)
+10	2007-01-26	 Thrashers	 • Steve McCarthy	 	 returned to lineup
+11	2008-01-06	 Thrashers	 	 • Steve McCarthy	 strained oblique muscle (DTD)
+12	2008-01-30	 Thrashers	 • Steve McCarthy	 	 returned to lineup

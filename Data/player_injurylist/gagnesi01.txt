@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-03-25	 Flyers	 • Simon Gagne	 	 activated from IR
+1	2005-12-09	 Flyers	 	 • Simon Gagne	 groin injury (out until late Dec)
+2	2005-12-22	 Flyers	 • Simon Gagne	 	 returned to lineup
+3	2005-12-31	 Flyers	 	 • Simon Gagne	 flu (DTD)
+4	2006-01-02	 Flyers	 • Simon Gagne	 	 returned to lineup
+5	2006-02-08	 Flyers	 	 • Simon Gagne	 stomach virus (DTD)
+6	2006-02-10	 Flyers	 • Simon Gagne	 	 returned to lineup
+7	2006-02-25	 Flyers	 	 • Simon Gagne	 bruised knee (DTD) (date approximate)
+8	2006-03-06	 Flyers	 • Simon Gagne	 	 returned to lineup
+9	2006-05-10	 Flyers	 	 • Simon Gagne	 surgery on right hip to remove bone spurs
+10	2007-03-11	 Flyers	 	 • Simon Gagne	 groin injury (DTD)
+11	2007-03-24	 Flyers	 • Simon Gagne	 	 returned to lineup
+12	2007-10-25	 Flyers	 	 • Simon Gagne	 dizziness (DTD)
+13	2007-11-05	 Flyers	 • Simon Gagne	 	 returned to lineup
+14	2007-11-08	 Flyers	 	 • Simon Gagne	 dizziness (out indefinitely)
+15	2008-01-10	 Flyers	 • Simon Gagne	 	 returned to lineup
+16	2008-02-10	 Flyers	 	 • Simon Gagne	 concussion (left game)
+17	2008-02-12	 Flyers	 	 • Simon Gagne	 concussion (out indefinitely)
+18	2008-02-20	 Flyers	 	 • Simon Gagne	 concussion (out for season)
+19	2008-10-22	 Flyers	 	 • Simon Gagne	 flu (DTD)
+20	2008-10-24	 Flyers	 • Simon Gagne	 	 returned to lineup
+21	2008-12-31	 Flyers	 	 • Simon Gagne	 shoulder injury (DTD)
+22	2009-01-06	 Flyers	 • Simon Gagne	 	 returned to lineup
+23	2009-10-26	 Flyers	 	 • Simon Gagne	 placed on IR with surgery for sports hernia / right groin/hip injury
+24	2009-12-19	 Flyers	 • Simon Gagne	 	 activated from IR
+25	2010-04-21	 Flyers	 	 • Simon Gagne	 surgery on right foot (DTD)
+26	2010-05-07	 Flyers	 • Simon Gagne	 	 returned to lineup
+27	2010-10-22	 Lightning	 	 • Simon Gagne	 stiff neck (DTD)
+28	2010-10-26	 Lightning	 	 • Simon Gagne	 placed on IR with neck injury
+29	2010-11-24	 Lightning	 • Simon Gagne	 	 activated from IR
+30	2011-03-19	 Lightning	 	 • Simon Gagne	 pinched nerve in neck (DTD)
+31	2011-03-22	 Lightning	 • Simon Gagne	 	 returned to lineup
+32	2011-04-30	 Lightning	 	 • Simon Gagne	 head injury (DTD)
+33	2011-05-14	 Lightning	 • Simon Gagne	 	 returned to lineup
+34	2011-10-29	 Kings	 	 • Simon Gagne	 middle body injury (DTD)
+35	2011-11-03	 Kings	 • Simon Gagne	 	 returned to lineup
+36	2011-12-27	 Kings	 	 • Simon Gagne	 placed on IR with concussion
+37	2012-05-30	 Kings	 • Simon Gagne	 	 activated from IR
+38	2014-12-15	 Bruins	 	 • Simon Gagne	 placed on IR for personal reasons

@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-29	 Sabres	 	 • Taylor Pyatt	 head injury (out indefinitely)
+1	2005-11-11	 Sabres	 • Taylor Pyatt	 	 returned to lineup
+2	2005-11-25	 Sabres	 	 • Taylor Pyatt	 wrist injury (left game)
+3	2005-11-26	 Sabres	 	 • Taylor Pyatt	 fractured right wrist (out indefinitely)
+4	2006-01-18	 Sabres	 	 • Taylor Pyatt	 fractured right wrist (out until late Jan)
+5	2006-01-30	 Sabres	 • Taylor Pyatt	 	 activated from IR
+6	2006-12-05	 Canucks	 	 • Taylor Pyatt	 shoulder injury (out 2-4 weeks)
+7	2006-12-16	 Canucks	 • Taylor Pyatt	 	 returned to lineup
+8	2007-01-16	 Canucks	 	 • Taylor Pyatt	 broken thumb (out indefinitely)
+9	2007-01-18	 Canucks	 • Taylor Pyatt	 	 returned to lineup
+10	2008-02-18	 Canucks	 	 • Taylor Pyatt	 shoulder injury (DTD)
+11	2008-02-21	 Canucks	 • Taylor Pyatt	 	 returned to lineup
+12	2008-04-02	 Canucks	 	 • Taylor Pyatt	 concussion (DTD)
+13	2008-12-26	 Canucks	 	 • Taylor Pyatt	 broken right foot (DTD)
+14	2009-01-13	 Canucks	 • Taylor Pyatt	 	 returned to lineup
+15	2009-09-30	 Coyotes	 	 • Taylor Pyatt	 placed on IR with lower body injury
+16	2009-10-15	 Coyotes	 • Taylor Pyatt	 	 activated from IR
+17	2010-12-21	 Coyotes	 	 • Taylor Pyatt	 placed on IR with upper body injury
+18	2010-12-31	 Coyotes	 • Taylor Pyatt	 	 activated from IR
+19	2011-02-17	 Coyotes	 	 • Taylor Pyatt	 lower body injury (DTD)
+20	2012-02-16	 Coyotes	 	 • Taylor Pyatt	 placed on IR with lower body injury / upper body injury (CBC)
+21	2012-02-23	 Coyotes	 • Taylor Pyatt	 	 activated from IR
+22	2012-03-20	 Coyotes	 	 • Taylor Pyatt	 upper body injury (DTD)
+23	2012-04-03	 Coyotes	 • Taylor Pyatt	 	 returned to lineup
+24	2013-11-08	 Rangers	 	 • Taylor Pyatt	 concussion (DTD)
+25	2013-11-12	 Rangers	 	 • Taylor Pyatt	 placed on IR with concussion
+26	2013-11-27	 Rangers	 • Taylor Pyatt	 	 activated from IR
+27	2014-02-04	 Penguins	 	 • Taylor Pyatt	 lower body injury (DTD)
+28	2014-02-27	 Penguins	 • Taylor Pyatt	 	 returned to lineup

@@ -1,0 +1,41 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-11-07	 Avalanche	 • Brad Richardson	 	 activated from IR
+1	2007-12-15	 Avalanche	 	 • Brad Richardson	 shoulder injury (DTD)
+2	2007-12-27	 Avalanche	 • Brad Richardson	 	 returned to lineup
+3	2008-04-03	 Avalanche	 	 • Brad Richardson	 soreness (DTD)
+4	2008-12-05	 Kings	 	 • Brad Richardson	 foot injury (DTD)
+5	2008-12-16	 Kings	 	 • Brad Richardson	 placed on IR with foot injury
+6	2009-01-22	 Kings	 • Brad Richardson	 	 activated from IR
+7	2009-02-17	 Kings	 	 • Brad Richardson	 placed on IR with fractured right wrist
+8	2009-03-21	 Kings	 • Brad Richardson	 	 activated from IR
+9	2010-12-10	 Kings	 	 • Brad Richardson	 placed on IR with upper body injury
+10	2010-12-19	 Kings	 • Brad Richardson	 	 activated from IR
+11	2012-04-10	 Kings	 	 • Brad Richardson	 appendectomy (out indefinitely)
+12	2012-04-18	 Kings	 • Brad Richardson	 	 returned to lineup
+13	2014-02-03	 Canucks	 	 • Brad Richardson	 undisclosed injury (DTD)
+14	2014-02-06	 Canucks	 • Brad Richardson	 	 returned to lineup
+15	2014-03-06	 Canucks	 	 • Brad Richardson	 undisclosed (DTD)
+16	2014-03-19	 Canucks	 • Brad Richardson	 	 returned to lineup
+17	2015-01-19	 Canucks	 	 • Brad Richardson	 lower body injury (DTD)
+18	2015-01-30	 Canucks	 	 • Brad Richardson	 placed on IR with lower body injury
+19	2015-03-13	 Canucks	 • Brad Richardson	 	 activated from IR
+20	2015-03-19	 Canucks	 	 • Brad Richardson	 ankle injury (DTD)
+21	2015-04-15	 Canucks	 • Brad Richardson	 	 returned to lineup
+22	2015-04-21	 Canucks	 	 • Brad Richardson	 undisclosed (DTD)
+23	2015-04-23	 Canucks	 • Brad Richardson	 	 returned to lineup
+24	2016-11-18	 Coyotes	 	 • Brad Richardson	 placed on IR with fractured fibula in leg
+25	2017-04-08	 Coyotes	 • Brad Richardson	 	 activated from IR
+26	2017-10-17	 Coyotes	 	 • Brad Richardson	 lower body injury (DTD)
+27	2017-10-21	 Coyotes	 • Brad Richardson	 	 returned to lineup
+28	2017-12-27	 Coyotes	 	 • Brad Richardson	 upper body injury (DTD)
+29	2017-12-28	 Coyotes	 	 • Brad Richardson	 placed on IR with upper body injury
+30	2018-01-06	 Coyotes	 • Brad Richardson	 	 activated from IR
+31	2018-12-27	 Coyotes	 	 • Brad Richardson	 flu (DTD)
+32	2019-01-02	 Coyotes	 • Brad Richardson	 	 returned to lineup
+33	2019-01-11	 Coyotes	 	 • Brad Richardson	 placed on IR with upper body injury
+34	2019-02-14	 Coyotes	 • Brad Richardson	 	 activated from IR
+35	2019-10-25	 Coyotes	 	 • Brad Richardson	 upper body injury (DTD)
+36	2019-11-03	 Coyotes	 	 • Brad Richardson	 placed on IR with upper body injury
+37	2019-11-09	 Coyotes	 • Brad Richardson	 	 activated from IR
+38	2020-01-16	 Coyotes	 	 • Brad Richardson	 placed on IR with lower body injury
+39	2020-02-01	 Coyotes	 • Brad Richardson	 	 activated from IR

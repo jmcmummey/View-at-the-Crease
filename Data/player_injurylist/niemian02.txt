@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-02-03	 Blackhawks	 	 • Antti Niemi	 illness (DTD)
+1	2010-02-05	 Blackhawks	 • Antti Niemi	 	 returned to lineup
+2	2011-10-06	 Sharks	 	 • Antti Niemi	 placed on IR with surgery to remove cyst
+3	2011-10-14	 Sharks	 • Antti Niemi	 	 activated from IR
+4	2012-02-02	 Sharks	 	 • Antti Niemi	 undisclosed (DTD)
+5	2012-02-04	 Sharks	 • Antti Niemi	 	 returned to lineup
+6	2018-03-06	 Canadiens	 	 • Antti Niemi	 lower body injury (DTD)
+7	2018-03-07	 Canadiens	 • Antti Niemi	 	 returned to lineup

@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-25	 Wild	 	 • Filip Kuba	 back injury (DTD)
+1	2005-10-28	 Wild	 • Filip Kuba	 	 returned to lineup
+2	2005-12-06	 Wild	 	 • Filip Kuba	 back spasms (DTD)
+3	2005-12-15	 Wild	 • Filip Kuba	 	 returned to lineup
+4	2006-03-05	 Wild	 	 • Filip Kuba	 abdominal strain (DTD)
+5	2006-03-19	 Wild	 • Filip Kuba	 	 returned to lineup
+6	2006-04-06	 Wild	 	 • Filip Kuba	 groin injury (DTD)
+7	2007-11-24	 Lightning	 	 • Filip Kuba	 abdominal injury (DTD)
+8	2007-11-28	 Lightning	 • Filip Kuba	 	 returned to lineup
+9	2008-02-28	 Lightning	 	 • Filip Kuba	 knee injury (DTD)
+10	2008-03-09	 Lightning	 • Filip Kuba	 	 returned to lineup
+11	2008-12-23	 Senators	 	 • Filip Kuba	 groin injury (DTD)
+12	2009-01-10	 Senators	 • Filip Kuba	 	 returned to lineup
+13	2009-03-09	 Senators	 	 • Filip Kuba	 illness (DTD)
+14	2009-03-14	 Senators	 • Filip Kuba	 	 returned to lineup
+15	2009-10-06	 Senators	 	 • Filip Kuba	 lower body injury / upper body injury (Y) (DTD)
+16	2009-10-28	 Senators	 • Filip Kuba	 	 returned to lineup
+17	2010-01-09	 Senators	 	 • Filip Kuba	 upper body injury (DTD)
+18	2010-01-18	 Senators	 • Filip Kuba	 	 returned to lineup
+19	2010-03-02	 Senators	 	 • Filip Kuba	 lower body injury (DTD)
+20	2010-03-18	 Senators	 • Filip Kuba	 	 returned to lineup
+21	2010-03-20	 Senators	 	 • Filip Kuba	 lower body injury (out for season)
+22	2010-09-19	 Senators	 	 • Filip Kuba	 placed on IR with broken right leg
+23	2010-11-13	 Senators	 • Filip Kuba	 	 activated from IR
+24	2011-12-01	 Senators	 	 • Filip Kuba	 upper body injury (DTD)
+25	2011-12-07	 Senators	 	 • Filip Kuba	 placed on IR with upper body injury
+26	2011-12-20	 Senators	 • Filip Kuba	 	 activated from IR
+27	2013-02-24	 Panthers	 	 • Filip Kuba	 upper body injury (DTD)
+28	2013-02-28	 Panthers	 • Filip Kuba	 	 returned to lineup
+29	2013-04-15	 Panthers	 	 • Filip Kuba	 lower body injury (DTD)
+30	2013-04-20	 Panthers	 • Filip Kuba	 	 returned to lineup

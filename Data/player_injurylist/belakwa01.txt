@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-02-10	 Flames	 	 • Wade Belak	 shoulder injury (out indefinitely)
+1	2003-11-20	 Maple Leafs	 	 • Wade Belak	 abdominal injury (out indefinitely)
+2	2004-01-06	 Maple Leafs	 	 • Wade Belak	 knee injury (out indefinitely)
+3	2005-10-05	 Maple Leafs	 	 • Wade Belak	 foot injury (DTD)
+4	2005-10-08	 Maple Leafs	 	 • Wade Belak	 foot injury (missed game)
+5	2008-09-23	 Panthers	 	 • Wade Belak	 shoulder injury (out 2-3 weeks)
+6	2009-02-05	 Predators	 	 • Wade Belak	 shoulder injury (DTD)
+7	2009-02-12	 Predators	 • Wade Belak	 	 returned to lineup
+8	2009-03-16	 Predators	 	 • Wade Belak	 undisclosed injury (DTD)
+9	2009-11-17	 Predators	 	 • Wade Belak	 groin injury (DTD)
+10	2009-11-21	 Predators	 • Wade Belak	 	 returned to lineup
+11	2010-01-29	 Predators	 	 • Wade Belak	 foot injury (DTD)
+12	2010-02-06	 Predators	 • Wade Belak	 	 returned to lineup

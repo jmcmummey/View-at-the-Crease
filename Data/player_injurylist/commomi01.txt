@@ -1,0 +1,38 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-13	 Hurricanes	 	 • Mike Commodore	 leg knjury (DTD) (date approximate)
+1	2006-01-19	 Hurricanes	 • Mike Commodore	 	 returned to lineup
+2	2006-01-25	 Hurricanes	 	 • Mike Commodore	 thigh injury (DTD)
+3	2006-02-03	 Hurricanes	 • Mike Commodore	 	 returned to lineup
+4	2006-03-10	 Hurricanes	 	 • Mike Commodore	 upper body injury (DTD)
+5	2006-03-14	 Hurricanes	 • Mike Commodore	 	 returned to lineup
+6	2007-10-06	 Hurricanes	 	 • Mike Commodore	 bruised leg (DTD)
+7	2007-10-19	 Hurricanes	 • Mike Commodore	 	 returned to lineup
+8	2007-11-24	 Hurricanes	 	 • Mike Commodore	 broken finger (DTD)
+9	2007-12-20	 Hurricanes	 • Mike Commodore	 	 returned to lineup
+10	2007-12-22	 Hurricanes	 	 • Mike Commodore	 left foot injury (DTD)
+11	2007-12-26	 Hurricanes	 • Mike Commodore	 	 returned to lineup
+12	2009-02-07	 Blue Jackets	 	 • Mike Commodore	 undisclosed injury (DTD)
+13	2009-02-10	 Blue Jackets	 • Mike Commodore	 	 returned to lineup
+14	2009-10-03	 Blue Jackets	 	 • Mike Commodore	 placed on IR with groin injury
+15	2009-10-22	 Blue Jackets	 • Mike Commodore	 	 activated from IR
+16	2009-11-04	 Blue Jackets	 	 • Mike Commodore	 charley horse (DTD)
+17	2009-11-07	 Blue Jackets	 • Mike Commodore	 	 returned to lineup
+18	2009-11-16	 Blue Jackets	 	 • Mike Commodore	 fatigued (DTD)
+19	2009-11-19	 Blue Jackets	 • Mike Commodore	 	 returned to lineup
+20	2010-01-05	 Blue Jackets	 	 • Mike Commodore	 undisclosed (DTD)
+21	2010-01-08	 Blue Jackets	 • Mike Commodore	 	 returned to lineup
+22	2010-01-19	 Blue Jackets	 	 • Mike Commodore	 knee injury (DTD)
+23	2010-01-21	 Blue Jackets	 • Mike Commodore	 	 returned to lineup
+24	2010-02-02	 Blue Jackets	 	 • Mike Commodore	 leg injury (DTD)
+25	2010-02-05	 Blue Jackets	 	 • Mike Commodore	 placed on IR with leg injury
+26	2010-03-04	 Blue Jackets	 • Mike Commodore	 	 activated from IR
+27	2010-10-16	 Blue Jackets	 	 • Mike Commodore	 left hand injuiry (DTD)
+28	2010-10-19	 Blue Jackets	 	 • Mike Commodore	 placed on IR
+29	2010-11-05	 Blue Jackets	 • Mike Commodore	 	 activated from IR
+30	2010-11-12	 Blue Jackets	 	 • Mike Commodore	 fractured left thumb (DTD)
+31	2010-11-17	 Blue Jackets	 • Mike Commodore	 	 returned to lineup
+32	2011-10-07	 Red Wings	 	 • Mike Commodore	 back injury (DTD)
+33	2011-10-08	 Red Wings	 	 • Mike Commodore	 placed on 7-day IR with back injury
+34	2011-10-29	 Red Wings	 • Mike Commodore	 	 activated from IR
+35	2012-01-12	 Red Wings	 	 • Mike Commodore	 bruised left ankle (DTD)
+36	2012-01-17	 Red Wings	 • Mike Commodore	 	 returned to lineup

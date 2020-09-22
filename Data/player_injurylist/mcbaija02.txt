@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-12	 Hurricanes	 	 • Jamie McBain	 forearm / shoulder (CBC) injury (DTD)
+1	2011-03-16	 Hurricanes	 	 • Jamie McBain	 shoulder injury (out indefinitely)
+2	2011-03-26	 Hurricanes	 • Jamie McBain	 	 returned to lineup
+3	2013-02-21	 Hurricanes	 	 • Jamie McBain	 upper body injury (DTD)
+4	2013-02-28	 Hurricanes	 • Jamie McBain	 	 returned to lineup

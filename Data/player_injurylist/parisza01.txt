@@ -1,0 +1,52 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-23	 Devils	 	 • Zach Parise	 flu (DTD)
+1	2007-12-28	 Devils	 • Zach Parise	 	 returned to lineup
+2	2010-02-10	 Devils	 	 • Zach Parise	 upper body injury (DTD)
+3	2010-10-31	 Devils	 	 • Zach Parise	 arthroscopic surgery on right knee to repair torn meniscus (out indefinitely)
+4	2010-11-05	 Devils	 	 • Zach Parise	 placed on IR recovering from arthroscopic surgery on right knee to repair torn meniscus
+5	2011-04-02	 Devils	 	 • Zach Parise	 knee injury (DTD)
+6	2011-04-02	 Devils	 • Zach Parise	 	 activated from IR
+7	2011-04-06	 Devils	 	 • Zach Parise	 right knee injury (out for season)
+8	2013-11-26	 Wild	 	 • Zach Parise	 bruised foot (DTD)
+9	2013-11-29	 Wild	 • Zach Parise	 	 returned to lineup
+10	2013-12-23	 Wild	 	 • Zach Parise	 lower body injury (DTD)
+11	2013-12-28	 Wild	 	 • Zach Parise	 placed on IR with foot injury
+12	2014-01-23	 Wild	 • Zach Parise	 	 activated from IR
+13	2014-11-05	 Wild	 	 • Zach Parise	 upper body injury (DTD)
+14	2014-11-13	 Wild	 	 • Zach Parise	 placed on IR with concussion
+15	2014-11-16	 Wild	 • Zach Parise	 	 activated from IR
+16	2015-01-08	 Wild	 	 • Zach Parise	 placed on IR for personal reasons (designated as non-roster player)
+17	2015-01-09	 Wild	 • Zach Parise	 	 activated from IR
+18	2015-04-09	 Wild	 	 • Zach Parise	 general soreness (DTD)
+19	2015-04-11	 Wild	 • Zach Parise	 	 returned to lineup
+20	2015-11-06	 Wild	 	 • Zach Parise	 lower body injury (DTD)
+21	2015-11-06	 Wild	 	 • Zach Parise	 placed on IR with lower body injury (Y)
+22	2015-11-10	 Wild	 	 • Zach Parise	 placed on IR with lower body injury (CBC)
+23	2015-11-27	 Wild	 • Zach Parise	 	 activated from IR
+24	2015-12-30	 Wild	 	 • Zach Parise	 lower body injury (DTD)
+25	2016-01-02	 Wild	 • Zach Parise	 	 returned to lineup
+26	2016-02-24	 Wild	 	 • Zach Parise	 upper body injury (DTD)
+27	2016-02-27	 Wild	 • Zach Parise	 	 returned to lineup
+28	2016-04-08	 Wild	 	 • Zach Parise	 undisclosed injury (out for season)
+29	2016-10-29	 Wild	 	 • Zach Parise	 lower body injury (DTD)
+30	2016-11-15	 Wild	 • Zach Parise	 	 returned to lineup
+31	2016-11-19	 Wild	 	 • Zach Parise	 illness (DTD)
+32	2016-11-21	 Wild	 • Zach Parise	 	 returned to lineup
+33	2016-12-22	 Wild	 	 • Zach Parise	 illness (DTD)
+34	2016-12-27	 Wild	 • Zach Parise	 	 returned to lineup
+35	2017-02-27	 Wild	 	 • Zach Parise	 mumps (DTD)
+36	2017-03-05	 Wild	 • Zach Parise	 	 returned to lineup
+37	2017-03-29	 Wild	 	 • Zach Parise	 upper body injury (DTD)
+38	2017-04-01	 Wild	 • Zach Parise	 	 returned to lineup
+39	2017-10-05	 Wild	 	 • Zach Parise	 back injury (DTD)
+40	2017-10-24	 Wild	 	 • Zach Parise	 surgery on back (out indefinitely)
+41	2017-11-20	 Wild	 	 • Zach Parise	 placed on IR with surgery on back
+42	2018-01-02	 Wild	 • Zach Parise	 	 activated from IR
+43	2018-04-17	 Wild	 	 • Zach Parise	 fractured sternum (out for season)
+44	2018-11-15	 Wild	 	 • Zach Parise	 illness (DTD)
+45	2018-11-17	 Wild	 • Zach Parise	 	 returned to lineup
+46	2019-03-02	 Wild	 	 • Zach Parise	 foot injury (DTD)
+47	2019-03-03	 Wild	 • Zach Parise	 	 returned to lineup
+48	2019-03-23	 Wild	 	 • Zach Parise	 lower body injury (DTD)
+49	2019-04-02	 Wild	 • Zach Parise	 	 returned to lineup
+50	2019-04-04	 Wild	 	 • Zach Parise	 illness (out for season)

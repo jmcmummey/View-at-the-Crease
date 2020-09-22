@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-03	 Islanders	 	 • Noah Dobson	 undisclosed (DTD)
+1	2019-10-06	 Islanders	 • Noah Dobson	 	 returned to lineup
+2	2019-10-31	 Islanders	 	 • Noah Dobson	 illness (DTD)
+3	2019-11-02	 Islanders	 • Noah Dobson	 	 returned to lineup

@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-03	 Red Wings	 	 • Steve Yzerman	 placed on IR
+1	2000-10-10	 Red Wings	 • Steve Yzerman	 	 activated from IR
+2	2002-08-02	 Red Wings	 	 • Steve Yzerman	 surgery on knee (out indefinitely)
+3	2005-09-29	 Red Wings	 	 • Steve Yzerman	 groin injury (DTD)
+4	2005-10-03	 Red Wings	 	 • Steve Yzerman	 groin injury (DTD)
+5	2005-10-13	 Red Wings	 • Steve Yzerman	 	 returned to lineup
+6	2005-10-17	 Red Wings	 	 • Steve Yzerman	 groin injury (DTD)
+7	2005-10-27	 Red Wings	 • Steve Yzerman	 	 returned to lineup
+8	2005-12-12	 Red Wings	 	 • Steve Yzerman	 groin injury (DTD)
+9	2006-01-05	 Red Wings	 • Steve Yzerman	 	 returned to lineup
+10	2006-04-13	 Red Wings	 	 • Steve Yzerman	 lower body injury (DTD)
+11	2006-04-18	 Red Wings	 • Steve Yzerman	 	 returned to lineup
+12	2006-04-27	 Red Wings	 	 • Steve Yzerman	 back injury (DTD)

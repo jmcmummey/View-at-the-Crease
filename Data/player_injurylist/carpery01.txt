@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-02-06	 Golden Knights	 	 • Ryan Carpenter	 upper body injury (DTD)
+1	2019-02-06	 Golden Knights	 	 • Ryan Carpenter	 placed on IR with upper body injury
+2	2019-02-26	 Golden Knights	 • Ryan Carpenter	 	 activated from IR

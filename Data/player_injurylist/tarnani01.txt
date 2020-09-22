@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-09-25	 Lightning	 	 • Nick Tarnasky	 placed on IR with broken finger
+1	2008-10-23	 Predators	 • Nick Tarnasky	 	 activated from IR
+2	2009-09-16	 Predators	 	 • Nick Tarnasky	 eye injury (out indefinitely)
+3	2009-09-30	 Predators	 	 • Nick Tarnasky	 placed on IR with fractured orbital bone
+4	2009-12-14	 Predators	 • Nick Tarnasky	 	 activated from IR
+5	2010-01-14	 Predators	 	 • Nick Tarnasky	 lower body injury (DTD)
+6	2010-01-23	 Predators	 • Nick Tarnasky	 	 returned to lineup
+7	2015-10-06	 Rangers	 	 • Nick Tarnasky	 placed on IR with undisclosed injury
+8	2015-11-12	 Rangers	 • Nick Tarnasky	 	 activated from IR

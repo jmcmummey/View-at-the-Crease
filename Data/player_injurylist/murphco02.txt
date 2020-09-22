@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-12-02	 Coyotes	 	 • Connor Murphy	 upper body injury (DTD)
+1	2014-12-06	 Coyotes	 • Connor Murphy	 	 returned to lineup
+2	2015-02-10	 Coyotes	 	 • Connor Murphy	 illness (DTD)
+3	2015-02-13	 Coyotes	 • Connor Murphy	 	 returned to lineup
+4	2015-03-09	 Coyotes	 	 • Connor Murphy	 illness (out for season?)
+5	2015-10-27	 Coyotes	 	 • Connor Murphy	 lower body injury (DTD)
+6	2015-10-30	 Coyotes	 • Connor Murphy	 	 returned to lineup
+7	2016-12-11	 Coyotes	 	 • Connor Murphy	 upper body injury (DTD)
+8	2016-12-17	 Coyotes	 • Connor Murphy	 	 returned to lineup
+9	2018-10-02	 Blackhawks	 	 • Connor Murphy	 placed on IR with back injury
+10	2018-12-08	 Blackhawks	 • Connor Murphy	 	 activated from IR
+11	2019-10-01	 Blackhawks	 	 • Connor Murphy	 placed on IR with groin injury
+12	2019-10-10	 Blackhawks	 • Connor Murphy	 	 activated from IR
+13	2019-10-23	 Blackhawks	 	 • Connor Murphy	 placed on IR with groin injury
+14	2019-11-16	 Blackhawks	 • Connor Murphy	 	 activated from IR

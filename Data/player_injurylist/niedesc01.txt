@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-26	 Ducks	 	 • Scott Niedermayer	 foot injury (DTD)
+1	2007-02-06	 Ducks	 • Scott Niedermayer	 	 returned to lineup

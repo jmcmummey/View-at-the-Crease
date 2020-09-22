@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-06	 Sabres	 	 • Jake McCabe	 placed on IR with undisclosed injury
+1	2014-10-16	 Sabres	 • Jake McCabe	 	 activated from IR
+2	2017-01-21	 Sabres	 	 • Jake McCabe	 shoulder injury (DTD)
+3	2017-02-04	 Sabres	 • Jake McCabe	 	 returned to lineup
+4	2018-02-07	 Sabres	 	 • Jake McCabe	 placed on IR with thumb injury
+5	2018-02-08	 Sabres	 	 • Jake McCabe	 thumb injury (out for season)
+6	2018-02-11	 Sabres	 	 • Jake McCabe	 placed on IR with thumb injury (out for season)
+7	2018-10-30	 Sabres	 	 • Jake McCabe	 upper body injury (DTD)
+8	2018-11-01	 Sabres	 • Jake McCabe	 	 returned to lineup
+9	2018-11-30	 Sabres	 	 • Jake McCabe	 undisclosed (DTD)
+10	2018-12-04	 Sabres	 	 • Jake McCabe	 placed on IR with upper body injury
+11	2018-12-21	 Sabres	 • Jake McCabe	 	 activated from IR
+12	2019-03-04	 Sabres	 	 • Jake McCabe	 upper body injury (out indefinitely)
+13	2019-03-31	 Sabres	 • Jake McCabe	 	 returned to lineup
+14	2019-11-25	 Sabres	 	 • Jake McCabe	 undisclosed (DTD)
+15	2019-11-27	 Sabres	 • Jake McCabe	 	 returned to lineup
+16	2020-01-07	 Sabres	 	 • Jake McCabe	 upper body injury (DTD)
+17	2020-01-11	 Sabres	 • Jake McCabe	 	 returned to lineup

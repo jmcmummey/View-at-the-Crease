@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-21	 Wild	 	 • Justin Falk	 upper body injury (DTD)
+1	2011-11-28	 Wild	 	 • Justin Falk	 back spasms (DTD)
+2	2011-12-03	 Wild	 	 • Justin Falk	 placed on IR with back injury
+3	2011-12-20	 Wild	 • Justin Falk	 	 activated from IR
+4	2012-03-05	 Wild	 	 • Justin Falk	 leg injury (DTD)
+5	2012-03-29	 Wild	 • Justin Falk	 	 returned to lineup
+6	2013-02-17	 Wild	 	 • Justin Falk	 illness (DTD)
+7	2013-02-26	 Wild	 • Justin Falk	 	 returned to lineup
+8	2015-01-13	 Wild	 	 • Justin Falk	 placed on IR with upper body injury
+9	2015-01-21	 Wild	 • Justin Falk	 	 activated from IR
+10	2017-03-16	 Sabres	 	 • Justin Falk	 calf injury (DTD)
+11	2017-03-25	 Sabres	 • Justin Falk	 	 returned to lineup
+12	2017-10-03	 Sabres	 	 • Justin Falk	 placed on IR with lower body injury
+13	2017-11-02	 Sabres	 • Justin Falk	 	 activated from IR
+14	2018-12-22	 Senators	 	 • Justin Falk	 placed on IR with upper body injury
+15	2018-12-27	 Senators	 	 • Justin Falk	 placed on IR with concussion
+16	2019-01-21	 Senators	 • Justin Falk	 	 activated from IR

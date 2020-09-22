@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-10-29	 Penguins	 	 • Tom Barrasso	 bruised right hand (DTD)
+1	1991-12-26	 Penguins	 	 • Tom Barrasso	 bruised right ankle (DTD)
+2	1992-03-01	 Penguins	 	 • Tom Barrasso	 back spasms (DTD) (date approximate)
+3	1993-01-14	 Penguins	 	 • Tom Barrasso	 chicken pox (DTD)
+4	1993-10-07	 Penguins	 	 • Tom Barrasso	 strained groin (DTD)
+5	1993-11-18	 Penguins	 	 • Tom Barrasso	 hip injury (out indefinitely)
+6	1995-01-20	 Penguins	 	 • Tom Barrasso	 surgery on right wrist (out indefinitely)
+7	1995-05-03	 Penguins	 	 • Tom Barrasso	 sore wrist (DTD)
+8	1995-12-07	 Penguins	 	 • Tom Barrasso	 pulled groin (DTD)
+9	1996-02-05	 Penguins	 	 • Tom Barrasso	 shoulder injury (out indefinitely)
+10	1998-10-26	 Penguins	 • Tom Barrasso	 	 activated from IR
+11	1999-03-05	 Penguins	 	 • Tom Barrasso	 placed on IR
+12	2002-12-06	 Blues	 	 • Tom Barrasso	 placed on IR

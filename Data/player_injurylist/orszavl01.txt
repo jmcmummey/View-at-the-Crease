@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-05	 Blues	 	 • Vladimir Orszagh	 leg injury (out ~6 weeks)
+1	2006-03-07	 Blues	 	 • Vladimir Orszagh	 placed on IR with left knee injury
+2	2006-10-03	 Blues	 	 • Vladimir Orszagh	 surgery on left knee (out for season)

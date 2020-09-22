@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-11-14	 Oilers	 	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 flu (DTD)
+1	2013-04-22	 Oilers	 	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 foot injury (DTD)
+2	2013-04-24	 Oilers	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 	 returned to lineup
+3	2013-10-29	 Blues	 	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 placed on IR with upper body injury
+4	2013-11-17	 Blues	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 	 activated from IR
+5	2013-12-02	 Blues	 	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 flu (DTD)
+6	2013-12-04	 Blues	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 	 returned to lineup
+7	2014-03-14	 Blues	 	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 upper body injury (DTD)
+8	2014-03-22	 Blues	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 	 returned to lineup
+9	2016-01-10	 Blues	 	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 placed on IR with upper body injury
+10	2016-02-02	 Blues	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 	 activated from IR
+11	2017-11-25	 Blues	 	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 foot injury (DTD)
+12	2017-12-02	 Blues	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 	 returned to lineup
+13	2018-12-29	 Senators	 	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 upper body injury (DTD)
+14	2019-01-02	 Senators	 • Magnus Paajarvi-Svensson / Magnus Paajarvi	 	 returned to lineup

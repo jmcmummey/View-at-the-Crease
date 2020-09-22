@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-20	 Flyers	 	 • Glen Metropolit	 lower body injury (DTD)
+1	2008-12-26	 Flyers	 • Glen Metropolit	 	 returned to lineup
+2	2009-10-06	 Canadiens	 	 • Glen Metropolit	 rib injury (DTD)
+3	2009-10-22	 Canadiens	 • Glen Metropolit	 	 returned to lineup
+4	2010-03-28	 Canadiens	 	 • Glen Metropolit	 separated shoulder (out indefinitely)
+5	2010-04-19	 Canadiens	 • Glen Metropolit	 	 returned to lineup

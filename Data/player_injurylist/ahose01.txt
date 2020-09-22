@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-01-15	 Hurricanes	 	 • Sebastian Aho (Antero)	 concussion (out indefinitely)
+1	2018-01-30	 Hurricanes	 • Sebastian Aho (Antero)	 	 returned to lineup

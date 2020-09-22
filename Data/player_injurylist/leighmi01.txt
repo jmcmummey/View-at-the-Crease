@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-19	 Hurricanes	 	 • Michael Leighton	 groin injury (DTD)
+1	2009-11-27	 Hurricanes	 • Michael Leighton	 	 returned to lineup
+2	2010-03-17	 Flyers	 	 • Michael Leighton	 high left ankle sprain (DTD)
+3	2010-05-10	 Flyers	 • Michael Leighton	 	 returned to lineup
+4	2010-09-28	 Flyers	 	 • Michael Leighton	 bulging disc in back (DTD)
+5	2010-10-06	 Flyers	 	 • Michael Leighton	 placed on IR
+6	2010-12-15	 Flyers	 • Michael Leighton	 	 activated from IR
+7	2011-04-30	 Flyers	 	 • Michael Leighton	 lower body injury (out for season)
+8	2013-02-10	 Flyers	 	 • Michael Leighton	 placed on IR with finger injury
+9	2013-03-01	 Flyers	 • Michael Leighton	 	 activated from IR

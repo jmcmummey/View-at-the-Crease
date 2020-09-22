@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-11-14	 Penguins	 	 • Stephane Richer	 foot injury (DTD)
+1	2001-11-21	 Penguins	 • Stephane Richer	 	 returned to lineup
+2	2001-12-19	 Penguins	 	 • Stephane Richer	 flu (DTD)
+3	2001-12-21	 Penguins	 • Stephane Richer	 	 returned to lineup
+4	2002-01-23	 Penguins	 	 • Stephane Richer	 strained muscle (DTD)
+5	2002-02-09	 Penguins	 • Stephane Richer	 	 returned to lineup

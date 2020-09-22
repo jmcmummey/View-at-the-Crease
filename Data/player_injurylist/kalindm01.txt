@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-05	 Sabres	 	 • Dmitri Kalinin	 groin injury (DTD)
+1	2005-10-10	 Sabres	 • Dmitri Kalinin	 	 returned to lineup
+2	2005-12-13	 Sabres	 	 • Dmitri Kalinin	 fractured finger (DTD)
+3	2006-01-05	 Sabres	 • Dmitri Kalinin	 	 returned to lineup
+4	2006-02-01	 Sabres	 	 • Dmitri Kalinin	 separated shoulder (DTD)
+5	2006-03-09	 Sabres	 • Dmitri Kalinin	 	 returned to lineup
+6	2006-05-09	 Sabres	 	 • Dmitri Kalinin	 knee injury (DTD)
+7	2006-05-11	 Sabres	 	 • Dmitri Kalinin	 broken left ankle (out indefinitely)
+8	2007-10-25	 Sabres	 	 • Dmitri Kalinin	 right knee injury (out indefinitely)
+9	2007-12-19	 Sabres	 • Dmitri Kalinin	 	 returned to lineup
+10	2008-03-11	 Sabres	 	 • Dmitri Kalinin	 shoulder injury (DTD)
+11	2009-02-01	 Rangers	 	 • Dmitri Kalinin	 twisted back (DTD)
+12	2009-02-16	 Rangers	 • Dmitri Kalinin	 	 returned to lineup

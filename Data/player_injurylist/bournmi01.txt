@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-02-01	 Canadiens	 	 • Michael Bournival	 flu (DTD)
+1	2014-02-02	 Canadiens	 • Michael Bournival	 	 returned to lineup
+2	2014-02-07	 Canadiens	 	 • Michael Bournival	 placed on IR with concussion
+3	2014-03-24	 Canadiens	 • Michael Bournival	 	 activated from IR
+4	2014-11-06	 Canadiens	 	 • Michael Bournival	 placed on IR with shoulder injury
+5	2014-12-09	 Canadiens	 • Michael Bournival	 	 activated from IR
+6	2015-10-06	 Canadiens	 	 • Michael Bournival	 placed on IR with undisclosed injury
+7	2015-12-03	 Canadiens	 • Michael Bournival	 	 activated from IR
+8	2017-01-26	 Lightning	 	 • Michael Bournival	 upper body injury (DTD)
+9	2017-02-08	 Lightning	 • Michael Bournival	 	 returned to lineup
+10	2017-10-03	 Lightning	 	 • Michael Bournival	 placed on IR with undisclosed injury
+11	2017-10-09	 Lightning	 • Michael Bournival	 	 activated from IR
+12	2018-09-24	 Lightning	 	 • Michael Bournival	 placed on IR with undisclosed injury
+13	2018-11-16	 Lightning	 • Michael Bournival	 	 activated from IR

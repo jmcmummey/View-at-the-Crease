@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-11-23	 Sharks	 	 • Jason Demers	 upper body injury (DTD)
+1	2010-11-27	 Sharks	 	 • Jason Demers	 placed on IR with upper body injury
+2	2010-12-06	 Sharks	 • Jason Demers	 	 activated from IR
+3	2011-05-15	 Sharks	 	 • Jason Demers	 upper body injury (out for season)
+4	2012-01-31	 Sharks	 	 • Jason Demers	 charley horse (DTD)
+5	2012-02-02	 Sharks	 	 • Jason Demers	 placed on IR with charley horse
+6	2012-02-02	 Sharks	 • Jason Demers	 	 activated from IR
+7	2013-01-18	 Sharks	 	 • Jason Demers	 placed on IR with fractured wrist
+8	2013-02-02	 Sharks	 • Jason Demers	 	 activated from IR
+9	2013-03-30	 Sharks	 	 • Jason Demers	 head injury (DTD)
+10	2013-04-07	 Sharks	 • Jason Demers	 	 returned to lineup
+11	2013-04-21	 Sharks	 	 • Jason Demers	 sprained left ankle (DTD)
+12	2013-05-23	 Sharks	 • Jason Demers	 	 returned to lineup
+13	2014-02-01	 Sharks	 	 • Jason Demers	 lower body injury (DTD)
+14	2014-02-07	 Sharks	 • Jason Demers	 	 returned to lineup
+15	2014-03-29	 Sharks	 	 • Jason Demers	 illness/flu (DTD)
+16	2014-04-01	 Sharks	 • Jason Demers	 	 returned to lineup
+17	2015-03-10	 Stars	 	 • Jason Demers	 illness (DTD)
+18	2015-03-12	 Stars	 • Jason Demers	 	 returned to lineup
+19	2015-11-22	 Stars	 	 • Jason Demers	 lower body injury (DTD)
+20	2015-11-25	 Stars	 • Jason Demers	 	 returned to lineup
+21	2015-12-02	 Stars	 	 • Jason Demers	 upper body injury (DTD)
+22	2015-12-11	 Stars	 • Jason Demers	 	 returned to lineup
+23	2016-02-11	 Stars	 	 • Jason Demers	 illness (DTD)
+24	2016-02-13	 Stars	 • Jason Demers	 	 returned to lineup
+25	2016-03-09	 Stars	 	 • Jason Demers	 shoulder injury (DTD)
+26	2016-04-08	 Stars	 • Jason Demers	 	 returned to lineup
+27	2018-01-31	 Coyotes	 	 • Jason Demers	 placed on IR with upper body injury
+28	2018-02-08	 Coyotes	 • Jason Demers	 	 activated from IR
+29	2018-03-20	 Coyotes	 	 • Jason Demers	 upper body injury (out for season)
+30	2018-11-17	 Coyotes	 	 • Jason Demers	 placed on IR with knee injury
+31	2019-03-05	 Coyotes	 • Jason Demers	 	 activated from IR
+32	2019-11-07	 Coyotes	 	 • Jason Demers	 lower body injury (DTD)
+33	2019-11-11	 Coyotes	 • Jason Demers	 	 returned to lineup
+34	2019-12-10	 Coyotes	 	 • Jason Demers	 placed on IR with knee injury
+35	2019-12-23	 Coyotes	 • Jason Demers	 	 activated from IR
+36	2020-02-04	 Coyotes	 	 • Jason Demers	 lower body injury (DTD)
+37	2020-02-06	 Coyotes	 	 • Jason Demers	 placed on IR with lower body injury / oblique injury
+38	2020-02-29	 Coyotes	 • Jason Demers	 	 activated from IR

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-04	 Bruins	 	 • Jason York	 lower body injury (DTD)
+1	2006-11-11	 Bruins	 	 • Jason York	 surgery on knee (out indefinitely)
+2	2006-11-25	 Bruins	 • Jason York	 	 returned to lineup
+3	2007-01-11	 Bruins	 	 • Jason York	 knee injury (DTD)
+4	2007-02-01	 Bruins	 • Jason York	 	 returned to lineup

@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-11-10	 Stars	 	 • Aaron Downey	 placed on IR
+1	2003-12-17	 Stars	 • Aaron Downey	 	 activated from IR
+2	2005-12-22	 Blues	 	 • Aaron Downey	 oblique injury (out indefinitely)
+3	2005-12-27	 Blues	 	 • Aaron Downey	 placed on IR with pulled oblique muscle
+4	2006-01-12	 Blues	 • Aaron Downey	 	 activated from IR
+5	2006-10-18	 Canadiens	 	 • Aaron Downey	 concussion (out indefinitely)
+6	2006-10-31	 Canadiens	 • Aaron Downey	 	 returned to lineup
+7	2008-03-15	 Red Wings	 	 • Aaron Downey	 flu (DTD)
+8	2008-03-19	 Red Wings	 • Aaron Downey	 	 returned to lineup

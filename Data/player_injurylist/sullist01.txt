@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-05	 Predators	 	 • Steve Sullivan	 groin injury (DTD)
+1	2005-11-10	 Predators	 • Steve Sullivan	 	 returned to lineup
+2	2005-11-15	 Predators	 	 • Steve Sullivan	 strained groin (DTD)
+3	2005-11-23	 Predators	 • Steve Sullivan	 	 returned to lineup
+4	2006-02-22	 Predators	 	 • Steve Sullivan	 back injury (out indefinitely)
+5	2006-04-01	 Predators	 	 • Steve Sullivan	 strained groin (DTD)
+6	2006-10-19	 Predators	 	 • Steve Sullivan	 back spasms (DTD)
+7	2006-10-28	 Predators	 • Steve Sullivan	 	 returned to lineup
+8	2006-12-08	 Predators	 	 • Steve Sullivan	 groin injury (DTD)
+9	2006-12-14	 Predators	 • Steve Sullivan	 	 returned to lineup
+10	2007-02-24	 Predators	 	 • Steve Sullivan	 groin injury (DTD)
+11	2008-09-20	 Predators	 	 • Steve Sullivan	 placed on IR with surgery on back
+12	2009-01-10	 Predators	 • Steve Sullivan	 	 activated from IR
+13	2010-01-07	 Predators	 	 • Steve Sullivan	 undisclosed injury (left game)
+14	2010-12-26	 Predators	 	 • Steve Sullivan	 placed on IR with lower body injury
+15	2011-02-05	 Predators	 • Steve Sullivan	 	 activated from IR
+16	2011-02-25	 Predators	 	 • Steve Sullivan	 placed on IR with groin injury
+17	2011-04-08	 Predators	 • Steve Sullivan	 	 activated from IR
+18	2011-05-05	 Predators	 	 • Steve Sullivan	 groin injury (out for season)
+19	2011-11-13	 Penguins	 	 • Steve Sullivan	 lower body injury (DTD)
+20	2012-03-24	 Penguins	 	 • Steve Sullivan	 lower body injury (DTD)
+21	2012-03-27	 Penguins	 • Steve Sullivan	 	 returned to lineup
+22	2012-04-05	 Penguins	 	 • Steve Sullivan	 lower body injury (out for season)
+23	2013-01-30	 Coyotes	 	 • Steve Sullivan	 lower body injury (DTD)
+24	2013-02-04	 Coyotes	 • Steve Sullivan	 	 returned to lineup

@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-11-01	 Rangers	 	 • Alexei Kovalev / Alex Kovalev	 placed on IR
+1	2001-10-16	 Penguins	 	 • Alexei Kovalev / Alex Kovalev	 placed on IR with surgery on knee
+2	2001-11-13	 Penguins	 • Alexei Kovalev / Alex Kovalev	 	 activated from IR
+3	2002-04-08	 Penguins	 	 • Alexei Kovalev / Alex Kovalev	 hip injury (DTD)
+4	2002-04-10	 Penguins	 • Alexei Kovalev / Alex Kovalev	 	 returned to lineup
+5	2002-04-13	 Penguins	 	 • Alexei Kovalev / Alex Kovalev	 hip flexor injury (DTD)
+6	2002-12-07	 Penguins	 	 • Alexei Kovalev / Alex Kovalev	 bruised tricep muscle (DTD)
+7	2002-12-10	 Penguins	 • Alexei Kovalev / Alex Kovalev	 	 returned to lineup
+8	2005-11-14	 Canadiens	 	 • Alexei Kovalev / Alex Kovalev	 surgery on knee (out 3-4 weeks)
+9	2005-12-20	 Canadiens	 • Alexei Kovalev / Alex Kovalev	 	 returned to lineup
+10	2007-02-13	 Canadiens	 	 • Alexei Kovalev / Alex Kovalev	 upper body injury (DTD)
+11	2007-02-15	 Canadiens	 	 • Alexei Kovalev / Alex Kovalev	 left elbow injury (out 2-3 weeks)
+12	2007-02-26	 Canadiens	 • Alexei Kovalev / Alex Kovalev	 	 returned to lineup
+13	2007-03-13	 Canadiens	 	 • Alexei Kovalev / Alex Kovalev	 vertigo (DTD)
+14	2007-03-17	 Canadiens	 • Alexei Kovalev / Alex Kovalev	 	 returned to lineup
+15	2009-03-12	 Canadiens	 	 • Alexei Kovalev / Alex Kovalev	 flu (DTD)
+16	2009-03-17	 Canadiens	 • Alexei Kovalev / Alex Kovalev	 	 returned to lineup
+17	2010-03-26	 Senators	 	 • Alexei Kovalev / Alex Kovalev	 lower body injury (DTD)
+18	2010-03-27	 Senators	 • Alexei Kovalev / Alex Kovalev	 	 returned to lineup
+19	2010-04-10	 Senators	 	 • Alexei Kovalev / Alex Kovalev	 torn ACL in left knee (out for season)
+20	2011-01-09	 Senators	 	 • Alexei Kovalev / Alex Kovalev	 placed on IR with torn ACL in left knee (out for season)
+21	2011-01-21	 Senators	 • Alexei Kovalev / Alex Kovalev	 	 activated from IR

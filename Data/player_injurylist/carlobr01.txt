@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-04-10	 Bruins	 	 • Brandon Carlo	 upper body injury (out for season)
+1	2018-04-01	 Bruins	 	 • Brandon Carlo	 fractured left ankle (out for season)
+2	2018-11-11	 Bruins	 	 • Brandon Carlo	 upper body injury (DTD)
+3	2018-11-15	 Bruins	 	 • Brandon Carlo	 placed on IR with upper body injury
+4	2018-12-01	 Bruins	 • Brandon Carlo	 	 activated from IR
+5	2020-03-07	 Bruins	 	 • Brandon Carlo	 upper body injury (DTD)

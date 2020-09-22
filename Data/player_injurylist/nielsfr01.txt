@@ -1,0 +1,39 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-03-02	 Islanders	 	 • Frans Nielsen	 shoulder injury (out 2-3 weeks)
+1	2008-03-29	 Islanders	 • Frans Nielsen	 	 returned to lineup
+2	2008-11-22	 Islanders	 	 • Frans Nielsen	 placed on IR with right knee injury
+3	2009-01-13	 Islanders	 • Frans Nielsen	 	 activated from IR
+4	2009-09-30	 Islanders	 	 • Frans Nielsen	 placed on IR with knee injury
+5	2009-10-21	 Islanders	 • Frans Nielsen	 	 activated from IR
+6	2009-12-02	 Islanders	 	 • Frans Nielsen	 upper body injury (DTD)
+7	2011-01-05	 Islanders	 	 • Frans Nielsen	 strained groin (DTD)
+8	2011-01-11	 Islanders	 	 • Frans Nielsen	 placed on IR with strained groin
+9	2011-01-20	 Islanders	 • Frans Nielsen	 	 activated from IR
+10	2011-03-31	 Islanders	 	 • Frans Nielsen	 head injury / concussion (out for season)
+11	2014-02-09	 Islanders	 	 • Frans Nielsen	 fractured hand (DTD)
+12	2014-02-23	 Islanders	 	 • Frans Nielsen	 placed on IR with fractured hand
+13	2014-03-02	 Islanders	 • Frans Nielsen	 	 activated from IR
+14	2015-03-13	 Islanders	 	 • Frans Nielsen	 lower body injury (DTD)
+15	2015-03-14	 Islanders	 • Frans Nielsen	 	 returned to lineup
+16	2015-04-07	 Islanders	 	 • Frans Nielsen	 undisclosed (out for season)
+17	2017-02-04	 Red Wings	 	 • Frans Nielsen	 placed on IR with upper body injury
+18	2017-02-06	 Red Wings	 	 • Frans Nielsen	 placed on IR with upper body injury
+19	2017-02-10	 Red Wings	 • Frans Nielsen	 	 activated from IR
+20	2018-03-07	 Red Wings	 	 • Frans Nielsen	 upper body injury (DTD)
+21	2018-03-15	 Red Wings	 • Frans Nielsen	 	 returned to lineup
+22	2018-10-29	 Red Wings	 	 • Frans Nielsen	 undisclosed (DTD)
+23	2018-11-09	 Red Wings	 • Frans Nielsen	 	 returned to lineup
+24	2019-02-16	 Red Wings	 	 • Frans Nielsen	 illness (DTD)
+25	2019-02-17	 Red Wings	 • Frans Nielsen	 	 returned to lineup
+26	2019-03-29	 Red Wings	 	 • Frans Nielsen	 concussion (out for season)
+27	2019-10-07	 Red Wings	 	 • Frans Nielsen	 placed on IR with undisclosed injury
+28	2019-10-15	 Red Wings	 • Frans Nielsen	 	 activated from IR
+29	2019-11-06	 Red Wings	 	 • Frans Nielsen	 undisclosed (DTD)
+30	2019-11-08	 Red Wings	 • Frans Nielsen	 	 returned to lineup
+31	2019-12-21	 Red Wings	 	 • Frans Nielsen	 illness (DTD)
+32	2019-12-22	 Red Wings	 • Frans Nielsen	 	 returned to lineup
+33	2020-01-21	 Red Wings	 	 • Frans Nielsen	 upper body injury (DTD)
+34	2020-01-30	 Red Wings	 • Frans Nielsen	 	 returned to lineup
+35	2020-02-01	 Red Wings	 	 • Frans Nielsen	 upper body injury (DTD)
+36	2020-02-05	 Red Wings	 	 • Frans Nielsen	 placed on IR with upper body injury
+37	2020-02-11	 Red Wings	 • Frans Nielsen	 	 activated from IR

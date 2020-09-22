@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-05-23	 Oilers	 	 • Raffi Torres	 flu (DTD)
+1	2006-05-25	 Oilers	 • Raffi Torres	 	 returned to lineup
+2	2007-12-15	 Oilers	 	 • Raffi Torres	 knee injury (out indefinitely)
+3	2008-09-29	 Blue Jackets	 	 • Raffi Torres	 placed on IR with separated shoulder
+4	2008-11-01	 Blue Jackets	 • Raffi Torres	 	 activated from IR
+5	2008-12-02	 Blue Jackets	 	 • Raffi Torres	 placed on IR with right knee injury
+6	2009-01-16	 Blue Jackets	 • Raffi Torres	 	 activated from IR
+7	2009-01-29	 Blue Jackets	 	 • Raffi Torres	 undisclosed injury (DTD)
+8	2009-01-31	 Blue Jackets	 • Raffi Torres	 	 returned to lineup
+9	2009-02-18	 Blue Jackets	 	 • Raffi Torres	 flu (DTD)
+10	2009-02-19	 Blue Jackets	 • Raffi Torres	 	 returned to lineup
+11	2009-03-06	 Blue Jackets	 	 • Raffi Torres	 oblique injury (DTD)
+12	2009-11-12	 Blue Jackets	 	 • Raffi Torres	 mouth injury (DTD)
+13	2009-11-13	 Blue Jackets	 	 • Raffi Torres	 placed on IR with mouth injury
+14	2009-11-19	 Blue Jackets	 • Raffi Torres	 	 activated from IR
+15	2010-01-05	 Blue Jackets	 	 • Raffi Torres	 flu (DTD)
+16	2010-01-07	 Blue Jackets	 • Raffi Torres	 	 returned to lineup
+17	2010-03-20	 Sabres	 	 • Raffi Torres	 upper body injury (DTD)
+18	2010-03-31	 Sabres	 • Raffi Torres	 	 returned to lineup
+19	2012-01-16	 Coyotes	 	 • Raffi Torres	 undisclosed minor injuries (DTD)
+20	2012-01-18	 Coyotes	 • Raffi Torres	 	 returned to lineup
+21	2013-09-23	 Sharks	 	 • Raffi Torres	 torn ACL in right knee (out indefinitely)
+22	2013-09-30	 Sharks	 	 • Raffi Torres	 placed on IR with torn ACL in right knee
+23	2014-02-26	 Sharks	 • Raffi Torres	 	 activated from IR
+24	2014-03-11	 Sharks	 	 • Raffi Torres	 right knee injury / general soreness (out for season)
+25	2014-03-24	 Sharks	 	 • Raffi Torres	 placed on IR with right knee injury (out for season)
+26	2014-10-06	 Sharks	 	 • Raffi Torres	 placed on IR with knee injury (out for season)

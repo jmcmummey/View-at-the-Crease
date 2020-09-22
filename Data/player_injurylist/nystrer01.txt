@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-05	 Flames	 	 • Eric Nystrom	 shoulder injury (DTD)
+1	2006-11-08	 Flames	 • Eric Nystrom	 	 returned to lineup
+2	2008-01-11	 Flames	 	 • Eric Nystrom	 placed on IR with mouth injury
+3	2008-01-22	 Flames	 • Eric Nystrom	 	 activated from IR
+4	2008-03-18	 Flames	 	 • Eric Nystrom	 head injury (DTD)
+5	2008-03-24	 Flames	 • Eric Nystrom	 	 returned to lineup
+6	2012-03-27	 Stars	 	 • Eric Nystrom	 lacerated leg (DTD)
+7	2012-04-03	 Stars	 • Eric Nystrom	 	 returned to lineup
+8	2013-11-15	 Predators	 	 • Eric Nystrom	 upper body injury (DTD)
+9	2013-11-23	 Predators	 • Eric Nystrom	 	 returned to lineup
+10	2015-01-08	 Predators	 	 • Eric Nystrom	 placed on IR with undisclosed injury
+11	2015-01-20	 Predators	 • Eric Nystrom	 	 activated from IR
+12	2015-03-05	 Predators	 	 • Eric Nystrom	 lower body injury (out for season)
+13	2015-11-01	 Predators	 	 • Eric Nystrom	 upper body injury (DTD)
+14	2015-11-09	 Predators	 	 • Eric Nystrom	 placed on IR with upper body injury
+15	2015-11-21	 Predators	 • Eric Nystrom	 	 activated from IR
+16	2016-02-01	 Predators	 	 • Eric Nystrom	 placed on IR with foot injury
+17	2016-03-20	 Predators	 • Eric Nystrom	 	 activated from IR

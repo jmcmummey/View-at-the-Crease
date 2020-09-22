@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-25	 Bruins	 	 • Ryan Spooner	 illness (DTD)
+1	2014-01-28	 Bruins	 • Ryan Spooner	 	 returned to lineup
+2	2016-02-20	 Bruins	 	 • Ryan Spooner	 illness (DTD)
+3	2016-02-22	 Bruins	 • Ryan Spooner	 	 returned to lineup
+4	2016-03-28	 Bruins	 	 • Ryan Spooner	 undisclosed injury (DTD)
+5	2016-04-01	 Bruins	 • Ryan Spooner	 	 returned to lineup
+6	2017-03-07	 Bruins	 	 • Ryan Spooner	 concussion (out indefinitely)
+7	2017-03-15	 Bruins	 • Ryan Spooner	 	 returned to lineup
+8	2017-04-21	 Bruins	 	 • Ryan Spooner	 undisclosed (out for season)
+9	2017-10-18	 Bruins	 	 • Ryan Spooner	 placed on IR with torn adductor in right groin
+10	2017-11-22	 Bruins	 • Ryan Spooner	 	 activated from IR
+11	2017-11-26	 Bruins	 	 • Ryan Spooner	 groin injury (DTD)
+12	2017-11-29	 Bruins	 • Ryan Spooner	 	 returned to lineup
+13	2017-12-06	 Bruins	 	 • Ryan Spooner	 placed on IR with lower body injury
+14	2017-12-14	 Bruins	 • Ryan Spooner	 	 activated from IR
+15	2017-12-21	 Bruins	 	 • Ryan Spooner	 illness (DTD)
+16	2017-12-23	 Bruins	 • Ryan Spooner	 	 returned to lineup
+17	2018-11-04	 Rangers	 	 • Ryan Spooner	 lower body injury (DTD)
+18	2018-11-06	 Rangers	 • Ryan Spooner	 	 returned to lineup
+19	2018-12-03	 Oilers	 	 • Ryan Spooner	 illness (DTD)
+20	2018-12-05	 Oilers	 • Ryan Spooner	 	 returned to lineup
+21	2019-03-06	 Canucks	 	 • Ryan Spooner	 groin injury (DTD)
+22	2019-03-28	 Canucks	 • Ryan Spooner	 	 returned to lineup

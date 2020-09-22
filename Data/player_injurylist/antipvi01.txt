@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-01-01	 Sabres	 	 • Viktor Antipin / Victor Antipin	 illness (DTD)
+1	2018-01-08	 Sabres	 	 • Viktor Antipin / Victor Antipin	 placed on IR with illness
+2	2018-01-18	 Sabres	 • Viktor Antipin / Victor Antipin	 	 activated from IR
+3	2018-04-02	 Sabres	 	 • Viktor Antipin / Victor Antipin	 concussion (out for season)

@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-12-12	 Avalanche	 	 • Alexander Kerfoot / Alex Kerfoot	 leg injury (DTD)
+1	2017-12-18	 Avalanche	 • Alexander Kerfoot / Alex Kerfoot	 	 returned to lineup
+2	2018-12-11	 Avalanche	 	 • Alexander Kerfoot / Alex Kerfoot	 upper body injury (DTD)
+3	2018-12-19	 Avalanche	 • Alexander Kerfoot / Alex Kerfoot	 	 returned to lineup
+4	2019-11-15	 Maple Leafs	 	 • Alexander Kerfoot / Alex Kerfoot	 surgery on face (out indefinitely)
+5	2019-11-21	 Maple Leafs	 • Alexander Kerfoot / Alex Kerfoot	 	 returned to lineup

@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-11-05	 Kings	 	 • Luc Robitaille	 fractured left foot (out 2-6 weeks)
+1	2005-10-16	 Kings	 	 • Luc Robitaille	 groin injury (DTD)
+2	2005-10-19	 Kings	 • Luc Robitaille	 	 returned to lineup
+3	2005-11-01	 Kings	 	 • Luc Robitaille	 fractured leg (out 2 weeks)
+4	2005-11-03	 Kings	 	 • Luc Robitaille	 placed on IR with fractured leg
+5	2005-11-22	 Kings	 • Luc Robitaille	 	 activated from IR

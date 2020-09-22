@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-04	 Canucks	 	 • Alexander Edler / Alex Edler	 hip injury (DTD)
+1	2007-10-10	 Canucks	 • Alexander Edler / Alex Edler	 	 returned to lineup
+2	2008-11-15	 Canucks	 	 • Alexander Edler / Alex Edler	 flu (DTD)
+3	2008-11-19	 Canucks	 • Alexander Edler / Alex Edler	 	 returned to lineup
+4	2009-12-09	 Canucks	 	 • Alexander Edler / Alex Edler	 left arm body injury (DTD)
+5	2009-12-22	 Canucks	 • Alexander Edler / Alex Edler	 	 returned to lineup
+6	2011-01-26	 Canucks	 	 • Alexander Edler / Alex Edler	 placed on IR with surgery on back
+7	2011-04-07	 Canucks	 • Alexander Edler / Alex Edler	 	 activated from IR
+8	2013-12-04	 Canucks	 	 • Alexander Edler / Alex Edler	 lower body injury (DTD)
+9	2013-12-09	 Canucks	 	 • Alexander Edler / Alex Edler	 placed on IR with lower body injury
+10	2014-01-13	 Canucks	 • Alexander Edler / Alex Edler	 	 activated from IR
+11	2015-02-15	 Canucks	 	 • Alexander Edler / Alex Edler	 upper body injury / lower body injury
+12	2015-02-19	 Canucks	 	 • Alexander Edler / Alex Edler	 placed on IR with lower body injury
+13	2015-03-05	 Canucks	 • Alexander Edler / Alex Edler	 	 activated from IR
+14	2015-10-10	 Canucks	 	 • Alexander Edler / Alex Edler	 illness (DTD)
+15	2015-10-12	 Canucks	 • Alexander Edler / Alex Edler	 	 returned to lineup
+16	2016-02-10	 Canucks	 	 • Alexander Edler / Alex Edler	 placed on IR with fractured fibula (out for season)
+17	2016-11-04	 Canucks	 	 • Alexander Edler / Alex Edler	 upper body injury (DTD)
+18	2016-11-07	 Canucks	 • Alexander Edler / Alex Edler	 	 returned to lineup
+19	2016-11-27	 Canucks	 	 • Alexander Edler / Alex Edler	 placed on IR with fractured finger
+20	2016-12-28	 Canucks	 • Alexander Edler / Alex Edler	 	 activated from IR
+21	2017-10-13	 Canucks	 	 • Alexander Edler / Alex Edler	 placed on IR with sprained knee
+22	2017-10-17	 Canucks	 	 • Alexander Edler / Alex Edler	 placed on IR with sprained knee
+23	2017-11-09	 Canucks	 • Alexander Edler / Alex Edler	 	 activated from IR
+24	2018-10-25	 Canucks	 	 • Alexander Edler / Alex Edler	 placed on IR with sprained MCL in knee
+25	2018-11-24	 Canucks	 • Alexander Edler / Alex Edler	 	 activated from IR
+26	2019-02-05	 Canucks	 	 • Alexander Edler / Alex Edler	 placed on IR with concussion
+27	2019-02-28	 Canucks	 • Alexander Edler / Alex Edler	 	 activated from IR
+28	2019-12-01	 Canucks	 	 • Alexander Edler / Alex Edler	 upper body injury (DTD)
+29	2019-12-03	 Canucks	 	 • Alexander Edler / Alex Edler	 placed on IR with upper body injury
+30	2019-12-23	 Canucks	 • Alexander Edler / Alex Edler	 	 activated from IR

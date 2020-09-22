@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-01-15	 Wild	 	 • Wes Walz	 placed on IR
+1	2004-01-29	 Wild	 • Wes Walz	 	 activated from IR
+2	2005-12-17	 Wild	 	 • Wes Walz	 strained neck (DTD)
+3	2006-10-18	 Wild	 	 • Wes Walz	 hip flexor (DTD)
+4	2006-10-21	 Wild	 • Wes Walz	 	 returned to lineup
+5	2006-10-29	 Wild	 	 • Wes Walz	 leg injury (out indefinitely)
+6	2006-11-04	 Wild	 • Wes Walz	 	 returned to lineup
+7	2006-11-07	 Wild	 	 • Wes Walz	 leg injury (DTD)
+8	2006-11-11	 Wild	 • Wes Walz	 	 returned to lineup
+9	2006-11-22	 Wild	 	 • Wes Walz	 hip injury (DTD)
+10	2006-12-14	 Wild	 • Wes Walz	 	 returned to lineup
+11	2007-03-08	 Wild	 	 • Wes Walz	 upper body injury (DTD)
+12	2007-03-17	 Wild	 • Wes Walz	 	 returned to lineup
+13	2007-10-06	 Wild	 	 • Wes Walz	 right knee injury (DTD)
+14	2007-10-10	 Wild	 • Wes Walz	 	 returned to lineup

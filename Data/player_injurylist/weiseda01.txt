@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-02-09	 Canucks	 	 • Dale Weise	 foot injury (DTD)
+1	2012-02-19	 Canucks	 • Dale Weise	 	 returned to lineup
+2	2013-03-26	 Canucks	 	 • Dale Weise	 shoulder injury (out indefinitely)
+3	2013-03-28	 Canucks	 	 • Dale Weise	 placed on IR with shoulder injury
+4	2013-04-06	 Canucks	 • Dale Weise	 	 activated from IR
+5	2013-10-25	 Canucks	 	 • Dale Weise	 placed on IR with leg injury
+6	2013-11-19	 Canucks	 • Dale Weise	 	 activated from IR
+7	2014-03-25	 Canadiens	 	 • Dale Weise	 upper body injury (DTD)
+8	2014-04-09	 Canadiens	 • Dale Weise	 	 returned to lineup
+9	2014-05-27	 Canadiens	 	 • Dale Weise	 concussion (out for season)
+10	2016-01-01	 Canadiens	 	 • Dale Weise	 placed on IR with upper body injury
+11	2016-01-16	 Canadiens	 • Dale Weise	 	 activated from IR
+12	2016-02-22	 Canadiens	 	 • Dale Weise	 illness (DTD)
+13	2016-02-24	 Canadiens	 • Dale Weise	 	 returned to lineup

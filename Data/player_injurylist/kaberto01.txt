@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-02	 Maple Leafs	 	 • Tomas Kaberle	 concussion (out indefinitely)
+1	2007-03-23	 Maple Leafs	 • Tomas Kaberle	 	 returned to lineup
+2	2009-01-31	 Maple Leafs	 	 • Tomas Kaberle	 placed on IR with broken bone in right hand
+3	2009-02-28	 Maple Leafs	 • Tomas Kaberle	 	 activated from IR
+4	2009-03-04	 Maple Leafs	 	 • Tomas Kaberle	 right hand injury (DTD)
+5	2009-03-14	 Maple Leafs	 	 • Tomas Kaberle	 hand injury (DTD)
+6	2009-04-01	 Maple Leafs	 • Tomas Kaberle	 	 returned to lineup
+7	2013-01-27	 Canadiens	 	 • Tomas Kaberle	 facial injury (DTD)

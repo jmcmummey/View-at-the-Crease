@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-02-01	 Maple Leafs	 	 • Carter Ashton	 hand injury (DTD)
+1	2014-02-04	 Maple Leafs	 	 • Carter Ashton	 placed on IR with hand injury
+2	2014-02-28	 Maple Leafs	 • Carter Ashton	 	 activated from IR
+3	2014-03-11	 Maple Leafs	 	 • Carter Ashton	 head injury (DTD)
+4	2014-03-16	 Maple Leafs	 • Carter Ashton	 	 returned to lineup
+5	2014-04-10	 Maple Leafs	 	 • Carter Ashton	 knee injury (out for season)

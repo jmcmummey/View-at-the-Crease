@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-04	 Maple Leafs	 	 • Ken Klee	 ankle injury (DTD)
+1	2005-10-08	 Maple Leafs	 	 • Ken Klee	 returned to lineup
+2	2006-02-04	 Maple Leafs	 	 • Ken Klee	 ankle injury (DTD)
+3	2006-02-28	 Maple Leafs	 • Ken Klee	 	 returned to lineup
+4	2008-03-18	 Thrashers	 	 • Ken Klee	 soreness (DTD)

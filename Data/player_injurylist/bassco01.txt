@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-01-29	 Senators	 	 • Cody Bass	 ankle injury (DTD)
+1	2008-03-29	 Senators	 • Cody Bass	 	 returned to lineup
+2	2008-12-28	 Senators	 	 • Cody Bass	 placed on IR with shoulder injury
+3	2013-09-24	 Blue Jackets	 	 • Cody Bass	 fractured thumb (DTD)
+4	2016-04-26	 Predators	 	 • Cody Bass	 lower body injury (out for season)
+5	2016-10-22	 Predators	 	 • Cody Bass	 placed on IR with upper body injury
+6	2016-11-01	 Predators	 • Cody Bass	 	 activated from IR

@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-16	 Stars	 	 • Ryan Garbutt	 hand injury (DTD)
+1	2013-03-19	 Stars	 	 • Ryan Garbutt	 placed on IR with hand injury
+2	2013-04-03	 Stars	 • Ryan Garbutt	 	 activated from IR
+3	2013-12-05	 Stars	 	 • Ryan Garbutt	 foot injury (DTD)
+4	2013-12-06	 Stars	 • Ryan Garbutt	 	 returned to lineup
+5	2014-11-17	 Stars	 	 • Ryan Garbutt	 upper body injury (DTD)
+6	2014-11-25	 Stars	 • Ryan Garbutt	 	 returned to lineup
+7	2015-11-08	 Blackhawks	 	 • Ryan Garbutt	 illness (DTD)
+8	2015-11-14	 Blackhawks	 • Ryan Garbutt	 	 returned to lineup

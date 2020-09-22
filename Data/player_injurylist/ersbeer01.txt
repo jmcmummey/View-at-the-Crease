@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-16	 Kings	 	 • Erik Ersberg	 pulled groin (DTD)
+1	2009-01-06	 Kings	 • Erik Ersberg	 	 returned to lineup
+2	2009-01-18	 Kings	 	 • Erik Ersberg	 lower body injury (DTD)
+3	2009-01-29	 Kings	 • Erik Ersberg	 	 returned to lineup
+4	2009-10-14	 Kings	 	 • Erik Ersberg	 upper body injury (DTD)
+5	2010-03-29	 Kings	 	 • Erik Ersberg	 back injury (DTD)
+6	2010-04-03	 Kings	 • Erik Ersberg	 	 returned to lineup

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-25	 Sharks	 	 • Ryan Vesce	 placed on IR with leg injury
+1	2009-11-10	 Sharks	 • Ryan Vesce	 	 activated from IR

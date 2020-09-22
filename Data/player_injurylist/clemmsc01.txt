@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-04-05	 Devils	 	 • Scott Clemmensen	 illness (DTD)
+1	2006-04-08	 Devils	 • Scott Clemmensen	 	 returned to lineup
+2	2011-03-22	 Panthers	 	 • Scott Clemmensen	 knee injury (DTD)
+3	2011-03-25	 Panthers	 • Scott Clemmensen	 	 returned to lineup
+4	2011-10-05	 Panthers	 	 • Scott Clemmensen	 placed on IR with surgery on knee
+5	2011-11-19	 Panthers	 	 • Scott Clemmensen	 lower body injury (DTD)
+6	2011-11-29	 Panthers	 • Scott Clemmensen	 	 returned to lineup
+7	2013-10-01	 Panthers	 	 • Scott Clemmensen	 placed on IR with surgery on knee

@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-02-01	 Devils	 	 • Mark Fayne	 illness (DTD)
+1	2011-02-03	 Devils	 • Mark Fayne	 	 returned to lineup
+2	2013-01-31	 Devils	 	 • Mark Fayne	 arm injury (DTD)
+3	2013-02-03	 Devils	 • Mark Fayne	 	 returned to lineup
+4	2013-04-21	 Devils	 	 • Mark Fayne	 undisclosed (out for season)
+5	2015-03-27	 Oilers	 	 • Mark Fayne	 shoulder injury (out for season)
+6	2016-10-19	 Oilers	 	 • Mark Fayne	 placed on IR with undisclosed injury
+7	2016-11-29	 Oilers	 • Mark Fayne	 	 activated from IR
+8	2016-12-07	 Oilers	 	 • Mark Fayne	 placed on IR with groin injury
+9	2016-12-30	 Oilers	 • Mark Fayne	 	 activated from IR

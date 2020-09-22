@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1995-08-11	 Sabres	 	 • Richard Smehlik	 surgery on knee (out for season)
+1	2002-12-08	 Thrashers	 • Richard Smehlik	 	 activated from IR
+2	2002-12-16	 Thrashers	 	 • Richard Smehlik	 placed on IR
+3	2003-01-13	 Thrashers	 • Richard Smehlik	 	 activated from IR

@@ -1,0 +1,38 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-26	 Blues	 	 • Bryce Salvador	 knee injury (DTD)
+1	2005-12-01	 Blues	 • Bryce Salvador	 	 returned to lineup
+2	2005-12-28	 Blues	 	 • Bryce Salvador	 flu (DTD)
+3	2005-12-29	 Blues	 • Bryce Salvador	 	 returned to lineup
+4	2006-01-20	 Blues	 	 • Bryce Salvador	 shoulder injury (DTD)
+5	2006-01-25	 Blues	 • Bryce Salvador	 	 returned to lineup
+6	2006-01-26	 Blues	 	 • Bryce Salvador	 shoulder injury (out indefinitely)
+7	2006-01-30	 Blues	 	 • Bryce Salvador	 placed on IR with shoulder injury
+8	2006-02-17	 Blues	 • Bryce Salvador	 	 activated from IR
+9	2006-03-07	 Blues	 	 • Bryce Salvador	 placed on IR with sore right shoulder
+10	2006-03-18	 Blues	 • Bryce Salvador	 	 activated from IR
+11	2006-12-17	 Blues	 	 • Bryce Salvador	 facial injury (DTD)
+12	2006-12-21	 Blues	 • Bryce Salvador	 	 returned to lineup
+13	2007-01-26	 Blues	 	 • Bryce Salvador	 lower body injury (DTD)
+14	2007-01-30	 Blues	 • Bryce Salvador	 	 returned to lineup
+15	2007-03-10	 Blues	 	 • Bryce Salvador	 fractured left clavicle (out for season)
+16	2008-03-19	 Devils	 	 • Bryce Salvador	 lower body injury (DTD)
+17	2008-04-09	 Devils	 • Bryce Salvador	 	 returned to lineup
+18	2008-11-08	 Devils	 	 • Bryce Salvador	 left foot injury (DTD)
+19	2008-11-12	 Devils	 • Bryce Salvador	 	 returned to lineup
+20	2008-12-19	 Devils	 	 • Bryce Salvador	 upper body injury (DTD)
+21	2008-12-30	 Devils	 • Bryce Salvador	 	 returned to lineup
+22	2009-04-23	 Devils	 	 • Bryce Salvador	 knee injury (out for season)
+23	2009-12-29	 Devils	 	 • Bryce Salvador	 lower body injury (DTD)
+24	2010-01-05	 Devils	 • Bryce Salvador	 	 returned to lineup
+25	2010-02-10	 Devils	 	 • Bryce Salvador	 right eye injury (left game)
+26	2010-10-01	 Devils	 	 • Bryce Salvador	 concussion (out for season)
+27	2010-10-06	 Devils	 	 • Bryce Salvador	 placed on IR with concussion (out for season)
+28	2013-03-09	 Devils	 	 • Bryce Salvador	 upper body injury (DTD)
+29	2013-03-10	 Devils	 • Bryce Salvador	 	 returned to lineup
+30	2013-04-11	 Devils	 	 • Bryce Salvador	 bruised right wrist (out for season)
+31	2013-10-28	 Devils	 	 • Bryce Salvador	 placed on IR with foot injury
+32	2013-12-28	 Devils	 • Bryce Salvador	 	 activated from IR
+33	2014-03-01	 Devils	 	 • Bryce Salvador	 collarbone injury (DTD)
+34	2014-03-04	 Devils	 • Bryce Salvador	 	 returned to lineup
+35	2014-03-27	 Devils	 	 • Bryce Salvador	 lower body injury (out for season)
+36	2014-11-11	 Devils	 	 • Bryce Salvador	 placed on IR with lower body injury (out for season)

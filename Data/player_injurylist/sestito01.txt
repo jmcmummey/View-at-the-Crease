@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-02-17	 Flyers	 	 • Tom Sestito	 placed on IR with torn groin muscle (out for season)
+1	2012-02-17	 Flyers	 	 • Tom Sestito	 surgery to repair torn groin muscle (out for season) (date approximate)
+2	2013-02-23	 Flyers	 	 • Tom Sestito	 lower body injury (DTD)
+3	2013-03-01	 Canucks	 • Tom Sestito	 	 returned to lineup
+4	2014-01-31	 Canucks	 	 • Tom Sestito	 illness (DTD)
+5	2014-02-03	 Canucks	 • Tom Sestito	 	 returned to lineup
+6	2014-11-03	 Canucks	 	 • Tom Sestito	 placed on IR with leg injury
+7	2014-12-06	 Canucks	 • Tom Sestito	 	 activated from IR
+8	2017-03-21	 Penguins	 	 • Tom Sestito	 upper body injury (DTD)
+9	2017-04-08	 Penguins	 • Tom Sestito	 	 returned to lineup

@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-11-24	 Sabres	 	 • Brad Boyes	 placed on IR with right knee injury
+1	2011-12-26	 Sabres	 • Brad Boyes	 	 activated from IR
+2	2012-02-24	 Sabres	 	 • Brad Boyes	 undisclosed (DTD)
+3	2012-02-29	 Sabres	 • Brad Boyes	 	 returned to lineup
+4	2014-04-02	 Panthers	 	 • Brad Boyes	 back spasms (DTD)
+5	2014-04-08	 Panthers	 • Brad Boyes	 	 returned to lineup
+6	2014-12-18	 Panthers	 	 • Brad Boyes	 upper body injury (DTD)
+7	2014-12-20	 Panthers	 • Brad Boyes	 	 returned to lineup
+8	2016-03-03	 Maple Leafs	 	 • Brad Boyes	 upper body injury (DTD)
+9	2016-03-07	 Maple Leafs	 • Brad Boyes	 	 returned to lineup
+10	2016-03-09	 Maple Leafs	 	 • Brad Boyes	 strained shoulder (DTD)
+11	2016-03-25	 Maple Leafs	 • Brad Boyes	 	 returned to lineup

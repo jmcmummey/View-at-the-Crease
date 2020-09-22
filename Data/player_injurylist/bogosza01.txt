@@ -1,0 +1,63 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-29	 Thrashers	 	 • Zach Bogosian	 placed on IR with broken left leg
+1	2008-12-26	 Thrashers	 • Zach Bogosian	 	 activated from IR
+2	2010-03-14	 Thrashers	 	 • Zach Bogosian	 hand injury (DTD)
+3	2010-03-16	 Thrashers	 • Zach Bogosian	 	 returned to lineup
+4	2010-10-14	 Thrashers	 	 • Zach Bogosian	 shoulder injury (DTD)
+5	2010-10-29	 Thrashers	 • Zach Bogosian	 	 returned to lineup
+6	2010-12-23	 Thrashers	 	 • Zach Bogosian	 undisclosed injurhy (DTD)
+7	2010-12-26	 Thrashers	 • Zach Bogosian	 	 returned to lineup
+8	2010-12-31	 Thrashers	 	 • Zach Bogosian	 knee injury (DTD)
+9	2011-01-02	 Thrashers	 • Zach Bogosian	 	 returned to lineup
+10	2012-01-12	 Jets	 	 • Zach Bogosian	 lower body injury (DTD)
+11	2012-01-21	 Jets	 • Zach Bogosian	 	 returned to lineup
+12	2012-02-16	 Jets	 	 • Zach Bogosian	 upper body injury (DTD)
+13	2012-03-01	 Jets	 • Zach Bogosian	 	 returned to lineup
+14	2012-03-05	 Jets	 	 • Zach Bogosian	 wrist injury (DTD)
+15	2012-03-18	 Jets	 • Zach Bogosian	 	 returned to lineup
+16	2013-01-18	 Jets	 	 • Zach Bogosian	 placed on IR with surgery on right wrist
+17	2013-02-15	 Jets	 • Zach Bogosian	 	 activated from IR
+18	2013-04-21	 Jets	 	 • Zach Bogosian	 upper body injury (out for season)
+19	2013-11-16	 Jets	 	 • Zach Bogosian	 groin injury (DTD)
+20	2013-11-21	 Jets	 	 • Zach Bogosian	 placed on IR with groin injury
+21	2013-12-20	 Jets	 • Zach Bogosian	 	 activated from IR
+22	2013-12-27	 Jets	 	 • Zach Bogosian	 flu (DTD)
+23	2013-12-29	 Jets	 • Zach Bogosian	 	 returned to lineup
+24	2014-03-19	 Jets	 	 • Zach Bogosian	 upper body injury (DTD)
+25	2014-03-22	 Jets	 • Zach Bogosian	 	 returned to lineup
+26	2014-03-24	 Jets	 	 • Zach Bogosian	 upper body injury (out for season)
+27	2014-10-28	 Jets	 	 • Zach Bogosian	 upper body injury (DTD)
+28	2014-10-30	 Jets	 • Zach Bogosian	 	 returned to lineup
+29	2014-12-04	 Jets	 	 • Zach Bogosian	 placed on IR with lower body injury
+30	2015-01-08	 Jets	 • Zach Bogosian	 	 activated from IR
+31	2015-03-14	 Sabres	 	 • Zach Bogosian	 lower body injury (DTD)
+32	2015-03-26	 Sabres	 • Zach Bogosian	 	 returned to lineup
+33	2015-10-06	 Sabres	 	 • Zach Bogosian	 placed on IR with lower body injury
+34	2015-11-17	 Sabres	 • Zach Bogosian	 	 activated from IR
+35	2016-04-08	 Sabres	 	 • Zach Bogosian	 lower body injury (out for season)
+36	2016-10-01	 Sabres	 	 • Zach Bogosian	 groin injury (DTD)
+37	2016-10-13	 Sabres	 • Zach Bogosian	 	 returned to lineup
+38	2016-11-03	 Sabres	 	 • Zach Bogosian	 sprained MCL in knee (out indefinitely)
+39	2016-12-17	 Sabres	 • Zach Bogosian	 	 returned to lineup
+40	2017-02-03	 Sabres	 	 • Zach Bogosian	 rib injury (DTD)
+41	2017-02-09	 Sabres	 	 • Zach Bogosian	 placed on IR with rib injury
+42	2017-02-14	 Sabres	 • Zach Bogosian	 	 activated from IR
+43	2017-10-05	 Sabres	 	 • Zach Bogosian	 lower body injury (DTD)
+44	2017-10-15	 Sabres	 	 • Zach Bogosian	 placed on IR with lower body injury
+45	2017-12-01	 Sabres	 • Zach Bogosian	 	 activated from IR
+46	2018-01-11	 Sabres	 	 • Zach Bogosian	 lower body injury (out for season)
+47	2018-01-18	 Sabres	 	 • Zach Bogosian	 placed on IR with lower body injury (out for season)
+48	2018-10-04	 Sabres	 	 • Zach Bogosian	 lower body injury (DTD)
+49	2018-10-11	 Sabres	 	 • Zach Bogosian	 placed on IR with lower body injury
+50	2018-10-16	 Sabres	 • Zach Bogosian	 	 activated from IR
+51	2019-02-10	 Sabres	 	 • Zach Bogosian	 lower body injury (DTD)
+52	2019-02-15	 Sabres	 • Zach Bogosian	 	 returned to lineup
+53	2019-03-04	 Sabres	 	 • Zach Bogosian	 lower body injury (DTD)
+54	2019-03-07	 Sabres	 • Zach Bogosian	 	 returned to lineup
+55	2019-03-14	 Sabres	 	 • Zach Bogosian	 upper body injury (DTD)
+56	2019-03-16	 Sabres	 • Zach Bogosian	 	 returned to lineup
+57	2019-03-27	 Sabres	 	 • Zach Bogosian	 lower body injury (out for season)
+58	2019-10-01	 Sabres	 	 • Zach Bogosian	 placed on IR with hip injury
+59	2019-11-24	 Sabres	 • Zach Bogosian	 	 activated from IR
+60	2020-01-31	 Sabres	 	 • Zach Bogosian	 illness (DTD)
+61	2020-02-04	 Sabres	 • Zach Bogosian	 	 returned to lineup

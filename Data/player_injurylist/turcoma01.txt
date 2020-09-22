@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-02-13	 Stars	 	 • Marty Turco	 placed on IR with sprained ankle
+1	2005-12-26	 Stars	 	 • Marty Turco	 flu (DTD)
+2	2005-12-27	 Stars	 • Marty Turco	 	 returned to lineup
+3	2006-01-18	 Stars	 	 • Marty Turco	 lower body injury (DTD)
+4	2006-01-20	 Stars	 • Marty Turco	 	 returned to lineup
+5	2008-02-07	 Stars	 	 • Marty Turco	 neck injury (DTD)
+6	2008-02-09	 Stars	 • Marty Turco	 	 returned to lineup
+7	2009-04-04	 Stars	 	 • Marty Turco	 lower body injury (DTD)
+8	2009-04-10	 Stars	 • Marty Turco	 	 returned to lineup
+9	2009-10-30	 Stars	 	 • Marty Turco	 flu-like symptoms (DTD)
+10	2009-11-04	 Stars	 • Marty Turco	 	 returned to lineup
+11	2009-12-23	 Stars	 	 • Marty Turco	 flu (DTD)
+12	2009-12-26	 Stars	 • Marty Turco	 	 returned to lineup

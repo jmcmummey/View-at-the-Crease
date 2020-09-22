@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-19	 Penguins	 	 • Conor Sheary	 eye injury (DTD)
+1	2016-10-25	 Penguins	 	 • Conor Sheary	 placed on IR with eye injury
+2	2016-11-05	 Penguins	 • Conor Sheary	 	 activated from IR
+3	2017-02-01	 Penguins	 	 • Conor Sheary	 placed on IR with upper body injury
+4	2017-02-03	 Penguins	 	 • Conor Sheary	 placed on IR with upper body injury
+5	2017-03-03	 Penguins	 • Conor Sheary	 	 activated from IR
+6	2017-05-02	 Penguins	 	 • Conor Sheary	 concussion (DTD)
+7	2017-05-06	 Penguins	 • Conor Sheary	 	 returned to lineup
+8	2018-01-31	 Penguins	 	 • Conor Sheary	 placed on IR with lower body injury
+9	2018-02-01	 Penguins	 	 • Conor Sheary	 lower body injury (out indefinitely)
+10	2018-02-03	 Penguins	 	 • Conor Sheary	 placed on IR with lower body injury
+11	2018-02-09	 Penguins	 • Conor Sheary	 	 activated from IR
+12	2018-11-27	 Sabres	 	 • Conor Sheary	 upper body injury (DTD)
+13	2018-11-30	 Sabres	 	 • Conor Sheary	 placed on IR with upper body injury
+14	2018-12-04	 Sabres	 • Conor Sheary	 	 activated from IR
+15	2019-10-08	 Sabres	 	 • Conor Sheary	 upper body injury (out indefinitely)
+16	2019-10-17	 Sabres	 • Conor Sheary	 	 returned to lineup

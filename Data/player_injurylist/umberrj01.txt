@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-04-22	 Flyers	 	 • R.J. Umberger	 head injury (left game)
+1	2006-04-26	 Flyers	 • R.J. Umberger	 	 returned to lineup
+2	2007-02-22	 Flyers	 	 • R.J. Umberger	 flu (DTD)
+3	2007-02-24	 Flyers	 • R.J. Umberger	 	 returned to lineup
+4	2007-09-28	 Flyers	 	 • R.J. Umberger	 left hand injury (out 2-3 weeks)
+5	2007-10-10	 Flyers	 • R.J. Umberger	 	 returned to lineup
+6	2008-03-21	 Flyers	 	 • R.J. Umberger	 sprained MCL in left knee (out 1-2 weeks)
+7	2008-04-02	 Flyers	 • R.J. Umberger	 	 returned to lineup
+8	2012-01-13	 Blue Jackets	 	 • R.J. Umberger	 concussion (out indefinitely)
+9	2012-01-17	 Blue Jackets	 	 • R.J. Umberger	 placed on IR with concussion
+10	2012-01-23	 Blue Jackets	 • R.J. Umberger	 	 activated from IR
+11	2014-04-07	 Blue Jackets	 	 • R.J. Umberger	 upper body injury (DTD)
+12	2014-04-18	 Blue Jackets	 • R.J. Umberger	 	 returned to lineup
+13	2014-04-27	 Blue Jackets	 	 • R.J. Umberger	 upper body injury (out for season)
+14	2015-03-14	 Flyers	 	 • R.J. Umberger	 surgery on hip/abdominal (out for season)
+15	2015-10-12	 Flyers	 	 • R.J. Umberger	 upper body injury (DTD)
+16	2015-10-20	 Flyers	 • R.J. Umberger	 	 returned to lineup
+17	2015-11-10	 Flyers	 	 • R.J. Umberger	 undisclosed (DTD)
+18	2015-11-14	 Flyers	 	 • R.J. Umberger	 placed on IR with lower body injury
+19	2015-12-05	 Flyers	 • R.J. Umberger	 	 activated from IR

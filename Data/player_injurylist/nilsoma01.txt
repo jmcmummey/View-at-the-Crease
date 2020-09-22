@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-06	 Flames	 	 • Marcus Nilson	 head injury (DTD)
+1	2006-01-07	 Flames	 • Marcus Nilson	 	 returned to lineup
+2	2006-03-28	 Flames	 	 • Marcus Nilson	 knee injury (out indefinitely)
+3	2006-12-07	 Flames	 	 • Marcus Nilson	 knee injury (out indefinitely)
+4	2007-01-11	 Flames	 • Marcus Nilson	 	 returned to lineup
+5	2007-10-30	 Flames	 	 • Marcus Nilson	 hip injury (DTD)
+6	2007-11-01	 Flames	 • Marcus Nilson	 	 returned to lineup
+7	2007-11-20	 Flames	 	 • Marcus Nilson	 concussion (DTD)
+8	2007-12-01	 Flames	 • Marcus Nilson	 	 returned to lineup

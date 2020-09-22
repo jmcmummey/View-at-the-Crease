@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-29	 Mighty Ducks	 	 • Corey Perry	 placed on IR with concussion
+1	2005-11-12	 Mighty Ducks	 • Corey Perry	 	 returned to lineup
+2	2006-05-05	 Mighty Ducks	 	 • Corey Perry	 knee injury (DTD)
+3	2006-05-21	 Mighty Ducks	 • Corey Perry	 	 returned to lineup
+4	2008-03-07	 Ducks	 	 • Corey Perry	 lacerated right quadriceps tendon (out 6-8 weeks)
+5	2008-04-17	 Ducks	 • Corey Perry	 	 returned to lineup
+6	2012-03-10	 Ducks	 	 • Corey Perry	 right shoulder injury (DTD)
+7	2012-03-16	 Ducks	 • Corey Perry	 	 returned to lineup
+8	2014-11-05	 Ducks	 	 • Corey Perry	 placed on IR with flu
+9	2014-11-09	 Ducks	 	 • Corey Perry	 placed on IR with flu
+10	2014-11-16	 Ducks	 • Corey Perry	 	 activated from IR
+11	2014-12-06	 Ducks	 	 • Corey Perry	 placed on IR with knee injury
+12	2014-12-31	 Ducks	 • Corey Perry	 	 activated from IR
+13	2017-12-12	 Ducks	 	 • Corey Perry	 placed on IR with right leg injury
+14	2018-01-06	 Ducks	 • Corey Perry	 	 activated from IR
+15	2019-02-02	 Ducks	 • Corey Perry	 	 returned to lineup
+16	2019-10-03	 Stars	 	 • Corey Perry	 foot injury (out indefinitely)
+17	2019-10-04	 Stars	 	 • Corey Perry	 placed on IR with foot injury
+18	2019-10-16	 Stars	 • Corey Perry	 	 activated from IR

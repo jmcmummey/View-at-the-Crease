@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-06	 Rangers	 	 • Karel Rachunek	 bruised foot (DTD)
+1	2007-01-11	 Rangers	 • Karel Rachunek	 	 returned to lineup
+2	2007-03-14	 Rangers	 	 • Karel Rachunek	 right knee injury (out 4-6 weeks)
+3	2007-10-31	 Devils	 	 • Karel Rachunek	 groin injury (DTD)
+4	2007-11-08	 Devils	 • Karel Rachunek	 	 returned to lineup
+5	2007-12-23	 Devils	 	 • Karel Rachunek	 knee injury (DTD)
+6	2008-01-01	 Devils	 	 • Karel Rachunek	 placed on IR with knee injury
+7	2008-01-18	 Devils	 • Karel Rachunek	 	 activated from IR
+8	2008-02-18	 Devils	 	 • Karel Rachunek	 undisclosed injury (DTD)
+9	2008-04-01	 Devils	 	 • Karel Rachunek	 neck injury (DTD)

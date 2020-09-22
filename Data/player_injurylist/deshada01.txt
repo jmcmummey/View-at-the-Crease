@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-04-26	 Canadiens	 	 • David Desharnais	 sprained left knee (out for season)
+1	2012-03-08	 Canadiens	 	 • David Desharnais	 lower body injury (DTD)
+2	2012-03-12	 Canadiens	 • David Desharnais	 	 returned to lineup
+3	2014-01-14	 Canadiens	 	 • David Desharnais	 flu (DTD)
+4	2014-01-16	 Canadiens	 • David Desharnais	 	 returned to lineup
+5	2015-05-03	 Canadiens	 	 • David Desharnais	 flu (DTD)
+6	2015-05-06	 Canadiens	 • David Desharnais	 	 returned to lineup
+7	2016-02-16	 Canadiens	 	 • David Desharnais	 foot injury (DTD)
+8	2016-02-19	 Canadiens	 	 • David Desharnais	 placed on IR with lower body injury
+9	2016-03-23	 Canadiens	 • David Desharnais	 	 activated from IR
+10	2016-12-07	 Canadiens	 	 • David Desharnais	 placed on IR with knee injury
+11	2017-01-31	 Canadiens	 • David Desharnais	 	 activated from IR
+12	2018-03-10	 Rangers	 	 • David Desharnais	 kidney stones (DTD)
+13	2018-03-12	 Rangers	 • David Desharnais	 	 returned to lineup
+14	2018-03-31	 Rangers	 	 • David Desharnais	 wrist injury (DTD)
+15	2018-04-03	 Rangers	 • David Desharnais	 	 returned to lineup

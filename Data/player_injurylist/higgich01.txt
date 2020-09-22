@@ -1,0 +1,51 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-21	 Canadiens	 	 • Chris Higgins	 groin injury (DTD)
+1	2006-01-25	 Canadiens	 • Chris Higgins	 	 returned to lineup
+2	2006-11-07	 Canadiens	 	 • Chris Higgins	 sprained ankle (out 4-6 weeks)
+3	2006-12-15	 Canadiens	 • Chris Higgins	 	 returned to lineup
+4	2007-02-21	 Canadiens	 	 • Chris Higgins	 upper body injury (DTD)
+5	2007-02-24	 Canadiens	 • Chris Higgins	 	 returned to lineup
+6	2007-02-27	 Canadiens	 	 • Chris Higgins	 virus (DTD)
+7	2007-03-03	 Canadiens	 • Chris Higgins	 	 returned to lineup
+8	2008-10-10	 Canadiens	 	 • Chris Higgins	 groin injury (DTD)
+9	2008-10-25	 Canadiens	 • Chris Higgins	 	 returned to lineup
+10	2008-12-09	 Canadiens	 	 • Chris Higgins	 hand injury (out indefinitely)
+11	2009-01-27	 Canadiens	 • Chris Higgins	 	 returned to lineup
+12	2009-10-30	 Rangers	 	 • Chris Higgins	 ankle injury (DTD)
+13	2009-11-01	 Rangers	 • Chris Higgins	 	 returned to lineup
+14	2010-03-15	 Flames	 	 • Chris Higgins	 foot injury (out for season)
+15	2010-12-02	 Panthers	 	 • Chris Higgins	 infected foot (DTD)
+16	2010-12-09	 Panthers	 	 • Chris Higgins	 placed on IR with foot injury
+17	2010-12-15	 Panthers	 • Chris Higgins	 	 activated from IR
+18	2011-01-08	 Panthers	 	 • Chris Higgins	 lower body injury (DTD)
+19	2011-01-21	 Panthers	 	 • Chris Higgins	 placed on IR with hamstring injury
+20	2011-01-25	 Panthers	 • Chris Higgins	 	 activated from IR
+21	2011-02-26	 Panthers	 	 • Chris Higgins	 placed on IR with broken thumb
+22	2011-03-10	 Canucks	 • Chris Higgins	 	 activated from IR
+23	2011-12-05	 Canucks	 	 • Chris Higgins	 staph infection (DTD)
+24	2011-12-06	 Canucks	 	 • Chris Higgins	 foot injury (DTD) (CBC)
+25	2011-12-10	 Canucks	 • Chris Higgins	 	 returned to lineup
+26	2011-12-27	 Canucks	 	 • Chris Higgins	 hand injury (DTD)
+27	2012-01-02	 Canucks	 • Chris Higgins	 	 returned to lineup
+28	2012-02-04	 Canucks	 	 • Chris Higgins	 flu (DTD)
+29	2012-02-15	 Canucks	 • Chris Higgins	 	 returned to lineup
+30	2013-03-21	 Canucks	 	 • Chris Higgins	 back injury (DTD)
+31	2013-03-23	 Canucks	 • Chris Higgins	 	 returned to lineup
+32	2013-04-09	 Canucks	 	 • Chris Higgins	 lower body injury (DTD)
+33	2013-04-22	 Canucks	 • Chris Higgins	 	 returned to lineup
+34	2014-01-05	 Canucks	 	 • Chris Higgins	 flu (DTD)
+35	2014-01-07	 Canucks	 • Chris Higgins	 	 returned to lineup
+36	2014-02-04	 Canucks	 	 • Chris Higgins	 undisclosed injury (DTD)
+37	2014-02-06	 Canucks	 • Chris Higgins	 	 returned to lineup
+38	2014-04-12	 Canucks	 	 • Chris Higgins	 flu (out for season)
+39	2015-01-08	 Canucks	 	 • Chris Higgins	 flu (DTD)
+40	2015-01-09	 Canucks	 • Chris Higgins	 	 returned to lineup
+41	2015-03-07	 Canucks	 	 • Chris Higgins	 lower (Y) / upper (CBC) body injury (DTD)
+42	2015-03-13	 Canucks	 • Chris Higgins	 	 returned to lineup
+43	2015-10-06	 Canucks	 	 • Chris Higgins	 placed on IR with foot injury
+44	2015-11-04	 Canucks	 • Chris Higgins	 	 activated from IR
+45	2015-12-01	 Canucks	 	 • Chris Higgins	 undisclosed (DTD)
+46	2015-12-05	 Canucks	 • Chris Higgins	 	 returned to lineup
+47	2015-12-22	 Canucks	 	 • Chris Higgins	 placed on IR with undisclosed injury
+48	2015-12-28	 Canucks	 • Chris Higgins	 	 activated from IR
+49	2016-04-04	 Canucks	 	 • Chris Higgins	 lower body injury (out for season)

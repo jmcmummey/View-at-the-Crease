@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-09-13	 Capitals	 	 • Patrick McNeill	 failed physical (shoulder surgery)
+1	2005-10-08	 Maple Leafs	 	 • Jeff O'Neill	 shoulder injury (DTD)
+2	2005-10-11	 Maple Leafs	 • Jeff O'Neill	 	 returned to lineup
+3	2006-05-10	 Maple Leafs	 	 • Jeff O'Neill	 surgery on right shoulder

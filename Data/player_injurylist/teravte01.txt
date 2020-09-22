@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-19	 Blackhawks	 	 • Teuvo Teravainen	 upper body injury (DTD)
+1	2015-11-27	 Blackhawks	 • Teuvo Teravainen	 	 returned to lineup

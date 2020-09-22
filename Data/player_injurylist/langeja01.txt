@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-01-10	 Stars	 	 • Jamie Langenbrunner	 placed on IR with bruised ribs
+1	2000-12-29	 Stars	 	 • Jamie Langenbrunner	 placed on IR
+2	2001-02-10	 Stars	 • Jamie Langenbrunner	 	 activated from IR
+3	2001-03-09	 Stars	 	 • Jamie Langenbrunner	 placed on IR with strained abdominal
+4	2001-03-18	 Stars	 • Jamie Langenbrunner	 	 activated from IR
+5	2005-11-18	 Devils	 	 • Jamie Langenbrunner	 ill (DTD)
+6	2005-11-23	 Devils	 • Jamie Langenbrunner	 	 returned to lineup
+7	2007-09-21	 Devils	 	 • Jamie Langenbrunner	 sports hernia (out indefinitely)
+8	2007-11-14	 Devils	 • Jamie Langenbrunner	 	 returned to lineup
+9	2008-01-29	 Devils	 	 • Jamie Langenbrunner	 flu (DTD)
+10	2008-02-01	 Devils	 • Jamie Langenbrunner	 	 returned to lineup
+11	2008-10-25	 Devils	 	 • Jamie Langenbrunner	 lower body injury (DTD)
+12	2008-10-29	 Devils	 • Jamie Langenbrunner	 	 returned to lineup
+13	2009-04-18	 Devils	 	 • Jamie Langenbrunner	 lower body injury (DTD)
+14	2009-04-26	 Devils	 • Jamie Langenbrunner	 	 returned to lineup
+15	2010-11-12	 Devils	 	 • Jamie Langenbrunner	 head injury (DTD)
+16	2010-12-02	 Devils	 • Jamie Langenbrunner	 	 returned to lineup
+17	2011-03-05	 Stars	 	 • Jamie Langenbrunner	 upper body injury (DTD)
+18	2011-03-07	 Stars	 • Jamie Langenbrunner	 	 returned to lineup
+19	2011-12-26	 Blues	 	 • Jamie Langenbrunner	 flu (DTD)
+20	2011-12-30	 Blues	 • Jamie Langenbrunner	 	 returned to lineup
+21	2012-02-20	 Blues	 	 • Jamie Langenbrunner	 placed on IR with fractured left foot
+22	2012-03-11	 Blues	 • Jamie Langenbrunner	 	 activated from IR
+23	2013-02-09	 Blues	 	 • Jamie Langenbrunner	 placed on IR with surgery on hip (out for season)

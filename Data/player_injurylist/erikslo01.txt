@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-21	 Stars	 	 • Loui Eriksson	 flu (DTD)
+1	2011-01-24	 Stars	 • Loui Eriksson	 	 returned to lineup
+2	2011-03-16	 Stars	 	 • Loui Eriksson	 head injury (DTD)
+3	2011-03-23	 Stars	 • Loui Eriksson	 	 returned to lineup
+4	2013-10-24	 Bruins	 	 • Loui Eriksson	 concussion (DTD)
+5	2013-11-05	 Bruins	 • Loui Eriksson	 	 returned to lineup
+6	2013-12-08	 Bruins	 	 • Loui Eriksson	 concussion (DTD) (CBC Y)
+7	2013-12-08	 Bruins	 	 • Loui Eriksson	 placed on IR with concussion (CBS)
+8	2013-12-10	 Bruins	 	 • Loui Eriksson	 placed on IR with concussion (CBC T)
+9	2014-01-11	 Bruins	 • Loui Eriksson	 	 activated from IR
+10	2014-03-04	 Bruins	 	 • Loui Eriksson	 heel injury (DTD)
+11	2014-03-06	 Bruins	 • Loui Eriksson	 	 returned to lineup
+12	2015-01-08	 Bruins	 	 • Loui Eriksson	 bruised right hand (DTD)
+13	2015-01-10	 Bruins	 • Loui Eriksson	 	 returned to lineup
+14	2017-03-07	 Canucks	 	 • Loui Eriksson	 lower body injury (out for season)
+15	2017-10-17	 Canucks	 	 • Loui Eriksson	 placed on IR with sprained knee
+16	2017-11-11	 Canucks	 • Loui Eriksson	 	 activated from IR
+17	2018-02-26	 Canucks	 	 • Loui Eriksson	 upper body injury (out for season)
+18	2018-03-01	 Canucks	 	 • Loui Eriksson	 placed on IR with fractured ribs (out for season)
+19	2020-08-02	 Canucks	 	 • Loui Eriksson	 undisclosed (DTD)
+20	2020-08-04	 Canucks	 • Loui Eriksson	 	 returned to lineup

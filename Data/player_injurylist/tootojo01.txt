@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-04-05	 Predators	 	 • Jordin Tootoo	 tailbone injury (DTD)
+1	2006-04-13	 Predators	 • Jordin Tootoo	 	 returned to lineup
+2	2006-12-16	 Predators	 	 • Jordin Tootoo	 ill (DTD)
+3	2006-12-17	 Predators	 • Jordin Tootoo	 	 returned to lineup
+4	2007-02-01	 Predators	 	 • Jordin Tootoo	 hip injury (DTD)
+5	2007-02-22	 Predators	 • Jordin Tootoo	 	 returned to lineup
+6	2008-01-08	 Predators	 	 • Jordin Tootoo	 hip flexor injury (DTD)
+7	2008-02-17	 Predators	 • Jordin Tootoo	 	 returned to lineup
+8	2008-12-09	 Predators	 	 • Jordin Tootoo	 lower body injury (DTD)
+9	2008-12-13	 Predators	 • Jordin Tootoo	 	 returned to lineup
+10	2009-01-13	 Predators	 	 • Jordin Tootoo	 undisclosed injury (DTD)
+11	2009-01-15	 Predators	 • Jordin Tootoo	 	 returned to lineup
+12	2009-02-01	 Predators	 	 • Jordin Tootoo	 lacerated finger / hand injury (DTD)
+13	2009-02-14	 Predators	 • Jordin Tootoo	 	 returned to lineup
+14	2009-10-03	 Predators	 	 • Jordin Tootoo	 groin injury (DTD)
+15	2009-11-05	 Predators	 • Jordin Tootoo	 	 activated from IR
+16	2009-12-13	 Predators	 	 • Jordin Tootoo	 broken right foot (DTD)
+17	2010-01-21	 Predators	 • Jordin Tootoo	 	 activated from IR
+18	2011-04-01	 Predators	 	 • Jordin Tootoo	 neck/back injuries (DTD)
+19	2011-04-05	 Predators	 • Jordin Tootoo	 	 returned to lineup
+20	2012-03-25	 Predators	 	 • Jordin Tootoo	 upper body injury (DTD)
+21	2012-03-30	 Predators	 • Jordin Tootoo	 	 returned to lineup
+22	2013-09-30	 Red Wings	 	 • Jordin Tootoo	 placed on IR with shoulder injury
+23	2013-10-10	 Red Wings	 • Jordin Tootoo	 	 activated from IR
+24	2014-10-24	 Devils	 	 • Jordin Tootoo	 placed on IR with bruised left foot
+25	2014-11-07	 Devils	 • Jordin Tootoo	 	 activated from IR
+26	2016-01-14	 Devils	 	 • Jordin Tootoo	 undisclosed injury (DTD)
+27	2016-01-15	 Devils	 • Jordin Tootoo	 	 returned to lineup
+28	2016-03-12	 Devils	 	 • Jordin Tootoo	 upper body injury (out for season)
+29	2016-11-26	 Blackhawks	 	 • Jordin Tootoo	 lower body injury (DTD)
+30	2016-11-29	 Blackhawks	 • Jordin Tootoo	 	 returned to lineup
+31	2017-02-26	 Blackhawks	 	 • Jordin Tootoo	 illness (DTD)
+32	2017-03-03	 Blackhawks	 • Jordin Tootoo	 	 returned to lineup
+33	2017-10-03	 Blackhawks	 	 • Jordin Tootoo	 placed on IR with upper body injury
+34	2017-11-30	 Blackhawks	 • Jordin Tootoo	 	 activated from IR

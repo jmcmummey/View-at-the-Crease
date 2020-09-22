@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-02-05	 Islanders	 	 • Travis Hamonic	 broken nose (DTD)
+1	2012-02-17	 Islanders	 	 • Travis Hamonic	 placed on IR with fractured nose
+2	2012-02-23	 Islanders	 • Travis Hamonic	 	 activated from IR
+3	2014-01-14	 Islanders	 	 • Travis Hamonic	 upper body injury (DTD)
+4	2014-01-28	 Islanders	 	 • Travis Hamonic	 placed on IR with concussion
+5	2014-02-07	 Islanders	 • Travis Hamonic	 	 activated from IR
+6	2014-10-23	 Islanders	 	 • Travis Hamonic	 upper body injury (DTD)
+7	2014-11-01	 Islanders	 • Travis Hamonic	 	 returned to lineup
+8	2014-12-03	 Islanders	 	 • Travis Hamonic	 placed on IR with upper body injury
+9	2014-12-19	 Islanders	 • Travis Hamonic	 	 activated from IR
+10	2015-04-10	 Islanders	 	 • Travis Hamonic	 lower body injury (out for season)
+11	2016-01-09	 Islanders	 	 • Travis Hamonic	 lower body injury (DTD)
+12	2016-01-22	 Islanders	 • Travis Hamonic	 	 returned to lineup
+13	2016-04-01	 Islanders	 	 • Travis Hamonic	 lower body injury (out for season)
+14	2016-11-06	 Islanders	 	 • Travis Hamonic	 placed on IR with fractured thumb
+15	2016-11-14	 Islanders	 • Travis Hamonic	 	 activated from IR
+16	2017-01-09	 Islanders	 	 • Travis Hamonic	 lower body injury (DTD)
+17	2017-01-12	 Islanders	 	 • Travis Hamonic	 placed on IR with lower body injury
+18	2017-03-03	 Islanders	 • Travis Hamonic	 	 activated from IR
+19	2017-03-31	 Islanders	 	 • Travis Hamonic	 upper body injury (out for season)
+20	2017-11-04	 Flames	 	 • Travis Hamonic	 placed on IR with lower body injury
+21	2017-11-13	 Flames	 • Travis Hamonic	 	 activated from IR
+22	2017-12-21	 Flames	 	 • Travis Hamonic	 placed on IR with lower body injury
+23	2017-12-28	 Flames	 • Travis Hamonic	 	 activated from IR
+24	2018-03-30	 Flames	 	 • Travis Hamonic	 upper body injury (out for season)
+25	2018-10-05	 Flames	 	 • Travis Hamonic	 placed on IR with facial fracture
+26	2018-10-25	 Flames	 • Travis Hamonic	 	 activated from IR
+27	2019-02-03	 Flames	 	 • Travis Hamonic	 lower body injury (DTD)
+28	2019-02-07	 Flames	 • Travis Hamonic	 	 returned to lineup
+29	2019-11-19	 Flames	 	 • Travis Hamonic	 lower body injury (DTD)
+30	2019-12-05	 Flames	 • Travis Hamonic	 	 returned to lineup
+31	2020-02-10	 Flames	 	 • Travis Hamonic	 placed on IR with upper body injury

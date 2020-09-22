@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-18	 Panthers	 	 • Rostislav Olesz	 placed on IR with sprained MCL in right knee
+1	2005-11-26	 Panthers	 • Rostislav Olesz	 	 activated from IR
+2	2006-01-13	 Panthers	 	 • Rostislav Olesz	 shoulder injury (DTD)
+3	2006-01-27	 Panthers	 • Rostislav Olesz	 	 activated from IR
+4	2006-04-15	 Panthers	 	 • Rostislav Olesz	 right knee injury (DTD)
+5	2007-02-10	 Panthers	 	 • Rostislav Olesz	 shoulder injury (DTD)
+6	2007-02-17	 Panthers	 • Rostislav Olesz	 	 returned to lineup
+7	2007-10-25	 Panthers	 	 • Rostislav Olesz	 surgery on hand (out indefinitely)
+8	2007-10-26	 Panthers	 	 • Rostislav Olesz	 placed on IR recovering from surgery on hand
+9	2007-11-19	 Panthers	 • Rostislav Olesz	 	 activated from IR
+10	2008-01-18	 Panthers	 	 • Rostislav Olesz	 hand injury (out indefinitely)
+11	2008-02-15	 Panthers	 • Rostislav Olesz	 	 returned to lineup
+12	2008-12-06	 Panthers	 	 • Rostislav Olesz	 placed on IR with groin injury
+13	2009-03-14	 Panthers	 • Rostislav Olesz	 	 activated from IR
+14	2009-12-26	 Panthers	 	 • Rostislav Olesz	 flu (DTD)
+15	2009-12-31	 Panthers	 • Rostislav Olesz	 	 returned to lineup
+16	2010-02-13	 Panthers	 	 • Rostislav Olesz	 broken finger (DTD)
+17	2010-03-02	 Panthers	 • Rostislav Olesz	 	 returned to lineup
+18	2010-03-31	 Panthers	 	 • Rostislav Olesz	 hand injury (DTD)
+19	2010-04-03	 Panthers	 • Rostislav Olesz	 	 returned to lineup
+20	2010-11-20	 Panthers	 	 • Rostislav Olesz	 broken finger (DTD)
+21	2010-11-24	 Panthers	 	 • Rostislav Olesz	 placed on IR with broken finger
+22	2010-12-31	 Panthers	 • Rostislav Olesz	 	 activated from IR
+23	2011-02-27	 Panthers	 	 • Rostislav Olesz	 placed on IR with knee injury (out for season)
+24	2013-01-19	 Blackhawks	 	 • Rostislav Olesz	 placed on IR with surgery on knee
+25	2013-03-14	 Blackhawks	 • Rostislav Olesz	 	 activated from IR

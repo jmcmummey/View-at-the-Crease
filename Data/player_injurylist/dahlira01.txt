@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-11-27	 Sabres	 	 • Rasmus Dahlin	 placed on IR with concussion
+1	2019-12-12	 Sabres	 • Rasmus Dahlin	 	 activated from IR
+2	2020-02-04	 Sabres	 	 • Rasmus Dahlin	 upper body injury (DTD)
+3	2020-02-07	 Sabres	 • Rasmus Dahlin	 	 returned to lineup

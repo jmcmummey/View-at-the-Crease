@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-18	 Canucks	 	 • Ryan Stanton	 left ankle injury (DTD)
+1	2013-12-29	 Canucks	 	 • Ryan Stanton	 placed on IR with left ankle injury
+2	2014-01-23	 Canucks	 • Ryan Stanton	 	 activated from IR
+3	2014-03-10	 Canucks	 	 • Ryan Stanton	 undisclosed (DTD)
+4	2014-03-12	 Canucks	 • Ryan Stanton	 	 returned to lineup
+5	2014-10-17	 Canucks	 	 • Ryan Stanton	 placed on IR with lower body injury
+6	2014-10-30	 Canucks	 • Ryan Stanton	 	 activated from IR
+7	2014-11-02	 Canucks	 	 • Ryan Stanton	 lower body injury (DTD)
+8	2014-11-04	 Canucks	 • Ryan Stanton	 	 returned to lineup
+9	2017-10-03	 Oilers	 	 • Ryan Stanton	 placed on IR with foot injury
+10	2017-11-01	 Oilers	 • Ryan Stanton	 	 activated from IR

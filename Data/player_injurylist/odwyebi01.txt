@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-24	 Hurricanes	 	 • Patrick Dwyer	 lower body injury (DTD)
+1	2011-02-01	 Hurricanes	 • Patrick Dwyer	 	 returned to lineup
+2	2011-12-27	 Hurricanes	 	 • Patrick Dwyer	 undisclosed injury (DTD)
+3	2012-01-07	 Hurricanes	 • Patrick Dwyer	 	 returned to lineup
+4	2012-02-26	 Hurricanes	 	 • Patrick Dwyer	 lower body injury (DTD)
+5	2012-03-06	 Hurricanes	 • Patrick Dwyer	 	 returned to lineup
+6	2013-04-09	 Hurricanes	 	 • Patrick Dwyer	 undisclosed (DTD)
+7	2013-04-13	 Hurricanes	 • Patrick Dwyer	 	 returned to lineup
+8	2013-10-24	 Hurricanes	 	 • Patrick Dwyer	 upper body injury (DTD)
+9	2013-10-28	 Hurricanes	 • Patrick Dwyer	 	 returned to lineup
+10	2013-12-06	 Hurricanes	 	 • Patrick Dwyer	 undisclosed injury (DTD)
+11	2013-12-09	 Hurricanes	 • Patrick Dwyer	 	 returned to lineup
+12	2014-01-23	 Hurricanes	 	 • Patrick Dwyer	 lower body injury (DTD)
+13	2014-01-31	 Hurricanes	 • Patrick Dwyer	 	 returned to lineup
+14	2014-10-12	 Hurricanes	 	 • Patrick Dwyer	 lower body injury (DTD)
+15	2014-10-15	 Hurricanes	 	 • Patrick Dwyer	 placed on IR
+16	2014-11-01	 Hurricanes	 • Patrick Dwyer	 	 activated from IR

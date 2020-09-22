@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-03	 Devils	 	 • Michael McLeod	 placed on IR with knee injury
+1	2017-11-15	 Devils	 • Michael McLeod	 	 activated from IR
+2	2020-03-10	 Devils	 	 • Michael McLeod	 undisclosed (DTD)

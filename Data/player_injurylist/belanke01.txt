@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1996-02-06	 Islanders	 	 • Ken Belanger	 concussion (DTD)
+1	1996-02-12	 Islanders	 	 • Ken Belanger	 concussion (out for season)
+2	1999-11-11	 Bruins	 	 • Ken Belanger	 head injury (out indefinitely)
+3	2002-01-03	 Kings	 	 • Ken Belanger	 placed on IR with fractured thumb
+4	2002-11-05	 Kings	 	 • Ken Belanger	 head injury (out indefinitely)
+5	2002-11-13	 Kings	 	 • Ken Belanger	 placed on IR with concussion-like symptoms

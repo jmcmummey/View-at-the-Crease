@@ -1,0 +1,38 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-12-03	 Avalanche	 	 • Craig Anderson	 head/neck injury (DTD)
+1	2009-12-11	 Avalanche	 • Craig Anderson	 	 returned to lineup
+2	2010-10-26	 Avalanche	 	 • Craig Anderson	 right knee injury (DTD)
+3	2010-11-19	 Avalanche	 • Craig Anderson	 	 activated from IR
+4	2010-11-25	 Avalanche	 	 • Craig Anderson	 placed on IR with groin injury
+5	2010-12-03	 Avalanche	 • Craig Anderson	 	 activated from IR
+6	2011-03-16	 Senators	 	 • Craig Anderson	 undisclosed injury (DTD)
+7	2012-02-23	 Senators	 	 • Craig Anderson	 lacerated right hand (DTD)
+8	2012-02-25	 Senators	 	 • Craig Anderson	 placed on IR with lacerated right hand/finger
+9	2012-03-23	 Senators	 • Craig Anderson	 	 activated from IR
+10	2013-02-22	 Senators	 	 • Craig Anderson	 sprained right ankle (DTD)
+11	2013-03-05	 Senators	 	 • Craig Anderson	 placed on IR with sprained right ankle
+12	2013-04-05	 Senators	 • Craig Anderson	 	 activated from IR
+13	2013-11-04	 Senators	 	 • Craig Anderson	 stiff neck / head injury (DTD)
+14	2013-11-09	 Senators	 • Craig Anderson	 	 returned to lineup
+15	2014-03-15	 Senators	 	 • Craig Anderson	 upper body injury (DTD)
+16	2014-03-24	 Senators	 • Craig Anderson	 	 returned to lineup
+17	2015-01-29	 Senators	 	 • Craig Anderson	 placed on IR with bruised hand
+18	2015-03-01	 Senators	 • Craig Anderson	 	 activated from IR
+19	2015-03-17	 Senators	 	 • Craig Anderson	 hand injury (DTD)
+20	2015-03-28	 Senators	 • Craig Anderson	 	 returned to lineup
+21	2016-03-02	 Senators	 	 • Craig Anderson	 lower body injury (DTD)
+22	2016-03-10	 Senators	 • Craig Anderson	 	 returned to lineup
+23	2017-03-14	 Senators	 	 • Craig Anderson	 lower body injury (DTD)
+24	2017-03-17	 Senators	 • Craig Anderson	 	 returned to lineup
+25	2017-12-23	 Senators	 	 • Craig Anderson	 illness (DTD)
+26	2017-12-27	 Senators	 • Craig Anderson	 	 returned to lineup
+27	2018-12-22	 Senators	 	 • Craig Anderson	 concussion (DTD)
+28	2018-12-22	 Senators	 	 • Craig Anderson	 placed on IR with concussion
+29	2019-01-17	 Senators	 • Craig Anderson	 	 activated from IR
+30	2019-02-12	 Senators	 	 • Craig Anderson	 eye injury (DTD)
+31	2019-02-18	 Senators	 • Craig Anderson	 	 returned to lineup
+32	2019-11-27	 Senators	 	 • Craig Anderson	 lower body injury (DTD)
+33	2019-11-28	 Senators	 	 • Craig Anderson	 placed on IR with lower body injury
+34	2019-12-04	 Senators	 • Craig Anderson	 	 activated from IR
+35	2019-12-09	 Senators	 	 • Craig Anderson	 placed on IR with knee injury
+36	2019-12-20	 Senators	 • Craig Anderson	 	 activated from IR

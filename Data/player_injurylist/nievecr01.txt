@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-11-04	 Rangers	 	 • Cristoval Nieves / Boo Nieves	 flu (DTD)
+1	2017-11-11	 Rangers	 • Cristoval Nieves / Boo Nieves	 	 returned to lineup
+2	2017-11-26	 Rangers	 	 • Cristoval Nieves / Boo Nieves	 hip injury (DTD)
+3	2017-11-28	 Rangers	 • Cristoval Nieves / Boo Nieves	 	 returned to lineup
+4	2018-10-02	 Rangers	 	 • Cristoval Nieves / Boo Nieves	 placed on IR with concussion
+5	2018-11-08	 Rangers	 • Cristoval Nieves / Boo Nieves	 	 activated from IR

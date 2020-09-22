@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-09-25	 Capitals	 	 • Nolan Yonkman	 abdominal injury (out indefinitely)
+1	2003-10-23	 Capitals	 	 • Nolan Yonkman	 knee injury (out indefinitely)
+2	2005-11-04	 Capitals	 	 • Nolan Yonkman	 hip pointer (DTD)
+3	2005-11-19	 Capitals	 • Nolan Yonkman	 	 returned to lineup

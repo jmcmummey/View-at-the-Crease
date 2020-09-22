@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-12-13	 Senators	 	 • Vaclav Varada	 knee injury (out indefinitely)
+1	2005-09-28	 Senators	 	 • Vaclav Varada	 sprained right knee (out until late-Oct)
+2	2005-10-21	 Senators	 • Vaclav Varada	 	 activated from IR

@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-03-27	 Red Wings	 	 • Riley Sheahan	 upper body injury (DTD)
+1	2015-04-02	 Red Wings	 • Riley Sheahan	 	 returned to lineup
+2	2016-02-03	 Red Wings	 	 • Riley Sheahan	 illness (DTD)
+3	2016-02-04	 Red Wings	 • Riley Sheahan	 	 returned to lineup
+4	2016-12-29	 Red Wings	 	 • Riley Sheahan	 upper body injury (DTD)
+5	2017-01-01	 Red Wings	 • Riley Sheahan	 	 returned to lineup
+6	2019-10-01	 Oilers	 	 • Riley Sheahan	 placed on IR with concussion
+7	2019-10-08	 Oilers	 • Riley Sheahan	 	 activated from IR
+8	2019-11-02	 Oilers	 	 • Riley Sheahan	 undisclosed (DTD)
+9	2019-11-08	 Oilers	 • Riley Sheahan	 	 returned to lineup

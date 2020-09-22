@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1995-04-03	 Canadiens	 	 • Valeri Bure	 bruised right forearm (DTD)
+1	2001-10-16	 Panthers	 	 • Valeri Bure	 knee injury (out indefinitely)
+2	2005-09-29	 Kings	 	 • Valeri Bure	 placed on IR with back injury
+3	2005-12-08	 Kings	 	 • Valeri Bure	 back injury (out until mid-Feb)

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-01	 Penguins	 	 • Kip Miller	 strained groin (DTD)
+1	2000-12-09	 Penguins	 • Kip Miller	 	 returned to lineup

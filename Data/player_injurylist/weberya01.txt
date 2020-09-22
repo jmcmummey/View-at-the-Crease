@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-02-09	 Canadiens	 	 • Yannick Weber	 lower body injury (DTD)
+1	2012-02-13	 Canadiens	 	 • Yannick Weber	 placed on IR with lower body injury
+2	2012-02-17	 Canadiens	 • Yannick Weber	 	 activated from IR
+3	2012-03-23	 Canadiens	 	 • Yannick Weber	 lower body injury (DTD)
+4	2012-03-30	 Canadiens	 	 • Yannick Weber	 placed on IR with lower body injury (out for season)
+5	2013-03-12	 Canadiens	 	 • Yannick Weber	 placed on IR with knee injury
+6	2013-03-27	 Canadiens	 • Yannick Weber	 	 activated from IR
+7	2013-04-11	 Canadiens	 	 • Yannick Weber	 knee injury (DTD)
+8	2013-04-17	 Canadiens	 • Yannick Weber	 	 returned to lineup
+9	2014-02-01	 Canucks	 	 • Yannick Weber	 upper body injury (DTD)
+10	2014-02-04	 Canucks	 	 • Yannick Weber	 placed on IR with upper body injury
+11	2014-02-08	 Canucks	 • Yannick Weber	 	 activated from IR
+12	2014-02-26	 Canucks	 	 • Yannick Weber	 upper body injury (DTD)
+13	2014-03-06	 Canucks	 • Yannick Weber	 	 returned to lineup
+14	2015-03-09	 Canucks	 	 • Yannick Weber	 upper body injury (DTD)
+15	2015-03-14	 Canucks	 • Yannick Weber	 	 returned to lineup
+16	2016-03-14	 Canucks	 	 • Yannick Weber	 upper body injury (DTD)
+17	2016-03-24	 Canucks	 • Yannick Weber	 	 returned to lineup
+18	2017-03-27	 Predators	 	 • Yannick Weber	 lower body injury (out for season)
+19	2017-10-13	 Predators	 	 • Yannick Weber	 placed on IR with upper body injury
+20	2017-10-17	 Predators	 	 • Yannick Weber	 placed on IR with upper body injury
+21	2017-10-21	 Predators	 • Yannick Weber	 	 activated from IR
+22	2017-11-12	 Predators	 	 • Yannick Weber	 placed on IR with lower body injury
+23	2017-12-04	 Predators	 • Yannick Weber	 	 activated from IR
+24	2018-03-25	 Predators	 	 • Yannick Weber	 undisclosed (DTD)
+25	2018-04-12	 Predators	 	 • Yannick Weber	 upper body injury (DTD)
+26	2018-05-03	 Predators	 • Yannick Weber	 	 returned to lineup
+27	2018-12-27	 Predators	 	 • Yannick Weber	 placed on IR with undisclosed injury
+28	2019-01-14	 Predators	 • Yannick Weber	 	 activated from IR
+29	2019-03-05	 Predators	 	 • Yannick Weber	 upper body injury (DTD)
+30	2019-03-09	 Predators	 • Yannick Weber	 	 returned to lineup

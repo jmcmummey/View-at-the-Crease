@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-11-14	 Devils	 • Jay Pandolfo	 	 activated from IR
+1	2007-11-30	 Devils	 	 • Jay Pandolfo	 groin injury (DTD)
+2	2008-01-01	 Devils	 	 • Jay Pandolfo	 placed on IR with groin injury
+3	2008-02-04	 Devils	 • Jay Pandolfo	 	 activated from IR
+4	2009-10-26	 Devils	 	 • Jay Pandolfo	 placed on IR with separated right shoulder
+5	2009-12-05	 Devils	 • Jay Pandolfo	 	 activated from IR
+6	2011-11-28	 Islanders	 	 • Jay Pandolfo	 broken foot (out indefinitely)
+7	2011-12-05	 Islanders	 	 • Jay Pandolfo	 placed on IR with broken foot
+8	2012-01-07	 Islanders	 • Jay Pandolfo	 	 activated from IR

@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-13	 Capitals	 • Jeff Halpern	 	 returned to lineup
+1	2006-01-04	 Capitals	 	 • Jeff Halpern	 lower body injury (DTD)
+2	2006-01-12	 Capitals	 • Jeff Halpern	 	 returned to lineup
+3	2006-01-16	 Capitals	 	 • Jeff Halpern	 knee injury (DTD)
+4	2006-01-23	 Capitals	 • Jeff Halpern	 	 returned to lineup
+5	2006-02-03	 Capitals	 	 • Jeff Halpern	 back injury (DTD)
+6	2006-02-11	 Capitals	 • Jeff Halpern	 	 returned to lineup
+7	2007-01-15	 Stars	 	 • Jeff Halpern	 lower body injury (DTD)
+8	2007-01-26	 Stars	 • Jeff Halpern	 	 returned to lineup
+9	2007-03-13	 Stars	 	 • Jeff Halpern	 lower body injury (DTD)
+10	2007-03-18	 Stars	 • Jeff Halpern	 	 returned to lineup
+11	2008-02-23	 Stars	 	 • Jeff Halpern	 groin injury (DTD)
+12	2008-03-22	 Lightning	 	 • Jeff Halpern	 abdominal strain (DTD)
+13	2008-03-25	 Lightning	 • Jeff Halpern	 	 returned to lineup
+14	2008-09-18	 Lightning	 	 • Jeff Halpern	 placed on IR with torn ACL in right knee
+15	2008-12-18	 Lightning	 • Jeff Halpern	 	 activated from IR
+16	2009-12-24	 Lightning	 	 • Jeff Halpern	 placed on IR with lower body injury
+17	2010-01-09	 Lightning	 • Jeff Halpern	 	 activated from IR
+18	2010-04-02	 Kings	 	 • Jeff Halpern	 upper body injury (DTD)
+19	2010-04-10	 Kings	 • Jeff Halpern	 	 returned to lineup
+20	2011-01-20	 Canadiens	 	 • Jeff Halpern	 upper body injury (DTD)
+21	2011-01-25	 Canadiens	 • Jeff Halpern	 	 returned to lineup
+22	2011-03-16	 Canadiens	 	 • Jeff Halpern	 lower body injury (DTD)
+23	2011-03-24	 Canadiens	 • Jeff Halpern	 	 returned to lineup
+24	2011-04-02	 Canadiens	 	 • Jeff Halpern	 lower body injury (DTD)
+25	2011-04-21	 Canadiens	 • Jeff Halpern	 	 returned to lineup
+26	2011-11-01	 Capitals	 	 • Jeff Halpern	 undisclosed injury (DTD)
+27	2011-11-04	 Capitals	 • Jeff Halpern	 	 returned to lineup
+28	2013-10-29	 Coyotes	 	 • Jeff Halpern	 upper body injury (DTD)
+29	2013-10-31	 Coyotes	 	 • Jeff Halpern	 placed on IR with upper body injury
+30	2013-11-09	 Coyotes	 • Jeff Halpern	 	 activated from IR

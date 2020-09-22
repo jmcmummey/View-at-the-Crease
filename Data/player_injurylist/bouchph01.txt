@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1995-02-25	 Kings	 	 • Philippe Boucher	 sprained wrist (out for season)
+1	1995-10-06	 Kings	 	 • Philippe Boucher	 right wrist tendinitis (out indefinitely)
+2	1996-02-19	 Kings	 	 • Philippe Boucher	 left hand injury (DTD)
+3	1999-09-01	 Kings	 	 • Philippe Boucher	 foot injury (out indefinitely) (date approximate)
+4	2003-12-01	 Stars	 	 • Philippe Boucher	 placed on IR with fractured left orbital bone
+5	2005-12-02	 Stars	 	 • Philippe Boucher	 upper body injury (left game)
+6	2005-12-04	 Stars	 	 • Philippe Boucher	 broken finger (out indefinitely)
+7	2005-12-21	 Stars	 • Philippe Boucher	 	 returned to lineup
+8	2005-12-26	 Stars	 	 • Philippe Boucher	 hand injury (DTD)
+9	2006-01-06	 Stars	 • Philippe Boucher	 	 returned to lineup
+10	2006-02-04	 Stars	 	 • Philippe Boucher	 knee injury (DTD)
+11	2006-02-10	 Stars	 • Philippe Boucher	 	 returned to lineup
+12	2007-01-16	 Stars	 	 • Philippe Boucher	 upper body injury (DTD)
+13	2007-01-26	 Stars	 • Philippe Boucher	 	 returned to lineup
+14	2007-02-01	 Stars	 	 • Philippe Boucher	 lower body injury (DTD)
+15	2007-02-06	 Stars	 • Philippe Boucher	 	 returned to lineup
+16	2007-12-05	 Stars	 	 • Philippe Boucher	 placed on IR with surgery on shoulder
+17	2008-02-25	 Stars	 • Philippe Boucher	 	 activated from IR
+18	2008-03-07	 Stars	 	 • Philippe Boucher	 right shoulder injury (DTD)
+19	2008-03-27	 Stars	 • Philippe Boucher	 	 returned to lineup
+20	2008-04-17	 Stars	 	 • Philippe Boucher	 lower body injury (DTD)
+21	2008-11-28	 Penguins	 	 • Philippe Boucher	 undisclosed injury (DTD)
+22	2008-12-04	 Penguins	 	 • Philippe Boucher	 placed on IR
+23	2008-12-11	 Penguins	 • Philippe Boucher	 	 activated from IR
+24	2009-01-03	 Penguins	 	 • Philippe Boucher	 undisclosed injury (DTD)
+25	2009-01-05	 Penguins	 • Philippe Boucher	 	 returned to lineup
+26	2009-02-11	 Penguins	 	 • Philippe Boucher	 left foot injury injury (DTD)
+27	2009-02-12	 Penguins	 	 • Philippe Boucher	 surgery on left foot (date approximate)
+28	2009-04-09	 Penguins	 • Philippe Boucher	 	 returned to lineup

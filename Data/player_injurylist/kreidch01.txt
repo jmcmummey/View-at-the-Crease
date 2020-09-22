@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-01-26	 Rangers	 	 • Chris Kreider	 placed on IR with ankle injury
+1	2013-02-05	 Rangers	 • Chris Kreider	 	 activated from IR
+2	2014-03-25	 Rangers	 	 • Chris Kreider	 hand injury (DTD)
+3	2014-05-07	 Rangers	 • Chris Kreider	 	 returned to lineup
+4	2014-12-01	 Rangers	 • Chris Kreider	 	 returned to lineup
+5	2014-12-06	 Rangers	 	 • Chris Kreider	 neck injury (DTD)
+6	2014-12-13	 Rangers	 • Chris Kreider	 	 returned to lineup
+7	2016-01-04	 Rangers	 	 • Chris Kreider	 lacerated hand (DTD)
+8	2016-01-11	 Rangers	 • Chris Kreider	 	 returned to lineup
+9	2016-01-21	 Rangers	 	 • Chris Kreider	 neck spasms (DTD)
+10	2016-01-24	 Rangers	 • Chris Kreider	 	 returned to lineup
+11	2016-10-23	 Rangers	 	 • Chris Kreider	 strained neck (DTD)
+12	2016-11-01	 Rangers	 • Chris Kreider	 	 returned to lineup
+13	2016-11-13	 Rangers	 	 • Chris Kreider	 upper body injury (DTD)
+14	2016-11-18	 Rangers	 • Chris Kreider	 	 returned to lineup
+15	2017-12-28	 Rangers	 	 • Chris Kreider	 blood clots (out indefinitely)
+16	2018-01-03	 Rangers	 	 • Chris Kreider	 placed on IR with blood clots
+17	2018-02-23	 Rangers	 • Chris Kreider	 	 activated from IR
+18	2019-03-21	 Rangers	 	 • Chris Kreider	 lower body injury (DTD)
+19	2019-03-29	 Rangers	 • Chris Kreider	 	 returned to lineup
+20	2020-02-03	 Rangers	 	 • Chris Kreider	 upper body injury (DTD)
+21	2020-02-05	 Rangers	 • Chris Kreider	 	 returned to lineup
+22	2020-03-01	 Rangers	 	 • Chris Kreider	 fractured foot (out indefinitely)

@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-04-03	 Canadiens	 	 • Mikhail Grabovski	 flu (DTD)
+1	2010-01-03	 Maple Leafs	 	 • Mikhail Grabovski	 fractured wrist (DTD)
+2	2010-03-09	 Maple Leafs	 • Mikhail Grabovski	 	 activated from IR
+3	2011-11-16	 Maple Leafs	 	 • Mikhail Grabovski	 placed on IR with lower body injury
+4	2011-11-27	 Maple Leafs	 • Mikhail Grabovski	 	 activated from IR
+5	2012-04-01	 Maple Leafs	 	 • Mikhail Grabovski	 lacerated leg (DTD)
+6	2012-04-07	 Maple Leafs	 • Mikhail Grabovski	 	 returned to lineup
+7	2013-12-15	 Capitals	 	 • Mikhail Grabovski	 flu (DTD)
+8	2013-12-20	 Capitals	 • Mikhail Grabovski	 	 returned to lineup
+9	2014-01-25	 Capitals	 	 • Mikhail Grabovski	 left ankle injury (DTD)
+10	2014-02-27	 Capitals	 • Mikhail Grabovski	 	 returned to lineup
+11	2014-02-28	 Capitals	 	 • Mikhail Grabovski	 sprained left ankle (DTD)
+12	2014-03-10	 Capitals	 	 • Mikhail Grabovski	 placed on IR with sprained left ankle
+13	2014-03-30	 Capitals	 • Mikhail Grabovski	 	 activated from IR
+14	2014-10-17	 Islanders	 	 • Mikhail Grabovski	 upper body injury (DTD)
+15	2014-10-22	 Islanders	 	 • Mikhail Grabovski	 placed on IR with upper body injury
+16	2014-10-25	 Islanders	 • Mikhail Grabovski	 	 activated from IR
+17	2015-01-10	 Islanders	 	 • Mikhail Grabovski	 lower body injury (DTD)
+18	2015-01-27	 Islanders	 • Mikhail Grabovski	 	 returned to lineup
+19	2015-02-20	 Islanders	 	 • Mikhail Grabovski	 placed on IR with concussion
+20	2015-04-23	 Islanders	 • Mikhail Grabovski	 	 activated from IR
+21	2016-02-23	 Islanders	 	 • Mikhail Grabovski	 upper body injury (DTD)
+22	2016-02-28	 Islanders	 	 • Mikhail Grabovski	 placed on IR with upper body injury
+23	2016-03-14	 Islanders	 • Mikhail Grabovski	 	 activated from IR
+24	2016-03-17	 Islanders	 	 • Mikhail Grabovski	 undisclosed injury (out for season)
+25	2016-09-26	 Islanders	 	 • Mikhail Grabovski	 placed on IR with upper body injury
+26	2017-10-03	 Golden Knights	 	 • Mikhail Grabovski	 placed on IR with post-concussion syndrome (out for season)

@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-14	 Penguins	 	 • Brian Gibbons (Robert)	 placed on IR with lower body injury
+1	2014-01-27	 Penguins	 • Brian Gibbons (Robert)	 	 activated from IR
+2	2014-03-07	 Penguins	 	 • Brian Gibbons (Robert)	 lower body injury (DTD)
+3	2014-03-11	 Penguins	 • Brian Gibbons (Robert)	 	 returned to lineup
+4	2014-04-21	 Penguins	 	 • Brian Gibbons (Robert)	 upper body injury (DTD)
+5	2014-05-04	 Penguins	 • Brian Gibbons (Robert)	 	 returned to lineup
+6	2014-10-05	 Blue Jackets	 	 • Brian Gibbons (Robert)	 placed on IR with undisclosed injury
+7	2014-10-14	 Blue Jackets	 • Brian Gibbons (Robert)	 	 activated from IR
+8	2014-12-19	 Blue Jackets	 	 • Brian Gibbons (Robert)	 placed on IR with knee injury
+9	2015-02-17	 Blue Jackets	 • Brian Gibbons (Robert)	 	 activated from IR
+10	2018-01-21	 Devils	 	 • Brian Gibbons (Robert)	 placed on IR with fractured right thumb
+11	2018-03-08	 Devils	 • Brian Gibbons (Robert)	 	 activated from IR
+12	2018-10-03	 Ducks	 	 • Brian Gibbons (Robert)	 hand injury (DTD)
+13	2018-10-06	 Ducks	 • Brian Gibbons (Robert)	 	 returned to lineup

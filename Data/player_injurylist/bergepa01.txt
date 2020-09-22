@@ -1,0 +1,48 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-17	 Bruins	 	 • Patrice Bergeron	 flu (DTD)
+1	2005-11-19	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+2	2007-02-15	 Bruins	 	 • Patrice Bergeron	 lower body injury (DTD)
+3	2007-02-24	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+4	2007-10-27	 Bruins	 	 • Patrice Bergeron	 concussion (left game)
+5	2007-10-28	 Bruins	 	 • Patrice Bergeron	 concussion (out indefinitely)
+6	2008-12-13	 Bruins	 	 • Patrice Bergeron	 flu (DTD)
+7	2008-12-18	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+8	2008-12-20	 Bruins	 	 • Patrice Bergeron	 undisclosed injury (left game)
+9	2008-12-21	 Bruins	 	 • Patrice Bergeron	 concussion (DTD)
+10	2008-12-31	 Bruins	 	 • Patrice Bergeron	 placed on IR with concussion
+11	2009-01-27	 Bruins	 • Patrice Bergeron	 	 activated from IR
+12	2009-04-10	 Bruins	 	 • Patrice Bergeron	 right foot injury (DTD)
+13	2009-04-16	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+14	2010-01-05	 Bruins	 	 • Patrice Bergeron	 fractured right thumb (DTD)
+15	2010-01-18	 Bruins	 • Patrice Bergeron	 	 activated from IR
+16	2010-03-02	 Bruins	 	 • Patrice Bergeron	 groin injury (DTD)
+17	2010-03-06	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+18	2011-05-07	 Bruins	 	 • Patrice Bergeron	 concussion (DTD)
+19	2011-05-19	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+20	2012-03-11	 Bruins	 	 • Patrice Bergeron	 foot injury (DTD)
+21	2013-04-03	 Bruins	 	 • Patrice Bergeron	 concussion (DTD)
+22	2013-04-17	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+23	2014-04-10	 Bruins	 	 • Patrice Bergeron	 undisclosed (DTD)
+24	2014-04-12	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+25	2014-04-13	 Bruins	 	 • Patrice Bergeron	 undisclosed (out for season)
+26	2014-12-29	 Bruins	 	 • Patrice Bergeron	 undisclosed (DTD)
+27	2014-12-31	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+28	2016-02-13	 Bruins	 	 • Patrice Bergeron	 undisclosed (DTD)
+29	2016-02-16	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+30	2016-10-12	 Bruins	 	 • Patrice Bergeron	 lower body injury (DTD)
+31	2016-10-20	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+32	2017-10-03	 Bruins	 	 • Patrice Bergeron	 lower body injury (DTD)
+33	2017-10-19	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+34	2018-02-27	 Bruins	 	 • Patrice Bergeron	 fractured right foot (DTD)
+35	2018-03-21	 Bruins	 	 • Patrice Bergeron	 placed on IR with fractured right foot
+36	2018-03-25	 Bruins	 • Patrice Bergeron	 	 activated from IR
+37	2018-04-19	 Bruins	 	 • Patrice Bergeron	 upper body injury (DTD)
+38	2018-04-21	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+39	2018-11-17	 Bruins	 	 • Patrice Bergeron	 upper body injury (DTD)
+40	2018-11-21	 Bruins	 	 • Patrice Bergeron	 placed on IR with upper body injury
+41	2018-12-22	 Bruins	 • Patrice Bergeron	 	 activated from IR
+42	2019-11-16	 Bruins	 	 • Patrice Bergeron	 lower body injury (DTD)
+43	2019-11-21	 Bruins	 • Patrice Bergeron	 	 returned to lineup
+44	2019-11-25	 Bruins	 	 • Patrice Bergeron	 lower body injury (DTD)
+45	2019-12-07	 Bruins	 	 • Patrice Bergeron	 placed on IR with lower body injury
+46	2019-12-09	 Bruins	 • Patrice Bergeron	 	 activated from IR

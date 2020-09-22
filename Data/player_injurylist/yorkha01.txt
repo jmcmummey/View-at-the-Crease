@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-12-16	 Canucks	 	 • Harry York	 placed on IR
+1	1999-12-18	 Canucks	 • Harry York	 	 activated from IR

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-01-04	 Predators	 	 • Dante Fabbro	 upper body injury (DTD)
+1	2020-01-14	 Predators	 • Dante Fabbro	 	 returned to lineup

@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-11-29	 Blackhawks	 	 • Jake Dowell	 broken foot (out 3-4 weeks)
+1	2007-12-30	 Blackhawks	 • Jake Dowell	 	 returned to lineup
+2	2011-02-12	 Blackhawks	 	 • Jake Dowell	 flu (DTD)
+3	2011-02-16	 Blackhawks	 • Jake Dowell	 	 returned to lineup
+4	2012-02-22	 Stars	 	 • Jake Dowell	 placed on IR with upper body injury
+5	2012-03-08	 Stars	 • Jake Dowell	 	 activated from IR

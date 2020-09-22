@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-10-08	 Stars	 • Grant Marshall	 	 activated
+1	1999-10-14	 Stars	 	 • Grant Marshall	 placed on IR with torn right groin
+2	1999-12-08	 Stars	 • Grant Marshall	 	 activated from IR
+3	2000-12-18	 Stars	 	 • Grant Marshall	 placed on IR with strained thigh muscle
+4	2000-12-31	 Stars	 • Grant Marshall	 	 activated from IR
+5	2005-12-16	 Devils	 	 • Grant Marshall	 groin injury (DTD)
+6	2005-12-28	 Devils	 • Grant Marshall	 	 returned to lineup
+7	2006-01-22	 Devils	 	 • Grant Marshall	 head injury (left game)
+8	2006-01-23	 Devils	 	 • Grant Marshall	 head injury (DTD)
+9	2006-01-26	 Devils	 • Grant Marshall	 	 returned to lineup

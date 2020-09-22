@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-27	 Predators	 	 • Ryan Suter	 leg injury (DTD)
+1	2008-01-03	 Predators	 • Ryan Suter	 	 returned to lineup
+2	2010-10-20	 Predators	 	 • Ryan Suter	 placed on IR with leg injury
+3	2010-11-13	 Predators	 • Ryan Suter	 	 activated from IR
+4	2010-11-20	 Predators	 	 • Ryan Suter	 lower body injury (DTD)
+5	2010-11-24	 Predators	 • Ryan Suter	 	 returned to lineup
+6	2011-02-19	 Predators	 	 • Ryan Suter	 upper body injury (DTD)
+7	2011-02-24	 Predators	 • Ryan Suter	 	 returned to lineup
+8	2012-01-17	 Predators	 	 • Ryan Suter	 upper body injury (DTD)
+9	2014-12-03	 Wild	 	 • Ryan Suter	 illness (DTD)
+10	2014-12-09	 Wild	 • Ryan Suter	 	 returned to lineup
+11	2018-04-02	 Wild	 	 • Ryan Suter	 fractured right ankle (out for season)
+12	2020-08-07	 Wild	 	 • Ryan Suter	 undisclosed (DTD)

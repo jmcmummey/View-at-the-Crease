@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-10-08	 Stars	 	 • Dan Keczmer	 placed on IR
+1	1998-10-20	 Stars	 • Dan Keczmer	 	 activated from IR

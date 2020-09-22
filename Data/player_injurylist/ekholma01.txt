@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-02-10	 Predators	 	 • Mattias Ekholm	 upper body injury (DTD)
+1	2015-02-14	 Predators	 • Mattias Ekholm	 	 returned to lineup
+2	2018-01-20	 Predators	 	 • Mattias Ekholm	 illness (DTD)
+3	2018-01-23	 Predators	 • Mattias Ekholm	 	 returned to lineup
+4	2018-12-20	 Predators	 	 • Mattias Ekholm	 illness (DTD)
+5	2018-12-22	 Predators	 • Mattias Ekholm	 	 returned to lineup
+6	2019-02-14	 Predators	 	 • Mattias Ekholm	 illness (DTD)
+7	2019-02-16	 Predators	 • Mattias Ekholm	 	 returned to lineup
+8	2019-12-14	 Predators	 	 • Mattias Ekholm	 illness (DTD)
+9	2019-12-16	 Predators	 • Mattias Ekholm	 	 returned to lineup

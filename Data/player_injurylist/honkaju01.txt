@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-12-07	 Stars	 	 • Julius Honka	 upper body injury (DTD)
+1	2016-12-09	 Stars	 	 • Julius Honka	 placed on IR with upper body injury
+2	2016-12-16	 Stars	 • Julius Honka	 	 activated from IR
+3	2018-02-09	 Stars	 	 • Julius Honka	 upper body injury (DTD)
+4	2018-02-11	 Stars	 • Julius Honka	 	 returned to lineup
+5	2018-11-21	 Stars	 	 • Julius Honka	 illness (DTD)
+6	2018-11-24	 Stars	 • Julius Honka	 	 returned to lineup

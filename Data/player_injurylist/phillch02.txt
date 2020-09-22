@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-12-30	 Senators	 	 • Chris Phillips (a)	 ankle injury (out indefinitely)
+1	2001-10-02	 Senators	 	 • Chris Phillips (a)	 placed on IR
+2	2005-12-20	 Senators	 	 • Chris Phillips (a)	 flu (DTD)
+3	2005-12-22	 Senators	 • Chris Phillips (a)	 	 returned to lineup
+4	2006-02-09	 Senators	 	 • Chris Phillips (a)	 thumb injury (DTD)
+5	2006-02-11	 Senators	 • Chris Phillips (a)	 	 returned to lineup
+6	2006-03-29	 Senators	 	 • Chris Phillips (a)	 left knee injury (out until late-Apr)
+7	2006-04-29	 Senators	 	 • Chris Phillips (a)	 left knee injury (DTD)
+8	2008-02-02	 Senators	 	 • Chris Phillips (a)	 flu (DTD)
+9	2008-02-05	 Senators	 • Chris Phillips (a)	 	 returned to lineup
+10	2011-12-27	 Senators	 	 • Chris Phillips (a)	 undisclosed injury (DTD)
+11	2011-12-30	 Senators	 • Chris Phillips (a)	 	 returned to lineup
+12	2012-01-04	 Senators	 	 • Chris Phillips (a)	 concussion (DTD)
+13	2012-01-07	 Senators	 • Chris Phillips (a)	 	 returned to lineup
+14	2013-04-29	 Senators	 	 • Chris Phillips (a)	 lower body injury (DTD)
+15	2013-11-12	 Senators	 	 • Chris Phillips (a)	 undisclosed injury (DTD)
+16	2013-11-15	 Senators	 • Chris Phillips (a)	 	 returned to lineup
+17	2013-12-28	 Senators	 	 • Chris Phillips (a)	 left foot injury (DTD)
+18	2014-01-02	 Senators	 • Chris Phillips (a)	 	 returned to lineup
+19	2014-01-28	 Senators	 	 • Chris Phillips (a)	 lower body injury (DTD)
+20	2014-02-27	 Senators	 • Chris Phillips (a)	 	 returned to lineup
+21	2014-03-25	 Senators	 	 • Chris Phillips (a)	 upper body injury (DTD)
+22	2014-03-30	 Senators	 • Chris Phillips (a)	 	 returned to lineup
+23	2014-11-06	 Senators	 	 • Chris Phillips (a)	 lower body injury (DTD)
+24	2014-11-09	 Senators	 • Chris Phillips (a)	 	 returned to lineup
+25	2014-11-20	 Senators	 	 • Chris Phillips (a)	 undisclosed injury (DTD)
+26	2014-11-28	 Senators	 • Chris Phillips (a)	 	 returned to lineup
+27	2015-02-16	 Senators	 	 • Chris Phillips (a)	 placed on IR with undisclosed injury (out for season)
+28	2015-10-06	 Senators	 	 • Chris Phillips (a)	 placed on IR with back injury (out for season)

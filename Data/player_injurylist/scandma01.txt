@@ -1,0 +1,48 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-02	 Wild	 	 • Marco Scandella	 illness (DTD)
+1	2011-01-06	 Wild	 • Marco Scandella	 	 returned to lineup
+2	2011-01-16	 Wild	 	 • Marco Scandella	 concussion (DTD)
+3	2011-03-10	 Wild	 • Marco Scandella	 	 returned to lineup
+4	2011-03-20	 Wild	 	 • Marco Scandella	 finger injury (out for season)
+5	2011-11-13	 Wild	 	 • Marco Scandella	 concussion (DTD)
+6	2011-11-18	 Wild	 	 • Marco Scandella	 placed on IR with concussion
+7	2011-11-23	 Wild	 • Marco Scandella	 	 activated from IR
+8	2012-03-31	 Wild	 	 • Marco Scandella	 upper body injury (DTD)
+9	2012-04-01	 Wild	 • Marco Scandella	 	 returned to lineup
+10	2013-01-19	 Wild	 	 • Marco Scandella	 placed on IR with groin injury
+11	2014-02-05	 Wild	 	 • Marco Scandella	 sprained knee (DTD)
+12	2014-02-26	 Wild	 	 • Marco Scandella	 placed on IR with sprained knee
+13	2014-03-03	 Wild	 • Marco Scandella	 	 activated from IR
+14	2014-11-13	 Wild	 	 • Marco Scandella	 illness (DTD)
+15	2014-11-16	 Wild	 • Marco Scandella	 	 returned to lineup
+16	2015-01-07	 Wild	 	 • Marco Scandella	 upper body injury (DTD)
+17	2015-01-14	 Wild	 	 • Marco Scandella	 placed on IR with upper body injury
+18	2015-01-17	 Wild	 • Marco Scandella	 	 activated from IR
+19	2015-03-03	 Wild	 	 • Marco Scandella	 oblique injury (DTD)
+20	2015-03-21	 Wild	 • Marco Scandella	 	 returned to lineup
+21	2015-11-19	 Wild	 	 • Marco Scandella	 placed on IR with lower body injury
+22	2015-12-01	 Wild	 • Marco Scandella	 	 activated from IR
+23	2016-02-17	 Wild	 	 • Marco Scandella	 upper body injury (DTD)
+24	2016-02-21	 Wild	 • Marco Scandella	 	 returned to lineup
+25	2016-10-20	 Wild	 	 • Marco Scandella	 illness (DTD)
+26	2016-10-22	 Wild	 • Marco Scandella	 	 returned to lineup
+27	2016-10-28	 Wild	 	 • Marco Scandella	 lower body injury (DTD)
+28	2016-11-09	 Wild	 	 • Marco Scandella	 placed on IR with lower body injury
+29	2016-11-23	 Wild	 • Marco Scandella	 	 activated from IR
+30	2018-11-21	 Sabres	 	 • Marco Scandella	 lower body injury (DTD)
+31	2018-11-23	 Sabres	 • Marco Scandella	 	 returned to lineup
+32	2018-11-30	 Sabres	 	 • Marco Scandella	 placed on IR with vertigo
+33	2018-12-15	 Sabres	 • Marco Scandella	 	 activated from IR
+34	2019-02-17	 Sabres	 	 • Marco Scandella	 upper body injury (out indefinitely)
+35	2019-02-17	 Sabres	 	 • Marco Scandella	 placed on IR with upper body injury
+36	2019-02-25	 Sabres	 • Marco Scandella	 	 activated from IR
+37	2019-02-28	 Sabres	 	 • Marco Scandella	 lower body injury (DTD)
+38	2019-03-02	 Sabres	 • Marco Scandella	 	 returned to lineup
+39	2019-03-15	 Sabres	 	 • Marco Scandella	 upper body injury (DTD)
+40	2019-03-17	 Sabres	 • Marco Scandella	 	 returned to lineup
+41	2019-03-31	 Sabres	 	 • Marco Scandella	 lower body injury (out for season)
+42	2019-10-25	 Sabres	 	 • Marco Scandella	 lower body injury (DTD)
+43	2019-11-03	 Sabres	 	 • Marco Scandella	 placed on IR with lower body injury
+44	2019-11-14	 Sabres	 • Marco Scandella	 	 activated from IR
+45	2019-12-27	 Sabres	 	 • Marco Scandella	 illness (DTD)
+46	2019-12-31	 Sabres	 • Marco Scandella	 	 returned to lineup

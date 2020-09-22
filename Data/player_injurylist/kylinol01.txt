@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-02-07	 Flames	 	 • Oliver Kylington	 undisclosed (DTD)
+1	2019-02-09	 Flames	 • Oliver Kylington	 	 returned to lineup
+2	2019-02-22	 Flames	 	 • Oliver Kylington	 undisclosed (DTD)
+3	2019-02-24	 Flames	 • Oliver Kylington	 	 returned to lineup
+4	2019-02-26	 Flames	 	 • Oliver Kylington	 undisclosed (DTD)
+5	2019-03-04	 Flames	 • Oliver Kylington	 	 returned to lineup
+6	2020-02-06	 Flames	 	 • Oliver Kylington	 illness (DTD)
+7	2020-02-08	 Flames	 • Oliver Kylington	 	 returned to lineup

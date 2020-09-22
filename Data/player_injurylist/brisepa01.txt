@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-10-10	 Canadiens	 	 • Patrice Brisebois	 sprained right ankle (DTD)
+1	1992-12-16	 Canadiens	 	 • Patrice Brisebois	 charley horse (DTD)
+2	1993-10-30	 Canadiens	 	 • Patrice Brisebois	 knee injury (out indefinitely)
+3	1993-12-01	 Canadiens	 	 • Patrice Brisebois	 hairline fracture of ankle (out indefinitely)
+4	1994-02-21	 Canadiens	 	 • Patrice Brisebois	 sprained ankle (DTD)
+5	1995-04-03	 Canadiens	 	 • Patrice Brisebois	 acute herniated disc in back (out indefinitely)
+6	1995-11-01	 Canadiens	 	 • Patrice Brisebois	 rib cage injury (DTD)
+7	1996-02-17	 Canadiens	 	 • Patrice Brisebois	 sprained back (DTD)
+8	1996-03-25	 Canadiens	 	 • Patrice Brisebois	 mild irritation of disc in back (out for season)
+9	2005-12-31	 Avalanche	 	 • Patrice Brisebois	 back injury (DTD)
+10	2006-01-05	 Avalanche	 • Patrice Brisebois	 	 returned to lineup
+11	2006-12-15	 Avalanche	 	 • Patrice Brisebois	 flu (DTD)
+12	2006-12-17	 Avalanche	 • Patrice Brisebois	 	 returned to lineup
+13	2006-12-29	 Avalanche	 	 • Patrice Brisebois	 back injury (DTD)
+14	2007-01-28	 Avalanche	 	 • Patrice Brisebois	 surgery on back (out for season)
+15	2007-12-13	 Canadiens	 	 • Patrice Brisebois	 shoulder injury (DTD)
+16	2008-01-08	 Canadiens	 • Patrice Brisebois	 	 returned to lineup
+17	2008-04-28	 Canadiens	 	 • Patrice Brisebois	 leg injury (DTD)
+18	2008-04-30	 Canadiens	 • Patrice Brisebois	 	 returned to lineup
+19	2009-02-03	 Canadiens	 	 • Patrice Brisebois	 lower body injury (DTD)
+20	2009-02-11	 Canadiens	 • Patrice Brisebois	 	 returned to lineup

@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-09-01	 Sabres	 	 • Donald Audette	 bruised thigh (DTD) (date approximate)
+1	1990-10-01	 Sabres	 	 • Donald Audette	 bruised thigh (DTD) (date approximate)
+2	1990-11-16	 Sabres	 	 • Donald Audette	 torn ligaments in left knee (out for season)
+3	1990-12-10	 Sabres	 	 • Donald Audette	 surgery on left knee to repair torn ligaments (out for season)
+4	1991-12-14	 Sabres	 	 • Donald Audette	 sprained ankle (DTD)
+5	1992-03-31	 Sabres	 	 • Donald Audette	 knee injury (DTD)
+6	1992-09-01	 Sabres	 	 • Donald Audette	 surgery on knee (out indefinitely) (date approximate)
+7	1995-09-23	 Sabres	 	 • Donald Audette	 torn cartilage in knee (out indefinitely)
+8	1995-11-08	 Sabres	 	 • Donald Audette	 broken thumb (DTD)
+9	1995-12-01	 Sabres	 	 • Donald Audette	 right knee injury (DTD)
+10	1996-01-26	 Sabres	 	 • Donald Audette	 reconstructive surgery on right knee (out for season)
+11	2000-01-14	 Kings	 	 • Donald Audette	 placed on IR
+12	2000-02-16	 Kings	 • Donald Audette	 	 activated from IR
+13	2001-12-01	 Canadiens	 	 • Donald Audette	 wrist injury (out indefinitely)

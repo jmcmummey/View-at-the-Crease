@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-11-29	 Penguins	 	 • Dick Tarnstrom	 broken foot (DTD)
+1	2002-12-31	 Penguins	 • Dick Tarnstrom	 	 returned to lineup
+2	2003-01-07	 Penguins	 	 • Dick Tarnstrom	 strained hamstring (DTD)
+3	2003-01-11	 Penguins	 • Dick Tarnstrom	 	 returned to lineup
+4	2003-03-20	 Penguins	 	 • Dick Tarnstrom	 hip injury (DTD)
+5	2003-03-26	 Penguins	 • Dick Tarnstrom	 	 returned to lineup
+6	2005-10-27	 Penguins	 	 • Dick Tarnstrom	 knee injury (left game)
+7	2005-10-28	 Penguins	 	 • Dick Tarnstrom	 placed on IR with torn MCL in left knee
+8	2005-11-24	 Penguins	 	 • Dick Tarnstrom	 knee injury (DTD)
+9	2005-11-25	 Penguins	 • Dick Tarnstrom	 	 returned to lineup
+10	2005-12-23	 Penguins	 	 • Dick Tarnstrom	 illness (DTD)
+11	2005-12-27	 Penguins	 • Dick Tarnstrom	 	 returned to lineup
+12	2006-02-04	 Oilers	 	 • Dick Tarnstrom	 undisclosed injury (DTD)
+13	2006-02-06	 Oilers	 • Dick Tarnstrom	 	 returned to lineup
+14	2006-02-07	 Oilers	 	 • Dick Tarnstrom	 placed on IR with upper respiratory infection
+15	2006-02-14	 Oilers	 • Dick Tarnstrom	 	 activated from IR
+16	2006-03-12	 Oilers	 	 • Dick Tarnstrom	 groin injury (DTD)
+17	2006-03-23	 Oilers	 • Dick Tarnstrom	 	 returned to lineup
+18	2006-04-27	 Oilers	 	 • Dick Tarnstrom	 hip injury (DTD) (date approximate)
+19	2006-04-29	 Oilers	 • Dick Tarnstrom	 	 returned to lineup
+20	2007-11-25	 Oilers	 	 • Dick Tarnstrom	 concussion (DTD)
+21	2007-11-30	 Oilers	 	 • Dick Tarnstrom	 placed on IR with concussion
+22	2007-12-15	 Oilers	 • Dick Tarnstrom	 	 activated from IR
+23	2008-03-30	 Blue Jackets	 	 • Dick Tarnstrom	 head injury (DTD)

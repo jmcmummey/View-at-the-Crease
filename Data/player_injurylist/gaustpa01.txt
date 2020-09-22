@@ -1,0 +1,61 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-11	 Sabres	 	 • Paul Gaustad	 head injury (DTD)
+1	2006-01-14	 Sabres	 	 • Paul Gaustad	 placed on IR with concussion
+2	2006-01-19	 Sabres	 • Paul Gaustad	 	 activated from IR
+3	2006-02-07	 Sabres	 	 • Paul Gaustad	 illness (DTD)
+4	2006-02-09	 Sabres	 • Paul Gaustad	 	 returned to lineup
+5	2007-01-15	 Sabres	 	 • Paul Gaustad	 upper body injury (DTD)
+6	2007-01-19	 Sabres	 • Paul Gaustad	 	 returned to lineup
+7	2007-02-10	 Sabres	 	 • Paul Gaustad	 left ankle injury (out indefinitely)
+8	2007-05-04	 Sabres	 • Paul Gaustad	 	 returned to lineup
+9	2008-09-29	 Sabres	 	 • Paul Gaustad	 placed on IR with torn ligament in right thumb
+10	2008-09-30	 Sabres	 	 • Paul Gaustad	 placed on IR with surgery on right thumb to repair torn ligament
+11	2008-10-30	 Sabres	 • Paul Gaustad	 	 activated from IR
+12	2008-12-19	 Sabres	 	 • Paul Gaustad	 placed on IR with upper body injury
+13	2008-12-30	 Sabres	 • Paul Gaustad	 	 activated from IR
+14	2009-02-06	 Sabres	 	 • Paul Gaustad	 upper body injury (DTD)
+15	2009-02-19	 Sabres	 • Paul Gaustad	 	 returned to lineup
+16	2009-10-30	 Sabres	 	 • Paul Gaustad	 flu (DTD)
+17	2009-11-04	 Sabres	 • Paul Gaustad	 	 returned to lineup
+18	2009-11-28	 Sabres	 	 • Paul Gaustad	 knee injury (DTD)
+19	2009-12-03	 Sabres	 	 • Paul Gaustad	 placed on IR
+20	2009-12-18	 Sabres	 • Paul Gaustad	 	 activated from IR
+21	2010-03-03	 Sabres	 	 • Paul Gaustad	 right hand injury (DTD)
+22	2010-03-13	 Sabres	 • Paul Gaustad	 	 returned to lineup
+23	2011-03-12	 Sabres	 	 • Paul Gaustad	 upper body injury (DTD)
+24	2011-03-13	 Sabres	 • Paul Gaustad	 	 returned to lineup
+25	2011-12-03	 Sabres	 	 • Paul Gaustad	 upper body injury (DTD)
+26	2011-12-07	 Sabres	 	 • Paul Gaustad	 upper body injury (DTD)
+27	2011-12-10	 Sabres	 	 • Paul Gaustad	 placed on IR with upper body injury
+28	2011-12-13	 Sabres	 • Paul Gaustad	 	 activated from IR
+29	2012-01-19	 Sabres	 	 • Paul Gaustad	 upper body injury (DTD)
+30	2012-01-31	 Sabres	 • Paul Gaustad	 	 returned to lineup
+31	2012-02-27	 Predators	 	 • Paul Gaustad	 upper body injury (DTD)
+32	2012-03-03	 Predators	 • Paul Gaustad	 	 returned to lineup
+33	2012-03-17	 Predators	 	 • Paul Gaustad	 upper body injury (DTD)
+34	2012-03-24	 Predators	 • Paul Gaustad	 	 returned to lineup
+35	2013-01-21	 Predators	 	 • Paul Gaustad	 upper body injury (DTD)
+36	2013-01-26	 Predators	 • Paul Gaustad	 	 returned to lineup
+37	2013-02-18	 Predators	 	 • Paul Gaustad	 upper body injury (DTD)
+38	2013-02-27	 Predators	 • Paul Gaustad	 	 returned to lineup
+39	2013-03-13	 Predators	 	 • Paul Gaustad	 upper body injury (DTD)
+40	2013-03-19	 Predators	 	 • Paul Gaustad	 placed on IR with upper body injury
+41	2013-03-29	 Predators	 • Paul Gaustad	 	 activated from IR
+42	2013-04-06	 Predators	 	 • Paul Gaustad	 upper body injury (DTD)
+43	2013-04-11	 Predators	 	 • Paul Gaustad	 placed on IR with shoulder injury (out for season)
+44	2014-03-20	 Predators	 	 • Paul Gaustad	 upper body injury (DTD)
+45	2014-04-05	 Predators	 • Paul Gaustad	 	 returned to lineup
+46	2014-12-04	 Predators	 	 • Paul Gaustad	 lower body injury (DTD)
+47	2014-12-09	 Predators	 • Paul Gaustad	 	 returned to lineup
+48	2014-12-11	 Predators	 	 • Paul Gaustad	 lower body injury (DTD)
+49	2014-12-19	 Predators	 	 • Paul Gaustad	 placed on IR with lower body injury
+50	2014-12-27	 Predators	 • Paul Gaustad	 	 activated from IR
+51	2015-04-02	 Predators	 	 • Paul Gaustad	 upper body injury (DTD)
+52	2015-04-07	 Predators	 • Paul Gaustad	 	 returned to lineup
+53	2015-11-10	 Predators	 	 • Paul Gaustad	 upper body injury (CBC) / lower body injury (Y) (DTD)
+54	2015-11-21	 Predators	 • Paul Gaustad	 	 returned to lineup
+55	2015-11-26	 Predators	 	 • Paul Gaustad	 placed on IR with upper body injury (CBS S Y)
+56	2015-11-28	 Predators	 	 • Paul Gaustad	 placed on IR with upper body injury (CBC E)
+57	2015-12-05	 Predators	 • Paul Gaustad	 	 activated from IR
+58	2016-03-07	 Predators	 	 • Paul Gaustad	 upper body injury (DTD)
+59	2016-03-29	 Predators	 • Paul Gaustad	 	 returned to lineup

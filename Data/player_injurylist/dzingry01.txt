@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-05-06	 Senators	 	 • Ryan Dzingel	 undisclosed (DTD)
+1	2017-05-13	 Senators	 • Ryan Dzingel	 	 returned to lineup
+2	2018-03-19	 Senators	 	 • Ryan Dzingel	 head injury (DTD)
+3	2018-03-22	 Senators	 • Ryan Dzingel	 	 returned to lineup
+4	2018-10-12	 Senators	 	 • Ryan Dzingel	 placed on IR with lower body injury
+5	2018-10-18	 Senators	 • Ryan Dzingel	 	 activated from IR
+6	2020-03-08	 Hurricanes	 	 • Ryan Dzingel	 upper body injury (DTD)

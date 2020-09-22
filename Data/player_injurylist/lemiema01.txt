@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1993-01-12	 Penguins	 	 • Mario Lemieux	 diagnosed with Hodgkin's disease (out for season)
+1	1993-03-02	 Penguins	 • Mario Lemieux	 	 returned to lineup
+2	1993-11-11	 Penguins	 	 • Mario Lemieux	 back injury (out indefinitely)
+3	1994-03-12	 Penguins	 	 • Mario Lemieux	 back injury (out indefinitely)
+4	1994-08-29	 Penguins	 	 • Mario Lemieux	 player took 1-year medical leave of absence for treatment of Hodgkin's disease
+5	2001-10-06	 Penguins	 	 • Mario Lemieux	 hip flexor injury (DTD)
+6	2001-10-14	 Penguins	 • Mario Lemieux	 	 returned to lineup
+7	2001-10-28	 Penguins	 	 • Mario Lemieux	 hip flexor injury (DTD)
+8	2001-10-31	 Penguins	 	 • Mario Lemieux	 placed on IR with surgery on hip
+9	2001-11-10	 Penguins	 • Mario Lemieux	 	 activated from IR
+10	2001-11-17	 Penguins	 	 • Mario Lemieux	 hip injury (DTD)
+11	2002-01-12	 Penguins	 • Mario Lemieux	 	 returned to lineup
+12	2002-02-28	 Penguins	 	 • Mario Lemieux	 hip tendinitis (out for season)
+13	2003-01-09	 Penguins	 	 • Mario Lemieux	 groin injury (DTD)
+14	2003-01-13	 Penguins	 • Mario Lemieux	 	 returned to lineup
+15	2003-01-15	 Penguins	 	 • Mario Lemieux	 groin injury (DTD)
+16	2003-02-04	 Penguins	 • Mario Lemieux	 	 returned to lineup
+17	2003-03-26	 Penguins	 	 • Mario Lemieux	 back spasms (DTD)
+18	2003-03-31	 Penguins	 • Mario Lemieux	 	 returned to lineup
+19	2003-11-01	 Penguins	 	 • Mario Lemieux	 hip injury (out indefinitely)
+20	2005-11-15	 Penguins	 	 • Mario Lemieux	 virus (DTD)
+21	2005-11-19	 Penguins	 • Mario Lemieux	 	 returned to lineup
+22	2005-11-27	 Penguins	 	 • Mario Lemieux	 stomach virus (DTD)
+23	2005-11-29	 Penguins	 • Mario Lemieux	 	 returned to lineup
+24	2005-12-07	 Penguins	 	 • Mario Lemieux	 irregular heartbeat (out until mid-Dec)
+25	2005-12-16	 Penguins	 • Mario Lemieux	 	 returned to lineup
+26	2005-12-17	 Penguins	 	 • Mario Lemieux	 irregular heartbeat (out indefinitely)
+27	2006-01-23	 Penguins	 • Mario Lemieux	 	 returned to lineup

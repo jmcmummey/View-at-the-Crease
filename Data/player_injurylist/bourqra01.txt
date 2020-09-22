@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-10-17	 Bruins	 	 • Ray Bourque	 bruised right shoulder (DTD)
+1	1992-05-05	 Bruins	 	 • Ray Bourque	 fractured finger (out for season)
+2	1992-12-19	 Bruins	 	 • Ray Bourque	 back injury (DTD)
+3	1993-01-21	 Bruins	 	 • Ray Bourque	 ankle injury (DTD)
+4	1994-03-22	 Bruins	 	 • Ray Bourque	 knee injury (out indefinitely)

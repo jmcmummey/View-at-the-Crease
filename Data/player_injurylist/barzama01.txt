@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-11-03	 Islanders	 	 • Mathew Barzal	 illness (DTD)
+1	2016-11-09	 Islanders	 • Mathew Barzal	 	 returned to lineup

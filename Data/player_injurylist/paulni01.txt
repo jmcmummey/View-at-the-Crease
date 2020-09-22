@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-12-05	 Senators	 	 • Nick Paul	 strained neck (DTD)
+1	2020-01-08	 Senators	 	 • Nick Paul	 ankle injury (DTD)
+2	2020-01-10	 Senators	 	 • Nick Paul	 placed on IR with ankle injury
+3	2020-02-05	 Senators	 • Nick Paul	 	 activated from IR

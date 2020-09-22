@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-02-22	 Oilers	 	 • Jeff Beukeboom	 hairline fracture of ankle (DTD)
+1	1992-03-16	 Rangers	 	 • Jeff Beukeboom	 strained back (DTD)
+2	1992-12-21	 Rangers	 	 • Jeff Beukeboom	 knee injury (DTD)
+3	1993-02-01	 Rangers	 	 • Jeff Beukeboom	 bruised ankle (DTD)
+4	1995-03-18	 Rangers	 	 • Jeff Beukeboom	 bruised chest (DTD)
+5	1998-11-19	 Rangers	 	 • Jeff Beukeboom	 head injury (out indefinitely)

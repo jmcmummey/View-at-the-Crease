@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-11-16	 Maple Leafs	 	 • Trevor Moore	 shoulder injury (DTD)
+1	2019-11-18	 Maple Leafs	 	 • Trevor Moore	 placed on IR with shoulder injury
+2	2019-12-21	 Maple Leafs	 • Trevor Moore	 	 activated from IR
+3	2019-12-23	 Maple Leafs	 	 • Trevor Moore	 undisclosed (DTD)
+4	2019-12-28	 Maple Leafs	 	 • Trevor Moore	 placed on IR with concussion
+5	2020-01-27	 Maple Leafs	 • Trevor Moore	 	 activated from IR

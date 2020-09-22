@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-05	 Stars	 	 • Scott Glennie	 placed on IR with concussion
+1	2011-10-13	 Stars	 • Scott Glennie	 	 activated from IR
+2	2013-09-20	 Stars	 	 • Scott Glennie	 knee injury (DTD)
+3	2013-09-30	 Stars	 	 • Scott Glennie	 placed on IR with undisclosed injury (CBC)
+4	2013-10-25	 Stars	 • Scott Glennie	 	 activated from IR

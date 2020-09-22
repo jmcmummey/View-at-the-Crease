@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-21	 Bruins	 	 • Frank Vatrano	 upper body injury (DTD)
+1	2015-11-25	 Bruins	 • Frank Vatrano	 	 returned to lineup
+2	2016-10-11	 Bruins	 	 • Frank Vatrano	 placed on IR with foot injury
+3	2016-12-16	 Bruins	 • Frank Vatrano	 	 activated from IR
+4	2017-03-30	 Bruins	 	 • Frank Vatrano	 upper body injury (DTD)
+5	2017-04-06	 Bruins	 • Frank Vatrano	 	 returned to lineup
+6	2018-02-07	 Bruins	 	 • Frank Vatrano	 lower body injury (DTD)
+7	2018-02-17	 Bruins	 	 • Frank Vatrano	 placed on IR with lower body injury
+8	2018-03-10	 Panthers	 • Frank Vatrano	 	 activated from IR
+9	2018-03-31	 Panthers	 	 • Frank Vatrano	 undisclosed injury (DTD)
+10	2018-04-02	 Panthers	 • Frank Vatrano	 	 returned to lineup

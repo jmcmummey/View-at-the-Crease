@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-12-01	 Sharks	 	 • Tim Heed	 upper body injury (DTD)
+1	2017-12-02	 Sharks	 	 • Tim Heed	 placed on IR with upper body injury
+2	2017-12-09	 Sharks	 • Tim Heed	 	 activated from IR
+3	2018-12-27	 Sharks	 	 • Tim Heed	 undisclosed (DTD)
+4	2019-01-05	 Sharks	 • Tim Heed	 	 returned to lineup
+5	2019-10-04	 Sharks	 	 • Tim Heed	 upper body injury (DTD)
+6	2019-10-13	 Sharks	 • Tim Heed	 	 returned to lineup

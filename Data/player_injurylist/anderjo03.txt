@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-16	 Red Wings	 	 • Joakim Andersson	 lower (CBC) / upper (Y) body injury (DTD)
+1	2014-01-20	 Red Wings	 	 • Joakim Andersson	 placed on IR with lower body injury
+2	2014-01-28	 Red Wings	 • Joakim Andersson	 	 activated from IR
+3	2014-03-10	 Red Wings	 	 • Joakim Andersson	 fractured foot (DTD)
+4	2014-03-23	 Red Wings	 • Joakim Andersson	 	 returned to lineup
+5	2015-02-23	 Red Wings	 	 • Joakim Andersson	 illness (DTD)
+6	2015-02-24	 Red Wings	 • Joakim Andersson	 	 returned to lineup

@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-01	 Senators	 	 • Antoine Vermette	 hip injury (DTD)
+1	2007-01-11	 Senators	 • Antoine Vermette	 	 returned to lineup
+2	2007-10-18	 Senators	 	 • Antoine Vermette	 back spasms (left game)
+3	2007-10-19	 Senators	 	 • Antoine Vermette	 back spasms (DTD)
+4	2007-10-27	 Senators	 • Antoine Vermette	 	 returned to lineup
+5	2015-10-24	 Coyotes	 	 • Antoine Vermette	 lower body injury (DTD)
+6	2015-10-30	 Coyotes	 • Antoine Vermette	 	 returned to lineup
+7	2015-11-04	 Coyotes	 	 • Antoine Vermette	 lower body injury (DTD)
+8	2015-11-10	 Coyotes	 • Antoine Vermette	 	 returned to lineup

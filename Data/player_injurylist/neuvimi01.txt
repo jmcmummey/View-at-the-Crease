@@ -1,0 +1,54 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-11-22	 Capitals	 	 • Michal Neuvirth	 lower body injury (DTD)
+1	2010-11-24	 Capitals	 • Michal Neuvirth	 	 returned to lineup
+2	2011-01-18	 Capitals	 	 • Michal Neuvirth	 lower body injury (DTD)
+3	2011-02-01	 Capitals	 • Michal Neuvirth	 	 returned to lineup
+4	2011-03-07	 Capitals	 	 • Michal Neuvirth	 eye injury (left game)
+5	2011-03-26	 Capitals	 	 • Michal Neuvirth	 illness (DTD)
+6	2011-03-29	 Capitals	 • Michal Neuvirth	 	 returned to lineup
+7	2011-10-13	 Capitals	 	 • Michal Neuvirth	 bruised foot (DTD)
+8	2011-10-27	 Capitals	 • Michal Neuvirth	 	 returned to lineup
+9	2012-04-05	 Capitals	 	 • Michal Neuvirth	 left leg injury (DTD)
+10	2012-04-21	 Capitals	 • Michal Neuvirth	 	 returned to lineup
+11	2012-09-20	 Capitals	 	 • Michal Neuvirth	 signed with HC Sparta Praha (Czech Republic)
+12	2013-02-27	 Capitals	 	 • Michal Neuvirth	 illness (DTD)
+13	2013-03-02	 Capitals	 • Michal Neuvirth	 	 returned to lineup
+14	2013-03-07	 Capitals	 	 • Michal Neuvirth	 illness (DTD)
+15	2013-03-10	 Capitals	 • Michal Neuvirth	 	 returned to lineup
+16	2013-03-30	 Capitals	 	 • Michal Neuvirth	 head injury (DTD)
+17	2013-04-02	 Capitals	 • Michal Neuvirth	 	 returned to lineup
+18	2013-11-29	 Capitals	 	 • Michal Neuvirth	 leg injury (DTD)
+19	2013-12-02	 Capitals	 	 • Michal Neuvirth	 placed on IR with leg injury
+20	2013-12-12	 Capitals	 • Michal Neuvirth	 	 activated from IR
+21	2014-03-16	 Sabres	 	 • Michal Neuvirth	 lower body injury (out for season)
+22	2014-11-19	 Sabres	 	 • Michal Neuvirth	 lower body injury (DTD)
+23	2014-11-26	 Sabres	 • Michal Neuvirth	 	 returned to lineup
+24	2015-01-26	 Sabres	 	 • Michal Neuvirth	 lower body injury (DTD)
+25	2015-02-05	 Sabres	 • Michal Neuvirth	 	 returned to lineup
+26	2015-10-22	 Flyers	 	 • Michal Neuvirth	 upper body injury (DTD)
+27	2015-10-24	 Flyers	 	 • Michal Neuvirth	 placed on IR with upper body injury
+28	2015-10-29	 Flyers	 • Michal Neuvirth	 	 activated from IR
+29	2015-11-17	 Flyers	 	 • Michal Neuvirth	 upper body injury (DTD)
+30	2015-11-19	 Flyers	 • Michal Neuvirth	 	 returned to lineup
+31	2016-02-02	 Flyers	 	 • Michal Neuvirth	 placed on IR with lower body injury
+32	2016-02-11	 Flyers	 • Michal Neuvirth	 	 activated from IR
+33	2016-03-12	 Flyers	 	 • Michal Neuvirth	 stomach virus (DTD)
+34	2016-03-15	 Flyers	 • Michal Neuvirth	 	 returned to lineup
+35	2016-03-20	 Flyers	 	 • Michal Neuvirth	 left knee injury (DTD)
+36	2016-04-07	 Flyers	 • Michal Neuvirth	 	 returned to lineup
+37	2016-11-13	 Flyers	 	 • Michal Neuvirth	 placed on IR with sprained left knee
+38	2017-01-03	 Flyers	 • Michal Neuvirth	 	 activated from IR
+39	2017-04-02	 Flyers	 	 • Michal Neuvirth	 upper body injury (out for season)
+40	2017-12-06	 Flyers	 	 • Michal Neuvirth	 placed on IR with undisclosed injury
+41	2017-12-26	 Flyers	 • Michal Neuvirth	 	 activated from IR
+42	2018-02-20	 Flyers	 	 • Michal Neuvirth	 placed on IR with lower body injury
+43	2018-03-28	 Flyers	 • Michal Neuvirth	 	 activated from IR
+44	2018-04-01	 Flyers	 	 • Michal Neuvirth	 lower body injury (DTD)
+45	2018-04-18	 Flyers	 • Michal Neuvirth	 	 returned to lineup
+46	2018-10-02	 Flyers	 	 • Michal Neuvirth	 placed on IR with groin injury
+47	2018-10-24	 Flyers	 • Michal Neuvirth	 	 activated from IR
+48	2018-11-03	 Flyers	 	 • Michal Neuvirth	 undisclosed (DTD)
+49	2018-11-03	 Flyers	 	 • Michal Neuvirth	 placed on IR with undisclosed injury
+50	2018-11-30	 Flyers	 • Michal Neuvirth	 	 activated from IR
+51	2019-01-04	 Flyers	 	 • Michal Neuvirth	 lower body injury (out for season)
+52	2019-01-12	 Flyers	 	 • Michal Neuvirth	 placed on IR with lower body injury (out for season)

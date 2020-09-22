@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-02-11	 Penguins	 	 • Dustin Jeffrey	 placed on IR with upper body (Y) / lower body (CBC) injury
+1	2011-02-25	 Penguins	 • Dustin Jeffrey	 	 activated from IR
+2	2011-03-25	 Penguins	 	 • Dustin Jeffrey	 knee injury (out for season)
+3	2011-10-03	 Penguins	 	 • Dustin Jeffrey	 placed on IR with surgery on right knee
+4	2011-10-20	 Penguins	 • Dustin Jeffrey	 	 activated from IR
+5	2011-11-19	 Penguins	 	 • Dustin Jeffrey	 knee injury (out indefinitely)
+6	2011-11-21	 Penguins	 	 • Dustin Jeffrey	 placed on IR with knee injury
+7	2012-01-11	 Penguins	 • Dustin Jeffrey	 	 activated from IR
+8	2012-03-05	 Penguins	 	 • Dustin Jeffrey	 illness (DTD)
+9	2012-03-25	 Penguins	 • Dustin Jeffrey	 	 returned to lineup

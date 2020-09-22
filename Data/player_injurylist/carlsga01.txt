@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-14	 Blue Jackets	 	 • Gabriel Carlsson	 placed on IR with upper body injury
+1	2017-11-05	 Blue Jackets	 • Gabriel Carlsson	 	 activated from IR

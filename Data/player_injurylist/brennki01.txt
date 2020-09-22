@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-22	 Bruins	 	 • Kip Brennan	 placed on IR
+1	2003-02-07	 Kings	 • Kip Brennan	 	 activated from IR
+2	2003-12-12	 Kings	 	 • Kip Brennan	 placed on IR with charley horse
+3	2003-12-20	 Kings	 • Kip Brennan	 	 activated from IR
+4	2005-11-03	 Mighty Ducks	 	 • Kip Brennan	 shoulder injury (DTD)
+5	2005-11-20	 Mighty Ducks	 • Kip Brennan	 	 returned to lineup

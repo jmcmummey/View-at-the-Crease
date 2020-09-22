@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1996-12-14	 Bruins	 	 • Sandy Moger	 elbow injury (out indefinitely)
+1	1998-11-14	 Kings	 • Sandy Moger	 	 activated from IR
+2	1998-11-17	 Kings	 • Sandy Moger	 	 returned to lineup
+3	1998-11-26	 Kings	 	 • Sandy Moger	 placed on IR with strained back
+4	1999-01-04	 Kings	 • Sandy Moger	 	 activated from IR

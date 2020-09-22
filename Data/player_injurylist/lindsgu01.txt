@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-02-26	 Red Wings	 	 • Gustav Lindstrom	 undisclosed (DTD)
+1	2020-02-27	 Red Wings	 • Gustav Lindstrom	 	 returned to lineup

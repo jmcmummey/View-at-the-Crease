@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-10-27	 Jets	 	 • Paul Postma	 placed on IR with blood clot in leg
+1	2014-02-07	 Jets	 • Paul Postma	 	 activated from IR
+2	2015-03-17	 Jets	 	 • Paul Postma	 lower body injury (DTD)
+3	2015-04-22	 Jets	 • Paul Postma	 	 returned to lineup
+4	2017-03-19	 Jets	 	 • Paul Postma	 sports hernia (out for season)

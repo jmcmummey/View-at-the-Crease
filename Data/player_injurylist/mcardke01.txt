@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-28	 Panthers	 	 • Kenndal McArdle	 right arm injury (DTD)
+1	2009-11-30	 Panthers	 	 • Kenndal McArdle	 left shoulder injury (DTD) (CBC)
+2	2009-12-09	 Panthers	 	 • Kenndal McArdle	 placed on IR with left shoulder injury
+3	2010-01-20	 Panthers	 • Kenndal McArdle	 	 activated from IR
+4	2011-10-05	 Jets	 	 • Kenndal McArdle	 placed on IR with lower body injury
+5	2011-10-24	 Jets	 • Kenndal McArdle	 	 activated from IR

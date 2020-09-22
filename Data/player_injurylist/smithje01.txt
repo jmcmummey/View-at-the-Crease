@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-19	 Predators	 	 • Jerred Smithson	 shoulder injury (DTD)
+1	2005-11-23	 Predators	 • Jerred Smithson	 	 returned to lineup
+2	2009-01-20	 Predators	 	 • Jerred Smithson	 ankle injury (DTD)
+3	2009-12-23	 Predators	 	 • Jerred Smithson	 placed on IR with broken right hand (Y) / left hand (CBC)
+4	2010-01-18	 Predators	 • Jerred Smithson	 	 activated from IR
+5	2010-02-10	 Predators	 	 • Jerred Smithson	 foot injury (DTD)
+6	2010-03-02	 Predators	 • Jerred Smithson	 	 returned to lineup
+7	2011-05-07	 Predators	 	 • Jerred Smithson	 facial injury (out for season)
+8	2012-01-10	 Predators	 	 • Jerred Smithson	 lower body injury (DTD)
+9	2012-01-14	 Predators	 	 • Jerred Smithson	 placed on IR with lower body injury
+10	2012-01-18	 Predators	 • Jerred Smithson	 	 activated from IR
+11	2012-01-24	 Predators	 	 • Jerred Smithson	 upper body injury (DTD)
+12	2012-02-02	 Predators	 • Jerred Smithson	 	 returned to lineup

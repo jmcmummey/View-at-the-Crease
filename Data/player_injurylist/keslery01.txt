@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-10	 Canucks	 	 • Ryan Kesler	 concussion (left game)
+1	2007-01-26	 Canucks	 	 • Ryan Kesler	 surgery on hip (out indefinitely)
+2	2007-04-13	 Canucks	 	 • Ryan Kesler	 broken finger (out indefinitely)
+3	2007-12-13	 Canucks	 	 • Ryan Kesler	 flu (DTD)
+4	2007-12-15	 Canucks	 • Ryan Kesler	 	 returned to lineup
+5	2011-10-05	 Canucks	 	 • Ryan Kesler	 placed on IR with surgery on left hip
+6	2011-10-18	 Canucks	 • Ryan Kesler	 	 activated from IR
+7	2013-01-18	 Canucks	 	 • Ryan Kesler	 placed on IR with shoulder injury
+8	2013-02-15	 Canucks	 • Ryan Kesler	 	 activated from IR
+9	2013-02-27	 Canucks	 	 • Ryan Kesler	 placed on IR with fractured right foot
+10	2013-04-08	 Canucks	 • Ryan Kesler	 	 activated from IR
+11	2014-02-26	 Canucks	 	 • Ryan Kesler	 right hand injury (DTD)
+12	2014-02-28	 Canucks	 • Ryan Kesler	 	 returned to lineup
+13	2014-03-13	 Canucks	 	 • Ryan Kesler	 sprained knee (DTD)
+14	2014-03-23	 Canucks	 • Ryan Kesler	 	 returned to lineup
+15	2015-04-01	 Ducks	 	 • Ryan Kesler	 upper body injury (DTD)
+16	2015-04-03	 Ducks	 • Ryan Kesler	 	 returned to lineup
+17	2016-04-10	 Ducks	 	 • Ryan Kesler	 lower body injury (DTD)
+18	2017-10-03	 Ducks	 	 • Ryan Kesler	 placed on IR with surgery on hip
+19	2017-12-27	 Ducks	 • Ryan Kesler	 	 activated from IR
+20	2018-02-17	 Ducks	 	 • Ryan Kesler	 lower body injury (DTD)
+21	2018-02-19	 Ducks	 • Ryan Kesler	 	 returned to lineup
+22	2018-10-02	 Ducks	 	 • Ryan Kesler	 placed on IR with hip injury
+23	2018-10-10	 Ducks	 • Ryan Kesler	 	 activated from IR
+24	2019-01-16	 Ducks	 	 • Ryan Kesler	 placed on IR with lower body injury
+25	2019-02-04	 Ducks	 • Ryan Kesler	 	 activated from IR
+26	2019-03-08	 Ducks	 	 • Ryan Kesler	 hip injury (out for season)
+27	2019-09-13	 Ducks	 	 • Ryan Kesler	 placed on IR with surgery on hip

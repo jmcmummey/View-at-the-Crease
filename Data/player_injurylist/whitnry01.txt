@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-19	 Penguins	 	 • Ryan Whitney	 strained neck (DTD)
+1	2006-03-24	 Penguins	 • Ryan Whitney	 	 returned to lineup
+2	2007-04-03	 Penguins	 	 • Ryan Whitney	 groin injury (DTD)
+3	2007-04-05	 Penguins	 • Ryan Whitney	 	 returned to lineup
+4	2007-11-03	 Penguins	 	 • Ryan Whitney	 groin injury (DTD)
+5	2007-11-10	 Penguins	 • Ryan Whitney	 	 returned to lineup
+6	2008-02-29	 Penguins	 	 • Ryan Whitney	 groin injury (DTD)
+7	2008-03-04	 Penguins	 • Ryan Whitney	 	 returned to lineup
+8	2008-09-20	 Penguins	 	 • Ryan Whitney	 placed on IR with surgery on left foot
+9	2008-12-23	 Penguins	 • Ryan Whitney	 	 activated from IR
+10	2010-12-28	 Oilers	 	 • Ryan Whitney	 ankle injury (out indefinitely)
+11	2010-12-29	 Oilers	 	 • Ryan Whitney	 placed on IR with ankle injury (out for season)
+12	2011-10-05	 Oilers	 	 • Ryan Whitney	 placed on IR with right ankle injury
+13	2011-10-18	 Oilers	 • Ryan Whitney	 	 activated from IR
+14	2011-10-26	 Oilers	 	 • Ryan Whitney	 sprained right knee (out indefinitely)
+15	2011-10-30	 Oilers	 	 • Ryan Whitney	 placed on IR with right knee injury
+16	2011-11-25	 Oilers	 • Ryan Whitney	 	 activated from IR
+17	2011-12-26	 Oilers	 	 • Ryan Whitney	 right ankle injury (DTD)
+18	2012-01-11	 Oilers	 	 • Ryan Whitney	 placed on IR with right ankle injury
+19	2012-01-24	 Oilers	 • Ryan Whitney	 	 activated from IR
+20	2013-04-24	 Oilers	 	 • Ryan Whitney	 leg injury (out for season)

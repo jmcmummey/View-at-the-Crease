@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-11-16	 Blue Jackets	 • Tyler Wright	 	 activated from IR
+1	2002-11-15	 Blue Jackets	 	 • Tyler Wright	 placed on IR with broken hand
+2	2002-12-06	 Blue Jackets	 • Tyler Wright	 	 activated from IR
+3	2003-10-15	 Blue Jackets	 	 • Tyler Wright	 placed on IR with hyperextended elbow
+4	2003-12-31	 Blue Jackets	 	 • Tyler Wright	 placed on IR with bruised ribs
+5	2004-01-08	 Blue Jackets	 • Tyler Wright	 	 activated from IR

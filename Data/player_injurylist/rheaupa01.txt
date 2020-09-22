@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-08-01	 Blues	 	 • Pascal Rheaume	 surgery on shoulder (out indefinitely) (date approximate)
+1	2001-12-07	 Thrashers	 	 • Pascal Rheaume	 placed on IR with pulled hamstring
+2	2002-01-14	 Thrashers	 • Pascal Rheaume	 	 activated from IR

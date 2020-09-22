@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-11-04	 Blues	 	 • David Backes	 left knee injury (out 3-4 weeks)
+1	2007-11-30	 Blues	 • David Backes	 	 returned to lineup
+2	2009-11-14	 Blues	 	 • David Backes	 upper body injury (DTD)
+3	2010-01-21	 Blues	 	 • David Backes	 upper body injury (DTD)
+4	2010-01-27	 Blues	 • David Backes	 	 returned to lineup
+5	2011-10-23	 Blues	 	 • David Backes	 upper body injury (DTD)
+6	2012-03-18	 Blues	 	 • David Backes	 left foot injury (out for season)
+7	2013-12-17	 Blues	 	 • David Backes	 upper body injury (DTD)
+8	2013-12-21	 Blues	 • David Backes	 	 returned to lineup
+9	2013-12-29	 Blues	 	 • David Backes	 upper body injury (DTD)
+10	2014-01-04	 Blues	 • David Backes	 	 returned to lineup
+11	2014-04-08	 Blues	 	 • David Backes	 lower body injury (out for season)
+12	2014-04-19	 Blues	 	 • David Backes	 upper body injury (DTD)
+13	2014-10-30	 Blues	 	 • David Backes	 concussion (out indefinitely)
+14	2014-11-01	 Blues	 • David Backes	 	 returned to lineup
+15	2016-04-04	 Blues	 	 • David Backes	 lower body injury (out for season)
+16	2016-10-25	 Bruins	 	 • David Backes	 elbow injury (DTD)
+17	2016-11-01	 Bruins	 	 • David Backes	 placed on IR with elbow injury
+18	2016-11-05	 Bruins	 • David Backes	 	 activated from IR
+19	2016-12-30	 Bruins	 	 • David Backes	 concussion (DTD)
+20	2017-01-07	 Bruins	 • David Backes	 	 returned to lineup
+21	2017-10-05	 Bruins	 	 • David Backes	 placed on IR with diverticulitis
+22	2017-10-19	 Bruins	 • David Backes	 	 activated from IR
+23	2017-11-02	 Bruins	 	 • David Backes	 placed on IR recovering from colon surgery to relieve diverticulitis
+24	2017-11-29	 Bruins	 • David Backes	 	 activated from IR
+25	2018-03-18	 Bruins	 	 • David Backes	 right leg injury (DTD)
+26	2018-03-29	 Bruins	 • David Backes	 	 returned to lineup
+27	2018-10-20	 Bruins	 	 • David Backes	 illness / upper body injury (DTD)
+28	2018-11-03	 Bruins	 • David Backes	 	 returned to lineup
+29	2019-11-04	 Bruins	 	 • David Backes	 upper body injury (DTD)
+30	2019-11-10	 Bruins	 	 • David Backes	 placed on IR with upper body injury
+31	2019-12-01	 Bruins	 • David Backes	 	 activated from IR

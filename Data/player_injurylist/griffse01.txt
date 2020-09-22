@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-06	 Bruins	 	 • Seth Griffith	 placed on IR with knee injury
+1	2015-10-23	 Bruins	 • Seth Griffith	 	 activated from IR
+2	2017-01-05	 Panthers	 	 • Seth Griffith	 placed on IR with concussion
+3	2017-01-13	 Panthers	 • Seth Griffith	 	 activated from IR
+4	2018-03-08	 Sabres	 	 • Seth Griffith	 upper body injury (DTD)
+5	2018-03-22	 Sabres	 • Seth Griffith	 	 returned to lineup

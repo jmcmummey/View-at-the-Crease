@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-09-21	 Blackhawks	 	 • Jonathan Toews	 broken finger (DTD)
+1	2007-10-10	 Blackhawks	 • Jonathan Toews	 	 returned to lineup
+2	2008-01-03	 Blackhawks	 	 • Jonathan Toews	 sprained knee (out indefinitely)
+3	2008-02-10	 Blackhawks	 • Jonathan Toews	 	 returned to lineup
+4	2009-10-24	 Blackhawks	 	 • Jonathan Toews	 concussion (DTD)
+5	2009-11-09	 Blackhawks	 • Jonathan Toews	 	 returned to lineup
+6	2010-12-30	 Blackhawks	 	 • Jonathan Toews	 upper body injury (DTD)
+7	2011-01-03	 Blackhawks	 • Jonathan Toews	 	 returned to lineup
+8	2012-01-22	 Blackhawks	 	 • Jonathan Toews	 left wrist injury (DTD)
+9	2012-01-24	 Blackhawks	 	 • Jonathan Toews	 placed on IR with left wrist injury
+10	2012-01-31	 Blackhawks	 • Jonathan Toews	 	 activated from IR
+11	2012-02-21	 Blackhawks	 	 • Jonathan Toews	 concussion (out for season)
+12	2014-03-31	 Blackhawks	 	 • Jonathan Toews	 upper body injury (out for season)
+13	2016-01-28	 Blackhawks	 	 • Jonathan Toews	 illness (DTD)
+14	2016-11-24	 Blackhawks	 	 • Jonathan Toews	 upper body injury (DTD)
+15	2016-12-02	 Blackhawks	 	 • Jonathan Toews	 placed on IR with upper body injury
+16	2016-12-13	 Blackhawks	 • Jonathan Toews	 	 activated from IR
+17	2018-03-22	 Blackhawks	 	 • Jonathan Toews	 upper body injury (out for season)

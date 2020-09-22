@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-03-20	 Canadiens	 	 • Sven Andrighetto	 upper body injury (DTD)
+1	2016-03-26	 Canadiens	 • Sven Andrighetto	 	 returned to lineup
+2	2016-12-16	 Canadiens	 	 • Sven Andrighetto	 shoulder injury (DTD)
+3	2016-12-22	 Canadiens	 • Sven Andrighetto	 	 returned to lineup
+4	2018-01-02	 Avalanche	 	 • Sven Andrighetto	 leg injury (DTD)
+5	2018-01-18	 Avalanche	 	 • Sven Andrighetto	 placed on IR with leg injury
+6	2018-03-08	 Avalanche	 • Sven Andrighetto	 	 activated from IR
+7	2018-03-24	 Avalanche	 	 • Sven Andrighetto	 lower body injury (DTD)
+8	2018-03-30	 Avalanche	 • Sven Andrighetto	 	 returned to lineup
+9	2018-09-29	 Avalanche	 	 • Sven Andrighetto	 placed on IR with lower body injury
+10	2018-10-02	 Avalanche	 	 • Sven Andrighetto	 placed on IR with lower body injury
+11	2018-10-17	 Avalanche	 • Sven Andrighetto	 	 activated from IR
+12	2018-10-30	 Avalanche	 	 • Sven Andrighetto	 placed on IR with lower body injury
+13	2018-11-16	 Avalanche	 • Sven Andrighetto	 	 activated from IR

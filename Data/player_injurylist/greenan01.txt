@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-01	 Devils	 	 • Andy Greene	 right hand injury (2-3 weeks)
+1	2008-11-04	 Devils	 	 • Andy Greene	 placed on IR with right hand injury
+2	2008-12-16	 Devils	 • Andy Greene	 	 activated from IR
+3	2009-03-27	 Devils	 	 • Andy Greene	 ankle injury (DTD)
+4	2009-04-04	 Devils	 • Andy Greene	 	 returned to lineup
+5	2011-11-03	 Devils	 	 • Andy Greene	 lower body injury (DTD)
+6	2011-11-08	 Devils	 • Andy Greene	 	 returned to lineup
+7	2011-11-30	 Devils	 	 • Andy Greene	 undisclosed injury (DTD)
+8	2011-12-02	 Devils	 • Andy Greene	 	 returned to lineup
+9	2011-12-08	 Devils	 	 • Andy Greene	 placed on IR with broken toe / ankle injury (CBC)
+10	2012-01-31	 Devils	 • Andy Greene	 	 activated from IR
+11	2012-03-04	 Devils	 	 • Andy Greene	 back injury (DTD)
+12	2012-03-06	 Devils	 • Andy Greene	 	 returned to lineup
+13	2017-01-04	 Devils	 	 • Andy Greene	 wrist injury (DTD)
+14	2017-01-10	 Devils	 	 • Andy Greene	 placed on IR with wrist injury
+15	2017-02-02	 Devils	 • Andy Greene	 	 activated from IR
+16	2017-06-13	 Devils	 • Andy Greene	 	 activated from IR
+17	2019-10-10	 Devils	 	 • Andy Greene	 upper body injury (DTD)
+18	2019-10-11	 Devils	 	 • Andy Greene	 placed on IR with upper body injury
+19	2019-10-19	 Devils	 • Andy Greene	 	 activated from IR
+20	2020-02-27	 Islanders	 	 • Andy Greene	 undisclosed (DTD)
+21	2020-02-29	 Islanders	 • Andy Greene	 	 returned to lineup

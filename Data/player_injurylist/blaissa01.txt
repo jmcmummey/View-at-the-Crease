@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-12-17	 Blues	 	 • Sammy Blais	 placed on IR with lower body injury
+1	2018-01-05	 Blues	 • Sammy Blais	 	 activated from IR
+2	2018-02-21	 Blues	 	 • Sammy Blais	 concussion (out indefinitely)
+3	2018-02-24	 Blues	 • Sammy Blais	 	 returned to lineup
+4	2018-03-06	 Blues	 	 • Sammy Blais	 placed on IR with neck injury
+5	2019-03-13	 Blues	 	 • Sammy Blais	 undisclosed (DTD)
+6	2019-10-24	 Blues	 	 • Sammy Blais	 thumb injury (DTD)
+7	2019-10-26	 Blues	 • Sammy Blais	 	 returned to lineup
+8	2019-10-27	 Blues	 	 • Sammy Blais	 thumb injury (DTD)
+9	2019-10-30	 Blues	 • Sammy Blais	 	 returned to lineup
+10	2019-11-20	 Blues	 	 • Sammy Blais	 surgery on right wrist (out indefinitely)
+11	2019-11-21	 Blues	 	 • Sammy Blais	 placed on IR with surgery on right wrist
+12	2020-01-28	 Blues	 • Sammy Blais	 	 activated from IR
+13	2020-02-27	 Blues	 	 • Sammy Blais	 undisclosed (DTD)
+14	2020-02-29	 Blues	 • Sammy Blais	 	 returned to lineup
+15	2020-08-12	 Blues	 	 • Sammy Blais	 undisclosed (DTD)
+16	2020-08-14	 Blues	 • Sammy Blais	 	 returned to lineup

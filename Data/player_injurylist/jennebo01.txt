@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-10-26	 Blue Jackets	 	 • Boone Jenner	 leg injury (DTD)
+1	2013-11-17	 Blue Jackets	 • Boone Jenner	 	 returned to lineup
+2	2014-10-04	 Blue Jackets	 	 • Boone Jenner	 placed on IR with fractured left hand
+3	2014-11-03	 Blue Jackets	 • Boone Jenner	 	 activated from IR
+4	2014-12-20	 Blue Jackets	 	 • Boone Jenner	 placed on IR with back injury
+5	2015-03-20	 Blue Jackets	 • Boone Jenner	 	 activated from IR
+6	2017-10-03	 Blue Jackets	 	 • Boone Jenner	 placed on IR with back injury
+7	2017-10-20	 Blue Jackets	 • Boone Jenner	 	 activated from IR
+8	2019-01-29	 Blue Jackets	 	 • Boone Jenner	 undisclosed (DTD)
+9	2019-01-31	 Blue Jackets	 	 • Boone Jenner	 ankle injury (out indefinitely)
+10	2019-02-05	 Blue Jackets	 • Boone Jenner	 	 returned to lineup
+11	2019-02-15	 Blue Jackets	 	 • Boone Jenner	 undisclosed (DTD)
+12	2019-02-18	 Blue Jackets	 • Boone Jenner	 	 returned to lineup
+13	2019-03-11	 Blue Jackets	 	 • Boone Jenner	 illness (DTD)
+14	2019-03-12	 Blue Jackets	 • Boone Jenner	 	 returned to lineup

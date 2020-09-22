@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-10	 Avalanche	 	 • Kevin Shattenkirk	 foot injury (DTD)
+1	2011-01-12	 Avalanche	 • Kevin Shattenkirk	 	 returned to lineup
+2	2011-12-08	 Blues	 	 • Kevin Shattenkirk	 flu (DTD)
+3	2011-12-10	 Blues	 • Kevin Shattenkirk	 	 returned to lineup
+4	2013-11-25	 Blues	 	 • Kevin Shattenkirk	 flu (DTD)
+5	2013-11-27	 Blues	 • Kevin Shattenkirk	 	 returned to lineup
+6	2015-02-02	 Blues	 	 • Kevin Shattenkirk	 placed on IR with surgery to repair abdominal injury
+7	2015-03-27	 Blues	 • Kevin Shattenkirk	 	 returned to lineup
+8	2015-10-15	 Blues	 	 • Kevin Shattenkirk	 lower body injury (DTD)
+9	2015-11-04	 Blues	 	 • Kevin Shattenkirk	 placed on IR with lower body injury
+10	2015-11-06	 Blues	 • Kevin Shattenkirk	 	 activated from IR
+11	2018-01-19	 Rangers	 	 • Kevin Shattenkirk	 placed on IR with torn meniscus in left knee (out for season)
+12	2018-01-22	 Rangers	 	 • Kevin Shattenkirk	 surgery on left knee to repair torn meniscus (out for season)
+13	2018-12-11	 Rangers	 	 • Kevin Shattenkirk	 separated shoulder injury (out indefinitely)
+14	2018-12-11	 Rangers	 	 • Kevin Shattenkirk	 placed on IR with separated shoulder
+15	2018-12-31	 Rangers	 • Kevin Shattenkirk	 	 activated from IR

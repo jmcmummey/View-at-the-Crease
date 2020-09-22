@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-03	 Flyers	 	 • Evgeny Medvedev	 upper body injury (DTD)
+1	2015-11-12	 Flyers	 • Evgeny Medvedev	 	 returned to lineup

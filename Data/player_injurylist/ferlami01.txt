@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-11-01	 Flames	 	 • Micheal Ferland	 concussion (DTD)
+1	2014-11-10	 Flames	 	 • Micheal Ferland	 placed on IR with concussion
+2	2014-11-20	 Flames	 • Micheal Ferland	 	 activated from IR
+3	2015-05-03	 Flames	 	 • Micheal Ferland	 upper body injury (out for season)
+4	2015-10-24	 Flames	 	 • Micheal Ferland	 lower body injury (DTD)
+5	2015-10-28	 Flames	 	 • Micheal Ferland	 placed on IR with sprained MCL in knee
+6	2015-11-10	 Flames	 • Micheal Ferland	 	 activated from IR
+7	2016-01-22	 Flames	 	 • Micheal Ferland	 placed on IR with upper body injury
+8	2016-01-24	 Flames	 	 • Micheal Ferland	 placed on IR with upper body injury
+9	2016-02-03	 Flames	 • Micheal Ferland	 	 activated from IR
+10	2017-01-12	 Flames	 	 • Micheal Ferland	 lower body injury (DTD)
+11	2017-01-19	 Flames	 • Micheal Ferland	 	 returned to lineup
+12	2017-03-19	 Flames	 	 • Micheal Ferland	 mumps (DTD)
+13	2017-03-23	 Flames	 • Micheal Ferland	 	 returned to lineup
+14	2017-10-14	 Flames	 	 • Micheal Ferland	 lower body injury (DTD)
+15	2017-10-19	 Flames	 • Micheal Ferland	 	 returned to lineup
+16	2018-02-24	 Flames	 	 • Micheal Ferland	 lower body injury / upper body injury (DTD)
+17	2018-03-05	 Flames	 • Micheal Ferland	 	 returned to lineup
+18	2018-11-30	 Hurricanes	 	 • Micheal Ferland	 concussion (out indefinitely)
+19	2018-12-07	 Hurricanes	 	 • Micheal Ferland	 placed on IR with concussion
+20	2018-12-10	 Hurricanes	 • Micheal Ferland	 	 activated from IR
+21	2018-12-13	 Hurricanes	 	 • Micheal Ferland	 upper body injury (DTD)
+22	2018-12-20	 Hurricanes	 • Micheal Ferland	 	 returned to lineup
+23	2019-01-20	 Hurricanes	 	 • Micheal Ferland	 upper body injury (DTD)
+24	2019-01-22	 Hurricanes	 • Micheal Ferland	 	 returned to lineup
+25	2019-01-23	 Hurricanes	 	 • Micheal Ferland	 back injury (DTD)
+26	2019-02-01	 Hurricanes	 • Micheal Ferland	 	 returned to lineup
+27	2019-03-09	 Hurricanes	 	 • Micheal Ferland	 upper body injury (DTD)
+28	2019-03-15	 Hurricanes	 • Micheal Ferland	 	 returned to lineup
+29	2019-04-17	 Hurricanes	 	 • Micheal Ferland	 upper body injury (DTD)
+30	2019-05-09	 Hurricanes	 • Micheal Ferland	 	 returned to lineup
+31	2019-11-01	 Canucks	 	 • Micheal Ferland	 placed on IR with concussion
+32	2019-12-07	 Canucks	 • Micheal Ferland	 	 activated from IR
+33	2019-12-12	 Canucks	 	 • Micheal Ferland	 placed on IR with upper body injury
+34	2020-08-05	 Canucks	 	 • Micheal Ferland	 undisclosed (out for season)

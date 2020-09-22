@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-03-12	 Hurricanes	 	 • Valentin Zykov	 upper body injury (DTD)
+1	2017-03-27	 Hurricanes	 • Valentin Zykov	 	 returned to lineup

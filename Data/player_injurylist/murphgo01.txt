@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-02-25	 Panthers	 	 • Gord Murphy	 placed on IR
+1	2000-10-03	 Thrashers	 	 • Gord Murphy	 placed on IR
+2	2000-10-07	 Thrashers	 	 • Gord Murphy	 shoulder injury (out indefinitely)
+3	2001-01-12	 Thrashers	 • Gord Murphy	 	 activated from IR
+4	2001-02-06	 Thrashers	 	 • Gord Murphy	 placed on IR with fractured left thumb
+5	2001-03-03	 Thrashers	 • Gord Murphy	 	 activated from IR

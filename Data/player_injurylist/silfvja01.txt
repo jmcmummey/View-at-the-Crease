@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-09-30	 Ducks	 	 • Jakob Silfverberg	 placed on IR with undisclosed injury
+1	2013-10-26	 Ducks	 	 • Jakob Silfverberg	 placed on IR with fractured hand (CBC CBS Y)
+2	2013-12-17	 Ducks	 • Jakob Silfverberg	 	 activated from IR
+3	2015-02-10	 Ducks	 	 • Jakob Silfverberg	 flu (DTD)
+4	2015-02-12	 Ducks	 • Jakob Silfverberg	 	 returned to lineup
+5	2017-01-20	 Ducks	 	 • Jakob Silfverberg	 upper body injury (DTD)
+6	2017-01-31	 Ducks	 • Jakob Silfverberg	 	 returned to lineup
+7	2017-12-01	 Ducks	 	 • Jakob Silfverberg	 upper body injury (DTD)
+8	2017-12-10	 Ducks	 • Jakob Silfverberg	 	 returned to lineup
+9	2018-10-17	 Ducks	 	 • Jakob Silfverberg	 fractured finger (DTD)
+10	2018-10-22	 Ducks	 	 • Jakob Silfverberg	 placed on IR with fractured finger
+11	2018-10-28	 Ducks	 • Jakob Silfverberg	 	 activated from IR
+12	2019-01-17	 Ducks	 	 • Jakob Silfverberg	 placed on IR with lower body injury
+13	2019-01-24	 Ducks	 • Jakob Silfverberg	 	 activated from IR
+14	2019-12-22	 Ducks	 	 • Jakob Silfverberg	 illness (DTD)
+15	2019-12-27	 Ducks	 • Jakob Silfverberg	 	 returned to lineup
+16	2020-01-09	 Ducks	 	 • Jakob Silfverberg	 upper body injury (DTD)
+17	2020-01-16	 Ducks	 • Jakob Silfverberg	 	 returned to lineup
+18	2020-01-29	 Ducks	 • Jakob Silfverberg	 	 returned to lineup

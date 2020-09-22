@@ -1,0 +1,85 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1993-10-06	@	Winnipeg Jets	4	6	L			33	44	2		0		37	33	2		1
+1	1993-10-08		New Jersey Devils	3	6	L			26	93	0		0		42	89	0		0
+2	1993-10-09	@	New Jersey Devils	4	6	L			30	19	2		0		32	35	2		0
+3	1993-10-11	@	New York Rangers	2	5	L			19	14	1		0		48	25	4		0
+4	1993-10-13	@	Toronto Maple Leafs	1	7	L			28	43	0		0		28	43	1		0
+5	1993-10-15		Philadelphia Flyers	0	3	L			39	4	0		0		18	10	0		0
+6	1993-10-16		Buffalo Sabres	4	3	W			49	8	1		0		22	12	1		0
+7	1993-10-22		Los Angeles Kings	6	3	W			39	18	2		0		30	16	1		0
+8	1993-10-24	@	Edmonton Oilers	3	2	W	OT		30	8	1		0		27	4	1		0
+9	1993-10-25	@	Calgary Flames	2	3	L	OT		28	10	0		0		36	10	0		0
+10	1993-10-27	@	Vancouver Canucks	4	2	W			34	17	0		0		27	15	1		0
+11	1993-10-29	@	Mighty Ducks of Anaheim	5	2	W			30	27	1		0		27	11	0		0
+12	1993-10-30	@	San Jose Sharks	4	2	W			28	24	1		0		27	16	1		0
+13	1993-11-05		Vancouver Canucks	3	2	W			25	15	0		0		25	15	1		0
+14	1993-11-09		Quebec Nordiques	2	1	W			26	31	0		0		22	19	0		0
+15	1993-11-11	@	Tampa Bay Lightning	4	1	W			23	12	1		1		34	6	0		0
+16	1993-11-13		New York Rangers	0	2	L			21	13	0		0		24	15	0		1
+17	1993-11-16		San Jose Sharks	1	2	L			18	10	0		0		21	12	1		0
+18	1993-11-18	@	Pittsburgh Penguins	2	3	L			34	16	0		0		31	16	0		0
+19	1993-11-20	@	Florida Panthers	3	4	L			29	16	1		0		17	18	2		0
+20	1993-11-24		St. Louis Blues	5	2	W			43	15	3		0		26	32	2		0
+21	1993-11-26		Pittsburgh Penguins	4	4	T	OT		36	28	2		0		26	34	2		0
+22	1993-11-28	@	New York Rangers	1	3	L			34	31	0		0		39	14	2		0
+23	1993-11-30	@	New York Islanders	4	6	L			38	38	1		0		24	42	0		0
+24	1993-12-03		Montreal Canadiens	2	2	T	OT		26	14	0		0		26	12	0		0
+25	1993-12-04	@	Ottawa Senators	6	1	W			35	28	1		1		27	24	0		0
+26	1993-12-07		Hartford Whalers	1	6	L			31	40	0		0		25	40	2		0
+27	1993-12-09	@	Philadelphia Flyers	4	2	W			33	28	0		0		20	16	0		0
+28	1993-12-11	@	Montreal Canadiens	5	3	W			26	8	3		0		24	12	0		0
+29	1993-12-13	@	Quebec Nordiques	3	5	L			31	8	0		0		35	6	0		0
+30	1993-12-17		Ottawa Senators	11	2	W			29	47	4		1		28	48	1		0
+31	1993-12-18	@	Hartford Whalers	1	4	L			30	44	0		0		35	42	0		0
+32	1993-12-21	@	Philadelphia Flyers	4	1	W			27	29	1		0		29	37	0		0
+33	1993-12-23		New York Rangers	0	1	L			20	24	0		0		24	28	0		0
+34	1993-12-26		Pittsburgh Penguins	7	3	W			28	18	0		0		32	34	2		0
+35	1993-12-28		Florida Panthers	3	3	T	OT		46	9	0		0		21	17	0		0
+36	1993-12-30		Mighty Ducks of Anaheim	3	0	W			35	20	0		0		26	22	0		0
+37	1994-01-01		Tampa Bay Lightning	5	5	T	OT		39	10	1		1		28	10	2		0
+38	1994-01-02	@	Boston Bruins	2	8	L			22	90	1		0		40	59	3		0
+39	1994-01-08		Chicago Blackhawks	4	1	W			24	12	1		0		17	18	0		0
+40	1994-01-09	@	New Jersey Devils	4	0	W			23	24	1		0		32	28	0		0
+41	1994-01-11		Toronto Maple Leafs	1	2	L			22	15	0		0		21	15	0		1
+42	1994-01-14		New Jersey Devils	2	5	L			32	21	2		0		21	33	1		0
+43	1994-01-15	@	Quebec Nordiques	4	0	W			40	31	1		0		24	27	0		0
+44	1994-01-17	@	Montreal Canadiens	1	3	L			26	30	0		0		35	10	1		0
+45	1994-01-19	@	Florida Panthers	1	5	L			31	82	0		0		25	55	3		0
+46	1994-01-25		Boston Bruins	1	3	L			30	4	0		0		29	6	0		1
+47	1994-01-27	@	Buffalo Sabres	2	7	L			30	49	2		0		31	31	3		0
+48	1994-01-29	@	Philadelphia Flyers	4	2	W			31	18	1		1		20	10	0		0
+49	1994-01-30		Detroit Red Wings	6	3	W			33	43	1		0		23	34	2		0
+50	1994-02-02	vs.	Philadelphia Flyers	5	2	W			39	24	0		0		25	24	1		0
+51	1994-02-04		Montreal Canadiens	0	4	L			24	4	0		0		20	2	1		0
+52	1994-02-05		Tampa Bay Lightning	6	3	W			32	19	1		0		22	13	1		0
+53	1994-02-07	@	New York Rangers	4	1	W			38	23	0		0		28	14	0		1
+54	1994-02-10	@	St. Louis Blues	4	3	W			30	11	0		0		35	11	0		0
+55	1994-02-12	@	Los Angeles Kings	6	1	W			41	14	0		0		23	10	0		0
+56	1994-02-15		Edmonton Oilers	2	2	T	OT		43	16	0		0		17	16	2		0
+57	1994-02-18		New York Islanders	3	1	W			29	16	3		0		25	18	0		0
+58	1994-02-20		Buffalo Sabres	3	3	T	OT		28	14	2		0		23	10	1		0
+59	1994-02-21	@	New York Islanders	0	4	L			26	21	0		0		17	21	0		1
+60	1994-02-24	@	Florida Panthers	2	1	W			26	16	0		1		22	8	0		0
+61	1994-02-26		Florida Panthers	4	2	W			31	21	2		0		20	25	0		0
+62	1994-02-27	@	Hartford Whalers	3	1	W			31	17	0		0		21	13	0		0
+63	1994-03-01		Tampa Bay Lightning	3	4	L			40	4	1		0		26	16	1		0
+64	1994-03-04		Philadelphia Flyers	3	3	T	OT		34	10	1		0		20	25	1		0
+65	1994-03-06		Calgary Flames	4	4	T	OT		35	25	1		0		19	36	1		0
+66	1994-03-07	@	Boston Bruins	3	6	L			32	15	0		0		25	21	2		1
+67	1994-03-09	vs.	New York Rangers	5	7	L			25	15	2		0		22	15	1		0
+68	1994-03-12		Quebec Nordiques	3	4	L			34	12	1		0		19	12	3		0
+69	1994-03-15	@	Pittsburgh Penguins	5	4	W	OT		32	61	1		0		27	41	3		0
+70	1994-03-18	@	Dallas Stars	2	6	L			47	37	1		0		33	26	3		1
+71	1994-03-20	@	Tampa Bay Lightning	3	0	W			32	66	2		0		23	72	0		0
+72	1994-03-22		Hartford Whalers	4	1	W			46	12	3		0		16	16	1		0
+73	1994-03-25	@	Detroit Red Wings	2	2	T	OT		16	25	0		0		22	45	1		0
+74	1994-03-27		Boston Bruins	4	6	L			29	12	1		0		23	16	0		3
+75	1994-03-29		New York Islanders	2	2	T	OT		30	6	0		0		15	8	1		0
+76	1994-03-31	@	Chicago Blackhawks	6	3	W			26	18	2		0		19	14	2		0
+77	1994-04-01		New Jersey Devils	2	1	W			31	13	1		0		27	15	0		0
+78	1994-04-03		Dallas Stars	3	6	L			36	19	1		0		22	17	2		0
+79	1994-04-05		New York Islanders	3	4	L	OT		27	20	1		1		27	16	0		0
+80	1994-04-06	@	Ottawa Senators	5	6	L			26	15	1		1		18	13	1		0
+81	1994-04-09		Ottawa Senators	8	4	W			27	43	0		0		19	51	0		1
+82	1994-04-12		Winnipeg Jets	4	3	W			36	15	1		0		30	27	0		0
+83	1994-04-14	@	Buffalo Sabres	3	2	W			27	24	2		0		34	14	1		0

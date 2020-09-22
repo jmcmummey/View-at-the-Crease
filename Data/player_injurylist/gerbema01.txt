@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-04	 Mighty Ducks	 	 • Martin Gerber	 pulled muscle near left hip (DTD)
+1	2005-10-06	 Hurricanes	 	 • Martin Gerber	 hip injury (DTD)
+2	2005-10-22	 Hurricanes	 • Martin Gerber	 	 returned to lineup
+3	2008-10-24	 Senators	 	 • Martin Gerber	 placed on IR with pulled leg muscle
+4	2008-11-07	 Senators	 • Martin Gerber	 	 activated from IR

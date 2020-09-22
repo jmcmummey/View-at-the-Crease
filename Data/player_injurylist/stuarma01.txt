@@ -1,0 +1,34 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-09-14	 Bruins	 	 • Mark Stuart	 knee injury (out ~2 months)
+1	2006-11-07	 Bruins	 • Mark Stuart	 	 activated from IR
+2	2009-12-16	 Bruins	 	 • Mark Stuart	 placed on IR with broken sternum
+3	2010-01-16	 Bruins	 • Mark Stuart	 	 activated from IR
+4	2010-02-01	 Bruins	 	 • Mark Stuart	 broken right pinky finger (DTD)
+5	2010-02-01	 Bruins	 	 • Mark Stuart	 surgery on broken right pinky finger
+6	2010-03-02	 Bruins	 • Mark Stuart	 	 returned to lineup
+7	2010-04-03	 Bruins	 	 • Mark Stuart	 hand injury (DTD)
+8	2010-05-07	 Bruins	 • Mark Stuart	 	 returned to lineup
+9	2010-12-08	 Bruins	 	 • Mark Stuart	 fractured right ring finger (DTD)
+10	2011-01-09	 Bruins	 	 • Mark Stuart	 placed on IR with broken hand
+11	2011-01-16	 Bruins	 • Mark Stuart	 	 activated from IR
+12	2011-11-03	 Jets	 	 • Mark Stuart	 upper body injury (DTD)
+13	2011-11-06	 Jets	 • Mark Stuart	 	 returned to lineup
+14	2013-03-22	 Jets	 	 • Mark Stuart	 undisclosed (DTD)
+15	2013-04-02	 Jets	 • Mark Stuart	 	 returned to lineup
+16	2013-10-19	 Jets	 	 • Mark Stuart	 hip injury (DTD)
+17	2013-10-24	 Jets	 • Mark Stuart	 	 returned to lineup
+18	2013-11-01	 Jets	 	 • Mark Stuart	 placed on IR with hip injury
+19	2013-11-22	 Jets	 • Mark Stuart	 	 activated from IR
+20	2013-12-27	 Jets	 	 • Mark Stuart	 groin injury (DTD)
+21	2013-12-29	 Jets	 • Mark Stuart	 	 returned to lineup
+22	2014-12-18	 Jets	 	 • Mark Stuart	 lower body injury (DTD)
+23	2014-12-29	 Jets	 	 • Mark Stuart	 placed on IR with lower body injury
+24	2015-01-10	 Jets	 • Mark Stuart	 	 activated from IR
+25	2015-01-21	 Jets	 	 • Mark Stuart	 lower body injury (DTD)
+26	2015-01-27	 Jets	 	 • Mark Stuart	 placed on IR with lower body injury
+27	2015-01-29	 Jets	 • Mark Stuart	 	 activated from IR
+28	2016-02-15	 Jets	 	 • Mark Stuart	 fractured hand (DTD)
+29	2016-02-25	 Jets	 	 • Mark Stuart	 placed on IR with fractured hand
+30	2016-03-24	 Jets	 • Mark Stuart	 	 activated from IR
+31	2016-11-01	 Jets	 	 • Mark Stuart	 lower body injury (DTD)
+32	2016-11-20	 Jets	 • Mark Stuart	 	 returned to lineup

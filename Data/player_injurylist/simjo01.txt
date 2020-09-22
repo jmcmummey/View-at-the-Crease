@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-18	 Stars	 • Jon Sim	 	 activated from IR
+1	2007-03-23	 Thrashers	 	 • Jon Sim	 orbital fracture (out indefinitely)
+2	2007-04-06	 Thrashers	 • Jon Sim	 	 returned to lineup
+3	2007-10-06	 Islanders	 	 • Jon Sim	 right knee injury (left game)
+4	2007-10-08	 Islanders	 	 • Jon Sim	 right knee injury (DTD)

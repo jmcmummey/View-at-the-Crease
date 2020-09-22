@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-01-04	 Rangers	 	 • Tim Taylor	 abdominal injury (out indefinitely)
+1	2006-11-17	 Lightning	 	 • Tim Taylor	 strained neck (DTD)
+2	2006-11-28	 Lightning	 • Tim Taylor	 	 returned to lineup
+3	2007-01-09	 Lightning	 	 • Tim Taylor	 hip injury (DTD)
+4	2007-01-11	 Lightning	 • Tim Taylor	 	 returned to lineup
+5	2007-01-30	 Lightning	 	 • Tim Taylor	 flu (DTD)
+6	2007-02-06	 Lightning	 • Tim Taylor	 	 returned to lineup
+7	2007-09-21	 Lightning	 	 • Tim Taylor	 hip injury (out indefinitely)

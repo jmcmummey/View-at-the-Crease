@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-03-17	 Blackhawks	 	 • Brandon Saad	 upper body injury (DTD)
+1	2014-03-23	 Blackhawks	 • Brandon Saad	 	 returned to lineup
+2	2015-10-29	 Blue Jackets	 	 • Brandon Saad	 illness (DTD)
+3	2015-10-31	 Blue Jackets	 • Brandon Saad	 	 returned to lineup
+4	2016-03-05	 Blue Jackets	 	 • Brandon Saad	 upper body injury (DTD)
+5	2016-03-12	 Blue Jackets	 • Brandon Saad	 	 returned to lineup
+6	2018-11-10	 Blackhawks	 	 • Brandon Saad	 right arm injury (DTD)
+7	2018-11-14	 Blackhawks	 • Brandon Saad	 	 returned to lineup
+8	2019-12-21	 Blackhawks	 	 • Brandon Saad	 placed on IR with right ankle injury
+9	2020-01-18	 Blackhawks	 • Brandon Saad	 	 activated from IR

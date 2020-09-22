@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-06	 Lightning	 	 • Andrei Vasilevskiy	 placed on IR with neck injury
+1	2015-11-01	 Lightning	 • Andrei Vasilevskiy	 	 activated from IR
+2	2018-04-07	 Lightning	 	 • Andrei Vasilevskiy	 undisclosed injury (out for season)
+3	2018-11-15	 Lightning	 	 • Andrei Vasilevskiy	 placed on IR with fractured foot
+4	2018-12-12	 Lightning	 • Andrei Vasilevskiy	 	 activated from IR

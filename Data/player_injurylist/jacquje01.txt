@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-09	 Oilers	 	 • Jean-Francois Jacques	 placed on IR with back injury
+1	2009-02-06	 Oilers	 • Jean-Francois Jacques	 	 activated from IR
+2	2009-11-05	 Oilers	 	 • Jean-Francois Jacques	 placed on IR with back injury
+3	2009-11-21	 Oilers	 • Jean-Francois Jacques	 	 activated from IR
+4	2010-02-11	 Oilers	 	 • Jean-Francois Jacques	 back injury (out for season)
+5	2010-10-06	 Oilers	 	 • Jean-Francois Jacques	 placed on IR recovering from surgery on back
+6	2010-11-17	 Oilers	 • Jean-Francois Jacques	 	 activated from IR
+7	2011-03-14	 Oilers	 	 • Jean-Francois Jacques	 foot injury (DTD)
+8	2011-03-24	 Oilers	 • Jean-Francois Jacques	 	 returned to lineup

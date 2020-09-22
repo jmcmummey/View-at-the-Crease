@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-14	 Devils	 	 • Stefan Matteau	 illness (DTD)
+1	2015-11-22	 Devils	 • Stefan Matteau	 	 returned to lineup
+2	2016-02-14	 Devils	 	 • Stefan Matteau	 facial fracture (DTD)
+3	2016-02-16	 Devils	 • Stefan Matteau	 	 returned to lineup
+4	2016-02-19	 Devils	 	 • Stefan Matteau	 placed on IR with facial injury
+5	2016-02-27	 Devils	 • Stefan Matteau	 	 activated from IR
+6	2016-02-29	 Devils	 • Stefan Matteau	 	 activated from IR
+7	2016-03-12	 Canadiens	 	 • Stefan Matteau	 lower body injury (DTD)
+8	2016-03-15	 Canadiens	 • Stefan Matteau	 	 returned to lineup

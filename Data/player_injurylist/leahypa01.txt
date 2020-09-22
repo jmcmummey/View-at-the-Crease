@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-01	 Bruins	 	 • Patrick Leahy / Pat Leahy	 broken finger (out indefinitely)
+1	2005-12-27	 Bruins	 • Patrick Leahy / Pat Leahy	 	 returned to lineup

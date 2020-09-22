@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-12-01	 Canucks	 	 • Jake Virtanen	 placed on IR with upper body injury
+1	2015-12-09	 Canucks	 • Jake Virtanen	 	 activated from IR
+2	2018-01-02	 Canucks	 	 • Jake Virtanen	 illness (DTD)
+3	2018-01-06	 Canucks	 • Jake Virtanen	 	 returned to lineup
+4	2019-02-14	 Canucks	 	 • Jake Virtanen	 upper body injury (DTD)
+5	2019-02-14	 Canucks	 	 • Jake Virtanen	 placed on IR with fractured rib(s)
+6	2019-03-09	 Canucks	 • Jake Virtanen	 	 activated from IR
+7	2019-03-30	 Canucks	 	 • Jake Virtanen	 lower body injury (DTD)
+8	2019-04-04	 Canucks	 • Jake Virtanen	 	 returned to lineup
+9	2020-08-02	 Canucks	 	 • Jake Virtanen	 undisclosed (DTD)
+10	2020-08-04	 Canucks	 • Jake Virtanen	 	 returned to lineup

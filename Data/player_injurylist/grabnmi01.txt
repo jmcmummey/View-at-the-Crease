@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-01	 Canucks	 	 • Michael Grabner	 placed on IR with fractured ankle
+1	2009-12-19	 Canucks	 • Michael Grabner	 	 activated from IR
+2	2010-10-25	 Islanders	 	 • Michael Grabner	 groin injury (DTD)
+3	2010-11-03	 Islanders	 • Michael Grabner	 	 returned to lineup
+4	2011-12-03	 Islanders	 	 • Michael Grabner	 groin injury (DTD)
+5	2011-12-08	 Islanders	 • Michael Grabner	 	 returned to lineup
+6	2012-03-04	 Islanders	 	 • Michael Grabner	 flu (DTD)
+7	2012-03-08	 Islanders	 • Michael Grabner	 	 returned to lineup
+8	2013-03-11	 Islanders	 	 • Michael Grabner	 placed on IR with shoulder injury
+9	2013-03-21	 Islanders	 • Michael Grabner	 	 activated from IR
+10	2013-12-29	 Islanders	 	 • Michael Grabner	 illness/flu (DTD)
+11	2014-01-01	 Islanders	 • Michael Grabner	 	 returned to lineup
+12	2014-03-14	 Islanders	 	 • Michael Grabner	 concussion (out indefinitely)
+13	2014-04-05	 Islanders	 • Michael Grabner	 	 returned to lineup
+14	2014-04-06	 Islanders	 	 • Michael Grabner	 upper body injury (out for season)
+15	2014-10-06	 Islanders	 	 • Michael Grabner	 placed on IR with surgery to repair hernia
+16	2014-12-03	 Islanders	 • Michael Grabner	 	 activated from IR
+17	2014-12-15	 Islanders	 	 • Michael Grabner	 placed on IR with lower body injury
+18	2015-01-06	 Islanders	 • Michael Grabner	 	 activated from IR
+19	2015-02-08	 Islanders	 	 • Michael Grabner	 placed on IR with undisclosed injury
+20	2015-02-17	 Islanders	 • Michael Grabner	 	 activated from IR
+21	2017-03-01	 Rangers	 	 • Michael Grabner	 hip injury (DTD)
+22	2017-03-12	 Rangers	 • Michael Grabner	 	 returned to lineup
+23	2018-01-20	 Rangers	 	 • Michael Grabner	 flu (DTD)
+24	2018-01-21	 Rangers	 • Michael Grabner	 	 returned to lineup
+25	2018-12-02	 Coyotes	 	 • Michael Grabner	 left eye injury (out indefinitely)
+26	2018-12-03	 Coyotes	 	 • Michael Grabner	 placed on IR with left eye injury
+27	2019-03-07	 Coyotes	 • Michael Grabner	 	 activated from IR
+28	2019-11-21	 Coyotes	 	 • Michael Grabner	 undisclosed (DTD)
+29	2019-11-24	 Coyotes	 • Michael Grabner	 	 returned to lineup

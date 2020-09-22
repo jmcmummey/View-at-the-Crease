@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-04-08	 Islanders	 	 • Anders Lee	 fractured left fibula (out for season)
+1	2017-01-24	 Islanders	 	 • Anders Lee	 illness (DTD)
+2	2017-01-26	 Islanders	 • Anders Lee	 	 returned to lineup

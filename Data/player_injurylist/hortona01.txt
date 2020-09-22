@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-05	 Panthers	 	 • Nathan Horton	 sprained left knee (DTD)
+1	2005-11-09	 Panthers	 	 • Nathan Horton	 placed on IR with sprained left knee (out indefinitely)
+2	2005-12-01	 Panthers	 • Nathan Horton	 	 activated from IR
+3	2006-03-18	 Panthers	 	 • Nathan Horton	 flu (DTD)
+4	2006-03-20	 Panthers	 • Nathan Horton	 	 returned to lineup
+5	2008-11-26	 Panthers	 	 • Nathan Horton	 lacerated left leg (right ankle injury CBC) (DTD)
+6	2008-12-18	 Panthers	 • Nathan Horton	 	 returned to lineup
+7	2009-03-10	 Panthers	 	 • Nathan Horton	 finger injury (out indefinitely)
+8	2009-03-23	 Panthers	 • Nathan Horton	 	 returned to lineup
+9	2010-01-23	 Panthers	 	 • Nathan Horton	 fractured tibia (DTD)
+10	2010-03-18	 Panthers	 • Nathan Horton	 	 activated from IR
+11	2011-01-08	 Bruins	 	 • Nathan Horton	 undisclosed (DTD)
+12	2011-01-11	 Bruins	 • Nathan Horton	 	 returned to lineup
+13	2011-06-07	 Bruins	 	 • Nathan Horton	 concussion (out for season)
+14	2012-01-23	 Bruins	 	 • Nathan Horton	 head injury / concussion (out for season)
+15	2012-02-17	 Bruins	 	 • Nathan Horton	 placed on IR with concussion (out for season)
+16	2013-04-21	 Bruins	 	 • Nathan Horton	 upper body injury (out indefinitely)
+17	2013-06-13	 Bruins	 	 • Nathan Horton	 upper body injury (DTD)
+18	2013-10-01	 Blue Jackets	 	 • Nathan Horton	 placed on IR with left shoulder surgery
+19	2014-01-02	 Blue Jackets	 • Nathan Horton	 	 activated from IR
+20	2014-03-31	 Blue Jackets	 	 • Nathan Horton	 lower body injury (DTD)
+21	2014-04-08	 Blue Jackets	 • Nathan Horton	 	 returned to lineup
+22	2014-04-09	 Blue Jackets	 	 • Nathan Horton	 abdominal injury (out for season)
+23	2014-10-04	 Blue Jackets	 	 • Nathan Horton	 placed on IR with back injury (out for season)
+24	2017-10-03	 Maple Leafs	 	 • Nathan Horton	 placed on IR with back injury (out for season)
+25	2019-10-01	 Maple Leafs	 	 • Nathan Horton	 placed on IR with back injury

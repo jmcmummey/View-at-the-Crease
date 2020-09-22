@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-03	 Ducks	 	 • Kyle Palmieri	 upper body injury (DTD)
+1	2013-03-10	 Ducks	 	 • Kyle Palmieri	 placed on IR with upper body injury
+2	2013-03-14	 Ducks	 • Kyle Palmieri	 	 activated from IR
+3	2013-10-07	 Ducks	 	 • Kyle Palmieri	 upper body injury (DTD)
+4	2013-10-13	 Ducks	 • Kyle Palmieri	 	 returned to lineup
+5	2013-11-12	 Ducks	 	 • Kyle Palmieri	 flu-like symptoms (DTD)
+6	2013-11-14	 Ducks	 • Kyle Palmieri	 	 returned to lineup
+7	2014-10-06	 Ducks	 	 • Kyle Palmieri	 placed on IR with undisclosed injury
+8	2014-11-16	 Ducks	 • Kyle Palmieri	 	 activated from IR
+9	2014-12-17	 Ducks	 	 • Kyle Palmieri	 placed on IR with shoulder injury
+10	2015-01-02	 Ducks	 • Kyle Palmieri	 	 activated from IR
+11	2016-11-21	 Devils	 	 • Kyle Palmieri	 upper body injury (DTD)
+12	2016-11-25	 Devils	 • Kyle Palmieri	 	 returned to lineup
+13	2017-10-09	 Devils	 	 • Kyle Palmieri	 lower body injury (DTD)
+14	2017-10-11	 Devils	 • Kyle Palmieri	 	 returned to lineup
+15	2017-10-22	 Devils	 	 • Kyle Palmieri	 lower body injury (DTD)
+16	2017-10-27	 Devils	 	 • Kyle Palmieri	 lower body injury (DTD)
+17	2017-11-01	 Devils	 	 • Kyle Palmieri	 placed on IR with foot injury
+18	2017-11-09	 Devils	 • Kyle Palmieri	 	 activated from IR
+19	2017-11-21	 Devils	 	 • Kyle Palmieri	 placed on IR with fractured foot
+20	2017-12-18	 Devils	 • Kyle Palmieri	 	 activated from IR
+21	2019-02-27	 Devils	 	 • Kyle Palmieri	 lower body injury (out indefinitely)
+22	2019-03-08	 Devils	 • Kyle Palmieri	 	 returned to lineup
+23	2019-03-21	 Devils	 	 • Kyle Palmieri	 upper body injury (DTD)
+24	2019-03-23	 Devils	 • Kyle Palmieri	 	 returned to lineup
+25	2019-04-01	 Devils	 	 • Kyle Palmieri	 lower body injury (out for season)
+26	2020-01-12	 Devils	 	 • Kyle Palmieri	 left foot injury (DTD)
+27	2020-01-16	 Devils	 	 • Kyle Palmieri	 placed on IR with left foot injury
+28	2020-01-26	 Devils	 • Kyle Palmieri	 	 activated from IR

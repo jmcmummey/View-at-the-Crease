@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-13	 Bruins	 	 • Joe Thornton	 back injury (DTD)
+1	2005-10-20	 Bruins	 • Joe Thornton	 	 returned to lineup
+2	2010-03-27	 Sharks	 	 • Joe Thornton	 leg injury (DTD)
+3	2010-04-05	 Sharks	 • Joe Thornton	 	 returned to lineup
+4	2015-01-01	 Sharks	 	 • Joe Thornton	 placed on IR with upper body injury (Y)
+5	2015-01-03	 Sharks	 	 • Joe Thornton	 hand injury (DTD)
+6	2015-01-04	 Sharks	 	 • Joe Thornton	 placed on IR with upper body injury
+7	2015-01-10	 Sharks	 • Joe Thornton	 	 activated from IR
+8	2017-04-04	 Sharks	 	 • Joe Thornton	 lower body injury (DTD)
+9	2017-04-16	 Sharks	 • Joe Thornton	 	 returned to lineup
+10	2018-01-24	 Sharks	 	 • Joe Thornton	 placed on IR with MCL injury in right knee (out for season)
+11	2018-10-07	 Sharks	 	 • Joe Thornton	 placed on IR with swelling in right knee
+12	2018-10-30	 Sharks	 • Joe Thornton	 	 activated from IR

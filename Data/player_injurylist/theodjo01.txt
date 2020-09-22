@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-17	 Canadiens	 	 • Jose Theodore	 groin injury (DTD)
+1	2005-12-17	 Canadiens	 	 • Jose Theodore	 knee injury (DTD)
+2	2005-12-23	 Canadiens	 • Jose Theodore	 	 returned to lineup
+3	2006-02-18	 Canadiens	 	 • Jose Theodore	 heel injury (out 4-6 weeks)
+4	2006-04-09	 Avalanche	 • Jose Theodore	 	 returned to lineup
+5	2006-12-02	 Avalanche	 	 • Jose Theodore	 hip injury (left game)
+6	2006-12-07	 Avalanche	 • Jose Theodore	 	 returned to lineup
+7	2007-10-03	 Avalanche	 	 • Jose Theodore	 knee injury (DTD)
+8	2007-10-12	 Avalanche	 • Jose Theodore	 	 returned to lineup
+9	2008-01-31	 Avalanche	 	 • Jose Theodore	 back injury (DTD)
+10	2008-02-06	 Avalanche	 • Jose Theodore	 	 returned to lineup
+11	2008-12-12	 Capitals	 	 • Jose Theodore	 placed on IR with hip flexor injury
+12	2008-12-19	 Capitals	 • Jose Theodore	 	 activated from IR
+13	2009-03-03	 Capitals	 	 • Jose Theodore	 flu (DTD)
+14	2009-10-15	 Capitals	 	 • Jose Theodore	 back spasms (DTD)
+15	2009-10-22	 Capitals	 • Jose Theodore	 	 returned to lineup
+16	2010-01-26	 Capitals	 	 • Jose Theodore	 lower body injury (DTD)
+17	2010-01-29	 Capitals	 • Jose Theodore	 	 returned to lineup
+18	2011-01-14	 Wild	 	 • Jose Theodore	 hip injury (DTD)
+19	2011-01-22	 Wild	 • Jose Theodore	 	 returned to lineup
+20	2011-10-23	 Panthers	 	 • Jose Theodore	 lower body injury (DTD)
+21	2011-12-05	 Panthers	 	 • Jose Theodore	 illness (DTD)
+22	2011-12-08	 Panthers	 • Jose Theodore	 	 returned to lineup
+23	2011-12-31	 Panthers	 	 • Jose Theodore	 lower body injury (DTD)
+24	2012-01-05	 Panthers	 	 • Jose Theodore	 placed on IR with right knee injury
+25	2012-01-18	 Panthers	 • Jose Theodore	 	 activated from IR
+26	2012-02-01	 Panthers	 	 • Jose Theodore	 knee injury (DTD)
+27	2012-02-09	 Panthers	 • Jose Theodore	 	 returned to lineup
+28	2012-04-24	 Panthers	 	 • Jose Theodore	 undisclosed injury (out for season)
+29	2013-03-03	 Panthers	 	 • Jose Theodore	 placed on IR with groin injury (out for season)

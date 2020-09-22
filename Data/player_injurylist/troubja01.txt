@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-10-19	 Jets	 	 • Jacob Trouba	 placed on IR with upper body injury
+1	2013-11-25	 Jets	 • Jacob Trouba	 	 activated from IR
+2	2014-12-15	 Jets	 	 • Jacob Trouba	 upper body injury (DTD)
+3	2014-12-18	 Jets	 	 • Jacob Trouba	 placed on IR with upper body injury
+4	2015-01-21	 Jets	 • Jacob Trouba	 	 activated from IR
+5	2016-03-05	 Jets	 	 • Jacob Trouba	 upper body injury (DTD)
+6	2016-03-06	 Jets	 • Jacob Trouba	 	 returned to lineup
+7	2017-03-13	 Jets	 	 • Jacob Trouba	 upper body injury (DTD)
+8	2017-03-24	 Jets	 • Jacob Trouba	 	 returned to lineup
+9	2018-01-26	 Jets	 	 • Jacob Trouba	 placed on IR with ankle injury
+10	2018-03-15	 Jets	 • Jacob Trouba	 	 activated from IR
+11	2018-03-19	 Jets	 	 • Jacob Trouba	 concussion (out indefinitely)
+12	2018-03-31	 Jets	 • Jacob Trouba	 	 returned to lineup
+13	2018-04-06	 Jets	 	 • Jacob Trouba	 undisclosed injury (DTD)
+14	2018-04-11	 Jets	 • Jacob Trouba	 	 returned to lineup

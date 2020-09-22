@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-10-25	 Bruins	 	 • Urho Vaakanainen	 concussion (DTD)
+1	2018-10-30	 Bruins	 	 • Urho Vaakanainen	 placed on IR with concussion
+2	2018-12-22	 Bruins	 • Urho Vaakanainen	 	 activated from IR

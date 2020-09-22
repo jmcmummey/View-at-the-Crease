@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-10-30	 Capitals	 	 • Don Beaupre	 pulled groin (out indefinitely)
+1	1991-03-06	 Capitals	 • Don Beaupre	 	 activated from IL
+2	1992-11-05	 Capitals	 	 • Don Beaupre	 pulled muscle (DTD)
+3	1993-01-02	 Capitals	 	 • Don Beaupre	 pulled groin (DTD)
+4	1995-03-10	 Senators	 	 • Don Beaupre	 flu (DTD)

@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-12-19	 Bruins	 	 • Brad Marchand	 undisclosed injury (DTD)
+1	2010-12-28	 Bruins	 • Brad Marchand	 	 returned to lineup
+2	2012-01-05	 Bruins	 	 • Brad Marchand	 flu (DTD)
+3	2012-01-07	 Bruins	 • Brad Marchand	 	 returned to lineup
+4	2013-02-06	 Bruins	 	 • Brad Marchand	 upper body injury (DTD)
+5	2013-02-10	 Bruins	 • Brad Marchand	 	 returned to lineup
+6	2013-04-11	 Bruins	 	 • Brad Marchand	 concussion (DTD)
+7	2013-04-17	 Bruins	 • Brad Marchand	 	 returned to lineup
+8	2014-11-18	 Bruins	 	 • Brad Marchand	 undisclosed injury (DTD)
+9	2014-11-22	 Bruins	 	 • Brad Marchand	 placed on IR with undisclosed injury
+10	2014-11-24	 Bruins	 • Brad Marchand	 	 activated from IR
+11	2015-10-12	 Bruins	 	 • Brad Marchand	 concussion (DTD)
+12	2015-10-17	 Bruins	 • Brad Marchand	 	 returned to lineup
+13	2017-11-06	 Bruins	 	 • Brad Marchand	 upper body injury (DTD)
+14	2017-11-10	 Bruins	 • Brad Marchand	 	 returned to lineup
+15	2017-11-13	 Bruins	 	 • Brad Marchand	 placed on IR with undisclosed injury
+16	2017-11-14	 Bruins	 	 • Brad Marchand	 undisclosed (DTD)
+17	2017-11-18	 Bruins	 	 • Brad Marchand	 placed on IR with undisclosed injury
+18	2017-11-29	 Bruins	 • Brad Marchand	 	 activated from IR
+19	2018-03-11	 Bruins	 	 • Brad Marchand	 upper body injury (DTD)
+20	2018-03-13	 Bruins	 • Brad Marchand	 	 returned to lineup
+21	2018-12-29	 Bruins	 	 • Brad Marchand	 upper body injury (DTD)
+22	2019-01-01	 Bruins	 • Brad Marchand	 	 returned to lineup

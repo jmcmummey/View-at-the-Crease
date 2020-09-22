@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-21	 Islanders	 	 • Scott Mayfield	 general soreness (DTD)
+1	2017-10-24	 Islanders	 • Scott Mayfield	 	 returned to lineup
+2	2018-02-07	 Islanders	 	 • Scott Mayfield	 placed on IR with lower body injury
+3	2018-03-27	 Islanders	 • Scott Mayfield	 	 activated from IR
+4	2019-12-23	 Islanders	 	 • Scott Mayfield	 illness (DTD)
+5	2019-12-27	 Islanders	 • Scott Mayfield	 	 returned to lineup

@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-05-06	 Senators	 	 • Patrick Wiercioch	 lower body injury (out for season)
+1	2014-12-04	 Senators	 	 • Patrick Wiercioch	 placed on IR with undisclosed injury
+2	2014-12-13	 Senators	 • Patrick Wiercioch	 	 activated from IR
+3	2014-12-15	 Senators	 	 • Patrick Wiercioch	 undisclosed injury (DTD)
+4	2014-12-22	 Senators	 • Patrick Wiercioch	 	 returned to lineup
+5	2015-11-20	 Senators	 	 • Patrick Wiercioch	 placed on IR with upper body injury
+6	2015-11-24	 Senators	 	 • Patrick Wiercioch	 placed on IR with upper body injury (CBC)
+7	2015-11-28	 Senators	 • Patrick Wiercioch	 	 activated from IR
+8	2016-03-06	 Senators	 	 • Patrick Wiercioch	 undisclosed injury (DTD)
+9	2016-03-10	 Senators	 • Patrick Wiercioch	 	 returned to lineup
+10	2016-03-12	 Senators	 	 • Patrick Wiercioch	 undisclosed injury (out for season)

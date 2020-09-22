@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-02-06	 Wild	 	 • Carson Soucy	 illness (DTD)
+1	2020-02-09	 Wild	 • Carson Soucy	 	 returned to lineup
+2	2020-02-23	 Wild	 	 • Carson Soucy	 placed on IR with upper body injury
+3	2020-07-11	 Wild	 • Carson Soucy	 	 activated from IR

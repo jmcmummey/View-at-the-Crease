@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-11-26	 Sharks	 	 • Troy Grosenick	 placed on IR with upper body injury
+1	2014-12-09	 Sharks	 • Troy Grosenick	 	 activated from IR

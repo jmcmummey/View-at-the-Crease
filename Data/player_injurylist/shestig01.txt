@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-02-13	 Rangers	 	 • Igor Shesterkin	 ankle injury (DTD)
+1	2020-02-19	 Rangers	 • Igor Shesterkin	 	 returned to lineup
+2	2020-02-24	 Rangers	 	 • Igor Shesterkin	 rib injury (out indefinitely)
+3	2020-03-07	 Rangers	 • Igor Shesterkin	 	 returned to lineup
+4	2020-08-01	 Rangers	 	 • Igor Shesterkin	 undisclosed (DTD)
+5	2020-08-04	 Rangers	 • Igor Shesterkin	 	 returned to lineup

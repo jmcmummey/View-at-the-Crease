@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-02-18	 Kings	 	 • Kevin Westgarth	 bruised/sore hand (DTD)
+1	2013-11-01	 Hurricanes	 	 • Kevin Westgarth	 upper body injury (DTD)
+2	2013-11-23	 Hurricanes	 • Kevin Westgarth	 	 returned to lineup
+3	2014-03-02	 Flames	 	 • Kevin Westgarth	 head injury (DTD)
+4	2014-03-12	 Flames	 • Kevin Westgarth	 	 returned to lineup

@@ -1,0 +1,41 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-09	 Blackhawks	 	 • James Wisniewski	 right knee injury (out for remainder of regular season)
+1	2007-11-28	 Blackhawks	 	 • James Wisniewski	 facial injury (DTD)
+2	2007-12-05	 Blackhawks	 • James Wisniewski	 	 returned to lineup
+3	2007-12-30	 Blackhawks	 	 • James Wisniewski	 sprained right knee (out indefinitely)
+4	2008-01-18	 Blackhawks	 • James Wisniewski	 	 returned to lineup
+5	2008-09-23	 Blackhawks	 	 • James Wisniewski	 placed on IR with torn ACL in right knee
+6	2008-12-16	 Blackhawks	 • James Wisniewski	 	 activated from IR
+7	2009-03-13	 Ducks	 	 • James Wisniewski	 upper body injury (DTD)
+8	2009-05-06	 Ducks	 	 • James Wisniewski	 bruised lung (DTD)
+9	2009-05-10	 Ducks	 • James Wisniewski	 	 returned to lineup
+10	2009-10-11	 Ducks	 	 • James Wisniewski	 placed on IR with sprained right shoulder
+11	2009-10-21	 Ducks	 • James Wisniewski	 	 activated from IR
+12	2011-02-05	 Canadiens	 	 • James Wisniewski	 flu (DTD)
+13	2011-02-09	 Canadiens	 • James Wisniewski	 	 returned to lineup
+14	2011-04-26	 Canadiens	 	 • James Wisniewski	 undisclosed (out for season)
+15	2011-12-30	 Blue Jackets	 	 • James Wisniewski	 fractured ankle (DTD)
+16	2012-01-03	 Blue Jackets	 	 • James Wisniewski	 placed on IR with fractured left ankle
+17	2012-02-11	 Blue Jackets	 • James Wisniewski	 	 activated from IR
+18	2012-02-18	 Blue Jackets	 	 • James Wisniewski	 pulled groin muscle (DTD)
+19	2012-02-24	 Blue Jackets	 • James Wisniewski	 	 returned to lineup
+20	2012-03-20	 Blue Jackets	 	 • James Wisniewski	 concussion-like symptoms / concussion (CBC) (DTD)
+21	2012-04-03	 Blue Jackets	 • James Wisniewski	 	 returned to lineup
+22	2013-02-03	 Blue Jackets	 	 • James Wisniewski	 concussion (out indefinitely)
+23	2013-02-10	 Blue Jackets	 • James Wisniewski	 	 returned to lineup
+24	2013-02-26	 Blue Jackets	 	 • James Wisniewski	 placed on IR with fractured foot
+25	2013-03-28	 Blue Jackets	 • James Wisniewski	 	 activated from IR
+26	2013-11-22	 Blue Jackets	 	 • James Wisniewski	 flu/illness (DTD)
+27	2013-11-25	 Blue Jackets	 • James Wisniewski	 	 returned to lineup
+28	2013-12-07	 Blue Jackets	 	 • James Wisniewski	 upper body injury (DTD)
+29	2013-12-13	 Blue Jackets	 	 • James Wisniewski	 placed on IR with upper body injury
+30	2013-12-20	 Blue Jackets	 • James Wisniewski	 	 activated from IR
+31	2014-10-28	 Blue Jackets	 	 • James Wisniewski	 placed on IR with fractured finger
+32	2014-11-06	 Blue Jackets	 • James Wisniewski	 	 activated from IR
+33	2015-02-07	 Blue Jackets	 	 • James Wisniewski	 lower body injury (DTD)
+34	2015-02-13	 Blue Jackets	 • James Wisniewski	 	 returned to lineup
+35	2015-03-02	 Ducks	 	 • James Wisniewski	 left foot injury (DTD)
+36	2015-03-09	 Ducks	 • James Wisniewski	 	 returned to lineup
+37	2015-10-09	 Hurricanes	 	 • James Wisniewski	 torn ACL in knee (out for season)
+38	2015-10-09	 Hurricanes	 	 • James Wisniewski	 placed on IR with torn ACL in knee (CBS Y) (out for season)
+39	2015-10-11	 Hurricanes	 	 • James Wisniewski	 placed on IR with torn ACL in knee (CBC) (out for season)

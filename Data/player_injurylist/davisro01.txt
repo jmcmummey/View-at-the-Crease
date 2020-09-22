@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-02-02	 Sharks	 	 • Rob Davison	 neck injury (DTD)
+1	2006-02-06	 Sharks	 • Rob Davison	 	 returned to lineup
+2	2006-11-04	 Sharks	 	 • Rob Davison	 groin injury (out indefinitely)
+3	2006-11-15	 Sharks	 • Rob Davison	 	 returned to lineup
+4	2007-10-27	 Sharks	 	 • Rob Davison	 finger injury (out indefinitely)
+5	2007-11-28	 Sharks	 • Rob Davison	 	 returned to lineup
+6	2007-12-31	 Sharks	 	 • Rob Davison	 soreness (DTD)
+7	2008-01-13	 Sharks	 • Rob Davison	 	 returned to lineup

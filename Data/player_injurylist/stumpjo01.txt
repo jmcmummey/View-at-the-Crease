@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-09-18	 Kings	 	 • Jozef Stumpel	 sprained ankle (DTD)
+1	1998-11-02	 Kings	 	 • Jozef Stumpel	 placed on IR with sore hip flexor / abdominal pain
+2	1998-11-28	 Kings	 • Jozef Stumpel	 	 activated from IR
+3	1999-11-06	 Kings	 	 • Jozef Stumpel	 hernia (out 8-10 weeks)
+4	1999-11-06	 Kings	 	 • Jozef Stumpel	 placed on IR with hernia (date approximate)
+5	1999-11-08	 Kings	 	 • Jozef Stumpel	 surgery to repair hernia
+6	1999-12-22	 Kings	 • Jozef Stumpel	 	 activated from IR
+7	2000-01-11	 Kings	 	 • Jozef Stumpel	 placed on IR with bruised left knee
+8	2000-01-23	 Kings	 • Jozef Stumpel	 	 activated from IR
+9	2001-03-07	 Kings	 	 • Jozef Stumpel	 placed on IR
+10	2001-03-23	 Kings	 • Jozef Stumpel	 	 activated from IR
+11	2003-10-30	 Kings	 	 • Jozef Stumpel	 placed on IR with chest injury
+12	2003-11-29	 Kings	 • Jozef Stumpel	 	 activated from IR
+13	2006-03-31	 Panthers	 	 • Jozef Stumpel	 hip flexor injury (DTD)
+14	2006-04-13	 Panthers	 • Jozef Stumpel	 	 returned to lineup
+15	2007-01-16	 Panthers	 	 • Jozef Stumpel	 upper body injury (DTD)
+16	2007-01-18	 Panthers	 • Jozef Stumpel	 	 returned to lineup
+17	2007-02-08	 Panthers	 	 • Jozef Stumpel	 shoulder injury (DTD)
+18	2007-02-20	 Panthers	 • Jozef Stumpel	 	 returned to lineup
+19	2008-01-12	 Panthers	 	 • Jozef Stumpel	 right shoulder injury (DTD)
+20	2008-01-30	 Panthers	 • Jozef Stumpel	 	 returned to lineup
+21	2008-02-02	 Panthers	 	 • Jozef Stumpel	 separated shoulder (DTD)
+22	2008-03-25	 Panthers	 • Jozef Stumpel	 	 returned to lineup

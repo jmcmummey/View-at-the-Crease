@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-24	 Panthers	 	 • Aleksander Barkov	 knee injury (DTD)
+1	2014-01-28	 Panthers	 	 • Aleksander Barkov	 placed on IR with knee injury
+2	2014-02-01	 Panthers	 • Aleksander Barkov	 	 activated from IR
+3	2014-02-16	 Panthers	 	 • Aleksander Barkov	 knee injury (out for season)
+4	2014-02-24	 Panthers	 	 • Aleksander Barkov	 placed on IR with knee injury (out for season)
+5	2014-10-31	 Panthers	 	 • Aleksander Barkov	 lower body injury (DTD)
+6	2014-11-06	 Panthers	 • Aleksander Barkov	 	 returned to lineup
+7	2014-11-18	 Panthers	 	 • Aleksander Barkov	 illness (DTD)
+8	2014-11-20	 Panthers	 • Aleksander Barkov	 	 returned to lineup
+9	2014-12-02	 Panthers	 	 • Aleksander Barkov	 upper body injury / groin injury (CBC) (DTD)
+10	2014-12-08	 Panthers	 	 • Aleksander Barkov	 placed on IR with hand injury
+11	2014-12-15	 Panthers	 • Aleksander Barkov	 	 activated from IR
+12	2015-01-09	 Panthers	 	 • Aleksander Barkov	 flu/illness (DTD)
+13	2015-01-13	 Panthers	 • Aleksander Barkov	 	 returned to lineup
+14	2015-10-23	 Panthers	 	 • Aleksander Barkov	 wrist injury (DTD)
+15	2015-10-31	 Panthers	 	 • Aleksander Barkov	 placed on IR with wrist injury
+16	2015-11-16	 Panthers	 • Aleksander Barkov	 	 activated from IR
+17	2016-02-09	 Panthers	 	 • Aleksander Barkov	 upper body injury (DTD)
+18	2016-02-14	 Panthers	 	 • Aleksander Barkov	 placed on IR with upper body injury
+19	2016-02-25	 Panthers	 • Aleksander Barkov	 	 activated from IR
+20	2016-12-29	 Panthers	 	 • Aleksander Barkov	 placed on IR with lower body injury
+21	2016-12-31	 Panthers	 	 • Aleksander Barkov	 placed on IR with lower body injury
+22	2017-02-03	 Panthers	 • Aleksander Barkov	 	 activated from IR
+23	2017-03-30	 Panthers	 	 • Aleksander Barkov	 upper body injury (out for season)
+24	2017-12-08	 Panthers	 	 • Aleksander Barkov	 upper body injury (DTD)
+25	2017-12-11	 Panthers	 • Aleksander Barkov	 	 returned to lineup
+26	2018-04-07	 Panthers	 	 • Aleksander Barkov	 undisclosed injury (out for season)
+27	2020-02-03	 Panthers	 	 • Aleksander Barkov	 lower body injury (DTD)
+28	2020-02-07	 Panthers	 • Aleksander Barkov	 	 returned to lineup

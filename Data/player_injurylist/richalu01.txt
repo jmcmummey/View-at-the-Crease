@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-11-13	 Flyers	 	 • Luke Richardson	 fractured right foot (out indefinitely)
+1	2003-11-16	 Blue Jackets	 	 • Luke Richardson	 placed on IR with broken finger
+2	2003-12-26	 Blue Jackets	 • Luke Richardson	 	 activated from IR
+3	2005-12-22	 Blue Jackets	 	 • Luke Richardson	 fractured jaw (out indefinitely)
+4	2005-12-23	 Blue Jackets	 	 • Luke Richardson	 placed on IR with fractured jaw
+5	2006-01-24	 Blue Jackets	 • Luke Richardson	 	 activated from IR
+6	2006-01-28	 Blue Jackets	 • Luke Richardson	 	 returned to lineup

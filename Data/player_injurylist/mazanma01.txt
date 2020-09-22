@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-17	 Predators	 	 • Marek Mazanec	 illness (DTD)
+1	2013-12-19	 Predators	 • Marek Mazanec	 	 returned to lineup

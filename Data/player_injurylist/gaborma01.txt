@@ -1,0 +1,55 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-09-28	 Wild	 	 • Marian Gaborik	 groin injury (DTD)
+1	2005-10-19	 Wild	 • Marian Gaborik	 	 returned to lineup
+2	2005-10-25	 Wild	 	 • Marian Gaborik	 placed on IR with groin / hip flexor injury (out indefinitely)
+3	2005-11-23	 Wild	 • Marian Gaborik	 	 activated from IR
+4	2006-10-21	 Wild	 	 • Marian Gaborik	 strained groin (out indefinitely)
+5	2007-01-02	 Wild	 	 • Marian Gaborik	 strained groin (DTD)
+6	2007-01-06	 Wild	 • Marian Gaborik	 	 returned to lineup
+7	2007-10-27	 Wild	 	 • Marian Gaborik	 groin injury (DTD)
+8	2007-11-01	 Wild	 • Marian Gaborik	 	 returned to lineup
+9	2007-11-05	 Wild	 	 • Marian Gaborik	 groin injury (DTD)
+10	2007-11-15	 Wild	 • Marian Gaborik	 	 returned to lineup
+11	2008-10-16	 Wild	 	 • Marian Gaborik	 placed on IR with back injury
+12	2008-12-17	 Wild	 • Marian Gaborik	 	 activated from IR
+13	2008-12-24	 Wild	 	 • Marian Gaborik	 groin injury (DTD)
+14	2008-12-28	 Wild	 	 • Marian Gaborik	 lower body injury (DTD)
+15	2009-01-03	 Wild	 	 • Marian Gaborik	 placed on IR with surgery on hip
+16	2009-03-22	 Wild	 • Marian Gaborik	 	 activated from IR
+17	2009-09-17	 Rangers	 	 • Marian Gaborik	 groin injury (out indefinitely)
+18	2009-10-27	 Rangers	 	 • Marian Gaborik	 right leg injury (DTD)
+19	2009-11-01	 Rangers	 • Marian Gaborik	 	 returned to lineup
+20	2010-02-09	 Rangers	 	 • Marian Gaborik	 lacerated right knee (DTD)
+21	2010-02-12	 Rangers	 • Marian Gaborik	 	 returned to lineup
+22	2010-02-14	 Rangers	 	 • Marian Gaborik	 lacerated right knee (DTD)
+23	2010-03-06	 Rangers	 • Marian Gaborik	 	 returned to lineup
+24	2010-10-16	 Rangers	 	 • Marian Gaborik	 placed on IR with separated left shoulder
+25	2010-11-11	 Rangers	 • Marian Gaborik	 	 activated from IR
+26	2010-11-27	 Rangers	 	 • Marian Gaborik	 flu (DTD)
+27	2010-11-29	 Rangers	 • Marian Gaborik	 	 returned to lineup
+28	2010-12-23	 Rangers	 	 • Marian Gaborik	 groin injury (DTD)
+29	2010-12-27	 Rangers	 • Marian Gaborik	 	 returned to lineup
+30	2011-02-22	 Rangers	 	 • Marian Gaborik	 concussion (DTD)
+31	2011-03-06	 Rangers	 • Marian Gaborik	 	 returned to lineup
+32	2013-10-17	 Blue Jackets	 	 • Marian Gaborik	 illness (DTD)
+33	2013-10-19	 Blue Jackets	 • Marian Gaborik	 	 returned to lineup
+34	2013-11-15	 Blue Jackets	 	 • Marian Gaborik	 placed on IR with sprained left knee
+35	2013-12-20	 Blue Jackets	 • Marian Gaborik	 	 activated from IR
+36	2013-12-21	 Blue Jackets	 	 • Marian Gaborik	 placed on IR with fractured collarbone
+37	2014-02-26	 Blue Jackets	 • Marian Gaborik	 	 activated from IR
+38	2014-10-14	 Kings	 	 • Marian Gaborik	 upper body injury (DTD)
+39	2014-11-02	 Kings	 • Marian Gaborik	 	 returned to lineup
+40	2014-11-29	 Kings	 	 • Marian Gaborik	 upper body injury (DTD)
+41	2014-12-09	 Kings	 • Marian Gaborik	 	 returned to lineup
+42	2014-12-29	 Kings	 	 • Marian Gaborik	 illness (DTD)
+43	2014-12-30	 Kings	 • Marian Gaborik	 	 returned to lineup
+44	2016-02-13	 Kings	 	 • Marian Gaborik	 placed on IR with knee injury (out for season)
+45	2016-10-06	 Kings	 	 • Marian Gaborik	 placed on IR with foot injury
+46	2016-11-26	 Kings	 • Marian Gaborik	 	 activated from IR
+47	2017-10-03	 Kings	 	 • Marian Gaborik	 placed on IR with knee injury
+48	2017-11-24	 Kings	 • Marian Gaborik	 	 activated from IR
+49	2018-01-30	 Kings	 	 • Marian Gaborik	 undisclosed (DTD)
+50	2018-02-01	 Kings	 • Marian Gaborik	 	 returned to lineup
+51	2018-03-01	 Senators	 	 • Marian Gaborik	 undisclosed (DTD)
+52	2018-03-05	 Senators	 • Marian Gaborik	 	 returned to lineup
+53	2018-03-24	 Senators	 	 • Marian Gaborik	 back injury (out for season)

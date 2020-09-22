@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-02-03	 Sharks	 	 • Joel Kellman	 placed on IR with lower body injury
+1	2020-02-14	 Sharks	 • Joel Kellman	 	 activated from IR

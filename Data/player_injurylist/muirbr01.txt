@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-11-17	 Lightning	 	 • Bryan Muir	 leg injury (out indefinitely)
+1	2000-10-02	 Lightning	 	 • Bryan Muir	 placed on IR
+2	2000-10-06	 Lightning	 • Bryan Muir	 	 activated from IR
+3	2005-10-13	 Capitals	 	 • Bryan Muir	 groin injury (DTD)
+4	2005-10-26	 Capitals	 • Bryan Muir	 	 returned to lineup
+5	2006-03-20	 Capitals	 	 • Bryan Muir	 flu (DTD)
+6	2006-03-22	 Capitals	 • Bryan Muir	 	 returned to lineup
+7	2006-12-22	 Capitals	 	 • Bryan Muir	 ankle injury (DTD)
+8	2006-12-23	 Capitals	 	 • Bryan Muir	 broken foot (out indefinitely)
+9	2007-02-27	 Capitals	 • Bryan Muir	 	 returned to lineup

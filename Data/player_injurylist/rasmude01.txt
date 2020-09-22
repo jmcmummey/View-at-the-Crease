@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-01-26	 Blackhawks	 	 • Dennis Rasmussen	 illness (DTD)
+1	2017-01-31	 Blackhawks	 • Dennis Rasmussen	 	 returned to lineup

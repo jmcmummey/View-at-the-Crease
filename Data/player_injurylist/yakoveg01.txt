@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-03-15	 Devils	 	 • Egor Yakovlev	 upper body injury (DTD)
+1	2019-03-19	 Devils	 • Egor Yakovlev	 	 returned to lineup
+2	2019-03-27	 Devils	 	 • Egor Yakovlev	 undisclosed (DTD)
+3	2019-03-30	 Devils	 • Egor Yakovlev	 	 returned to lineup

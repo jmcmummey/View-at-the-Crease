@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-01	 Sharks	 	 • Joe Pavelski	 foot injury (DTD)
+1	2007-02-21	 Sharks	 • Joe Pavelski	 	 returned to lineup
+2	2007-03-18	 Sharks	 	 • Joe Pavelski	 foot injury (DTD)
+3	2007-03-22	 Sharks	 • Joe Pavelski	 	 returned to lineup
+4	2008-12-13	 Sharks	 	 • Joe Pavelski	 lower body injury (DTD)
+5	2008-12-18	 Sharks	 • Joe Pavelski	 	 returned to lineup
+6	2009-10-05	 Sharks	 	 • Joe Pavelski	 foot injury (DTD)
+7	2009-11-07	 Sharks	 • Joe Pavelski	 	 activated from IR
+8	2010-12-29	 Sharks	 	 • Joe Pavelski	 lower body injury (DTD)
+9	2011-01-13	 Sharks	 • Joe Pavelski	 	 activated from IR
+10	2019-03-18	 Sharks	 	 • Joe Pavelski	 lower body injury (DTD)
+11	2019-04-02	 Sharks	 • Joe Pavelski	 	 returned to lineup
+12	2019-04-26	 Sharks	 	 • Joe Pavelski	 head injury (DTD)
+13	2019-05-08	 Sharks	 • Joe Pavelski	 	 returned to lineup
+14	2019-05-21	 Sharks	 	 • Joe Pavelski	 undisclosed (out for season)
+15	2020-02-11	 Stars	 	 • Joe Pavelski	 upper body injury (DTD)
+16	2020-02-15	 Stars	 • Joe Pavelski	 	 returned to lineup

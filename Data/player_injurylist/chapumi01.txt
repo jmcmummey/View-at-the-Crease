@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-02-24	 Canucks	 	 • Michael Chaput	 placed on IR with mumps
+1	2017-03-02	 Canucks	 • Michael Chaput	 	 activated from IR

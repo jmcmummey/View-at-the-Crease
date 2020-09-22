@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-17	 Canadiens	 	 • Tomas Plekanec	 knee injury (left game)
+1	2005-12-18	 Canadiens	 	 • Tomas Plekanec	 knee injury (DTD)
+2	2006-01-20	 Canadiens	 • Tomas Plekanec	 	 activated from IR
+3	2006-03-07	 Canadiens	 	 • Tomas Plekanec	 shoulder injury (DTD)
+4	2006-03-09	 Canadiens	 • Tomas Plekanec	 	 returned to lineup
+5	2007-01-07	 Canadiens	 	 • Tomas Plekanec	 gastrointestinal virus (DTD)
+6	2007-01-09	 Canadiens	 • Tomas Plekanec	 	 returned to lineup
+7	2008-03-09	 Canadiens	 	 • Tomas Plekanec	 virus (DTD)
+8	2008-03-11	 Canadiens	 • Tomas Plekanec	 	 returned to lineup
+9	2010-11-05	 Canadiens	 	 • Tomas Plekanec	 flu (DTD)
+10	2010-11-06	 Canadiens	 • Tomas Plekanec	 	 returned to lineup
+11	2011-03-16	 Canadiens	 	 • Tomas Plekanec	 lower body injury (DTD)
+12	2011-03-24	 Canadiens	 • Tomas Plekanec	 	 returned to lineup
+13	2012-02-21	 Canadiens	 	 • Tomas Plekanec	 flu (DTD)
+14	2012-02-24	 Canadiens	 • Tomas Plekanec	 	 returned to lineup
+15	2013-04-04	 Canadiens	 	 • Tomas Plekanec	 groin injury (DTD)
+16	2013-04-06	 Canadiens	 • Tomas Plekanec	 	 returned to lineup
+17	2017-03-07	 Canadiens	 	 • Tomas Plekanec	 upper body injury (DTD)
+18	2017-03-14	 Canadiens	 • Tomas Plekanec	 	 returned to lineup
+19	2017-04-08	 Canadiens	 	 • Tomas Plekanec	 undisclosed injury (out for season)
+20	2018-10-19	 Canadiens	 	 • Tomas Plekanec	 placed on IR with lower back injury
+21	2018-11-09	 Canadiens	 • Tomas Plekanec	 	 activated from IR

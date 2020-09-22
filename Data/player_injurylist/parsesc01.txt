@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-06	 Kings	 	 • Scott Parse	 placed on IR with groin injury
+1	2010-11-04	 Kings	 • Scott Parse	 	 activated from IR
+2	2010-11-16	 Kings	 	 • Scott Parse	 groin injury (out indefinitely)
+3	2010-11-18	 Kings	 	 • Scott Parse	 placed on IR with groin/hip injury
+4	2011-04-22	 Kings	 	 • Scott Parse	 surgery on hip (DTD)
+5	2011-04-22	 Kings	 • Scott Parse	 	 activated from IR
+6	2011-11-09	 Kings	 	 • Scott Parse	 placed on IR with lower body injury (out for season)

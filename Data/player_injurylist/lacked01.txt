@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-11-21	 Hurricanes	 	 • Eddie Lack	 placed on IR with concussion
+1	2016-12-21	 Hurricanes	 • Eddie Lack	 	 activated from IR
+2	2016-12-31	 Hurricanes	 	 • Eddie Lack	 concussion / illness (DTD)
+3	2017-01-04	 Hurricanes	 	 • Eddie Lack	 placed on IR with concussion
+4	2017-01-26	 Hurricanes	 • Eddie Lack	 	 activated from IR
+5	2017-03-28	 Hurricanes	 	 • Eddie Lack	 strained neck (DTD)
+6	2017-04-01	 Hurricanes	 • Eddie Lack	 	 returned to lineup

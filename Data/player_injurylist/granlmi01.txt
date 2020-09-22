@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-23	 Wild	 	 • Mikael Granlund	 upper body injury (DTD)
+1	2013-11-27	 Wild	 • Mikael Granlund	 	 returned to lineup
+2	2013-11-28	 Wild	 	 • Mikael Granlund	 placed on IR with head injury
+3	2013-12-22	 Wild	 • Mikael Granlund	 	 activated from IR
+4	2014-04-01	 Wild	 	 • Mikael Granlund	 upper body injury (DTD)
+5	2014-04-17	 Wild	 • Mikael Granlund	 	 returned to lineup
+6	2014-12-20	 Wild	 	 • Mikael Granlund	 illness (DTD)
+7	2014-12-23	 Wild	 • Mikael Granlund	 	 returned to lineup
+8	2014-12-28	 Wild	 	 • Mikael Granlund	 placed on IR with wrist injury
+9	2015-01-27	 Wild	 • Mikael Granlund	 	 activated from IR
+10	2017-10-07	 Wild	 	 • Mikael Granlund	 groin injury (DTD)
+11	2017-10-24	 Wild	 • Mikael Granlund	 	 returned to lineup
+12	2019-12-03	 Predators	 	 • Mikael Granlund	 lower body injury (DTD)
+13	2019-12-10	 Predators	 • Mikael Granlund	 	 returned to lineup
+14	2019-12-14	 Predators	 	 • Mikael Granlund	 lower body injury (DTD)
+15	2019-12-21	 Predators	 • Mikael Granlund	 	 returned to lineup

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-01-09	 Blues	 	 • Jake Allen	 placed on IR with knee injury
+1	2016-02-21	 Blues	 • Jake Allen	 	 activated from IR
+2	2016-04-04	 Blues	 	 • Jake Allen	 lower body injury (out for season)
+3	2016-10-09	 Blues	 	 • Jake Allen	 lower body injury (DTD)

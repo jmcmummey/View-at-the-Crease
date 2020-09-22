@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-20	 Panthers	 	 • Alex Auld	 left knee injury (DTD)
+1	2011-10-29	 Senators	 	 • Alex Auld	 placed on IR with undisclosed injury
+2	2011-11-04	 Senators	 • Alex Auld	 	 activated from IR

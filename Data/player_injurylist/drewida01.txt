@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-01-05	 Kings	 	 • Davis Drewiske	 shoulder injury (out indefinitely)
+1	2010-01-10	 Kings	 	 • Davis Drewiske	 placed on IR with shoulder injury
+2	2010-02-08	 Kings	 • Davis Drewiske	 	 activated from IR
+3	2013-09-19	 Canadiens	 	 • Davis Drewiske	 shoulder injury (DTD)
+4	2013-09-30	 Canadiens	 	 • Davis Drewiske	 placed on IR with shoulder injury
+5	2014-03-03	 Canadiens	 • Davis Drewiske	 	 activated from IR

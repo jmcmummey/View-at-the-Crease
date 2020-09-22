@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-01	 Flyers	 	 • Andy Welinski	 placed on injured/non-roster list with lower body injury
+1	2019-10-15	 Flyers	 • Andy Welinski	 	 activated from injured/non-roster list

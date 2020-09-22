@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-12-11	 Bruins	 	 • Tyler Seguin	 flu (DTD)
+1	2010-12-16	 Bruins	 • Tyler Seguin	 	 returned to lineup
+2	2013-12-01	 Stars	 	 • Tyler Seguin	 concussion (CBC) / concussion-like symptoms (T) (DTD)
+3	2013-12-05	 Stars	 • Tyler Seguin	 	 returned to lineup
+4	2015-02-13	 Stars	 	 • Tyler Seguin	 placed on IR with sprained right knee
+5	2015-03-07	 Stars	 • Tyler Seguin	 	 activated from IR
+6	2016-03-18	 Stars	 	 • Tyler Seguin	 Achilles injury (DTD)
+7	2016-04-16	 Stars	 • Tyler Seguin	 	 returned to lineup
+8	2016-04-18	 Stars	 	 • Tyler Seguin	 Achilles injury (out for season)
+9	2016-09-30	 Stars	 	 • Tyler Seguin	 heel injury (DTD)
+10	2019-11-07	 Stars	 	 • Tyler Seguin	 upper body injury (DTD)
+11	2020-08-09	 Stars	 	 • Tyler Seguin	 undisclosed (DTD)
+12	2020-08-11	 Stars	 • Tyler Seguin	 	 returned to lineup

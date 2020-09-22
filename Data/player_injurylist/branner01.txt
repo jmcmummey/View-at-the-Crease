@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-11-19	 Senators	 	 • Erik Brannstrom	 undisclosed (DTD)
+1	2019-11-19	 Senators	 	 • Erik Brannstrom	 placed on IR with hand injury
+2	2019-11-27	 Senators	 • Erik Brannstrom	 	 activated from IR

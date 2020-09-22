@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-05	 Sabres	 	 • Rory Fitzpatrick	 infection (DTD)
+1	2006-01-07	 Sabres	 	 • Rory Fitzpatrick	 placed on IR with systemic infection
+2	2006-01-26	 Sabres	 • Rory Fitzpatrick	 	 returned to lineup (activated from IR?)
+3	2006-11-09	 Canucks	 	 • Rory Fitzpatrick	 hairline fracture in left foot (out 4-6 weeks)
+4	2006-12-14	 Canucks	 • Rory Fitzpatrick	 	 returned to lineup
+5	2008-01-16	 Flyers	 	 • Rory Fitzpatrick	 placed on IR with sports hernia (out indefinitely)

@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-09-21	 Canucks	 	 • Jannik Hansen	 broken thumb (out indefinitely)
+1	2008-11-02	 Canucks	 	 • Jannik Hansen	 groin injury (DTD)
+2	2008-11-12	 Canucks	 • Jannik Hansen	 	 returned to lineup
+3	2009-02-20	 Canucks	 	 • Jannik Hansen	 broken pinky finger (DTD)
+4	2009-02-22	 Canucks	 	 • Jannik Hansen	 placed on IR with broken pinky finger
+5	2009-03-26	 Canucks	 • Jannik Hansen	 	 activated from IR
+6	2009-09-29	 Canucks	 	 • Jannik Hansen	 right hand injury (out indefinitely)
+7	2009-09-30	 Canucks	 	 • Jannik Hansen	 placed on IR with right hand injury
+8	2009-11-12	 Canucks	 • Jannik Hansen	 	 activated from IR
+9	2013-10-23	 Canucks	 	 • Jannik Hansen	 placed on IR with upper body injury
+10	2013-11-17	 Canucks	 • Jannik Hansen	 	 activated from IR
+11	2014-12-22	 Canucks	 	 • Jannik Hansen	 upper body injury (DTD)
+12	2014-12-28	 Canucks	 • Jannik Hansen	 	 returned to lineup
+13	2016-01-08	 Canucks	 	 • Jannik Hansen	 placed on IR with upper body injury
+14	2016-01-17	 Canucks	 • Jannik Hansen	 	 activated from IR
+15	2016-03-01	 Canucks	 	 • Jannik Hansen	 undisclosed injury (DTD)
+16	2016-03-24	 Canucks	 • Jannik Hansen	 	 returned to lineup
+17	2016-11-07	 Canucks	 	 • Jannik Hansen	 placed on IR with shoulder injury / fractured ribs
+18	2016-12-11	 Canucks	 • Jannik Hansen	 	 activated from IR
+19	2016-12-23	 Canucks	 	 • Jannik Hansen	 knee injury (DTD)
+20	2016-12-23	 Canucks	 	 • Jannik Hansen	 placed on IR with knee injury
+21	2016-12-28	 Canucks	 	 • Jannik Hansen	 placed on IR with knee injury
+22	2017-02-04	 Canucks	 • Jannik Hansen	 	 activated from IR
+23	2017-03-01	 Sharks	 	 • Jannik Hansen	 visa issues (DTD)
+24	2017-03-08	 Sharks	 • Jannik Hansen	 	 visa issues resolved
+25	2017-03-20	 Sharks	 	 • Jannik Hansen	 upper body injury (DTD)
+26	2017-03-24	 Sharks	 • Jannik Hansen	 	 returned to lineup

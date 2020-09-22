@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-11-28	 Bruins	 	 • Jake DeBrusk	 upper body injury (DTD)
+1	2017-12-02	 Bruins	 	 • Jake DeBrusk	 placed on IR with upper body injury
+2	2017-12-07	 Bruins	 • Jake DeBrusk	 	 activated from IR
+3	2018-03-15	 Bruins	 	 • Jake DeBrusk	 upper body injury (DTD)
+4	2018-03-30	 Bruins	 • Jake DeBrusk	 	 returned to lineup
+5	2018-12-08	 Bruins	 	 • Jake DeBrusk	 concussion (DTD)
+6	2018-12-27	 Bruins	 • Jake DeBrusk	 	 returned to lineup
+7	2019-03-07	 Bruins	 	 • Jake DeBrusk	 foot injury (DTD)
+8	2019-03-16	 Bruins	 • Jake DeBrusk	 	 returned to lineup
+9	2019-11-07	 Bruins	 	 • Jake DeBrusk	 lower body injury (DTD)
+10	2019-11-11	 Bruins	 	 • Jake DeBrusk	 placed on IR with lower body injury
+11	2019-11-19	 Bruins	 • Jake DeBrusk	 	 activated from IR

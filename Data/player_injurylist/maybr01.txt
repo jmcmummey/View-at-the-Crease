@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-10-31	 Canucks	 	 • Brad May	 placed on IR with strained groin
+1	2002-10-06	 Coyotes	 	 • Brad May	 shoulder injury (out indefinitely)
+2	2005-10-05	 Avalanche	 	 • Brad May	 groin injury (DTD)
+3	2005-10-19	 Avalanche	 • Brad May	 	 returned to lineup
+4	2005-12-04	 Avalanche	 	 • Brad May	 groin injury (DTD)
+5	2005-12-07	 Avalanche	 • Brad May	 	 returned to lineup
+6	2005-12-31	 Avalanche	 	 • Brad May	 sprained knee
+7	2006-01-02	 Avalanche	 	 • Brad May	 placed on IR with sprained knee
+8	2006-01-28	 Avalanche	 • Brad May	 	 activated from IR
+9	2006-03-04	 Avalanche	 	 • Brad May	 leg injury (DTD)
+10	2006-03-07	 Avalanche	 • Brad May	 	 returned to lineup
+11	2006-04-08	 Avalanche	 	 • Brad May	 groin injury (DTD)
+12	2006-04-30	 Avalanche	 • Brad May	 	 returned to lineup
+13	2006-10-03	 Avalanche	 	 • Brad May	 placed on IR with surgery on shoulder
+14	2007-02-08	 Avalanche	 • Brad May	 	 activated from IR
+15	2007-03-02	 Ducks	 	 • Brad May	 lower body injury (DTD)
+16	2007-03-08	 Ducks	 • Brad May	 	 returned to lineup
+17	2007-03-16	 Ducks	 	 • Brad May	 groin injury (DTD)
+18	2007-03-22	 Ducks	 • Brad May	 	 returned to lineup
+19	2007-12-18	 Ducks	 	 • Brad May	 broken right foot (out indefinitely)
+20	2008-01-13	 Ducks	 • Brad May	 	 returned to lineup
+21	2008-10-31	 Ducks	 	 • Brad May	 sprained knee (DTD)
+22	2008-11-14	 Ducks	 • Brad May	 	 returned to lineup
+23	2008-12-14	 Ducks	 	 • Brad May	 right knee injury (DTD)
+24	2008-12-23	 Ducks	 • Brad May	 	 returned to lineup
+25	2009-04-07	 Maple Leafs	 	 • Brad May	 undisclosed injury (DTD)
+26	2009-11-01	 Red Wings	 	 • Brad May	 right eye injury (DTD)
+27	2009-11-07	 Red Wings	 • Brad May	 	 returned to lineup
+28	2010-01-02	 Red Wings	 	 • Brad May	 lower body injury (DTD)
+29	2010-01-05	 Red Wings	 • Brad May	 	 returned to lineup

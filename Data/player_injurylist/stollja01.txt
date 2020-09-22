@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-19	 Oilers	 	 • Jarret Stoll	 broken nose (DTD)
+1	2007-01-26	 Oilers	 • Jarret Stoll	 	 returned to lineup
+2	2007-02-03	 Oilers	 	 • Jarret Stoll	 concussion (DTD)
+3	2009-03-28	 Kings	 	 • Jarret Stoll	 groin injury (out for season)
+4	2009-11-21	 Kings	 	 • Jarret Stoll	 lower body injury (DTD)
+5	2009-11-28	 Kings	 • Jarret Stoll	 	 returned to lineup
+6	2009-12-14	 Kings	 	 • Jarret Stoll	 groin injury (DTD)
+7	2009-12-26	 Kings	 	 • Jarret Stoll	 placed on IR with groin injury
+8	2010-01-04	 Kings	 • Jarret Stoll	 	 activated from IR
+9	2012-02-10	 Kings	 	 • Jarret Stoll	 placed on IR with lower body injury
+10	2012-02-21	 Kings	 • Jarret Stoll	 	 activated from IR
+11	2013-05-16	 Kings	 	 • Jarret Stoll	 upper body injury (DTD)
+12	2013-06-01	 Kings	 • Jarret Stoll	 	 returned to lineup
+13	2013-11-03	 Kings	 	 • Jarret Stoll	 upper body injury (DTD)
+14	2013-11-15	 Kings	 • Jarret Stoll	 	 returned to lineup
+15	2015-03-14	 Kings	 	 • Jarret Stoll	 upper body injury (DTD)
+16	2015-04-02	 Kings	 • Jarret Stoll	 	 returned to lineup

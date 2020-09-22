@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-03	 Coyotes	 	 • Jason Chimera	 rib injury (out indefinitely)
+1	2005-10-04	 Coyotes	 	 • Jason Chimera	 placed on IR with strained oblique
+2	2005-10-09	 Blue Jackets	 • Jason Chimera	 	 activated from IR
+3	2008-11-05	 Blue Jackets	 	 • Jason Chimera	 chest injury (left game)
+4	2008-12-18	 Blue Jackets	 	 • Jason Chimera	 placed on IR with groin injury
+5	2009-01-27	 Blue Jackets	 • Jason Chimera	 	 activated from IR
+6	2009-02-21	 Blue Jackets	 	 • Jason Chimera	 groin injury (DTD)
+7	2009-02-24	 Blue Jackets	 • Jason Chimera	 	 returned to lineup
+8	2009-03-02	 Blue Jackets	 	 • Jason Chimera	 placed on IR with groin injury
+9	2009-04-03	 Blue Jackets	 • Jason Chimera	 	 activated from IR
+10	2009-09-20	 Blue Jackets	 	 • Jason Chimera	 head injury (out indefinitely)
+11	2010-02-10	 Capitals	 	 • Jason Chimera	 groin injury (DTD)
+12	2010-03-03	 Capitals	 • Jason Chimera	 	 returned to lineup

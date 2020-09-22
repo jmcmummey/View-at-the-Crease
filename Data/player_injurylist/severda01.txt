@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-12-17	 Devils	 	 • Damon Severson	 fractured ankle (out indefinitely)
+1	2014-12-18	 Devils	 	 • Damon Severson	 placed on IR with fractured ankle
+2	2015-03-03	 Devils	 • Damon Severson	 	 activated from IR
+3	2016-03-10	 Devils	 	 • Damon Severson	 undisclosed injury (DTD)
+4	2016-03-17	 Devils	 • Damon Severson	 	 returned to lineup
+5	2017-03-05	 Devils	 	 • Damon Severson	 upper body injury (DTD)
+6	2017-03-07	 Devils	 • Damon Severson	 	 returned to lineup

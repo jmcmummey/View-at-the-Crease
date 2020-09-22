@@ -1,0 +1,60 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-01-22	 Stars	 	 • Tom Wandell	 lower body injury (DTD)
+1	2010-01-28	 Stars	 	 • Tom Wandell	 placed on IR recovering from surgery on left knee (out for season)
+2	2010-12-26	 Stars	 	 • Tom Wandell	 illness (DTD)
+3	2010-12-29	 Stars	 • Tom Wandell	 	 returned to lineup
+4	2011-01-02	 Wild	 	 • Marco Scandella	 illness (DTD)
+5	2011-01-06	 Wild	 • Marco Scandella	 	 returned to lineup
+6	2011-01-16	 Wild	 	 • Marco Scandella	 concussion (DTD)
+7	2011-01-25	 Stars	 	 • Tom Wandell	 shoulder injury (DTD)
+8	2011-02-02	 Stars	 	 • Tom Wandell	 placed on IR with shoulder injury
+9	2011-02-09	 Stars	 • Tom Wandell	 	 activated from IR
+10	2011-03-10	 Wild	 • Marco Scandella	 	 returned to lineup
+11	2011-03-20	 Wild	 	 • Marco Scandella	 finger injury (out for season)
+12	2011-11-13	 Wild	 	 • Marco Scandella	 concussion (DTD)
+13	2011-11-18	 Wild	 	 • Marco Scandella	 placed on IR with concussion
+14	2011-11-23	 Wild	 • Marco Scandella	 	 activated from IR
+15	2012-03-30	 Stars	 	 • Tom Wandell	 illness (DTD)
+16	2012-03-31	 Wild	 	 • Marco Scandella	 upper body injury (DTD)
+17	2012-04-01	 Wild	 • Marco Scandella	 	 returned to lineup
+18	2012-04-05	 Stars	 • Tom Wandell	 	 returned to lineup
+19	2013-01-19	 Wild	 	 • Marco Scandella	 placed on IR with groin injury
+20	2014-02-05	 Wild	 	 • Marco Scandella	 sprained knee (DTD)
+21	2014-02-26	 Wild	 	 • Marco Scandella	 placed on IR with sprained knee
+22	2014-03-03	 Wild	 • Marco Scandella	 	 activated from IR
+23	2014-10-06	 Jets	 	 • Eric O'Dell	 placed on IR with upper body injury
+24	2014-11-13	 Wild	 	 • Marco Scandella	 illness (DTD)
+25	2014-11-16	 Wild	 • Marco Scandella	 	 returned to lineup
+26	2015-01-07	 Wild	 	 • Marco Scandella	 upper body injury (DTD)
+27	2015-01-14	 Wild	 	 • Marco Scandella	 placed on IR with upper body injury
+28	2015-01-17	 Wild	 • Marco Scandella	 	 activated from IR
+29	2015-03-03	 Wild	 	 • Marco Scandella	 oblique injury (DTD)
+30	2015-03-21	 Wild	 • Marco Scandella	 	 returned to lineup
+31	2015-11-19	 Wild	 	 • Marco Scandella	 placed on IR with lower body injury
+32	2015-12-01	 Wild	 • Marco Scandella	 	 activated from IR
+33	2016-02-17	 Wild	 	 • Marco Scandella	 upper body injury (DTD)
+34	2016-02-21	 Wild	 • Marco Scandella	 	 returned to lineup
+35	2016-10-20	 Wild	 	 • Marco Scandella	 illness (DTD)
+36	2016-10-22	 Wild	 • Marco Scandella	 	 returned to lineup
+37	2016-10-28	 Wild	 	 • Marco Scandella	 lower body injury (DTD)
+38	2016-11-09	 Wild	 	 • Marco Scandella	 placed on IR with lower body injury
+39	2016-11-23	 Wild	 • Marco Scandella	 	 activated from IR
+40	2018-03-05	 Stars	 	 • Esa Lindell	 illness (DTD)
+41	2018-03-09	 Stars	 • Esa Lindell	 	 returned to lineup
+42	2018-11-21	 Sabres	 	 • Marco Scandella	 lower body injury (DTD)
+43	2018-11-23	 Sabres	 • Marco Scandella	 	 returned to lineup
+44	2018-11-30	 Sabres	 	 • Marco Scandella	 placed on IR with vertigo
+45	2018-12-15	 Sabres	 • Marco Scandella	 	 activated from IR
+46	2019-02-17	 Sabres	 	 • Marco Scandella	 upper body injury (out indefinitely)
+47	2019-02-17	 Sabres	 	 • Marco Scandella	 placed on IR with upper body injury
+48	2019-02-25	 Sabres	 • Marco Scandella	 	 activated from IR
+49	2019-02-28	 Sabres	 	 • Marco Scandella	 lower body injury (DTD)
+50	2019-03-02	 Sabres	 • Marco Scandella	 	 returned to lineup
+51	2019-03-15	 Sabres	 	 • Marco Scandella	 upper body injury (DTD)
+52	2019-03-17	 Sabres	 • Marco Scandella	 	 returned to lineup
+53	2019-03-31	 Sabres	 	 • Marco Scandella	 lower body injury (out for season)
+54	2019-10-25	 Sabres	 	 • Marco Scandella	 lower body injury (DTD)
+55	2019-11-03	 Sabres	 	 • Marco Scandella	 placed on IR with lower body injury
+56	2019-11-14	 Sabres	 • Marco Scandella	 	 activated from IR
+57	2019-12-27	 Sabres	 	 • Marco Scandella	 illness (DTD)
+58	2019-12-31	 Sabres	 • Marco Scandella	 	 returned to lineup

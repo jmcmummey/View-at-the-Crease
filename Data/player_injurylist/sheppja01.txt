@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-09-16	 Wild	 	 • James Sheppard	 surgery on knee (out indefinitely)
+1	2010-10-06	 Wild	 	 • James Sheppard	 placed on injured/non-roster list recovering from surgery on left knee
+2	2011-10-05	 Sharks	 	 • James Sheppard	 placed on IR with surgery on left knee (out for season)
+3	2013-02-15	 Sharks	 	 • James Sheppard	 placed on IR with lower body injury
+4	2013-02-23	 Sharks	 • James Sheppard	 	 activated from IR
+5	2014-10-06	 Sharks	 	 • James Sheppard	 placed on IR with knee injury
+6	2014-10-21	 Sharks	 • James Sheppard	 	 activated from IR

@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-15	 Rangers	 	 • Marc Staal	 flu (DTD)
+1	2008-02-19	 Rangers	 • Marc Staal	 	 returned to lineup
+2	2011-02-22	 Rangers	 	 • Marc Staal	 knee injury (DTD)
+3	2011-03-03	 Rangers	 • Marc Staal	 	 returned to lineup
+4	2011-03-20	 Rangers	 	 • Marc Staal	 undisclosed injury (DTD)
+5	2011-10-03	 Rangers	 	 • Marc Staal	 placed on IR with concussion
+6	2012-01-02	 Rangers	 • Marc Staal	 	 activated from IR
+7	2013-03-06	 Rangers	 	 • Marc Staal	 eye injury (DTD)
+8	2013-03-11	 Rangers	 	 • Marc Staal	 placed on IR with facial injury
+9	2013-05-06	 Rangers	 • Marc Staal	 	 activated from IR
+10	2013-05-08	 Rangers	 	 • Marc Staal	 eye injury (out for season)
+11	2013-12-08	 Rangers	 	 • Marc Staal	 neck injury (DTD)
+12	2013-12-11	 Rangers	 	 • Marc Staal	 placed on IR with concussion
+13	2014-01-01	 Rangers	 • Marc Staal	 	 activated from IR
+14	2015-04-09	 Rangers	 	 • Marc Staal	 general soreness (out for season)
+15	2016-02-23	 Rangers	 	 • Marc Staal	 lower body injury (DTD)
+16	2016-02-25	 Rangers	 • Marc Staal	 	 returned to lineup
+17	2016-03-03	 Rangers	 	 • Marc Staal	 illness (DTD)
+18	2016-03-04	 Rangers	 • Marc Staal	 	 returned to lineup
+19	2016-03-06	 Rangers	 	 • Marc Staal	 back spasms (DTD)
+20	2016-03-11	 Rangers	 • Marc Staal	 	 returned to lineup
+21	2017-01-04	 Rangers	 	 • Marc Staal	 upper body injury (DTD)
+22	2017-01-31	 Rangers	 • Marc Staal	 	 returned to lineup
+23	2018-01-17	 Rangers	 	 • Marc Staal	 hip injury (DTD)
+24	2018-01-21	 Rangers	 • Marc Staal	 	 returned to lineup
+25	2018-02-05	 Rangers	 	 • Marc Staal	 cervical strain (DTD)
+26	2018-02-09	 Rangers	 	 • Marc Staal	 placed on IR with cervical strain
+27	2018-02-21	 Rangers	 • Marc Staal	 	 activated from IR
+28	2019-03-09	 Rangers	 	 • Marc Staal	 flu (DTD)
+29	2019-03-11	 Rangers	 • Marc Staal	 	 returned to lineup
+30	2019-03-21	 Rangers	 	 • Marc Staal	 lower body injury (DTD)
+31	2019-03-25	 Rangers	 	 • Marc Staal	 lower body injury (DTD)
+32	2019-03-29	 Rangers	 • Marc Staal	 	 returned to lineup
+33	2019-11-09	 Rangers	 	 • Marc Staal	 surgery on ankle (out indefinitely)
+34	2019-12-06	 Rangers	 • Marc Staal	 	 returned to lineup
+35	2020-01-11	 Rangers	 	 • Marc Staal	 upper body injury (DTD)
+36	2020-01-13	 Rangers	 • Marc Staal	 	 returned to lineup
+37	2020-02-13	 Rangers	 	 • Marc Staal	 illness (DTD)
+38	2020-02-14	 Rangers	 • Marc Staal	 	 returned to lineup

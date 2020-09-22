@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-11	 Hurricanes	 	 • Andrew Hutchinson	 placed on IR with hip injury
+1	2005-11-25	 Hurricanes	 • Andrew Hutchinson	 	 returned to lineup
+2	2006-02-01	 Hurricanes	 	 • Andrew Hutchinson	 surgery on wrist (out until early Apr)
+3	2006-02-02	 Hurricanes	 	 • Andrew Hutchinson	 placed on IR with wrist injury
+4	2006-03-31	 Hurricanes	 • Andrew Hutchinson	 	 activated from IR

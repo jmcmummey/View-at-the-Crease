@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-14	 Red Wings	 	 • Brian Rafalski	 groin injury (DTD)
+1	2008-02-20	 Red Wings	 	 • Brian Rafalski	 placed on IR with groin injury
+2	2008-03-04	 Red Wings	 • Brian Rafalski	 	 activated from IR
+3	2008-04-06	 Red Wings	 	 • Brian Rafalski	 rest (DTD)
+4	2008-04-10	 Red Wings	 • Brian Rafalski	 	 returned to lineup
+5	2009-03-29	 Red Wings	 	 • Brian Rafalski	 groin injury (DTD)
+6	2009-04-09	 Red Wings	 • Brian Rafalski	 	 returned to lineup
+7	2009-05-01	 Red Wings	 	 • Brian Rafalski	 upper body injury (DTD)
+8	2009-05-12	 Red Wings	 • Brian Rafalski	 	 returned to lineup
+9	2009-11-03	 Red Wings	 	 • Brian Rafalski	 illness/flu (DTD)
+10	2009-11-05	 Red Wings	 • Brian Rafalski	 	 returned to lineup
+11	2009-12-03	 Red Wings	 	 • Brian Rafalski	 back injury (DTD)
+12	2009-12-06	 Red Wings	 • Brian Rafalski	 	 returned to lineup
+13	2009-12-23	 Red Wings	 	 • Brian Rafalski	 flu (DTD)
+14	2009-12-26	 Red Wings	 • Brian Rafalski	 	 returned to lineup
+15	2010-10-12	 Red Wings	 	 • Brian Rafalski	 knee injury (out indefinitely)
+16	2010-11-08	 Red Wings	 • Brian Rafalski	 	 activated from IR
+17	2010-12-27	 Red Wings	 	 • Brian Rafalski	 back injury (DTD)
+18	2010-12-29	 Red Wings	 • Brian Rafalski	 	 returned to lineup
+19	2011-02-25	 Red Wings	 	 • Brian Rafalski	 back spasms (DTD)
+20	2011-03-16	 Red Wings	 • Brian Rafalski	 	 returned to lineup

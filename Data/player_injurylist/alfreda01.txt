@@ -1,0 +1,52 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-30	 Senators	 	 • Daniel Alfredsson	 hip injury (left game)
+1	2005-12-31	 Senators	 	 • Daniel Alfredsson	 cracked ribs (out indefinitely)
+2	2006-01-10	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+3	2006-04-03	 Senators	 	 • Daniel Alfredsson	 flu (DTD)
+4	2006-04-05	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+5	2006-12-06	 Senators	 	 • Daniel Alfredsson	 lower body injury (out 1-2 weeks)
+6	2006-12-16	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+7	2007-11-23	 Senators	 	 • Daniel Alfredsson	 groin injury (DTD)
+8	2007-11-28	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+9	2008-01-19	 Senators	 	 • Daniel Alfredsson	 hip flexor injurhy (DTD)
+10	2008-01-22	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+11	2008-01-30	 Senators	 	 • Daniel Alfredsson	 hip injury (DTD)
+12	2008-02-09	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+13	2008-03-05	 Senators	 	 • Daniel Alfredsson	 upper body injury (DTD)
+14	2008-03-13	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+15	2008-04-04	 Senators	 	 • Daniel Alfredsson	 head & knee injuries (out indefinitely)
+16	2008-04-14	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+17	2008-10-10	 Senators	 	 • Daniel Alfredsson	 right knee injury (out indefinitely)
+18	2008-10-17	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+19	2008-12-20	 Senators	 	 • Daniel Alfredsson	 upper body injury (DTD)
+20	2009-02-19	 Senators	 	 • Daniel Alfredsson	 broken jaw (DTD)
+21	2009-02-21	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+22	2009-12-23	 Senators	 	 • Daniel Alfredsson	 separated left shoulder (out indefinitely)
+23	2010-01-16	 Senators	 • Daniel Alfredsson	 	 activated from IR
+24	2010-03-06	 Senators	 	 • Daniel Alfredsson	 flu (DTD)
+25	2010-03-09	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+26	2011-02-09	 Senators	 	 • Daniel Alfredsson	 lower back injury (DTD)
+27	2011-02-18	 Senators	 	 • Daniel Alfredsson	 placed on IR with back injury (out for season)
+28	2011-03-03	 Senators	 	 • Daniel Alfredsson	 lower back injury (out for season) (Y)
+29	2011-10-24	 Senators	 	 • Daniel Alfredsson	 right hip flexor injury (DTD)
+30	2011-10-27	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+31	2011-10-29	 Senators	 	 • Daniel Alfredsson	 head injury (left game)
+32	2011-10-30	 Senators	 	 • Daniel Alfredsson	 placed on IR with head injury / concussion (CBC)
+33	2011-11-11	 Senators	 • Daniel Alfredsson	 	 activated from IR
+34	2012-04-01	 Senators	 	 • Daniel Alfredsson	 flu (DTD)
+35	2012-04-03	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+36	2012-04-15	 Senators	 	 • Daniel Alfredsson	 concussion (DTD)
+37	2012-04-23	 Senators	 • Daniel Alfredsson	 	 returned to lineup
+38	2013-01-27	 Senators	 	 • Daniel Alfredsson	 illness (DTD)
+39	2013-11-15	 Red Wings	 	 • Daniel Alfredsson	 sore/strained groin (DTD)
+40	2013-11-24	 Red Wings	 • Daniel Alfredsson	 	 returned to lineup
+41	2013-12-30	 Red Wings	 	 • Daniel Alfredsson	 upper body injury (DTD)
+42	2014-01-01	 Red Wings	 • Daniel Alfredsson	 	 returned to lineup
+43	2014-01-11	 Red Wings	 	 • Daniel Alfredsson	 back spasms (DTD)
+44	2014-01-22	 Red Wings	 	 • Daniel Alfredsson	 placed on IR with back spasms
+45	2014-01-24	 Red Wings	 • Daniel Alfredsson	 	 activated from IR
+46	2014-04-02	 Red Wings	 	 • Daniel Alfredsson	 lower body injury (DTD)
+47	2014-04-04	 Red Wings	 • Daniel Alfredsson	 	 returned to lineup
+48	2014-04-13	 Red Wings	 	 • Daniel Alfredsson	 back injury (DTD)
+49	2014-04-18	 Red Wings	 • Daniel Alfredsson	 	 returned to lineup
+50	2014-04-22	 Red Wings	 	 • Daniel Alfredsson	 back injury (out for season)

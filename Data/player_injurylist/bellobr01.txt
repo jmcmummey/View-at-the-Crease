@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-09-01	 North Stars	 	 • Brian Bellows	 bruised left knee (date approximate)
+1	1990-12-18	 North Stars	 	 • Brian Bellows	 strained hip & groin
+2	1992-12-03	 Canadiens	 	 • Brian Bellows	 neck injury (DTD)
+3	1993-11-20	 Canadiens	 	 • Brian Bellows	 rib cage injury (DTD)
+4	1995-02-18	 Canadiens	 	 • Brian Bellows	 separated shoulder (DTD)
+5	1996-01-03	 Lightning	 	 • Brian Bellows	 groin injury (DTD)
+6	1996-03-21	 Lightning	 	 • Brian Bellows	 hip pointed (DTD)

@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-30	 Flyers	 	 • Samuel Morin	 placed on IR with undisclosed injury
+1	2018-10-02	 Flyers	 	 • Samuel Morin	 placed on IR with knee injury
+2	2019-02-26	 Flyers	 • Samuel Morin	 	 activated from IR
+3	2019-03-19	 Flyers	 	 • Samuel Morin	 illness (DTD)
+4	2019-03-21	 Flyers	 • Samuel Morin	 	 returned to lineup
+5	2019-11-07	 Flyers	 	 • Samuel Morin	 torn ACL in right knee (out for season)
+6	2019-11-07	 Flyers	 	 • Samuel Morin	 placed on IR with torn ACL in right knee (out for season)

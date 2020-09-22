@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-07	 Lightning	 	 • J.T. Brown	 upper body injury (DTD)
+1	2014-01-10	 Lightning	 • J.T. Brown	 	 returned to lineup
+2	2014-10-25	 Lightning	 	 • J.T. Brown	 upper body injury (DTD)
+3	2014-10-28	 Lightning	 • J.T. Brown	 	 returned to lineup
+4	2015-02-24	 Lightning	 	 • J.T. Brown	 illness (DTD)
+5	2015-03-05	 Lightning	 	 • J.T. Brown	 upper body injury (DTD)
+6	2015-03-12	 Lightning	 • J.T. Brown	 	 returned to lineup
+7	2015-12-20	 Lightning	 	 • J.T. Brown	 upper body injury (DTD)
+8	2015-12-26	 Lightning	 • J.T. Brown	 	 returned to lineup
+9	2016-04-16	 Lightning	 	 • J.T. Brown	 upper body injury (DTD)
+10	2016-05-13	 Lightning	 • J.T. Brown	 	 returned to lineup
+11	2016-11-23	 Lightning	 	 • J.T. Brown	 upper body injury (DTD)
+12	2016-11-29	 Lightning	 • J.T. Brown	 	 returned to lineup
+13	2017-01-08	 Lightning	 	 • J.T. Brown	 placed on IR with upper body injury
+14	2017-01-24	 Lightning	 • J.T. Brown	 	 activated from IR
+15	2017-04-04	 Lightning	 	 • J.T. Brown	 undisclosed injury (DTD)
+16	2017-04-09	 Lightning	 • J.T. Brown	 	 returned to lineup
+17	2017-11-24	 Lightning	 	 • J.T. Brown	 illness (DTD)
+18	2017-11-29	 Lightning	 • J.T. Brown	 	 returned to lineup
+19	2019-04-06	 Wild	 	 • J.T. Brown	 illness (out for season)

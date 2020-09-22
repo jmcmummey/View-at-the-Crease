@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-12-05	 Islanders	 	 • Trent Hunter	 sprained knee (DTD)
+1	2006-12-19	 Islanders	 • Trent Hunter	 	 returned to lineup
+2	2008-12-19	 Islanders	 	 • Trent Hunter	 groin injury (DTD)
+3	2008-12-19	 Islanders	 	 • Trent Hunter	 illness (DTD)
+4	2008-12-23	 Islanders	 • Trent Hunter	 	 returned to lineup
+5	2008-12-31	 Islanders	 	 • Trent Hunter	 upper body injury (DTD)
+6	2009-01-02	 Islanders	 • Trent Hunter	 	 returned to lineup
+7	2009-01-19	 Islanders	 	 • Trent Hunter	 placed on IR with hand injury
+8	2009-01-29	 Islanders	 • Trent Hunter	 	 activated from IR
+9	2009-02-11	 Islanders	 	 • Trent Hunter	 hip flexor injury (DTD)
+10	2009-02-19	 Islanders	 • Trent Hunter	 	 returned to lineup
+11	2009-03-02	 Islanders	 	 • Trent Hunter	 leg injury (DTD)
+12	2009-03-05	 Islanders	 • Trent Hunter	 	 returned to lineup
+13	2009-03-08	 Islanders	 	 • Trent Hunter	 fractured ankle (out for season)
+14	2009-09-30	 Islanders	 	 • Trent Hunter	 placed on IR with torn pectoral muscle
+15	2009-11-11	 Islanders	 • Trent Hunter	 	 activated from IR
+16	2010-03-04	 Islanders	 	 • Trent Hunter	 upper body injury (DTD)
+17	2010-03-16	 Islanders	 • Trent Hunter	 	 returned to lineup
+18	2010-10-16	 Islanders	 	 • Trent Hunter	 foot injury (DTD)
+19	2010-10-21	 Islanders	 • Trent Hunter	 	 returned to lineup
+20	2010-10-25	 Islanders	 	 • Trent Hunter	 foot injury (DTD)
+21	2010-10-29	 Islanders	 • Trent Hunter	 	 returned to lineup
+22	2010-11-26	 Islanders	 	 • Trent Hunter	 torn MCL in left knee (DTD)
+23	2010-12-01	 Islanders	 	 • Trent Hunter	 placed on IR with torn MCL in left knee (out for season)

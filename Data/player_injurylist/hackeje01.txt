@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-24	 Canadiens	 	 • Jeff Hackett	 hand injury (out indefinitely)
+1	2001-02-06	 Canadiens	 • Jeff Hackett	 	 activated from IR
+2	2001-10-20	 Canadiens	 	 • Jeff Hackett	 shoulder injury (out indefinitely)
+3	2002-03-07	 Canadiens	 	 • Jeff Hackett	 placed on IR with dislocated left shoulder
+4	2004-01-19	 Flyers	 	 • Jeff Hackett	 vertigo (out indefinitely)

@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-27	 Maple Leafs	 	 • Matt Stajan	 eye injury (DTD)
+1	2009-01-08	 Maple Leafs	 • Matt Stajan	 	 returned to lineup
+2	2010-09-23	 Flames	 	 • Matt Stajan	 separated shoulder (out indefinitely)
+3	2010-10-14	 Flames	 • Matt Stajan	 	 activated from IR
+4	2010-11-24	 Flames	 	 • Matt Stajan	 upper body injury (DTD)
+5	2010-11-27	 Flames	 • Matt Stajan	 	 returned to lineup
+6	2011-12-19	 Flames	 	 • Matt Stajan	 placed on IR with ankle injury
+7	2012-01-19	 Flames	 • Matt Stajan	 	 activated from IR
+8	2013-04-10	 Flames	 	 • Matt Stajan	 upper body injury (DTD)
+9	2013-04-17	 Flames	 • Matt Stajan	 	 returned to lineup
+10	2013-10-04	 Flames	 	 • Matt Stajan	 bruised leg (DTD)
+11	2013-10-09	 Flames	 	 • Matt Stajan	 placed on IR with leg injury
+12	2013-10-24	 Flames	 • Matt Stajan	 	 activated from IR
+13	2014-10-28	 Flames	 	 • Matt Stajan	 placed on IR with strained right knee
+14	2014-12-06	 Flames	 • Matt Stajan	 	 activated from IR
+15	2016-02-15	 Flames	 	 • Matt Stajan	 undisclosed injury (DTD)
+16	2016-02-17	 Flames	 • Matt Stajan	 	 returned to lineup

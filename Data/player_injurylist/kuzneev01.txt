@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-17	 Capitals	 	 • Evgeny Kuznetsov	 upper body injury (DTD)
+1	2018-03-24	 Capitals	 • Evgeny Kuznetsov	 	 returned to lineup
+2	2018-11-15	 Capitals	 	 • Evgeny Kuznetsov	 upper body injury (DTD)
+3	2018-11-30	 Capitals	 • Evgeny Kuznetsov	 	 returned to lineup
+4	2020-02-11	 Capitals	 	 • Evgeny Kuznetsov	 upper body injury (DTD)
+5	2020-02-20	 Capitals	 • Evgeny Kuznetsov	 	 returned to lineup

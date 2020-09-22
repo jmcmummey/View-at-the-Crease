@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-25	 Sharks	 	 • Josh Gorges	 flu (DTD)
+1	2006-03-26	 Sharks	 • Josh Gorges	 	 returned to lineup
+2	2009-02-01	 Canadiens	 	 • Josh Gorges	 head injury (DTD)
+3	2009-02-03	 Canadiens	 • Josh Gorges	 	 returned to lineup
+4	2010-12-28	 Canadiens	 	 • Josh Gorges	 placed on IR with right knee injury (surgery) (out for season)
+5	2013-12-20	 Canadiens	 	 • Josh Gorges	 lower body injury (DTD)
+6	2013-12-28	 Canadiens	 • Josh Gorges	 	 returned to lineup
+7	2014-03-06	 Canadiens	 	 • Josh Gorges	 fractured hand (DTD)
+8	2014-04-08	 Canadiens	 • Josh Gorges	 	 returned to lineup
+9	2014-11-12	 Sabres	 	 • Josh Gorges	 knee injury (DTD)
+10	2014-11-18	 Sabres	 	 • Josh Gorges	 placed on IR with knee injury
+11	2014-12-02	 Sabres	 • Josh Gorges	 	 activated from IR
+12	2014-12-15	 Sabres	 	 • Josh Gorges	 finger injury (DTD)
+13	2014-12-20	 Sabres	 • Josh Gorges	 	 returned to lineup
+14	2015-02-15	 Sabres	 	 • Josh Gorges	 lower body injury (DTD)
+15	2015-02-22	 Sabres	 	 • Josh Gorges	 placed on IR with lower body injury (out for season)
+16	2015-10-06	 Sabres	 	 • Josh Gorges	 placed on IR with lower body injury
+17	2015-10-08	 Sabres	 • Josh Gorges	 	 activated from IR
+18	2016-01-16	 Sabres	 	 • Josh Gorges	 upper body injury (DTD)
+19	2016-01-20	 Sabres	 • Josh Gorges	 	 returned to lineup
+20	2016-01-22	 Sabres	 	 • Josh Gorges	 upper body injury (DTD)
+21	2016-02-02	 Sabres	 • Josh Gorges	 	 returned to lineup
+22	2016-12-02	 Sabres	 	 • Josh Gorges	 fractured foot (out indefinitely)
+23	2016-12-03	 Sabres	 	 • Josh Gorges	 upper body injury (DTD)
+24	2016-12-09	 Sabres	 • Josh Gorges	 	 returned to lineup
+25	2017-01-01	 Sabres	 	 • Josh Gorges	 hip injury (DTD)
+26	2017-01-03	 Sabres	 	 • Josh Gorges	 hip injury (DTD)
+27	2017-01-05	 Sabres	 • Josh Gorges	 	 returned to lineup
+28	2017-01-09	 Sabres	 	 • Josh Gorges	 hip injury (DTD)
+29	2017-01-24	 Sabres	 	 • Josh Gorges	 placed on IR with hip injury
+30	2017-02-04	 Sabres	 • Josh Gorges	 	 activated from IR
+31	2017-10-19	 Sabres	 	 • Josh Gorges	 placed on IR with lower body injury
+32	2017-11-10	 Sabres	 • Josh Gorges	 	 activated from IR
+33	2018-01-22	 Sabres	 	 • Josh Gorges	 illness (DTD)
+34	2018-01-30	 Sabres	 • Josh Gorges	 	 returned to lineup

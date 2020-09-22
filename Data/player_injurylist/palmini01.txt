@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-22	 Devils	 	 • Nick Palmieri	 upper body injury (DTD)
+1	2011-01-26	 Devils	 • Nick Palmieri	 	 returned to lineup
+2	2012-03-04	 Wild	 	 • Nick Palmieri	 upper body injury (DTD)
+3	2012-03-06	 Wild	 • Nick Palmieri	 	 returned to lineup

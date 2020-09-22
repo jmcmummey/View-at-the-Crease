@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-04-09	 Hurricanes	 	 • Derek Ryan	 upper body injury (out for season)
+1	2018-01-12	 Hurricanes	 	 • Derek Ryan	 upper body injury (DTD)
+2	2018-01-20	 Hurricanes	 • Derek Ryan	 	 returned to lineup
+3	2020-02-15	 Flames	 	 • Derek Ryan	 illness (DTD)
+4	2020-02-17	 Flames	 	 • Derek Ryan	 placed on IR with illness
+5	2020-02-21	 Flames	 • Derek Ryan	 	 activated from IR

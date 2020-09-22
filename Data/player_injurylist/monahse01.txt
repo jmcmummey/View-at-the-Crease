@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-28	 Flames	 	 • Sean Monahan	 placed on IR with fractured foot
+1	2013-12-14	 Flames	 • Sean Monahan	 	 activated from IR
+2	2018-01-14	 Flames	 	 • Sean Monahan	 flu (DTD)
+3	2018-01-20	 Flames	 • Sean Monahan	 	 returned to lineup
+4	2018-03-23	 Flames	 	 • Sean Monahan	 surgery on wrist (out for season)
+5	2019-03-16	 Flames	 	 • Sean Monahan	 illness (DTD)
+6	2019-03-20	 Flames	 • Sean Monahan	 	 returned to lineup
+7	2019-04-06	 Flames	 	 • Sean Monahan	 illness (out for season)

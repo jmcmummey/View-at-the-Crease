@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-08	 Sharks	 	 • Thomas Greiss	 sore neck (DTD)
+1	2013-03-11	 Sharks	 	 • Thomas Greiss	 placed on IR with sore neck
+2	2013-04-01	 Sharks	 • Thomas Greiss	 	 activated from IR
+3	2014-12-18	 Penguins	 	 • Thomas Greiss	 mumps (DTD)
+4	2014-12-20	 Penguins	 • Thomas Greiss	 	 returned to lineup
+5	2014-12-22	 Penguins	 	 • Thomas Greiss	 illness/mumps (DTD)
+6	2014-12-30	 Penguins	 • Thomas Greiss	 	 returned to lineup
+7	2018-02-19	 Islanders	 	 • Thomas Greiss	 placed on IR with lower body injury
+8	2018-03-30	 Islanders	 • Thomas Greiss	 	 activated from IR

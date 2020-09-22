@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-11-15	 Red Wings	 	 • Martin Frk	 groin injury (DTD)
+1	2017-12-02	 Red Wings	 • Martin Frk	 	 returned to lineup

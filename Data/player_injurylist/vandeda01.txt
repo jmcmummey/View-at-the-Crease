@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-11-09	 Avalanche	 	 • David Van der Gulik	 left knee injury (out indefinitely)
+1	2010-11-10	 Avalanche	 	 • David Van der Gulik	 placed on IR with torn MCL in left knee
+2	2010-12-13	 Avalanche	 • David Van der Gulik	 	 activated from IR
+3	2014-01-11	 Avalanche	 	 • David Van der Gulik	 placed on IR with undisclosed injury
+4	2014-03-01	 Avalanche	 • David Van der Gulik	 	 activated from IR

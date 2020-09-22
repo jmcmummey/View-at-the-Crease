@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-03-22	 Oilers	 	 • Liam Reddox	 upper body injury (DTD)
+1	2009-03-26	 Oilers	 • Liam Reddox	 	 returned to lineup

@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-05	 Wild	 	 • Manny Fernandez	 placed on IR with back spasms
+1	2005-10-09	 Wild	 	 • Manny Fernandez	 back spasms (missed 1 game)
+2	2007-01-25	 Wild	 	 • Manny Fernandez	 knee injury (DTD)
+3	2007-01-27	 Wild	 • Manny Fernandez	 	 returned to lineup
+4	2007-02-01	 Wild	 	 • Manny Fernandez	 knee injury (DTD)
+5	2007-03-06	 Wild	 • Manny Fernandez	 	 returned to lineup
+6	2007-10-30	 Bruins	 	 • Manny Fernandez	 left knee injury (DTD)
+7	2007-11-09	 Bruins	 	 • Manny Fernandez	 placed on IR with left knee injury
+8	2007-12-06	 Bruins	 • Manny Fernandez	 	 activated from IR
+9	2007-12-10	 Bruins	 	 • Manny Fernandez	 knee injury (out indefinitely)
+10	2009-01-10	 Bruins	 	 • Manny Fernandez	 undisclosed injury (DTD)
+11	2009-01-15	 Bruins	 • Manny Fernandez	 	 returned to lineup
+12	2009-01-27	 Bruins	 	 • Manny Fernandez	 back injury (DTD)
+13	2009-02-04	 Bruins	 • Manny Fernandez	 	 returned to lineup

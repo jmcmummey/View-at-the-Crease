@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-03-10	 Wild	 	 • Gustav Olofsson	 upper body injury (DTD)
+1	2017-03-19	 Wild	 • Gustav Olofsson	 	 returned to lineup
+2	2018-03-31	 Wild	 	 • Gustav Olofsson	 concussion (DTD)
+3	2019-10-01	 Canadiens	 	 • Gustav Olofsson	 placed on injured/non-roster list with upper body injury
+4	2019-10-04	 Canadiens	 • Gustav Olofsson	 	 activated from injured/non-roster list with upper body injury

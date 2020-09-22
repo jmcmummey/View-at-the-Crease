@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-02-24	 Sharks	 	 • Matt Tennyson	 upper body injury (DTD)
+1	2017-11-07	 Sabres	 	 • Matt Tennyson	 undisclosed (DTD)
+2	2017-11-18	 Sabres	 	 • Matt Tennyson	 placed on IR with foot injury
+3	2017-12-01	 Sabres	 • Matt Tennyson	 	 activated from IR
+4	2019-12-05	 Devils	 	 • Matt Tennyson	 placed on IR with upper body injury
+5	2020-01-06	 Devils	 • Matt Tennyson	 	 activated from IR

@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-02	 Oilers	 	 • Justin Schultz	 groin injury (DTD)
+1	2013-11-07	 Oilers	 	 • Justin Schultz	 placed on IR with groin injury
+2	2013-11-19	 Oilers	 • Justin Schultz	 	 activated from IR
+3	2015-10-26	 Oilers	 	 • Justin Schultz	 undisclosed (DTD)
+4	2015-10-29	 Oilers	 	 • Justin Schultz	 placed on IR with undisclosed injury
+5	2015-11-28	 Oilers	 • Justin Schultz	 	 activated from IR
+6	2016-02-02	 Oilers	 	 • Justin Schultz	 illness (DTD)
+7	2016-02-04	 Oilers	 • Justin Schultz	 	 returned to lineup
+8	2017-02-17	 Penguins	 	 • Justin Schultz	 concussion (DTD)
+9	2017-02-25	 Penguins	 • Justin Schultz	 	 returned to lineup
+10	2017-05-16	 Penguins	 	 • Justin Schultz	 upper body injury (DTD)
+11	2017-05-25	 Penguins	 • Justin Schultz	 	 returned to lineup
+12	2017-10-25	 Penguins	 	 • Justin Schultz	 placed on IR with concussion
+13	2017-11-07	 Penguins	 • Justin Schultz	 	 activated from IR
+14	2017-12-06	 Penguins	 	 • Justin Schultz	 placed on IR with lower body injury
+15	2018-01-02	 Penguins	 • Justin Schultz	 	 activated from IR
+16	2018-02-17	 Penguins	 	 • Justin Schultz	 illness (DTD)
+17	2018-02-23	 Penguins	 • Justin Schultz	 	 returned to lineup
+18	2018-10-13	 Penguins	 	 • Justin Schultz	 placed on IR with fractured lower left leg
+19	2019-02-15	 Penguins	 • Justin Schultz	 	 activated from IR
+20	2019-11-21	 Penguins	 	 • Justin Schultz	 lower body injury (out indefinitely)
+21	2019-11-27	 Penguins	 	 • Justin Schultz	 placed on IR with lower body injury
+22	2019-12-06	 Penguins	 • Justin Schultz	 	 activated from IR
+23	2019-12-19	 Penguins	 	 • Justin Schultz	 lower body injury (out indefinitely)
+24	2020-01-03	 Penguins	 	 • Justin Schultz	 placed on IR with lower body injury
+25	2020-01-25	 Penguins	 • Justin Schultz	 	 activated from IR

@@ -1,0 +1,52 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-31	 Rangers	 	 • Tom Poti	 flu (DTD)
+1	2005-11-03	 Rangers	 • Tom Poti	 	 returned to lineup
+2	2005-12-01	 Rangers	 	 • Tom Poti	 groin injury (DTD)
+3	2005-12-07	 Rangers	 • Tom Poti	 	 returned to lineup
+4	2005-12-31	 Rangers	 	 • Tom Poti	 flu (DTD)
+5	2006-01-03	 Rangers	 • Tom Poti	 	 returned to lineup
+6	2006-04-09	 Rangers	 	 • Tom Poti	 upper body injury (DTD)
+7	2006-04-13	 Rangers	 • Tom Poti	 	 returned to lineup
+8	2007-01-30	 Islanders	 	 • Tom Poti	 upper body injury (DTD)
+9	2007-02-07	 Islanders	 • Tom Poti	 	 returned to lineup
+10	2007-10-26	 Capitals	 	 • Tom Poti	 strained groin (DTD)
+11	2007-11-06	 Capitals	 • Tom Poti	 	 returned to lineup
+12	2008-01-03	 Capitals	 	 • Tom Poti	 upper body injury (DTD)
+13	2008-01-13	 Capitals	 • Tom Poti	 	 returned to lineup
+14	2008-02-15	 Capitals	 	 • Tom Poti	 lower body injury (DTD)
+15	2008-02-20	 Capitals	 • Tom Poti	 	 returned to lineup
+16	2008-10-17	 Capitals	 	 • Tom Poti	 groin injury (DTD)
+17	2008-11-01	 Capitals	 • Tom Poti	 	 returned to lineup
+18	2008-11-28	 Capitals	 	 • Tom Poti	 groin injury (DTD)
+19	2008-12-10	 Capitals	 • Tom Poti	 	 returned to lineup
+20	2008-12-23	 Capitals	 	 • Tom Poti	 groin injury (DTD)
+21	2009-01-31	 Capitals	 • Tom Poti	 	 returned to lineup
+22	2009-03-03	 Capitals	 	 • Tom Poti	 groin injury (DTD)
+23	2009-03-05	 Capitals	 • Tom Poti	 	 returned to lineup
+24	2009-04-09	 Capitals	 	 • Tom Poti	 groin injury (out for season)
+25	2009-11-21	 Capitals	 	 • Tom Poti	 upper body injury (DTD)
+26	2009-12-05	 Capitals	 • Tom Poti	 	 activated from IR
+27	2009-12-26	 Capitals	 	 • Tom Poti	 undisclosed injury (DTD)
+28	2009-12-30	 Capitals	 • Tom Poti	 	 returned to lineup
+29	2010-02-11	 Capitals	 	 • Tom Poti	 placed on IR with groin injury
+30	2010-03-03	 Capitals	 • Tom Poti	 	 activated from IR
+31	2010-04-27	 Capitals	 	 • Tom Poti	 fractured orbital bone (out indefinitely)
+32	2010-10-11	 Capitals	 	 • Tom Poti	 lower body injury (DTD)
+33	2010-10-19	 Capitals	 • Tom Poti	 	 returned to lineup
+34	2010-10-23	 Capitals	 	 • Tom Poti	 lower body injury (DTD)
+35	2010-11-11	 Capitals	 • Tom Poti	 	 returned to lineup
+36	2010-11-14	 Capitals	 	 • Tom Poti	 groin injury (DTD)
+37	2010-11-24	 Capitals	 • Tom Poti	 	 returned to lineup
+38	2010-12-02	 Capitals	 	 • Tom Poti	 groin injury (DTD)
+39	2010-12-06	 Capitals	 • Tom Poti	 	 returned to lineup
+40	2010-12-24	 Capitals	 	 • Tom Poti	 head injury (DTD)
+41	2010-12-28	 Capitals	 	 • Tom Poti	 placed on IR with head injury
+42	2011-01-04	 Capitals	 • Tom Poti	 	 activated from IR
+43	2011-01-13	 Capitals	 	 • Tom Poti	 lower body injury (DTD)
+44	2011-01-20	 Capitals	 	 • Tom Poti	 placed on IR with lower body injury (out for season)
+45	2011-10-05	 Capitals	 	 • Tom Poti	 placed on IR with groin injury (out for season
+46	2013-02-08	 Capitals	 	 • Tom Poti	 upper body injury (DTD)
+47	2013-02-17	 Capitals	 • Tom Poti	 	 returned to lineup
+48	2013-03-12	 Capitals	 	 • Tom Poti	 upper body injury (DTD)
+49	2013-03-14	 Capitals	 • Tom Poti	 	 returned to lineup
+50	2013-03-18	 Capitals	 	 • Tom Poti	 placed on IR with back injury (out for season)

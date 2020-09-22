@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-01-21	 Maple Leafs	 	 • Andreas Johnsson	 concussion (DTD)
+1	2019-02-01	 Maple Leafs	 • Andreas Johnsson	 	 returned to lineup
+2	2019-02-15	 Maple Leafs	 	 • Andreas Johnsson	 leg injury (DTD)
+3	2019-02-19	 Maple Leafs	 • Andreas Johnsson	 	 returned to lineup
+4	2019-04-01	 Maple Leafs	 	 • Andreas Johnsson	 illness (DTD)
+5	2019-04-04	 Maple Leafs	 • Andreas Johnsson	 	 returned to lineup
+6	2019-12-06	 Maple Leafs	 	 • Andreas Johnsson	 placed on IR with leg injury
+7	2020-01-12	 Maple Leafs	 • Andreas Johnsson	 	 activated from IR
+8	2020-02-13	 Maple Leafs	 	 • Andreas Johnsson	 placed on IR with knee injury
+9	2020-02-14	 Maple Leafs	 	 • Andreas Johnsson	 surgery on right knee (out indefinitely)
+10	2020-02-16	 Maple Leafs	 	 • Andreas Johnsson	 placed on IR with surgery on right knee
+11	2020-08-09	 Maple Leafs	 • Andreas Johnsson	 	 activated from IR

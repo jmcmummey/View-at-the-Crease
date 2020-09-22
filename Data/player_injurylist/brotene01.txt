@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-12-18	 North Stars	 	 • Neal Broten	 strained groin
+1	1993-10-09	 Stars	 	 • Neal Broten	 pulled hip muscle (DTD)
+2	1995-11-11	 Devils	 	 • Neal Broten	 bruised knee (DTD)
+3	1996-02-16	 Devils	 	 • Neal Broten	 sprained left ankle (out indefinitely)

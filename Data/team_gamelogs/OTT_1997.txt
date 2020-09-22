@@ -1,0 +1,83 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1996-10-05	@	Montreal Canadiens	3	3	T	OT		25	20	1		0		36	18	2		0
+1	1996-10-09		New York Islanders	3	3	T	OT		29	6	1		0		22	10	1		1
+2	1996-10-11		Pittsburgh Penguins	3	2	W			41	18	1		0		29	32	0		0
+3	1996-10-12	@	Pittsburgh Penguins	2	3	L			30	22	0		0		35	20	2		0
+4	1996-10-18	@	New Jersey Devils	2	2	T	OT		26	8	0		0		38	12	0		0
+5	1996-10-19		Montreal Canadiens	6	3	W			34	18	2		0		24	16	2		0
+6	1996-10-23	@	Florida Panthers	2	5	L			38	20	2		0		32	22	3		0
+7	1996-10-24	@	Tampa Bay Lightning	5	2	W			28	19	0		1		34	37	0		0
+8	1996-10-26	@	Dallas Stars	1	5	L			22	38	0		0		25	28	1		1
+9	1996-10-30		Los Angeles Kings	2	2	T	OT		31	15	1		0		39	17	1		0
+10	1996-11-01		Detroit Red Wings	2	2	T	OT		30	8	0		0		24	8	0		0
+11	1996-11-02	@	Pittsburgh Penguins	3	7	L			35	27	2		0		33	33	2		1
+12	1996-11-07		Toronto Maple Leafs	6	2	W			31	12	1		0		33	12	0		0
+13	1996-11-09		Boston Bruins	3	4	L			27	12	0		0		18	16	0		0
+14	1996-11-10	@	Chicago Blackhawks	0	2	L			24	12	0		0		25	12	1		0
+15	1996-11-13		Edmonton Oilers	0	4	L			28	6	0		0		19	27	1		1
+16	1996-11-15		Chicago Blackhawks	4	3	W			38	2	1		0		16	6	0		0
+17	1996-11-16	@	New York Islanders	4	1	W			28	4	1		0		25	6	0		0
+18	1996-11-19		New Jersey Devils	1	2	L			26	9	0		0		21	9	1		0
+19	1996-11-23		Hartford Whalers	3	3	T	OT		28	13	1		0		21	17	1		0
+20	1996-11-27	@	Washington Capitals	2	1	W			15	2	0		0		32	4	0		0
+21	1996-11-29	@	Buffalo Sabres	0	3	L			31	10	0		0		25	6	1		0
+22	1996-11-30		Philadelphia Flyers	3	4	L			17	18	1		0		37	28	1		0
+23	1996-12-04		Pittsburgh Penguins	2	4	L			37	31	0		0		22	42	0		0
+24	1996-12-06	@	Edmonton Oilers	2	5	L			23	10	0		0		28	8	1		0
+25	1996-12-07	@	Vancouver Canucks	3	2	W			24	6	1		0		26	8	1		0
+26	1996-12-10	@	Calgary Flames	5	5	T	OT		32	12	3		0		38	12	3		0
+27	1996-12-13		Phoenix Coyotes	2	4	L			27	16	0		0		21	18	1		0
+28	1996-12-15		Dallas Stars	0	4	L			23	4	0		0		15	6	1		2
+29	1996-12-19		Florida Panthers	5	2	W			32	15	1		1		22	13	0		0
+30	1996-12-21		Buffalo Sabres	2	3	L			29	4	1		0		25	16	0		0
+31	1996-12-23	@	Montreal Canadiens	6	0	W			36	60	4		0		14	68	0		0
+32	1996-12-26		New York Rangers	5	2	W			33	8	1		0		21	4	1		0
+33	1996-12-28	@	Hartford Whalers	2	3	L			32	14	0		0		29	10	0		0
+34	1996-12-30		Mighty Ducks of Anaheim	3	4	L	OT		28	8	1		0		25	30	1		0
+35	1997-01-01		Boston Bruins	3	2	W			26	8	0		0		16	8	0		1
+36	1997-01-03		New Jersey Devils	0	1	L			19	6	0		0		15	4	0		0
+37	1997-01-04	@	New York Rangers	4	6	L			43	16	2		0		28	34	0		0
+38	1997-01-06		Tampa Bay Lightning	3	4	L			25	12	1		0		26	16	0		0
+39	1997-01-09		Colorado Avalanche	0	2	L			33	2	0		0		25	6	1		0
+40	1997-01-11		Pittsburgh Penguins	3	3	T	OT		34	8	1		0		20	6	1		0
+41	1997-01-13	@	Boston Bruins	4	3	W			19	8	2		0		38	10	0		0
+42	1997-01-15		Washington Capitals	5	1	W			28	32	3		0		22	56	0		0
+43	1997-01-22		Boston Bruins	1	4	L			24	16	0		0		24	14	0		1
+44	1997-01-24		Calgary Flames	2	2	T	OT		33	8	0		0		25	24	0		0
+45	1997-01-27		Tampa Bay Lightning	5	3	W			31	13	1		0		27	31	1		0
+46	1997-01-29	@	New Jersey Devils	1	1	T	OT		24	7	0		0		36	11	0		0
+47	1997-01-30		St. Louis Blues	2	5	L			19	6	0		0		32	8	0		0
+48	1997-02-01	@	Toronto Maple Leafs	2	1	W			38	16	0		1		20	25	0		0
+49	1997-02-03		Vancouver Canucks	6	4	W			36	12	1		0		21	20	1		0
+50	1997-02-04	@	Boston Bruins	4	3	W			37	15	3		0		22	15	2		0
+51	1997-02-08		San Jose Sharks	3	3	T	OT		16	13	1		0		26	15	1		0
+52	1997-02-09	@	Buffalo Sabres	1	2	L			33	2	1		0		20	12	0		0
+53	1997-02-11	@	New York Islanders	5	5	T	OT		25	9	0		0		22	11	0		0
+54	1997-02-13	@	Philadelphia Flyers	2	4	L			20	40	0		0		28	26	0		0
+55	1997-02-15	@	Hartford Whalers	1	2	L			27	12	0		0		28	6	1		0
+56	1997-02-16		Hartford Whalers	4	2	W			31	13	1		0		27	9	0		0
+57	1997-02-18	@	Washington Capitals	6	1	W			29	10	0		0		32	4	1		0
+58	1997-02-20	@	St. Louis Blues	1	1	T	OT		27	8	0		0		26	4	0		0
+59	1997-02-23	@	Colorado Avalanche	3	4	L			23	14	1		0		34	8	1		0
+60	1997-02-26		Philadelphia Flyers	5	8	L			30	8	1		1		28	6	2		0
+61	1997-02-28		New York Islanders	4	1	W			26	18	0		0		23	22	0		0
+62	1997-03-01		Buffalo Sabres	1	3	L			30	4	0		0		16	8	0		0
+63	1997-03-05	@	Mighty Ducks of Anaheim	1	4	L			40	12	0		0		19	12	0		0
+64	1997-03-06	@	San Jose Sharks	0	2	L			29	18	0		0		25	28	1		0
+65	1997-03-08	@	Los Angeles Kings	1	3	L			45	13	1		0		20	15	1		0
+66	1997-03-10	@	Phoenix Coyotes	4	1	W			29	15	1		0		22	23	0		0
+67	1997-03-14		New York Rangers	3	4	L	OT		30	17	1		0		28	19	0		0
+68	1997-03-15	@	Montreal Canadiens	2	2	T	OT		31	2	1		0		37	6	0		0
+69	1997-03-17	@	New York Rangers	4	3	W			33	4	0		1		41	4	0		0
+70	1997-03-20		Florida Panthers	2	2	T	OT		28	9	0		1		20	13	0		0
+71	1997-03-22	@	Boston Bruins	5	4	W			28	25	2		0		31	21	2		0
+72	1997-03-25	@	Tampa Bay Lightning	0	5	L			28	18	0		0		24	22	1		1
+73	1997-03-27	@	Florida Panthers	3	2	W			28	19	1		1		21	35	1		0
+74	1997-03-29		Montreal Canadiens	5	2	W			34	20	1		1		30	24	0		0
+75	1997-04-02	@	Buffalo Sabres	2	0	W			36	6	0		0		15	8	0		0
+76	1997-04-03		Washington Capitals	4	0	W			32	14	1		0		25	36	0		0
+77	1997-04-05	@	Pittsburgh Penguins	2	5	L			27	18	0		0		30	14	0		2
+78	1997-04-06	@	Philadelphia Flyers	1	2	L			19	4	0		0		22	6	0		1
+79	1997-04-09		Hartford Whalers	5	4	W			37	12	1		1		25	12	1		0
+80	1997-04-11	@	Detroit Red Wings	3	2	W			25	2	0		0		29	0	0		0
+81	1997-04-12		Buffalo Sabres	1	0	W			34	6	0		0		17	16	0		0

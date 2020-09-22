@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-15	 Hurricanes	 	 • Zac Dalpe	 lower body injury (DTD)
+1	2011-10-25	 Hurricanes	 	 • Zac Dalpe	 placed on IR
+2	2011-11-02	 Hurricanes	 • Zac Dalpe	 	 activated from IR
+3	2016-10-30	 Wild	 	 • Zac Dalpe	 placed on IR with lower body injury
+4	2016-11-01	 Wild	 	 • Zac Dalpe	 placed on IR with lower body injury
+5	2016-12-17	 Wild	 • Zac Dalpe	 	 activated from IR
+6	2017-11-07	 Blue Jackets	 	 • Zac Dalpe	 placed on IR with upper body injury
+7	2017-11-09	 Blue Jackets	 	 • Zac Dalpe	 upper body injury (DTD)
+8	2017-11-13	 Blue Jackets	 	 • Zac Dalpe	 placed on IR with upper body injury
+9	2017-11-16	 Blue Jackets	 • Zac Dalpe	 	 activated from IR

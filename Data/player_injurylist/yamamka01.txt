@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-12-31	 Oilers	 	 • Kailer Yamamoto	 upper body injury (DTD)
+1	2019-01-06	 Oilers	 	 • Kailer Yamamoto	 placed on IR with upper body injury
+2	2019-01-16	 Oilers	 • Kailer Yamamoto	 	 activated from IR
+3	2020-02-25	 Oilers	 	 • Kailer Yamamoto	 ankle injury (out indefinitely)
+4	2020-03-02	 Oilers	 • Kailer Yamamoto	 	 returned to lineup

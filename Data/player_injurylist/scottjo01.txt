@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-08	 Wild	 	 • John Scott	 placed on IR with sprained ankle
+1	2011-02-04	 Blackhawks	 	 • John Scott	 flu (DTD)
+2	2011-02-12	 Blackhawks	 • John Scott	 	 returned to lineup

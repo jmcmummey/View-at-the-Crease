@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-02-10	 Flames	 • Miikka Kiprusoff	 	 activated from IR
+1	2009-11-04	 Flames	 	 • Miikka Kiprusoff	 illness (DTD)
+2	2009-11-05	 Flames	 • Miikka Kiprusoff	 	 returned to lineup
+3	2013-02-06	 Flames	 	 • Miikka Kiprusoff	 sprained knee (DTD)
+4	2013-02-08	 Flames	 	 • Miikka Kiprusoff	 placed on IR with sprained knee
+5	2013-03-06	 Flames	 • Miikka Kiprusoff	 	 activated from IR
+6	2013-03-21	 Flames	 • Miikka Kiprusoff	 	 returned to lineup

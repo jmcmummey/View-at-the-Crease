@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-25	 Jets	 	 • Mason Appleton	 foot injury (out indefinitely)
+1	2019-10-25	 Jets	 	 • Mason Appleton	 placed on IR with foot injury
+2	2019-12-10	 Jets	 • Mason Appleton	 	 activated from IR
+3	2020-08-03	 Jets	 	 • Mason Appleton	 shoulder injury (out for season)

@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-28	 Rangers	 	 • Colton Orr	 sternum injury (DTD)
+1	2008-03-02	 Rangers	 • Colton Orr	 	 returned to lineup
+2	2008-03-30	 Rangers	 	 • Colton Orr	 foot injury (DTD)
+3	2008-04-25	 Rangers	 • Colton Orr	 	 returned to lineup
+4	2009-12-14	 Maple Leafs	 	 • Colton Orr	 eye injury (left game)
+5	2011-01-21	 Maple Leafs	 	 • Colton Orr	 placed on IR with concussion (out for season)
+6	2011-11-15	 Maple Leafs	 	 • Colton Orr	 flu (DTD)
+7	2011-11-19	 Maple Leafs	 • Colton Orr	 	 returned to lineup
+8	2013-02-21	 Maple Leafs	 	 • Colton Orr	 lower body injury (DTD)
+9	2013-02-27	 Maple Leafs	 • Colton Orr	 	 returned to lineup
+10	2013-11-08	 Maple Leafs	 	 • Colton Orr	 undisclosed (DTD)
+11	2013-11-13	 Maple Leafs	 • Colton Orr	 	 returned to lineup
+12	2013-12-04	 Maple Leafs	 	 • Colton Orr	 placed on IR with elbow injury
+13	2013-12-23	 Maple Leafs	 • Colton Orr	 	 activated from IR
+14	2014-01-14	 Maple Leafs	 	 • Colton Orr	 illness (DTD)
+15	2014-01-15	 Maple Leafs	 • Colton Orr	 	 returned to lineup
+16	2014-03-05	 Maple Leafs	 	 • Colton Orr	 undisclosed (DTD)
+17	2014-03-11	 Maple Leafs	 • Colton Orr	 	 returned to lineup

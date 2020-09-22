@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-11-16	 Blues	 	 • Jamal Mayers	 knee injury (out indefinitely)
+1	2005-10-19	 Blues	 	 • Jamal Mayers	 groin injury (DTD)
+2	2005-10-20	 Blues	 • Jamal Mayers	 	 returned to lineup
+3	2006-01-30	 Blues	 	 • Jamal Mayers	 fractured right foot (DTD)
+4	2006-01-31	 Blues	 	 • Jamal Mayers	 placed on IR with fractured right foot
+5	2006-03-16	 Blues	 • Jamal Mayers	 	 activated from IR
+6	2006-12-05	 Blues	 	 • Jamal Mayers	 leg injury (DTD)
+7	2006-12-07	 Blues	 • Jamal Mayers	 	 returned to lineup
+8	2008-04-05	 Blues	 	 • Jamal Mayers	 facial injury (DTD)
+9	2008-12-02	 Maple Leafs	 	 • Jamal Mayers	 broken right hand (DTD)
+10	2008-12-28	 Maple Leafs	 • Jamal Mayers	 	 returned to lineup
+11	2010-10-08	 Sharks	 	 • Jamal Mayers	 arm injury (DTD)
+12	2010-10-21	 Sharks	 • Jamal Mayers	 	 returned to lineup
+13	2012-03-21	 Blackhawks	 	 • Jamal Mayers	 illness (DTD)
+14	2012-03-25	 Blackhawks	 • Jamal Mayers	 	 returned to lineup

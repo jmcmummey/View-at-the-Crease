@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-28	 Flyers	 	 • Pierre-Edouard Bellemare	 placed on IR with lower body injury
+1	2015-11-14	 Flyers	 • Pierre-Edouard Bellemare	 	 activated from IR
+2	2018-02-19	 Golden Knights	 	 • Pierre-Edouard Bellemare	 placed on IR with hand/wrist injury
+3	2018-03-06	 Golden Knights	 • Pierre-Edouard Bellemare	 	 activated from IR
+4	2019-03-20	 Golden Knights	 	 • Pierre-Edouard Bellemare	 undisclosed (DTD)
+5	2019-03-27	 Golden Knights	 • Pierre-Edouard Bellemare	 	 returned to lineup
+6	2019-03-29	 Golden Knights	 	 • Pierre-Edouard Bellemare	 undisclosed (DTD)
+7	2019-04-01	 Golden Knights	 • Pierre-Edouard Bellemare	 	 returned to lineup
+8	2019-04-23	 Golden Knights	 	 • Pierre-Edouard Bellemare	 undisclosed (out for season)
+9	2019-11-11	 Avalanche	 	 • Pierre-Edouard Bellemare	 concussion (DTD)
+10	2019-11-14	 Avalanche	 • Pierre-Edouard Bellemare	 	 returned to lineup

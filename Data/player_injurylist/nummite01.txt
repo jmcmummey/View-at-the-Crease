@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-11-20	 Stars	 	 • Teppo Numminen	 placed on IR
+1	2003-12-17	 Stars	 • Teppo Numminen	 	 activated from IR
+2	2006-01-26	 Sabres	 	 • Teppo Numminen	 hamstring injury (DTD)
+3	2006-01-31	 Sabres	 • Teppo Numminen	 	 returned to lineup
+4	2006-03-30	 Sabres	 	 • Teppo Numminen	 sprained knee (out indefinitely)
+5	2006-04-12	 Sabres	 • Teppo Numminen	 	 returned to lineup
+6	2006-04-28	 Sabres	 	 • Teppo Numminen	 irregular heartbeat (DTD)
+7	2006-04-30	 Sabres	 • Teppo Numminen	 	 returned to lineup
+8	2006-05-22	 Sabres	 	 • Teppo Numminen	 lower body injury (DTD)
+9	2006-05-30	 Sabres	 • Teppo Numminen	 	 returned to lineup
+10	2006-06-01	 Sabres	 	 • Teppo Numminen	 groin injury (DTD)
+11	2006-12-08	 Sabres	 	 • Teppo Numminen	 broken toe (DTD)
+12	2006-12-14	 Sabres	 • Teppo Numminen	 	 returned to lineup
+13	2007-09-21	 Sabres	 	 • Teppo Numminen	 open heart surgery (out indefinitely)
+14	2008-03-19	 Sabres	 • Teppo Numminen	 	 returned to lineup
+15	2008-04-01	 Sabres	 • Teppo Numminen	 	 activated from injury-suspended list
+16	2009-01-18	 Sabres	 	 • Teppo Numminen	 placed on IR with fractured jaw
+17	2009-01-18	 Sabres	 	 • Teppo Numminen	 surgery to repair fractured jaw (date approximate)
+18	2009-02-04	 Sabres	 • Teppo Numminen	 	 activated from iR
+19	2009-03-20	 Sabres	 	 • Teppo Numminen	 ankle injury (DTD)
+20	2009-04-01	 Sabres	 • Teppo Numminen	 	 returned to lineup

@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-05	 Devils	 	 • Johnny Oduya	 upper body injury (DTD)
+1	2007-01-18	 Devils	 • Johnny Oduya	 	 returned to lineup
+2	2009-10-31	 Devils	 	 • Johnny Oduya	 lower body injury (DTD)
+3	2009-11-06	 Devils	 	 • Johnny Oduya	 placed on IR with lower body injury
+4	2009-12-05	 Devils	 • Johnny Oduya	 	 activated from IR
+5	2014-02-05	 Blackhawks	 	 • Johnny Oduya	 lower body injury (DTD)
+6	2014-02-27	 Blackhawks	 • Johnny Oduya	 	 returned to lineup
+7	2014-04-03	 Blackhawks	 	 • Johnny Oduya	 lower body injury (DTD)
+8	2014-04-08	 Blackhawks	 • Johnny Oduya	 	 returned to lineup
+9	2015-02-23	 Blackhawks	 	 • Johnny Oduya	 upper body injury (DTD)
+10	2015-02-27	 Blackhawks	 	 • Johnny Oduya	 placed on IR with upper body injury
+11	2015-03-12	 Blackhawks	 • Johnny Oduya	 	 activated from IR
+12	2016-11-20	 Stars	 	 • Johnny Oduya	 placed on IR with lower body injury
+13	2016-12-11	 Stars	 • Johnny Oduya	 	 activated from IR
+14	2016-12-20	 Stars	 	 • Johnny Oduya	 ankle injury (DTD)
+15	2017-01-18	 Stars	 	 • Johnny Oduya	 placed on IR with ankle injury
+16	2017-02-26	 Stars	 • Johnny Oduya	 	 activated from IR
+17	2017-03-03	 Blackhawks	 	 • Johnny Oduya	 ankle injury (DTD)
+18	2017-03-08	 Blackhawks	 • Johnny Oduya	 	 returned to lineup
+19	2017-10-06	 Senators	 	 • Johnny Oduya	 lower body injury (DTD)
+20	2017-10-14	 Senators	 • Johnny Oduya	 	 returned to lineup
+21	2018-01-09	 Senators	 	 • Johnny Oduya	 undisclosed injury (DTD)
+22	2018-01-18	 Senators	 • Johnny Oduya	 	 returned to lineup
+23	2018-01-22	 Senators	 	 • Johnny Oduya	 placed on IR with lower body injury
+24	2018-02-01	 Senators	 • Johnny Oduya	 	 activated from IR
+25	2018-03-07	 Flyers	 	 • Johnny Oduya	 undisclosed (DTD)

@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-18	 Islanders	 	 • Bruno Gervais	 sprained ankle (DTD)
+1	2007-02-07	 Islanders	 • Bruno Gervais	 	 returned to lineup
+2	2007-02-17	 Islanders	 	 • Bruno Gervais	 right ankle injury (DTD)
+3	2007-04-03	 Islanders	 • Bruno Gervais	 	 returned to lineup
+4	2008-02-14	 Islanders	 	 • Bruno Gervais	 oblique injury (DTD)
+5	2008-02-23	 Islanders	 • Bruno Gervais	 	 returned to lineup
+6	2008-03-03	 Islanders	 	 • Bruno Gervais	 concussion (out indefinitely)
+7	2008-11-26	 Islanders	 	 • Bruno Gervais	 leg injury (DTD)
+8	2008-11-29	 Islanders	 	 • Bruno Gervais	 placed on IR with leg injury
+9	2008-12-26	 Islanders	 • Bruno Gervais	 	 activated from IR
+10	2010-03-27	 Islanders	 	 • Bruno Gervais	 groin injury (DTD)
+11	2010-04-08	 Islanders	 • Bruno Gervais	 	 returned to lineup
+12	2010-11-27	 Islanders	 	 • Bruno Gervais	 fractured left cheekbone (DTD)
+13	2010-12-11	 Islanders	 • Bruno Gervais	 	 returned to lineup
+14	2011-03-27	 Islanders	 	 • Bruno Gervais	 foot injury (out for season)
+15	2012-03-05	 Lightning	 	 • Bruno Gervais	 upper body injury (DTD)
+16	2012-03-19	 Lightning	 • Bruno Gervais	 	 returned to lineup
+17	2013-04-16	 Flyers	 	 • Bruno Gervais	 stomach ailment (out for season)

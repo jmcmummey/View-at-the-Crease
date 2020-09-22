@@ -1,0 +1,34 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-03-04	 Canadiens	 	 • Jaroslav Halak	 flu (DTD)
+1	2009-03-06	 Canadiens	 • Jaroslav Halak	 	 returned to lineup
+2	2011-02-04	 Blues	 	 • Jaroslav Halak	 upper body injury (DTD)
+3	2011-02-08	 Blues	 • Jaroslav Halak	 	 returned to lineup
+4	2011-02-17	 Blues	 	 • Jaroslav Halak	 placed on IR with right hand injury
+5	2011-03-08	 Blues	 	 • Jaroslav Halak	 right hand injury (DTD)
+6	2011-03-08	 Blues	 • Jaroslav Halak	 	 activated from IR
+7	2012-02-17	 Blues	 	 • Jaroslav Halak	 flu (DTD)
+8	2012-02-22	 Blues	 • Jaroslav Halak	 	 returned to lineup
+9	2012-04-15	 Blues	 	 • Jaroslav Halak	 ankle injury (out for season)
+10	2013-02-02	 Blues	 	 • Jaroslav Halak	 placed on IR wiwth strained groin
+11	2013-02-10	 Blues	 • Jaroslav Halak	 	 activated from IR
+12	2013-02-12	 Blues	 	 • Jaroslav Halak	 strained groin (DTD)
+13	2013-02-17	 Blues	 • Jaroslav Halak	 	 returned to lineup
+14	2013-02-19	 Blues	 	 • Jaroslav Halak	 strained groin (DTD)
+15	2013-02-20	 Blues	 • Jaroslav Halak	 	 returned to lineup
+16	2013-04-02	 Blues	 	 • Jaroslav Halak	 groin injury (DTD)
+17	2013-04-25	 Blues	 • Jaroslav Halak	 	 activated from IR
+18	2014-01-02	 Blues	 	 • Jaroslav Halak	 illness (DTD)
+19	2014-01-07	 Blues	 • Jaroslav Halak	 	 returned to lineup
+20	2014-12-23	 Islanders	 	 • Jaroslav Halak	 placed on IR with lower body injury (date 12-27 per CBC SN)
+21	2014-12-28	 Islanders	 • Jaroslav Halak	 	 activated from IR
+22	2015-03-14	 Islanders	 	 • Jaroslav Halak	 lower body injury (DTD)
+23	2015-03-19	 Islanders	 • Jaroslav Halak	 	 returned to lineup
+24	2015-10-09	 Islanders	 	 • Jaroslav Halak	 upper body injury (DTD)
+25	2015-10-17	 Islanders	 • Jaroslav Halak	 	 returned to lineup
+26	2015-10-29	 Islanders	 	 • Jaroslav Halak	 illness (DTD)
+27	2015-10-31	 Islanders	 • Jaroslav Halak	 	 returned to lineup
+28	2015-12-26	 Islanders	 	 • Jaroslav Halak	 placed on IR with upper body injury
+29	2016-01-05	 Islanders	 • Jaroslav Halak	 	 activated from IR
+30	2016-03-09	 Islanders	 	 • Jaroslav Halak	 groin injury (out for season)
+31	2018-03-30	 Islanders	 	 • Jaroslav Halak	 illness (DTD)
+32	2018-04-03	 Islanders	 • Jaroslav Halak	 	 returned to lineup

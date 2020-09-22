@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-04-04	 Penguins	 	 • Olli Maatta	 upper body injury (DTD)
+1	2014-04-09	 Penguins	 • Olli Maatta	 	 returned to lineup
+2	2014-05-22	 Penguins	 	 • Olli Maatta	 surgery on shoulder (out for season)
+3	2014-11-04	 Penguins	 	 • Olli Maatta	 thyroid ailment (out indefinitely)
+4	2014-11-18	 Penguins	 • Olli Maatta	 	 returned to lineup
+5	2014-12-08	 Penguins	 	 • Olli Maatta	 undisclosed injury (DTD)
+6	2014-12-13	 Penguins	 	 • Olli Maatta	 placed on IR with upper body injury (out for season)
+7	2015-11-18	 Penguins	 	 • Olli Maatta	 upper body injury (DTD)
+8	2015-12-05	 Penguins	 • Olli Maatta	 	 returned to lineup
+9	2016-03-25	 Penguins	 	 • Olli Maatta	 lower body injury (DTD)
+10	2016-04-13	 Penguins	 • Olli Maatta	 	 returned to lineup
+11	2016-05-01	 Penguins	 	 • Olli Maatta	 upper body injury (DTD)
+12	2016-05-10	 Penguins	 • Olli Maatta	 	 returned to lineup
+13	2016-12-27	 Penguins	 	 • Olli Maatta	 illness (DTD)
+14	2016-12-31	 Penguins	 • Olli Maatta	 	 returned to lineup
+15	2017-02-17	 Penguins	 	 • Olli Maatta	 placed on IR with surgery on left hand
+16	2017-04-09	 Penguins	 • Olli Maatta	 	 activated from IR
+17	2019-02-12	 Penguins	 	 • Olli Maatta	 placed on IR with shoulder injury
+18	2019-03-29	 Penguins	 • Olli Maatta	 	 activated from IR
+19	2019-12-05	 Blackhawks	 	 • Olli Maatta	 flu (DTD)
+20	2019-12-12	 Blackhawks	 • Olli Maatta	 	 returned to lineup

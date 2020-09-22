@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-04-24	 Canucks	 	 • Cory Schneider	 lower body injury (left game)
+1	2013-04-10	 Canucks	 	 • Cory Schneider	 illness / flu (DTD)
+2	2013-04-13	 Canucks	 • Cory Schneider	 	 returned to lineup
+3	2013-04-24	 Canucks	 	 • Cory Schneider	 lower body injury (DTD)
+4	2013-05-05	 Canucks	 • Cory Schneider	 	 returned to lineup
+5	2013-10-26	 Devils	 	 • Cory Schneider	 lower body injury (DTD)
+6	2013-10-28	 Devils	 	 • Cory Schneider	 placed on IR with lower body injury
+7	2013-11-03	 Devils	 • Cory Schneider	 	 activated from IR
+8	2015-01-16	 Devils	 	 • Cory Schneider	 upper body injury (DTD)
+9	2016-03-05	 Devils	 	 • Cory Schneider	 sprained MCL in knee (DTD)
+10	2016-03-28	 Devils	 	 • Cory Schneider	 placed on IR with sprained MCL in knee
+11	2016-03-30	 Devils	 • Cory Schneider	 	 activated from IR
+12	2017-10-19	 Devils	 	 • Cory Schneider	 placed on IR with lower body injury
+13	2017-10-28	 Devils	 • Cory Schneider	 	 activated from IR
+14	2018-01-16	 Devils	 	 • Cory Schneider	 illness (DTD)
+15	2018-01-17	 Devils	 • Cory Schneider	 	 returned to lineup
+16	2018-01-19	 Devils	 	 • Cory Schneider	 illness (DTD)
+17	2018-01-22	 Devils	 • Cory Schneider	 	 returned to lineup
+18	2018-01-25	 Devils	 	 • Cory Schneider	 groin injury (DTD)
+19	2018-02-12	 Devils	 	 • Cory Schneider	 placed on IR with groin injury
+20	2018-03-01	 Devils	 • Cory Schneider	 	 activated from IR
+21	2018-10-02	 Devils	 	 • Cory Schneider	 placed on IR with hip injury
+22	2018-10-19	 Devils	 • Cory Schneider	 	 activated from IR
+23	2018-12-17	 Devils	 	 • Cory Schneider	 placed on IR with strained abdominal
+24	2019-01-19	 Devils	 • Cory Schneider	 	 activated from IR

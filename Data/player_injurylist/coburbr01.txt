@@ -1,0 +1,35 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-09-26	 Thrashers	 	 • Braydon Coburn	 placed on IR with separated shoulder (out indefinitely)
+1	2006-10-24	 Thrashers	 • Braydon Coburn	 	 activated from IR
+2	2007-01-13	 Thrashers	 	 • Braydon Coburn	 facial injury (DTD)
+3	2007-01-16	 Thrashers	 • Braydon Coburn	 	 returned to lineup
+4	2008-02-10	 Flyers	 	 • Braydon Coburn	 lower body injury (DTD)
+5	2008-02-17	 Flyers	 • Braydon Coburn	 	 returned to lineup
+6	2008-05-12	 Flyers	 	 • Braydon Coburn	 eye injury (out for season)
+7	2009-01-31	 Flyers	 	 • Braydon Coburn	 flu (DTD)
+8	2009-02-07	 Flyers	 • Braydon Coburn	 	 returned to lineup
+9	2009-12-13	 Flyers	 	 • Braydon Coburn	 ankle injury (DTD)
+10	2009-12-15	 Flyers	 • Braydon Coburn	 	 returned to lineup
+11	2011-11-21	 Flyers	 	 • Braydon Coburn	 upper body injury (DTD)
+12	2011-11-23	 Flyers	 • Braydon Coburn	 	 returned to lineup
+13	2013-03-29	 Flyers	 	 • Braydon Coburn	 placed on IR with separated left shoulder (out for season)
+14	2014-10-09	 Flyers	 	 • Braydon Coburn	 lower body injury (DTD)
+15	2014-10-24	 Flyers	 	 • Braydon Coburn	 placed on IR with lower body injury
+16	2014-11-08	 Flyers	 • Braydon Coburn	 	 activated from IR
+17	2015-01-13	 Flyers	 	 • Braydon Coburn	 left foot injury (DTD)
+18	2015-01-17	 Flyers	 	 • Braydon Coburn	 placed on IR with left foot injury
+19	2015-02-15	 Flyers	 • Braydon Coburn	 	 activated from IR
+20	2015-03-12	 Lightning	 	 • Braydon Coburn	 placed on IR with lower body injury (out for season)
+21	2016-03-06	 Lightning	 	 • Braydon Coburn	 lower body injury (DTD)
+22	2016-03-11	 Lightning	 • Braydon Coburn	 	 returned to lineup
+23	2017-01-07	 Lightning	 	 • Braydon Coburn	 upper body injury (DTD)
+24	2017-01-12	 Lightning	 • Braydon Coburn	 	 returned to lineup
+25	2017-12-02	 Lightning	 	 • Braydon Coburn	 undisclosed (DTD)
+26	2017-12-16	 Lightning	 • Braydon Coburn	 	 returned to lineup
+27	2019-01-05	 Lightning	 	 • Braydon Coburn	 upper body injury (DTD)
+28	2019-01-08	 Lightning	 • Braydon Coburn	 	 returned to lineup
+29	2019-11-30	 Lightning	 	 • Braydon Coburn	 lower body injury (out indefinitely)
+30	2019-12-09	 Lightning	 	 • Braydon Coburn	 placed on IR with lower body injury
+31	2019-12-29	 Lightning	 • Braydon Coburn	 	 activated from IR
+32	2020-02-17	 Lightning	 	 • Braydon Coburn	 lower body injury (DTD)
+33	2020-02-20	 Lightning	 • Braydon Coburn	 	 returned to lineup

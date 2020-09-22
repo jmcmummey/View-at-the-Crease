@@ -1,0 +1,48 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-07	 Capitals	 	 • Boyd Gordon	 undisclosed injury (DTD)
+1	2006-10-28	 Capitals	 • Boyd Gordon	 	 returned to lineup
+2	2007-03-03	 Capitals	 	 • Boyd Gordon	 knee injury (out indefinitely)
+3	2007-03-09	 Capitals	 • Boyd Gordon	 	 returned to lineup
+4	2007-10-12	 Capitals	 	 • Boyd Gordon	 undisclosed injury (DTD)
+5	2007-10-20	 Capitals	 • Boyd Gordon	 	 returned to lineup
+6	2007-11-29	 Capitals	 	 • Boyd Gordon	 undisclosed injury (DTD)
+7	2007-12-05	 Capitals	 	 • Boyd Gordon	 fractured right hand (out indefinitely)
+8	2007-12-27	 Capitals	 • Boyd Gordon	 	 returned to lineup
+9	2008-11-26	 Capitals	 	 • Boyd Gordon	 back spasms (DTD)
+10	2008-11-28	 Capitals	 • Boyd Gordon	 	 returned to lineup
+11	2009-01-09	 Capitals	 	 • Boyd Gordon	 undisclosed injury (DTD)
+12	2009-01-19	 Capitals	 • Boyd Gordon	 	 returned to lineup
+13	2009-03-19	 Capitals	 	 • Boyd Gordon	 placed on IR with lower body injury
+14	2009-04-15	 Capitals	 • Boyd Gordon	 	 activated from IR
+15	2009-10-15	 Capitals	 	 • Boyd Gordon	 placed on IR with back spasms
+16	2009-11-14	 Capitals	 • Boyd Gordon	 	 activated from IR
+17	2009-11-17	 Capitals	 	 • Boyd Gordon	 placed on IR with back injury
+18	2009-12-28	 Capitals	 • Boyd Gordon	 	 activated from IR
+19	2010-03-18	 Capitals	 	 • Boyd Gordon	 back injury (DTD)
+20	2010-04-09	 Capitals	 • Boyd Gordon	 	 returned to lineup
+21	2010-10-19	 Capitals	 	 • Boyd Gordon	 undisclosed (DTD)
+22	2010-10-30	 Capitals	 • Boyd Gordon	 	 returned to lineup
+23	2010-11-12	 Capitals	 	 • Boyd Gordon	 lower body injury (DTD)
+24	2010-11-17	 Capitals	 • Boyd Gordon	 	 returned to lineup
+25	2010-12-14	 Capitals	 	 • Boyd Gordon	 undisclosed injury (DTD)
+26	2010-12-19	 Capitals	 	 • Boyd Gordon	 placed on IR with lower body injury
+27	2011-01-12	 Capitals	 • Boyd Gordon	 	 activated from IR
+28	2011-12-26	 Coyotes	 	 • Boyd Gordon	 placed on IR with lower body injury
+29	2012-01-10	 Coyotes	 • Boyd Gordon	 	 activated from IR
+30	2013-12-01	 Oilers	 	 • Boyd Gordon	 shoulder injury (DTD)
+31	2013-12-07	 Oilers	 	 • Boyd Gordon	 placed on IR with shoulder injury
+32	2013-12-13	 Oilers	 • Boyd Gordon	 	 activated from IR
+33	2014-04-09	 Oilers	 	 • Boyd Gordon	 shoulder injury (out for season)
+34	2014-12-09	 Oilers	 	 • Boyd Gordon	 back injury (DTD)
+35	2014-12-13	 Oilers	 	 • Boyd Gordon	 placed on IR with back injury
+36	2014-12-18	 Oilers	 • Boyd Gordon	 	 activated from IR
+37	2015-03-25	 Oilers	 	 • Boyd Gordon	 back injury (out for season)
+38	2015-12-27	 Coyotes	 	 • Boyd Gordon	 placed on IR with head injury
+39	2015-12-29	 Coyotes	 	 • Boyd Gordon	 placed on IR with head injury (CBC)
+40	2016-01-04	 Coyotes	 • Boyd Gordon	 	 activated from IR
+41	2016-02-05	 Coyotes	 	 • Boyd Gordon	 lower body injury (DTD)
+42	2016-02-16	 Coyotes	 	 • Boyd Gordon	 placed on IR with lower body injury
+43	2016-03-05	 Coyotes	 • Boyd Gordon	 	 activated from IR
+44	2016-11-01	 Flyers	 	 • Boyd Gordon	 upper body injury (DTD)
+45	2016-11-03	 Flyers	 	 • Boyd Gordon	 placed on IR with upper body injury
+46	2016-12-07	 Flyers	 • Boyd Gordon	 	 activated from IR

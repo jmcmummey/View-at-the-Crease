@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-09-21	 Devils	 	 • John Madden	 hernia (DTD)
+1	2007-02-14	 Devils	 	 • John Madden	 facial injury (DTD)
+2	2007-02-16	 Devils	 • John Madden	 	 returned to lineup
+3	2007-03-15	 Devils	 	 • John Madden	 groin injury (DTD)
+4	2007-03-30	 Devils	 • John Madden	 	 returned to lineup
+5	2008-01-16	 Devils	 	 • John Madden	 ankle injury (DTD)
+6	2008-01-20	 Devils	 • John Madden	 	 returned to lineup
+7	2008-11-21	 Devils	 	 • John Madden	 left foot injury (DTD)
+8	2008-12-04	 Devils	 • John Madden	 	 returned to lineup
+9	2008-12-19	 Devils	 	 • John Madden	 flu (DTD)
+10	2008-12-23	 Devils	 • John Madden	 	 returned to lineup
+11	2010-02-10	 Blackhawks	 	 • John Madden	 lower body injury (DTD)
+12	2010-02-14	 Blackhawks	 	 • John Madden	 placed on IR with lower body injury
+13	2010-03-02	 Blackhawks	 • John Madden	 	 activated from IR
+14	2010-12-11	 Wild	 	 • John Madden	 upper body injury (DTD)
+15	2010-12-16	 Wild	 • John Madden	 	 returned to lineup
+16	2011-04-02	 Wild	 	 • John Madden	 lower body injury (DTD)
+17	2012-02-17	 Panthers	 	 • John Madden	 lower body injury (DTD)
+18	2012-02-28	 Panthers	 • John Madden	 	 returned to lineup
+19	2012-03-08	 Panthers	 	 • John Madden	 lower body injury (DTD)
+20	2012-03-09	 Panthers	 • John Madden	 	 returned to lineup

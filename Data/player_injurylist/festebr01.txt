@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-15	 Ducks	 	 • Brett Festerling	 knee injury (DTD)
+1	2009-01-20	 Ducks	 • Brett Festerling	 	 called up from AHL
+2	2011-11-14	 Jets	 	 • Brett Festerling	 upper body injury (DTD)
+3	2011-11-19	 Jets	 	 • Brett Festerling	 upper body injury (DTD) (Y)
+4	2011-11-23	 Jets	 	 • Brett Festerling	 placed on IR with upper body injury
+5	2011-12-06	 Jets	 • Brett Festerling	 	 activated from IR

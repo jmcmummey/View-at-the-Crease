@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-02	 Lightning	 	 • Petr Svoboda (a)	 placed on IR
+1	2000-10-06	 Lightning	 • Petr Svoboda (a)	 	 activated from IR
+2	2000-11-27	 Lightning	 	 • Petr Svoboda (a)	 placed on IR with pinched nerve in neck
+3	2000-12-06	 Lightning	 • Petr Svoboda (a)	 	 activated from IR
+4	2000-12-16	 Lightning	 	 • Petr Svoboda (a)	 placed on IR with head injury

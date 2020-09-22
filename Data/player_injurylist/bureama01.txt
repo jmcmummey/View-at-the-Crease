@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-01-13	 North Stars	 	 • Marc Bureau	 shoulder injury (DTD)
+1	1992-02-15	 North Stars	 	 • Marc Bureau	 separated shoulder (DTD)
+2	1992-03-01	 North Stars	 	 • Marc Bureau	 separated shoulder (DTD)
+3	1992-11-17	 Lightning	 	 • Marc Bureau	 bruised shoulder (DTD)
+4	1993-04-03	 Lightning	 	 • Marc Bureau	 bruised right knee (out for season)
+5	1995-09-26	 Canadiens	 	 • Marc Bureau	 broken foot (DTD)
+6	1995-11-29	 Canadiens	 	 • Marc Bureau	 sore neck (DTD)
+7	2000-10-20	 Flames	 	 • Marc Bureau	 back injury (out indefinitely)

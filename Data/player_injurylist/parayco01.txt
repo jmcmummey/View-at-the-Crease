@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-17	 Blues	 	 • Colton Parayko	 lower body injury (DTD)
+1	2015-11-21	 Blues	 • Colton Parayko	 	 returned to lineup
+2	2016-01-20	 Blues	 	 • Colton Parayko	 illness (DTD)
+3	2016-01-22	 Blues	 • Colton Parayko	 	 returned to lineup
+4	2017-03-11	 Blues	 	 • Colton Parayko	 undisclosed injury (DTD)
+5	2017-03-13	 Blues	 • Colton Parayko	 	 returned to lineup
+6	2019-04-04	 Blues	 	 • Colton Parayko	 undisclosed (out for season)
+7	2020-01-04	 Blues	 	 • Colton Parayko	 upper body injury (DTD)
+8	2020-01-14	 Blues	 	 • Colton Parayko	 placed on IR with upper body injury
+9	2020-01-27	 Blues	 • Colton Parayko	 	 activated from IR

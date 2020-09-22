@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-10	 Capitals	 • Olaf Kolzig	 	 activated from IR
+1	2002-10-29	 Capitals	 	 • Olaf Kolzig	 placed on IR
+2	2002-11-07	 Capitals	 • Olaf Kolzig	 	 activated from IR
+3	2002-12-16	 Capitals	 • Olaf Kolzig	 	 activated from IR
+4	2005-11-11	 Capitals	 	 • Olaf Kolzig	 groin injury (DTD)
+5	2005-11-17	 Capitals	 • Olaf Kolzig	 	 returned to lineup
+6	2007-02-12	 Capitals	 	 • Olaf Kolzig	 knee injury (out indefinitely)
+7	2007-03-14	 Capitals	 • Olaf Kolzig	 	 returned to lineup
+8	2008-12-17	 Lightning	 	 • Olaf Kolzig	 upper body injury (DTD) (date approximate)
+9	2008-12-20	 Lightning	 • Olaf Kolzig	 	 returned to lineup
+10	2008-12-23	 Lightning	 	 • Olaf Kolzig	 upper body injury (DTD)
+11	2009-01-27	 Lightning	 	 • Olaf Kolzig	 left arm injury (DTD)

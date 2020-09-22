@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-01	 Stars	 	 • Aaron Gagnon	 placed on IR with ankle injury
+1	2007-10-11	 Stars	 • Aaron Gagnon	 	 activated from IR
+2	2011-10-05	 Jets	 	 • Aaron Gagnon	 placed on IR with knee injury
+3	2013-01-19	 Jets	 	 • Aaron Gagnon	 placed on IR

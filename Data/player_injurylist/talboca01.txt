@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-06-04	 Rangers	 	 • Cam Talbot	 undisclosed injury (out for season)
+1	2017-11-30	 Oilers	 	 • Cam Talbot	 placed on IR with upper body injury
+2	2017-12-15	 Oilers	 • Cam Talbot	 	 activated from IR
+3	2018-01-31	 Oilers	 	 • Cam Talbot	 illness (DTD)
+4	2018-02-02	 Oilers	 • Cam Talbot	 	 returned to lineup

@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-29	 Canadiens	 	 • Ryan O'Byrne	 thumb injury (DTD)
+1	2008-01-04	 Canadiens	 	 • Ryan O'Byrne	 broken thumb (out 5-7 weeks)
+2	2008-02-07	 Canadiens	 • Ryan O'Byrne	 	 returned to lineup
+3	2009-10-05	 Canadiens	 	 • Ryan O'Byrne	 placed on IR with knee injury
+4	2009-11-20	 Canadiens	 • Ryan O'Byrne	 	 activated from IR
+5	2011-02-24	 Avalanche	 	 • Ryan O'Byrne	 facial lacerations (DTD)
+6	2011-03-08	 Avalanche	 • Ryan O'Byrne	 	 returned to lineup
+7	2012-02-24	 Avalanche	 	 • Ryan O'Byrne	 placed on IR with knee injury
+8	2012-03-10	 Avalanche	 • Ryan O'Byrne	 	 activated from IR

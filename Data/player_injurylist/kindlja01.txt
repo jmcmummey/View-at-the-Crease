@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-04	 Red Wings	 	 • Jakub Kindl	 upper body injury (DTD)
+1	2012-03-24	 Red Wings	 • Jakub Kindl	 	 returned to lineup
+2	2012-04-07	 Red Wings	 	 • Jakub Kindl	 undisclosed injury (out for season)
+3	2013-01-19	 Red Wings	 	 • Jakub Kindl	 placed on IR with groin injury
+4	2013-01-25	 Red Wings	 • Jakub Kindl	 	 activated from IR
+5	2014-02-05	 Red Wings	 	 • Jakub Kindl	 placed on IR with lower body injury
+6	2014-03-07	 Red Wings	 • Jakub Kindl	 	 activated from IR
+7	2014-12-29	 Red Wings	 	 • Jakub Kindl	 placed on IR with elbow injury
+8	2015-01-28	 Red Wings	 • Jakub Kindl	 	 activated from IR
+9	2015-10-05	 Red Wings	 	 • Jakub Kindl	 placed on IR with undisclosed injury
+10	2015-10-08	 Red Wings	 • Jakub Kindl	 	 activated from IR

@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-22	 Islanders	 	 • Mark Parrish	 hip injury (DTD)
+1	2005-11-01	 Islanders	 • Mark Parrish	 	 returned to lineup
+2	2007-01-11	 Wild	 	 • Mark Parrish	 lower body injury (DTD)
+3	2007-01-16	 Wild	 • Mark Parrish	 	 returned to lineup
+4	2007-03-04	 Wild	 	 • Mark Parrish	 upper body injury (DTD)
+5	2007-03-08	 Wild	 • Mark Parrish	 	 returned to lineup
+6	2007-03-31	 Wild	 	 • Mark Parrish	 stomach virus (DTD)
+7	2007-04-03	 Wild	 • Mark Parrish	 	 returned to lineup
+8	2007-11-30	 Wild	 	 • Mark Parrish	 hip injury (DTD)
+9	2007-12-07	 Wild	 • Mark Parrish	 	 returned to lineup
+10	2008-01-16	 Wild	 	 • Mark Parrish	 back injury (DTD)
+11	2008-01-18	 Wild	 • Mark Parrish	 	 returned to lineup
+12	2008-02-05	 Wild	 	 • Mark Parrish	 head injury (DTD)
+13	2008-02-09	 Wild	 • Mark Parrish	 	 returned to lineup
+14	2008-02-27	 Wild	 	 • Mark Parrish	 flu (DTD)
+15	2008-03-02	 Wild	 • Mark Parrish	 	 returned to lineup
+16	2008-04-09	 Wild	 	 • Mark Parrish	 left knee injury (out indefinitely)
+17	2009-01-29	 Stars	 	 • Mark Parrish	 flu (DTD)
+18	2009-02-08	 Stars	 • Mark Parrish	 	 returned to lineup
+19	2009-03-12	 Stars	 	 • Mark Parrish	 facial injury (DTD)
+20	2009-03-18	 Stars	 • Mark Parrish	 	 returned to lineup

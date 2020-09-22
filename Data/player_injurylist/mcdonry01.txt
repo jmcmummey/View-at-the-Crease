@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-04	 Rangers	 	 • Ryan McDonagh	 knee injury (DTD)
+1	2011-03-06	 Rangers	 • Ryan McDonagh	 	 returned to lineup
+2	2012-01-21	 Rangers	 	 • Ryan McDonagh	 undisclosed injury (DTD)
+3	2013-02-23	 Rangers	 	 • Ryan McDonagh	 facial laceration (DTD)
+4	2013-02-28	 Rangers	 • Ryan McDonagh	 	 returned to lineup
+5	2014-04-02	 Rangers	 	 • Ryan McDonagh	 bruised left shoulder (out for season)
+6	2014-11-02	 Rangers	 	 • Ryan McDonagh	 placed on IR with shoulder injury
+7	2014-11-28	 Rangers	 • Ryan McDonagh	 	 activated from IR
+8	2016-02-07	 Rangers	 	 • Ryan McDonagh	 concussion (DTD)
+9	2016-02-17	 Rangers	 • Ryan McDonagh	 	 returned to lineup
+10	2016-02-21	 Rangers	 	 • Ryan McDonagh	 bruised jaw (DTD)
+11	2016-02-25	 Rangers	 • Ryan McDonagh	 	 returned to lineup
+12	2016-04-05	 Rangers	 	 • Ryan McDonagh	 hand injury (DTD)
+13	2016-04-19	 Rangers	 • Ryan McDonagh	 	 returned to lineup
+14	2016-12-13	 Rangers	 	 • Ryan McDonagh	 flu (DTD)
+15	2016-12-15	 Rangers	 • Ryan McDonagh	 	 returned to lineup
+16	2017-03-30	 Rangers	 	 • Ryan McDonagh	 undisclosed injury (DTD)
+17	2017-04-09	 Rangers	 • Ryan McDonagh	 	 returned to lineup
+18	2017-11-21	 Rangers	 	 • Ryan McDonagh	 strained abdominal muscle (DTD)
+19	2017-12-01	 Rangers	 • Ryan McDonagh	 	 returned to lineup
+20	2018-01-14	 Rangers	 	 • Ryan McDonagh	 undisclosed injury (DTD)
+21	2018-01-16	 Rangers	 • Ryan McDonagh	 	 returned to lineup
+22	2018-02-09	 Rangers	 	 • Ryan McDonagh	 upper body injury (DTD)
+23	2018-03-10	 Lightning	 • Ryan McDonagh	 	 returned to lineup
+24	2020-01-05	 Lightning	 	 • Ryan McDonagh	 upper body injury (DTD)
+25	2020-01-16	 Lightning	 • Ryan McDonagh	 	 returned to lineup
+26	2020-02-08	 Lightning	 	 • Ryan McDonagh	 lower body injury (out indefinitely)
+27	2020-02-13	 Lightning	 	 • Ryan McDonagh	 placed on IR with lower body injury
+28	2020-03-08	 Lightning	 • Ryan McDonagh	 	 activated from IR
+29	2020-08-25	 Lightning	 	 • Ryan McDonagh	 undisclosed (DTD)
+30	2020-08-31	 Lightning	 • Ryan McDonagh	 	 returned to lineup

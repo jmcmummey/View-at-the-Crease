@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-12-18	 Maple Leafs	 	 • Wendel Clark	 separated left shoulder (out indefinitely)
+1	1991-01-03	 Maple Leafs	 • Wendel Clark	 	 returned to lineup
+2	1991-02-06	 Maple Leafs	 	 • Wendel Clark	 pulled ribcage muscle (out indefinitely)
+3	1991-03-05	 Maple Leafs	 • Wendel Clark	 	 returned to lineup
+4	1991-10-07	 Maple Leafs	 	 • Wendel Clark	 torn MCL in left knee (out indefinitely)
+5	1991-11-02	 Maple Leafs	 • Wendel Clark	 	 returned to lineup
+6	1991-11-06	 Maple Leafs	 	 • Wendel Clark	 sprained MCL in left knee (out indefinitely)
+7	1992-01-03	 Maple Leafs	 • Wendel Clark	 	 returned to lineup
+8	1992-10-22	 Maple Leafs	 	 • Wendel Clark	 pulled groin (DTD)
+9	1992-11-05	 Maple Leafs	 • Wendel Clark	 	 returned to lineup
+10	1993-01-17	 Maple Leafs	 	 • Wendel Clark	 strained ribcage muscles (out indefinitely)
+11	1993-02-20	 Maple Leafs	 • Wendel Clark	 	 returned to lineup
+12	1993-10-13	 Maple Leafs	 	 • Wendel Clark	 sprained right knee (DTD)
+13	1993-10-19	 Maple Leafs	 • Wendel Clark	 	 returned to lineup
+14	1993-12-22	 Maple Leafs	 	 • Wendel Clark	 bruised right ankle/foot (out indefinitely)
+15	1994-02-05	 Maple Leafs	 • Wendel Clark	 	 returned to lineup
+16	1995-03-18	 Nordiques	 	 • Wendel Clark	 thigh injury (DTD)
+17	1996-01-30	 Islanders	 	 • Wendel Clark	 back spasms (out indefinitely)

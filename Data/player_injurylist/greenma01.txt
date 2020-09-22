@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-01	 Oilers	 	 • Matt Greene	 placed on IR with leg injury
+1	2006-03-12	 Oilers	 • Matt Greene	 	 activated from IR
+2	2007-10-31	 Oilers	 	 • Matt Greene	 placed on IR with ankle injury
+3	2008-01-17	 Oilers	 • Matt Greene	 	 activated from IR
+4	2010-01-10	 Kings	 	 • Matt Greene	 lower body injury (out indefinitely)
+5	2010-01-10	 Kings	 • Matt Greene	 	 returned to lineup
+6	2010-03-24	 Kings	 	 • Matt Greene	 upper body injury (DTD)
+7	2010-03-29	 Kings	 • Matt Greene	 	 returned to lineup
+8	2010-09-15	 Kings	 	 • Matt Greene	 recovering from surgery on left shoulder (out indefinitely)
+9	2010-10-06	 Kings	 	 • Matt Greene	 placed on injured/non-roster list recovering form surgery on left shoulder
+10	2010-10-23	 Kings	 • Matt Greene	 	 activated from non-roster list
+11	2010-12-16	 Kings	 	 • Matt Greene	 upper body injury (DTD)
+12	2010-12-26	 Kings	 • Matt Greene	 	 returned to lineup
+13	2013-01-21	 Kings	 	 • Matt Greene	 placed on IR with back injury
+14	2013-04-18	 Kings	 • Matt Greene	 	 activated from IR
+15	2013-04-27	 Kings	 	 • Matt Greene	 undisclosed injury (DTD)
+16	2013-05-21	 Kings	 • Matt Greene	 	 returned to lineup
+17	2013-11-07	 Kings	 	 • Matt Greene	 undisclosed injury (DTD)
+18	2013-11-13	 Kings	 	 • Matt Greene	 placed on IR with upper body injury
+19	2013-12-10	 Kings	 • Matt Greene	 	 activated from IR
+20	2013-12-10	 Kings	 	 • Matt Greene	 upper body injury (DTD)
+21	2013-12-15	 Kings	 • Matt Greene	 	 returned to lineup
+22	2014-01-15	 Kings	 	 • Matt Greene	 concussion (DTD)
+23	2014-01-27	 Kings	 • Matt Greene	 	 returned to lineup
+24	2015-10-14	 Kings	 	 • Matt Greene	 placed on IR with upper body injury (out for season)
+25	2015-10-23	 Kings	 	 • Matt Greene	 placed on IR with upper body injury (out for season)
+26	2017-01-22	 Kings	 	 • Matt Greene	 back injury (out for season)
+27	2017-01-30	 Kings	 	 • Matt Greene	 placed on IR with back injury (out for season)
+28	2017-06-14	 Kings	 • Matt Greene	 	 activated from IR

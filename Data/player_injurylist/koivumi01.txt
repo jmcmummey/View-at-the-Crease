@@ -1,0 +1,42 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-09-30	 Wild	 	 • Mikko Koivu	 injured left knee (out 1 month)
+1	2005-10-04	 Wild	 	 • Mikko Koivu	 injured left knee (out 1 month)
+2	2005-11-05	 Wild	 • Mikko Koivu	 	 returned to lineup
+3	2006-01-24	 Wild	 	 • Mikko Koivu	 knee injury (DTD)
+4	2006-01-26	 Wild	 • Mikko Koivu	 	 returned to lineup
+5	2006-01-31	 Wild	 	 • Mikko Koivu	 bruised foot (DTD)
+6	2006-02-02	 Wild	 • Mikko Koivu	 	 returned to lineup
+7	2006-03-07	 Wild	 	 • Mikko Koivu	 flu (DTD)
+8	2006-03-10	 Wild	 • Mikko Koivu	 	 returned to lineup
+9	2007-11-17	 Wild	 	 • Mikko Koivu	 placed on IR with left knee injury
+10	2008-01-11	 Wild	 • Mikko Koivu	 	 activated from IR
+11	2009-03-23	 Wild	 	 • Mikko Koivu	 knee injury (DTD)
+12	2009-03-29	 Wild	 • Mikko Koivu	 	 returned to lineup
+13	2010-03-25	 Wild	 	 • Mikko Koivu	 arm injury (DTD)
+14	2010-03-29	 Wild	 • Mikko Koivu	 	 returned to lineup
+15	2011-02-19	 Wild	 	 • Mikko Koivu	 left hand injury (DTD)
+16	2011-02-24	 Wild	 	 • Mikko Koivu	 placed on IR with left hand injury
+17	2011-03-14	 Wild	 • Mikko Koivu	 	 activated from IR
+18	2011-12-17	 Wild	 	 • Mikko Koivu	 leg injury (DTD)
+19	2011-12-22	 Wild	 	 • Mikko Koivu	 placed on IR with leg injury
+20	2011-12-26	 Wild	 • Mikko Koivu	 	 activated from IR
+21	2012-01-15	 Wild	 	 • Mikko Koivu	 placed on IR with upper body injury
+22	2012-02-09	 Wild	 • Mikko Koivu	 	 activated from IR
+23	2012-02-18	 Wild	 	 • Mikko Koivu	 undisclosed injury (DTD)
+24	2012-02-24	 Wild	 	 • Mikko Koivu	 placed on IR with shoulder injury
+25	2012-03-22	 Wild	 • Mikko Koivu	 	 activated from IR
+26	2014-01-05	 Wild	 	 • Mikko Koivu	 placed on IR with surgery on ankle
+27	2014-03-03	 Wild	 • Mikko Koivu	 	 activated from IR
+28	2015-04-04	 Wild	 	 • Mikko Koivu	 eye injury (DTD)
+29	2015-04-06	 Wild	 • Mikko Koivu	 	 returned to lineup
+30	2017-01-22	 Wild	 	 • Mikko Koivu	 illness (DTD)
+31	2017-01-24	 Wild	 • Mikko Koivu	 	 returned to lineup
+32	2018-12-07	 Wild	 	 • Mikko Koivu	 lower body injury (DTD)
+33	2018-12-18	 Wild	 • Mikko Koivu	 	 returned to lineup
+34	2019-02-05	 Wild	 	 • Mikko Koivu	 placed on IR with torn ACL and meniscus in right knee (out for season)
+35	2019-02-06	 Wild	 	 • Mikko Koivu	 surgery on right knee to repair torn ACL and meniscus in right knee (out for season)
+36	2019-12-04	 Wild	 	 • Mikko Koivu	 lower body injury (DTD)
+37	2019-12-06	 Wild	 	 • Mikko Koivu	 placed on IR with lower body injury
+38	2019-12-30	 Wild	 • Mikko Koivu	 	 activated from IR
+39	2020-01-18	 Wild	 	 • Mikko Koivu	 illness (DTD)
+40	2020-01-21	 Wild	 • Mikko Koivu	 	 returned to lineup

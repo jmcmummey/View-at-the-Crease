@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-12-11	 Panthers	 	 • Viktor Kozlov	 placed on IR
+1	2005-11-15	 Devils	 	 • Viktor Kozlov	 ill (DTD)
+2	2005-11-18	 Devils	 • Viktor Kozlov	 	 returned to lineup
+3	2007-03-10	 Islanders	 	 • Viktor Kozlov	 foot injury (DTD)
+4	2007-03-13	 Islanders	 • Viktor Kozlov	 	 returned to lineup
+5	2008-02-26	 Capitals	 	 • Viktor Kozlov	 flu (DTD)
+6	2008-02-29	 Capitals	 • Viktor Kozlov	 	 returned to lineup
+7	2008-10-14	 Capitals	 	 • Viktor Kozlov	 knee injury (out indefinitely)
+8	2008-10-25	 Capitals	 • Viktor Kozlov	 	 returned to lineup
+9	2008-11-10	 Capitals	 	 • Viktor Kozlov	 undisclosed (DTD)
+10	2008-11-12	 Capitals	 • Viktor Kozlov	 	 returned to lineup
+11	2009-02-05	 Capitals	 	 • Viktor Kozlov	 placed on IR with groin injury
+12	2009-02-26	 Capitals	 • Viktor Kozlov	 	 activated from IR
+13	2009-03-01	 Capitals	 	 • Viktor Kozlov	 groin injury (DTD)
+14	2009-03-03	 Capitals	 • Viktor Kozlov	 	 returned to lineup

@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-05-01	 Penguins	 	 • Jordan Staal	 right foot injury (DTD)
+1	2010-05-06	 Penguins	 • Jordan Staal	 	 returned to lineup
+2	2010-09-16	 Penguins	 	 • Jordan Staal	 infection in right foot (DTD)
+3	2010-10-06	 Penguins	 	 • Jordan Staal	 placed on injured-non roster list with infection in right foot
+4	2011-01-01	 Penguins	 • Jordan Staal	 	 activated from IR
+5	2011-10-29	 Penguins	 	 • Jordan Staal	 lower body injury (DTD)
+6	2011-11-05	 Penguins	 • Jordan Staal	 	 returned to lineup
+7	2011-12-03	 Penguins	 	 • Jordan Staal	 facial lacerations (DTD)
+8	2011-12-10	 Penguins	 	 • Jordan Staal	 lower body injury (DTD)
+9	2011-12-13	 Penguins	 • Jordan Staal	 	 returned to lineup
+10	2011-12-16	 Penguins	 	 • Jordan Staal	 lower body injury (DTD)
+11	2011-12-20	 Penguins	 • Jordan Staal	 	 returned to lineup
+12	2012-01-07	 Penguins	 	 • Jordan Staal	 left knee injury (out indefinitely)
+13	2012-01-10	 Penguins	 	 • Jordan Staal	 placed on IR with sprained MCL in left knee
+14	2012-02-11	 Penguins	 • Jordan Staal	 	 activated from IR
+15	2014-09-26	 Hurricanes	 	 • Jordan Staal	 fractured right leg (DTD)
+16	2014-10-02	 Hurricanes	 	 • Jordan Staal	 placed on IR with fractured right fibula
+17	2014-12-29	 Hurricanes	 • Jordan Staal	 	 activated from IR
+18	2014-12-31	 Hurricanes	 	 • Jordan Staal	 lower body injury (DTD)
+19	2015-01-02	 Hurricanes	 • Jordan Staal	 	 returned to lineup
+20	2016-11-28	 Hurricanes	 	 • Jordan Staal	 placed on IR with concussion
+21	2016-12-13	 Hurricanes	 • Jordan Staal	 	 activated from IR
+22	2018-12-06	 Hurricanes	 	 • Jordan Staal	 upper body injury (DTD)
+23	2018-12-12	 Hurricanes	 	 • Jordan Staal	 placed on IR with concussion
+24	2018-12-20	 Hurricanes	 • Jordan Staal	 	 activated from IR
+25	2018-12-22	 Hurricanes	 	 • Jordan Staal	 upper body injury (DTD)
+26	2019-01-04	 Hurricanes	 	 • Jordan Staal	 placed on IR with concussion
+27	2019-02-23	 Hurricanes	 • Jordan Staal	 	 activated from IR

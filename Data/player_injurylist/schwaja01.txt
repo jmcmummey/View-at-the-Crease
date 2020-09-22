@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-16	 Blues	 	 • Jaden Schwartz	 upper body injury (DTD)
+1	2013-12-19	 Blues	 • Jaden Schwartz	 	 returned to lineup
+2	2014-12-17	 Blues	 	 • Jaden Schwartz	 placed on IR with right foot injury
+3	2015-01-03	 Blues	 • Jaden Schwartz	 	 activated from IR
+4	2015-10-23	 Blues	 	 • Jaden Schwartz	 placed on IR with fractured left ankle
+5	2015-10-27	 Blues	 	 • Jaden Schwartz	 placed on IR with fractured left ankle (CBC)
+6	2016-02-10	 Blues	 • Jaden Schwartz	 	 activated from IR
+7	2016-09-30	 Blues	 	 • Jaden Schwartz	 left elbow injury (DTD)
+8	2016-10-11	 Blues	 	 • Jaden Schwartz	 placed on IR with left elbow injury
+9	2016-10-20	 Blues	 • Jaden Schwartz	 	 activated from IR
+10	2017-12-10	 Blues	 	 • Jaden Schwartz	 placed on IR with right ankle injury
+11	2018-01-25	 Blues	 • Jaden Schwartz	 	 activated from IR
+12	2018-10-13	 Blues	 	 • Jaden Schwartz	 foot injury (DTD)
+13	2018-10-17	 Blues	 • Jaden Schwartz	 	 returned to lineup
+14	2018-11-16	 Blues	 	 • Jaden Schwartz	 placed on IR with upper body injury
+15	2018-11-17	 Blues	 	 • Jaden Schwartz	 upper body injury (DTD)
+16	2018-11-23	 Blues	 	 • Jaden Schwartz	 placed on IR with upper body injury
+17	2018-12-11	 Blues	 • Jaden Schwartz	 	 activated from IR

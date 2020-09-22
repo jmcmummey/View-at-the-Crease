@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-11-04	 Stars	 	 • Juha Lind	 placed on IR
+1	1999-11-18	 Stars	 • Juha Lind	 	 activated from IR

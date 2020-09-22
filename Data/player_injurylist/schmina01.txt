@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-03-02	 Capitals	 	 • Nate Schmidt	 lower body injury (DTD)
+1	2016-03-05	 Capitals	 • Nate Schmidt	 	 returned to lineup
+2	2018-03-01	 Golden Knights	 	 • Nate Schmidt	 undisclosed (DTD)
+3	2018-03-09	 Golden Knights	 • Nate Schmidt	 	 returned to lineup
+4	2019-10-02	 Golden Knights	 	 • Nate Schmidt	 placed on IR with lower body injury
+5	2019-10-03	 Golden Knights	 	 • Nate Schmidt	 lower body injury (out indefinitely)
+6	2019-10-04	 Golden Knights	 	 • Nate Schmidt	 placed on IR with lower body injury
+7	2019-10-30	 Golden Knights	 • Nate Schmidt	 	 activated from IR

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-12-15	 Kings	 	 • Steve Heinze	 placed on IR with post-concussion symptoms
+1	2003-01-04	 Kings	 • Steve Heinze	 	 activated from IR
+2	2003-02-01	 Kings	 • Steve Heinze	 	 activated from IR (HN)
+3	2003-02-28	 Kings	 	 • Steve Heinze	 placed on IR

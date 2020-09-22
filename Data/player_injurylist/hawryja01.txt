@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-02-06	 Panthers	 	 • Jayce Hawryluk	 placed on IR with lower body injury
+1	2019-02-07	 Panthers	 	 • Jayce Hawryluk	 lower body injury (DTD)
+2	2019-02-14	 Panthers	 • Jayce Hawryluk	 	 activated from IR
+3	2019-11-01	 Panthers	 	 • Jayce Hawryluk	 upper body injury (out indefinitely)
+4	2020-02-15	 Panthers	 	 • Jayce Hawryluk	 illness (DTD)
+5	2020-02-20	 Senators	 • Jayce Hawryluk	 	 returned to lineup

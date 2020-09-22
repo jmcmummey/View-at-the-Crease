@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-01-18	 Golden Knights	 	 • Brendan Leipsic	 undisclosed injury (DTD)
+1	2018-03-23	 Canucks	 	 • Brendan Leipsic	 upper body injury (DTD)
+2	2018-04-03	 Canucks	 • Brendan Leipsic	 	 returned to lineup
+3	2019-03-23	 Kings	 	 • Brendan Leipsic	 lower body injury (out for season)

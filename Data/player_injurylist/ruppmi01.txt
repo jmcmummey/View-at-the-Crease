@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-18	 Blue Jackets	 	 • Michael Rupp / Mike Rupp	 placed on IR with broken foot
+1	2006-02-27	 Blue Jackets	 • Michael Rupp / Mike Rupp	 	 activated from IR
+2	2006-03-11	 Blue Jackets	 	 • Michael Rupp / Mike Rupp	 irregular heartbeat (out indefinitely)
+3	2010-05-06	 Penguins	 	 • Michael Rupp / Mike Rupp	 non-hockey injury (DTD)
+4	2011-10-27	 Rangers	 	 • Michael Rupp / Mike Rupp	 knee injury (DTD)
+5	2011-11-05	 Rangers	 	 • Michael Rupp / Mike Rupp	 placed on IR with knee injury
+6	2011-12-17	 Rangers	 • Michael Rupp / Mike Rupp	 	 activated from IR
+7	2013-03-17	 Wild	 	 • Michael Rupp / Mike Rupp	 lower body injury (DTD)
+8	2013-03-25	 Wild	 • Michael Rupp / Mike Rupp	 	 returned to lineup
+9	2013-04-16	 Wild	 	 • Michael Rupp / Mike Rupp	 undisclosed injury (DTD)
+10	2013-04-26	 Wild	 • Michael Rupp / Mike Rupp	 	 returned to lineup
+11	2013-10-01	 Wild	 	 • Michael Rupp / Mike Rupp	 placed on IR with surgery on left knee
+12	2013-11-25	 Wild	 • Michael Rupp / Mike Rupp	 	 activated from IR
+13	2014-03-23	 Wild	 	 • Michael Rupp / Mike Rupp	 illness (DTD)

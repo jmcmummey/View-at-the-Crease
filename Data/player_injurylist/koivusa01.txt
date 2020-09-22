@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-10-30	 Canadiens	 	 • Saku Koivu	 shoulder injury (out indefinitely)
+1	2001-09-06	 Canadiens	 	 • Saku Koivu	 non-Hodgkin's lymphoma (out indefinitely)
+2	2005-12-01	 Canadiens	 	 • Saku Koivu	 groin injury (out indefinitely)
+3	2005-12-17	 Canadiens	 • Saku Koivu	 	 returned to lineup
+4	2005-12-20	 Canadiens	 	 • Saku Koivu	 groin injury (DTD)
+5	2005-12-31	 Canadiens	 • Saku Koivu	 	 returned to lineup
+6	2006-04-27	 Canadiens	 	 • Saku Koivu	 left eye injury (out indefinitely)
+7	2006-09-14	 Canadiens	 	 • Saku Koivu	 eye injury (DTD)
+8	2007-01-06	 Canadiens	 	 • Saku Koivu	 gastrointestinal virus (DTD)
+9	2007-01-07	 Canadiens	 • Saku Koivu	 	 returned to lineup
+10	2007-12-30	 Canadiens	 	 • Saku Koivu	 virus (DTD)
+11	2008-01-03	 Canadiens	 • Saku Koivu	 	 returned to lineup
+12	2008-03-29	 Canadiens	 	 • Saku Koivu	 left foot injury (DTD)
+13	2008-04-19	 Canadiens	 • Saku Koivu	 	 returned to lineup
+14	2008-12-11	 Canadiens	 	 • Saku Koivu	 foot injury (DTD)
+15	2009-01-21	 Canadiens	 • Saku Koivu	 	 returned to lineup
+16	2009-11-11	 Ducks	 	 • Saku Koivu	 lower body injury (DTD)
+17	2009-11-21	 Ducks	 • Saku Koivu	 	 activated from IR
+18	2010-01-15	 Ducks	 	 • Saku Koivu	 sprained right knee (DTD)
+19	2010-01-26	 Ducks	 • Saku Koivu	 	 returned to lineup
+20	2010-12-12	 Ducks	 	 • Saku Koivu	 flu (DTD)
+21	2010-12-15	 Ducks	 • Saku Koivu	 	 returned to lineup
+22	2011-02-23	 Ducks	 	 • Saku Koivu	 groin injury (DTD)
+23	2011-02-27	 Ducks	 	 • Saku Koivu	 placed on IR with groin injury
+24	2011-03-09	 Ducks	 • Saku Koivu	 	 activated from IR
+25	2011-12-09	 Ducks	 	 • Saku Koivu	 lower body injury (DTD)
+26	2011-12-14	 Ducks	 	 • Saku Koivu	 placed on IR with lower body injury
+27	2011-12-31	 Ducks	 • Saku Koivu	 	 activated from IR
+28	2013-10-28	 Ducks	 	 • Saku Koivu	 placed on IR with concussion
+29	2013-11-29	 Ducks	 • Saku Koivu	 	 activated from IR

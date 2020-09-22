@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-21	 Lightning	 	 • Paul Ranger	 concussion (DTD)
+1	2005-10-26	 Lightning	 • Paul Ranger	 	 returned to lineup
+2	2006-09-22	 Lightning	 	 • Paul Ranger	 broken foot (out 3-4 weeks) (not per CBC)
+3	2006-12-30	 Lightning	 	 • Paul Ranger	 hand injury (DTD)
+4	2007-01-04	 Lightning	 • Paul Ranger	 	 returned to lineup
+5	2007-03-08	 Lightning	 	 • Paul Ranger	 knee injury (out 5-6 weeks)
+6	2007-03-30	 Lightning	 • Paul Ranger	 	 returned to lineup
+7	2007-11-21	 Lightning	 	 • Paul Ranger	 shoulder inijury (DTD)
+8	2007-11-23	 Lightning	 • Paul Ranger	 	 returned to lineup
+9	2008-03-20	 Lightning	 	 • Paul Ranger	 left shoulder injury (DTD)
+10	2008-10-03	 Lightning	 	 • Paul Ranger	 shoulder injury (DTD)
+11	2008-10-16	 Lightning	 • Paul Ranger	 	 returned to lineup
+12	2009-01-01	 Lightning	 	 • Paul Ranger	 undisclosed injury (DTD)
+13	2009-01-08	 Lightning	 • Paul Ranger	 	 returned to lineup
+14	2009-01-15	 Lightning	 	 • Paul Ranger	 upper body injury (DTD)
+15	2009-01-27	 Lightning	 • Paul Ranger	 	 returned to lineup
+16	2009-02-10	 Lightning	 	 • Paul Ranger	 upper body injury (DTD)
+17	2013-12-16	 Maple Leafs	 	 • Paul Ranger	 upper body injury (DTD)
+18	2013-12-23	 Maple Leafs	 • Paul Ranger	 	 returned to lineup
+19	2014-03-20	 Maple Leafs	 	 • Paul Ranger	 head/neck injury (DTD)
+20	2014-04-01	 Maple Leafs	 • Paul Ranger	 	 returned to lineup
+21	2014-04-08	 Maple Leafs	 	 • Paul Ranger	 flu (DTD)
+22	2014-04-10	 Maple Leafs	 • Paul Ranger	 	 returned to lineup

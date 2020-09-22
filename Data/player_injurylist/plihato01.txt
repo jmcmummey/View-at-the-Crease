@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-02	 Sharks	 	 • Tomas Plihal	 placed on IR with shoulder injury
+1	2007-11-29	 Sharks	 • Tomas Plihal	 	 activated from IL
+2	2008-10-14	 Sharks	 	 • Tomas Plihal	 lower body injury (DTD)
+3	2008-10-24	 Sharks	 • Tomas Plihal	 	 returned to lineup
+4	2009-02-15	 Sharks	 	 • Tomas Plihal	 undisclosed injury (DTD)
+5	2009-02-21	 Sharks	 • Tomas Plihal	 	 returned to lineup
+6	2009-03-12	 Sharks	 	 • Tomas Plihal	 lower body injury (DTD)
+7	2009-04-04	 Sharks	 • Tomas Plihal	 	 returned to lineup

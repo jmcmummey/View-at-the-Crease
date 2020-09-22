@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-10-27	 Kings	 	 • Aaron Miller	 placed on IR with back spasms
+1	2001-11-10	 Kings	 • Aaron Miller	 	 activated from IR
+2	2002-11-08	 Kings	 • Aaron Miller	 	 activated from IR
+3	2002-12-13	 Kings	 	 • Aaron Miller	 placed on IR with fractured left foot
+4	2003-01-22	 Kings	 • Aaron Miller	 	 activated from IR
+5	2003-10-30	 Kings	 • Aaron Miller	 	 activated from IR
+6	2003-12-10	 Kings	 	 • Aaron Miller	 cervical injury (out indefinitely)
+7	2003-12-15	 Kings	 	 • Aaron Miller	 placed on IR with cervical injury
+8	2004-03-09	 Kings	 • Aaron Miller	 	 activated from IR
+9	2005-12-21	 Kings	 	 • Aaron Miller	 back injury (left game)
+10	2005-12-23	 Kings	 	 • Aaron Miller	 back injury (DTD)
+11	2005-12-29	 Kings	 	 • Aaron Miller	 placed on IR with back spasms
+12	2006-01-26	 Kings	 • Aaron Miller	 	 activated from IR
+13	2006-03-29	 Kings	 	 • Aaron Miller	 sore back (DTD)
+14	2008-02-05	 Canucks	 	 • Aaron Miller	 hairline fracture in leg (DTD)
+15	2008-02-29	 Canucks	 • Aaron Miller	 	 returned to lineup
+16	2008-03-08	 Canucks	 	 • Aaron Miller	 shoulder injury (DTD)

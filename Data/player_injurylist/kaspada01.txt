@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-20	 Penguins	 	 • Darius Kasparaitis	 bruised foot (DTD)
+1	2000-12-26	 Penguins	 • Darius Kasparaitis	 	 returned to lineup
+2	2001-04-07	 Penguins	 	 • Darius Kasparaitis	 strained muscle (out for season)
+3	2006-01-14	 Rangers	 	 • Darius Kasparaitis	 sprained knee (DTD)
+4	2006-01-21	 Rangers	 • Darius Kasparaitis	 	 returned to lineup
+5	2006-03-22	 Rangers	 	 • Darius Kasparaitis	 groin injury (DTD)
+6	2006-03-29	 Rangers	 • Darius Kasparaitis	 	 returned to lineup
+7	2006-03-30	 Rangers	 	 • Darius Kasparaitis	 groin injury (DTD)
+8	2006-04-18	 Rangers	 • Darius Kasparaitis	 	 returned to lineup
+9	2006-04-24	 Rangers	 	 • Darius Kasparaitis	 groin injury (DTD)
+10	2006-04-29	 Rangers	 • Darius Kasparaitis	 	 returned to lineup
+11	2006-05-10	 Rangers	 	 • Darius Kasparaitis	 surgery on shoulder to repair torn labrum (date approximate)
+12	2006-10-05	 Rangers	 	 • Darius Kasparaitis	 hernia (DTD)
+13	2006-10-16	 Rangers	 • Darius Kasparaitis	 	 returned to lineup

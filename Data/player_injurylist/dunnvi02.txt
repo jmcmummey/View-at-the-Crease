@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-01-04	 Blues	 	 • Vince Dunn	 illness (DTD)
+1	2018-01-06	 Blues	 	 • Vince Dunn	 placed on IR with illness
+2	2018-01-08	 Blues	 • Vince Dunn	 	 activated from IR
+3	2019-01-08	 Blues	 	 • Vince Dunn	 lower body injury (DTD)
+4	2019-01-12	 Blues	 • Vince Dunn	 	 returned to lineup
+5	2019-05-17	 Blues	 	 • Vince Dunn	 upper body injury (DTD)
+6	2019-06-03	 Blues	 • Vince Dunn	 	 returned to lineup

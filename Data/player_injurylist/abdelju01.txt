@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-06-06	 Red Wings	 	 • Justin Abdelkader	 flu (DTD)
+1	2010-10-08	 Red Wings	 	 • Justin Abdelkader	 rib injury (DTD)
+2	2010-10-30	 Red Wings	 • Justin Abdelkader	 	 returned to lineup
+3	2012-03-09	 Red Wings	 	 • Justin Abdelkader	 stomach virus (DTD)
+4	2012-03-10	 Red Wings	 • Justin Abdelkader	 	 returned to lineup
+5	2013-12-14	 Red Wings	 	 • Justin Abdelkader	 head injury (DTD)
+6	2013-12-21	 Red Wings	 	 • Justin Abdelkader	 placed on IR with head injury
+7	2013-12-26	 Red Wings	 • Justin Abdelkader	 	 returned to lineup
+8	2014-03-17	 Red Wings	 	 • Justin Abdelkader	 lacerated leg (DTD)
+9	2014-03-30	 Red Wings	 • Justin Abdelkader	 	 returned to lineup
+10	2014-12-01	 Red Wings	 	 • Justin Abdelkader	 shoulder injury (DTD)
+11	2014-12-11	 Red Wings	 	 • Justin Abdelkader	 placed on IR with shoulder injury
+12	2014-12-15	 Red Wings	 • Justin Abdelkader	 	 activated from IR
+13	2015-04-05	 Red Wings	 	 • Justin Abdelkader	 hand injury (DTD)
+14	2015-04-20	 Red Wings	 • Justin Abdelkader	 	 returned to lineup
+15	2016-10-22	 Red Wings	 	 • Justin Abdelkader	 lower body injury (DTD)
+16	2016-10-27	 Red Wings	 • Justin Abdelkader	 	 returned to lineup
+17	2016-12-02	 Red Wings	 	 • Justin Abdelkader	 placed on IR with sprained MCL in knee
+18	2017-01-10	 Red Wings	 • Justin Abdelkader	 	 activated from IR
+19	2017-11-11	 Red Wings	 	 • Justin Abdelkader	 facial injury (DTD)
+20	2017-11-15	 Red Wings	 • Justin Abdelkader	 	 returned to lineup
+21	2018-01-13	 Red Wings	 	 • Justin Abdelkader	 lower body injury (DTD)
+22	2018-01-30	 Red Wings	 • Justin Abdelkader	 	 returned to lineup
+23	2019-03-15	 Red Wings	 	 • Justin Abdelkader	 undisclosed (DTD)
+24	2019-03-18	 Red Wings	 	 • Justin Abdelkader	 hairline fracture in leg (out for season)
+25	2019-10-25	 Red Wings	 	 • Justin Abdelkader	 leg injury (DTD)
+26	2019-10-29	 Red Wings	 	 • Justin Abdelkader	 placed on IR with leg injury
+27	2019-11-01	 Red Wings	 • Justin Abdelkader	 	 activated from IR
+28	2019-11-11	 Red Wings	 	 • Justin Abdelkader	 mid-body injury (out indefinitely)
+29	2019-11-13	 Red Wings	 	 • Justin Abdelkader	 placed on IR with mid-body injury
+30	2019-12-10	 Red Wings	 • Justin Abdelkader	 	 activated from IR
+31	2020-03-10	 Red Wings	 	 • Justin Abdelkader	 illness (DTD)

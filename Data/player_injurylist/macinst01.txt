@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-11	 Oilers	 	 • Steve MacIntyre	 placed on IR with orbital fracture
+1	2009-01-09	 Oilers	 • Steve MacIntyre	 	 activated from IR
+2	2010-11-07	 Oilers	 	 • Steve MacIntyre	 back injury (DTD)
+3	2010-11-09	 Oilers	 • Steve MacIntyre	 	 returned to lineup
+4	2011-11-29	 Penguins	 	 • Steve MacIntyre	 placed on IR with upper body injury
+5	2011-12-08	 Penguins	 • Steve MacIntyre	 	 activated from IR
+6	2013-09-30	 Oilers	 	 • Steve MacIntyre	 placed on IR with knee injury
+7	2013-11-22	 Oilers	 • Steve MacIntyre	 	 activated from IR

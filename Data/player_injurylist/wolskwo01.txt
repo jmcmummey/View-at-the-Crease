@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-18	 Avalanche	 	 • Wojtek Wolski	 shoulder injury (DTD)
+1	2007-02-25	 Avalanche	 Wojtek Wolski	 	 returned to lineup
+2	2008-02-22	 Avalanche	 	 Wojtek Wolski	 undisclosed injury (DTD)
+3	2008-02-24	 Avalanche	 Wojtek Wolski	 	 returned to lineup
+4	2008-04-25	 Avalanche	 	 • Wojtek Wolski	 upper body injury (out indefinitely)
+5	2008-11-24	 Avalanche	 	 Wojtek Wolski	 head injury (DTD)
+6	2008-11-26	 Avalanche	 Wojtek Wolski	 	 returned to lineup
+7	2009-03-29	 Avalanche	 	 • Wojtek Wolski	 illness (DTD)
+8	2009-04-05	 Avalanche	 Wojtek Wolski	 	 returned to lineup
+9	2010-12-31	 Coyotes	 	 Wojtek Wolski	 undisclosed (DTD)
+10	2011-01-02	 Coyotes	 Wojtek Wolski	 	 returned to lineup
+11	2011-10-08	 Rangers	 	 Wojtek Wolski	 groin injury (DTD)
+12	2011-10-24	 Rangers	 Wojtek Wolski	 	 returned to lineup
+13	2011-11-05	 Rangers	 	 Wojtek Wolski	 placed on IR with surgery to repair sports henia
+14	2012-01-05	 Rangers	 Wojtek Wolski	 	 activated from IR

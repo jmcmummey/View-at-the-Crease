@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-03-03	 Stars	 	 • Derian Hatcher	 placed on IR
+1	1998-03-20	 Stars	 • Derian Hatcher	 	 activated from IR
+2	1999-12-20	 Stars	 	 • Derian Hatcher	 placed on IR with lacerated right calf muscle
+3	1999-12-20	 Stars	 	 • Derian Hatcher	 placed on IR
+4	2005-09-09	 Flyers	 	 • Derian Hatcher	 sprained left knee (out at least 3 weeks)
+5	2005-09-26	 Flyers	 • Derian Hatcher	 	 returned to practice
+6	2006-03-11	 Flyers	 	 • Derian Hatcher	 bruised right knee (DTD)
+7	2006-03-15	 Flyers	 • Derian Hatcher	 	 returned to lineup
+8	2007-10-25	 Flyers	 	 • Derian Hatcher	 right knee injury (DTD)
+9	2007-10-27	 Flyers	 • Derian Hatcher	 	 returned to lineup
+10	2007-10-31	 Flyers	 	 • Derian Hatcher	 surgery on knee (out indefinitely)
+11	2007-11-28	 Flyers	 • Derian Hatcher	 	 returned to lineup
+12	2007-12-11	 Flyers	 	 • Derian Hatcher	 knee injury (DTD)
+13	2007-12-15	 Flyers	 • Derian Hatcher	 	 returned to lineup
+14	2008-02-14	 Flyers	 	 • Derian Hatcher	 right knee injury (DTD)
+15	2008-03-08	 Flyers	 • Derian Hatcher	 	 returned to lineup
+16	2008-03-16	 Flyers	 	 • Derian Hatcher	 broken right leg (out indefinitely)
+17	2008-04-15	 Flyers	 • Derian Hatcher	 	 returned to lineup
+18	2008-09-20	 Flyers	 	 • Derian Hatcher	 placed on IR with right knee injury

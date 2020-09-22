@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-02-20	 Sharks	 	 • Matt Bradley	 placed on IR
+1	2001-02-28	 Sharks	 • Matt Bradley	 	 activated from IR
+2	2003-03-12	 Penguins	 	 • Matt Bradley	 fractured wrist (out for season)
+3	2005-10-29	 Capitals	 	 • Matt Bradley	 lower body injury (DTD)
+4	2005-11-06	 Capitals	 • Matt Bradley	 	 returned to lineup
+5	2006-01-31	 Capitals	 	 • Matt Bradley	 foot injury (DTD)
+6	2006-02-28	 Capitals	 • Matt Bradley	 	 returned to lineup
+7	2006-04-10	 Capitals	 	 • Matt Bradley	 lower body injury (left game)
+8	2006-04-11	 Capitals	 	 • Matt Bradley	 lower body injury (DTD)
+9	2006-10-05	 Capitals	 	 • Matt Bradley	 undisclosed injury (DTD)
+10	2006-10-12	 Capitals	 • Matt Bradley	 	 returned to lineup
+11	2006-12-09	 Capitals	 	 • Matt Bradley	 hand injury (DTD)
+12	2009-12-07	 Capitals	 	 • Matt Bradley	 facial injury (DTD)
+13	2009-12-11	 Capitals	 • Matt Bradley	 	 returned to lineup
+14	2010-10-12	 Capitals	 	 • Matt Bradley	 placed on IR with lower body injury
+15	2010-10-27	 Capitals	 • Matt Bradley	 	 activated from IR
+16	2010-12-23	 Capitals	 	 • Matt Bradley	 placed on IR with broken finger
+17	2011-01-26	 Capitals	 • Matt Bradley	 	 activated from IR
+18	2011-11-16	 Panthers	 	 • Matt Bradley	 upper body injury (DTD)
+19	2011-11-19	 Panthers	 	 • Matt Bradley	 placed on IR with upper body injury
+20	2011-12-11	 Panthers	 • Matt Bradley	 	 activated from IR
+21	2012-02-20	 Panthers	 	 • Matt Bradley	 concussion (DTD)
+22	2012-02-23	 Panthers	 	 • Matt Bradley	 placed on IR with concussion (out for season)

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-21	 Sabres	 	 • T.J. Brennan	 flu (DTD)
+1	2012-02-01	 Sabres	 	 • T.J. Brennan	 placed on IR with flu
+2	2012-02-11	 Sabres	 • T.J. Brennan	 	 activated from IR

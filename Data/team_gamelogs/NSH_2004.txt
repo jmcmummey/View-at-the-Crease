@@ -1,0 +1,83 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	2003-10-09		Mighty Ducks of Anaheim	3	1	W			26	25	1		0		29	37	0		0
+1	2003-10-11		Dallas Stars	1	3	L			25	24	1		0		30	36	1		0
+2	2003-10-16		St. Louis Blues	4	1	W			24	32	2		1		31	40	1		0
+3	2003-10-18		Columbus Blue Jackets	3	2	W			33	21	0		0		28	15	1		0
+4	2003-10-19	@	Chicago Blackhawks	1	3	L			22	14	1		0		31	16	1		0
+5	2003-10-23	@	Atlanta Thrashers	2	4	L			30	12	0		0		20	12	1		0
+6	2003-10-25		Colorado Avalanche	3	5	L			19	15	0		0		32	19	1		0
+7	2003-10-28	@	St. Louis Blues	0	1	L			26	12	0		0		18	10	1		0
+8	2003-10-30		Detroit Red Wings	5	3	W			24	85	2		0		27	125	2		0
+9	2003-11-01		Dallas Stars	1	1	T	OT		26	11	0		0		28	13	0		0
+10	2003-11-02	@	Dallas Stars	3	7	L			24	31	2		0		33	29	3		0
+11	2003-11-05		Vancouver Canucks	3	4	L			26	14	2		0		24	12	2		0
+12	2003-11-07		Chicago Blackhawks	1	2	L			32	20	0		0		25	24	0		0
+13	2003-11-08	@	Detroit Red Wings	4	3	W			31	10	1		0		31	10	1		0
+14	2003-11-13		Calgary Flames	4	1	W			22	19	2		0		30	17	0		0
+15	2003-11-15		New York Islanders	4	3	W			22	20	2		0		29	24	0		0
+16	2003-11-19	@	Los Angeles Kings	0	3	L			30	4	0		0		20	23	0		0
+17	2003-11-21	@	Mighty Ducks of Anaheim	4	3	W	OT		33	6	2		0		37	16	2		0
+18	2003-11-22	@	San Jose Sharks	1	3	L			33	10	0		0		32	10	1		0
+19	2003-11-24	@	Colorado Avalanche	3	2	W			23	10	2		1		36	8	0		0
+20	2003-11-26		Columbus Blue Jackets	4	2	W			33	35	1		1		28	45	0		0
+21	2003-11-28	@	Boston Bruins	2	1	W			29	8	1		0		33	16	0		0
+22	2003-11-29		Buffalo Sabres	4	1	W			32	23	1		0		23	23	0		0
+23	2003-12-03	@	Carolina Hurricanes	2	1	W	OT		22	8	0		0		41	8	0		0
+24	2003-12-04	@	Columbus Blue Jackets	4	2	W			24	6	0		0		39	8	0		0
+25	2003-12-06	@	St. Louis Blues	1	4	L			15	6	0		0		23	10	0		0
+26	2003-12-11		Los Angeles Kings	1	4	L			37	16	1		0		22	16	1		0
+27	2003-12-13		Florida Panthers	2	2	T	OT		36	8	0		0		28	8	0		0
+28	2003-12-16		Vancouver Canucks	1	2	L	OT		30	6	0		1		24	10	0		0
+29	2003-12-18	@	Montreal Canadiens	4	5	L	OT		22	10	0		0		36	8	4		0
+30	2003-12-20		Detroit Red Wings	1	0	W			17	10	0		0		21	6	0		0
+31	2003-12-22		Phoenix Coyotes	3	3	T	OT		29	33	0		1		27	23	2		0
+32	2003-12-23	@	Minnesota Wild	3	3	T	OT		22	6	1		0		26	8	0		0
+33	2003-12-26	@	Dallas Stars	1	2	L			24	8	0		0		17	14	1		0
+34	2003-12-27	@	Phoenix Coyotes	3	1	W			21	17	0		0		33	9	0		0
+35	2003-12-29	@	San Jose Sharks	2	5	L			21	11	1		0		29	13	1		1
+36	2004-01-01		Pittsburgh Penguins	3	2	W			30	15	3		0		31	19	1		0
+37	2004-01-03		New Jersey Devils	3	2	W			27	10	1		0		40	8	0		0
+38	2004-01-05	@	Detroit Red Wings	0	6	L			26	10	0		0		27	4	2		0
+39	2004-01-06	@	Toronto Maple Leafs	1	2	L			25	12	0		1		21	14	1		0
+40	2004-01-08		Colorado Avalanche	4	3	W	OT		23	17	1		1		34	15	2		1
+41	2004-01-10		St. Louis Blues	3	1	W			24	13	1		0		27	23	0		0
+42	2004-01-12	@	Minnesota Wild	3	3	T	OT		23	10	1		0		39	8	0		1
+43	2004-01-13		Los Angeles Kings	0	0	T	OT		29	11	0		0		33	21	0		0
+44	2004-01-15		Phoenix Coyotes	4	3	W			32	4	2		0		24	8	2		0
+45	2004-01-17		Edmonton Oilers	2	1	W			31	25	0		1		22	25	0		0
+46	2004-01-19		Minnesota Wild	2	0	W			30	13	0		1		26	15	0		0
+47	2004-01-22	@	Calgary Flames	0	4	L			23	40	0		0		28	34	2		1
+48	2004-01-24	@	Edmonton Oilers	4	3	W			19	28	1		0		25	16	1		0
+49	2004-01-25	@	Vancouver Canucks	1	4	L			16	41	1		0		32	42	3		0
+50	2004-01-29	@	Columbus Blue Jackets	6	4	W			31	39	3		0		31	39	3		0
+51	2004-01-31		San Jose Sharks	3	2	W	OT		30	8	1		0		26	10	0		0
+52	2004-02-03		Detroit Red Wings	1	4	L			24	6	0		1		26	6	0		0
+53	2004-02-05		Tampa Bay Lightning	2	5	L			26	8	0		0		29	10	2		0
+54	2004-02-11	@	Chicago Blackhawks	2	5	L			27	29	1		0		32	29	2		0
+55	2004-02-13		Washington Capitals	5	2	W			36	31	2		0		19	24	0		0
+56	2004-02-15		Edmonton Oilers	2	2	T	OT		32	44	2		0		29	34	1		0
+57	2004-02-16	@	Columbus Blue Jackets	2	4	L			34	23	0		1		23	23	1		1
+58	2004-02-18		San Jose Sharks	7	3	W			20	8	5		0		27	16	0		1
+59	2004-02-20	@	Mighty Ducks of Anaheim	3	2	W	OT		33	11	0		0		39	7	0		0
+60	2004-02-21	@	Phoenix Coyotes	8	2	W			29	17	2		1		26	21	1		0
+61	2004-02-23	@	Los Angeles Kings	0	3	L			21	14	0		0		19	8	1		0
+62	2004-02-26		Minnesota Wild	4	0	W			23	24	2		1		27	16	0		0
+63	2004-02-28		New York Rangers	2	1	W	OT		43	11	1		0		26	21	0		0
+64	2004-03-01		Chicago Blackhawks	2	2	T	OT		35	16	1		0		33	20	1		0
+65	2004-03-03	@	Philadelphia Flyers	2	5	L			24	4	0		0		26	6	1		0
+66	2004-03-04	@	Pittsburgh Penguins	9	4	W			32	18	6		0		24	28	1		0
+67	2004-03-06	@	Ottawa Senators	2	4	L			27	4	1		0		31	10	1		0
+68	2004-03-09		Boston Bruins	2	3	L			26	2	1		1		30	12	0		0
+69	2004-03-11	@	St. Louis Blues	1	1	T	OT		25	6	1		0		29	6	1		0
+70	2004-03-13		Calgary Flames	4	4	T	OT		32	13	2		0		24	21	0		0
+71	2004-03-14	@	Detroit Red Wings	2	3	L	OT		29	6	1		0		31	10	1		0
+72	2004-03-16	@	Vancouver Canucks	2	2	T	OT		28	8	0		0		27	4	0		0
+73	2004-03-19	@	Edmonton Oilers	4	5	L			27	6	0		0		36	8	0		1
+74	2004-03-20	@	Calgary Flames	3	1	W			31	47	0		0		21	107	1		0
+75	2004-03-23		Mighty Ducks of Anaheim	1	4	L			26	10	1		0		29	20	2		1
+76	2004-03-25	@	New York Rangers	4	2	W			32	6	0		0		28	14	1		0
+77	2004-03-27		Columbus Blue Jackets	2	3	L	OT		37	17	0		0		32	29	1		0
+78	2004-03-30		Chicago Blackhawks	5	2	W			35	24	0		0		26	34	1		0
+79	2004-04-01	@	Chicago Blackhawks	3	1	W			29	6	2		0		35	10	0		0
+80	2004-04-03		St. Louis Blues	1	4	L			17	7	0		0		25	13	0		0
+81	2004-04-04	@	Colorado Avalanche	2	1	W	OT		23	6	0		0		39	2	0		0

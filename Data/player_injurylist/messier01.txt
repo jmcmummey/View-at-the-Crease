@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-10-10	 Avalanche	 	 • Eric Messier	 elbow injury (out indefinitely)
+1	2001-02-21	 Avalanche	 	 • Eric Messier	 placed on IR
+2	2003-11-21	 Panthers	 	 • Eric Messier	 wrist injury (out indefinitely)

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-06	 Panthers	 	 • Todd Simpson	 head injury (out indefinitely)
+1	2005-12-12	 Blackhawks	 	 • Todd Simpson	 knee injury (DTD)
+2	2005-12-16	 Blackhawks	 • Todd Simpson	 	 returned to lineup

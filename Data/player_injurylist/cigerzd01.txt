@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-10-06	 Devils	 	 • Zdeno Ciger	 bruised left shoulder (DTD)
+1	1991-01-24	 Devils	 	 • Zdeno Ciger	 elbow injury (DTD)
+2	1991-09-24	 Devils	 	 • Zdeno Ciger	 fractured right wrist (out indefinitely)
+3	1995-12-10	 Oilers	 	 • Zdeno Ciger	 lower right leg injury (DTD)

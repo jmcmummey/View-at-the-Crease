@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-03-02	 Red Wings	 	 • Alexey Marchenko / Alexei Marchenko	 placed on IR with oblique injury
+1	2015-10-04	 Red Wings	 	 • Alexey Marchenko / Alexei Marchenko	 placed on IR with lower body injury
+2	2015-10-08	 Red Wings	 • Alexey Marchenko / Alexei Marchenko	 	 activated from IR
+3	2016-04-19	 Red Wings	 	 • Alexey Marchenko / Alexei Marchenko	 illness (out for season)
+4	2016-11-21	 Red Wings	 	 • Alexey Marchenko / Alexei Marchenko	 upper body injury (DTD)
+5	2016-11-26	 Red Wings	 	 • Alexey Marchenko / Alexei Marchenko	 placed on IR with upper body injury
+6	2016-12-09	 Red Wings	 • Alexey Marchenko / Alexei Marchenko	 	 activated from IR
+7	2016-12-14	 Red Wings	 	 • Alexey Marchenko / Alexei Marchenko	 placed on IR with right shoulder injury
+8	2016-12-19	 Red Wings	 	 • Alexey Marchenko / Alexei Marchenko	 placed on IR with right shoulder injury
+9	2017-01-05	 Red Wings	 • Alexey Marchenko / Alexei Marchenko	 	 activated from IR

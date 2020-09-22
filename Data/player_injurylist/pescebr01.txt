@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-01-15	 Hurricanes	 	 • Brett Pesce	 foot injury (DTD)
+1	2016-01-21	 Hurricanes	 • Brett Pesce	 	 returned to lineup
+2	2016-01-24	 Hurricanes	 	 • Brett Pesce	 lower body injury (DTD)
+3	2016-01-26	 Hurricanes	 • Brett Pesce	 	 returned to lineup
+4	2016-01-31	 Hurricanes	 	 • Brett Pesce	 placed on IR with lower body injury
+5	2016-02-12	 Hurricanes	 • Brett Pesce	 	 activated from IR
+6	2017-11-01	 Hurricanes	 	 • Brett Pesce	 concussion (DTD)
+7	2017-11-10	 Hurricanes	 • Brett Pesce	 	 returned to lineup
+8	2018-01-11	 Hurricanes	 	 • Brett Pesce	 upper body injury (DTD)
+9	2018-01-12	 Hurricanes	 	 • Brett Pesce	 placed on IR with upper body injury
+10	2018-01-23	 Hurricanes	 • Brett Pesce	 	 activated from IR
+11	2018-03-21	 Hurricanes	 	 • Brett Pesce	 shoulder injury (out for season)
+12	2018-11-12	 Hurricanes	 	 • Brett Pesce	 lower body injury (DTD)
+13	2018-11-24	 Hurricanes	 	 • Brett Pesce	 placed on IR with lower body injury
+14	2018-12-01	 Hurricanes	 • Brett Pesce	 	 activated from IR
+15	2018-12-05	 Hurricanes	 • Brett Pesce	 	 activated from IR
+16	2020-02-25	 Hurricanes	 	 • Brett Pesce	 right shoulder injury (out for season)
+17	2020-02-27	 Hurricanes	 	 • Brett Pesce	 placed on IR with right shoulder injury (out for season)

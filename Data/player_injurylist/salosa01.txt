@@ -1,0 +1,67 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-11-28	 Senators	 	 • Sami Salo	 wrist injury (out indefinitely)
+1	2000-12-14	 Senators	 	 • Sami Salo	 shoulder injury (out indefinitely)
+2	2001-10-02	 Senators	 	 • Sami Salo	 placed on IR
+3	2006-02-23	 Canucks	 	 • Sami Salo	 shoulder injury (DTD)
+4	2006-10-13	 Canucks	 	 • Sami Salo	 groin injury (DTD)
+5	2006-10-16	 Canucks	 • Sami Salo	 	 returned to lineup
+6	2006-11-03	 Canucks	 	 • Sami Salo	 left knee injury (DTD)
+7	2006-11-11	 Canucks	 • Sami Salo	 	 returned to lineup
+8	2006-12-05	 Canucks	 	 • Sami Salo	 nerve injury in shoulder (out 7-10 days)
+9	2006-12-21	 Canucks	 • Sami Salo	 	 returned to lineup
+10	2007-03-19	 Canucks	 	 • Sami Salo	 groin injury (DTD)
+11	2007-03-27	 Canucks	 • Sami Salo	 	 returned to lineup
+12	2007-03-29	 Canucks	 	 • Sami Salo	 groin injury (DTD)
+13	2007-04-03	 Canucks	 • Sami Salo	 	 returned to lineup
+14	2007-04-25	 Canucks	 	 • Sami Salo	 flu (DTD)
+15	2007-04-29	 Canucks	 • Sami Salo	 	 returned to lineup
+16	2007-09-17	 Canucks	 	 • Sami Salo	 left wrist injury (out indefinitely)
+17	2007-10-24	 Canucks	 • Sami Salo	 	 returned to lineup
+18	2007-11-03	 Canucks	 	 • Sami Salo	 broken nose (out indefinitely)
+19	2007-11-23	 Canucks	 • Sami Salo	 	 returned to lineup
+20	2008-01-31	 Canucks	 	 • Sami Salo	 groin injury (DTD)
+21	2008-02-05	 Canucks	 • Sami Salo	 	 returned to lineup
+22	2008-10-21	 Canucks	 	 • Sami Salo	 groin injury (DTD)
+23	2008-10-28	 Canucks	 • Sami Salo	 	 returned to lineup
+24	2008-11-20	 Canucks	 	 • Sami Salo	 undisclosed injury (DTD)
+25	2008-11-24	 Canucks	 • Sami Salo	 	 returned to lineup
+26	2008-12-09	 Canucks	 	 • Sami Salo	 groin injury (DTD)
+27	2008-12-18	 Canucks	 	 • Sami Salo	 broken rib (DTD)
+28	2008-12-18	 Canucks	 • Sami Salo	 	 returned to lineup (CBC)
+29	2008-12-20	 Canucks	 	 • Sami Salo	 broken rib (DTD)
+30	2009-01-20	 Canucks	 • Sami Salo	 	 returned to lineup
+31	2009-04-21	 Canucks	 	 • Sami Salo	 groin injury (DTD)
+32	2009-04-30	 Canucks	 • Sami Salo	 	 returned to lineup
+33	2009-05-02	 Canucks	 	 • Sami Salo	 lower body injury (DTD)
+34	2009-05-09	 Canucks	 • Sami Salo	 	 returned to lineup
+35	2009-10-13	 Canucks	 	 • Sami Salo	 placed on IR with sprained MCL in right knee
+36	2009-10-29	 Canucks	 • Sami Salo	 	 activated from IR
+37	2010-01-09	 Canucks	 	 • Sami Salo	 eye injury (DTD)
+38	2010-01-11	 Canucks	 • Sami Salo	 	 returned to lineup
+39	2010-01-23	 Canucks	 	 • Sami Salo	 groin injury (DTD)
+40	2010-02-02	 Canucks	 • Sami Salo	 	 returned to lineup
+41	2010-04-10	 Canucks	 	 • Sami Salo	 leg injury (DTD)
+42	2010-04-15	 Canucks	 • Sami Salo	 	 returned to lineup
+43	2010-09-17	 Canucks	 	 • Sami Salo	 torn Achilles tendon (out indefinitely)
+44	2011-02-12	 Canucks	 • Sami Salo	 	 returned to lineup
+45	2011-04-25	 Canucks	 	 • Sami Salo	 undisclosed injury (DTD)
+46	2011-05-05	 Canucks	 • Sami Salo	 	 returned to lineup
+47	2011-11-03	 Canucks	 	 • Sami Salo	 groin injury (DTD)
+48	2011-11-10	 Canucks	 • Sami Salo	 	 returned to lineup
+49	2011-12-01	 Canucks	 	 • Sami Salo	 groin injury (DTD)
+50	2011-12-04	 Canucks	 • Sami Salo	 	 returned to lineup
+51	2012-01-08	 Canucks	 	 • Sami Salo	 concussion (out indefinitely)
+52	2012-01-24	 Canucks	 • Sami Salo	 	 returned to lineup
+53	2013-02-27	 Lightning	 	 • Sami Salo	 lower body injury (DTD)
+54	2013-03-04	 Lightning	 • Sami Salo	 	 returned to lineup
+55	2013-10-03	 Lightning	 	 • Sami Salo	 upper body injury (DTD)
+56	2013-10-05	 Lightning	 • Sami Salo	 	 returned to lineup
+57	2013-11-12	 Lightning	 	 • Sami Salo	 lower body injury (DTD)
+58	2013-11-16	 Lightning	 • Sami Salo	 	 returned to lineup
+59	2013-12-28	 Lightning	 	 • Sami Salo	 upper body injury (DTD)
+60	2014-01-05	 Lightning	 • Sami Salo	 	 returned to lineup
+61	2014-01-13	 Lightning	 	 • Sami Salo	 ankle injury (DTD)
+62	2014-01-16	 Lightning	 • Sami Salo	 	 returned to lineup
+63	2014-04-09	 Lightning	 	 • Sami Salo	 upper body injury (DTD)
+64	2014-04-13	 Lightning	 • Sami Salo	 	 returned to lineup
+65	2014-04-20	 Lightning	 	 • Sami Salo	 upper body injury (out for season)

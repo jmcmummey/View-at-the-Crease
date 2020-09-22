@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-04-05	 Sabres	 	 • Anders Nilsson	 undisclosed injury (DTD)
+1	2017-04-06	 Sabres	 • Anders Nilsson	 	 returned to lineup
+2	2017-04-07	 Sabres	 	 • Anders Nilsson	 undisclosed injury (out for season)
+3	2018-03-31	 Canucks	 	 • Anders Nilsson	 illness (DTD)
+4	2018-04-03	 Canucks	 • Anders Nilsson	 	 returned to lineup
+5	2018-10-28	 Canucks	 	 • Anders Nilsson	 placed on IR with fractured finger
+6	2018-11-21	 Canucks	 • Anders Nilsson	 	 activated from IR
+7	2019-12-19	 Senators	 	 • Anders Nilsson	 illness (DTD)
+8	2019-12-20	 Senators	 	 • Anders Nilsson	 placed on IR with concussion

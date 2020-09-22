@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-27	 Flyers	 	 • Brayden Schenn	 placed on IR with fractured left foot
+1	2011-11-22	 Flyers	 • Brayden Schenn	 	 activated from IR
+2	2011-12-07	 Flyers	 	 • Brayden Schenn	 upper body injury (DTD)
+3	2011-12-10	 Flyers	 	 • Brayden Schenn	 placed on IR with concussion
+4	2011-12-27	 Flyers	 • Brayden Schenn	 	 activated from IR
+5	2015-10-21	 Flyers	 	 • Brayden Schenn	 upper body injury (DTD)
+6	2015-10-24	 Flyers	 • Brayden Schenn	 	 returned to lineup
+7	2018-11-06	 Blues	 	 • Brayden Schenn	 upper body injury (DTD)
+8	2018-11-15	 Blues	 	 • Brayden Schenn	 placed on IR with upper body injury
+9	2018-11-16	 Blues	 • Brayden Schenn	 	 activated from IR
+10	2019-02-20	 Blues	 	 • Brayden Schenn	 placed on IR with upper body injury
+11	2019-02-21	 Blues	 	 • Brayden Schenn	 upper body injury (DTD)
+12	2019-03-06	 Blues	 • Brayden Schenn	 	 returned to lineup

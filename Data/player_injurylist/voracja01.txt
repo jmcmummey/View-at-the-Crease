@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-01-22	 Blue Jackets	 	 • Jakub Voracek	 head injury (DTD)
+1	2010-01-26	 Blue Jackets	 • Jakub Voracek	 	 returned to lineup
+2	2012-02-12	 Flyers	 	 • Jakub Voracek	 upper body injury (DTD)
+3	2012-02-16	 Flyers	 • Jakub Voracek	 	 returned to lineup
+4	2012-03-07	 Flyers	 	 • Jakub Voracek	 head injury (DTD)
+5	2012-03-13	 Flyers	 • Jakub Voracek	 	 returned to lineup
+6	2016-02-26	 Flyers	 	 • Jakub Voracek	 lower body injury (DTD)
+7	2016-03-19	 Flyers	 • Jakub Voracek	 	 returned to lineup
+8	2019-03-03	 Flyers	 	 • Jakub Voracek	 lower body injury (DTD)
+9	2019-03-08	 Flyers	 • Jakub Voracek	 	 returned to lineup
+10	2020-08-07	 Flyers	 	 • Jakub Voracek	 undisclosed (DTD)
+11	2020-08-11	 Flyers	 • Jakub Voracek	 	 returned to lineup

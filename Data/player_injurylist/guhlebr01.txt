@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-07	 Sabres	 	 • Brendan Guhle	 placed on IR with upper body injury
+1	2015-10-13	 Sabres	 • Brendan Guhle	 	 activated from IR
+2	2018-04-02	 Sabres	 	 • Brendan Guhle	 upper body injury (DTD)
+3	2018-04-04	 Sabres	 • Brendan Guhle	 	 returned to lineup
+4	2019-03-06	 Ducks	 	 • Brendan Guhle	 oblique injury (DTD)
+5	2019-04-05	 Ducks	 • Brendan Guhle	 	 returned to lineup
+6	2019-10-11	 Ducks	 	 • Brendan Guhle	 lower body injury (DTD)
+7	2019-10-16	 Ducks	 	 • Brendan Guhle	 placed on IR with lower body injury
+8	2019-10-19	 Ducks	 • Brendan Guhle	 	 activated from IR
+9	2019-10-21	 Ducks	 • Brendan Guhle	 	 returned to lineup

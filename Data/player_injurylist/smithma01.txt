@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-02-28	 Sharks	 	 • Mark Smith (b)	 placed on IR
+1	2005-10-29	 Sharks	 	 • Mark Smith (b)	 knee injury (DTD)
+2	2005-11-02	 Sharks	 • Mark Smith (b)	 	 returned to lineup
+3	2006-11-15	 Sharks	 	 • Mark Smith (b)	 placed on IR with charley horse
+4	2006-11-22	 Sharks	 • Mark Smith (b)	 	 activated from IR
+5	2006-12-02	 Sharks	 	 • Mark Smith (b)	 undisclosed injury (DTD)
+6	2006-12-16	 Sharks	 • Mark Smith (b)	 	 returned to lineup
+7	2007-02-03	 Sharks	 	 • Mark Smith (b)	 groin injury (DTD)
+8	2007-05-02	 Sharks	 • Mark Smith (b)	 	 returned to lineup
+9	2008-03-24	 Flames	 	 • Mark Smith (b)	 head injury (DTD)

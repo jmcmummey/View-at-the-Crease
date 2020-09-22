@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-03-22	 Canadiens	 	 • Mike Komisarek	 lower body injury (out 2-3 weeks)
+1	2008-04-10	 Canadiens	 • Mike Komisarek	 	 returned to lineup
+2	2008-11-15	 Canadiens	 	 • Mike Komisarek	 hand injury (DTD)
+3	2008-12-18	 Canadiens	 • Mike Komisarek	 	 returned to lineup
+4	2009-11-10	 Maple Leafs	 	 • Mike Komisarek	 lower body injury (left game)
+5	2009-11-11	 Maple Leafs	 	 • Mike Komisarek	 placed on IR with quadriceps injury
+6	2009-11-30	 Maple Leafs	 • Mike Komisarek	 	 activated from IR
+7	2010-01-05	 Maple Leafs	 	 • Mike Komisarek	 upper body injurhy (out for season)
+8	2010-12-09	 Maple Leafs	 	 • Mike Komisarek	 finger injury (DTD)
+9	2010-12-18	 Maple Leafs	 • Mike Komisarek	 	 returned to lineup
+10	2011-03-17	 Maple Leafs	 	 • Mike Komisarek	 lower body injury (DTD)
+11	2011-03-24	 Maple Leafs	 • Mike Komisarek	 	 returned to lineup
+12	2011-11-18	 Maple Leafs	 	 • Mike Komisarek	 placed on IR with broken arm
+13	2012-01-07	 Maple Leafs	 • Mike Komisarek	 	 activated from IR
+14	2013-01-29	 Maple Leafs	 	 • Mike Komisarek	 eye injury (DTD)
+15	2013-02-02	 Maple Leafs	 • Mike Komisarek	 	 returned to lineup
+16	2013-12-06	 Hurricanes	 	 • Mike Komisarek	 placed on IR with lower body injury
+17	2013-12-20	 Hurricanes	 • Mike Komisarek	 	 activated from IR

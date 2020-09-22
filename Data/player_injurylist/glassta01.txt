@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-12	 Canucks	 	 • Tanner Glass	 upper body injury (DTD)
+1	2011-04-02	 Canucks	 • Tanner Glass	 	 returned to lineup
+2	2012-04-03	 Jets	 	 • Tanner Glass	 fractured foot (out for season)
+3	2013-11-24	 Penguins	 	 • Tanner Glass	 fractured right hand (DTD)
+4	2013-11-27	 Penguins	 	 • Tanner Glass	 placed on IR with fractured right hand
+5	2013-12-27	 Penguins	 • Tanner Glass	 	 activated from IR
+6	2014-11-28	 Rangers	 	 • Tanner Glass	 flu/mumps (DTD)
+7	2014-12-08	 Rangers	 • Tanner Glass	 	 returned to lineup
+8	2015-01-18	 Rangers	 	 • Tanner Glass	 upper body injury (DTD)
+9	2015-01-27	 Rangers	 • Tanner Glass	 	 returned to lineup
+10	2015-03-15	 Rangers	 	 • Tanner Glass	 upper body injury (DTD)
+11	2015-03-18	 Rangers	 • Tanner Glass	 	 returned to lineup
+12	2016-03-13	 Rangers	 	 • Tanner Glass	 upper body injury (DTD)
+13	2016-03-16	 Rangers	 • Tanner Glass	 	 returned to lineup

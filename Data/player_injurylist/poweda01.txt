@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-30	 Flyers	 	 • Darroll Powe	 concussion (DTD)
+1	2009-01-02	 Flyers	 	 • Darroll Powe	 undisclosed injury (DTD)
+2	2009-01-03	 Flyers	 • Darroll Powe	 	 returned to lineup
+3	2009-11-20	 Flyers	 	 • Darroll Powe	 strained left shoulder (DTD)
+4	2009-11-22	 Flyers	 	 • Darroll Powe	 placed on IR with strained left shoulder
+5	2009-12-23	 Flyers	 • Darroll Powe	 	 activated from IR
+6	2010-03-03	 Flyers	 	 • Darroll Powe	 foot injury (DTD)
+7	2010-03-07	 Flyers	 • Darroll Powe	 	 returned to lineup
+8	2011-03-03	 Flyers	 	 • Darroll Powe	 flu (DTD)
+9	2011-03-05	 Flyers	 • Darroll Powe	 	 returned to lineup
+10	2013-02-18	 Rangers	 	 • Darroll Powe	 placed on IR with concussion
+11	2013-02-26	 Rangers	 • Darroll Powe	 	 activated from IR
+12	2013-05-08	 Rangers	 	 • Darroll Powe	 upper body injury (out for season)

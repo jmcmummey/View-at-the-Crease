@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-01-18	 Panthers	 	 • Chris Driedger	 lower body injury (out indefinitely)
+1	2020-02-03	 Panthers	 	 • Chris Driedger	 placed on IR with lower body injury
+2	2020-03-05	 Panthers	 • Chris Driedger	 	 activated from IR

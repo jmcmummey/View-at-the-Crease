@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-07	 Penguins	 	 • Johan Hedberg	 fractured clavicle (DTD)
+1	2003-02-08	 Penguins	 • Johan Hedberg	 	 returned to lineup
+2	2013-04-10	 Devils	 	 • Johan Hedberg	 soreness / back injury / groin injury (DTD)
+3	2013-04-15	 Devils	 • Johan Hedberg	 	 returned to lineup

@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-10-25	 Hurricanes	 	 • Brett Bellemore	 placed on IR with lower body injury
+1	2013-11-02	 Hurricanes	 • Brett Bellemore	 	 activated from IR
+2	2013-12-05	 Hurricanes	 	 • Brett Bellemore	 concussion (DTD)
+3	2013-12-20	 Hurricanes	 • Brett Bellemore	 	 returned to lineup
+4	2014-11-09	 Hurricanes	 	 • Brett Bellemore	 upper body injury (DTD)
+5	2014-11-15	 Hurricanes	 • Brett Bellemore	 	 returned to lineup
+6	2014-11-23	 Hurricanes	 	 • Brett Bellemore	 placed on IR with lower body injury
+7	2014-12-11	 Hurricanes	 • Brett Bellemore	 	 activated from IR

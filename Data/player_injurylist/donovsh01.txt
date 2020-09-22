@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-12	 Thrashers	 	 • Shean Donovan	 placed on IR with sprained left knee
+1	2001-01-10	 Thrashers	 • Shean Donovan	 	 activated from IR
+2	2002-04-10	 Penguins	 	 • Shean Donovan	 lacerated elbow (DTD)
+3	2002-04-13	 Penguins	 • Shean Donovan	 	 returned to lineup
+4	2002-11-02	 Penguins	 	 • Shean Donovan	 knee injury (DTD)
+5	2002-11-20	 Penguins	 • Shean Donovan	 	 returned to lineup
+6	2002-11-29	 Penguins	 	 • Shean Donovan	 broken foot (DTD)
+7	2002-12-21	 Penguins	 • Shean Donovan	 	 returned to lineup
+8	2007-02-25	 Bruins	 	 • Shean Donovan	 lower body injury (DTD)
+9	2007-02-25	 Bruins	 • Shean Donovan	 	 returned to lineup
+10	2007-03-11	 Bruins	 	 • Shean Donovan	 sprained knee (DTD)
+11	2007-03-24	 Bruins	 • Shean Donovan	 	 returned to lineup
+12	2008-11-27	 Senators	 	 • Shean Donovan	 upper body injury (DTD)
+13	2008-12-03	 Senators	 • Shean Donovan	 	 returned to lineup
+14	2009-01-19	 Senators	 	 • Shean Donovan	 placed on IR with lower body injury
+15	2009-02-11	 Senators	 • Shean Donovan	 	 activated from IR
+16	2009-11-20	 Senators	 	 • Shean Donovan	 knee injury (out indefinitely)
+17	2009-11-21	 Senators	 • Shean Donovan	 	 knee injury (DTD)
+18	2009-11-22	 Senators	 	 • Shean Donovan	 placed on IR with knee injury
+19	2009-12-23	 Senators	 • Shean Donovan	 	 activated from IR

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-12-09	 Canucks	 	 • Adam Gaudette	 illness (DTD)
+1	2018-12-15	 Canucks	 • Adam Gaudette	 	 returned to lineup
+2	2019-02-27	 Canucks	 	 • Adam Gaudette	 illness (DTD)
+3	2019-02-28	 Canucks	 • Adam Gaudette	 	 returned to lineup
+4	2020-08-04	 Canucks	 	 • Adam Gaudette	 undisclosed (DTD)

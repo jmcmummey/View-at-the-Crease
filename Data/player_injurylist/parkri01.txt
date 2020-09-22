@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-11	 Canucks	 	 • Richard Park	 leg injury (DTD)
+1	2006-02-08	 Canucks	 • Richard Park	 	 returned to lineup
+2	2009-02-19	 Islanders	 	 • Richard Park	 broken ribs (DTD)
+3	2009-03-14	 Islanders	 • Richard Park	 	 returned to lineup
+4	2010-04-08	 Islanders	 	 • Richard Park	 eye injury (DTD)
+5	2010-04-10	 Islanders	 • Richard Park	 	 returned to lineup
+6	2011-12-08	 Penguins	 	 • Richard Park	 lower body injury (DTD)
+7	2011-12-10	 Penguins	 	 • Richard Park	 placed on IR with lower body injury
+8	2012-01-06	 Penguins	 • Richard Park	 	 activated from IR
+9	2012-02-07	 Penguins	 	 • Richard Park	 undisclosed injury (DTD)
+10	2012-02-11	 Penguins	 • Richard Park	 	 returned to lineup

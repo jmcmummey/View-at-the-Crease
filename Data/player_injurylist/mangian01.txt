@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-12-16	 Flames	 	 • Andrew Mangiapane	 placed on IR with undisclosed
+1	2019-01-07	 Flames	 • Andrew Mangiapane	 	 activated from IR
+2	2019-10-19	 Flames	 	 • Andrew Mangiapane	 undisclosed (DTD)
+3	2019-10-22	 Flames	 • Andrew Mangiapane	 	 returned to lineup

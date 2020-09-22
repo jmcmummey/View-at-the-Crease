@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-02-20	 Kings	 	 • Jordan Nolan	 herniated disc (DTD)
+1	2016-02-28	 Kings	 	 • Jordan Nolan	 placed on IR with herniated disc (out for season)
+2	2017-02-02	 Kings	 	 • Jordan Nolan	 placed on IR with lower body injury
+3	2017-02-04	 Kings	 	 • Jordan Nolan	 lower body injury (DTD)
+4	2017-02-05	 Kings	 	 • Jordan Nolan	 placed on IR with lower body injury
+5	2017-02-25	 Kings	 • Jordan Nolan	 	 activated from IR
+6	2017-02-26	 Kings	 	 • Jordan Nolan	 leg injury (DTD)
+7	2017-03-20	 Kings	 • Jordan Nolan	 	 returned to lineup

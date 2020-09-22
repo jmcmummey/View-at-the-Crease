@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-09-30	 Kings	 	 • Jamie Storr	 placed on IR with strained right groin
+1	1997-10-28	 Kings	 • Jamie Storr	 	 activated from IR
+2	1998-10-19	 Kings	 	 • Jamie Storr	 strained left groin (DTD)
+3	1998-10-19	 Kings	 	 • Jamie Storr	 placed on IR with strained left groin
+4	1998-11-20	 Kings	 • Jamie Storr	 	 activated from IR
+5	1999-12-16	 Kings	 	 • Jamie Storr	 placed on IR with symptoms of post-concussion syndrome
+6	2000-01-13	 Kings	 • Jamie Storr	 	 activated from IR

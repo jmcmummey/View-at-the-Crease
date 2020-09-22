@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-08	 Red Wings	 	 • Tomas Nosek	 placed on IR with knee injury
+1	2018-01-18	 Golden Knights	 	 • Tomas Nosek	 placed on IR with upper body injury
+2	2018-02-13	 Golden Knights	 • Tomas Nosek	 	 activated from IR
+3	2018-11-18	 Golden Knights	 	 • Tomas Nosek	 undisclosed (DTD)
+4	2018-11-19	 Golden Knights	 • Tomas Nosek	 	 returned to lineup
+5	2019-02-12	 Golden Knights	 	 • Tomas Nosek	 illness (DTD)
+6	2019-02-18	 Golden Knights	 • Tomas Nosek	 	 returned to lineup
+7	2019-03-10	 Golden Knights	 	 • Tomas Nosek	 lower body injury (DTD)
+8	2019-03-15	 Golden Knights	 • Tomas Nosek	 	 returned to lineup
+9	2020-08-15	 Golden Knights	 	 • Tomas Nosek	 undisclosed (DTD)
+10	2020-09-04	 Golden Knights	 • Tomas Nosek	 	 returned to lineup
+11	2020-09-11	 Golden Knights	 	 • Tomas Nosek	 undisclosed (out for season)

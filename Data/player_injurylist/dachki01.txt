@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-01	 Blackhawks	 	 • Kirby Dach	 placed on injured/non-roster list with concussion
+1	2019-10-12	 Blackhawks	 • Kirby Dach	 	 activated from injured/non-roster list

@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-03	 Devils	 	 • Peter Harrold	 placed on IR with lower body injury
+1	2013-11-07	 Devils	 • Peter Harrold	 	 activated from IR
+2	2013-12-10	 Devils	 	 • Peter Harrold	 fractured foot (DTD)
+3	2013-12-12	 Devils	 	 • Peter Harrold	 placed on IR with fractured foot
+4	2014-02-03	 Devils	 • Peter Harrold	 	 activated from IR
+5	2015-01-03	 Devils	 	 • Peter Harrold	 head injury (DTD)
+6	2015-01-09	 Devils	 • Peter Harrold	 	 returned to lineup

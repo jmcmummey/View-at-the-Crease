@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-11-11	 Islanders	 	 • Radek Martinek	 knee injury (out indefinitely)
+1	2006-12-30	 Islanders	 	 • Radek Martinek	 broken foot (out 3-5 weeks)
+2	2007-01-16	 Islanders	 • Radek Martinek	 	 returned to lineup
+3	2007-02-03	 Islanders	 	 • Radek Martinek	 left ankle injury (left game)
+4	2007-02-04	 Islanders	 	 • Radek Martinek	 broken leg (out for season)
+5	2008-10-12	 Islanders	 	 • Radek Martinek	 placed on IR with right shoulder injury
+6	2008-11-15	 Islanders	 • Radek Martinek	 	 activated from IR
+7	2008-12-04	 Islanders	 	 • Radek Martinek	 shoulder injury (DTD)
+8	2009-01-04	 Islanders	 	 • Radek Martinek	 placed on IR with right shoulder injury
+9	2009-01-08	 Islanders	 • Radek Martinek	 	 activated from IR
+10	2009-11-07	 Islanders	 	 • Radek Martinek	 torn ACL in right knee (out for season)
+11	2010-12-11	 Islanders	 	 • Radek Martinek	 arm injury (DTD)
+12	2010-12-16	 Islanders	 • Radek Martinek	 	 returned to lineup
+13	2010-12-23	 Islanders	 	 • Radek Martinek	 sprained wrist (DTD)
+14	2010-12-31	 Islanders	 	 • Radek Martinek	 placed on IR with sprained left wrist
+15	2011-01-11	 Islanders	 • Radek Martinek	 	 activated from IR
+16	2011-02-22	 Islanders	 	 • Radek Martinek	 lower body injury (DTD)
+17	2011-03-08	 Islanders	 • Radek Martinek	 	 returned to lineup
+18	2011-10-22	 Blue Jackets	 	 • Radek Martinek	 placed on IR with concussion (out for seeason)
+19	2013-02-03	 Islanders	 	 • Radek Martinek	 placed on IR with strained groin and abdomen
+20	2013-02-18	 Islanders	 • Radek Martinek	 	 activated from IR
+21	2013-12-12	 Islanders	 	 • Radek Martinek	 placed on IR with back injury
+22	2014-01-16	 Islanders	 • Radek Martinek	 	 activated from IR

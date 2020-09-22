@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-02-22	 Capitals	 	 • Nicklas Backstrom	 thumb injury (DTD)
+1	2011-03-08	 Capitals	 	 • Nicklas Backstrom	 sore finger / thumb injury (CBC) (DTD)
+2	2011-03-18	 Capitals	 • Nicklas Backstrom	 	 returned to lineup
+3	2012-01-04	 Capitals	 	 • Nicklas Backstrom	 head injury (DTD)
+4	2012-01-11	 Capitals	 	 • Nicklas Backstrom	 placed on IR with head injury
+5	2012-03-31	 Capitals	 • Nicklas Backstrom	 	 activated from IR
+6	2015-10-06	 Capitals	 	 • Nicklas Backstrom	 placed on IR with hip injury
+7	2015-10-17	 Capitals	 • Nicklas Backstrom	 	 activated from IR
+8	2016-04-01	 Capitals	 	 • Nicklas Backstrom	 upper body injury (DTD)
+9	2016-04-07	 Capitals	 • Nicklas Backstrom	 	 returned to lineup
+10	2017-10-26	 Capitals	 	 • Nicklas Backstrom	 illness (DTD)
+11	2017-10-28	 Capitals	 • Nicklas Backstrom	 	 returned to lineup
+12	2018-05-07	 Capitals	 	 • Nicklas Backstrom	 hand injury (DTD)
+13	2018-05-17	 Capitals	 • Nicklas Backstrom	 	 returned to lineup
+14	2019-01-08	 Capitals	 	 • Nicklas Backstrom	 illness (DTD)
+15	2019-01-10	 Capitals	 • Nicklas Backstrom	 	 returned to lineup
+16	2019-11-20	 Capitals	 	 • Nicklas Backstrom	 upper body injury (DTD)
+17	2019-12-08	 Capitals	 • Nicklas Backstrom	 	 returned to lineup
+18	2020-08-13	 Capitals	 	 • Nicklas Backstrom	 concussion (out for season)

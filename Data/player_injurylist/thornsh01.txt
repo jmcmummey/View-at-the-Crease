@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-12-29	 Ducks	 	 • Shawn Thornton	 wrist injury (DTD)
+1	2007-11-07	 Bruins	 	 • Shawn Thornton	 foot injury (DTD)
+2	2007-11-09	 Bruins	 	 • Shawn Thornton	 placed on IR with foot injury
+3	2007-12-22	 Bruins	 • Shawn Thornton	 	 activated from IR
+4	2009-03-31	 Bruins	 	 • Shawn Thornton	 undisclosed (DTD)
+5	2009-04-07	 Bruins	 • Shawn Thornton	 	 returned to lineup
+6	2009-10-21	 Bruins	 	 • Shawn Thornton	 undisclosed injury (DTD)
+7	2009-10-24	 Bruins	 • Shawn Thornton	 	 returned to lineup
+8	2010-04-01	 Bruins	 	 • Shawn Thornton	 upper body injury (DTD)
+9	2010-04-08	 Bruins	 • Shawn Thornton	 	 returned to lineup
+10	2011-03-30	 Bruins	 	 • Shawn Thornton	 facial laceration (DTD)
+11	2011-04-06	 Bruins	 • Shawn Thornton	 	 returned to lineup
+12	2012-02-25	 Bruins	 	 • Shawn Thornton	 illness (DTD)
+13	2012-02-28	 Bruins	 • Shawn Thornton	 	 returned to lineup
+14	2013-02-01	 Bruins	 	 • Shawn Thornton	 placed on IR with concussion
+15	2013-02-10	 Bruins	 • Shawn Thornton	 	 activated from IR
+16	2014-10-13	 Panthers	 	 • Shawn Thornton	 lower body injury (DTD)
+17	2014-10-18	 Panthers	 • Shawn Thornton	 	 returned to lineup
+18	2014-12-01	 Panthers	 	 • Shawn Thornton	 groin injury (DTD)
+19	2014-12-02	 Panthers	 • Shawn Thornton	 	 returned to lineup
+20	2014-12-12	 Panthers	 	 • Shawn Thornton	 placed on IR with groin injury
+21	2015-01-29	 Panthers	 • Shawn Thornton	 	 activated from IR

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-04-03	 Canadiens	 	 • Brett Lernout	 upper body injury (DTD)
+1	2016-04-05	 Canadiens	 	 • Brett Lernout	 knee injury (out for season)

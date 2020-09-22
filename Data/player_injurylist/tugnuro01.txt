@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-31	 Mighty Ducks	 	 • Ron Tugnutt	 placed on IR (per USAT team in error? should be Blue Jackets?)
+1	2001-01-12	 Blue Jackets	 • Ron Tugnutt	 	 activated from IR
+2	2003-12-02	 Stars	 • Ron Tugnutt	 	 knee injury (out indefinitely)
+3	2003-12-17	 Stars	 	 • Ron Tugnutt	 placed on IR
+4	2003-12-26	 Stars	 • Ron Tugnutt	 	 activated from IR
+5	2004-01-02	 Stars	 	 • Ron Tugnutt	 groin injury (out indefinitely)
+6	2004-01-15	 Stars	 	 • Ron Tugnutt	 placed on IR with groin injury
+7	2004-02-12	 Stars	 • Ron Tugnutt	 	 activated from IR

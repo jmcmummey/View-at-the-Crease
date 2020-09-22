@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-16	 Flyers	 	 • Martin Biron	 flu (DTD)
+1	2008-12-21	 Flyers	 • Martin Biron	 	 returned to lineup
+2	2011-02-28	 Rangers	 	 • Martin Biron	 broken collarbone (out for season)
+3	2012-01-24	 Rangers	 	 • Martin Biron	 flu (DTD)
+4	2012-01-31	 Rangers	 • Martin Biron	 	 returned to lineup

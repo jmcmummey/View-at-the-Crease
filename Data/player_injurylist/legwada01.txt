@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-08	 Predators	 	 • David Legwand	 sprained left knee (left game)
+1	2005-12-09	 Predators	 	 • David Legwand	 surgery on left knee (out 4-6 weeks)
+2	2005-12-09	 Predators	 	 • David Legwand	 placed on IR with left knee injury
+3	2006-02-22	 Predators	 • David Legwand	 	 returned to lineup
+4	2006-03-24	 Predators	 	 • David Legwand	 knee injury (DTD)
+5	2006-03-30	 Predators	 • David Legwand	 	 returned to lineup
+6	2006-04-06	 Predators	 	 • David Legwand	 knee injury (DTD)
+7	2006-04-11	 Predators	 • David Legwand	 	 returned to lineup
+8	2006-12-06	 Predators	 	 • David Legwand	 hand injury (DTD)
+9	2006-12-12	 Predators	 • David Legwand	 	 returned to lineup
+10	2007-03-04	 Predators	 	 • David Legwand	 hand injury (DTD)
+11	2007-03-06	 Predators	 • David Legwand	 	 returned to lineup
+12	2007-12-31	 Predators	 	 • David Legwand	 upper body injury (DTD)
+13	2008-01-03	 Predators	 • David Legwand	 	 returned to lineup
+14	2008-01-22	 Predators	 	 • David Legwand	 leg injury (DTD)
+15	2008-01-31	 Predators	 • David Legwand	 	 returned to lineup
+16	2008-03-09	 Predators	 	 • David Legwand	 foot injury (DTD)
+17	2008-04-14	 Predators	 • David Legwand	 	 returned to lineup
+18	2008-04-18	 Predators	 	 • David Legwand	 flu (DTD)
+19	2008-04-20	 Predators	 • David Legwand	 	 returned to lineup
+20	2009-03-26	 Predators	 	 • David Legwand	 cheekbone injury (out for season)
+21	2010-11-20	 Predators	 	 • David Legwand	 lower body injury (DTD)
+22	2010-11-25	 Predators	 	 • David Legwand	 placed on IR with lower body injury
+23	2010-12-08	 Predators	 • David Legwand	 	 activated from IR
+24	2010-12-11	 Predators	 	 • David Legwand	 lower body injury (DTD)
+25	2010-12-31	 Predators	 • David Legwand	 	 returned to lineup
+26	2011-11-09	 Predators	 	 • David Legwand	 upper body injury (DTD)
+27	2011-11-19	 Predators	 • David Legwand	 	 returned to lineup

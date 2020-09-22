@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-11-09	 Sharks	 	 • Mario Ferraro	 undisclosed (DTD)
+1	2019-11-16	 Sharks	 • Mario Ferraro	 	 returned to lineup
+2	2019-12-17	 Sharks	 	 • Mario Ferraro	 upper body injury (DTD)
+3	2019-12-27	 Sharks	 • Mario Ferraro	 	 returned to lineup
+4	2020-03-07	 Sharks	 	 • Mario Ferraro	 lower body injury (DTD)

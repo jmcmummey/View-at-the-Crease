@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-10-23	 Sharks	 • Bryan Marchment	 	 activated from IR
+1	2005-11-01	 Flames	 	 • Bryan Marchment	 rib injury (DTD)
+2	2005-11-21	 Flames	 • Bryan Marchment	 	 returned to lineup
+3	2006-01-07	 Flames	 	 • Bryan Marchment	 knee injury (DTD)
+4	2006-02-28	 Flames	 • Bryan Marchment	 	 returned to lineup

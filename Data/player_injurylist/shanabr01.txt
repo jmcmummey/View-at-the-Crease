@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-17	 Rangers	 	 • Brendan Shanahan	 head injury (left game)
+1	2007-03-21	 Rangers	 • Brendan Shanahan	 	 returned to lineup
+2	2008-01-03	 Rangers	 	 • Brendan Shanahan	 neck injury (DTD)
+3	2008-01-05	 Rangers	 • Brendan Shanahan	 	 returned to lineup
+4	2008-01-12	 Rangers	 	 • Brendan Shanahan	 back injury (DTD)
+5	2008-01-16	 Rangers	 • Brendan Shanahan	 	 returned to lineup
+6	2008-02-03	 Rangers	 	 • Brendan Shanahan	 general soreness (DTD)
+7	2008-02-16	 Rangers	 • Brendan Shanahan	 	 returned to lineup
+8	2008-03-31	 Rangers	 	 • Brendan Shanahan	 lower body injury (DTD)
+9	2008-04-04	 Rangers	 • Brendan Shanahan	 	 returned to lineup
+10	2009-02-15	 Devils	 	 • Brendan Shanahan	 foot injury (DTD)
+11	2009-02-19	 Devils	 • Brendan Shanahan	 	 returned to lineup
+12	2009-03-22	 Devils	 	 • Brendan Shanahan	 back injury (DTD)
+13	2009-03-23	 Devils	 • Brendan Shanahan	 	 returned to lineup

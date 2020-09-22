@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-03-30	 Thrashers	 • Frantisek Kaberle	 	 activated from IR
+1	2002-03-09	 Thrashers	 	 • Frantisek Kaberle	 placed on IR with strained hamstring
+2	2004-02-24	 Thrashers	 	 • Frantisek Kaberle	 placed on IR with knee injury
+3	2004-03-19	 Thrashers	 • Frantisek Kaberle	 	 activated from IR
+4	2006-04-01	 Hurricanes	 	 • Frantisek Kaberle	 illness (DTD)
+5	2006-04-03	 Hurricanes	 • Frantisek Kaberle	 	 returned to lineup
+6	2006-04-08	 Hurricanes	 	 • Frantisek Kaberle	 facial injury (DTD)
+7	2006-04-11	 Hurricanes	 • Frantisek Kaberle	 	 returned to lineup
+8	2006-09-14	 Hurricanes	 	 • Frantisek Kaberle	 surgery on shoulder (out indefinitely)
+9	2007-02-06	 Hurricanes	 • Frantisek Kaberle	 	 returned to lineup
+10	2008-10-19	 Hurricanes	 	 • Frantisek Kaberle	 placed on IR with fractured right foot
+11	2008-11-26	 Hurricanes	 • Frantisek Kaberle	 	 activated from IR
+12	2008-12-06	 Hurricanes	 	 • Frantisek Kaberle	 lower body injury (DTD)
+13	2008-12-11	 Hurricanes	 	 • Frantisek Kaberle	 placed on IR
+14	2008-12-17	 Hurricanes	 • Frantisek Kaberle	 	 activated from IR
+15	2009-02-07	 Hurricanes	 	 • Frantisek Kaberle	 facial injury (DTD)
+16	2009-02-15	 Hurricanes	 • Frantisek Kaberle	 	 returned to lineup

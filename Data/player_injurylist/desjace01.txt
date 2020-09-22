@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-06	 Rangers	 	 • Cedrick Desjardins	 placed on IR with undisclosed injury
+1	2015-11-17	 Rangers	 • Cedrick Desjardins	 	 activated from IR

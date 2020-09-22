@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-23	 Maple Leafs	 	 • James Reimer	 head injury (DTD)
+1	2011-10-27	 Maple Leafs	 	 • James Reimer	 placed on IR with head injury
+2	2012-03-27	 Maple Leafs	 	 • James Reimer	 upper body injury (out for season)
+3	2013-02-12	 Maple Leafs	 	 • James Reimer	 placed on IR with strained MCL in left knee
+4	2013-02-27	 Maple Leafs	 • James Reimer	 	 activated from IR
+5	2015-11-28	 Maple Leafs	 	 • James Reimer	 undisclosed (DTD)
+6	2015-12-02	 Maple Leafs	 • James Reimer	 	 returned to lineup
+7	2015-12-04	 Maple Leafs	 	 • James Reimer	 groin injury (DTD)
+8	2015-12-21	 Maple Leafs	 	 • James Reimer	 placed on IR with groin injury
+9	2015-12-26	 Maple Leafs	 • James Reimer	 	 activated from IR
+10	2015-12-30	 Maple Leafs	 	 • James Reimer	 groin injury (DTD)
+11	2016-01-06	 Maple Leafs	 • James Reimer	 	 returned to lineup
+12	2017-03-29	 Panthers	 	 • James Reimer	 undisclosed injury (DTD)
+13	2017-04-06	 Panthers	 • James Reimer	 	 returned to lineup
+14	2018-01-24	 Panthers	 	 • James Reimer	 lower body injury (DTD)
+15	2018-01-29	 Panthers	 	 • James Reimer	 placed on IR with groin injury
+16	2018-02-07	 Panthers	 • James Reimer	 	 activated from IR
+17	2019-02-27	 Panthers	 	 • James Reimer	 lower body injury (DTD)
+18	2019-03-08	 Panthers	 • James Reimer	 	 returned to lineup
+19	2020-02-25	 Hurricanes	 	 • James Reimer	 lower body injury (out indefinitely)

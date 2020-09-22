@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1995-11-20	 Kings	 	 • Robert Lang	 placed on IR
+1	2002-01-29	 Penguins	 	 • Robert Lang	 oral surgery (DTD)
+2	2002-02-05	 Penguins	 • Robert Lang	 	 returned to lineup
+3	2002-03-07	 Penguins	 	 • Robert Lang	 broken hand (DTD)
+4	2002-03-23	 Penguins	 • Robert Lang	 	 returned to lineup
+5	2002-03-24	 Penguins	 	 • Robert Lang	 broken hand (out for season)
+6	2005-12-01	 Red Wings	 	 • Robert Lang	 groin injury (DTD)
+7	2005-12-20	 Red Wings	 • Robert Lang	 	 returned to lineup
+8	2006-04-11	 Red Wings	 	 • Robert Lang	 upper body injury (DTD)
+9	2006-04-15	 Red Wings	 • Robert Lang	 	 returned to lineup
+10	2007-01-26	 Red Wings	 	 • Robert Lang	 flu (DTD)
+11	2007-01-28	 Red Wings	 • Robert Lang	 	 returned to lineup
+12	2008-02-27	 Blackhawks	 	 • Robert Lang	 groin injury (DTD)
+13	2008-03-05	 Blackhawks	 • Robert Lang	 	 returned to lineup
+14	2008-03-23	 Blackhawks	 	 • Robert Lang	 sore back (DTD)
+15	2008-03-26	 Blackhawks	 • Robert Lang	 	 returned to lineup
+16	2009-02-02	 Canadiens	 	 • Robert Lang	 torn left Achilles tendon (out for season)
+17	2010-01-31	 Coyotes	 	 • Robert Lang	 undisclosed (DTD)
+18	2010-02-02	 Coyotes	 • Robert Lang	 	 returned to lineup
+19	2010-03-06	 Coyotes	 	 • Robert Lang	 lower body injury (DTD)
+20	2010-04-18	 Coyotes	 • Robert Lang	 	 returned to lineup

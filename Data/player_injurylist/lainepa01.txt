@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-01-08	 Jets	 	 • Patrik Laine	 concussion (DTD)
+1	2017-01-13	 Jets	 	 • Patrik Laine	 placed on IR with concussion
+2	2017-01-24	 Jets	 • Patrik Laine	 	 activated from IR
+3	2017-03-26	 Jets	 	 • Patrik Laine	 illness (DTD)
+4	2017-03-28	 Jets	 • Patrik Laine	 	 returned to lineup
+5	2019-10-29	 Jets	 	 • Patrik Laine	 lower body injury (DTD)
+6	2019-11-02	 Jets	 • Patrik Laine	 	 returned to lineup
+7	2020-02-29	 Jets	 	 • Patrik Laine	 foot injury (DTD)
+8	2020-03-03	 Jets	 • Patrik Laine	 	 returned to lineup
+9	2020-08-03	 Jets	 	 • Patrik Laine	 left hand/wrist injury (out for season)

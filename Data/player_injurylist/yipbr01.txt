@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-09-18	 Avalanche	 	 • Brandon Yip	 hand injury (out indefinitely)
+1	2009-09-30	 Avalanche	 	 • Brandon Yip	 placed on IR with undisclosed injury
+2	2009-12-01	 Avalanche	 • Brandon Yip	 	 activated from IR
+3	2010-03-02	 Avalanche	 	 • Brandon Yip	 placed on IR with shoudler injury
+4	2010-03-31	 Avalanche	 • Brandon Yip	 	 activated from IR
+5	2010-10-16	 Avalanche	 	 • Brandon Yip	 strained groin (DTD)
+6	2010-10-21	 Avalanche	 • Brandon Yip	 	 returned to lineup
+7	2011-10-05	 Avalanche	 	 • Brandon Yip	 placed on IR with arm injury
+8	2011-11-17	 Avalanche	 • Brandon Yip	 	 activated from IR
+9	2011-12-13	 Avalanche	 	 • Brandon Yip	 placed on IR with groin injury
+10	2011-12-21	 Avalanche	 • Brandon Yip	 	 activated from IR
+11	2011-12-26	 Avalanche	 	 • Brandon Yip	 groin injury (DTD)
+12	2012-01-06	 Avalanche	 • Brandon Yip	 	 returned to lineup
+13	2013-03-04	 Predators	 	 • Brandon Yip	 placed on IR with upper body injury
+14	2013-03-11	 Predators	 • Brandon Yip	 	 activated from IR
+15	2013-04-09	 Predators	 	 • Brandon Yip	 lower body injury (out for season)

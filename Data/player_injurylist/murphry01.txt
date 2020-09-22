@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-03-19	 Hurricanes	 	 • Ryan Murphy (b. 1993-03-31)	 upper body injury (DTD)
+1	2014-10-24	 Hurricanes	 	 • Ryan Murphy (b. 1993-03-31)	 lower body injury (DTD)
+2	2014-10-28	 Hurricanes	 • Ryan Murphy (b. 1993-03-31)	 	 returned to lineup
+3	2015-01-29	 Blue Jackets	 • Ryan Murphy	 	 activated from IR (E)
+4	2015-02-07	 Hurricanes	 	 • Ryan Murphy (b. 1993-03-31)	 lower body injury (DTD)
+5	2015-02-10	 Hurricanes	 	 • Ryan Murphy (b. 1993-03-31)	 placed on IR with lower body injury
+6	2015-03-06	 Hurricanes	 • Ryan Murphy (b. 1993-03-31)	 	 activated from IR
+7	2015-03-14	 Hurricanes	 	 • Ryan Murphy (b. 1993-03-31)	 illness (DTD)
+8	2015-03-17	 Hurricanes	 • Ryan Murphy (b. 1993-03-31)	 	 returned to lineup
+9	2015-11-15	 Hurricanes	 	 • Ryan Murphy (b. 1993-03-31)	 concussion (DTD)
+10	2015-11-26	 Hurricanes	 • Ryan Murphy (b. 1993-03-31)	 	 returned to lineup
+11	2016-03-19	 Hurricanes	 	 • Ryan Murphy (b. 1993-03-31)	 upper body injury (DTD)
+12	2016-03-22	 Hurricanes	 • Ryan Murphy (b. 1993-03-31)	 	 returned to lineup
+13	2016-10-11	 Hurricanes	 	 • Ryan Murphy (b. 1993-03-31)	 placed on IR with lower body injury
+14	2016-11-01	 Hurricanes	 • Ryan Murphy (b. 1993-03-31)	 	 activated from IR
+15	2017-03-28	 Hurricanes	 	 • Ryan Murphy (b. 1993-03-31)	 lower body injury (out for season)

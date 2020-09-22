@@ -1,0 +1,41 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-06	 Predators	 	 • Marek Zidlicky	 bruised hand (DTD)
+1	2006-01-08	 Predators	 • Marek Zidlicky	 	 returned to lineup
+2	2006-01-28	 Predators	 	 • Marek Zidlicky	 hand injury (DTD)
+3	2006-02-04	 Predators	 • Marek Zidlicky	 	 returned to lineup
+4	2006-03-28	 Predators	 	 • Marek Zidlicky	 shoulder injury (DTD)
+5	2006-04-27	 Predators	 • Marek Zidlicky	 	 returned to lineup
+6	2007-01-26	 Predators	 	 • Marek Zidlicky	 flu (DTD)
+7	2007-01-30	 Predators	 • Marek Zidlicky	 	 returned to lineup
+8	2007-03-08	 Predators	 	 • Marek Zidlicky	 upper body injury (DTD)
+9	2007-03-10	 Predators	 • Marek Zidlicky	 	 returned to lineup
+10	2007-11-24	 Predators	 	 • Marek Zidlicky	 strained back (DTD)
+11	2007-11-29	 Predators	 • Marek Zidlicky	 	 returned to lineup
+12	2008-10-11	 Wild	 	 • Marek Zidlicky	 sprained right ankle (DTD)
+13	2008-10-15	 Wild	 	 • Marek Zidlicky	 placed on IR
+14	2008-10-23	 Wild	 • Marek Zidlicky	 	 activated from IR
+15	2009-01-03	 Wild	 	 • Marek Zidlicky	 illness (DTD)
+16	2009-01-04	 Wild	 • Marek Zidlicky	 	 returned to lineup
+17	2009-03-22	 Wild	 	 • Marek Zidlicky	 lower body injury (DTD)
+18	2009-03-24	 Wild	 • Marek Zidlicky	 	 returned to lineup
+19	2010-04-05	 Wild	 	 • Marek Zidlicky	 arm injury (out for season)
+20	2010-10-07	 Wild	 	 • Marek Zidlicky	 groin injury (DTD)
+21	2010-10-14	 Wild	 • Marek Zidlicky	 	 returned to lineup
+22	2010-11-06	 Wild	 	 • Marek Zidlicky	 lower body injury (DTD)
+23	2010-11-14	 Wild	 • Marek Zidlicky	 	 returned to lineup
+24	2010-11-24	 Wild	 	 • Marek Zidlicky	 undisclosed (DTD)
+25	2010-11-26	 Wild	 • Marek Zidlicky	 	 returned to lineup
+26	2010-12-30	 Wild	 	 • Marek Zidlicky	 placed on IR with shoulder injury
+27	2011-02-18	 Wild	 • Marek Zidlicky	 	 activated from IR
+28	2011-03-17	 Wild	 	 • Marek Zidlicky	 hamstring injury (DTD)
+29	2011-03-26	 Wild	 • Marek Zidlicky	 	 returned to lineup
+30	2011-04-01	 Wild	 	 • Marek Zidlicky	 hamstring injury (out for season)
+31	2011-11-17	 Wild	 	 • Marek Zidlicky	 concussion (DTD)
+32	2011-11-23	 Wild	 	 • Marek Zidlicky	 placed on IR with concussion
+33	2011-12-14	 Wild	 • Marek Zidlicky	 	 activated from IR
+34	2012-05-09	 Devils	 	 • Marek Zidlicky	 undisclosed injury (DTD)
+35	2013-12-07	 Devils	 	 • Marek Zidlicky	 upper body injury (DTD)
+36	2013-12-10	 Devils	 • Marek Zidlicky	 	 returned to lineup
+37	2015-04-29	 Red Wings	 	 • Marek Zidlicky	 upper body injury (out for season)
+38	2016-03-08	 Islanders	 	 • Marek Zidlicky	 upper body injury (DTD)
+39	2016-04-02	 Islanders	 • Marek Zidlicky	 	 returned to lineup

@@ -1,0 +1,47 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-02-03	 Capitals	 	 • Sergei Gonchar	 placed on IR
+1	2004-02-13	 Capitals	 • Sergei Gonchar	 	 activated from IR
+2	2005-11-14	 Penguins	 	 • Sergei Gonchar	 strained groin (DTD)
+3	2005-11-22	 Penguins	 • Sergei Gonchar	 	 returned to lineup
+4	2006-02-08	 Penguins	 	 • Sergei Gonchar	 dizzyness (DTD)
+5	2006-02-11	 Penguins	 • Sergei Gonchar	 	 returned to lineup
+6	2007-11-30	 Penguins	 	 • Sergei Gonchar	 groin injury (DTD)
+7	2007-12-05	 Penguins	 • Sergei Gonchar	 	 returned to lineup
+8	2007-12-15	 Penguins	 	 • Sergei Gonchar	 illness (DTD)
+9	2007-12-18	 Penguins	 • Sergei Gonchar	 	 returned to lineup
+10	2008-09-23	 Penguins	 	 • Sergei Gonchar	 shoulder injury (out indefinitely)
+11	2008-09-25	 Penguins	 	 • Sergei Gonchar	 placed on IR with dislocated left shoulder
+12	2009-02-11	 Penguins	 • Sergei Gonchar	 	 activated from IR
+13	2009-05-09	 Penguins	 	 • Sergei Gonchar	 right knee injury (DTD)
+14	2009-05-13	 Penguins	 • Sergei Gonchar	 	 returned to lineup
+15	2009-10-21	 Penguins	 	 • Sergei Gonchar	 placed on IR with broken wrist
+16	2009-11-19	 Penguins	 • Sergei Gonchar	 	 activated from IR
+17	2010-01-02	 Penguins	 	 • Sergei Gonchar	 bruised right foot (DTD)
+18	2010-01-09	 Penguins	 • Sergei Gonchar	 	 returned to lineup
+19	2010-03-24	 Penguins	 	 • Sergei Gonchar	 illness (DTD)
+20	2010-04-03	 Penguins	 • Sergei Gonchar	 	 returned to lineup
+21	2011-02-18	 Senators	 	 • Sergei Gonchar	 back injury (DTD)
+22	2011-02-23	 Senators	 	 • Sergei Gonchar	 lower body injury (DTD) (CBC)
+23	2011-03-01	 Senators	 • Sergei Gonchar	 	 returned to lineup
+24	2011-03-22	 Senators	 	 • Sergei Gonchar	 concussion (out for season)
+25	2011-10-17	 Senators	 	 • Sergei Gonchar	 bruised ankle (DTD)
+26	2011-10-20	 Senators	 • Sergei Gonchar	 	 returned to lineup
+27	2011-12-10	 Senators	 	 • Sergei Gonchar	 upper body injury (DTD)
+28	2011-12-20	 Senators	 • Sergei Gonchar	 	 returned to lineup
+29	2011-12-31	 Senators	 	 • Sergei Gonchar	 head injury (DTD)
+30	2012-01-05	 Senators	 • Sergei Gonchar	 	 returned to lineup
+31	2012-04-03	 Senators	 	 • Sergei Gonchar	 lower body injury (DTD)
+32	2012-04-05	 Senators	 • Sergei Gonchar	 	 returned to lineup
+33	2013-01-30	 Senators	 	 • Sergei Gonchar	 lower body injury (DTD)
+34	2013-02-01	 Senators	 • Sergei Gonchar	 	 returned to lineup
+35	2013-02-03	 Senators	 	 • Sergei Gonchar	 flu (DTD)
+36	2013-02-07	 Senators	 • Sergei Gonchar	 	 returned to lineup
+37	2013-12-22	 Stars	 	 • Sergei Gonchar	 concussion (DTD)
+38	2013-12-27	 Stars	 	 • Sergei Gonchar	 placed on IR with concussion
+39	2014-01-06	 Stars	 • Sergei Gonchar	 	 activated from IR
+40	2014-10-06	 Stars	 	 • Sergei Gonchar	 placed on IR with fractured ankle
+41	2014-11-04	 Stars	 • Sergei Gonchar	 	 activated from IR
+42	2015-02-15	 Canadiens	 	 • Sergei Gonchar	 upper body injury (DTD)
+43	2015-02-19	 Canadiens	 	 • Sergei Gonchar	 placed on IR with upper body injury
+44	2015-02-28	 Canadiens	 • Sergei Gonchar	 	 activated from IR
+45	2015-03-02	 Canadiens	 • Sergei Gonchar	 	 activated from IR (S)

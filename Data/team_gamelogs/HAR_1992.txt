@@ -1,0 +1,81 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1991-10-05	@	Quebec Nordiques	2	4	L			25	20	1		0		36	28	0		1
+1	1991-10-08		Montreal Canadiens	2	2	T	OT		24	14	2		0		34	18	1		0
+2	1991-10-12		New York Rangers	5	2	W			33	19	0		0		34	15	2		0
+3	1991-10-14	@	Montreal Canadiens	4	3	W			19	23	1		0		38	19	1		0
+4	1991-10-16	@	Winnipeg Jets	3	2	W			33	28	2		0		38	16	0		0
+5	1991-10-19		Buffalo Sabres	4	1	W			35	19	2		0		24	21	0		0
+6	1991-10-23		San Jose Sharks	3	0	W			29	25	2		0		33	26	0		0
+7	1991-10-26		Chicago Blackhawks	2	4	L			26	18	1		0		27	37	2		0
+8	1991-10-27	@	Buffalo Sabres	1	5	L			25	37	0		0		43	35	3		0
+9	1991-10-30		Los Angeles Kings	4	4	T	OT		29	20	1		0		26	35	1		1
+10	1991-11-01	@	Detroit Red Wings	5	8	L			30	8	2		0		33	14	1		0
+11	1991-11-02	@	Pittsburgh Penguins	6	5	W			28	12	1		1		25	12	3		0
+12	1991-11-06		Calgary Flames	2	3	L			27	12	1		0		37	31	0		0
+13	1991-11-09	@	St. Louis Blues	4	3	W			36	27	2		0		31	23	1		0
+14	1991-11-10	@	Chicago Blackhawks	0	3	L			18	20	0		0		25	16	0		0
+15	1991-11-12		Quebec Nordiques	5	4	W			33	13	2		0		23	19	1		1
+16	1991-11-14		Montreal Canadiens	2	2	T	OT		27	26	1		0		28	12	2		0
+17	1991-11-16		Boston Bruins	4	5	L	OT		27	20	2		0		29	12	3		0
+18	1991-11-17	@	Toronto Maple Leafs	3	1	W			43	6	2		0		26	14	0		0
+19	1991-11-22	@	New Jersey Devils	2	8	L			22	24	0		0		25	6	3		0
+20	1991-11-23		Washington Capitals	2	3	L			25	25	0		0		20	18	1		0
+21	1991-11-25	@	Quebec Nordiques	2	5	L			31	18	1		0		28	22	2		0
+22	1991-11-27	@	Philadelphia Flyers	7	3	W			36	25	2		1		36	23	0		0
+23	1991-11-30		Montreal Canadiens	3	2	W			25	23	1		0		25	8	0		0
+24	1991-12-01	@	Boston Bruins	4	5	L			26	16	1		1		31	26	1		0
+25	1991-12-04		Toronto Maple Leafs	0	3	L			26	8	0		0		24	16	0		0
+26	1991-12-07		Buffalo Sabres	6	6	T	OT		31	10	1		0		28	14	1		0
+27	1991-12-13	@	Buffalo Sabres	8	4	W			46	53	1		0		33	37	3		0
+28	1991-12-14		New York Rangers	2	6	L			23	15	0		0		26	19	3		0
+29	1991-12-17		New York Islanders	2	4	L			25	8	0		0		18	10	1		0
+30	1991-12-19		New Jersey Devils	1	4	L			19	28	0		0		17	19	2		0
+31	1991-12-21	@	Montreal Canadiens	2	3	L	OT		22	18	0		0		34	22	0		0
+32	1991-12-23		Buffalo Sabres	4	3	W			34	10	2		0		19	10	2		0
+33	1991-12-26	@	Boston Bruins	2	3	L			32	16	2		0		26	16	1		1
+34	1991-12-28	@	Quebec Nordiques	1	4	L			24	18	0		0		33	18	0		0
+35	1991-12-29		New York Islanders	6	4	W			32	10	2		0		19	14	2		0
+36	1992-01-02		Quebec Nordiques	4	1	W			27	21	3		0		28	23	0		0
+37	1992-01-04		Washington Capitals	2	2	T	OT		26	14	0		0		33	12	2		0
+38	1992-01-09	@	New York Islanders	1	2	L			30	22	0		0		27	24	1		0
+39	1992-01-11	@	Montreal Canadiens	2	3	L			28	21	0		0		32	4	1		0
+40	1992-01-15		Boston Bruins	3	4	L			29	10	1		0		22	10	1		0
+41	1992-01-16	@	Boston Bruins	3	4	L	OT		26	46	2		0		43	36	0		0
+42	1992-01-21		Winnipeg Jets	3	3	T	OT		30	17	0		0		25	34	0		0
+43	1992-01-25		Boston Bruins	4	4	T	OT		24	38	0		1		31	36	3		0
+44	1992-01-26	@	Montreal Canadiens	1	3	L			32	12	0		1		35	10	0		0
+45	1992-01-28		Minnesota North Stars	3	4	L			21	50	0		0		33	56	1		1
+46	1992-01-31	@	Edmonton Oilers	1	4	L			28	14	0		0		22	12	1		1
+47	1992-02-01	@	Vancouver Canucks	4	4	T	OT		22	29	0		0		35	25	2		1
+48	1992-02-04	@	San Jose Sharks	5	6	L			40	19	0		0		37	23	1		0
+49	1992-02-06	@	Los Angeles Kings	5	5	T	OT		29	39	1		0		41	29	2		0
+50	1992-02-09		Minnesota North Stars	4	4	T	OT		26	10	1		0		24	10	0		0
+51	1992-02-11		Buffalo Sabres	5	1	W			29	49	1		1		31	24	0		0
+52	1992-02-13		Edmonton Oilers	1	3	L			36	6	0		0		20	6	0		0
+53	1992-02-15	@	New Jersey Devils	1	4	L			26	14	1		0		32	14	0		0
+54	1992-02-16	@	Buffalo Sabres	4	5	L			39	12	3		0		34	22	2		0
+55	1992-02-19		Montreal Canadiens	2	2	T	OT		34	8	1		0		20	6	0		0
+56	1992-02-22		Quebec Nordiques	4	0	W			32	8	0		0		21	18	0		0
+57	1992-02-23		Detroit Red Wings	0	4	L			24	23	0		0		23	12	2		0
+58	1992-02-25		St. Louis Blues	2	5	L			26	8	0		0		26	8	1		0
+59	1992-02-27	@	Pittsburgh Penguins	8	4	W			28	26	2		0		33	33	2		0
+60	1992-02-29	@	Minnesota North Stars	5	4	W	OT		21	16	1		0		32	18	2		0
+61	1992-03-01	@	New York Rangers	4	9	L			35	30	1		0		43	16	1		0
+62	1992-03-03		Boston Bruins	4	0	W			26	37	1		0		30	17	0		0
+63	1992-03-05		Quebec Nordiques	4	10	L			26	17	1		0		43	13	3		0
+64	1992-03-07		Vancouver Canucks	1	5	L			26	19	1		0		33	17	0		0
+65	1992-03-09	@	Quebec Nordiques	0	2	L			30	10	0		0		29	16	1		0
+66	1992-03-11		Los Angeles Kings	4	0	W			39	14	0		0		21	18	0		0
+67	1992-03-13	@	Winnipeg Jets	1	0	W			28	32	0		0		40	12	0		0
+68	1992-03-14	@	Edmonton Oilers	1	3	L			22	6	0		0		31	6	1		0
+69	1992-03-16	@	Calgary Flames	4	3	W			40	18	3		0		33	29	1		0
+70	1992-03-18	@	Vancouver Canucks	2	3	L			36	12	2		0		23	14	2		0
+71	1992-03-21		San Jose Sharks	4	5	L			31	18	0		0		25	16	1		1
+72	1992-03-22		Pittsburgh Penguins	2	2	T	OT		28	18	0		0		29	16	0		1
+73	1992-03-24	@	Washington Capitals	8	2	W			27	21	3		2		31	13	1		0
+74	1992-03-26	@	St. Louis Blues	2	7	L			30	68	0		0		35	70	3		0
+75	1992-03-28		Chicago Blackhawks	1	3	L			20	21	1		0		26	24	1		0
+76	1992-03-29	@	Buffalo Sabres	2	2	T	OT		21	62	1		1		50	46	1		1
+77	1992-04-12		Philadelphia Flyers	4	2	W			24	14	2		0		22	28	0		1
+78	1992-04-13	@	Boston Bruins	3	6	L			19	115	2		0		47	93	3		0
+79	1992-04-15	@	Philadelphia Flyers	4	3	W	OT		23	21	0		1		30	25	0		0

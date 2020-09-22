@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-12-30	 Blues	 	 • Chris Porter	 placed on IR with leg injury
+1	2015-02-17	 Blues	 • Chris Porter	 	 activated from IR

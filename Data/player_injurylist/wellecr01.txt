@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-13	 Coyotes	 	 • Craig Weller	 concussion (DTD)
+1	2008-01-03	 Coyotes	 • Craig Weller	 	 returned to lineup
+2	2009-01-17	 Wild	 	 • Craig Weller	 head injury (DTD)
+3	2009-02-21	 Wild	 • Craig Weller	 	 returned to lineup

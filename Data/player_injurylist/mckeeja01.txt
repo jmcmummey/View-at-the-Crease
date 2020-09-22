@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-02-18	 Sabres	 	 • Jay McKee	 placed on IR with bruised foot
+1	2005-11-05	 Sabres	 	 • Jay McKee	 foot injury (DTD)
+2	2005-11-19	 Sabres	 • Jay McKee	 	 returned to lineup
+3	2006-06-01	 Sabres	 	 • Jay McKee	 infection (DTD)
+4	2006-09-23	 Blues	 	 • Jay McKee	 knee injury (DTD)
+5	2006-10-20	 Blues	 • Jay McKee	 	 returned to lineup
+6	2006-10-21	 Blues	 	 • Jay McKee	 broken right hand (out indefinitely)
+7	2006-10-23	 Blues	 	 • Jay McKee	 surgery on broken right hand
+8	2006-11-30	 Blues	 • Jay McKee	 	 returned to lineup
+9	2007-01-14	 Blues	 	 • Jay McKee	 lower body injury (out indefinitely)
+10	2007-02-27	 Blues	 • Jay McKee	 	 returned to lineup
+11	2007-03-01	 Blues	 	 • Jay McKee	 hip injury (DTD)
+12	2007-09-27	 Blues	 	 • Jay McKee	 fractured right foot (out 3-4 weeks)
+13	2007-10-17	 Blues	 • Jay McKee	 	 returned to lineup
+14	2008-03-11	 Blues	 	 • Jay McKee	 foot injury (DTD)
+15	2008-03-18	 Blues	 • Jay McKee	 	 returned to lineup
+16	2008-03-20	 Blues	 	 • Jay McKee	 foot injury (DTD)
+17	2008-03-28	 Blues	 • Jay McKee	 	 returned to lineup
+18	2008-12-17	 Blues	 	 • Jay McKee	 placed on IR with fractured left ring finger
+19	2009-01-13	 Blues	 • Jay McKee	 	 activated from IR
+20	2009-02-13	 Blues	 	 • Jay McKee	 undisclosed injury (DTD)
+21	2009-11-19	 Penguins	 	 • Jay McKee	 finger injury (DTD)
+22	2009-11-20	 Penguins	 	 • Jay McKee	 placed on IR
+23	2009-11-30	 Penguins	 • Jay McKee	 	 activated from IR
+24	2010-02-01	 Penguins	 	 • Jay McKee	 undisclosed (DTD)
+25	2010-02-06	 Penguins	 • Jay McKee	 	 returned to lineup

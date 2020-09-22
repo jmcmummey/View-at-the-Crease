@@ -1,0 +1,46 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-27	 Rangers	 	 • Artem Anisimov	 left game with right ankle injury
+1	2011-12-17	 Rangers	 	 • Artem Anisimov	 illness (DTD)
+2	2012-03-17	 Rangers	 	 • Artem Anisimov	 upper body injury (DTD)
+3	2012-03-21	 Rangers	 • Artem Anisimov	 	 returned to lineup
+4	2013-02-16	 Blue Jackets	 	 • Artem Anisimov	 right foot injury (DTD)
+5	2013-02-21	 Blue Jackets	 • Artem Anisimov	 	 returned to lineup
+6	2013-02-22	 Blue Jackets	 	 • Artem Anisimov	 head injury (DTD)
+7	2013-03-01	 Blue Jackets	 • Artem Anisimov	 	 returned to lineup
+8	2013-03-09	 Blue Jackets	 	 • Artem Anisimov	 lower body injury (DTD)
+9	2013-03-14	 Blue Jackets	 • Artem Anisimov	 	 returned to lineup
+10	2013-04-14	 Blue Jackets	 	 • Artem Anisimov	 head injury (DTD)
+11	2013-04-27	 Blue Jackets	 • Artem Anisimov	 	 returned to lineup
+12	2014-10-29	 Blue Jackets	 	 • Artem Anisimov	 concussion (out indefinitely)
+13	2014-11-03	 Blue Jackets	 	 • Artem Anisimov	 placed on IR with concussion
+14	2014-11-15	 Blue Jackets	 • Artem Anisimov	 	 activated from IR
+15	2014-11-30	 Blue Jackets	 	 • Artem Anisimov	 placed on IR with torn triceps
+16	2015-01-29	 Blue Jackets	 • Artem Anisimov	 	 activated from IR
+17	2016-01-12	 Blackhawks	 	 • Artem Anisimov	 illness (DTD)
+18	2016-01-14	 Blackhawks	 • Artem Anisimov	 	 returned to lineup
+19	2016-03-27	 Blackhawks	 	 • Artem Anisimov	 lower body injury (DTD)
+20	2016-03-31	 Blackhawks	 • Artem Anisimov	 	 returned to lineup
+21	2016-04-06	 Blackhawks	 	 • Artem Anisimov	 upper body injury (out for season)
+22	2016-05-03	 Blackhawks	 	 • Artem Anisimov	 surgery on right wrist (out indefinitely)
+23	2016-10-12	 Blackhawks	 • Artem Anisimov	 	 returned to lineup
+24	2016-11-10	 Blackhawks	 	 • Artem Anisimov	 upper body injury (DTD)
+25	2016-11-13	 Blackhawks	 • Artem Anisimov	 	 returned to lineup
+26	2016-12-18	 Blackhawks	 	 • Artem Anisimov	 upper body injury (DTD)
+27	2016-12-22	 Blackhawks	 	 • Artem Anisimov	 placed on IR with upper body injury
+28	2016-12-27	 Blackhawks	 • Artem Anisimov	 	 activated from IR
+29	2017-03-02	 Blackhawks	 	 • Artem Anisimov	 lower body injury (DTD)
+30	2017-03-04	 Blackhawks	 • Artem Anisimov	 	 returned to lineup
+31	2017-03-15	 Blackhawks	 	 • Artem Anisimov	 lower body injury (DTD)
+32	2017-04-13	 Blackhawks	 • Artem Anisimov	 	 returned to lineup
+33	2017-12-29	 Blackhawks	 	 • Artem Anisimov	 placed on IR with upper body injury
+34	2018-01-22	 Blackhawks	 • Artem Anisimov	 	 activated from IR
+35	2018-12-09	 Blackhawks	 	 • Artem Anisimov	 placed on IR with concussion
+36	2018-12-10	 Blackhawks	 	 • Artem Anisimov	 concussion (DTD)
+37	2018-12-18	 Blackhawks	 • Artem Anisimov	 	 activated from IR
+38	2019-10-14	 Senators	 	 • Artem Anisimov	 lower body injury (DTD)
+39	2019-10-21	 Senators	 • Artem Anisimov	 	 returned to lineup
+40	2019-10-23	 Senators	 	 • Artem Anisimov	 placed on IR with lower body injury
+41	2019-11-05	 Senators	 • Artem Anisimov	 	 activated from IR
+42	2019-11-08	 Senators	 	 • Artem Anisimov	 placed on IR with groin injury
+43	2019-11-29	 Senators	 • Artem Anisimov	 	 activated from IR
+44	2020-03-05	 Senators	 	 • Artem Anisimov	 upper body injury (DTD)

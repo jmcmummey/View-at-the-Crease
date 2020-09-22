@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-04-07	 Predators	 	 • Anders Lindback	 undisclosed injury (DTD)
+1	2013-03-21	 Lightning	 	 • Anders Lindback	 placed on IR with sprained ankle
+2	2013-04-21	 Lightning	 • Anders Lindback	 	 activated from IR
+3	2014-01-31	 Lightning	 	 • Anders Lindback	 placed on IR with sprained left ankle
+4	2014-03-03	 Lightning	 • Anders Lindback	 	 activated from IR
+5	2016-02-15	 Coyotes	 	 • Anders Lindback	 lower body injury (out for season)
+6	2016-02-20	 Coyotes	 	 • Anders Lindback	 placed on IR with Achilles injury (out for season)

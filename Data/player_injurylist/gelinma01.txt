@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-02-08	 Hurricanes	 	 • Martin Gelinas	 placed on IR
+1	2007-10-24	 Predators	 	 • Martin Gelinas	 eye injury (DTD)
+2	2007-10-30	 Predators	 	 • Martin Gelinas	 eye & shoulder injury (DTD)
+3	2007-11-07	 Predators	 • Martin Gelinas	 	 returned to lineup
+4	2008-02-23	 Predators	 	 • Martin Gelinas	 right knee injury (DTD)

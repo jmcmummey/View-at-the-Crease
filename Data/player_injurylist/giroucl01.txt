@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-03	 Flyers	 	 • Claude Giroux	 head injury (DTD)
+1	2009-01-15	 Flyers	 • Claude Giroux	 	 returned to lineup
+2	2011-12-11	 Flyers	 	 • Claude Giroux	 head injury (out indefinitely)
+3	2011-12-19	 Flyers	 	 • Claude Giroux	 placed on IR with concussion
+4	2011-12-21	 Flyers	 • Claude Giroux	 	 activated from IR
+5	2012-04-07	 Flyers	 	 • Claude Giroux	 upper body injury (out for season)
+6	2015-01-03	 Flyers	 	 • Claude Giroux	 left leg injury (DTD)
+7	2015-01-06	 Flyers	 • Claude Giroux	 	 returned to lineup
+8	2016-02-20	 Flyers	 	 • Claude Giroux	 upper body injury (DTD)
+9	2016-02-27	 Flyers	 • Claude Giroux	 	 returned to lineup

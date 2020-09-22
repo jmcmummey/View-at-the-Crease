@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-12-09	 Avalanche	 	 • Cale Makar	 upper body injury (DTD)
+1	2019-12-13	 Avalanche	 	 • Cale Makar	 placed on IR with upper body injury
+2	2019-12-27	 Avalanche	 • Cale Makar	 	 activated from IR
+3	2020-03-02	 Avalanche	 	 • Cale Makar	 upper body injury (DTD)
+4	2020-03-11	 Avalanche	 • Cale Makar	 	 returned to lineup

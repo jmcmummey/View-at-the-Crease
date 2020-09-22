@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-10-17	 Canucks	 	 • Greg Adams (D.)	 sprained left knee (DTD)
+1	1990-11-13	 Canucks	 • Greg Adams (D.)	 	 activated from IR
+2	1991-02-27	 Canucks	 	 • Greg Adams (D.)	 sprained forearm, wrist, & abdomen (DTD)
+3	1991-10-08	 Canucks	 	 • Greg Adams (D.)	 concussion (DTD)
+4	1993-02-15	 Canucks	 	 • Greg Adams (D.)	 charley horse (DTD)
+5	1993-12-14	 Canucks	 	 • Greg Adams (D.)	 stress fracture in hand (DTD)
+6	1994-02-22	 Canucks	 	 • Greg Adams (D.)	 bruised foot (DTD)
+7	1996-03-02	 Stars	 	 • Greg Adams (D.)	 fractured hand (DTD)
+8	1996-04-07	 Stars	 	 • Greg Adams (D.)	 broken toe (DTD)
+9	1997-12-31	 Stars	 	 • Greg Adams (D.)	 placed on IR
+10	1998-02-24	 Stars	 • Greg Adams (D.)	 	 activated from IR

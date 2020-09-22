@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-19	 Hurricanes	 	 • Keith Aucoin	 placed on IR with foot injury
+1	2006-10-31	 Hurricanes	 • Keith Aucoin	 	 activated from IR

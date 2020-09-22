@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-03	 Thrashers	 	 • Hnat Domenichelli	 placed on IR
+1	2001-01-12	 Thrashers	 	 • Hnat Domenichelli	 placed on IR with strained groin
+2	2001-01-16	 Thrashers	 • Hnat Domenichelli	 	 activated from IR
+3	2001-01-18	 Thrashers	 	 • Hnat Domenichelli	 placed on IR
+4	2001-02-13	 Thrashers	 • Hnat Domenichelli	 	 activated from IR

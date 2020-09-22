@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-17	 Coyotes	 	 • Jordan Martinook	 lower body injury (DTD)
+1	2015-10-20	 Coyotes	 • Jordan Martinook	 	 returned to lineup
+2	2017-01-07	 Coyotes	 	 • Jordan Martinook	 upper body injury (DTD)
+3	2017-01-16	 Coyotes	 • Jordan Martinook	 	 returned to lineup
+4	2017-01-23	 Coyotes	 	 • Jordan Martinook	 upper body injury (DTD)
+5	2017-01-26	 Coyotes	 • Jordan Martinook	 	 returned to lineup
+6	2017-10-10	 Coyotes	 	 • Jordan Martinook	 lower body injury (DTD)
+7	2017-10-12	 Coyotes	 • Jordan Martinook	 	 returned to lineup
+8	2018-01-23	 Coyotes	 	 • Jordan Martinook	 undisclosed (DTD)
+9	2019-04-20	 Hurricanes	 	 • Jordan Martinook	 leg injury (DTD)
+10	2019-04-22	 Hurricanes	 • Jordan Martinook	 	 returned to lineup
+11	2019-04-26	 Hurricanes	 	 • Jordan Martinook	 lower body injury (DTD)
+12	2019-05-01	 Hurricanes	 • Jordan Martinook	 	 returned to lineup
+13	2019-05-14	 Hurricanes	 	 • Jordan Martinook	 lower body injury (out for season)
+14	2019-10-11	 Hurricanes	 	 • Jordan Martinook	 core muscle injury (out indefinitely)
+15	2019-10-15	 Hurricanes	 	 • Jordan Martinook	 placed on IR with core muscle injury
+16	2019-11-15	 Hurricanes	 • Jordan Martinook	 	 activated from IR
+17	2020-02-06	 Hurricanes	 	 • Jordan Martinook	 upper body injury (out indefinitely)
+18	2020-02-22	 Hurricanes	 • Jordan Martinook	 	 returned to lineup

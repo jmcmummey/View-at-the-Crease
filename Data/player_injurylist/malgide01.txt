@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-12-10	 Panthers	 	 • Denis Malgin	 undisclosed injury (DTD)
+1	2016-12-15	 Panthers	 • Denis Malgin	 	 returned to lineup
+2	2017-01-13	 Panthers	 	 • Denis Malgin	 upper body injury (DTD)
+3	2017-01-14	 Panthers	 • Denis Malgin	 	 returned to lineup
+4	2017-03-13	 Panthers	 	 • Denis Malgin	 concussion (out indefinitely)
+5	2017-03-30	 Panthers	 • Denis Malgin	 	 returned to lineup
+6	2017-12-13	 Panthers	 	 • Denis Malgin	 upper body injury (DTD)
+7	2017-12-17	 Panthers	 • Denis Malgin	 	 returned to lineup
+8	2018-02-26	 Panthers	 	 • Denis Malgin	 sprained MCL in knee (out indefinitely)
+9	2018-03-12	 Panthers	 • Denis Malgin	 	 returned to lineup
+10	2018-03-31	 Panthers	 	 • Denis Malgin	 undisclosed injury (DTD)
+11	2018-04-02	 Panthers	 • Denis Malgin	 	 returned to lineup
+12	2018-11-26	 Panthers	 	 • Denis Malgin	 upper body injury (DTD)
+13	2018-12-08	 Panthers	 • Denis Malgin	 	 returned to lineup
+14	2019-02-25	 Panthers	 	 • Denis Malgin	 undisclosed (DTD)
+15	2019-03-27	 Panthers	 • Denis Malgin	 	 returned to lineup

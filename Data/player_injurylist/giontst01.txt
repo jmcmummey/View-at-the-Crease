@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-10	 Devils	 	 • Stephen Gionta	 sore ankle (DTD)
+1	2013-11-15	 Devils	 • Stephen Gionta	 	 returned to lineup
+2	2013-11-24	 Devils	 	 • Stephen Gionta	 sprained right ankle (DTD)
+3	2013-11-27	 Devils	 	 • Stephen Gionta	 placed on IR with sprained right ankle
+4	2013-12-18	 Devils	 • Stephen Gionta	 	 activated from IR
+5	2014-03-31	 Devils	 	 • Stephen Gionta	 lower body injury (DTD)
+6	2014-04-05	 Devils	 • Stephen Gionta	 	 returned to lineup
+7	2014-12-30	 Devils	 	 • Stephen Gionta	 placed on IR with fractured left hand
+8	2015-02-17	 Devils	 • Stephen Gionta	 	 activated from IR
+9	2015-04-01	 Devils	 	 • Stephen Gionta	 back injury (DTD)
+10	2015-04-09	 Devils	 • Stephen Gionta	 	 returned to lineup

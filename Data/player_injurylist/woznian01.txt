@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-07	 Maple Leafs	 	 • Andy Wozniewski	 lower body injury (out indefinitely)
+1	2006-10-10	 Maple Leafs	 	 • Andy Wozniewski	 surgery on shoulder (DTD)
+2	2007-02-03	 Maple Leafs	 • Andy Wozniewski	 	 returned to lineup

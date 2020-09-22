@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-03-20	 Red Wings	 	 • Libor Sulak	 illness (DTD)
+1	2019-03-24	 Red Wings	 • Libor Sulak	 	 returned to lineup

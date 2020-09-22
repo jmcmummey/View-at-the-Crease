@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-25	 Maple Leafs	 	 • Jonas Frogren	 arm injury (out indefinitely)
+1	2008-12-20	 Maple Leafs	 • Jonas Frogren	 	 returned to lineup
+2	2009-03-08	 Maple Leafs	 	 • Jonas Frogren	 lower body injury (out indefinitely)

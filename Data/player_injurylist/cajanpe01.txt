@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-05	 Blues	 	 • Petr Cajanek	 placed on IR with groin injury
+1	2005-12-20	 Blues	 • Petr Cajanek	 	 activated from IR
+2	2006-02-28	 Blues	 	 • Petr Cajanek	 wrist injury (DTD)
+3	2006-03-05	 Blues	 	 • Petr Cajanek	 placed on IR
+4	2006-03-07	 Blues	 • Petr Cajanek	 	 activated from IR
+5	2006-04-08	 Blues	 	 • Petr Cajanek	 hip flexor injury (DTD)
+6	2006-04-11	 Blues	 • Petr Cajanek	 	 returned to lineup
+7	2006-11-16	 Blues	 	 • Petr Cajanek	 hip injury (DTD)
+8	2006-11-24	 Blues	 • Petr Cajanek	 	 returned to lineup

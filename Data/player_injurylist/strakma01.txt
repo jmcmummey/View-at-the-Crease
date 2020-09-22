@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-10-28	 Penguins	 	 • Martin Straka	 broken leg (out indefinitely)
+1	2001-10-31	 Penguins	 	 • Martin Straka	 placed on IR with broken leg (date approximate)
+2	2002-02-27	 Penguins	 • Martin Straka	 	 activated from IR
+3	2002-02-28	 Penguins	 	 • Martin Straka	 broken orbital/sinus bone (DTD)
+4	2002-03-07	 Penguins	 • Martin Straka	 	 returned to lineup
+5	2002-03-09	 Penguins	 	 • Martin Straka	 broken leg (out for season)
+6	2002-10-10	 Penguins	 	 • Martin Straka	 back injury (DTD)
+7	2002-11-06	 Penguins	 • Martin Straka	 	 returned to lineup
+8	2002-11-29	 Penguins	 	 • Martin Straka	 hamstring injury (DTD)
+9	2002-12-03	 Penguins	 • Martin Straka	 	 returned to lineup
+10	2002-12-10	 Penguins	 	 • Martin Straka	 hamstring injury (DTD)
+11	2002-12-17	 Penguins	 • Martin Straka	 	 returned to lineup
+12	2003-02-12	 Penguins	 	 • Martin Straka	 hamstring injury (DTD)
+13	2003-02-22	 Penguins	 • Martin Straka	 	 returned to lineup
+14	2004-01-12	 Kings	 	 • Martin Straka	 placed on IR
+15	2007-02-27	 Rangers	 	 • Martin Straka	 shoulder injury (DTD)
+16	2007-03-05	 Rangers	 • Martin Straka	 	 returned to lineup
+17	2007-03-19	 Rangers	 	 • Martin Straka	 knee injury (DTD)
+18	2007-03-24	 Rangers	 • Martin Straka	 	 returned to lineup
+19	2007-10-20	 Rangers	 	 • Martin Straka	 broken finger (left game)
+20	2007-11-23	 Rangers	 • Martin Straka	 	 returned to lineup
+21	2008-01-08	 Rangers	 	 • Martin Straka	 concussion (DTD)
+22	2008-01-12	 Rangers	 • Martin Straka	 	 returned to lineup

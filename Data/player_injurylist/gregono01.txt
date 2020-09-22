@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-02-17	 Sharks	 	 • Noah Gregor	 undisclosed (DTD)
+1	2020-02-20	 Sharks	 • Noah Gregor	 	 returned to lineup

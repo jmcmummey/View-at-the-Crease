@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-02-26	 Blues	 	 • Ian Cole	 upper body injury (DTD)
+1	2015-02-28	 Blues	 • Ian Cole	 	 returned to lineup
+2	2017-10-08	 Penguins	 	 • Ian Cole	 placed on IR with mouth injury
+3	2017-10-17	 Penguins	 • Ian Cole	 	 activated from IR
+4	2019-02-09	 Avalanche	 	 • Ian Cole	 placed on IR with fractured orbital bone
+5	2019-03-01	 Avalanche	 • Ian Cole	 	 activated from IR
+6	2019-10-01	 Avalanche	 	 • Ian Cole	 placed on injured/non-roster list with hip injury
+7	2019-10-14	 Avalanche	 • Ian Cole	 	 activated from injured/non-roster list

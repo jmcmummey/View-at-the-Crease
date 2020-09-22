@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-11	 Blue Jackets	 	 • Derek MacKenzie	 sprained MCL in left knee (out for season)
+1	2010-11-12	 Blue Jackets	 	 • Derek MacKenzie	 lower body injury (DTD)
+2	2010-11-20	 Blue Jackets	 • Derek MacKenzie	 	 returned to lineup
+3	2010-12-15	 Blue Jackets	 	 • Derek MacKenzie	 placed on IR with groin injury
+4	2010-12-30	 Blue Jackets	 • Derek MacKenzie	 	 activated from IR
+5	2012-03-08	 Blue Jackets	 	 • Derek MacKenzie	 concussion (out for season)
+6	2013-03-14	 Blue Jackets	 	 • Derek MacKenzie	 upper body injury (DTD)
+7	2013-03-19	 Blue Jackets	 • Derek MacKenzie	 	 returned to lineup
+8	2013-10-26	 Blue Jackets	 	 • Derek MacKenzie	 lower body injury (DTD)
+9	2013-11-01	 Blue Jackets	 • Derek MacKenzie	 	 returned to lineup
+10	2013-11-23	 Blue Jackets	 	 • Derek MacKenzie	 back spasms (DTD)
+11	2013-11-28	 Blue Jackets	 	 • Derek MacKenzie	 placed on IR with strained back
+12	2013-12-05	 Blue Jackets	 • Derek MacKenzie	 	 activated from IR
+13	2013-12-17	 Blue Jackets	 	 • Derek MacKenzie	 lower body injury (DTD)
+14	2013-12-23	 Blue Jackets	 • Derek MacKenzie	 	 returned to lineup
+15	2015-12-13	 Panthers	 	 • Derek MacKenzie	 lower body injury (DTD)
+16	2015-12-22	 Panthers	 • Derek MacKenzie	 	 returned to lineup
+17	2016-02-28	 Panthers	 	 • Derek MacKenzie	 placed on IR with undisclosed injury
+18	2016-03-10	 Panthers	 • Derek MacKenzie	 	 activated from IR
+19	2016-03-14	 Panthers	 	 • Derek MacKenzie	 foot injury (DTD)
+20	2016-03-31	 Panthers	 • Derek MacKenzie	 	 returned to lineup
+21	2016-04-07	 Panthers	 	 • Derek MacKenzie	 foot injury (DTD)
+22	2016-04-09	 Panthers	 • Derek MacKenzie	 	 returned to lineup
+23	2017-11-13	 Panthers	 	 • Derek MacKenzie	 undisclosed (DTD)
+24	2017-11-18	 Panthers	 	 • Derek MacKenzie	 placed on IR with undisclosed
+25	2017-11-25	 Panthers	 • Derek MacKenzie	 	 activated from IR
+26	2018-10-11	 Panthers	 	 • Derek MacKenzie	 upper body injury (DTD)
+27	2018-10-22	 Panthers	 	 • Derek MacKenzie	 surgery on right shoulder (out for season)
+28	2018-10-27	 Panthers	 	 • Derek MacKenzie	 placed on IR recovering from surgery on right shoulder (out for season)

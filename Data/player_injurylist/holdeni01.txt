@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-04-05	 Rangers	 	 • Nick Holden	 undisclosed injury (DTD)
+1	2017-04-09	 Rangers	 • Nick Holden	 	 returned to lineup
+2	2019-02-01	 Golden Knights	 	 • Nick Holden	 placed on IR with undisclosed injury
+3	2019-02-20	 Golden Knights	 • Nick Holden	 	 activated from IR

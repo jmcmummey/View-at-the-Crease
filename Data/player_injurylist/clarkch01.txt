@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-04	 Capitals	 	 • Chris Clark	 rib injury (DTD)
+1	2005-10-07	 Capitals	 	 • Chris Clark	 rib injury (out)
+2	2006-02-07	 Capitals	 	 • Chris Clark	 upper body injury (DTD)
+3	2006-02-17	 Capitals	 • Chris Clark	 	 returned to lineup
+4	2006-11-17	 Capitals	 	 • Chris Clark	 mouth injury (DTD)
+5	2006-11-22	 Capitals	 • Chris Clark	 	 returned to lineup
+6	2007-02-24	 Capitals	 	 • Chris Clark	 sprained right shoulder (out 2-4 weeks)
+7	2007-10-27	 Capitals	 	 • Chris Clark	 facial injury (DTD)
+8	2007-11-15	 Capitals	 • Chris Clark	 	 returned to lineup
+9	2007-11-30	 Capitals	 	 • Chris Clark	 groin injury (DTD)
+10	2008-01-13	 Capitals	 • Chris Clark	 	 returned to lineup
+11	2008-02-13	 Capitals	 	 • Chris Clark	 groin injury (DTD)
+12	2008-11-26	 Capitals	 	 • Chris Clark	 placed on IR with forearm injury
+13	2008-12-26	 Capitals	 • Chris Clark	 	 activated from IR
+14	2009-01-31	 Capitals	 	 • Chris Clark	 wrist injury (DTD)
+15	2009-02-04	 Capitals	 	 • Chris Clark	 surgery on wrist (out for season)
+16	2010-03-29	 Blue Jackets	 	 • Chris Clark	 knee injury (out for season)
+17	2011-02-05	 Blue Jackets	 	 • Chris Clark	 undisclosed (DTD)
+18	2011-02-08	 Blue Jackets	 • Chris Clark	 	 returned to lineup
+19	2011-03-13	 Blue Jackets	 	 • Chris Clark	 lower body injury (DTD)
+20	2011-04-08	 Blue Jackets	 • Chris Clark	 	 returned to lineup

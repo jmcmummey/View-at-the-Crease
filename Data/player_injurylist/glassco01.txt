@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-12-09	 Golden Knights	 	 • Cody Glass	 head injury (DTD)
+1	2019-12-27	 Golden Knights	 • Cody Glass	 	 returned to lineup
+2	2020-01-06	 Golden Knights	 	 • Cody Glass	 knee injury (DTD)
+3	2020-02-08	 Golden Knights	 • Cody Glass	 	 returned to lineup

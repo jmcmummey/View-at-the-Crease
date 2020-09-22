@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-03-02	 Ducks	 	 • Korbinian Holzer	 concussion (out for season)
+1	2016-03-28	 Ducks	 	 • Korbinian Holzer	 illness (DTD)
+2	2016-03-30	 Ducks	 • Korbinian Holzer	 	 returned to lineup
+3	2018-10-02	 Ducks	 	 • Korbinian Holzer	 placed on IR with wrist injury
+4	2019-01-05	 Ducks	 • Korbinian Holzer	 	 activated from IR
+5	2020-01-05	 Ducks	 	 • Korbinian Holzer	 lower body injury (DTD)
+6	2020-01-07	 Ducks	 • Korbinian Holzer	 	 returned to lineup

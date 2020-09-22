@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-20	 Oilers	 	 • Griffin Reinhart	 undisclosed (DTD)
+1	2015-10-26	 Oilers	 	 • Griffin Reinhart	 placed on IR with undisclosed injury1
+2	2015-11-03	 Oilers	 • Griffin Reinhart	 	 activated from IR

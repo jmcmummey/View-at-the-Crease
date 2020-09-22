@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-12-03	 Oilers	 	 • Darnell Nurse	 placed on IR with lower body injury
+1	2017-02-24	 Oilers	 • Darnell Nurse	 	 activated from IR

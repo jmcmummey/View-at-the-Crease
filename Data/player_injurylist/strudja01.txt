@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-25	 Oilers	 	 • Jason Strudwick	 undisclosed injury (left game)
+1	2008-10-30	 Oilers	 	 • Jason Strudwick	 shoulder injury (DTD)
+2	2008-11-02	 Oilers	 • Jason Strudwick	 	 returned to lineup

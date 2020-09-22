@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-12-19	 Coyotes	 	 • Michael Stone	 upper body injury (DTD)
+1	2014-12-22	 Coyotes	 • Michael Stone	 	 returned to lineup
+2	2016-03-27	 Coyotes	 	 • Michael Stone	 knee injury (out for season)
+3	2016-10-11	 Coyotes	 	 • Michael Stone	 placed on IR with knee injury
+4	2016-10-21	 Coyotes	 • Michael Stone	 	 activated from IR
+5	2016-10-28	 Coyotes	 	 • Michael Stone	 upper body injury (DTD)
+6	2016-11-07	 Coyotes	 	 • Michael Stone	 placed on IR with upper body injury
+7	2016-11-12	 Coyotes	 • Michael Stone	 	 activated from IR
+8	2017-03-10	 Flames	 	 • Michael Stone	 upper body injury (DTD)
+9	2017-03-17	 Flames	 • Michael Stone	 	 returned to lineup
+10	2018-11-22	 Flames	 	 • Michael Stone	 placed on IR with blood clots
+11	2019-03-06	 Flames	 • Michael Stone	 	 activated from IR
+12	2019-03-16	 Flames	 • Michael Stone	 	 activated from IR

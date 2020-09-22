@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-22	 Hurricanes	 	 • Bobby Sanguinetti	 placed on IR with upper body injury
+1	2013-04-02	 Hurricanes	 • Bobby Sanguinetti	 	 activated from IR
+2	2015-10-06	 Sabres	 	 • Bobby Sanguinetti	 placed on injured/non-roster list with undisclosed injury
+3	2015-10-07	 Sabres	 	 • Bobby Sanguinetti	 placed on IR with upper body injury (CBS S T)
+4	2015-10-22	 Sabres	 • Bobby Sanguinetti	 	 activated from IR

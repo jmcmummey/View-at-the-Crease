@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-12-21	 Devils	 	 • Jesper Bratt	 foot injury (DTD)
+1	2017-12-23	 Devils	 • Jesper Bratt	 	 returned to lineup
+2	2018-10-05	 Devils	 	 • Jesper Bratt	 placed on IR with fractured jaw
+3	2018-11-09	 Devils	 • Jesper Bratt	 	 activated from IR
+4	2018-12-03	 Devils	 	 • Jesper Bratt	 illness (DTD)
+5	2018-12-06	 Devils	 • Jesper Bratt	 	 returned to lineup
+6	2019-02-25	 Devils	 	 • Jesper Bratt	 lower body injury (DTD)
+7	2019-03-01	 Devils	 • Jesper Bratt	 	 returned to lineup
+8	2019-03-07	 Devils	 	 • Jesper Bratt	 lower body injury (out for season)
+9	2019-11-04	 Devils	 	 • Jesper Bratt	 upper body injury (DTD)
+10	2019-11-08	 Devils	 • Jesper Bratt	 	 returned to lineup
+11	2020-01-04	 Devils	 	 • Jesper Bratt	 lower body injury (DTD)
+12	2020-01-11	 Devils	 • Jesper Bratt	 	 returned to lineup

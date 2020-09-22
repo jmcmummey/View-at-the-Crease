@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-04-02	 Panthers	 	 • Drew Shore	 wrist injury (DTD)
+1	2013-04-11	 Panthers	 • Drew Shore	 	 returned to lineup
+2	2015-03-10	 Flames	 	 • Drew Shore	 undisclosed injury (DTD)
+3	2015-03-13	 Flames	 • Drew Shore	 	 returned to lineup
+4	2015-03-19	 Flames	 	 • Drew Shore	 undisclosed (DTD)
+5	2015-03-29	 Flames	 • Drew Shore	 	 returned to lineup

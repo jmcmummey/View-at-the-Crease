@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-23	 Oilers	 	 • Devan Dubnyk	 virus (DTD)
+1	2010-03-26	 Oilers	 • Devan Dubnyk	 	 returned to lineup
+2	2013-10-27	 Oilers	 	 • Devan Dubnyk	 ankle injury (DTD)
+3	2013-11-02	 Oilers	 • Devan Dubnyk	 	 returned to lineup
+4	2015-12-06	 Wild	 	 • Devan Dubnyk	 strained groin (DTD)
+5	2015-12-15	 Wild	 • Devan Dubnyk	 	 returned to lineup
+6	2016-02-26	 Wild	 	 • Devan Dubnyk	 undisclosed (DTD)
+7	2016-02-28	 Wild	 • Devan Dubnyk	 	 returned to lineup
+8	2016-03-10	 Wild	 	 • Devan Dubnyk	 illness (DTD)
+9	2016-03-11	 Wild	 • Devan Dubnyk	 	 returned to lineup
+10	2017-12-14	 Wild	 	 • Devan Dubnyk	 lower body injury (out indefinitely)
+11	2017-12-27	 Wild	 • Devan Dubnyk	 	 returned to lineup
+12	2018-11-23	 Wild	 	 • Devan Dubnyk	 illness (DTD)
+13	2018-11-27	 Wild	 • Devan Dubnyk	 	 returned to lineup
+14	2019-10-23	 Wild	 	 • Devan Dubnyk	 upper body injury (DTD)
+15	2019-10-29	 Wild	 • Devan Dubnyk	 	 returned to lineup

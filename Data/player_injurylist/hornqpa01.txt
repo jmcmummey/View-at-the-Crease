@@ -1,0 +1,54 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-04-07	 Predators	 	 • Patric Hornqvist	 upper body injury (DTD)
+1	2010-04-16	 Predators	 • Patric Hornqvist	 	 returned to lineup
+2	2010-04-18	 Predators	 	 • Patric Hornqvist	 upper body injury (out for season)
+3	2010-12-15	 Predators	 	 • Patric Hornqvist	 upper body injury (DTD)
+4	2010-12-22	 Predators	 • Patric Hornqvist	 	 returned to lineup
+5	2011-10-13	 Predators	 	 • Patric Hornqvist	 lower body injury (DTD)
+6	2011-10-15	 Predators	 • Patric Hornqvist	 	 returned to lineup
+7	2012-02-14	 Predators	 	 • Patric Hornqvist	 upper body injury (DTD)
+8	2012-02-17	 Predators	 	 • Patric Hornqvist	 placed on IR with upper body injury
+9	2012-02-25	 Predators	 • Patric Hornqvist	 	 activated from IR
+10	2013-01-27	 Predators	 	 • Patric Hornqvist	 left knee injury (out indefinitely)
+11	2013-02-06	 Predators	 	 • Patric Hornqvist	 placed on IR
+12	2013-02-18	 Predators	 • Patric Hornqvist	 	 activated from IR
+13	2013-03-09	 Predators	 	 • Patric Hornqvist	 placed on IR with upper body injury
+14	2013-03-25	 Predators	 • Patric Hornqvist	 	 activated from IR
+15	2013-04-14	 Predators	 	 • Patric Hornqvist	 upper body injury (out for season)
+16	2013-11-24	 Predators	 	 • Patric Hornqvist	 upper body injury (DTD)
+17	2013-11-30	 Predators	 • Patric Hornqvist	 	 returned to lineup
+18	2014-01-09	 Predators	 	 • Patric Hornqvist	 lower body injury (DTD)
+19	2014-01-12	 Predators	 • Patric Hornqvist	 	 returned to lineup
+20	2014-12-05	 Penguins	 	 • Patric Hornqvist	 concussion (DTD)
+21	2014-12-12	 Penguins	 • Patric Hornqvist	 	 returned to lineup
+22	2014-12-28	 Penguins	 	 • Patric Hornqvist	 placed on IR with lower body injury
+23	2015-01-27	 Penguins	 • Patric Hornqvist	 	 activated from IR
+24	2015-03-16	 Penguins	 	 • Patric Hornqvist	 undisclosed (DTD)
+25	2015-03-28	 Penguins	 • Patric Hornqvist	 	 returned to lineup
+26	2016-11-17	 Penguins	 	 • Patric Hornqvist	 concussion (DTD)
+27	2016-11-30	 Penguins	 • Patric Hornqvist	 	 returned to lineup
+28	2017-03-08	 Penguins	 	 • Patric Hornqvist	 concussion (DTD)
+29	2017-03-17	 Penguins	 • Patric Hornqvist	 	 returned to lineup
+30	2017-05-15	 Penguins	 	 • Patric Hornqvist	 upper body injury (DTD)
+31	2017-05-29	 Penguins	 • Patric Hornqvist	 	 returned to lineup
+32	2017-10-03	 Penguins	 	 • Patric Hornqvist	 placed on IR with infection in hand
+33	2017-10-11	 Penguins	 • Patric Hornqvist	 	 activated from IR
+34	2017-12-18	 Penguins	 	 • Patric Hornqvist	 upper body injury (DTD)
+35	2017-12-21	 Penguins	 • Patric Hornqvist	 	 returned to lineup
+36	2018-02-03	 Penguins	 	 • Patric Hornqvist	 lower body injury (out indefinitely)
+37	2018-02-03	 Penguins	 	 • Patric Hornqvist	 placed on IR with lower body injury
+38	2018-02-23	 Penguins	 • Patric Hornqvist	 	 activated from IR
+39	2018-04-17	 Penguins	 	 • Patric Hornqvist	 upper body injury (DTD)
+40	2018-04-22	 Penguins	 • Patric Hornqvist	 	 returned to lineup
+41	2018-11-24	 Penguins	 	 • Patric Hornqvist	 concussion (out indefinitely)
+42	2018-12-01	 Penguins	 • Patric Hornqvist	 	 returned to lineup
+43	2018-12-08	 Penguins	 	 • Patric Hornqvist	 undisclosed (DTD)
+44	2018-12-12	 Penguins	 	 • Patric Hornqvist	 placed on IR with upper body injury
+45	2018-12-19	 Penguins	 • Patric Hornqvist	 	 activated from IR
+46	2019-01-10	 Penguins	 	 • Patric Hornqvist	 concussion (out indefinitely)
+47	2019-01-19	 Penguins	 • Patric Hornqvist	 	 returned to lineup
+48	2019-11-03	 Penguins	 	 • Patric Hornqvist	 placed on IR with lower body injury
+49	2019-11-21	 Penguins	 • Patric Hornqvist	 	 activated from IR
+50	2019-12-03	 Penguins	 	 • Patric Hornqvist	 lower body injury (out indefinitely)
+51	2019-12-06	 Penguins	 	 • Patric Hornqvist	 placed on IR with lower body injury
+52	2019-12-28	 Penguins	 • Patric Hornqvist	 	 activated from IR

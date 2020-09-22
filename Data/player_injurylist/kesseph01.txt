@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-12-11	 Bruins	 	 • Phil Kessel	 testicular cancer (out indefinitely)
+1	2009-01-12	 Bruins	 	 • Phil Kessel	 placed on IR with mononucleosis
+2	2009-01-29	 Bruins	 • Phil Kessel	 	 activated from iR
+3	2009-03-27	 Bruins	 	 • Phil Kessel	 undisclosed injury (DTD)
+4	2009-04-07	 Bruins	 • Phil Kessel	 	 returned to lineup
+5	2009-04-11	 Bruins	 	 • Phil Kessel	 stomach virus (Y) / rest (CBC) (DTD)
+6	2009-04-12	 Bruins	 • Phil Kessel	 	 returned to lineup
+7	2009-10-19	 Maple Leafs	 	 • Phil Kessel	 placed on IR with surgery on shoulder
+8	2009-11-03	 Maple Leafs	 • Phil Kessel	 	 activated from IR

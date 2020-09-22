@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-11-29	 Predators	 	 • Blake Geoffrion	 arm injury (DTD)
+1	2011-12-01	 Predators	 	 • Blake Geoffrion	 placed on IR with arm injury
+2	2011-12-13	 Predators	 • Blake Geoffrion	 	 activated from IR

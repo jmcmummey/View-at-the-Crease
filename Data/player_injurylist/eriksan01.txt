@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-14	 Blue Jackets	 	 • Anders Eriksson	 back injury (DTD)
+1	2007-03-15	 Blue Jackets	 • Anders Eriksson	 	 returned to lineup
+2	2008-01-22	 Flames	 	 • Anders Eriksson	 shoulder injury (DTD)
+3	2008-02-05	 Flames	 • Anders Eriksson	 	 returned to lineup

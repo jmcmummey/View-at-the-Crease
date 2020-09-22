@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-18	 Sabres	 	 • Ales Kotalik	 sprained knee (out indefinitely)
+1	2007-03-28	 Sabres	 • Ales Kotalik	 	 returned to lineup
+2	2007-10-05	 Sabres	 	 • Ales Kotalik	 knee injury (DTD)
+3	2007-10-11	 Sabres	 • Ales Kotalik	 	 returned to lineup
+4	2008-02-10	 Sabres	 	 • Ales Kotalik	 flu (DTD)
+5	2008-02-12	 Sabres	 • Ales Kotalik	 	 returned to lineup
+6	2008-11-15	 Sabres	 	 • Ales Kotalik	 hamstring injury (DTD)
+7	2008-11-21	 Sabres	 	 • Ales Kotalik	 placed on IR
+8	2008-12-01	 Sabres	 • Ales Kotalik	 	 activated from IR
+9	2009-11-25	 Rangers	 	 • Ales Kotalik	 undisclosed (DTD)
+10	2009-11-27	 Rangers	 • Ales Kotalik	 	 returned to lineup
+11	2010-10-02	 Flames	 	 • Ales Kotalik	 knee injury (DTD)
+12	2010-10-06	 Flames	 	 • Ales Kotalik	 placed on IR with knee injury
+13	2010-12-05	 Flames	 • Ales Kotalik	 	 activated from IR

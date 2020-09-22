@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-03-03	 Blackhawks	 	 • Scott Darling	 upper body injury (DTD)
+1	2017-03-14	 Blackhawks	 • Scott Darling	 	 returned to lineup
+2	2018-09-30	 Hurricanes	 	 • Scott Darling	 placed on IR with lower body injury
+3	2018-10-22	 Hurricanes	 • Scott Darling	 	 activated from IR

@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-01-29	 Panthers	 	 • Kevin Weekes	 placed on IR with strained groin
+1	2000-12-14	 Lightning	 • Kevin Weekes	 	 activated from IR
+2	2001-01-08	 Lightning	 	 • Kevin Weekes	 placed on IR
+3	2001-01-15	 Lightning	 • Kevin Weekes	 	 activated from IR
+4	2005-10-12	 Rangers	 	 • Kevin Weekes	 groin injury (DTD)
+5	2005-10-19	 Rangers	 • Kevin Weekes	 	 returned to lineup
+6	2005-10-19	 Rangers	 • Kevin Weekes	 	 activated from IR (SN)
+7	2005-11-24	 Rangers	 	 • Kevin Weekes	 leg injury (left game)
+8	2005-11-25	 Rangers	 	 • Kevin Weekes	 leg injury (DTD)
+9	2005-11-30	 Rangers	 	 • Kevin Weekes	 placed on IR with leg injury
+10	2005-12-10	 Rangers	 • Kevin Weekes	 	 activated from IR
+11	2006-09-22	 Rangers	 	 • Kevin Weekes	 groin injury (out indefinitely)
+12	2007-02-14	 Rangers	 	 • Kevin Weekes	 strained quadricep (out indefinitely)
+13	2009-04-04	 Devils	 	 • Kevin Weekes	 left knee injury (DTD)

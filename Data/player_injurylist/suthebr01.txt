@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-10-18	 Capitals	 	 • Brian Sutherby	 groin injury (out indefinitely)
+1	2006-03-12	 Capitals	 	 • Brian Sutherby	 lower body injury (DTD)
+2	2006-03-14	 Capitals	 • Brian Sutherby	 	 returned to lineup
+3	2006-04-08	 Capitals	 	 • Brian Sutherby	 upper body injury (DTD)
+4	2006-04-17	 Capitals	 • Brian Sutherby	 	 returned to lineup
+5	2006-12-29	 Capitals	 	 • Brian Sutherby	 stomach virus (DTD)
+6	2007-01-01	 Capitals	 • Brian Sutherby	 	 returned to lineup
+7	2007-03-18	 Capitals	 	 • Brian Sutherby	 hand injury (DTD)
+8	2007-12-05	 Ducks	 	 • Brian Sutherby	 groin injury (DTD)
+9	2007-12-12	 Ducks	 • Brian Sutherby	 	 returned to lineup
+10	2007-12-14	 Ducks	 	 • Brian Sutherby	 strained groin (out indefinitely)
+11	2007-12-30	 Ducks	 • Brian Sutherby	 	 returned to lineup
+12	2008-11-28	 Ducks	 	 • Brian Sutherby	 groin injury (DTD)
+13	2008-12-23	 Stars	 • Brian Sutherby	 	 returned to lineup
+14	2009-03-20	 Stars	 	 • Brian Sutherby	 lower body injury (DTD)
+15	2009-04-07	 Stars	 • Brian Sutherby	 	 returned to lineup
+16	2009-11-14	 Stars	 	 • Brian Sutherby	 groin injury (DTD)
+17	2009-11-28	 Stars	 • Brian Sutherby	 	 activated from IR
+18	2009-12-11	 Stars	 	 • Brian Sutherby	 groin injury (DTD)
+19	2009-12-12	 Stars	 • Brian Sutherby	 	 returned to lineup
+20	2010-01-31	 Stars	 	 • Brian Sutherby	 upper body injury (DTD)
+21	2010-03-12	 Stars	 • Brian Sutherby	 	 returned to lineup
+22	2011-01-21	 Stars	 	 • Brian Sutherby	 hip injury (DTD)
+23	2011-01-24	 Stars	 • Brian Sutherby	 	 returned to lineup
+24	2011-03-23	 Stars	 	 • Brian Sutherby	 back injury (out for season)

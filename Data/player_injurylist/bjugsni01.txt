@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-09-30	 Panthers	 	 • Nick Bjugstad	 placed on IR with concussion
+1	2013-10-13	 Panthers	 • Nick Bjugstad	 	 activated from IR
+2	2015-03-24	 Panthers	 	 • Nick Bjugstad	 lower body injury (out for season)
+3	2015-12-01	 Panthers	 	 • Nick Bjugstad	 upper body injury (DTD)
+4	2015-12-11	 Panthers	 	 • Nick Bjugstad	 placed on IR with upper body injury
+5	2015-12-26	 Panthers	 • Nick Bjugstad	 	 activated from IR
+6	2015-12-27	 Panthers	 	 • Nick Bjugstad	 placed on IR with upper body injury
+7	2016-01-03	 Panthers	 • Nick Bjugstad	 	 activated from IR
+8	2016-04-24	 Panthers	 	 • Nick Bjugstad	 head injury (out for season)
+9	2016-10-06	 Panthers	 	 • Nick Bjugstad	 fractured hand (DTD)
+10	2016-10-11	 Panthers	 	 • Nick Bjugstad	 placed on IR with fractured hand
+11	2016-11-21	 Panthers	 • Nick Bjugstad	 	 activated from IR
+12	2017-01-07	 Panthers	 	 • Nick Bjugstad	 placed on IR with lower body injury
+13	2017-01-25	 Panthers	 • Nick Bjugstad	 	 activated from IR
+14	2018-12-08	 Panthers	 	 • Nick Bjugstad	 upper body injury (DTD)
+15	2019-01-08	 Panthers	 	 • Nick Bjugstad	 placed on IR with upper body injury
+16	2019-01-13	 Panthers	 • Nick Bjugstad	 	 activated from IR
+17	2019-10-05	 Penguins	 	 • Nick Bjugstad	 placed on IR with lower body injury
+18	2019-10-26	 Penguins	 • Nick Bjugstad	 	 activated from IR
+19	2019-11-16	 Penguins	 	 • Nick Bjugstad	 lower body injury (DTD)
+20	2019-11-19	 Penguins	 	 • Nick Bjugstad	 placed on IR with core muscle injury
+21	2020-03-05	 Penguins	 • Nick Bjugstad	 	 activated from IR
+22	2020-03-10	 Penguins	 	 • Nick Bjugstad	 lower body injury (DTD)
+23	2020-05-27	 Penguins	 	 • Nick Bjugstad	 spine injury (out for season)
+24	2020-08-01	 Penguins	 	 • Nick Bjugstad	 placed on IR with spine injury (out for season)

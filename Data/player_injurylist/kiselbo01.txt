@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-09-29	 Panthers	 	 • Bogdan Kiselevich	 placed on IR with facial injury
+1	2018-10-13	 Panthers	 • Bogdan Kiselevich	 	 activated from IR
+2	2019-03-01	 Jets	 	 • Bogdan Kiselevich	 illness (DTD)
+3	2019-03-03	 Jets	 • Bogdan Kiselevich	 	 returned to lineup

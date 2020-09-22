@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-04	 Oilers	 	 • Ladislav Smid	 placed on IR with sprained shoulder
+1	2007-01-12	 Oilers	 • Ladislav Smid	 	 activated from IR
+2	2007-02-26	 Oilers	 	 • Ladislav Smid	 leg injury (DTD)
+3	2007-03-01	 Oilers	 • Ladislav Smid	 	 returned to lineup
+4	2008-02-24	 Oilers	 	 • Ladislav Smid	 knee injury (DTD)
+5	2008-02-27	 Oilers	 	 • Ladislav Smid	 placed on IR with knee injury
+6	2008-03-09	 Oilers	 • Ladislav Smid	 	 activated from IR
+7	2008-11-05	 Oilers	 	 • Ladislav Smid	 concussion (DTD)
+8	2008-11-14	 Oilers	 	 • Ladislav Smid	 placed on IR
+9	2008-11-20	 Oilers	 • Ladislav Smid	 	 activated from IR
+10	2009-03-14	 Oilers	 	 • Ladislav Smid	 concussion (DTD)
+11	2009-03-17	 Oilers	 • Ladislav Smid	 	 returned to lineup
+12	2009-03-18	 Oilers	 	 • Ladislav Smid	 concussion (DTD)
+13	2009-03-30	 Oilers	 	 • Ladislav Smid	 placed on IR with broken left hand
+14	2009-11-05	 Oilers	 	 • Ladislav Smid	 illness (DTD)
+15	2009-11-10	 Oilers	 • Ladislav Smid	 	 returned to lineup
+16	2010-01-22	 Oilers	 	 • Ladislav Smid	 arm injury (DTD)
+17	2010-02-08	 Oilers	 • Ladislav Smid	 	 activated from IR
+18	2010-03-01	 Oilers	 	 • Ladislav Smid	 neck injury (out for season)
+19	2010-11-16	 Oilers	 	 • Ladislav Smid	 placed on IR with head injury / concussion
+20	2010-11-25	 Oilers	 • Ladislav Smid	 	 activated from IR
+21	2012-03-31	 Oilers	 	 • Ladislav Smid	 neck injury (out for season)
+22	2014-01-24	 Flames	 	 • Ladislav Smid	 undisclosed injury (DTD)
+23	2014-01-28	 Flames	 • Ladislav Smid	 	 returned to lineup
+24	2014-03-29	 Flames	 	 • Ladislav Smid	 upper body injury (out for season)
+25	2014-11-06	 Flames	 	 • Ladislav Smid	 undisclosed injury (DTD)
+26	2014-11-08	 Flames	 • Ladislav Smid	 	 returned to lineup
+27	2014-12-02	 Flames	 • Ladislav Smid	 	 returned to lineup
+28	2014-12-13	 Flames	 	 • Ladislav Smid	 placed on IR with upper body injury
+29	2015-01-07	 Flames	 • Ladislav Smid	 	 activated from IR
+30	2015-01-20	 Flames	 	 • Ladislav Smid	 placed on IR with upper body injury (out for season)
+31	2015-10-06	 Flames	 	 • Ladislav Smid	 placed on IR with neck injury
+32	2015-10-23	 Flames	 • Ladislav Smid	 	 activated from IR
+33	2016-02-18	 Flames	 	 • Ladislav Smid	 placed on IR with upper body injury (out for season)
+34	2016-09-29	 Flames	 	 • Ladislav Smid	 placed on IR with neck injury (out for season)

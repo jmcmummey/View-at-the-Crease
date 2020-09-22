@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-06	 Islanders	 	 • Nathan Lawson	 placed on IR with knee injury
+1	2011-01-21	 Islanders	 	 • Nathan Lawson	 strained MCL in left knee (DTD)
+2	2011-02-01	 Islanders	 	 • Nathan Lawson	 placed on IR with strained MCL in left knee (surgery)
+3	2011-02-14	 Islanders	 • Nathan Lawson	 	 activated from IR
+4	2014-03-20	 Senators	 	 • Nathan Lawson	 lower body injury (DTD)
+5	2014-03-28	 Senators	 • Nathan Lawson	 	 returned to lineup

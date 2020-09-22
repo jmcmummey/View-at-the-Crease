@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-02-05	 Wild	 	 • Erik Reitz	 elbow injury (out indefinitely)
+1	2008-10-30	 Wild	 	 • Erik Reitz	 flu (DTD) (date approximate)
+2	2008-11-01	 Wild	 • Erik Reitz	 	 returned to lineup
+3	2009-03-07	 Maple Leafs	 	 • Erik Reitz	 ankle injury (DTD)

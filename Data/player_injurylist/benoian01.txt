@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-16	 Avalanche	 	 • Andre Benoit	 wrist injury (DTD)
+1	2013-11-19	 Avalanche	 • Andre Benoit	 	 returned to lineup
+2	2015-04-08	 Sabres	 	 • Andre Benoit	 upper body injury (out for season)

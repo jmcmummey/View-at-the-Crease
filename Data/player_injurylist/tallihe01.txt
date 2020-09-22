@@ -1,0 +1,30 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-05-25	 Sabres	 	 • Henrik Tallinder	 broken arm (out indefinitely)
+1	2006-10-28	 Sabres	 	 • Henrik Tallinder	 broken arm (out indefinitely)
+2	2006-11-23	 Sabres	 	 • Henrik Tallinder	 broken left wrist (out ~4 weeks)
+3	2006-12-23	 Sabres	 • Henrik Tallinder	 	 returned to lineup
+4	2007-01-04	 Sabres	 	 • Henrik Tallinder	 sprained right ankle (DTD)
+5	2007-01-30	 Sabres	 • Henrik Tallinder	 	 returned to lineup
+6	2007-11-25	 Sabres	 	 • Henrik Tallinder	 shoulder injury (DTD)
+7	2007-12-14	 Sabres	 • Henrik Tallinder	 	 returned to lineup
+8	2008-03-05	 Sabres	 	 • Henrik Tallinder	 shoulder injury (DTD)
+9	2008-03-12	 Sabres	 • Henrik Tallinder	 	 returned to lineup
+10	2008-10-26	 Sabres	 	 • Henrik Tallinder	 lower leg laceration / ankle injury (DTD)
+11	2008-10-30	 Sabres	 • Henrik Tallinder	 	 returned to lineup
+12	2009-01-21	 Sabres	 	 • Henrik Tallinder	 placed on IR with right shoulder injury
+13	2009-02-21	 Sabres	 • Henrik Tallinder	 	 activated from IR
+14	2011-12-16	 Devils	 	 • Henrik Tallinder	 back spasms / wrist injury (CBC) (DTD)
+15	2011-12-31	 Devils	 • Henrik Tallinder	 	 returned to lineup
+16	2012-01-19	 Devils	 	 • Henrik Tallinder	 lower body injury (out for season)
+17	2012-01-30	 Devils	 	 • Henrik Tallinder	 placed on IR with blood clot in leg (out for season)
+18	2013-03-07	 Devils	 	 • Henrik Tallinder	 lower body injury (DTD)
+19	2013-03-12	 Devils	 	 • Henrik Tallinder	 placed on IR with lower body injury
+20	2013-03-30	 Devils	 • Henrik Tallinder	 	 activated from IR
+21	2013-10-05	 Sabres	 	 • Henrik Tallinder	 upper body injury (DTD)
+22	2013-10-08	 Sabres	 	 • Henrik Tallinder	 placed on IR with upper body injury
+23	2013-10-14	 Sabres	 • Henrik Tallinder	 	 activated from IR
+24	2013-12-31	 Sabres	 	 • Henrik Tallinder	 upper body injury (DTD)
+25	2014-01-03	 Sabres	 	 • Henrik Tallinder	 placed on IR with upper body injury
+26	2014-01-21	 Sabres	 • Henrik Tallinder	 	 activated from IR
+27	2014-04-03	 Sabres	 	 • Henrik Tallinder	 lower body injury (DTD)
+28	2014-04-10	 Sabres	 • Henrik Tallinder	 	 returned to lineup

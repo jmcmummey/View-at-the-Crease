@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-09-21	 Stars	 	 • Mike Ribeiro	 placed on IR with sprained ankle
+1	2007-10-10	 Stars	 • Mike Ribeiro	 	 activated from IR
+2	2008-04-03	 Stars	 	 • Mike Ribeiro	 flu (DTD)
+3	2008-04-10	 Stars	 • Mike Ribeiro	 	 returned to lineup
+4	2009-03-21	 Stars	 	 • Mike Ribeiro	 minor ailment (DTD)
+5	2010-01-07	 Stars	 	 • Mike Ribeiro	 placed on IR with throat contusion
+6	2010-02-08	 Stars	 • Mike Ribeiro	 	 activated from IR
+7	2012-01-10	 Stars	 	 • Mike Ribeiro	 knee injury (DTD)
+8	2012-01-16	 Stars	 	 • Mike Ribeiro	 placed on IR with knee injury
+9	2012-01-23	 Stars	 • Mike Ribeiro	 	 activated from IR
+10	2017-01-12	 Predators	 	 • Mike Ribeiro	 undisclosed injury (DTD)

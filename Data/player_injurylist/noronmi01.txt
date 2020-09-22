@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-22	 Sabres	 	 • Mika Noronen	 groin injury (left game)
+1	2005-11-23	 Sabres	 	 • Mika Noronen	 groin injury (DTD)
+2	2005-11-27	 Sabres	 • Mika Noronen	 	 returned to lineup

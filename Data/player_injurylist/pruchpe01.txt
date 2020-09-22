@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-02-04	 Rangers	 	 • Petr Prucha	 knee injury (left game)
+1	2006-02-06	 Rangers	 	 • Petr Prucha	 knee injury (out until late Feb)
+2	2006-03-12	 Rangers	 • Petr Prucha	 	 returned to lineup
+3	2007-12-30	 Rangers	 	 • Petr Prucha	 wrist injury (DTD)
+4	2008-01-03	 Rangers	 • Petr Prucha	 	 returned to lineup
+5	2008-02-16	 Rangers	 	 • Petr Prucha	 shoulder injury (DTD)
+6	2008-03-25	 Rangers	 • Petr Prucha	 	 returned to lineup
+7	2010-02-13	 Coyotes	 	 • Petr Prucha	 head injury (DTD)

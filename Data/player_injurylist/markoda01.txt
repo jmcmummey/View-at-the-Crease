@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-22	 Predators	 	 • Danny Markov	 groin injury (DTD)
+1	2005-11-01	 Predators	 • Danny Markov	 	 returned to lineup
+2	2005-11-24	 Predators	 	 • Danny Markov	 groin injury (left game)
+3	2005-11-25	 Predators	 	 • Danny Markov	 groin injury (DTD)
+4	2005-12-13	 Predators	 • Danny Markov	 	 activated from IR
+5	2006-01-13	 Predators	 	 • Danny Markov	 placed on IR with strained knee
+6	2006-01-21	 Predators	 • Danny Markov	 	 activated from IR
+7	2006-03-07	 Predators	 	 • Danny Markov	 ankle injury (DTD)
+8	2006-03-28	 Predators	 • Danny Markov	 	 returned to lineup
+9	2006-09-23	 Red Wings	 	 • Danny Markov	 strained MCL in left knee (DTD)
+10	2006-12-07	 Red Wings	 	 • Danny Markov	 broken right hand (out 2-4 weeks)
+11	2006-12-27	 Red Wings	 • Danny Markov	 	 returned to lineup
+12	2007-02-08	 Red Wings	 	 • Danny Markov	 shoulder injury (DTD)
+13	2007-02-14	 Red Wings	 • Danny Markov	 	 returned to lineup
+14	2007-03-09	 Red Wings	 	 • Danny Markov	 upper body injury (DTD)
+15	2007-03-17	 Red Wings	 • Danny Markov	 	 returned to lineup

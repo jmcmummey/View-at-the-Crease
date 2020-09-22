@@ -1,0 +1,45 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-23	 Sabres	 	 • Daniel Briere / Danny Briere	 abdominal muscle strain (DTD)
+1	2005-12-11	 Sabres	 • Daniel Briere / Danny Briere	 	 returned to lineup
+2	2005-12-17	 Sabres	 	 • Daniel Briere / Danny Briere	 abdominal injury (DTD)
+3	2005-12-30	 Sabres	 	 • Daniel Briere / Danny Briere	 sports hernia (out until early Apr)
+4	2006-01-01	 Sabres	 	 • Daniel Briere / Danny Briere	 placed on IR with sports hernia
+5	2006-01-06	 Sabres	 	 • Daniel Briere / Danny Briere	 abdominal surgery (out until late Feb)
+6	2006-03-01	 Sabres	 • Daniel Briere / Danny Briere	 	 returned to lineup
+7	2007-02-27	 Sabres	 	 • Daniel Briere / Danny Briere	 flu (DTD)
+8	2007-03-02	 Sabres	 • Daniel Briere / Danny Briere	 	 returned to lineup
+9	2008-03-04	 Flyers	 	 • Daniel Briere / Danny Briere	 sprained right shoulder (DTD)
+10	2008-03-06	 Flyers	 • Daniel Briere / Danny Briere	 	 returned to lineup
+11	2008-04-04	 Flyers	 	 • Daniel Briere / Danny Briere	 knee injury (DTD)
+12	2008-04-11	 Flyers	 • Daniel Briere / Danny Briere	 	 returned to lineup
+13	2008-10-24	 Flyers	 	 • Daniel Briere / Danny Briere	 surgery to repair torn stomach muscle (out 3-5 weeks)
+14	2008-11-08	 Flyers	 • Daniel Briere / Danny Briere	 	 returned to lineup
+15	2008-11-11	 Flyers	 	 • Daniel Briere / Danny Briere	 strained left groin (DTD)
+16	2008-12-02	 Flyers	 • Daniel Briere / Danny Briere	 	 returned to lineup
+17	2008-12-03	 Flyers	 	 • Daniel Briere / Danny Briere	 strained left groin (DTD)
+18	2009-02-26	 Flyers	 • Daniel Briere / Danny Briere	 	 activated from IR
+19	2009-03-05	 Flyers	 	 • Daniel Briere / Danny Briere	 groin injury (DTD)
+20	2009-03-12	 Flyers	 • Daniel Briere / Danny Briere	 	 returned to lineup
+21	2009-10-31	 Flyers	 	 • Daniel Briere (USAT) / Danny Briere	 groin injury (DTD)
+22	2009-11-12	 Flyers	 • Daniel Briere / Danny Briere	 	 returned to lineup
+23	2009-11-28	 Flyers	 	 • Daniel Briere / Danny Briere	 flu (DTD)
+24	2009-12-03	 Flyers	 • Daniel Briere / Danny Briere	 	 returned to lineup
+25	2011-04-03	 Flyers	 	 • Daniel Briere / Danny Briere	 lower body injury (DTD)
+26	2011-04-08	 Flyers	 • Daniel Briere / Danny Briere	 	 returned to lineup
+27	2011-10-29	 Flyers	 	 • Daniel Briere / Danny Briere	 upper body injury (DTD)
+28	2011-11-03	 Flyers	 • Daniel Briere / Danny Briere	 	 returned to lineup
+29	2011-12-23	 Flyers	 	 • Daniel Briere / Danny Briere	 bruised hand (DTD)
+30	2011-12-27	 Flyers	 • Daniel Briere / Danny Briere	 	 returned to lineup
+31	2012-01-22	 Flyers	 	 • Daniel Briere / Danny Briere	 concussion (out indefinitely)
+32	2012-02-07	 Flyers	 • Daniel Briere / Danny Briere	 	 returned to lineup
+33	2012-04-02	 Flyers	 	 • Daniel Briere / Danny Briere	 bruised upper back (out for season)
+34	2013-01-18	 Flyers	 	 • Daniel Briere / Danny Briere	 placed on IR with wrist injury
+35	2013-01-26	 Flyers	 • Daniel Briere / Danny Briere	 	 activated from IR
+36	2013-03-24	 Flyers	 	 • Daniel Briere / Danny Briere	 concussion (DTD)
+37	2013-03-25	 Flyers	 	 • Daniel Briere / Danny Briere	 placed on IR with concussion
+38	2013-04-12	 Flyers	 • Daniel Briere / Danny Briere	 	 activated from IR
+39	2013-10-19	 Canadiens	 	 • Daniel Briere / Danny Briere	 concussion (out indefinitely)
+40	2013-10-20	 Canadiens	 	 • Daniel Briere / Danny Briere	 placed on IR with concussion
+41	2013-11-12	 Canadiens	 • Daniel Briere	 	 activated from IR
+42	2015-03-25	 Avalanche	 	 • Daniel Briere	 foot injury (DTD)
+43	2015-04-09	 Avalanche	 • Daniel Briere	 	 returned to lineup

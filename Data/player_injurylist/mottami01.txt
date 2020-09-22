@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-24	 Devils	 	 • Mike Mottau	 hip injury (DTD)
+1	2009-10-28	 Devils	 • Mike Mottau	 	 returned to lineup
+2	2009-12-07	 Devils	 	 • Mike Mottau	 flu (DTD)
+3	2009-12-09	 Devils	 • Mike Mottau	 	 returned to lineup
+4	2010-11-21	 Islanders	 	 • Mike Mottau	 right eye injury (DTD)
+5	2010-12-01	 Islanders	 	 • Mike Mottau	 placed on IR with right eye injury
+6	2010-12-21	 Islanders	 	 • Mike Mottau	 placed on IR with hip injury (out for season)
+7	2012-01-06	 Islanders	 	 • Mike Mottau	 placed on IR with concussion
+8	2012-02-26	 Islanders	 • Mike Mottau	 	 activated from IR
+9	2014-01-20	 Panthers	 	 • Mike Mottau	 placed on IR with leg injury
+10	2014-02-24	 Panthers	 • Mike Mottau	 	 activated from IR

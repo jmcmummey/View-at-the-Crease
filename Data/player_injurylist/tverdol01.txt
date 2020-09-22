@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-02-04	 Devils	 	 • Oleg Tverdovsky	 placed on IR with undisclosed illness
+1	2005-11-25	 Hurricanes	 	 • Oleg Tverdovsky	 post concussion (DTD)
+2	2005-12-06	 Hurricanes	 • Oleg Tverdovsky	 	 returned to lineup
+3	2006-01-28	 Hurricanes	 	 • Oleg Tverdovsky	 upper body injury (DTD)
+4	2006-02-10	 Hurricanes	 • Oleg Tverdovsky	 	 returned to lineup
+5	2006-11-16	 Kings	 	 • Oleg Tverdovsky	 groin injury (DTD)
+6	2006-11-29	 Kings	 	 • Oleg Tverdovsky	 placed on IR
+7	2006-12-13	 Kings	 • Oleg Tverdovsky	 	 activated from IR

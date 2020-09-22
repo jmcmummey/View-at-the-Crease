@@ -1,0 +1,39 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-12	 Ducks	 	 • Luca Sbisa	 back spasms (DTD)
+1	2012-03-16	 Ducks	 • Luca Sbisa	 	 returned to lineup
+2	2013-04-17	 Ducks	 	 • Luca Sbisa	 soreness / lower body injury (out for season)
+3	2013-09-19	 Ducks	 	 • Luca Sbisa	 sprained ankle (DTD)
+4	2013-09-30	 Ducks	 	 • Luca Sbisa	 placed on IR with sprained left ankle
+5	2013-11-04	 Ducks	 • Luca Sbisa	 	 activated from IR
+6	2013-11-15	 Ducks	 	 • Luca Sbisa	 sprained ankle (DTD)
+7	2013-11-18	 Ducks	 • Luca Sbisa	 	 returned to lineup
+8	2013-11-23	 Ducks	 	 • Luca Sbisa	 placed on IR with torn tendon in right hand
+9	2014-01-21	 Ducks	 • Luca Sbisa	 	 activated from IR
+10	2014-03-10	 Ducks	 	 • Luca Sbisa	 lower body injury (DTD)
+11	2014-03-12	 Ducks	 • Luca Sbisa	 	 returned to lineup
+12	2014-04-09	 Ducks	 	 • Luca Sbisa	 upper body injury (DTD)
+13	2014-04-13	 Ducks	 • Luca Sbisa	 	 returned to lineup
+14	2014-11-09	 Canucks	 	 • Luca Sbisa	 lower body injury (DTD)
+15	2014-11-20	 Canucks	 • Luca Sbisa	 	 returned to lineup
+16	2015-11-01	 Canucks	 	 • Luca Sbisa	 placed on IR with foot injury
+17	2015-11-18	 Canucks	 • Luca Sbisa	 	 activated from IR
+18	2015-12-03	 Canucks	 	 • Luca Sbisa	 hand injury (DTD)
+19	2015-12-09	 Canucks	 	 • Luca Sbisa	 placed on IR with hand injury
+20	2016-01-16	 Canucks	 • Luca Sbisa	 	 activated from IR
+21	2016-03-15	 Canucks	 	 • Luca Sbisa	 upper body injury (out for season)
+22	2017-11-13	 Golden Knights	 	 • Luca Sbisa	 lower body injury (DTD)
+23	2017-11-18	 Golden Knights	 	 • Luca Sbisa	 placed on IR with lower body injury
+24	2017-11-30	 Golden Knights	 • Luca Sbisa	 	 activated from IR
+25	2017-12-14	 Golden Knights	 	 • Luca Sbisa	 undisclosed (DTD)
+26	2017-12-14	 Golden Knights	 	 • Luca Sbisa	 placed on IR with lower body injury
+27	2017-12-17	 Golden Knights	 	 • Luca Sbisa	 lower body injury (DTD)
+28	2017-12-18	 Golden Knights	 	 • Luca Sbisa	 placed on IR with lower body injury
+29	2018-01-05	 Golden Knights	 • Luca Sbisa	 	 activated from IR
+30	2018-01-10	 Golden Knights	 	 • Luca Sbisa	 placed on IR with left hand injury
+31	2018-02-17	 Golden Knights	 • Luca Sbisa	 	 activated from IR
+32	2018-03-02	 Golden Knights	 	 • Luca Sbisa	 undisclosed (DTD)
+33	2018-12-10	 Islanders	 	 • Luca Sbisa	 undisclosed (DTD)
+34	2020-02-07	 Jets	 	 • Luca Sbisa	 lower body injury (DTD)
+35	2020-02-14	 Jets	 • Luca Sbisa	 	 returned to lineup
+36	2020-02-18	 Jets	 	 • Luca Sbisa	 placed on IR with upper body injury
+37	2020-07-13	 Jets	 • Luca Sbisa	 	 activated from IR

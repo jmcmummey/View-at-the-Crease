@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-12-14	 Oilers	 	 • Oscar Klefbom	 swollen foot (DTD)
+1	2014-12-18	 Oilers	 • Oscar Klefbom	 	 returned to lineup
+2	2015-12-12	 Oilers	 	 • Oscar Klefbom	 fractured finger (DTD)
+3	2015-12-17	 Oilers	 	 • Oscar Klefbom	 placed on IR with fractured finger (out for season)
+4	2017-05-07	 Oilers	 	 • Oscar Klefbom	 undisclosed (DTD)
+5	2017-05-09	 Oilers	 • Oscar Klefbom	 	 returned to lineup
+6	2017-11-24	 Oilers	 	 • Oscar Klefbom	 flu (DTD)
+7	2017-11-26	 Oilers	 • Oscar Klefbom	 	 returned to lineup
+8	2017-12-19	 Oilers	 	 • Oscar Klefbom	 placed on IR with shoulder injury
+9	2017-12-29	 Oilers	 • Oscar Klefbom	 	 activated from IR
+10	2018-03-10	 Oilers	 	 • Oscar Klefbom	 undisclosed (DTD)
+11	2018-03-14	 Oilers	 • Oscar Klefbom	 	 returned to lineup
+12	2018-03-19	 Oilers	 	 • Oscar Klefbom	 surgery on shoulder (out for season)
+13	2018-12-12	 Oilers	 	 • Oscar Klefbom	 placed on IR with hand injury
+14	2019-02-05	 Oilers	 • Oscar Klefbom	 	 activated from IR
+15	2020-02-19	 Oilers	 	 • Oscar Klefbom	 placed on IR with shoulder injury
+16	2020-03-07	 Oilers	 • Oscar Klefbom	 	 activated from IR

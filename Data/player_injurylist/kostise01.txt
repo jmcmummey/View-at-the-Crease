@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-04-02	 Canadiens	 	 • Sergei Kostitsyn	 upper body injury (DTD)
+1	2009-04-18	 Canadiens	 • Sergei Kostitsyn	 	 returned to lineup
+2	2010-01-03	 Canadiens	 	 • Sergei Kostitsyn	 lower body injury (DTD)
+3	2010-01-23	 Canadiens	 • Sergei Kostitsyn	 	 returned to lineup
+4	2010-04-01	 Canadiens	 	 • Sergei Kostitsyn	 lower body injury (DTD)
+5	2010-04-03	 Canadiens	 • Sergei Kostitsyn	 	 returned to lineup
+6	2010-10-09	 Predators	 	 • Sergei Kostitsyn	 placed on IR with broken toe
+7	2010-10-14	 Predators	 • Sergei Kostitsyn	 	 activated from IR
+8	2010-11-07	 Predators	 	 • Sergei Kostitsyn	 undisclosed (DTD)
+9	2010-11-11	 Predators	 • Sergei Kostitsyn	 	 returned to lineup
+10	2011-02-22	 Predators	 	 • Sergei Kostitsyn	 undisclosed injury (DTD)
+11	2011-02-24	 Predators	 • Sergei Kostitsyn	 	 returned to lineup
+12	2011-10-28	 Predators	 	 • Sergei Kostitsyn	 left leg injury (DTD)
+13	2011-11-03	 Predators	 • Sergei Kostitsyn	 	 returned to lineup
+14	2011-11-05	 Predators	 	 • Sergei Kostitsyn	 lower body injury (DTD)
+15	2011-11-09	 Predators	 • Sergei Kostitsyn	 	 returned to lineup
+16	2011-12-01	 Predators	 	 • Sergei Kostitsyn	 upper body injury (DTD)
+17	2011-12-06	 Predators	 • Sergei Kostitsyn	 	 returned to lineup

@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-04	 Blackhawks	 	 • Andrew Shaw	 upper body injury (DTD)
+1	2013-12-07	 Blackhawks	 • Andrew Shaw	 	 returned to lineup
+2	2014-05-03	 Blackhawks	 	 • Andrew Shaw	 lower body injury (DTD)
+3	2014-05-24	 Blackhawks	 • Andrew Shaw	 	 returned to lineup
+4	2014-11-20	 Blackhawks	 	 • Andrew Shaw	 upper body injury (DTD)
+5	2014-11-26	 Blackhawks	 • Andrew Shaw	 	 returned to lineup
+6	2016-04-02	 Blackhawks	 	 • Andrew Shaw	 upper body injury (out for season)
+7	2016-12-16	 Canadiens	 	 • Andrew Shaw	 placed on IR with concussion
+8	2016-12-20	 Canadiens	 	 • Andrew Shaw	 placed on IR with concussion
+9	2017-01-14	 Canadiens	 • Andrew Shaw	 	 activated from IR
+10	2017-04-22	 Canadiens	 	 • Andrew Shaw	 upper body injury (out for season)
+11	2018-01-15	 Canadiens	 	 • Andrew Shaw	 placed on IR with lower body injury
+12	2018-02-28	 Canadiens	 • Andrew Shaw	 	 activated from IR
+13	2018-03-15	 Canadiens	 	 • Andrew Shaw	 right knee injury (out for season)
+14	2018-10-15	 Canadiens	 	 • Andrew Shaw	 flu (DTD)
+15	2018-10-20	 Canadiens	 • Andrew Shaw	 	 returned to lineup
+16	2019-01-01	 Canadiens	 	 • Andrew Shaw	 placed on IR with neck injury
+17	2019-02-09	 Canadiens	 • Andrew Shaw	 	 activated from IR
+18	2019-12-02	 Blackhawks	 	 • Andrew Shaw	 concussion (out indefinitely)
+19	2019-12-06	 Blackhawks	 	 • Andrew Shaw	 placed on IR with concussion (out for season)

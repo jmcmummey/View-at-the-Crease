@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-11-02	 Blue Jackets	 	 • Brett Harkins	 placed on IR
+1	2001-11-08	 Blue Jackets	 	 • Brett Harkins	 placed on IR (HN)
+2	2002-02-04	 Blue Jackets	 	 • Brett Harkins	 placed on IR

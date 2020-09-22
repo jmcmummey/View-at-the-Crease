@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-01-19	 Stars	 • Todd Harvey	 	 activated from IR
+1	1998-03-23	 Stars	 	 • Todd Harvey	 placed on IR with right knee injury
+2	1999-01-15	 Rangers	 	 • Todd Harvey	 placed on IR
+3	2001-01-24	 Sharks	 • Todd Harvey	 	 activated from IR
+4	2005-10-10	 Oilers	 	 • Todd Harvey	 bruised right foot (DTD)
+5	2005-10-28	 Oilers	 • Todd Harvey	 	 activated from IR
+6	2006-04-27	 Oilers	 	 • Todd Harvey	 undisclosed injury (DTD)

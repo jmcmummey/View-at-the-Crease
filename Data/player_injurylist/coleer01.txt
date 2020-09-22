@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-07	 Hurricanes	 	 • Erik Cole	 back injury (left game)
+1	2005-11-19	 Hurricanes	 	 • Erik Cole	 foot injury (left game)
+2	2006-03-04	 Hurricanes	 	 • Erik Cole	 arm injury (left game)
+3	2006-03-05	 Hurricanes	 	 • Erik Cole	 back injury (out for remainder of regular season)
+4	2007-01-30	 Hurricanes	 	 • Erik Cole	 lower body injury (DTD)
+5	2007-02-01	 Hurricanes	 • Erik Cole	 	 returned to lineup
+6	2007-02-09	 Hurricanes	 	 • Erik Cole	 hip injury (DTD)
+7	2007-02-17	 Hurricanes	 • Erik Cole	 	 returned to lineup
+8	2007-02-20	 Hurricanes	 	 • Erik Cole	 hip injury (out 2-3 weeks)
+9	2007-03-09	 Hurricanes	 • Erik Cole	 	 returned to lineup
+10	2007-10-20	 Hurricanes	 	 • Erik Cole	 foot injury (DTD)
+11	2007-10-27	 Hurricanes	 • Erik Cole	 	 returned to lineup
+12	2007-11-14	 Hurricanes	 	 • Erik Cole	 cervical injury (out indefinitely)
+13	2007-11-16	 Hurricanes	 	 • Erik Cole	 placed on IR with cervical injury
+14	2007-11-23	 Hurricanes	 • Erik Cole	 	 activated from IR
+15	2008-02-18	 Hurricanes	 	 • Erik Cole	 flu (DTD)
+16	2008-02-21	 Hurricanes	 • Erik Cole	 	 returned to lineup
+17	2009-05-18	 Hurricanes	 	 • Erik Cole	 lower body injury (left game)
+18	2009-10-05	 Hurricanes	 	 • Erik Cole	 fractured lower left leg (DTD)
+19	2009-10-24	 Hurricanes	 	 • Erik Cole	 placed on IR with fractured lower left leg
+20	2009-11-01	 Hurricanes	 • Erik Cole	 	 activated from IR
+21	2009-12-10	 Hurricanes	 	 • Erik Cole	 placed on IR with upper body injury
+22	2010-03-02	 Hurricanes	 • Erik Cole	 	 activated from IR
+23	2010-03-10	 Hurricanes	 	 • Erik Cole	 illness (DTD)
+24	2010-03-11	 Hurricanes	 • Erik Cole	 	 returned to lineup
+25	2014-03-22	 Stars	 	 • Erik Cole	 upper body injury (DTD)
+26	2014-04-05	 Stars	 • Erik Cole	 	 returned to lineup
+27	2015-01-10	 Stars	 	 • Erik Cole	 illness (DTD)
+28	2015-01-13	 Stars	 • Erik Cole	 	 returned to lineup
+29	2015-01-21	 Stars	 	 • Erik Cole	 upper body injury (DTD)
+30	2015-02-03	 Stars	 • Erik Cole	 	 returned to lineup
+31	2015-03-25	 Red Wings	 	 • Erik Cole	 upper body injury (out for season)

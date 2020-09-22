@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-12-17	 Senators	 	 • Gabriel Dumont	 placed on IR with ankle injury
+1	2017-12-18	 Senators	 	 • Gabriel Dumont	 ankle injury (DTD)
+2	2017-12-21	 Senators	 	 • Gabriel Dumont	 placed on IR with ankle injury
+3	2018-01-03	 Senators	 • Gabriel Dumont	 	 activated from IR
+4	2018-01-29	 Senators	 	 • Gabriel Dumont	 placed on IR with ankle injury
+5	2018-02-16	 Senators	 • Gabriel Dumont	 	 activated from IR

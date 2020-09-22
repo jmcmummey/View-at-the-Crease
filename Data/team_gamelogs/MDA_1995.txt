@@ -1,0 +1,49 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1995-01-20	@	Edmonton Oilers	1	2	L			30	14	1		0		29	16	1		0
+1	1995-01-21	@	Winnipeg Jets	4	3	W			24	14	1		1		37	12	1		0
+2	1995-01-23		Edmonton Oilers	5	4	W	OT		31	23	1		0		36	9	2		0
+3	1995-01-25		Dallas Stars	1	4	L			23	15	0		0		34	13	0		1
+4	1995-01-27		Winnipeg Jets	3	2	W			17	14	0		0		41	4	1		0
+5	1995-01-31	@	St. Louis Blues	2	7	L			19	18	1		0		47	18	1		1
+6	1995-02-01	@	Dallas Stars	2	9	L			28	52	0		2		51	59	4		2
+7	1995-02-03		Detroit Red Wings	2	5	L			20	13	0		0		44	11	1		0
+8	1995-02-05	@	Los Angeles Kings	3	2	W			26	6	0		0		32	6	1		0
+9	1995-02-07		Chicago Blackhawks	0	3	L			16	16	0		0		22	20	1		0
+10	1995-02-09	@	Calgary Flames	1	5	L			17	13	0		0		30	17	1		1
+11	1995-02-12	@	Edmonton Oilers	0	2	L			29	19	0		0		45	20	0		0
+12	1995-02-17		Vancouver Canucks	2	2	T	OT		33	8	0		0		27	12	0		1
+13	1995-02-18	@	San Jose Sharks	6	3	W			24	8	1		0		29	6	0		0
+14	1995-02-23	@	Toronto Maple Leafs	1	3	L			22	8	0		0		35	4	1		0
+15	1995-02-24	@	Winnipeg Jets	2	4	L			41	34	0		0		35	26	3		0
+16	1995-02-26		Calgary Flames	3	5	L			22	22	1		0		28	24	1		0
+17	1995-03-01		Chicago Blackhawks	3	1	W			31	6	0		0		33	6	0		0
+18	1995-03-03	@	Dallas Stars	0	4	L			27	4	0		0		39	4	0		0
+19	1995-03-05	@	Chicago Blackhawks	0	3	L			16	18	0		0		32	22	2		0
+20	1995-03-07	@	St. Louis Blues	3	6	L			33	12	2		0		27	14	3		0
+21	1995-03-09		Detroit Red Wings	4	4	T	OT		28	18	2		0		36	32	0		0
+22	1995-03-11	@	Vancouver Canucks	3	5	L			24	10	0		0		38	10	2		1
+23	1995-03-15	@	Calgary Flames	5	0	W			36	15	0		0		29	37	0		0
+24	1995-03-17		Toronto Maple Leafs	3	3	T	OT		36	12	1		0		31	14	2		0
+25	1995-03-19		St. Louis Blues	2	4	L			29	10	2		0		31	14	1		0
+26	1995-03-21		Los Angeles Kings	3	3	T	OT		38	11	0		0		22	11	1		0
+27	1995-03-23	@	San Jose Sharks	6	3	W			29	15	0		0		17	13	0		0
+28	1995-03-26	@	Chicago Blackhawks	2	5	L			21	22	0		0		39	24	1		0
+29	1995-03-28	@	Detroit Red Wings	4	6	L			23	31	1		0		38	27	3		0
+30	1995-03-30		Winnipeg Jets	3	1	W			29	6	0		0		26	4	0		0
+31	1995-03-31	@	Vancouver Canucks	1	6	L			31	20	0		0		34	26	2		0
+32	1995-04-02		San Jose Sharks	5	4	W			32	22	1		0		25	20	1		0
+33	1995-04-05		Edmonton Oilers	4	3	W	OT		35	23	0		0		32	10	2		0
+34	1995-04-07		Dallas Stars	0	2	L			18	10	0		0		24	8	0		0
+35	1995-04-09		Los Angeles Kings	5	1	W			33	20	1		0		36	15	0		0
+36	1995-04-11	@	Vancouver Canucks	0	5	L			25	10	0		0		37	8	2		0
+37	1995-04-13		Calgary Flames	4	2	W			34	15	0		0		36	15	1		0
+38	1995-04-15		Vancouver Canucks	1	3	L			29	20	0		0		38	24	1		0
+39	1995-04-17		San Jose Sharks	3	0	W			32	8	0		0		27	6	0		0
+40	1995-04-19	@	Toronto Maple Leafs	2	3	L			34	8	1		0		42	8	0		0
+41	1995-04-21	@	Detroit Red Wings	5	6	L			38	10	2		0		34	22	0		0
+42	1995-04-23	@	Los Angeles Kings	2	2	T	OT		33	16	0		1		26	14	0		0
+43	1995-04-24		Calgary Flames	2	1	W			27	17	1		0		34	33	0		0
+44	1995-04-26		San Jose Sharks	2	5	L			37	6	1		0		22	14	2		1
+45	1995-04-30	@	Los Angeles Kings	1	2	L			32	14	0		0		33	12	2		0
+46	1995-05-01		St. Louis Blues	3	5	L			22	0	0		0		26	2	0		0
+47	1995-05-03		Toronto Maple Leafs	6	1	W			32	12	2		0		40	26	0		0

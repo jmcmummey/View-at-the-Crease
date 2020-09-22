@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-09-29	 Oilers	 	 • Dillon Simpson	 placed on IR with undisclosed injury
+1	2015-11-12	 Oilers	 • Dillon Simpson	 	 activated from IR

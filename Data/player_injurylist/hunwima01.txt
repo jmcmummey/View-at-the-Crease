@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-31	 Bruins	 	 • Matt Hunwick	 flu-like symptoms (DTD)
+1	2009-02-07	 Bruins	 • Matt Hunwick	 	 returned to lineup
+2	2009-04-18	 Bruins	 	 • Matt Hunwick	 spleen injury (out for season)
+3	2009-04-18	 Bruins	 	 • Matt Hunwick	 surgery on speen (out for season)
+4	2011-04-06	 Avalanche	 	 • Matt Hunwick	 head injury (out for season)
+5	2013-02-11	 Avalanche	 	 • Matt Hunwick	 torso injury (DTD)
+6	2013-02-14	 Avalanche	 • Matt Hunwick	 	 returned to lineup
+7	2015-03-29	 Rangers	 	 • Matt Hunwick	 upper body injury (DTD)
+8	2015-03-31	 Rangers	 • Matt Hunwick	 	 returned to lineup
+9	2015-12-22	 Maple Leafs	 	 • Matt Hunwick	 illness (DTD)
+10	2015-12-27	 Maple Leafs	 • Matt Hunwick	 	 returned to lineup
+11	2016-02-18	 Maple Leafs	 	 • Matt Hunwick	 undisclosed injury (DTD)
+12	2016-02-27	 Maple Leafs	 • Matt Hunwick	 	 returned to lineup
+13	2016-03-08	 Maple Leafs	 	 • Matt Hunwick	 sports hernia (surgery) (out for season)
+14	2016-10-12	 Maple Leafs	 	 • Matt Hunwick	 upper body injury (DTD)
+15	2016-10-26	 Maple Leafs	 	 • Matt Hunwick	 lower body injury (DTD) (CBC Y)
+16	2016-10-31	 Maple Leafs	 	 • Matt Hunwick	 placed on IR with lower body injury
+17	2016-11-11	 Maple Leafs	 • Matt Hunwick	 	 activated from IR
+18	2017-10-17	 Penguins	 	 • Matt Hunwick	 placed on IR with concussion
+19	2017-11-18	 Penguins	 • Matt Hunwick	 	 activated from IR
+20	2017-12-23	 Penguins	 	 • Matt Hunwick	 undisclosed (DTD)
+21	2017-12-27	 Penguins	 • Matt Hunwick	 	 returned to lineup
+22	2018-01-25	 Penguins	 	 • Matt Hunwick	 upper body injury (DTD)
+23	2018-02-02	 Penguins	 • Matt Hunwick	 	 returned to lineup
+24	2018-10-02	 Sabres	 	 • Matt Hunwick	 placed on IR with neck injury
+25	2018-12-15	 Sabres	 • Matt Hunwick	 	 activated from IR
+26	2019-02-02	 Sabres	 	 • Matt Hunwick	 lower body injury (DTD)
+27	2019-02-10	 Sabres	 • Matt Hunwick	 	 returned to lineup
+28	2019-02-19	 Sabres	 	 • Matt Hunwick	 lower body injury (DTD)
+29	2019-02-21	 Sabres	 • Matt Hunwick	 	 returned to lineup
+30	2019-03-22	 Sabres	 	 • Matt Hunwick	 upper body injury (out for season)
+31	2019-10-01	 Sabres	 	 • Matt Hunwick	 placed on IR with neck injury

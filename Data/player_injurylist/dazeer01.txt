@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-10-08	 Blackhawks	 	 • Eric Daze	 placed on IR
+1	2003-10-16	 Blackhawks	 	 • Eric Daze	 back injury (out indefinitely)
+2	2005-10-07	 Blackhawks	 	 • Eric Daze	 back injury (DTD)
+3	2005-10-10	 Blackhawks	 	 • Eric Daze	 placed on IR with sore back
+4	2006-03-09	 Blackhawks	 • Eric Daze	 	 activated from IR

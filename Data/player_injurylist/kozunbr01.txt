@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-17	 Maple Leafs	 	 • Brandon Kozun	 placed on IR with left high ankle sprain
+1	2014-12-06	 Maple Leafs	 • Brandon Kozun	 	 activated from IR

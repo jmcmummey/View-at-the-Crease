@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-01-19	 Coyotes	 	 • Mikkel Boedker	 placed on IR with ruptured spleen (out for season)
+1	2017-12-02	 Sharks	 	 • Mikkel Boedker	 undisclosed (DTD)
+2	2017-12-02	 Sharks	 	 • Mikkel Boedker	 placed on IR with undisclosed
+3	2017-12-07	 Sharks	 	 • Mikkel Boedker	 placed on IR with undisclosed
+4	2017-12-18	 Sharks	 • Mikkel Boedker	 	 activated from IR
+5	2019-02-02	 Senators	 	 • Mikkel Boedker	 mid-body injury (DTD)
+6	2019-02-06	 Senators	 	 • Mikkel Boedker	 placed on IR with mid-body injury
+7	2019-02-17	 Senators	 • Mikkel Boedker	 	 activated from IR

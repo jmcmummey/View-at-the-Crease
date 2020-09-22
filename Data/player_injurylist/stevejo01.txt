@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-12-13	 Flyers	 	 • John Stevens (A.)	 eye injury (out indefinitely)
+1	2018-10-02	 Islanders	 	 • John Stevens (b. 1994-04-17)	 placed on IR with undisclosed injury
+2	2018-12-28	 Islanders	 • John Stevens (b. 1994-04-17)	 	 activated from IR

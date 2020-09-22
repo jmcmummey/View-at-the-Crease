@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-26	 Hurricanes	 	 • Brandon Sutter	 concussion (out indefinitely)
+1	2008-11-07	 Hurricanes	 	 • Brandon Sutter	 placed on IR with concussion
+2	2008-11-12	 Hurricanes	 • Brandon Sutter	 	 activated from IR
+3	2010-03-12	 Hurricanes	 	 • Brandon Sutter	 lower body injury (DTD)
+4	2010-03-16	 Hurricanes	 • Brandon Sutter	 	 returned to lineup
+5	2014-04-29	 Penguins	 	 • Brandon Sutter	 lower body injury (DTD)
+6	2014-12-22	 Penguins	 	 • Brandon Sutter	 illness (DTD)
+7	2014-12-27	 Penguins	 • Brandon Sutter	 	 returned to lineup
+8	2015-11-12	 Canucks	 	 • Brandon Sutter	 hernia (DTD)
+9	2015-11-21	 Canucks	 	 • Brandon Sutter	 placed on IR with hernia
+10	2016-01-26	 Canucks	 • Brandon Sutter	 	 activated from IR
+11	2016-02-10	 Canucks	 	 • Brandon Sutter	 placed on IR with fractured jaw (out for season)
+12	2017-02-14	 Canucks	 	 • Brandon Sutter	 undisclosed injury (DTD)
+13	2017-02-16	 Canucks	 • Brandon Sutter	 	 returned to lineup
+14	2017-11-26	 Canucks	 	 • Brandon Sutter	 placed on IR with upper body injury
+15	2018-01-14	 Canucks	 • Brandon Sutter	 	 activated from IR
+16	2018-10-30	 Canucks	 	 • Brandon Sutter	 placed on IR with shoulder injury
+17	2019-01-03	 Canucks	 • Brandon Sutter	 	 activated from IR
+18	2019-02-11	 Canucks	 	 • Brandon Sutter	 placed on IR with sports hernia (out for season)
+19	2019-11-14	 Canucks	 	 • Brandon Sutter	 placed on IR with strained groin
+20	2019-12-14	 Canucks	 • Brandon Sutter	 	 activated from IR
+21	2019-12-19	 Canucks	 	 • Brandon Sutter	 undisclosed (DTD)
+22	2019-12-23	 Canucks	 	 • Brandon Sutter	 placed on IR with upper body injury
+23	2020-01-16	 Canucks	 • Brandon Sutter	 	 activated from IR

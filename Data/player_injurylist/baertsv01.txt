@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-01-29	 Flames	 	 • Sven Baertschi	 lower body injury (DTD)
+1	2013-02-05	 Flames	 	 • Sven Baertschi	 placed on IR with hip flexor injury
+2	2013-02-23	 Flames	 • Sven Baertschi	 	 activated from IR
+3	2014-11-10	 Flames	 	 • Sven Baertschi	 virus (DTD)
+4	2014-11-13	 Flames	 • Sven Baertschi	 	 returned to lineup
+5	2015-12-29	 Canucks	 	 • Sven Baertschi	 placed on IR with sore neck
+6	2016-01-04	 Canucks	 	 • Sven Baertschi	 placed on IR with neck injury (CBC)
+7	2016-01-06	 Canucks	 • Sven Baertschi	 	 activated from IR
+8	2016-04-01	 Canucks	 	 • Sven Baertschi	 lower body injury (out for season)
+9	2016-11-25	 Canucks	 	 • Sven Baertschi	 lacerated foot (DTD)
+10	2016-11-29	 Canucks	 • Sven Baertschi	 	 returned to lineup
+11	2017-02-08	 Canucks	 	 • Sven Baertschi	 concussion (DTD)
+12	2017-02-11	 Canucks	 	 • Sven Baertschi	 placed on IR with concussion
+13	2017-03-02	 Canucks	 • Sven Baertschi	 	 activated from IR
+14	2017-04-08	 Canucks	 	 • Sven Baertschi	 upper body injury (out for season)
+15	2017-12-10	 Canucks	 	 • Sven Baertschi	 placed on IR with fractured jaw
+16	2017-12-11	 Canucks	 	 • Sven Baertschi	 fractured jaw (out indefinitely)
+17	2018-01-07	 Canucks	 • Sven Baertschi	 	 activated from IR
+18	2018-03-04	 Canucks	 	 • Sven Baertschi	 shoulder injury (out for season)
+19	2018-10-25	 Canucks	 	 • Sven Baertschi	 placed on IR with concussion
+20	2018-12-29	 Canucks	 • Sven Baertschi	 	 activated from IR
+21	2019-02-04	 Canucks	 	 • Sven Baertschi	 concussion (DTD)
+22	2019-02-05	 Canucks	 	 • Sven Baertschi	 placed on IR with concussion
+23	2019-03-21	 Canucks	 • Sven Baertschi	 	 activated from IR
+24	2019-03-24	 Canucks	 • Sven Baertschi	 	 activated from IR

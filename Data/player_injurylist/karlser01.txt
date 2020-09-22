@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-02-04	 Senators	 	 • Erik Karlsson (Sven Gunnar)	 upper body injury (DTD)
+1	2010-03-02	 Senators	 • Erik Karlsson (Sven Gunnar)	 	 returned to lineup
+2	2010-11-21	 Senators	 	 • Erik Karlsson (Sven Gunnar)	 illness (DTD)
+3	2010-11-26	 Senators	 • Erik Karlsson (Sven Gunnar)	 	 returned to lineup
+4	2011-02-23	 Senators	 	 • Erik Karlsson (Sven Gunnar)	 upper body injury (DTD)
+5	2011-02-25	 Senators	 • Erik Karlsson (Sven Gunnar)	 	 returned to lineup
+6	2011-04-01	 Senators	 	 • Erik Karlsson (Sven Gunnar)	 lacerated thigh (out for season)
+7	2012-01-10	 Senators	 	 • Erik Karlsson (Sven Gunnar)	 upper body injury (DTD)
+8	2012-01-12	 Senators	 • Erik Karlsson (Sven Gunnar)	 	 returned to lineup
+9	2013-02-14	 Senators	 	 • Erik Karlsson (Sven Gunnar)	 placed on IR with lacerated left Achilles tendon
+10	2013-04-25	 Senators	 • Erik Karlsson (Sven Gunnar)	 	 activated from IR
+11	2017-03-30	 Senators	 	 • Erik Karlsson (Sven Gunnar)	 foot injury (DTD)
+12	2017-04-03	 Senators	 • Erik Karlsson (Sven Gunnar)	 	 returned to lineup
+13	2017-04-06	 Senators	 	 • Erik Karlsson (Sven Gunnar)	 foot injury (DTD)
+14	2017-04-11	 Senators	 • Erik Karlsson (Sven Gunnar)	 	 returned to lineup
+15	2017-10-04	 Senators	 	 • Erik Karlsson (Sven Gunnar)	 foot injury (DTD)
+16	2017-10-13	 Senators	 	 • Erik Karlsson (Sven Gunnar)	 placed on IR with foot injury
+17	2017-10-17	 Senators	 • Erik Karlsson (Sven Gunnar)	 	 activated from IR
+18	2019-01-19	 Sharks	 	 • Erik Karlsson (Sven Gunnar)	 lower body injury (DTD)
+19	2019-02-16	 Sharks	 • Erik Karlsson (Sven Gunnar)	 	 returned to lineup
+20	2019-02-24	 Sharks	 	 • Erik Karlsson (Sven Gunnar)	 groin injury (DTD)
+21	2019-02-26	 Sharks	 • Erik Karlsson (Sven Gunnar)	 	 returned to lineup
+22	2019-02-27	 Sharks	 	 • Erik Karlsson (Sven Gunnar)	 groin injury (DTD)
+23	2019-04-06	 Sharks	 • Erik Karlsson (Sven Gunnar)	 	 returned to lineup
+24	2019-05-21	 Sharks	 	 • Erik Karlsson (Sven Gunnar)	 groin injury (out for season)
+25	2020-02-15	 Sharks	 	 • Erik Karlsson (Sven Gunnar)	 placed on IR with fractured left thumb

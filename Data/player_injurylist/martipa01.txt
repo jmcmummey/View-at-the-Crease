@@ -1,0 +1,46 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-13	 Devils	 	 • Paul Martin (a)	 bruised back (DTD)
+1	2005-10-18	 Devils	 • Paul Martin (a)	 	 returned to lineup
+2	2007-11-16	 Devils	 	 • Paul Martin (a)	 lower body injury (DTD)
+3	2007-11-23	 Devils	 • Paul Martin (a)	 	 returned to lineup
+4	2007-12-15	 Devils	 	 • Paul Martin (a)	 lower body injury (DTD)
+5	2007-12-16	 Devils	 • Paul Martin (a)	 	 returned to lineup
+6	2008-03-04	 Devils	 	 • Paul Martin (a)	 lower body injury (DTD)
+7	2008-03-13	 Devils	 • Paul Martin (a)	 	 returned to lineup
+8	2008-11-03	 Devils	 	 • Paul Martin (a)	 upper body injury (DTD)
+9	2008-11-14	 Devils	 • Paul Martin (a)	 	 returned to lineup
+10	2009-02-06	 Devils	 	 • Paul Martin (a)	 flu (DTD)
+11	2009-02-16	 Devils	 	 • Paul Martin (a)	 upper body injury (DTD)
+12	2009-02-26	 Devils	 • Paul Martin (a)	 	 returned to lineup
+13	2009-10-26	 Devils	 	 • Paul Martin (a)	 placed on IR with broken left arm
+14	2010-03-17	 Devils	 • Paul Martin (a)	 	 activated from IR
+15	2011-02-21	 Penguins	 	 • Paul Martin (a)	 undisclosed (DTD)
+16	2011-03-02	 Penguins	 • Paul Martin (a)	 	 returned to lineup
+17	2011-12-17	 Penguins	 	 • Paul Martin (a)	 leg injury (DTD)
+18	2011-12-23	 Penguins	 	 • Paul Martin (a)	 placed on IR with leg injury
+19	2012-01-06	 Penguins	 • Paul Martin (a)	 	 activated from IR
+20	2012-01-10	 Penguins	 	 • Paul Martin (a)	 illness (DTD)
+21	2012-01-11	 Penguins	 • Paul Martin (a)	 	 returned to lineup
+22	2012-03-09	 Penguins	 	 • Paul Martin (a)	 illness (DTD)
+23	2012-03-15	 Penguins	 • Paul Martin (a)	 	 returned to lineup
+24	2012-04-18	 Penguins	 	 • Paul Martin (a)	 undisclosed injury (out for season)
+25	2013-03-01	 Penguins	 	 • Paul Martin (a)	 lower body injury (DTD)
+26	2013-03-07	 Penguins	 • Paul Martin (a)	 	 returned to lineup
+27	2013-03-30	 Penguins	 	 • Paul Martin (a)	 placed on IR with fractured hand/wrist
+28	2013-04-27	 Penguins	 • Paul Martin (a)	 	 activated from IR
+29	2013-11-09	 Penguins	 	 • Paul Martin (a)	 lower body injury (DTD)
+30	2013-11-15	 Penguins	 • Paul Martin (a)	 	 returned to lineup
+31	2013-11-26	 Penguins	 	 • Paul Martin (a)	 placed on IR with fractured tibia
+32	2014-01-20	 Penguins	 • Paul Martin (a)	 	 activated from IR
+33	2014-02-21	 Penguins	 	 • Paul Martin (a)	 hand injury (DTD)
+34	2014-03-06	 Penguins	 	 • Paul Martin (a)	 placed on IR with hand injury
+35	2014-04-03	 Penguins	 • Paul Martin (a)	 	 activated from IR
+36	2014-12-20	 Penguins	 	 • Paul Martin (a)	 placed on IR with undisclosed injury
+37	2015-01-07	 Penguins	 • Paul Martin (a)	 	 activated from IR
+38	2015-10-17	 Sharks	 	 • Paul Martin (a)	 lower body injury (DTD)
+39	2015-10-24	 Sharks	 • Paul Martin (a)	 	 returned to lineup
+40	2016-04-09	 Sharks	 	 • Paul Martin (a)	 undisclosed injury (out for season)
+41	2017-01-14	 Sharks	 • Paul Martin (a)	 	 returned to lineup
+42	2017-10-12	 Sharks	 	 • Paul Martin (a)	 placed on IR with ankle injury
+43	2017-12-07	 Sharks	 • Paul Martin (a)	 	 activated from IR
+44	2017-12-28	 Sharks	 	 • Paul Martin (a)	 ankle injury (out indefinitely)

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-11-21	 Avalanche	 	 • Dennis Everberg	 placed on IR with separated shoulder
+1	2014-12-11	 Avalanche	 • Dennis Everberg	 	 activated from IR
+2	2015-04-08	 Avalanche	 	 • Dennis Everberg	 shoulder injury (out for season)

@@ -1,0 +1,46 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-04-07	 Flames	 	 • Chuck Kobasew	 groin injury (DTD)
+1	2006-04-17	 Flames	 • Chuck Kobasew	 	 returned to lineup
+2	2007-01-05	 Flames	 	 • Chuck Kobasew	 head injury (DTD)
+3	2007-01-26	 Flames	 • Chuck Kobasew	 	 returned to lineup
+4	2007-01-28	 Flames	 	 • Chuck Kobasew	 fractured right elbow (out 4-6 weeks)
+5	2007-03-06	 Bruins	 • Chuck Kobasew	 	 returned to lineup
+6	2007-03-27	 Bruins	 	 • Chuck Kobasew	 concussion (out indefinitely)
+7	2008-02-13	 Bruins	 	 • Chuck Kobasew	 back injury (DTD)
+8	2008-02-16	 Bruins	 • Chuck Kobasew	 	 returned to lineup
+9	2008-02-26	 Bruins	 	 • Chuck Kobasew	 groin injury (DTD)
+10	2008-02-28	 Bruins	 • Chuck Kobasew	 	 returned to lineup
+11	2008-03-28	 Bruins	 	 • Chuck Kobasew	 fractured left tibia (out indefinitely)
+12	2008-10-11	 Bruins	 	 • Chuck Kobasew	 placed on IR with fractured right leg/ankle
+13	2008-11-08	 Bruins	 • Chuck Kobasew	 	 activated from IR
+14	2009-02-12	 Bruins	 	 • Chuck Kobasew	 upper body injury (DTD)
+15	2009-02-17	 Bruins	 • Chuck Kobasew	 	 returned to lineup
+16	2009-11-13	 Wild	 	 • Chuck Kobasew	 upper body injury (DTD)
+17	2009-11-25	 Wild	 • Chuck Kobasew	 	 returned to lineup
+18	2009-12-26	 Wild	 	 • Chuck Kobasew	 knee injury (out indefinitely)
+19	2010-03-03	 Wild	 • Chuck Kobasew	 	 activated from IR
+20	2010-03-26	 Wild	 	 • Chuck Kobasew	 knee injury (DTD)
+21	2010-04-08	 Wild	 • Chuck Kobasew	 	 returned to lineup
+22	2010-11-05	 Wild	 	 • Chuck Kobasew	 groin injury (DTD)
+23	2010-11-29	 Wild	 • Chuck Kobasew	 	 activated from IR
+24	2010-12-03	 Wild	 	 • Chuck Kobasew	 groin injury (DTD)
+25	2010-12-04	 Wild	 • Chuck Kobasew	 	 returned to lineup
+26	2011-03-02	 Wild	 	 • Chuck Kobasew	 illness (DTD)
+27	2011-03-06	 Wild	 • Chuck Kobasew	 	 returned to lineup
+28	2011-03-29	 Wild	 	 • Chuck Kobasew	 sore leg (DTD)
+29	2011-03-31	 Wild	 • Chuck Kobasew	 	 returned to lineup
+30	2011-12-04	 Avalanche	 	 • Chuck Kobasew	 left leg injury (DTD)
+31	2011-12-06	 Avalanche	 • Chuck Kobasew	 	 returned to lineup
+32	2011-12-12	 Avalanche	 	 • Chuck Kobasew	 placed on IR with head injury
+33	2011-12-29	 Avalanche	 • Chuck Kobasew	 	 activated from IR
+34	2012-03-01	 Avalanche	 	 • Chuck Kobasew	 back injury (DTD)
+35	2012-03-24	 Avalanche	 • Chuck Kobasew	 	 returned to lineup
+36	2013-01-19	 Avalanche	 	 • Chuck Kobasew	 flu (DTD)
+37	2013-01-24	 Avalanche	 • Chuck Kobasew	 	 returned to lineup
+38	2013-04-01	 Avalanche	 	 • Chuck Kobasew	 back/torso injury (DTD)
+39	2013-04-15	 Avalanche	 • Chuck Kobasew	 	 returned to lineup
+40	2013-10-29	 Penguins	 	 • Chuck Kobasew	 lower body injury (DTD)
+41	2013-11-09	 Penguins	 	 • Chuck Kobasew	 placed on IR with lower body injury
+42	2013-12-05	 Penguins	 • Chuck Kobasew	 	 activated from IR
+43	2014-01-03	 Penguins	 	 • Chuck Kobasew	 lower body injury (DTD)
+44	2014-01-20	 Penguins	 • Chuck Kobasew	 	 returned to lineup

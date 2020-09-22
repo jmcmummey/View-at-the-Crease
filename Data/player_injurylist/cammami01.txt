@@ -1,0 +1,60 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-28	 Kings	 	 • Michael Cammalleri / Mike Cammalleri	 head injury (out indefinitely)
+1	2003-02-04	 Kings	 	 • Michael Cammalleri / Mike Cammalleri	 placed on IR with head injury / post-concussion symptoms
+2	2003-10-07	 Kings	 	 • Michael Cammalleri / Mike Cammalleri	 placed on IR with sprained left knee
+3	2003-10-30	 Kings	 • Michael Cammalleri / Mike Cammalleri	 	 activated from IR
+4	2007-02-06	 Kings	 	 • Michael Cammalleri / Mike Cammalleri	 strained muscle (DTD)
+5	2007-02-08	 Kings	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+6	2007-11-28	 Kings	 	 • Michael Cammalleri / Mike Cammalleri	 groin injury (DTD)
+7	2007-12-01	 Kings	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+8	2007-12-26	 Kings	 	 • Michael Cammalleri / Mike Cammalleri	 rib injury (DTD)
+9	2008-01-14	 Kings	 	 • Michael Cammalleri / Mike Cammalleri	 placed on IR with rib injury
+10	2008-02-05	 Kings	 • Michael Cammalleri / Mike Cammalleri	 	 activated from IR
+11	2008-02-15	 Kings	 	 • Michael Cammalleri / Mike Cammalleri	 flu (DTD)
+12	2008-02-16	 Kings	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+13	2008-11-11	 Flames	 	 • Michael Cammalleri / Mike Cammalleri	 flu (DTD)
+14	2008-11-13	 Flames	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+15	2010-01-30	 Canadiens	 	 • Michael Cammalleri / Mike Cammalleri	 sprained MCL in right knee (DTD)
+16	2010-03-22	 Canadiens	 • Michael Cammalleri / Mike Cammalleri	 	 activated from IR
+17	2011-01-11	 Canadiens	 	 • Michael Cammalleri / Mike Cammalleri	 illness (DTD)
+18	2011-01-15	 Canadiens	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+19	2011-01-19	 Canadiens	 	 • Michael Cammalleri / Mike Cammalleri	 placed on IR with separated left shoulder
+20	2011-02-20	 Canadiens	 • Michael Cammalleri / Mike Cammalleri	 	 activated from IR
+21	2011-10-09	 Canadiens	 	 • Michael Cammalleri / Mike Cammalleri	 lacerated left leg (out indefinitely)
+22	2011-10-20	 Canadiens	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+23	2011-11-10	 Canadiens	 	 • Michael Cammalleri / Mike Cammalleri	 lower body injury (DTD)
+24	2011-11-12	 Canadiens	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+25	2011-11-14	 Canadiens	 	 • Michael Cammalleri / Mike Cammalleri	 lower body injury (DTD)
+26	2011-11-16	 Canadiens	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+27	2012-03-06	 Flames	 	 • Michael Cammalleri / Mike Cammalleri	 upper body injury (DTD)
+28	2012-03-24	 Flames	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+29	2013-02-07	 Flames	 	 • Michael Cammalleri / Mike Cammalleri	 hip flexor injury (DTD)
+30	2013-02-11	 Flames	 	 • Michael Cammalleri / Mike Cammalleri	 placed on IR with hip flexor injury
+31	2013-02-13	 Flames	 • Michael Cammalleri / Mike Cammalleri	 	 activated from IR
+32	2013-09-30	 Flames	 	 • Michael Cammalleri / Mike Cammalleri	 placed on IR with hand injury
+33	2013-10-21	 Flames	 • Michael Cammalleri / Mike Cammalleri	 	 activated from IR
+34	2013-12-17	 Flames	 	 • Michael Cammalleri / Mike Cammalleri	 flu (DTD)
+35	2013-12-19	 Flames	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+36	2014-01-13	 Flames	 	 • Michael Cammalleri / Mike Cammalleri	 concussion (DTD)
+37	2014-01-20	 Flames	 	 • Michael Cammalleri / Mike Cammalleri	 placed on IR with concussion
+38	2014-02-01	 Flames	 • Michael Cammalleri / Mike Cammalleri	 	 activated from IR
+39	2014-04-11	 Flames	 	 • Michael Cammalleri / Mike Cammalleri	 upper body injury (out for season)
+40	2014-10-26	 Devils	 	 • Michael Cammalleri / Mike Cammalleri	 jaw injury (DTD)
+41	2014-11-10	 Devils	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+42	2014-12-06	 Devils	 	 • Michael Cammalleri / Mike Cammalleri	 lower body injury (DTD)
+43	2014-12-08	 Devils	 	 • Michael Cammalleri / Mike Cammalleri	 upper body injury (DTD) (CBC)
+44	2014-12-11	 Devils	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+45	2014-12-14	 Devils	 	 • Michael Cammalleri / Mike Cammalleri	 lower body injury (DTD)
+46	2014-12-20	 Devils	 	 • Michael Cammalleri / Mike Cammalleri	 placed on IR with lower body injury
+47	2014-12-23	 Devils	 • Michael Cammalleri / Mike Cammalleri	 	 activated from IR
+48	2015-03-20	 Devils	 	 • Michael Cammalleri / Mike Cammalleri	 illness (DTD)
+49	2015-03-23	 Devils	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+50	2016-01-02	 Devils	 	 • Michael Cammalleri / Mike Cammalleri	 undisclosed (DTD)
+51	2016-01-07	 Devils	 	 • Michael Cammalleri / Mike Cammalleri	 placed on IR with upper body injury
+52	2016-01-19	 Devils	 • Michael Cammalleri / Mike Cammalleri	 	 activated from IR
+53	2016-02-01	 Devils	 	 • Michael Cammalleri / Mike Cammalleri	 placed on IR with upper body injury (out for season)
+54	2016-11-23	 Devils	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+55	2017-03-03	 Devils	 	 • Michael Cammalleri / Mike Cammalleri	 upper body injury (out indefinitely)
+56	2017-03-31	 Devils	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup
+57	2018-03-24	 Oilers	 	 • Michael Cammalleri / Mike Cammalleri	 undisclosed (DTD)
+58	2018-03-31	 Oilers	 • Michael Cammalleri / Mike Cammalleri	 	 returned to lineup

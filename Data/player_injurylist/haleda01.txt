@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-10-30	 Devils	 	 • David Hale	 placed on IR
+1	2006-10-05	 Devils	 	 • David Hale	 head injury (DTD)
+2	2006-10-14	 Devils	 	 • David Hale	 eye injury (out 2-4 weeks)
+3	2006-11-09	 Devils	 • David Hale	 	 returned to lineup
+4	2006-11-17	 Devils	 • David Hale	 	 activated from IR
+5	2007-03-06	 Flames	 	 • David Hale	 bruised kidney (DTD)
+6	2007-03-14	 Flames	 • David Hale	 	 returned to lineup
+7	2009-10-10	 Lightning	 	 • David Hale	 flu (DTD)
+8	2009-10-17	 Lightning	 • David Hale	 	 returned to lineup
+9	2010-02-08	 Lightning	 	 • David Hale	 broken right leg (out indefinitely)
+10	2010-02-09	 Lightning	 	 • David Hale	 placed on IR with broken right leg
+11	2010-03-20	 Lightning	 • David Hale	 	 activated from IR
+12	2010-03-25	 Lightning	 	 • David Hale	 ankle injury (out for season)

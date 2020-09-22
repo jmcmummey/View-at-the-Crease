@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-05-04	 Maple Leafs	 	 • Michael Kostka / Mike Kostka	 fractured finger (out for season)
+1	2013-10-23	 Blackhawks	 	 • Michael Kostka / Mike Kostka	 placed on IR with lower body injury
+2	2013-12-08	 Blackhawks	 • Michael Kostka / Mike Kostka	 	 activated from IR
+3	2014-04-02	 Lightning	 	 • Michael Kostka / Mike Kostka	 concussion (DTD)
+4	2014-04-10	 Lightning	 • Michael Kostka / Mike Kostka	 	 returned to lineup

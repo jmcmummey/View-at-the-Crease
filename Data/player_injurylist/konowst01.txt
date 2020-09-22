@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-10-16	 Capitals	 	 • Steve Konowalchuk	 shoulder injury (out indefinitely)
+1	2005-11-21	 Avalanche	 	 • Steve Konowalchuk	 right wrist injury (out indefinitely)
+2	2005-11-27	 Avalanche	 	 • Steve Konowalchuk	 torn ligaments in right wrist (out for season)
+3	2005-11-29	 Avalanche	 	 • Steve Konowalchuk	 surgery on right wrist to repair torn ligaments (date approximate)
+4	2006-05-09	 Avalanche	 	 • Steve Konowalchuk	 groin injury (DTD)
+5	2006-05-11	 Avalanche	 • Steve Konowalchuk	 	 returned to lineup
+6	2006-09-16	 Avalanche	 	 • Steve Konowalchuk	 heart abnormality (out indefinitely)

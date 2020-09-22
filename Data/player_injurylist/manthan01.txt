@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-03	 Red Wings	 	 • Anthony Mantha	 placed on IR with undisclosed injury
+1	2014-11-12	 Red Wings	 • Anthony Mantha	 	 activated from IR
+2	2017-03-30	 Red Wings	 	 • Anthony Mantha	 fractured finger (out for season)
+3	2017-12-29	 Red Wings	 	 • Anthony Mantha	 undisclosed / groin injury (DTD)
+4	2018-01-03	 Red Wings	 • Anthony Mantha	 	 returned to lineup
+5	2018-12-04	 Red Wings	 	 • Anthony Mantha	 placed on IR with hand injury
+6	2019-01-03	 Red Wings	 • Anthony Mantha	 	 activated from IR
+7	2019-11-24	 Red Wings	 	 • Anthony Mantha	 knee injury (DTD)
+8	2019-11-28	 Red Wings	 	 • Anthony Mantha	 placed on IR with knee injury
+9	2019-12-14	 Red Wings	 • Anthony Mantha	 	 activated from IR
+10	2019-12-22	 Red Wings	 	 • Anthony Mantha	 placed on IR with lung injury
+11	2020-02-11	 Red Wings	 • Anthony Mantha	 	 activated from IR

@@ -1,0 +1,50 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-26	 Blackhawks	 	 • Dave Bolland	 placed on IR with broken finger
+1	2008-01-30	 Blackhawks	 • Dave Bolland	 	 activated from IR
+2	2008-03-02	 Blackhawks	 	 • Dave Bolland	 hip flexor injury (DTD)
+3	2008-03-04	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+4	2009-04-01	 Blackhawks	 	 • Dave Bolland	 foot injury (DTD)
+5	2009-04-03	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+6	2009-10-07	 Blackhawks	 	 • Dave Bolland	 back injury (DTD)
+7	2009-10-10	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+8	2009-11-06	 Blackhawks	 	 • Dave Bolland	 back injury (DTD)
+9	2009-11-12	 Blackhawks	 	 • Dave Bolland	 placed on IR recovering from surgery on back
+10	2010-02-03	 Blackhawks	 • Dave Bolland	 	 activated from IR
+11	2010-03-25	 Blackhawks	 	 • Dave Bolland	 flu / illness (DTD)
+12	2010-03-28	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+13	2010-10-30	 Blackhawks	 	 • Dave Bolland	 upper body injury (DTD)
+14	2010-11-01	 Blackhawks	 	 • Dave Bolland	 placed on IR
+15	2010-11-12	 Blackhawks	 • Dave Bolland	 	 activated from IR
+16	2010-12-13	 Blackhawks	 	 • Dave Bolland	 upper body injury (DTD)
+17	2010-12-15	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+18	2011-03-10	 Blackhawks	 	 • Dave Bolland	 concussion (out indefinitely)
+19	2011-04-19	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+20	2011-10-07	 Blackhawks	 	 • Dave Bolland	 upper body injury (DTD)
+21	2011-10-08	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+22	2011-11-09	 Blackhawks	 	 • Dave Bolland	 foot injury (DTD)
+23	2011-11-16	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+24	2012-04-04	 Blackhawks	 	 • Dave Bolland	 upper body injury (out for season)
+25	2013-02-02	 Blackhawks	 	 • Dave Bolland	 right leg injury (DTD)
+26	2013-02-05	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+27	2013-02-24	 Blackhawks	 	 • Dave Bolland	 upper (Y) / lower (CBC) body injury (DTD)
+28	2013-03-05	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+29	2013-04-05	 Blackhawks	 	 • Dave Bolland	 foot injury (DTD)
+30	2013-04-14	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+31	2013-04-23	 Blackhawks	 	 • Dave Bolland	 groin injury (DTD)
+32	2013-05-15	 Blackhawks	 • Dave Bolland	 	 returned to lineup
+33	2013-11-03	 Maple Leafs	 	 • Dave Bolland	 placed on IR with severed tendon in left ankle
+34	2014-03-22	 Maple Leafs	 • Dave Bolland	 	 activated from IR
+35	2014-04-08	 Maple Leafs	 	 • Dave Bolland	 ankle injury (out for season)
+36	2014-10-18	 Panthers	 	 • Dave Bolland	 lower body injury (DTD)
+37	2014-11-01	 Panthers	 	 • Dave Bolland	 placed on IR with lower body injury
+38	2014-12-08	 Panthers	 • Dave Bolland	 	 activated from IR
+39	2015-02-22	 Panthers	 	 • Dave Bolland	 upper body injury (DTD)
+40	2015-02-28	 Panthers	 	 • Dave Bolland	 placed on IR with upper body injury
+41	2015-03-05	 Panthers	 	 • Dave Bolland	 placed on IR (SN)
+42	2015-03-12	 Panthers	 • Dave Bolland	 	 activated from IR
+43	2015-11-05	 Panthers	 	 • Dave Bolland	 hand injury (DTD)
+44	2015-11-10	 Panthers	 • Dave Bolland	 	 returned to lineup
+45	2015-12-27	 Panthers	 	 • Dave Bolland	 lower body injury (out for season)
+46	2016-02-15	 Panthers	 	 • Dave Bolland	 lower body injury (out for season)
+47	2016-02-28	 Panthers	 	 • Dave Bolland	 placed on IR with lower body injury (out for season)
+48	2016-10-10	 Coyotes	 	 • Dave Bolland	 placed on IR with lower body injury (out for season)

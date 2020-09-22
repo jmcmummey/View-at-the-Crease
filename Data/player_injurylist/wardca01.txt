@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-22	 Hurricanes	 	 • Cam Ward	 arm injury (left game)
+1	2007-03-12	 Hurricanes	 	 • Cam Ward	 lacerated knee (out indefinitely)
+2	2007-03-22	 Hurricanes	 • Cam Ward	 	 returned to lineup
+3	2008-12-01	 Hurricanes	 	 • Cam Ward	 groin injury (DTD)
+4	2008-12-07	 Hurricanes	 	 • Cam Ward	 placed on IR
+5	2008-12-12	 Hurricanes	 • Cam Ward	 	 activated from IR
+6	2009-11-07	 Hurricanes	 	 • Cam Ward	 lacerated leg (DTD)
+7	2009-11-11	 Hurricanes	 	 • Cam Ward	 placed on IR with lacerated leg
+8	2009-11-19	 Hurricanes	 	 • Cam Ward	 placed on long-term IR with lacerated leg
+9	2009-12-08	 Hurricanes	 • Cam Ward	 	 activated from IR
+10	2010-02-05	 Hurricanes	 	 • Cam Ward	 upper body injury (DTD)
+11	2010-03-27	 Hurricanes	 • Cam Ward	 	 returned to lineup
+12	2010-12-20	 Hurricanes	 	 • Cam Ward	 infection (DTD)
+13	2012-02-19	 Hurricanes	 	 • Cam Ward	 back injury (DTD)
+14	2012-02-28	 Hurricanes	 • Cam Ward	 	 returned to lineup
+15	2013-03-04	 Hurricanes	 	 • Cam Ward	 placed on IR with sprained MCL in knee (out for season)
+16	2013-10-24	 Hurricanes	 	 • Cam Ward	 lower body injury (DTD)
+17	2013-10-24	 Hurricanes	 	 • Cam Ward	 placed on IR with lower body injury
+18	2013-11-18	 Hurricanes	 • Cam Ward	 	 activated from IR
+19	2014-01-01	 Hurricanes	 	 • Cam Ward	 groin injury (DTD)
+20	2014-01-05	 Hurricanes	 	 • Cam Ward	 placed on IR with lower body injury
+21	2014-01-30	 Hurricanes	 • Cam Ward	 	 activated from IR
+22	2014-12-04	 Hurricanes	 	 • Cam Ward	 lower body injury (DTD)
+23	2014-12-06	 Hurricanes	 • Cam Ward	 	 returned to lineup
+24	2016-01-18	 Hurricanes	 	 • Cam Ward	 placed on IR with concussion
+25	2016-01-20	 Hurricanes	 	 • Cam Ward	 placed on IR with concussion (CBC E)
+26	2016-01-26	 Hurricanes	 • Cam Ward	 	 activated from IR
+27	2016-02-14	 Hurricanes	 	 • Cam Ward	 lower body injury (DTD)
+28	2016-02-18	 Hurricanes	 • Cam Ward	 	 returned to lineup
+29	2019-03-05	 Blackhawks	 	 • Cam Ward	 knee injury (DTD)
+30	2019-03-14	 Blackhawks	 • Cam Ward	 	 returned to lineup

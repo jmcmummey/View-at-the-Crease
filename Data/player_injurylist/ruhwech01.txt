@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-04-07	 Sabres	 	 • Chad Ruhwedel	 concussion (out for season)
+1	2017-01-11	 Penguins	 	 • Chad Ruhwedel	 illness (DTD)
+2	2017-01-12	 Penguins	 • Chad Ruhwedel	 	 returned to lineup
+3	2017-03-26	 Penguins	 	 • Chad Ruhwedel	 upper body injury (DTD)
+4	2017-03-29	 Penguins	 • Chad Ruhwedel	 	 returned to lineup
+5	2017-04-11	 Penguins	 	 • Chad Ruhwedel	 upper body injury (DTD)
+6	2017-05-08	 Penguins	 • Chad Ruhwedel	 	 returned to lineup
+7	2017-05-20	 Penguins	 	 • Chad Ruhwedel	 concussion (DTD)
+8	2017-06-05	 Penguins	 • Chad Ruhwedel	 	 returned to lineup
+9	2017-12-28	 Penguins	 	 • Chad Ruhwedel	 placed on IR with upper body injury
+10	2018-01-25	 Penguins	 • Chad Ruhwedel	 	 activated from IR
+11	2019-02-27	 Penguins	 	 • Chad Ruhwedel	 upper body injury (out for season)

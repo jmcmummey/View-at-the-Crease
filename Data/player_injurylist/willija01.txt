@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-04-13	 Red Wings	 	 • Jason Williams	 lower body injury (DTD)
+1	2006-04-17	 Red Wings	 • Jason Williams	 	 returned to lineup
+2	2006-11-09	 Red Wings	 	 • Jason Williams	 placed on IR with concussion (out indefinitely)
+3	2006-11-18	 Red Wings	 • Jason Williams	 	 activated from IR
+4	2006-12-01	 Red Wings	 	 • Jason Williams	 charley horse (DTD)
+5	2006-12-02	 Red Wings	 • Jason Williams	 	 returned to lineup
+6	2007-11-17	 Blackhawks	 	 • Jason Williams	 groin injury (DTD)
+7	2007-11-28	 Blackhawks	 • Jason Williams	 	 returned to lineup
+8	2007-11-30	 Blackhawks	 	 • Jason Williams	 groin injury (DTD)
+9	2007-12-06	 Blackhawks	 	 • Jason Williams	 placed on IR with groin injury
+10	2008-01-18	 Blackhawks	 	 • Jason Williams	 sports hernia (out indefinitely)
+11	2008-02-20	 Blackhawks	 • Jason Williams	 	 returned to lineup
+12	2009-11-07	 Red Wings	 	 • Jason Williams	 fractured right fibula (out indefinitely)
+13	2010-01-29	 Red Wings	 • Jason Williams	 	 activated from IR

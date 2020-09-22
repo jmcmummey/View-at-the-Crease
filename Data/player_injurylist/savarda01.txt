@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-25	 Blue Jackets	 	 • David Savard	 illness (DTD)
+1	2014-02-01	 Blue Jackets	 • David Savard	 	 returned to lineup
+2	2015-12-17	 Blue Jackets	 	 • David Savard	 placed on IR with lower body injury
+3	2016-01-02	 Blue Jackets	 • David Savard	 	 activated from IR
+4	2016-01-14	 Blue Jackets	 	 • David Savard	 upper body injury (DTD)
+5	2016-01-22	 Blue Jackets	 	 • David Savard	 placed on IR with upper body injury
+6	2016-02-12	 Blue Jackets	 • David Savard	 	 activated from IR
+7	2017-01-20	 Blue Jackets	 	 • David Savard	 undisclosed injury (DTD)
+8	2017-01-26	 Blue Jackets	 • David Savard	 	 returned to lineup
+9	2017-01-31	 Blue Jackets	 	 • David Savard	 undisclosed injury (DTD)
+10	2017-02-11	 Blue Jackets	 • David Savard	 	 returned to lineup
+11	2019-12-19	 Blue Jackets	 	 • David Savard	 illness (DTD)
+12	2019-12-23	 Blue Jackets	 • David Savard	 	 returned to lineup

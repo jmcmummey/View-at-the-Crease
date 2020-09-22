@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-02-26	 Flyers	 	 • Tye McGinn	 placed on IR with fractured orbital bone
+1	2013-03-11	 Flyers	 • Tye McGinn	 	 activated from IR
+2	2013-03-13	 Flyers	 • Tye McGinn	 	 activated from IR
+3	2015-02-02	 Sharks	 	 • Tye McGinn	 placed on IR with undisclosed injury
+4	2015-02-28	 Sharks	 • Tye McGinn	 	 activated from IR

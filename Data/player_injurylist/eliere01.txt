@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-01-02	 Stars	 	 • Remi Elie	 illness (DTD)
+1	2018-01-05	 Stars	 • Remi Elie	 	 returned to lineup
+2	2018-04-07	 Stars	 	 • Remi Elie	 lower body injury (out for season)

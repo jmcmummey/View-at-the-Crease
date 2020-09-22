@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-04-24	 Coyotes	 	 • Rob Klinkhammer	 concussion (DTD)
+1	2013-04-26	 Coyotes	 • Rob Klinkhammer	 	 returned to lineup
+2	2014-11-18	 Coyotes	 	 • Rob Klinkhammer	 upper body injury (DTD)
+3	2014-11-20	 Coyotes	 • Rob Klinkhammer	 	 returned to lineup
+4	2015-02-20	 Oilers	 • Rob Klinkhammer	 	 returned to lineup
+5	2015-10-28	 Oilers	 	 • Rob Klinkhammer	 placed on IR with undisclosed injury
+6	2015-12-15	 Oilers	 • Rob Klinkhammer	 	 activated from IR
+7	2015-12-17	 Oilers	 	 • Rob Klinkhammer	 placed on IR with ankle injury
+8	2015-12-21	 Oilers	 	 • Rob Klinkhammer	 placed on IR with ankle injury (CBC)
+9	2015-12-31	 Oilers	 • Rob Klinkhammer	 	 activated from IR

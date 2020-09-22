@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-25	 Ducks	 	 • Nathan Guenin / Nate Guenin	 facial injury (out for season)
+1	2014-01-06	 Avalanche	 	 • Nathan Guenin / Nate Guenin	 ankle injury (DTD)
+2	2014-01-11	 Avalanche	 	 • Nathan Guenin / Nate Guenin	 placed on IR with ankle injury
+3	2014-01-21	 Avalanche	 • Nathan Guenin / Nate Guenin	 	 activated from IR

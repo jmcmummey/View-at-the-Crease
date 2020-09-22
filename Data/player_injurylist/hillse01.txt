@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1996-10-18	 Senators	 	 • Sean Hill	 knee injury (out indefinitely)
+1	2005-12-03	 Panthers	 	 • Sean Hill	 groin injury (DTD)
+2	2005-12-10	 Panthers	 • Sean Hill	 	 returned to lineup
+3	2007-03-15	 Islanders	 	 • Sean Hill	 groin injury (DTD)
+4	2007-03-17	 Islanders	 • Sean Hill	 	 returned to lineup
+5	2008-01-13	 Wild	 	 • Sean Hill	 sprained ankle (DTD)
+6	2008-01-14	 Wild	 	 • Sean Hill	 placed on IR with sprained ankle
+7	2008-02-09	 Wild	 • Sean Hill	 	 activated from IR

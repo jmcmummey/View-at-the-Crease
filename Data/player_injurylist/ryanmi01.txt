@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-03-02	 Sabres	 	 • Michael Ryan	 groin injury (out indefinitely)
+1	2008-04-05	 Sabres	 • Michael Ryan	 	 returned to lineup
+2	2009-09-30	 Hurricanes	 	 • Michael Ryan	 placed on IR with concussion
+3	2009-12-18	 Hurricanes	 • Michael Ryan	 	 activated from IR

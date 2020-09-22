@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-11-22	 Wild	 	 • Josh Harding	 head injury (out indefinitely)
+1	2007-11-28	 Wild	 	 • Josh Harding	 placed on IR with head injury
+2	2007-11-29	 Wild	 • Josh Harding	 	 activated from IR
+3	2008-11-18	 Wild	 	 • Josh Harding	 lower body injury (DTD)
+4	2008-11-20	 Wild	 • Josh Harding	 	 returned to lineup
+5	2009-10-27	 Wild	 	 • Josh Harding	 lower body soreness (DTD)
+6	2009-11-05	 Wild	 • Josh Harding	 	 returned to lineup
+7	2009-12-15	 Wild	 	 • Josh Harding	 illness/flu (DTD)
+8	2010-02-06	 Wild	 	 • Josh Harding	 hip injury (DTD)
+9	2010-02-14	 Wild	 • Josh Harding	 	 returned to lineup
+10	2010-03-26	 Wild	 	 • Josh Harding	 hip injury (out for season)
+11	2010-09-25	 Wild	 	 • Josh Harding	 torn ACL and MCL in right knee (out indefinitely)
+12	2010-10-06	 Wild	 	 • Josh Harding	 placed on IR with torn ACL and MCL in right knee (out for season)
+13	2011-12-07	 Wild	 	 • Josh Harding	 head injury (DTD)
+14	2011-12-14	 Wild	 	 • Josh Harding	 placed on IR with head injury
+15	2011-12-16	 Wild	 • Josh Harding	 	 activated from IR
+16	2012-02-21	 Wild	 	 • Josh Harding	 undisclosed injury (DTD)
+17	2012-02-26	 Wild	 • Josh Harding	 	 returned to lineup
+18	2012-03-08	 Wild	 	 • Josh Harding	 undisclosed injury (DTD)
+19	2013-02-12	 Wild	 	 • Josh Harding	 treatment for multiple sclerosis (DTD)
+20	2013-02-16	 Wild	 	 • Josh Harding	 placed on IR with illness
+21	2013-04-22	 Wild	 • Josh Harding	 	 activated from IR
+22	2013-10-25	 Wild	 	 • Josh Harding	 lower body injury (DTD)
+23	2013-10-28	 Wild	 • Josh Harding	 	 returned to lineup
+24	2013-11-23	 Wild	 	 • Josh Harding	 hamstring injury (DTD)
+25	2013-11-27	 Wild	 • Josh Harding	 	 returned to lineup
+26	2013-12-18	 Wild	 	 • Josh Harding	 placed on IR for treatment of multiple sclerosis
+27	2013-12-27	 Wild	 • Josh Harding	 	 activated from IR
+28	2014-01-02	 Wild	 	 • Josh Harding	 illness (out for season)
+29	2014-01-06	 Wild	 	 • Josh Harding	 placed on IR with illness (out for season)
+30	2014-10-09	 Wild	 	 • Josh Harding	 placed on IR with foot injury
+31	2014-11-17	 Wild	 • Josh Harding	 	 activated from IR

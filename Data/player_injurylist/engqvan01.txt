@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-11-16	 Canadiens	 	 • Andreas Engqvist	 lower body injury (DTD)
+1	2011-11-25	 Canadiens	 	 • Andreas Engqvist	 placed on IR with lower body injury
+2	2011-12-05	 Canadiens	 • Andreas Engqvist	 	 activated from IR

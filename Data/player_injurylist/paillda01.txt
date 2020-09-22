@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-20	 Sabres	 	 • Daniel Paille	 broken finger (DTD)
+1	2007-03-28	 Sabres	 • Daniel Paille	 	 returned to lineup
+2	2008-01-06	 Sabres	 	 • Daniel Paille	 head injury (DTD)
+3	2008-01-10	 Sabres	 • Daniel Paille	 	 returned to lineup
+4	2011-11-08	 Bruins	 	 • Daniel Paille	 broken nose, facial lacerations (DTD)
+5	2011-11-10	 Bruins	 	 • Daniel Paille	 surgery to repair facial injuries (DTD)
+6	2011-11-17	 Bruins	 • Daniel Paille	 	 returned to lineup
+7	2011-12-09	 Bruins	 	 • Daniel Paille	 concussion (DTD)
+8	2011-12-13	 Bruins	 • Daniel Paille	 	 returned to lineup
+9	2012-03-04	 Bruins	 	 • Daniel Paille	 arm injury (DTD)
+10	2012-03-13	 Bruins	 • Daniel Paille	 	 returned to lineup
+11	2013-02-02	 Bruins	 	 • Daniel Paille	 eye injury (DTD)
+12	2013-02-10	 Bruins	 • Daniel Paille	 	 returned to lineup
+13	2013-12-10	 Bruins	 	 • Daniel Paille	 concussion (DTD)
+14	2013-12-26	 Bruins	 • Daniel Paille	 	 returned to lineup
+15	2014-03-10	 Bruins	 	 • Daniel Paille	 concussion (DTD)
+16	2014-03-15	 Bruins	 • Daniel Paille	 	 returned to lineup
+17	2014-04-13	 Bruins	 	 • Daniel Paille	 concussion (out indefinitely)
+18	2014-05-01	 Bruins	 • Daniel Paille	 	 returned to lineup

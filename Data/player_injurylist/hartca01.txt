@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-02-23	 Flyers	 	 • Carter Hart	 ankle injury (DTD)
+1	2019-02-23	 Flyers	 	 • Carter Hart	 placed on IR with ankle injury
+2	2019-03-11	 Flyers	 • Carter Hart	 	 activated from IR
+3	2020-01-15	 Flyers	 	 • Carter Hart	 strained abdominal (DTD)
+4	2020-02-10	 Flyers	 • Carter Hart	 	 returned to lineup

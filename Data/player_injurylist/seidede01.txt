@@ -1,0 +1,39 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-01-10	 Flyers	 	 • Dennis Seidenberg	 leg injury (out indefinitely)
+1	2005-10-07	 Flyers	 	 • Dennis Seidenberg	 concussion (out indefinitely)
+2	2005-10-14	 Flyers	 • Dennis Seidenberg	 	 returned to lineup
+3	2005-11-22	 Flyers	 	 • Dennis Seidenberg	 broken right wrist (out 3-4 weeks)
+4	2005-12-08	 Flyers	 • Dennis Seidenberg	 	 returned to lineup
+5	2006-01-06	 Flyers	 	 • Dennis Seidenberg	 sprained left knee (DTD)
+6	2006-01-11	 Flyers	 • Dennis Seidenberg	 	 returned to lineup
+7	2007-10-13	 Hurricanes	 	 • Dennis Seidenberg	 right knee injury (DTD)
+8	2007-10-26	 Hurricanes	 • Dennis Seidenberg	 	 returned to lineup
+9	2008-01-18	 Hurricanes	 	 • Dennis Seidenberg	 ankle injury (DTD)
+10	2008-02-14	 Hurricanes	 	 • Dennis Seidenberg	 placed on IR with ankle injury
+11	2008-03-06	 Hurricanes	 • Dennis Seidenberg	 	 activated from IR
+12	2008-11-30	 Hurricanes	 	 • Dennis Seidenberg	 groin injury (DTD)
+13	2008-12-04	 Hurricanes	 	 • Dennis Seidenberg	 placed on IR with groin injury
+14	2008-12-10	 Hurricanes	 • Dennis Seidenberg	 	 activated from IR
+15	2008-12-11	 Hurricanes	 	 • Dennis Seidenberg	 groin injury (DTD)
+16	2008-12-13	 Hurricanes	 • Dennis Seidenberg	 	 returned to lineup
+17	2008-12-26	 Hurricanes	 	 • Dennis Seidenberg	 undisclosed injury (DTD)
+18	2008-12-27	 Hurricanes	 • Dennis Seidenberg	 	 returned to lineup
+19	2009-01-29	 Hurricanes	 	 • Dennis Seidenberg	 lower body injury (DTD)
+20	2009-02-07	 Hurricanes	 	 • Dennis Seidenberg	 placed on IR
+21	2009-02-13	 Hurricanes	 • Dennis Seidenberg	 	 activated from IR
+22	2010-04-05	 Bruins	 	 • Dennis Seidenberg	 left wrist injury (DTD)
+23	2012-03-29	 Bruins	 	 • Dennis Seidenberg	 leg injury (DTD)
+24	2012-04-01	 Bruins	 • Dennis Seidenberg	 	 returned to lineup
+25	2013-01-21	 Bruins	 	 • Dennis Seidenberg	 lower body injury (DTD)
+26	2013-01-25	 Bruins	 • Dennis Seidenberg	 	 returned to lineup
+27	2013-05-14	 Bruins	 	 • Dennis Seidenberg	 lower body injury (DTD)
+28	2013-05-25	 Bruins	 • Dennis Seidenberg	 	 returned to lineup
+29	2013-11-20	 Bruins	 	 • Dennis Seidenberg	 lower body injury (DTD)
+30	2013-11-29	 Bruins	 • Dennis Seidenberg	 	 returned to lineup
+31	2013-12-28	 Bruins	 	 • Dennis Seidenberg	 placed on IR with torn ACL in right knee (out for season)
+32	2013-12-28	 Bruins	 	 • Dennis Seidenberg	 surgery on right knee to repair torn ACL (out for season)
+33	2015-10-06	 Bruins	 	 • Dennis Seidenberg	 placed on IR with surgery on back
+34	2015-11-12	 Bruins	 • Dennis Seidenberg	 	 activated from IR
+35	2016-04-01	 Bruins	 	 • Dennis Seidenberg	 lower body injury (out for season)
+36	2016-11-13	 Islanders	 	 • Dennis Seidenberg	 placed on IR with fractured jaw
+37	2016-12-01	 Islanders	 • Dennis Seidenberg	 	 activated from IR

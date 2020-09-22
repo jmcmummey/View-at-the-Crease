@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-05	 Canadiens	 	 • Ryan White	 placed on IR with groin/hernia injury
+1	2012-02-06	 Canadiens	 • Ryan White	 	 activated from IR
+2	2012-04-04	 Canadiens	 	 • Ryan White	 headaches (out for season)
+3	2013-03-22	 Canadiens	 	 • Ryan White	 lower body injury (DTD)
+4	2013-03-27	 Canadiens	 	 • Ryan White	 placed on IR with lower body injury
+5	2013-04-03	 Canadiens	 • Ryan White	 	 activated from IR
+6	2013-05-07	 Canadiens	 	 • Ryan White	 upper body injury (out for season)
+7	2014-01-03	 Canadiens	 	 • Ryan White	 placed on IR with upper body injury
+8	2014-02-04	 Canadiens	 • Ryan White	 	 activated from IR
+9	2014-02-27	 Canadiens	 	 • Ryan White	 flu (DTD)
+10	2014-03-03	 Canadiens	 • Ryan White	 	 returned to lineup
+11	2014-10-06	 Flyers	 	 • Ryan White	 placed on IR with groin injury (CBS) / surgery on pectoral (CBC)
+12	2015-01-06	 Flyers	 • Ryan White	 	 activated from IR
+13	2015-11-15	 Flyers	 	 • Ryan White	 upper body injury (DTD)
+14	2015-11-17	 Flyers	 	 • Ryan White	 placed on IR with upper body injury
+15	2015-12-05	 Flyers	 • Ryan White	 	 activated from IR
+16	2016-12-23	 Coyotes	 	 • Ryan White	 lower body injury (DTD)
+17	2017-01-03	 Coyotes	 	 • Ryan White	 placed on IR with lower body injury
+18	2017-01-19	 Coyotes	 • Ryan White	 	 activated from IR
+19	2017-03-21	 Wild	 	 • Ryan White	 flu (DTD)
+20	2017-03-25	 Wild	 • Ryan White	 	 returned to lineup

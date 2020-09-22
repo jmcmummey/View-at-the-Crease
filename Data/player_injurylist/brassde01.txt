@@ -1,0 +1,37 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-09-14	 Blue Jackets	 	 • Derick Brassard	 dislocated shoulder (out indefinitely)
+1	2008-12-19	 Blue Jackets	 	 • Derick Brassard	 separated shoulder (out indefinitely)
+2	2009-11-04	 Blue Jackets	 	 • Derick Brassard	 hand injury (DTD)
+3	2009-11-05	 Blue Jackets	 • Derick Brassard	 	 returned to lineup
+4	2010-03-02	 Blue Jackets	 	 • Derick Brassard	 hand injury (DTD)
+5	2010-03-08	 Blue Jackets	 • Derick Brassard	 	 returned to lineup
+6	2011-02-17	 Blue Jackets	 	 • Derick Brassard	 placed on IR with left hand injury
+7	2011-03-09	 Blue Jackets	 • Derick Brassard	 	 activated from IR
+8	2013-02-27	 Blue Jackets	 	 • Derick Brassard	 upper body injury (DTD)
+9	2013-03-05	 Blue Jackets	 • Derick Brassard	 	 returned to lineup
+10	2013-12-11	 Rangers	 	 • Derick Brassard	 lower body injury (DTD)
+11	2013-12-15	 Rangers	 • Derick Brassard	 	 returned to lineup
+12	2014-05-18	 Rangers	 	 • Derick Brassard	 upper body injury (DTD)
+13	2014-05-25	 Rangers	 • Derick Brassard	 	 returned to lineup
+14	2014-12-14	 Rangers	 	 • Derick Brassard	 mumps (DTD)
+15	2014-12-20	 Rangers	 • Derick Brassard	 	 returned to lineup
+16	2016-01-19	 Rangers	 	 • Derick Brassard	 illness (DTD)
+17	2016-01-22	 Rangers	 • Derick Brassard	 	 returned to lineup
+18	2016-03-12	 Rangers	 	 • Derick Brassard	 flu (DTD)
+19	2016-03-13	 Rangers	 • Derick Brassard	 	 returned to lineup
+20	2017-10-03	 Senators	 	 • Derick Brassard	 placed on IR with shoulder injury
+21	2018-02-06	 Senators	 	 • Derick Brassard	 undisclosed (DTD)
+22	2018-02-09	 Senators	 • Derick Brassard	 	 returned to lineup
+23	2018-03-29	 Penguins	 	 • Derick Brassard	 lower body injury (DTD)
+24	2018-04-11	 Penguins	 • Derick Brassard	 	 returned to lineup
+25	2018-10-27	 Penguins	 	 • Derick Brassard	 lower body injury (DTD)
+26	2018-11-01	 Penguins	 	 • Derick Brassard	 placed on IR with lower body injury
+27	2018-11-17	 Penguins	 • Derick Brassard	 	 activated from IR
+28	2019-01-30	 Penguins	 	 • Derick Brassard	 upper body injury (DTD)
+29	2019-02-02	 Panthers	 • Derick Brassard	 	 returned to lineup
+30	2019-04-15	 Avalanche	 	 • Derick Brassard	 illness (DTD)
+31	2019-04-26	 Avalanche	 • Derick Brassard	 	 returned to lineup
+32	2020-02-21	 Islanders	 	 • Derick Brassard	 upper body injury (DTD)
+33	2020-02-25	 Islanders	 • Derick Brassard	 	 returned to lineup
+34	2020-09-09	 Islanders	 	 • Derick Brassard	 undisclosed (DTD)
+35	2020-09-11	 Islanders	 • Derick Brassard	 	 returned to lineup

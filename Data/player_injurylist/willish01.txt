@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-29	 Hurricanes	 	 • Shane Willis	 placed on IR with back spasms
+1	2001-01-05	 Hurricanes	 • Shane Willis	 	 activated from IR
+2	2007-10-06	 Predators	 	 • Shane Willis	 neck injury (out indefinitely)

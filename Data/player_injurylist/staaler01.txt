@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-02	 Hurricanes	 	 • Eric Staal	 upper body injury (DTD)
+1	2009-11-19	 Hurricanes	 	 • Eric Staal	 placed on IR
+2	2009-11-25	 Hurricanes	 • Eric Staal	 	 activated from IR
+3	2011-02-26	 Hurricanes	 	 • Eric Staal	 upper body injury (DTD)
+4	2011-03-01	 Hurricanes	 • Eric Staal	 	 returned to lineup
+5	2014-01-05	 Hurricanes	 	 • Eric Staal	 lower body injury (DTD)
+6	2014-01-13	 Hurricanes	 • Eric Staal	 	 returned to lineup
+7	2014-10-12	 Hurricanes	 	 • Eric Staal	 upper body injury (DTD)
+8	2014-10-22	 Hurricanes	 	 • Eric Staal	 placed on IR with upper body injury
+9	2014-10-28	 Hurricanes	 • Eric Staal	 	 activated from IR
+10	2014-12-08	 Hurricanes	 	 • Eric Staal	 foot injury (DTD)
+11	2016-04-10	 Rangers	 	 • Eric Staal	 upper body injury (DTD)
+12	2018-11-06	 Wild	 	 • Eric Staal	 illness (DTD)
+13	2018-11-08	 Wild	 • Eric Staal	 	 returned to lineup

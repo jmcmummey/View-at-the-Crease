@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-02-21	 Avalanche	 	 • Greg de Vries / Greg DeVries	 placed on IR
+1	2006-10-11	 Thrashers	 	 • Greg de Vries / Greg DeVries	 facial injury (left game)
+2	2008-03-22	 Predators	 	 • Greg de Vries / Greg DeVries	 upper body injury (DTD)
+3	2008-04-01	 Predators	 • Greg de Vries / Greg DeVries	 	 returned to lineup
+4	2009-01-08	 Predators	 	 • Greg de Vries / Greg DeVries	 illness (DTD)
+5	2009-01-14	 Predators	 	 • Greg de Vries / Greg DeVries	 placed on IR with illness
+6	2009-02-03	 Predators	 • Greg de Vries / Greg DeVries	 	 activated from IR

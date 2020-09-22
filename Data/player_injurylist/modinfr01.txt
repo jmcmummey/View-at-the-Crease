@@ -1,0 +1,53 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-02-15	 Maple Leafs	 	 • Fredrik Modin / Freddy Modin	 placed on IR with broken collar bone
+1	2002-02-04	 Lightning	 	 • Fredrik Modin / Freddy Modin	 placed on IR with brused wrist
+2	2005-11-30	 Lightning	 	 • Fredrik Modin / Freddy Modin	 back spasms (left game)
+3	2005-12-01	 Lightning	 	 • Fredrik Modin / Freddy Modin	 back spasms (DTD)
+4	2006-01-03	 Lightning	 	 • Fredrik Modin / Freddy Modin	 lower body injury (DTD)
+5	2006-01-07	 Lightning	 • Fredrik Modin / Freddy Modin	 	 returned to lineup
+6	2006-03-27	 Lightning	 	 • Fredrik Modin / Freddy Modin	 lower body injury (DTD)
+7	2006-04-03	 Lightning	 • Fredrik Modin / Freddy Modin	 	 returned to lineup
+8	2006-11-28	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 lower body injury (DTD)
+9	2006-12-05	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 returned to lineup
+10	2007-10-02	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 placed on IR with back injury
+11	2007-10-17	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 groin injury (DTD)
+12	2007-10-31	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 returned to lineup
+13	2007-11-01	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 shoulder injury (out indefinitely)
+14	2007-11-06	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 back spasms (out indefinitely)
+15	2007-11-11	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 placed on IR with back spasms
+16	2008-01-19	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 activated from IR
+17	2008-01-31	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 hamstring injury (DTD)
+18	2008-02-04	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 placed on IR with hamstring injury
+19	2008-02-13	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 activated from IR
+20	2008-03-04	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 groin injury (DTD)
+21	2008-03-14	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 returned to lineup
+22	2008-03-18	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 flu (DTD)
+23	2008-03-19	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 returned to lineup
+24	2008-03-25	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 head injury (DTD)
+25	2008-10-21	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 placed on IR with hip/groin injury
+26	2008-11-03	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 activated from IR
+27	2009-01-27	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 upper body injury (DTD)
+28	2009-01-30	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 returned to lineup
+29	2009-02-16	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 left knee injury (DTD)
+30	2009-02-17	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 placed on IR with left knee injury
+31	2009-03-05	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 activated from IR
+32	2009-03-06	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 left knee injury (DTD)
+33	2009-04-12	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 left knee injury (DTD)
+34	2009-04-16	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 returned to lineup
+35	2009-09-19	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 sprained MCL in right knee (out indefinitely)
+36	2009-09-29	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 placed on IR with sprained MCL in right knee
+37	2009-12-12	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 activated from IR
+38	2010-01-08	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 undisclosed (DTD)
+39	2010-01-18	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 placed on IR
+40	2010-01-19	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 activated from IR
+41	2010-02-06	 Blue Jackets	 	 • Fredrik Modin / Freddy Modin	 bruised left foot (DTD)
+42	2010-02-14	 Blue Jackets	 • Fredrik Modin / Freddy Modin	 	 returned to lineup
+43	2010-11-14	 Thrashers	 	 • Fredrik Modin / Freddy Modin	 upper body injury (DTD)
+44	2010-12-11	 Thrashers	 • Fredrik Modin / Freddy Modin	 	 returned to lineup
+45	2011-01-14	 Thrashers	 	 • Fredrik Modin / Freddy Modin	 lower body injury (DTD)
+46	2011-01-20	 Thrashers	 	 • Fredrik Modin / Freddy Modin	 placed on IR with lower body injury
+47	2011-01-23	 Thrashers	 • Fredrik Modin / Freddy Modin	 	 activated from IR
+48	2011-02-11	 Thrashers	 	 • Fredrik Modin / Freddy Modin	 upper body injury (DTD)
+49	2011-02-17	 Thrashers	 	 • Fredrik Modin / Freddy Modin	 placed on IR with upper body injury
+50	2011-02-25	 Thrashers	 • Fredrik Modin / Freddy Modin	 	 activated from IR
+51	2011-03-21	 Flames	 	 • Fredrik Modin / Freddy Modin	 placed on IR with back injury (out for season)

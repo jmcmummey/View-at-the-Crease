@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-03	 Oilers	 	 • Connor McDavid	 fractured left clavicle (DTD)
+1	2015-11-06	 Oilers	 	 • Connor McDavid	 placed on IR with fractured left clavicle
+2	2016-02-02	 Oilers	 • Connor McDavid	 	 activated from IR
+3	2018-12-03	 Oilers	 	 • Connor McDavid	 illness (DTD)
+4	2018-12-05	 Oilers	 • Connor McDavid	 	 returned to lineup
+5	2019-02-19	 Oilers	 	 • Connor McDavid	 illness (DTD)
+6	2019-02-21	 Oilers	 • Connor McDavid	 	 returned to lineup
+7	2020-02-11	 Oilers	 	 • Connor McDavid	 quadriceps injury (DTD)
+8	2020-02-14	 Oilers	 	 • Connor McDavid	 placed on IR with quadriceps injury
+9	2020-02-23	 Oilers	 • Connor McDavid	 	 activated from IR
+10	2020-03-09	 Oilers	 	 • Connor McDavid	 illness (DTD)
+11	2020-03-11	 Oilers	 • Connor McDavid	 	 returned to lineup

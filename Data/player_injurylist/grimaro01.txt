@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-06	 Panthers	 	 • Rocco Grimaldi	 placed on IR with ankle injury
+1	2015-10-12	 Panthers	 • Rocco Grimaldi	 	 activated from IR
+2	2017-11-04	 Avalanche	 	 • Rocco Grimaldi	 illness (DTD)
+3	2017-11-05	 Avalanche	 • Rocco Grimaldi	 	 returned to lineup
+4	2019-03-27	 Predators	 	 • Rocco Grimaldi	 upper body injury (DTD)
+5	2019-04-13	 Predators	 • Rocco Grimaldi	 	 returned to lineup
+6	2019-10-10	 Predators	 	 • Rocco Grimaldi	 lower body injury (DTD)
+7	2019-10-15	 Predators	 • Rocco Grimaldi	 	 returned to lineup

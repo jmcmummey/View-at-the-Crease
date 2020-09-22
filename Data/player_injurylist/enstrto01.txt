@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-23	 Thrashers	 	 • Tobias Enstrom / Toby Enstrom	 hand injury (DTD)
+1	2011-02-03	 Thrashers	 	 • Tobias Enstrom / Toby Enstrom	 placed on IR with hand injury / fractured finger
+2	2011-02-11	 Thrashers	 • Tobias Enstrom / Toby Enstrom	 	 activated from IR
+3	2011-04-03	 Thrashers	 	 • Tobias Enstrom / Toby Enstrom	 shoulder injury (out for season)
+4	2011-11-02	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 broken collarbone (out indefinitely)
+5	2011-11-05	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 placed on IR with broken collarbone
+6	2011-12-17	 Jets	 • Tobias Enstrom / Toby Enstrom	 	 activated from IR
+7	2013-02-16	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 placed on IR with right shoulder injury
+8	2013-03-24	 Jets	 • Tobias Enstrom / Toby Enstrom	 	 activated from IR
+9	2013-04-10	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 back injury (out for season)
+10	2014-11-25	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 lower body injury (DTD)
+11	2014-12-02	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 placed on IR with lower body injury
+12	2015-01-10	 Jets	 • Tobias Enstrom / Toby Enstrom	 	 activated from IR
+13	2015-04-06	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 upper body injury (DTD)
+14	2015-04-10	 Jets	 • Tobias Enstrom / Toby Enstrom	 	 returned to lineup
+15	2016-03-22	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 knee injury (DTD)
+16	2016-04-09	 Jets	 • Tobias Enstrom / Toby Enstrom	 	 returned to lineup
+17	2016-11-30	 Jets	 • Tobias Enstrom / Toby Enstrom	 	 activated from IR
+18	2017-02-13	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 placed on IR with lower body injury
+19	2017-02-17	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 placed on IR with lower body injury
+20	2017-02-28	 Jets	 • Tobias Enstrom / Toby Enstrom	 	 activated from IR
+21	2017-03-09	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 concussion (DTD)
+22	2017-03-30	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 surgery on knee (out for season)
+23	2017-11-19	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 placed on IR with lower body injury
+24	2018-01-06	 Jets	 • Tobias Enstrom / Toby Enstrom	 	 activated from IR
+25	2018-02-27	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 lower body injury (DTD)
+26	2018-03-08	 Jets	 • Tobias Enstrom / Toby Enstrom	 	 returned to lineup
+27	2018-03-10	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 undisclosed (DTD)
+28	2018-03-18	 Jets	 • Tobias Enstrom / Toby Enstrom	 	 returned to lineup
+29	2018-03-24	 Jets	 	 • Tobias Enstrom / Toby Enstrom	 lower body injury (out indefinitely)
+30	2018-04-27	 Jets	 • Tobias Enstrom / Toby Enstrom	 	 returned to lineup

@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-23	 Senators	 	 • Wade Redden	 knee injury (out indefinitely)
+1	2005-12-17	 Senators	 • Wade Redden	 	 returned to lineup
+2	2006-10-28	 Senators	 	 • Wade Redden	 groin injury (DTD)
+3	2006-11-08	 Senators	 • Wade Redden	 	 returned to lineup
+4	2006-11-13	 Senators	 	 • Wade Redden	 groin injury (DTD)
+5	2006-11-20	 Senators	 • Wade Redden	 	 returned to lineup
+6	2006-12-01	 Senators	 	 • Wade Redden	 shoulder injury (chest injury per CBC) (DTD)
+7	2006-12-21	 Senators	 • Wade Redden	 	 returned to lineup
+8	2007-03-27	 Senators	 	 • Wade Redden	 lower body injury (DTD)
+9	2007-03-30	 Senators	 • Wade Redden	 	 returned to lineup
+10	2008-03-25	 Senators	 	 • Wade Redden	 hip injury (DTD)
+11	2008-03-29	 Senators	 • Wade Redden	 	 returned to lineup
+12	2008-12-04	 Rangers	 	 • Wade Redden	 right leg injury (DTD)
+13	2008-12-10	 Rangers	 • Wade Redden	 	 returned to lineup
+14	2009-11-26	 Rangers	 	 • Wade Redden	 right shoulder injury (DTD)
+15	2009-12-09	 Rangers	 • Wade Redden	 	 returned to lineup
+16	2013-01-31	 Rangers	 	 • Wade Redden	 flu (DTD)
+17	2013-02-01	 Blues	 • Wade Redden	 	 returned to lineup
+18	2013-05-10	 Bruins	 	 • Wade Redden	 undisclosed (DTD)
+19	2013-05-12	 Bruins	 • Wade Redden	 	 returned to lineup
+20	2013-05-13	 Bruins	 	 • Wade Redden	 undisclosed (DTD)
+21	2013-06-01	 Bruins	 • Wade Redden	 	 returned to lineup

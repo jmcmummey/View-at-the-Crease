@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-11-07	 Maple Leafs	 	 • Nikolai Borschevsky	 bruised buttocks (DTD)
+1	1992-12-31	 Maple Leafs	 	 • Nikolai Borschevsky	 strained neck (DTD)
+2	1993-03-09	 Maple Leafs	 	 • Nikolai Borschevsky	 strained back (DTD)
+3	1993-04-19	 Maple Leafs	 	 • Nikolai Borschevsky	 broken orbital bone (DTD)
+4	1993-11-03	 Maple Leafs	 	 • Nikolai Borschevsky	 ruptured spleen (out indefinitely)
+5	1994-02-28	 Maple Leafs	 	 • Nikolai Borschevsky	 separated shoulder (out indefinitely)
+6	1995-04-20	 Flames	 	 • Nikolai Borschevsky	 broken ribs (out for season)

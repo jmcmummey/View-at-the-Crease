@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-02-16	 Oilers	 	 • Brad Isbister	 placed on IR
+1	2005-10-25	 Bruins	 	 • Brad Isbister	 strained groin (DTD)
+2	2005-11-01	 Bruins	 • Brad Isbister	 	 returned to lineup
+3	2005-11-03	 Bruins	 	 • Brad Isbister	 groin injury (DTD)
+4	2005-11-12	 Bruins	 • Brad Isbister	 	 returned to lineup
+5	2006-01-28	 Bruins	 	 • Brad Isbister	 sprained left ankle (out indefinitely)
+6	2006-03-18	 Bruins	 • Brad Isbister	 	 returned to lineup
+7	2007-12-12	 Canucks	 	 • Brad Isbister	 hamstring injury (out indefinitely)
+8	2007-12-22	 Canucks	 • Brad Isbister	 	 returned to lineup

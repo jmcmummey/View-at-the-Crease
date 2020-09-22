@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-06	 Kings	 	 • Richard Clune / Rich Clune	 placed on IR with chest injury
+1	2008-11-19	 Kings	 • Richard Clune / Rich Clune	 	 activated from IR
+2	2009-09-30	 Kings	 	 • Richard Clune / Rich Clune	 placed on IR with pulled groin
+3	2009-10-09	 Kings	 • Richard Clune / Rich Clune	 	 activated from IR

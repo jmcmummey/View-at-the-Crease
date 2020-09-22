@@ -1,0 +1,34 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-18	 Oilers	 	 • Sam Gagner	 undisclosed injury (DTD)
+1	2008-10-22	 Oilers	 • Sam Gagner	 	 returned to lineup
+2	2008-12-05	 Oilers	 	 • Sam Gagner	 concussion (DTD)
+3	2008-12-11	 Oilers	 • Sam Gagner	 	 returned to lineup
+4	2009-01-27	 Oilers	 	 • Sam Gagner	 ankle injury (DTD)
+5	2009-02-03	 Oilers	 • Sam Gagner	 	 returned to lineup
+6	2009-11-16	 Oilers	 	 • Sam Gagner	 lower body injury (DTD)
+7	2009-11-18	 Oilers	 • Sam Gagner	 	 returned to lineup
+8	2010-02-07	 Oilers	 	 • Sam Gagner	 left knee injury (DTD)
+9	2010-03-02	 Oilers	 • Sam Gagner	 	 returned to lineup
+10	2010-03-26	 Oilers	 	 • Sam Gagner	 hip injury (out for season)
+11	2011-03-10	 Oilers	 	 • Sam Gagner	 placed on IR with surgery on hand (out for season)
+12	2011-10-02	 Oilers	 	 • Sam Gagner	 placed on IR with sprained left ankle
+13	2011-10-22	 Oilers	 • Sam Gagner	 	 activated from IR
+14	2011-11-17	 Oilers	 	 • Sam Gagner	 back injury (DTD)
+15	2011-11-19	 Oilers	 • Sam Gagner	 	 returned to lineup
+16	2013-09-22	 Oilers	 	 • Sam Gagner	 fractured jaw (DTD)
+17	2013-09-30	 Oilers	 	 • Sam Gagner	 placed on IR with fractured jaw
+18	2013-10-29	 Oilers	 • Sam Gagner	 	 activated from IR
+19	2014-03-14	 Oilers	 	 • Sam Gagner	 ankle injury (DTD)
+20	2014-03-16	 Oilers	 • Sam Gagner	 	 returned to lineup
+21	2015-11-24	 Flyers	 	 • Sam Gagner	 upper body injury (DTD)
+22	2015-12-08	 Flyers	 	 • Sam Gagner	 placed on IR with upper body injury
+23	2015-12-19	 Flyers	 • Sam Gagner	 	 activated from IR
+24	2015-12-21	 Flyers	 	 • Sam Gagner	 upper body injury (DTD)
+25	2015-12-30	 Flyers	 • Sam Gagner	 	 returned to lineup
+26	2018-02-02	 Canucks	 	 • Sam Gagner	 concussion (out indefinitely)
+27	2018-02-06	 Canucks	 • Sam Gagner	 	 returned to lineup
+28	2018-02-08	 Canucks	 	 • Sam Gagner	 placed on IR with sprained ankle
+29	2018-02-23	 Canucks	 • Sam Gagner	 	 activated from IR
+30	2020-02-16	 Oilers	 	 • Sam Gagner	 undisclosed (DTD)
+31	2020-02-19	 Oilers	 • Sam Gagner	 	 returned to lineup
+32	2020-03-11	 Red Wings	 	 • Sam Gagner	 undisclosed (DTD)

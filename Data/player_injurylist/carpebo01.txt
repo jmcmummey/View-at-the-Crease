@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-10-01	 Bruins	 	 • Bob Carpenter / Bobby Carpenter	 left knee injury (date approximate)
+1	1990-12-08	 Bruins	 	 • Bob Carpenter / Bobby Carpenter	 fractured left kneecap (out for season)
+2	1990-12-11	 Bruins	 	 • Bob Carpenter / Bobby Carpenter	 surgery on left knee to repair fractured kneecap (out for season)
+3	1991-04-05	 Bruins	 	 • Bob Carpenter / Bobby Carpenter	 left wrist injury and stiff knee
+4	1992-03-19	 Bruins	 	 • Bob Carpenter / Bobby Carpenter	 strained calf
+5	1995-02-11	 Devils	 	 • Bob Carpenter / Bobby Carpenter	 sprained ankle (DTD)
+6	1995-04-20	 Devils	 	 • Bob Carpenter / Bobby Carpenter	 charley horse (out for season)
+7	1995-09-28	 Devils	 	 • Bob Carpenter / Bobby Carpenter	 lacerated leg (DTD)
+8	1995-10-14	 Devils	 	 • Bob Carpenter / Bobby Carpenter	 reinjured lacerated leg (DTD)
+9	1995-10-31	 Devils	 	 • Bob Carpenter / Bobby Carpenter	 reinjured lacerated leg (out indefinitely)
+10	1995-12-06	 Devils	 	 • Bob Carpenter / Bobby Carpenter	 flu (DTD)
+11	1996-03-02	 Devils	 	 • Bob Carpenter / Bobby Carpenter	 bruised arm (DTD)

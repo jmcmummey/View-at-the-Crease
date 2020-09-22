@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-12-27	 Thrashers	 	 • Serge Aubin	 placed on IR
+1	2004-01-14	 Thrashers	 • Serge Aubin	 	 activated from IR
+2	2004-01-16	 Thrashers	 	 • Serge Aubin	 placed on IR
+3	2004-01-28	 Thrashers	 • Serge Aubin	 	 activated from IR
+4	2005-12-22	 Thrashers	 	 • Serge Aubin	 flu (DTD)
+5	2005-12-23	 Thrashers	 • Serge Aubin	 	 returned to lineup
+6	2006-03-20	 Thrashers	 	 • Serge Aubin	 knee injury (out until early Apr)
+7	2006-04-01	 Thrashers	 • Serge Aubin	 	 returned to lineup

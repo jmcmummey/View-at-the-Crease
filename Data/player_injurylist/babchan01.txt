@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-07	 Hurricanes	 	 • Anton Babchuk	 right arm injury (DTD)
+1	2008-12-10	 Hurricanes	 	 • Anton Babchuk	 placed on IR with right arm injury
+2	2008-12-18	 Hurricanes	 • Anton Babchuk	 	 activated from IR
+3	2011-11-09	 Flames	 	 • Anton Babchuk	 placed on IR with hand injury
+4	2011-12-29	 Flames	 • Anton Babchuk	 	 activated from IR
+5	2013-01-18	 Flames	 	 • Anton Babchuk	 placed on IR with shoulder injury
+6	2013-02-08	 Flames	 • Anton Babchuk	 	 activated from IR

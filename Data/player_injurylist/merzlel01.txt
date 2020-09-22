@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-02-25	 Blue Jackets	 	 • Elvis Merzlikins	 concussion (DTD)
+1	2020-03-07	 Blue Jackets	 • Elvis Merzlikins	 	 returned to lineup
+2	2020-08-09	 Blue Jackets	 	 • Elvis Merzlikins	 undisclosed (out for season)

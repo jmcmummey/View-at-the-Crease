@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-29	 Bruins	 	 • Par Lindholm	 upper body injury (DTD)
+1	2019-11-05	 Bruins	 	 • Par Lindholm	 placed on IR with upper body injury
+2	2019-11-10	 Bruins	 • Par Lindholm	 	 activated from IR
+3	2019-11-23	 Bruins	 	 • Par Lindholm	 lacerated leg (DTD)
+4	2019-11-26	 Bruins	 • Par Lindholm	 	 returned to lineup

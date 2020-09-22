@@ -1,0 +1,57 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-12	 Senators	 	 • Jason Spezza	 hip flexor injury (DTD)
+1	2005-12-15	 Senators	 • Jason Spezza	 	 returned to lineup
+2	2005-12-20	 Senators	 	 • Jason Spezza	 chest injury (left game)
+3	2005-12-21	 Senators	 	 • Jason Spezza	 chest injury (DTD)
+4	2006-01-02	 Senators	 • Jason Spezza	 	 returned to lineup
+5	2006-01-04	 Senators	 	 • Jason Spezza	 chest injury (DTD)
+6	2006-01-19	 Senators	 • Jason Spezza	 	 returned to lineup
+7	2006-02-08	 Senators	 	 • Jason Spezza	 head injury (left game)
+8	2006-03-21	 Senators	 	 • Jason Spezza	 hip injury (DTD)
+9	2006-03-24	 Senators	 • Jason Spezza	 	 returned to lineup
+10	2006-12-22	 Senators	 	 • Jason Spezza	 left knee injury (out 4-6 weeks)
+11	2007-01-27	 Senators	 • Jason Spezza	 	 returned to lineup
+12	2007-03-06	 Senators	 	 • Jason Spezza	 back injury (DTD)
+13	2007-03-08	 Senators	 • Jason Spezza	 	 returned to lineup
+14	2007-10-31	 Senators	 	 • Jason Spezza	 groin injury (DTD)
+15	2007-11-15	 Senators	 • Jason Spezza	 	 returned to lineup
+16	2008-01-13	 Senators	 	 • Jason Spezza	 undisclosed injury (left game)
+17	2009-10-29	 Senators	 	 • Jason Spezza	 upper body injury (DTD)
+18	2009-11-05	 Senators	 • Jason Spezza	 	 returned to lineup
+19	2009-12-15	 Senators	 	 • Jason Spezza	 torn MCL in right knee (DTD)
+20	2009-12-17	 Senators	 	 • Jason Spezza	 placed on IR with torn MCL in right knee
+21	2010-01-23	 Senators	 • Jason Spezza	 	 activated from IR
+22	2010-10-08	 Senators	 	 • Jason Spezza	 groin injury (DTD)
+23	2010-10-09	 Senators	 • Jason Spezza	 	 returned to lineup
+24	2010-10-22	 Senators	 	 • Jason Spezza	 groin injury (DTD)
+25	2010-10-30	 Senators	 • Jason Spezza	 	 returned to lineup
+26	2010-12-27	 Senators	 	 • Jason Spezza	 placed on IR with right shoulder injury
+27	2011-02-05	 Senators	 • Jason Spezza	 	 activated from IR
+28	2012-03-20	 Senators	 	 • Jason Spezza	 flu (DTD) (CBC)
+29	2012-03-23	 Senators	 • Jason Spezza	 	 returned to lineup
+30	2013-01-29	 Senators	 	 • Jason Spezza	 upper body injury (DTD)
+31	2013-02-01	 Senators	 	 • Jason Spezza	 placed on IR with back injury
+32	2013-05-19	 Senators	 • Jason Spezza	 	 activated from IR
+33	2013-10-09	 Senators	 	 • Jason Spezza	 strained groin (DTD)
+34	2013-10-12	 Senators	 • Jason Spezza	 	 returned to lineup
+35	2013-12-28	 Senators	 	 • Jason Spezza	 lower body injury (DTD)
+36	2014-01-02	 Senators	 	 • Jason Spezza	 placed on IR with lower body injury
+37	2014-01-08	 Senators	 • Jason Spezza	 	 activated from IR
+38	2014-03-31	 Senators	 	 • Jason Spezza	 lower body injury (DTD)
+39	2014-04-04	 Senators	 • Jason Spezza	 	 returned to lineup
+40	2016-02-05	 Stars	 	 • Jason Spezza	 placed on IR with upper body injury
+41	2016-02-18	 Stars	 • Jason Spezza	 	 activated from IR
+42	2016-04-07	 Stars	 	 • Jason Spezza	 illness (DTD)
+43	2016-04-08	 Stars	 • Jason Spezza	 	 returned to lineup
+44	2016-10-24	 Stars	 	 • Jason Spezza	 lower body injury (DTD)
+45	2016-10-29	 Stars	 • Jason Spezza	 	 returned to lineup
+46	2016-11-06	 Stars	 	 • Jason Spezza	 lower body injury (DTD)
+47	2016-11-15	 Stars	 • Jason Spezza	 	 returned to lineup
+48	2017-02-03	 Stars	 	 • Jason Spezza	 placed on IR with upper body injury
+49	2017-02-14	 Stars	 • Jason Spezza	 	 activated from IR
+50	2017-03-20	 Stars	 	 • Jason Spezza	 back injury (DTD)
+51	2017-03-24	 Stars	 • Jason Spezza	 	 returned to lineup
+52	2018-03-20	 Stars	 	 • Jason Spezza	 back injury (DTD)
+53	2018-03-27	 Stars	 • Jason Spezza	 	 returned to lineup
+54	2018-12-18	 Stars	 	 • Jason Spezza	 illness (DTD)
+55	2018-12-21	 Stars	 • Jason Spezza	 	 returned to lineup

@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-01-22	 Stars	 	 • Tom Wandell	 lower body injury (DTD)
+1	2010-01-28	 Stars	 	 • Tom Wandell	 placed on IR recovering from surgery on left knee (out for season)
+2	2010-12-26	 Stars	 	 • Tom Wandell	 illness (DTD)
+3	2010-12-29	 Stars	 • Tom Wandell	 	 returned to lineup
+4	2011-01-25	 Stars	 	 • Tom Wandell	 shoulder injury (DTD)
+5	2011-02-02	 Stars	 	 • Tom Wandell	 placed on IR with shoulder injury
+6	2011-02-09	 Stars	 • Tom Wandell	 	 activated from IR
+7	2012-03-30	 Stars	 	 • Tom Wandell	 illness (DTD)
+8	2012-04-05	 Stars	 • Tom Wandell	 	 returned to lineup

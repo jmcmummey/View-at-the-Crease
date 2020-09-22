@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-12-13	 Ducks	 	 • Mike Brown (S.)	 upper body injury (DTD)
+1	2010-11-26	 Maple Leafs	 	 • Mike Brown (S.)	 groin injury (DTD)
+2	2010-11-27	 Maple Leafs	 • Mike Brown (S.)	 	 rerturned to lineup
+3	2010-12-01	 Maple Leafs	 	 • Mike Brown (S.)	 placed on IR with broken finger
+4	2011-01-13	 Maple Leafs	 • Mike Brown (S.)	 	 activated from IR
+5	2011-02-02	 Maple Leafs	 	 • Mike Brown (S.)	 placed on IR with upper body injury
+6	2011-02-03	 Maple Leafs	 	 • Mike Brown (S.)	 placed on IR with upper body injury
+7	2011-02-22	 Maple Leafs	 • Mike Brown (S.)	 	 activated from IR
+8	2011-11-17	 Maple Leafs	 	 • Mike Brown (S.)	 undisclosed (DTD)
+9	2011-11-25	 Maple Leafs	 	 • Mike Brown (S.)	 placed on IR with lower body injury
+10	2012-01-07	 Maple Leafs	 • Mike Brown (S.)	 	 activated from IR
+11	2012-03-06	 Maple Leafs	 	 • Mike Brown (S.)	 hand injury (DTD)
+12	2012-03-07	 Maple Leafs	 • Mike Brown (S.)	 	 returned to lineup
+13	2012-03-10	 Maple Leafs	 	 • Mike Brown (S.)	 bruised thigh (DTD)
+14	2012-03-27	 Maple Leafs	 • Mike Brown (S.)	 	 returned to lineup
+15	2013-01-30	 Maple Leafs	 	 • Mike Brown (S.)	 placed on IR with shoulder injury
+16	2013-02-14	 Maple Leafs	 • Mike Brown (S.)	 	 activated from IR
+17	2013-02-14	 Maple Leafs	 	 • Mike Brown (S.)	 shoulder injury (DTD)
+18	2013-02-16	 Maple Leafs	 • Mike Brown (S.)	 	 returned to lineup
+19	2013-12-05	 Sharks	 	 • Mike Brown (S.)	 placed on IR with lower body injury (date 12-08 per T)
+20	2013-12-17	 Sharks	 • Mike Brown (S.)	 	 activated from IR
+21	2014-01-16	 Sharks	 	 • Mike Brown (S.)	 stiff neck (DTD)
+22	2014-01-23	 Sharks	 • Mike Brown (S.)	 	 returned to lineup
+23	2014-10-14	 Sharks	 	 • Mike Brown (S.)	 bruised hand (DTD)
+24	2014-10-18	 Sharks	 	 • Mike Brown (S.)	 placed on IR with bruised hand
+25	2014-11-29	 Sharks	 • Mike Brown (S.)	 	 activated from IR
+26	2014-12-10	 Sharks	 	 • Mike Brown (S.)	 placed on IR with lower body injury
+27	2015-04-01	 Sharks	 • Mike Brown (S.)	 	 activated from IR

@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-14	 Blue Jackets	 	 • Dalton Prout	 back spasms (DTD)
+1	2013-11-22	 Blue Jackets	 	 • Dalton Prout	 placed on IR with back injury
+2	2013-11-25	 Blue Jackets	 • Dalton Prout	 	 activated from IR
+3	2013-12-17	 Blue Jackets	 	 • Dalton Prout	 placed on IR with upper body injury
+4	2014-01-02	 Blue Jackets	 • Dalton Prout	 	 activated from IR
+5	2015-02-09	 Blue Jackets	 	 • Dalton Prout	 upper body injury (DTD)
+6	2015-02-28	 Blue Jackets	 • Dalton Prout	 	 returned to lineup
+7	2016-11-18	 Blue Jackets	 	 • Dalton Prout	 back spasms (DTD)
+8	2016-12-23	 Blue Jackets	 • Dalton Prout	 	 returned to lineup
+9	2019-10-04	 Sharks	 	 • Dalton Prout	 placed on IR with upper body injury
+10	2019-11-09	 Sharks	 • Dalton Prout	 	 activated from IR
+11	2019-11-16	 Sharks	 	 • Dalton Prout	 upper body injury (DTD)
+12	2019-11-23	 Sharks	 	 • Dalton Prout	 placed on IR with upper body injury

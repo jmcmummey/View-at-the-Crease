@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-04-27	 Predators	 	 • Kevin Fiala	 fractured femur in left leg (out for season)
+1	2017-10-07	 Predators	 	 • Kevin Fiala	 upper body injury (DTD)
+2	2017-10-10	 Predators	 • Kevin Fiala	 	 returned to lineup
+3	2019-10-22	 Wild	 	 • Kevin Fiala	 lower body injury (DTD)
+4	2019-10-23	 Wild	 	 • Kevin Fiala	 placed on IR with lower body injury
+5	2019-10-29	 Wild	 • Kevin Fiala	 	 activated from IR

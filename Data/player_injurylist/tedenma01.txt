@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-12-23	 Devils	 	 • Mattias Tedenby	 food poisoning (DTD)
+1	2010-12-26	 Devils	 • Mattias Tedenby	 	 returned to lineup
+2	2011-01-08	 Devils	 	 • Mattias Tedenby	 undisclosed (DTD)
+3	2013-09-30	 Devils	 	 • Mattias Tedenby	 placed on IR with lower body injury (CBC)
+4	2013-10-16	 Devils	 • Mattias Tedenby	 	 activated from IR

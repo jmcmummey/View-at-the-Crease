@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-20	 Kings	 	 • Sean Avery	 sprained ankle (DTD)
+1	2005-10-22	 Kings	 • Sean Avery	 	 returned to lineup
+2	2007-10-06	 Rangers	 	 • Sean Avery	 right shoulder injury (left game)
+3	2007-10-07	 Rangers	 	 • Sean Avery	 placed on IR with separated right shoulder (out 3-4 weeks)
+4	2007-11-03	 Rangers	 • Sean Avery	 	 activated from IR
+5	2007-11-28	 Rangers	 	 • Sean Avery	 surgery on wrist (out indefinitely)
+6	2007-12-23	 Rangers	 • Sean Avery	 	 returned to lineup
+7	2008-01-08	 Rangers	 	 • Sean Avery	 placed on IR with bruised hand
+8	2008-01-16	 Rangers	 • Sean Avery	 	 activated from IR
+9	2008-04-30	 Rangers	 	 • Sean Avery	 lacerated spleen (out indefinitely)
+10	2009-09-29	 Rangers	 	 • Sean Avery	 sprained right knee (DTD)
+11	2009-10-11	 Rangers	 • Sean Avery	 	 returned to lineup
+12	2009-10-30	 Rangers	 	 • Sean Avery	 knee injury (DTD)
+13	2009-11-01	 Rangers	 • Sean Avery	 	 returned to lineup
+14	2010-03-28	 Rangers	 	 • Sean Avery	 knee injury (out for season)

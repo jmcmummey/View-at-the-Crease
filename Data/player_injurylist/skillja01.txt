@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-02-24	 Panthers	 	 • Jack Skille	 high ankle sprain (DTD)
+1	2011-02-27	 Panthers	 	 • Jack Skille	 placed on IR with high ankle sprain
+2	2011-03-22	 Panthers	 • Jack Skille	 	 activated from IR
+3	2011-03-29	 Panthers	 	 • Jack Skille	 ankle injury (DTD)
+4	2011-04-02	 Panthers	 • Jack Skille	 	 returned to lineup
+5	2011-11-15	 Panthers	 	 • Jack Skille	 lower body injury (DTD)
+6	2011-11-17	 Panthers	 • Jack Skille	 	 returned to lineup
+7	2011-12-17	 Panthers	 	 • Jack Skille	 placed on IR with separated shoulder
+8	2012-01-20	 Panthers	 • Jack Skille	 	 activated from IR
+9	2012-01-24	 Panthers	 	 • Jack Skille	 shoulder injury (DTD)
+10	2012-02-03	 Panthers	 	 • Jack Skille	 placed on IR with shoulder injury
+11	2012-02-12	 Panthers	 • Jack Skille	 	 activated from IR
+12	2012-03-10	 Panthers	 	 • Jack Skille	 shoulder injury (out for season)
+13	2013-03-24	 Panthers	 	 • Jack Skille	 upper body injury (DTD)
+14	2013-03-26	 Panthers	 	 • Jack Skille	 placed on IR with upper body injury
+15	2013-04-05	 Panthers	 • Jack Skille	 	 activated from IR
+16	2013-12-21	 Blue Jackets	 	 • Jack Skille	 wrist injury (DTD)
+17	2013-12-23	 Blue Jackets	 • Jack Skille	 	 returned to lineup
+18	2014-01-01	 Blue Jackets	 	 • Jack Skille	 upper body injury (DTD)
+19	2014-01-03	 Blue Jackets	 	 • Jack Skille	 placed on IR with upper body injury
+20	2014-01-22	 Blue Jackets	 • Jack Skille	 	 activated from IR
+21	2014-11-11	 Blue Jackets	 	 • Jack Skille	 upper body injury (DTD)
+22	2014-11-21	 Blue Jackets	 • Jack Skille	 	 returned to lineup
+23	2015-01-10	 Blue Jackets	 	 • Jack Skille	 lower body injury (DTD)
+24	2015-01-15	 Blue Jackets	 	 • Jack Skille	 placed on IR with lower body injury
+25	2015-01-19	 Blue Jackets	 • Jack Skille	 	 activated from IR
+26	2015-02-25	 Blue Jackets	 	 • Jack Skille	 placed on IR with surgery on shoulder (out for season)
+27	2016-02-06	 Avalanche	 	 • Jack Skille	 placed on IR with concussion
+28	2016-02-09	 Avalanche	 	 • Jack Skille	 placed on IR with concussion (CBC)
+29	2016-02-17	 Avalanche	 • Jack Skille	 	 activated from IR
+30	2016-11-23	 Canucks	 	 • Jack Skille	 upper body injury (DTD)
+31	2016-11-25	 Canucks	 • Jack Skille	 	 returned to lineup
+32	2017-02-24	 Canucks	 	 • Jack Skille	 placed on IR with undisclosed injury
+33	2017-03-21	 Canucks	 • Jack Skille	 	 activated from IR
+34	2017-03-26	 Canucks	 	 • Jack Skille	 ankle injury (out for season)

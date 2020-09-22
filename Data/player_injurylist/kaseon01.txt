@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-05-05	 Ducks	 	 • Ondrej Kase	 upper body injury (DTD)
+1	2017-05-07	 Ducks	 • Ondrej Kase	 	 returned to lineup
+2	2017-10-10	 Ducks	 	 • Ondrej Kase	 placed on IR with head injury
+3	2017-10-20	 Ducks	 • Ondrej Kase	 	 activated from IR
+4	2017-11-08	 Ducks	 	 • Ondrej Kase	 placed on IR with concussion
+5	2017-12-01	 Ducks	 • Ondrej Kase	 	 activated from IR
+6	2018-01-02	 Ducks	 	 • Ondrej Kase	 flu (DTD)
+7	2018-01-09	 Ducks	 • Ondrej Kase	 	 returned to lineup
+8	2018-10-02	 Ducks	 	 • Ondrej Kase	 placed on IR with concussion
+9	2018-11-12	 Ducks	 • Ondrej Kase	 	 activated from IR
+10	2019-01-19	 Ducks	 	 • Ondrej Kase	 placed on IR with upper body injury (out for season)
+11	2019-10-01	 Ducks	 	 • Ondrej Kase	 placed on IR head injury
+12	2019-10-25	 Ducks	 	 • Ondrej Kase	 jaw injury (DTD)
+13	2019-11-05	 Ducks	 • Ondrej Kase	 	 returned to lineup
+14	2020-02-09	 Ducks	 	 • Ondrej Kase	 illness (DTD)
+15	2020-02-21	 Bruins	 	 • Ondrej Kase	 placed on IR with illness
+16	2020-02-27	 Bruins	 • Ondrej Kase	 	 activated from IR
+17	2020-08-02	 Bruins	 	 • Ondrej Kase	 undisclosed (DTD)
+18	2020-08-08	 Bruins	 • Ondrej Kase	 	 returned to lineup

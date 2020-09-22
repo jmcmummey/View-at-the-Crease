@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-08	 Thrashers	 	 • Ondrej Pavelec	 concussion (out indefinitely)
+1	2010-10-09	 Thrashers	 	 • Ondrej Pavelec	 placed on IR with concussion
+2	2010-10-25	 Thrashers	 • Ondrej Pavelec	 	 activated from IR
+3	2011-02-26	 Thrashers	 	 • Ondrej Pavelec	 right wrist injury (DTD)
+4	2011-03-05	 Thrashers	 • Ondrej Pavelec	 	 returned to lineup
+5	2013-02-09	 Jets	 	 • Ondrej Pavelec	 flu (DTD)
+6	2013-02-12	 Jets	 • Ondrej Pavelec	 	 returned to lineup
+7	2014-03-15	 Jets	 	 • Ondrej Pavelec	 lower body injury (DTD)
+8	2014-03-29	 Jets	 • Ondrej Pavelec	 	 returned to lineup
+9	2015-11-22	 Jets	 	 • Ondrej Pavelec	 placed on IR with sprained knee
+10	2016-02-12	 Jets	 • Ondrej Pavelec	 	 activated from IR
+11	2017-02-08	 Jets	 	 • Ondrej Pavelec	 lower body injury (DTD)
+12	2017-02-14	 Jets	 	 • Ondrej Pavelec	 placed on IR with lower body injury
+13	2017-03-03	 Jets	 • Ondrej Pavelec	 	 activated from IR
+14	2017-03-06	 Jets	 	 • Ondrej Pavelec	 knee injury (out for season)
+15	2018-02-11	 Rangers	 	 • Ondrej Pavelec	 placed on IR with sprained MCL in knee
+16	2018-03-21	 Rangers	 • Ondrej Pavelec	 	 activated from IR

@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-03	 Penguins	 	 • Colby Armstrong	 knee injury (DTD)
+1	2007-02-06	 Penguins	 • Colby Armstrong	 	 returned to lineup
+2	2008-01-20	 Penguins	 	 • Colby Armstrong	 hip injury (DTD)
+3	2008-01-24	 Penguins	 • Colby Armstrong	 	 returned to lineup
+4	2008-01-29	 Penguins	 	 • Colby Armstrong	 flu (DTD)
+5	2008-02-02	 Penguins	 • Colby Armstrong	 	 returned to lineup
+6	2009-10-06	 Thrashers	 	 • Colby Armstrong	 groin injury (DTD)
+7	2009-10-08	 Thrashers	 • Colby Armstrong	 	 activated from IR
+8	2010-10-27	 Maple Leafs	 	 • Colby Armstrong	 placed on IR with surgery on finger (DTD)
+9	2010-12-04	 Maple Leafs	 • Colby Armstrong	 	 activated from IR
+10	2011-02-12	 Maple Leafs	 	 • Colby Armstrong	 blurred vision (DTD)
+11	2011-02-22	 Maple Leafs	 • Colby Armstrong	 	 returned to lineup
+12	2011-03-15	 Maple Leafs	 	 • Colby Armstrong	 broken foot (out for season)
+13	2011-10-20	 Maple Leafs	 	 • Colby Armstrong	 placed on IR with sprained left ankle
+14	2011-12-09	 Maple Leafs	 • Colby Armstrong	 	 activated from IR
+15	2011-12-19	 Maple Leafs	 	 • Colby Armstrong	 placed on IR with concussion
+16	2011-12-19	 Maple Leafs	 	 • Colby Armstrong	 foot injury (DTD)
+17	2011-12-20	 Maple Leafs	 	 • Colby Armstrong	 placed on IR with foot injury
+18	2012-02-01	 Maple Leafs	 • Colby Armstrong	 	 activated from IR
+19	2012-03-07	 Maple Leafs	 	 • Colby Armstrong	 fractured nose (DTD)
+20	2012-03-11	 Maple Leafs	 • Colby Armstrong	 	 returned to lineup
+21	2013-04-02	 Canadiens	 	 • Colby Armstrong	 placed on IR with lower body injury
+22	2013-04-18	 Canadiens	 • Colby Armstrong	 	 activated from IR
+23	2013-04-23	 Canadiens	 • Colby Armstrong	 	 activated from IR

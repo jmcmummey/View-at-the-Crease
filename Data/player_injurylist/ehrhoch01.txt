@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-04-06	 Sharks	 	 • Christian Ehrhoff	 lower body injury (DTD)
+1	2008-04-15	 Sharks	 • Christian Ehrhoff	 	 returned to lineup
+2	2009-03-14	 Sharks	 	 • Christian Ehrhoff	 lower body injury (DTD)
+3	2009-03-19	 Sharks	 • Christian Ehrhoff	 	 returned to lineup
+4	2010-04-06	 Canucks	 	 • Christian Ehrhoff	 sprained left knee (out indefinitely)
+5	2010-04-10	 Canucks	 • Christian Ehrhoff	 	 returned to lineup
+6	2010-12-09	 Canucks	 	 • Christian Ehrhoff	 concussion (DTD)
+7	2010-12-18	 Canucks	 • Christian Ehrhoff	 	 returned to lineup
+8	2011-05-22	 Canucks	 	 • Christian Ehrhoff	 shoulder injury (DTD)
+9	2011-06-01	 Canucks	 • Christian Ehrhoff	 	 returned to lineup
+10	2011-12-31	 Sabres	 	 • Christian Ehrhoff	 upper body injury (DTD)
+11	2012-01-14	 Sabres	 	 • Christian Ehrhoff	 placed on IR with upper body injury
+12	2012-01-24	 Sabres	 • Christian Ehrhoff	 	 activated from IR
+13	2012-03-28	 Sabres	 	 • Christian Ehrhoff	 knee injury (out for season)
+14	2013-02-04	 Sabres	 	 • Christian Ehrhoff	 undisclosed injury (DTD)
+15	2013-02-07	 Sabres	 • Christian Ehrhoff	 	 returned to lineup
+16	2013-11-08	 Sabres	 	 • Christian Ehrhoff	 lower body injury (DTD)
+17	2013-11-12	 Sabres	 • Christian Ehrhoff	 	 returned to lineup
+18	2014-01-30	 Sabres	 	 • Christian Ehrhoff	 illness (DTD)
+19	2014-02-01	 Sabres	 • Christian Ehrhoff	 	 returned to lineup
+20	2014-12-19	 Penguins	 	 • Christian Ehrhoff	 placed on IR with lower body injury
+21	2014-12-31	 Penguins	 • Christian Ehrhoff	 	 activated from IR
+22	2015-01-30	 Penguins	 	 • Christian Ehrhoff	 head injury (DTD)
+23	2015-02-25	 Penguins	 • Christian Ehrhoff	 	 returned to lineup
+24	2015-03-01	 Penguins	 	 • Christian Ehrhoff	 concussion symptoms (DTD)
+25	2015-03-14	 Penguins	 • Christian Ehrhoff	 	 returned to lineup
+26	2015-03-21	 Penguins	 	 • Christian Ehrhoff	 undisclosed (DTD)
+27	2015-03-24	 Penguins	 • Christian Ehrhoff	 	 returned to lineup
+28	2015-03-25	 Penguins	 	 • Christian Ehrhoff	 head injury (out for season)
+29	2015-11-17	 Kings	 	 • Christian Ehrhoff	 undisclosed (DTD)
+30	2015-11-22	 Kings	 • Christian Ehrhoff	 	 returned to lineup

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-12-31	 Kings	 	 • Milan Hnilicka	 finger injury (out indefinitely)
+1	2004-01-03	 Kings	 	 • Milan Hnilicka	 placed on IR
+2	2004-02-17	 Kings	 • Milan Hnilicka	 	 activated from IR

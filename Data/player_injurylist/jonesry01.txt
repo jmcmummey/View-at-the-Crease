@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-03-24	 Predators	 	 • Ryan Jones	 upper body injury (DTD)
+1	2009-04-07	 Predators	 • Ryan Jones	 	 returned to lineup
+2	2010-03-07	 Oilers	 	 • Ryan Jones	 sprained right knee / torn MCL in right knee (CBC) (out indefinitely)
+3	2010-04-02	 Oilers	 • Ryan Jones	 	 returned to lineup
+4	2013-01-16	 Oilers	 	 • Ryan Jones	 placed on IR recovering from surgery on eye
+5	2013-02-23	 Oilers	 • Ryan Jones	 	 activated from IR
+6	2013-03-15	 Oilers	 	 • Ryan Jones	 illness (DTD)
+7	2013-03-17	 Oilers	 • Ryan Jones	 	 returned to lineup
+8	2013-12-21	 Oilers	 	 • Ryan Jones	 placed on IR with head injury
+9	2014-01-02	 Oilers	 • Ryan Jones	 	 activated from IR
+10	2014-03-29	 Oilers	 	 • Ryan Jones	 torn PCL in left knee (out for season)

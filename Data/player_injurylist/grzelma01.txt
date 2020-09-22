@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-01	 Bruins	 	 • Matt Grzelcyk	 lower body injury (DTD)
+1	2018-03-06	 Bruins	 • Matt Grzelcyk	 	 returned to lineup
+2	2018-04-16	 Bruins	 	 • Matt Grzelcyk	 lower body injury (DTD)
+3	2018-04-19	 Bruins	 • Matt Grzelcyk	 	 returned to lineup
+4	2018-10-30	 Bruins	 	 • Matt Grzelcyk	 lower body injury (DTD)
+5	2018-11-05	 Bruins	 • Matt Grzelcyk	 	 returned to lineup
+6	2019-02-08	 Bruins	 	 • Matt Grzelcyk	 lower body injury (DTD)
+7	2019-02-16	 Bruins	 • Matt Grzelcyk	 	 returned to lineup
+8	2019-03-11	 Bruins	 	 • Matt Grzelcyk	 arm injury (DTD)
+9	2019-03-30	 Bruins	 • Matt Grzelcyk	 	 returned to lineup
+10	2019-05-30	 Bruins	 	 • Matt Grzelcyk	 concussion (out for season)
+11	2020-01-04	 Bruins	 	 • Matt Grzelcyk	 illness (DTD)
+12	2020-01-07	 Bruins	 • Matt Grzelcyk	 	 returned to lineup

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-12-12	 Flames	 	 • Steve Dubinsky	 knee injury (out for season)
+1	2003-02-22	 Blues	 	 • Steve Dubinsky	 head injury (out indefinitely)
+2	2003-02-27	 Blues	 	 • Steve Dubinsky	 placed on IR with concussion

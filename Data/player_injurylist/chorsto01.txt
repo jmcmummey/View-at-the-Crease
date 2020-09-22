@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-03-14	 Canadiens	 	 • Tom Chorske	 sprained right shoulder
+1	1993-01-14	 Devils	 	 • Tom Chorske	 charley horse (DTD)
+2	1994-04-14	 Devils	 	 • Tom Chorske	 elbow injury (DTD)
+3	1995-04-01	 Devils	 	 • Tom Chorske	 pulled groin (DTD)
+4	1995-04-20	 Devils	 	 • Tom Chorske	 bruised leg (DTD)
+5	2000-02-03	 Penguins	 	 • Tom Chorske	 thumb injury (out indefinitely)

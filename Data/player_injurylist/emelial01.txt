@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-14	 Canadiens	 	 • Alexei Emelin	 upper body injury (DTD)
+1	2012-03-16	 Canadiens	 • Alexei Emelin	 	 returned to lineup
+2	2013-04-07	 Canadiens	 	 • Alexei Emelin	 torn ligament in left knee (out for season)
+3	2013-10-01	 Canadiens	 	 • Alexei Emelin	 placed on IR recovering from surgery on right knee
+4	2013-11-15	 Canadiens	 • Alexei Emelin	 	 activated from IR
+5	2014-05-27	 Canadiens	 	 • Alexei Emelin	 lower body injury (out for season)
+6	2014-10-11	 Canadiens	 	 • Alexei Emelin	 upper body injury (DTD)
+7	2014-10-16	 Canadiens	 • Alexei Emelin	 	 returned to lineup
+8	2015-02-19	 Canadiens	 	 • Alexei Emelin	 upper body injury (DTD)
+9	2015-02-24	 Canadiens	 	 • Alexei Emelin	 placed on IR with upper body injury
+10	2015-03-16	 Canadiens	 • Alexei Emelin	 	 activated from IR
+11	2015-11-14	 Canadiens	 	 • Alexei Emelin	 lower body injury (DTD)
+12	2015-11-19	 Canadiens	 	 • Alexei Emelin	 placed on IR with lower body injury
+13	2015-11-25	 Canadiens	 • Alexei Emelin	 	 activated from IR
+14	2017-04-07	 Canadiens	 	 • Alexei Emelin	 lower body injury (out for season)
+15	2017-04-12	 Canadiens	 	 • Alexei Emelin	 placed on IR with lower body injury (out for season)
+16	2018-03-25	 Predators	 	 • Alexei Emelin	 upper body injury (DTD)
+17	2018-03-27	 Predators	 • Alexei Emelin	 	 returned to lineup

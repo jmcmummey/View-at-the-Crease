@@ -1,0 +1,100 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-05	 Coyotes	 	 • Martin Hanzal	 shoulder injury (out 3-5 weeks)
+1	2008-02-22	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+2	2008-03-20	 Coyotes	 	 • Martin Hanzal	 hip injury (DTD)
+3	2008-03-22	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+4	2009-02-08	 Coyotes	 	 • Martin Hanzal	 separated shoulder (DTD)
+5	2009-02-16	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+6	2009-03-08	 Coyotes	 	 • Martin Hanzal	 undisclosed injury (DTD)
+7	2009-03-10	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+8	2009-03-22	 Coyotes	 	 • Martin Hanzal	 undisclosed injury (DTD)
+9	2009-03-26	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+10	2009-11-23	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+11	2009-11-25	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+12	2010-10-19	 Coyotes	 	 • Martin Hanzal	 placed on IR with lower body injury
+13	2010-11-03	 Coyotes	 • Martin Hanzal	 	 activated from IR
+14	2010-12-29	 Coyotes	 	 • Martin Hanzal	 undisclosed injury (DTD)
+15	2010-12-31	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+16	2011-03-03	 Coyotes	 	 • Martin Hanzal	 undisclosed (DTD)
+17	2011-03-05	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+18	2011-03-08	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+19	2011-04-08	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+20	2011-11-03	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+21	2011-11-10	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+22	2011-12-26	 Coyotes	 	 • Martin Hanzal	 facial injury (DTD)
+23	2011-12-28	 Coyotes	 	 • Martin Hanzal	 placed on IR with facial injury
+24	2012-01-19	 Coyotes	 • Martin Hanzal	 	 activated from IR
+25	2012-02-19	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+26	2012-03-08	 Coyotes	 	 • Martin Hanzal	 upper body injury (DTD)
+27	2012-03-18	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+28	2012-04-15	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+29	2012-04-23	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+30	2013-01-23	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+31	2013-01-26	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+32	2013-01-28	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+33	2013-02-01	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+34	2013-02-23	 Coyotes	 	 • Martin Hanzal	 upper body injury (DTD)
+35	2013-03-01	 Coyotes	 	 • Martin Hanzal	 placed on IR with upper body injury
+36	2013-03-04	 Coyotes	 • Martin Hanzal	 	 activated from IR
+37	2013-11-12	 Coyotes	 	 • Martin Hanzal	 illness (DTD)
+38	2013-11-14	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+39	2014-01-20	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+40	2014-01-24	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+41	2014-02-07	 Coyotes	 	 • Martin Hanzal	 illness (DTD)
+42	2014-02-08	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+43	2014-03-04	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+44	2014-03-17	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+45	2014-04-08	 Coyotes	 	 • Martin Hanzal	 lower body injury (out for season)
+46	2014-10-19	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+47	2014-10-28	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+48	2014-11-18	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+49	2014-11-25	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+50	2015-01-06	 Coyotes	 	 • Martin Hanzal	 upper body injury (DTD)
+51	2015-01-13	 Coyotes	 	 • Martin Hanzal	 placed on IR with upper body injury
+52	2015-01-15	 Coyotes	 • Martin Hanzal	 	 activated from IR
+53	2015-01-31	 Coyotes	 	 • Martin Hanzal	 upper body injury (DTD)
+54	2015-02-08	 Coyotes	 	 • Martin Hanzal	 placed on IR with upper body injury (out for season)
+55	2015-10-27	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+56	2015-11-04	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+57	2015-12-08	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+58	2015-12-11	 Coyotes	 	 • Martin Hanzal	 placed on IR with lower body injury
+59	2015-12-19	 Coyotes	 • Martin Hanzal	 	 activated from IR
+60	2015-12-22	 Coyotes	 	 • Martin Hanzal	 placed on IR with lower body injury
+61	2015-12-27	 Coyotes	 	 • Martin Hanzal	 placed on IR with lower body injury (CBC)
+62	2016-01-07	 Coyotes	 • Martin Hanzal	 	 activated from IR
+63	2016-04-01	 Coyotes	 	 • Martin Hanzal	 upper body injury (out for season)
+64	2016-11-02	 Coyotes	 	 • Martin Hanzal	 lower body injury (DTD)
+65	2016-11-07	 Coyotes	 	 • Martin Hanzal	 placed on IR with lower body injury
+66	2016-11-15	 Coyotes	 • Martin Hanzal	 	 activated from IR
+67	2017-01-07	 Coyotes	 	 • Martin Hanzal	 upper body injury (DTD)
+68	2017-01-13	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+69	2017-02-08	 Coyotes	 	 • Martin Hanzal	 illness (DTD)
+70	2017-02-11	 Coyotes	 • Martin Hanzal	 	 returned to lineup
+71	2017-03-12	 Wild	 	 • Martin Hanzal	 strep throat (DTD)
+72	2017-03-18	 Wild	 • Martin Hanzal	 	 returned to lineup
+73	2017-10-28	 Stars	 	 • Martin Hanzal	 lower body injury (DTD)
+74	2017-11-06	 Stars	 • Martin Hanzal	 	 returned to lineup
+75	2017-11-20	 Stars	 	 • Martin Hanzal	 hand injury (DTD)
+76	2017-11-24	 Stars	 • Martin Hanzal	 	 returned to lineup
+77	2017-11-28	 Stars	 	 • Martin Hanzal	 placed on IR with hamstring injury
+78	2017-11-30	 Stars	 	 • Martin Hanzal	 undisclosed (DTD)
+79	2017-12-02	 Stars	 	 • Martin Hanzal	 placed on IR with hamstring injury
+80	2017-12-13	 Stars	 • Martin Hanzal	 	 activated from IR
+81	2017-12-29	 Stars	 	 • Martin Hanzal	 undisclosed injury (DTD)
+82	2018-01-04	 Stars	 • Martin Hanzal	 	 returned to lineup
+83	2018-01-22	 Stars	 	 • Martin Hanzal	 lower body injury (DTD)
+84	2018-02-03	 Stars	 	 • Martin Hanzal	 placed on IR with lower body injury
+85	2018-02-05	 Stars	 • Martin Hanzal	 	 activated from IR
+86	2018-02-09	 Stars	 	 • Martin Hanzal	 lower body injury (DTD)
+87	2018-02-11	 Stars	 • Martin Hanzal	 	 returned to lineup
+88	2018-02-18	 Stars	 	 • Martin Hanzal	 general soreness (DTD)
+89	2018-02-22	 Stars	 	 • Martin Hanzal	 lower body injury (DTD)
+90	2018-03-09	 Stars	 	 • Martin Hanzal	 placed on IR with back injury (out for season)
+91	2018-10-02	 Stars	 	 • Martin Hanzal	 placed on IR with back injury
+92	2018-12-07	 Stars	 • Martin Hanzal	 	 activated from IR
+93	2018-12-21	 Stars	 	 • Martin Hanzal	 sore back (DTD)
+94	2018-12-23	 Stars	 • Martin Hanzal	 	 returned to lineup
+95	2018-12-24	 Stars	 	 • Martin Hanzal	 placed on IR with upper body injury (out for season)
+96	2018-12-27	 Stars	 	 • Martin Hanzal	 upper body injury (out for season)
+97	2018-12-28	 Stars	 	 • Martin Hanzal	 placed on IR with back injury (out for season)
+98	2019-10-01	 Stars	 	 • Martin Hanzal	 placed on IR with back injury

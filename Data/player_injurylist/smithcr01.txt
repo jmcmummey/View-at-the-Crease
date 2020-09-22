@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-16	 Predators	 	 • Craig Smith	 flu (DTD)
+1	2012-01-17	 Predators	 • Craig Smith	 	 returned to lineup
+2	2013-12-10	 Predators	 	 • Craig Smith	 flu (DTD)
+3	2013-12-14	 Predators	 • Craig Smith	 	 returned to lineup
+4	2016-04-20	 Predators	 	 • Craig Smith	 lower body injury (DTD)
+5	2016-04-25	 Predators	 • Craig Smith	 	 returned to lineup
+6	2016-04-29	 Predators	 	 • Craig Smith	 lower body injury (DTD)
+7	2016-05-01	 Predators	 • Craig Smith	 	 returned to lineup
+8	2016-10-22	 Predators	 	 • Craig Smith	 food poisoning (DTD)
+9	2016-10-26	 Predators	 • Craig Smith	 	 returned to lineup
+10	2017-03-18	 Predators	 	 • Craig Smith	 undisclosed injury (DTD)
+11	2017-03-20	 Predators	 • Craig Smith	 	 returned to lineup
+12	2017-03-30	 Predators	 	 • Craig Smith	 upper body injury (DTD)
+13	2017-04-01	 Predators	 • Craig Smith	 	 returned to lineup
+14	2017-04-20	 Predators	 	 • Craig Smith	 undisclosed (DTD)
+15	2017-05-07	 Predators	 • Craig Smith	 	 returned to lineup
+16	2017-05-12	 Predators	 	 • Craig Smith	 undisclosed (DTD)
+17	2017-05-29	 Predators	 • Craig Smith	 	 returned to lineup
+18	2017-12-21	 Predators	 	 • Craig Smith	 lower body injury (DTD)
+19	2017-12-23	 Predators	 • Craig Smith	 	 returned to lineup
+20	2019-02-19	 Predators	 	 • Craig Smith	 lower body injury (DTD)
+21	2019-02-21	 Predators	 	 • Craig Smith	 placed on IR with lower body injury
+22	2019-03-03	 Predators	 • Craig Smith	 	 activated from IR

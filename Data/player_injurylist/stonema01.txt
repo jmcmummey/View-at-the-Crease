@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-05-22	 Senators	 	 • Mark Stone	 undisclosed (DTD) (date approximate)
+1	2013-05-24	 Senators	 • Mark Stone	 	 returned to lineup
+2	2014-01-20	 Senators	 	 • Mark Stone	 placed on IR with upper body injury
+3	2014-02-06	 Senators	 • Mark Stone	 	 activated from IR
+4	2014-12-06	 Senators	 	 • Mark Stone	 bruised foot (DTD)
+5	2014-12-06	 Senators	 • Mark Stone	 	 returned to lineup
+6	2016-03-31	 Senators	 	 • Mark Stone	 chest injury (out for season)
+7	2016-11-02	 Senators	 	 • Mark Stone	 neck injury (DTD)
+8	2016-11-05	 Senators	 • Mark Stone	 	 returned to lineup
+9	2017-02-20	 Senators	 	 • Mark Stone	 neck injury (DTD)
+10	2017-02-26	 Senators	 • Mark Stone	 	 returned to lineup
+11	2017-03-11	 Senators	 	 • Mark Stone	 lower body injury (DTD)
+12	2017-03-25	 Senators	 • Mark Stone	 	 returned to lineup
+13	2018-01-22	 Senators	 	 • Mark Stone	 knee injury (DTD)
+14	2018-01-29	 Senators	 	 • Mark Stone	 placed on IR with knee injury
+15	2018-02-09	 Senators	 • Mark Stone	 	 activated from IR
+16	2018-03-11	 Senators	 	 • Mark Stone	 leg injury (DTD)
+17	2018-03-11	 Senators	 	 • Mark Stone	 placed on IR with leg injury (out for season)
+18	2018-03-16	 Senators	 	 • Mark Stone	 placed on IR with leg injury (out for season)
+19	2020-02-27	 Golden Knights	 	 • Mark Stone	 lower body injury (DTD)

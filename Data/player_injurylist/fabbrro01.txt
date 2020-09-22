@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-11	 Blues	 	 • Robby Fabbri	 placed on IR with concussion (Y)
+1	2015-10-13	 Blues	 	 • Robby Fabbri	 concussion (DTD)
+2	2015-10-14	 Blues	 	 • Robby Fabbri	 placed on IR with concussion
+3	2015-10-27	 Blues	 • Robby Fabbri	 	 activated from IR
+4	2016-04-01	 Blues	 	 • Robby Fabbri	 lower body injury (DTD)
+5	2016-04-08	 Blues	 • Robby Fabbri	 	 returned to lineup
+6	2017-02-05	 Blues	 	 • Robby Fabbri	 placed on IR with left knee injury (out for season)
+7	2017-10-02	 Blues	 	 • Robby Fabbri	 placed on IR with torn ACL in knee (out for season)
+8	2018-10-02	 Blues	 	 • Robby Fabbri	 placed on IR with groin injury
+9	2018-10-24	 Blues	 • Robby Fabbri	 	 activated from IR
+10	2018-10-31	 Blues	 • Robby Fabbri	 	 activated from IR
+11	2018-12-01	 Blues	 	 • Robby Fabbri	 placed on IR with shoulder injury
+12	2018-12-28	 Blues	 • Robby Fabbri	 	 activated from IR
+13	2020-02-11	 Red Wings	 	 • Robby Fabbri	 jaw injury (DTD)
+14	2020-02-13	 Red Wings	 • Robby Fabbri	 	 returned to lineup
+15	2020-02-26	 Red Wings	 	 • Robby Fabbri	 knee injury (DTD)
+16	2020-02-27	 Red Wings	 • Robby Fabbri	 	 returned to lineup

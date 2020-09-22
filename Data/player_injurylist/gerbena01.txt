@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-16	 Sabres	 	 • Nathan Gerbe	 upper body injury (DTD)
+1	2008-12-16	 Sabres	 	 • Nathan Gerbe	 placed on IR
+2	2008-12-17	 Sabres	 	 • Nathan Gerbe	 placed on IR
+3	2008-12-30	 Sabres	 • Nathan Gerbe	 	 activated from IR
+4	2009-12-12	 Sabres	 	 • Nathan Gerbe	 groin injury (DTD)
+5	2010-10-30	 Sabres	 	 • Nathan Gerbe	 jaw/facial injury (DTD)
+6	2010-11-17	 Sabres	 • Nathan Gerbe	 	 returned to lineup
+7	2011-12-03	 Sabres	 	 • Nathan Gerbe	 facial lacerations (DTD)
+8	2011-12-07	 Sabres	 • Nathan Gerbe	 	 returned to lineup
+9	2011-12-08	 Sabres	 	 • Nathan Gerbe	 concussion (DTD)
+10	2011-12-13	 Sabres	 	 • Nathan Gerbe	 placed on IR with concussion
+11	2011-12-31	 Sabres	 • Nathan Gerbe	 	 activated from IR
+12	2012-03-14	 Sabres	 	 • Nathan Gerbe	 upper body injury (DTD)
+13	2012-04-03	 Sabres	 • Nathan Gerbe	 	 returned to lineup
+14	2013-01-18	 Sabres	 	 • Nathan Gerbe	 placed on IR wtih surgery on back
+15	2013-01-24	 Sabres	 • Nathan Gerbe	 	 activated from IR
+16	2014-10-21	 Hurricanes	 	 • Nathan Gerbe	 lower body injury (DTD)
+17	2014-11-01	 Hurricanes	 • Nathan Gerbe	 	 returned to lineup
+18	2015-11-23	 Hurricanes	 	 • Nathan Gerbe	 placed on IR with lower body injury
+19	2016-01-15	 Hurricanes	 • Nathan Gerbe	 	 activated from IR
+20	2020-03-01	 Blue Jackets	 	 • Nathan Gerbe	 groin injury (out indefinitely)
+21	2020-07-26	 Blue Jackets	 • Nathan Gerbe	 	 returned to lineup
+22	2020-08-13	 Blue Jackets	 	 • Nathan Gerbe	 undisclosed (out for season)

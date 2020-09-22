@@ -1,0 +1,40 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-06	 Predators	 	 • Shea Weber	 jaw injury (DTD)
+1	2007-02-14	 Predators	 • Shea Weber	 	 returned to lineup
+2	2007-10-05	 Predators	 	 • Shea Weber	 dislocated kneecap (out 3-4 weeks)
+3	2007-11-17	 Predators	 • Shea Weber	 	 returned to lineup
+4	2007-12-23	 Predators	 	 • Shea Weber	 placed on IR with leg injury
+5	2008-01-15	 Predators	 • Shea Weber	 	 activated from IR
+6	2009-01-15	 Predators	 	 • Shea Weber	 bruised foot (DTD)
+7	2009-01-17	 Predators	 • Shea Weber	 	 returned to lineup
+8	2009-11-03	 Predators	 	 • Shea Weber	 placed on IR with foot injury
+9	2009-11-10	 Predators	 • Shea Weber	 	 activated from IR
+10	2010-03-07	 Predators	 	 • Shea Weber	 left arm injury (DTD)
+11	2010-03-11	 Predators	 • Shea Weber	 	 returned to lineup
+12	2011-12-26	 Predators	 	 • Shea Weber	 concussion (DTD)
+13	2012-01-01	 Predators	 	 • Shea Weber	 placed on IR with concussion
+14	2012-01-05	 Predators	 • Shea Weber	 	 activated from IR
+15	2013-11-29	 Predators	 	 • Shea Weber	 eye injury (DTD)
+16	2013-12-07	 Predators	 • Shea Weber	 	 returned to lineup
+17	2014-01-30	 Predators	 	 • Shea Weber	 upper body injury (DTD)
+18	2014-01-31	 Predators	 • Shea Weber	 	 returned to lineup
+19	2015-03-28	 Predators	 	 • Shea Weber	 lower body injury (DTD)
+20	2015-04-04	 Predators	 • Shea Weber	 	 returned to lineup
+21	2015-04-11	 Predators	 	 • Shea Weber	 lower body injury (DTD)
+22	2015-04-15	 Predators	 • Shea Weber	 	 returned to lineup
+23	2015-04-18	 Predators	 	 • Shea Weber	 lower body injury (out for season)
+24	2016-02-23	 Predators	 	 • Shea Weber	 lower body injury (DTD)
+25	2016-03-01	 Predators	 • Shea Weber	 	 returned to lineup
+26	2017-04-03	 Canadiens	 	 • Shea Weber	 lower body injury (out for season)
+27	2017-11-09	 Canadiens	 	 • Shea Weber	 lower body injury (DTD)
+28	2017-11-11	 Canadiens	 • Shea Weber	 	 returned to lineup
+29	2017-11-12	 Canadiens	 	 • Shea Weber	 placed on IR with lower body injury
+30	2017-11-21	 Canadiens	 	 • Shea Weber	 lower body injury (DTD)
+31	2017-11-30	 Canadiens	 	 • Shea Weber	 placed on IR with lower body injury
+32	2017-12-02	 Canadiens	 • Shea Weber	 	 activated from IR
+33	2017-12-18	 Canadiens	 	 • Shea Weber	 foot injury (out for season)
+34	2017-12-18	 Canadiens	 	 • Shea Weber	 placed on IR with foot injury (out for season)
+35	2018-10-02	 Canadiens	 	 • Shea Weber	 placed on IR with surgery on knee
+36	2018-11-27	 Canadiens	 • Shea Weber	 	 activated from IR
+37	2020-02-06	 Canadiens	 	 • Shea Weber	 placed on IR with sprained left ankle
+38	2020-02-18	 Canadiens	 • Shea Weber	 	 activated from IR

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-04-18	 Bruins	 	 • Matt Bartkowski	 wrist injury (DTD)
+1	2014-04-22	 Bruins	 • Matt Bartkowski	 	 returned to lineup
+2	2016-02-28	 Canucks	 	 • Matt Bartkowski	 flu (DTD)
+3	2016-03-01	 Canucks	 • Matt Bartkowski	 	 returned to lineup

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-10-27	 Nordiques	 	 • Valeri Kamensky	 ankle injury (out indefinitely)
+1	1999-10-05	 Rangers	 	 • Valeri Kamensky	 placed on IR
+2	1999-12-23	 Rangers	 • Valeri Kamensky	 	 activated from IR
+3	2001-01-22	 Rangers	 	 • Valeri Kamensky	 placed on IR

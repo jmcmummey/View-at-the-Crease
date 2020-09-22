@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-09-30	 Sabres	 	 • Marcus Foligno	 placed on IR with shoulder injury
+1	2013-10-08	 Sabres	 • Marcus Foligno	 	 activated from IR
+2	2013-12-23	 Sabres	 	 • Marcus Foligno	 flu (DTD)
+3	2013-12-27	 Sabres	 • Marcus Foligno	 	 returned to lineup
+4	2014-01-15	 Sabres	 	 • Marcus Foligno	 undisclosed injury (DTD)
+5	2014-01-17	 Sabres	 • Marcus Foligno	 	 returned to lineup
+6	2014-04-04	 Sabres	 	 • Marcus Foligno	 lower body injury (DTD)
+7	2014-04-08	 Sabres	 • Marcus Foligno	 	 returned to lineup
+8	2014-10-12	 Sabres	 	 • Marcus Foligno	 undisclosed injury (DTD)
+9	2014-10-14	 Sabres	 • Marcus Foligno	 	 returned to lineup
+10	2014-11-02	 Sabres	 	 • Marcus Foligno	 lower body injury (DTD)
+11	2014-11-11	 Sabres	 • Marcus Foligno	 	 returned to lineup
+12	2014-12-22	 Sabres	 	 • Marcus Foligno	 placed on IR with hand injury
+13	2015-02-08	 Sabres	 • Marcus Foligno	 	 activated from IR
+14	2015-10-24	 Sabres	 	 • Marcus Foligno	 lower body injury (DTD)
+15	2015-10-27	 Sabres	 • Marcus Foligno	 	 returned to lineup
+16	2015-12-15	 Sabres	 	 • Marcus Foligno	 upper body injury (DTD)
+17	2015-12-26	 Sabres	 • Marcus Foligno	 	 returned to lineup
+18	2016-02-05	 Sabres	 	 • Marcus Foligno	 lower body injury (DTD)
+19	2016-02-09	 Sabres	 • Marcus Foligno	 	 returned to lineup
+20	2017-04-07	 Sabres	 	 • Marcus Foligno	 knee injury (out for season)
+21	2017-10-14	 Wild	 	 • Marcus Foligno	 facial injury (DTD)
+22	2017-10-20	 Wild	 • Marcus Foligno	 	 returned to lineup
+23	2019-11-09	 Wild	 	 • Marcus Foligno	 lower body injury (out indefinitely)
+24	2019-12-01	 Wild	 • Marcus Foligno	 	 returned to lineup

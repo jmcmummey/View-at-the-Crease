@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-03-09	 Panthers	 	 • Oleg Kvasha	 placed on IR
+1	2002-11-08	 Islanders	 • Oleg Kvasha	 	 activated from IR
+2	2005-11-26	 Islanders	 	 • Oleg Kvasha	 ankle injury (left game)
+3	2005-11-29	 Islanders	 	 • Oleg Kvasha	 ankle injury (DTD)
+4	2005-12-15	 Islanders	 	 • Oleg Kvasha	 placed on IR with ankle injury
+5	2005-12-30	 Islanders	 • Oleg Kvasha	 	 activated from IR
+6	2006-04-05	 Coyotes	 	 • Oleg Kvasha	 sprained MCL in knee (out for remainder of regular season)
+7	2006-04-13	 Coyotes	 • Oleg Kvasha	 	 returned to lineup

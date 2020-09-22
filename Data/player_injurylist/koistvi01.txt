@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-14	 Predators	 	 • Ville Koistinen	 flu (DTD)
+1	2008-02-19	 Predators	 • Ville Koistinen	 	 returned to lineup

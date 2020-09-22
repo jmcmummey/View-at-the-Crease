@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-19	 Oilers	 	 • Colin Fraser	 foot injury (DTD)
+1	2011-03-24	 Oilers	 • Colin Fraser	 	 returned to lineup
+2	2011-04-05	 Oilers	 	 • Colin Fraser	 foot injury (out for season)
+3	2011-10-05	 Kings	 	 • Colin Fraser	 placed on IR / placed on non-roster list
+4	2011-11-10	 Kings	 • Colin Fraser	 	 activated from non-roster list
+5	2013-12-12	 Kings	 	 • Colin Fraser	 concussion (DTD)
+6	2013-12-14	 Kings	 	 • Colin Fraser	 placed on IR with concussion
+7	2013-12-19	 Kings	 • Colin Fraser	 	 activated from IR

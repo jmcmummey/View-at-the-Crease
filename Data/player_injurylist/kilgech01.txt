@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-15	 Maple Leafs	 	 • Chad Kilger	 ankle injury (DTD)
+1	2005-10-20	 Maple Leafs	 • Chad Kilger	 	 returned to lineup
+2	2007-11-17	 Maple Leafs	 	 • Chad Kilger	 leg injury (DTD)
+3	2007-11-27	 Maple Leafs	 • Chad Kilger	 	 returned to lineup

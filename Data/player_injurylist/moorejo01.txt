@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-02	 Blue Jackets	 	 • John Moore	 illness (DTD)
+1	2011-12-10	 Blue Jackets	 • John Moore	 	 returned to lineup
+2	2012-03-31	 Blue Jackets	 	 • John Moore	 foot injury (out for season)
+3	2013-02-03	 Blue Jackets	 	 • John Moore	 lower body injury (DTD)
+4	2013-02-16	 Blue Jackets	 • John Moore	 	 returned to lineup
+5	2013-03-01	 Blue Jackets	 	 • John Moore	 upper body injury (DTD)
+6	2013-03-04	 Blue Jackets	 	 • John Moore	 placed on IR with shoulder injury
+7	2013-03-15	 Blue Jackets	 • John Moore	 	 activated from IR
+8	2014-03-22	 Rangers	 	 • John Moore	 concussion (DTD)
+9	2014-04-03	 Rangers	 • John Moore	 	 returned to lineup
+10	2015-10-13	 Devils	 	 • John Moore	 lower body injury (DTD)
+11	2015-10-16	 Devils	 • John Moore	 	 returned to lineup
+12	2016-01-07	 Devils	 	 • John Moore	 lower body injury (DTD)
+13	2016-01-15	 Devils	 • John Moore	 	 returned to lineup
+14	2016-01-22	 Devils	 	 • John Moore	 placed on IR witih lower body injury
+15	2016-02-04	 Devils	 • John Moore	 	 activated from IR
+16	2016-03-20	 Devils	 	 • John Moore	 knee injury (DTD)
+17	2016-03-24	 Devils	 • John Moore	 	 returned to lineup
+18	2016-12-31	 Devils	 	 • John Moore	 placed on IR with concussion
+19	2017-02-12	 Devils	 • John Moore	 	 activated from IR
+20	2018-11-16	 Bruins	 	 • John Moore	 lower body injury (DTD)
+21	2018-11-23	 Bruins	 • John Moore	 	 returned to lineup
+22	2019-03-27	 Bruins	 	 • John Moore	 upper body injury (DTD)
+23	2019-04-17	 Bruins	 • John Moore	 	 returned to lineup
+24	2019-04-25	 Bruins	 	 • John Moore	 upper body injury (DTD)
+25	2019-05-16	 Bruins	 • John Moore	 	 returned to lineup
+26	2019-10-01	 Bruins	 	 • John Moore	 placed on injured/non-roster list with shoulder injury
+27	2019-12-05	 Bruins	 • John Moore	 	 activated from injured/non-roster list
+28	2019-12-19	 Bruins	 	 • John Moore	 illness (DTD)
+29	2019-12-23	 Bruins	 • John Moore	 	 returned to lineup

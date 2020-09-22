@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-06-05	 Oilers	 	 • Dwayne Roloson	 leg injury (out indefinitely)
+1	2006-06-19	 Oilers	 • Dwayne Roloson	 	 returned to lineup
+2	2006-09-14	 Oilers	 	 • Dwayne Roloson	 knee injury (DTD)
+3	2007-12-21	 Oilers	 	 • Dwayne Roloson	 flu (DTD)
+4	2007-12-29	 Oilers	 • Dwayne Roloson	 	 returned to lineup

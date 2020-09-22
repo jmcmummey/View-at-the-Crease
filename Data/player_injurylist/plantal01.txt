@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-27	 Oilers	 	 • Alex Plante	 placed on IR with facial laceration
+1	2012-01-17	 Oilers	 • Alex Plante	 	 activated from IR

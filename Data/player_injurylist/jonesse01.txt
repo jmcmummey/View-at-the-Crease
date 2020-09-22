@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-03-24	 Predators	 	 • Seth Jones	 concussion (DTD)
+1	2014-04-05	 Predators	 • Seth Jones	 	 returned to lineup
+2	2016-11-07	 Blue Jackets	 	 • Seth Jones	 placed on IR with fractured foot
+3	2016-11-21	 Blue Jackets	 • Seth Jones	 	 activated from IR
+4	2018-03-17	 Blue Jackets	 	 • Seth Jones	 upper body injury (DTD)
+5	2018-03-22	 Blue Jackets	 • Seth Jones	 	 returned to lineup
+6	2018-09-25	 Blue Jackets	 	 • Seth Jones	 placed on IR with lower body injury
+7	2018-10-01	 Blue Jackets	 	 • Seth Jones	 placed on IR with knee injury
+8	2018-10-22	 Blue Jackets	 • Seth Jones	 	 activated from IR
+9	2020-02-10	 Blue Jackets	 	 • Seth Jones	 placed on IR with surgery on right ankle to repair fracture
+10	2020-06-18	 Blue Jackets	 • Seth Jones	 	 activated from IR

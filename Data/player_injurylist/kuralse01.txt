@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-29	 Bruins	 	 • Sean Kuraly	 upper body injury (DTD)
+1	2018-04-12	 Bruins	 • Sean Kuraly	 	 returned to lineup
+2	2019-03-02	 Bruins	 	 • Sean Kuraly	 concussion (out indefinitely)
+3	2019-03-07	 Bruins	 • Sean Kuraly	 	 returned to lineup
+4	2019-03-23	 Bruins	 	 • Sean Kuraly	 fractured right hand (out indefinitely)
+5	2019-04-19	 Bruins	 • Sean Kuraly	 	 returned to lineup
+6	2020-08-26	 Bruins	 	 • Sean Kuraly	 undisclosed (out for season)

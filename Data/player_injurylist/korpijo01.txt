@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-06	 Blue Jackets	 	 • Joonas Korpisalo	 groin injury (DTD)
+1	2016-10-11	 Blue Jackets	 	 • Joonas Korpisalo	 placed on injured/non-roster list with groin injury
+2	2016-10-31	 Blue Jackets	 • Joonas Korpisalo	 	 activated from IR
+3	2019-12-31	 Blue Jackets	 	 • Joonas Korpisalo	 surgery on right knee (out indefinitely)
+4	2020-02-20	 Blue Jackets	 	 • Joonas Korpisalo	 placed on IR with surgery on right knee
+5	2020-02-23	 Blue Jackets	 • Joonas Korpisalo	 	 activated from IR

@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-28	 Penguins	 	 • Bryan Rust	 arm injury (DTD)
+1	2015-10-29	 Penguins	 	 • Bryan Rust	 placed on IR with arm injury
+2	2015-11-30	 Penguins	 • Bryan Rust	 	 activated from IR
+3	2016-03-30	 Penguins	 	 • Bryan Rust	 lower body injury (DTD)
+4	2016-04-16	 Penguins	 • Bryan Rust	 	 returned to lineup
+5	2016-10-11	 Penguins	 	 • Bryan Rust	 placed on IR with finger injury
+6	2016-10-18	 Penguins	 • Bryan Rust	 	 activated from IR
+7	2017-02-10	 Penguins	 	 • Bryan Rust	 placed on IR with upper body injury
+8	2017-02-14	 Penguins	 	 • Bryan Rust	 placed on IR with upper body injury
+9	2017-03-24	 Penguins	 • Bryan Rust	 	 activated from IR
+10	2017-05-16	 Penguins	 	 • Bryan Rust	 upper body injury (DTD)
+11	2017-05-21	 Penguins	 • Bryan Rust	 	 returned to lineup
+12	2017-12-28	 Penguins	 	 • Bryan Rust	 placed on IR with upper body injury
+13	2018-01-23	 Penguins	 • Bryan Rust	 	 activated from IR
+14	2018-03-09	 Penguins	 	 • Bryan Rust	 concussion (out indefinitely)
+15	2018-03-14	 Penguins	 • Bryan Rust	 	 returned to lineup
+16	2018-12-31	 Penguins	 	 • Bryan Rust	 lower body injury (DTD)
+17	2019-01-02	 Penguins	 • Bryan Rust	 	 returned to lineup
+18	2019-02-27	 Penguins	 	 • Bryan Rust	 lower body injury (out indefinitely)
+19	2019-03-17	 Penguins	 • Bryan Rust	 	 returned to lineup
+20	2019-10-01	 Penguins	 	 • Bryan Rust	 placed on IR with hand injury
+21	2019-10-26	 Penguins	 • Bryan Rust	 	 activated from IR
+22	2019-11-29	 Penguins	 	 • Bryan Rust	 lower body injury (DTD)
+23	2019-12-06	 Penguins	 • Bryan Rust	 	 returned to lineup

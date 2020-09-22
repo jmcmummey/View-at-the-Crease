@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-17	 Penguins	 	 • Mark Recchi	 groin injury (left game)
+1	2005-12-18	 Penguins	 • Mark Recchi	 	 groin injury (DTD)

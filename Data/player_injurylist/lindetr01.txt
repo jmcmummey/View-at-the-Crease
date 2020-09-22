@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-02-23	 Canucks	 	 • Trevor Linden	 elbow injury (out for season)
+1	2007-01-19	 Canucks	 	 • Trevor Linden	 flu (DTD)
+2	2007-01-26	 Canucks	 • Trevor Linden	 	 returned to lineup

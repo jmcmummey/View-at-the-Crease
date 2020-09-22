@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-11-04	 Lightning	 	 • Grant Ledyard	 concussion (DTD)
+1	2001-11-10	 Lightning	 	 • Grant Ledyard	 placed on IR with concussion

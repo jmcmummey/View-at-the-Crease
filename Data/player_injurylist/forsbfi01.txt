@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-10-03	 Predators	 	 • Filip Forsberg	 lower body injury (DTD)
+1	2013-10-08	 Predators	 • Filip Forsberg	 	 returned to lineup
+2	2013-11-19	 Predators	 	 • Filip Forsberg	 upper body injury (DTD)
+3	2013-11-21	 Predators	 • Filip Forsberg	 	 returned to lineup
+4	2013-11-23	 Predators	 	 • Filip Forsberg	 upper body injury (DTD)
+5	2013-11-30	 Predators	 	 • Filip Forsberg	 placed on IR with upper body injury
+6	2013-12-18	 Predators	 • Filip Forsberg	 	 activated from IR
+7	2017-12-30	 Predators	 	 • Filip Forsberg	 placed on IR with undisclosed iinjury
+8	2018-02-01	 Predators	 • Filip Forsberg	 	 activated from IR
+9	2018-03-31	 Predators	 	 • Filip Forsberg	 undisclosed injury (DTD)
+10	2018-04-01	 Predators	 • Filip Forsberg	 	 returned to lineup
+11	2018-12-01	 Predators	 	 • Filip Forsberg	 placed on IR with upper body injury
+12	2019-01-07	 Predators	 • Filip Forsberg	 	 activated from IR
+13	2019-03-09	 Predators	 	 • Filip Forsberg	 upper body injury (DTD)
+14	2019-03-12	 Predators	 • Filip Forsberg	 	 returned to lineup
+15	2019-10-17	 Predators	 	 • Filip Forsberg	 lower body injury (DTD)
+16	2019-10-31	 Predators	 • Filip Forsberg	 	 returned to lineup

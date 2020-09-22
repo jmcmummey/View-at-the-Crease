@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-11-10	 Maple Leafs	 	 • Brian Bradley (b)	 sprained ankle (DTD)
+1	1991-12-10	 Maple Leafs	 	 • Brian Bradley (b)	 back spasms (DTD)
+2	1993-10-06	 Lightning	 	 • Brian Bradley (b)	 undisclosed injury (DTD)
+3	1993-10-22	 Lightning	 	 • Brian Bradley (b)	 shoulder injury (DTD)
+4	1994-01-04	 Lightning	 	 • Brian Bradley (b)	 flu (DTD)
+5	1995-02-17	 Lightning	 	 • Brian Bradley (b)	 charley horse (DTD)
+6	1995-10-15	 Lightning	 	 • Brian Bradley (b)	 bruised foot (DTD)
+7	1995-10-31	 Lightning	 	 • Brian Bradley (b)	 bruised right knee (DTD)
+8	1996-01-06	 Lightning	 	 • Brian Bradley (b)	 hip pointer (DTD)
+9	1996-03-07	 Lightning	 	 • Brian Bradley (b)	 bruised left knee (DTD)
+10	1996-03-30	 Lightning	 	 • Brian Bradley (b)	 back injury (DTD)
+11	1996-04-06	 Lightning	 	 • Brian Bradley (b)	 left knee injury (DTD)
+12	1996-04-12	 Lightning	 	 • Brian Bradley (b)	 left knee injury (DTD)
+13	1997-11-11	 Lightning	 	 • Brian Bradley (b)	 head injury (out indefinitely)
+14	1997-11-14	 Lightning	 	 • Brian Bradley (b)	 placed on IR with head injury

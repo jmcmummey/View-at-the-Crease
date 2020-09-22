@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-22	 Oilers	 	 • Lennart Petrell	 strained groin (DTD)
+1	2012-03-28	 Oilers	 • Lennart Petrell	 	 returned to lineup
+2	2013-02-19	 Oilers	 	 • Lennart Petrell	 head injury (DTD)
+3	2013-02-23	 Oilers	 	 • Lennart Petrell	 placed on IR with head injury
+4	2013-02-25	 Oilers	 • Lennart Petrell	 	 activated from IR
+5	2013-04-19	 Oilers	 	 • Lennart Petrell	 ankle injury (out for season)

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-02-24	 Hurricanes	 	 • Jaroslav Svoboda	 placed on IR
+1	2006-01-25	 Stars	 	 • Jaroslav Svoboda	 wrist injury (DTD)
+2	2006-03-11	 Stars	 • Jaroslav Svoboda	 	 returned to lineup

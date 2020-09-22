@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-10-22	 Mighty Ducks	 	 • Brent Severyn	 back injury (out indefinitely)
+1	1998-10-22	 Stars	 	 • Brent Severyn	 placed on IR with sprained neck
+2	1998-10-24	 Stars	 • Brent Severyn	 	 activated from IR
+3	1998-12-18	 Stars	 	 • Brent Severyn	 placed on IR with strained lower back
+4	1999-01-05	 Stars	 • Brent Severyn	 	 activated from IR

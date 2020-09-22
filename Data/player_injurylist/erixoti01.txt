@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-30	 Blue Jackets	 	 • Tim Erixon	 upper body injury (DTD)
+1	2013-04-17	 Blue Jackets	 • Tim Erixon	 	 returned to lineup
+2	2015-02-11	 Blackhawks	 	 • Tim Erixon	 lower body injury (DTD)
+3	2015-02-26	 Blackhawks	 • Tim Erixon	 	 returned to lineup
+4	2015-03-05	 Maple Leafs	 	 • Tim Erixon	 illness (DTD)
+5	2015-03-07	 Maple Leafs	 • Tim Erixon	 	 returned to lineup

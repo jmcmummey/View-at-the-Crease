@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-03-05	 Coyotes	 	 • Jordan Oesterle	 upper body injury (DTD)
+1	2019-03-07	 Coyotes	 • Jordan Oesterle	 	 returned to lineup
+2	2019-10-19	 Coyotes	 	 • Jordan Oesterle	 placed on IR with head injury
+3	2019-11-02	 Coyotes	 • Jordan Oesterle	 	 activated from IR
+4	2019-11-05	 Coyotes	 	 • Jordan Oesterle	 upper body injury (DTD)
+5	2019-11-09	 Coyotes	 • Jordan Oesterle	 	 returned to lineup
+6	2020-01-16	 Coyotes	 	 • Jordan Oesterle	 lower body injury (DTD)
+7	2020-01-29	 Coyotes	 • Jordan Oesterle	 	 returned to lineup

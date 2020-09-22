@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-02-10	 Canadiens	 	 • Mathieu Darche	 undisclosed (DTD)
+1	2011-02-15	 Canadiens	 • Mathieu Darche	 	 returned to lineup
+2	2011-02-20	 Canadiens	 	 • Mathieu Darche	 placed on IR with groin injury
+3	2011-03-24	 Canadiens	 • Mathieu Darche	 	 activated from IR
+4	2012-02-24	 Canadiens	 	 • Mathieu Darche	 dizziness (DTD)
+5	2012-03-06	 Canadiens	 	 • Mathieu Darche	 placed on IR with dizziness (out for season)

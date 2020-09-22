@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-01-12	 Devils	 	 • Kevin Rooney	 illness (DTD)
+1	2019-01-14	 Devils	 • Kevin Rooney	 	 returned to lineup
+2	2019-03-08	 Devils	 	 • Kevin Rooney	 illness (DTD)
+3	2019-03-12	 Devils	 • Kevin Rooney	 	 returned to lineup
+4	2019-11-15	 Devils	 	 • Kevin Rooney	 upper body injury (DTD)
+5	2019-11-21	 Devils	 	 • Kevin Rooney	 placed on IR with upper body injury
+6	2019-11-30	 Devils	 • Kevin Rooney	 	 activated from IR
+7	2020-01-16	 Devils	 	 • Kevin Rooney	 illness (DTD)
+8	2020-01-18	 Devils	 • Kevin Rooney	 	 returned to lineup

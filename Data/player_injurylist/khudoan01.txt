@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-02-14	 Wild	 	 • Anton Khudobin	 hip injury (DTD)
+1	2013-10-14	 Hurricanes	 	 • Anton Khudobin	 placed on IR with lower body injury
+2	2013-12-27	 Hurricanes	 • Anton Khudobin	 	 activated from IR
+3	2016-10-25	 Bruins	 	 • Anton Khudobin	 placed on IR with upper body injury
+4	2016-11-19	 Bruins	 • Anton Khudobin	 	 activated from IR
+5	2017-10-30	 Bruins	 	 • Anton Khudobin	 lower body injury (DTD)
+6	2017-10-31	 Bruins	 • Anton Khudobin	 	 returned to lineup
+7	2017-11-01	 Bruins	 	 • Anton Khudobin	 lower body injury (DTD)
+8	2017-11-08	 Bruins	 • Anton Khudobin	 	 returned to lineup

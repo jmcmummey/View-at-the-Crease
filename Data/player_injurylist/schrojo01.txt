@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-09-30	 Canucks	 	 • Jordan Schroeder	 placed on IR with fractured left foot
+1	2013-10-15	 Canucks	 • Jordan Schroeder	 	 activated from IR
+2	2013-10-19	 Canucks	 	 • Jordan Schroeder	 placed on IR with ankle injury
+3	2014-01-21	 Canucks	 • Jordan Schroeder	 	 activated from IR
+4	2015-11-25	 Wild	 	 • Jordan Schroeder	 illness (DTD)
+5	2015-11-28	 Wild	 • Jordan Schroeder	 	 returned to lineup
+6	2017-10-03	 Blue Jackets	 	 • Jordan Schroeder	 placed on IR with upper body injury
+7	2017-10-12	 Blue Jackets	 • Jordan Schroeder	 	 activated from IR

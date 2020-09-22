@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-11-24	 Red Wings	 	 • Maxim Kuznetsov / Maxim Kuznetzov	 knee injury (out indefinitely)
+1	2000-11-24	 Red Wings	 	 • Maxim Kuznetsov / Maxim Kuznetzov	 placed on IR with knee injury (date approximate)
+2	2001-02-07	 Red Wings	 • Maxim Kuznetsov / Maxim Kuznetzov	 	 activated from IR

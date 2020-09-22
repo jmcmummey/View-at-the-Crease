@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-03-17	 Sabres	 	 • Casey Nelson	 lower body injury (DTD)
+1	2018-03-19	 Sabres	 • Casey Nelson	 	 returned to lineup
+2	2018-12-07	 Sabres	 	 • Casey Nelson	 placed on IR with upper body injury
+3	2019-02-19	 Sabres	 • Casey Nelson	 	 activated from IR

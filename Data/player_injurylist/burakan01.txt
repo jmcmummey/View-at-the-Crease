@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-02-10	 Capitals	 	 • Andre Burakovsky	 hand injury (out indefinitely)
+1	2017-02-24	 Capitals	 	 • Andre Burakovsky	 placed on IR with hand injury
+2	2017-03-18	 Capitals	 • Andre Burakovsky	 	 activated from IR
+3	2017-10-22	 Capitals	 	 • Andre Burakovsky	 placed on IR with upper body injury
+4	2017-10-24	 Capitals	 	 • Andre Burakovsky	 placed on IR with fractured thumb
+5	2017-12-07	 Capitals	 • Andre Burakovsky	 	 activated from IR
+6	2018-01-11	 Capitals	 	 • Andre Burakovsky	 illness (DTD)
+7	2018-01-19	 Capitals	 • Andre Burakovsky	 	 returned to lineup
+8	2018-04-16	 Capitals	 	 • Andre Burakovsky	 upper body injury (DTD)
+9	2018-05-11	 Capitals	 • Andre Burakovsky	 	 returned to lineup
+10	2019-11-28	 Avalanche	 	 • Andre Burakovsky	 upper body injury (DTD)
+11	2019-12-05	 Avalanche	 • Andre Burakovsky	 	 returned to lineup
+12	2020-02-22	 Avalanche	 	 • Andre Burakovsky	 illness (DTD)
+13	2020-02-27	 Avalanche	 • Andre Burakovsky	 	 returned to lineup
+14	2020-02-29	 Avalanche	 	 • Andre Burakovsky	 lower body injury (DTD)

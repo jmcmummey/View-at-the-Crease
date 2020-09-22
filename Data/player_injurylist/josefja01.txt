@@ -1,0 +1,37 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-28	 Devils	 	 • Jacob Josefson	 placed on IR with surgery on right thumb (Y)
+1	2010-11-05	 Devils	 	 • Jacob Josefson	 placed on IR with hand infection
+2	2011-10-22	 Devils	 	 • Jacob Josefson	 placed on IR with broken right clavicle
+3	2012-01-10	 Devils	 • Jacob Josefson	 	 activated from IR
+4	2012-04-03	 Devils	 	 • Jacob Josefson	 fractured left wrist (out indefinitely)
+5	2012-05-21	 Devils	 • Jacob Josefson	 	 returned to lineup
+6	2014-01-08	 Devils	 	 • Jacob Josefson	 placed on IR with illness
+7	2014-01-16	 Devils	 • Jacob Josefson	 	 activated from IR
+8	2014-04-05	 Devils	 	 • Jacob Josefson	 lower body injury (out for season)
+9	2014-12-19	 Devils	 	 • Jacob Josefson	 strained groin (DTD)
+10	2014-12-27	 Devils	 • Jacob Josefson	 	 returned to lineup
+11	2014-12-29	 Devils	 	 • Jacob Josefson	 placed on IR with illness
+12	2015-01-09	 Devils	 • Jacob Josefson	 	 activated from IR
+13	2015-12-29	 Devils	 	 • Jacob Josefson	 lower body injury (DTD)
+14	2015-12-30	 Devils	 	 • Jacob Josefson	 placed on IR with lower body injury
+15	2016-01-20	 Devils	 • Jacob Josefson	 	 activated from IR
+16	2016-02-26	 Devils	 	 • Jacob Josefson	 illness (DTD)
+17	2016-03-01	 Devils	 • Jacob Josefson	 	 returned to lineup
+18	2016-03-06	 Devils	 	 • Jacob Josefson	 upper body injury (DTD)
+19	2016-04-02	 Devils	 • Jacob Josefson	 	 returned to lineup
+20	2016-12-21	 Devils	 	 • Jacob Josefson	 placed on IR with concussion
+21	2016-12-29	 Devils	 • Jacob Josefson	 	 activated from IR
+22	2017-01-02	 Devils	 	 • Jacob Josefson	 illness (DTD)
+23	2017-01-07	 Devils	 	 • Jacob Josefson	 placed on IR with illness
+24	2017-01-13	 Devils	 • Jacob Josefson	 	 activated from IR
+25	2017-03-01	 Devils	 	 • Jacob Josefson	 upper body injury (DTD)
+26	2017-04-06	 Devils	 • Jacob Josefson	 	 returned to lineup
+27	2017-10-16	 Sabres	 	 • Jacob Josefson	 placed on IR with ankle injury
+28	2017-10-17	 Sabres	 	 • Jacob Josefson	 lower body injury (DTD)
+29	2017-10-20	 Sabres	 	 • Jacob Josefson	 placed on IR with lower body injury
+30	2017-11-22	 Sabres	 • Jacob Josefson	 	 activated from IR
+31	2017-11-27	 Sabres	 	 • Jacob Josefson	 placed on IR with ankle injury
+32	2017-12-19	 Sabres	 • Jacob Josefson	 	 activated from IR
+33	2018-01-10	 Sabres	 	 • Jacob Josefson	 placed on IR with lower body injury
+34	2018-02-01	 Sabres	 • Jacob Josefson	 	 activated from IR
+35	2018-03-17	 Sabres	 	 • Jacob Josefson	 lower body injury (out for season)

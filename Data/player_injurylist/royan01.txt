@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-25	 Penguins	 	 • Andre Roy (a)	 cut above left eyebrow (DTD)
+1	2005-10-26	 Penguins	 	 • Andre Roy (a)	 orbital fracture (out until mid-November)
+2	2005-12-16	 Penguins	 • Andre Roy (a)	 	 returned to lineup
+3	2006-01-21	 Penguins	 	 • Andre Roy (a)	 hand injury (DTD)
+4	2006-02-06	 Penguins	 • Andre Roy (a)	 	 returned to lineup
+5	2008-10-14	 Flames	 	 • Andre Roy (a)	 left elbow injury (DTD)
+6	2008-10-17	 Flames	 • Andre Roy (a)	 	 returned to lineup
+7	2009-02-19	 Flames	 	 • Andre Roy (a)	 concussion (DTD)
+8	2009-03-03	 Flames	 • Andre Roy (a)	 	 returned to lineup
+9	2009-03-20	 Flames	 	 • Andre Roy (a)	 upper body injury (DTD)
+10	2009-04-16	 Flames	 • Andre Roy (a)	 	 returned to lineup
+11	2009-04-27	 Flames	 	 • Andre Roy (a)	 undisclosed (DTD)

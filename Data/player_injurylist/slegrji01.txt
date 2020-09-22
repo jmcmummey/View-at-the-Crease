@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-11-09	 Thrashers	 	 • Jiri Slegr	 placed on IR
+1	2001-11-16	 Thrashers	 • Jiri Slegr	 	 activated from IR
+2	2001-12-14	 Thrashers	 • Jiri Slegr	 	 activated from IR
+3	2002-01-14	 Thrashers	 • Jiri Slegr	 	 activated from IR
+4	2005-10-18	 Bruins	 	 • Jiri Slegr	 sore back (DTD)
+5	2005-10-26	 Bruins	 • Jiri Slegr	 	 returned to lineup
+6	2006-01-02	 Bruins	 	 • Jiri Slegr	 back injury (DTD)
+7	2006-01-14	 Bruins	 • Jiri Slegr	 	 returned to lineup
+8	2006-02-09	 Bruins	 	 • Jiri Slegr	 back injury (out indefinitely)
+9	2006-03-10	 Bruins	 	 • Jiri Slegr	 surgery on back to repair ruptured disc (out indefinitely) (date approximate)

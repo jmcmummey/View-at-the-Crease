@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-06	 Kings	 	 • Viatcheslav Voynov / Slava Voynov	 placed on IR with shoulder injury
+1	2010-10-12	 Kings	 • Viatcheslav Voynov / Slava Voynov	 	 activated from IR
+2	2012-01-02	 Kings	 	 • Viatcheslav Voynov / Slava Voynov	 undisclosed (DTD)
+3	2012-01-12	 Kings	 • Viatcheslav Voynov / Slava Voynov	 	 returned to lineup
+4	2014-11-11	 Kings	 	 • Viatcheslav Voynov / Slava Voynov	 designated as a non-roster playe

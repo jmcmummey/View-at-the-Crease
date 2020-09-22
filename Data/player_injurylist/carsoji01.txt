@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-11-01	 Red Wings	 	 • Jimmy Carson	 sore left shoulder (date approximate)
+1	1991-01-11	 Red Wings	 	 • Jimmy Carson	 strained right knee (out indefinitely)
+2	1991-04-25	 Red Wings	 	 • Jimmy Carson	 surgery on left shoulder to repair ligaments
+3	1993-11-06	 Kings	 	 • Jimmy Carson	 throat infection (DTD)
+4	1995-04-16	 Whalers	 	 • Jimmy Carson	 shoulder injury (DTD)
+5	1995-10-16	 Whalers	 	 • Jimmy Carson	 shoulder injury (DTD)
+6	1995-11-18	 Whalers	 	 • Jimmy Carson	 bruised knee (DTD)

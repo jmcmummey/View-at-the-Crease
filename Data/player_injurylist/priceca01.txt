@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-13	 Canadiens	 	 • Carey Price	 flu (DTD)
+1	2008-12-20	 Canadiens	 • Carey Price	 	 returned to lineup
+2	2009-01-02	 Canadiens	 	 • Carey Price	 groin / lower body injury (DTD)
+3	2009-01-20	 Canadiens	 • Carey Price	 	 returned to lineup
+4	2009-04-02	 Canadiens	 	 • Carey Price	 flu (DTD)
+5	2009-04-06	 Canadiens	 • Carey Price	 	 returned to lineup
+6	2012-04-02	 Canadiens	 	 • Carey Price	 headache / concussion (out for season)
+7	2013-02-16	 Canadiens	 	 • Carey Price	 flu (DTD)
+8	2013-02-18	 Canadiens	 • Carey Price	 	 returned to lineup
+9	2013-05-08	 Canadiens	 	 • Carey Price	 lower body injury (out for season)
+10	2014-02-26	 Canadiens	 	 • Carey Price	 lower body injury (DTD)
+11	2014-03-02	 Canadiens	 	 • Carey Price	 placed on IR with lower body injury
+12	2014-03-15	 Canadiens	 • Carey Price	 	 activated from IR
+13	2014-05-18	 Canadiens	 	 • Carey Price	 sprained right knee (out for season)
+14	2015-01-16	 Canadiens	 	 • Carey Price	 upper body injury (DTD)
+15	2015-01-20	 Canadiens	 • Carey Price	 	 returned to lineup
+16	2015-11-01	 Canadiens	 	 • Carey Price	 placed on IR with lower body injury
+17	2015-11-19	 Canadiens	 • Carey Price	 	 activated from IR
+18	2015-11-26	 Canadiens	 	 • Carey Price	 placed on IR with leg injury (out for season)
+19	2016-10-12	 Canadiens	 	 • Carey Price	 flu (DTD)
+20	2016-10-14	 Canadiens	 	 • Carey Price	 placed on IR with flu
+21	2016-10-20	 Canadiens	 • Carey Price	 	 activated from IR
+22	2017-11-03	 Canadiens	 	 • Carey Price	 lower body injury (DTD)
+23	2017-11-11	 Canadiens	 	 • Carey Price	 placed on IR with lower body injury
+24	2017-11-24	 Canadiens	 • Carey Price	 	 activated from IR
+25	2018-02-21	 Canadiens	 	 • Carey Price	 placed on IR with concussion
+26	2018-02-22	 Canadiens	 	 • Carey Price	 concussion (out indefinitely)
+27	2018-02-24	 Canadiens	 	 • Carey Price	 placed on IR with concussion
+28	2018-03-19	 Canadiens	 • Carey Price	 	 activated from IR
+29	2018-10-13	 Canadiens	 	 • Carey Price	 flu (DTD)
+30	2018-10-15	 Canadiens	 • Carey Price	 	 returned to lineup
+31	2018-12-28	 Canadiens	 	 • Carey Price	 placed on IR with lower body injury
+32	2019-01-02	 Canadiens	 • Carey Price	 	 activated from IR
+33	2020-02-03	 Canadiens	 	 • Carey Price	 illness (DTD)
+34	2020-02-06	 Canadiens	 • Carey Price	 	 returned to lineup

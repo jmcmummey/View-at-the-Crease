@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-17	 Rangers	 	 • Pavel Buchnevich	 back spasms (DTD)
+1	2016-10-23	 Rangers	 	 • Pavel Buchnevich	 placed on IR with back spasms
+2	2016-10-28	 Rangers	 • Pavel Buchnevich	 	 activated from IR
+3	2016-11-13	 Rangers	 	 • Pavel Buchnevich	 back spasms (DTD)
+4	2016-11-20	 Rangers	 	 • Pavel Buchnevich	 placed on IR with back spasms
+5	2017-01-06	 Rangers	 • Pavel Buchnevich	 	 activated from IR
+6	2018-02-02	 Rangers	 	 • Pavel Buchnevich	 concussion (DTD)
+7	2018-02-09	 Rangers	 	 • Pavel Buchnevich	 placed on IR with concussion
+8	2018-02-16	 Rangers	 • Pavel Buchnevich	 	 activated from IR
+9	2018-11-12	 Rangers	 	 • Pavel Buchnevich	 placed on IR with fractured thumb
+10	2018-12-14	 Rangers	 • Pavel Buchnevich	 	 activated from IR
+11	2019-04-01	 Rangers	 	 • Pavel Buchnevich	 concussion (DTD)
+12	2019-04-02	 Rangers	 • Pavel Buchnevich	 	 returned to lineup
+13	2020-02-25	 Rangers	 	 • Pavel Buchnevich	 undisclosed (DTD)
+14	2020-02-27	 Rangers	 • Pavel Buchnevich	 	 returned to lineup

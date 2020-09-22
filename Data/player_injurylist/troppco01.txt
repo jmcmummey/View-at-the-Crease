@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-10	 Sabres	 	 • Corey Tropp	 upper body injury (DTD)
+1	2011-12-20	 Sabres	 	 • Corey Tropp	 placed on IR with upper body injury
+2	2013-10-01	 Sabres	 	 • Corey Tropp	 placed on IR with jaw injury
+3	2013-11-02	 Sabres	 • Corey Tropp	 	 activated from IR
+4	2014-11-01	 Blue Jackets	 	 • Corey Tropp	 illness (DTD)
+5	2014-11-07	 Blue Jackets	 • Corey Tropp	 	 returned to lineup

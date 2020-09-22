@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-17	 Penguins	 	 • Jayson Megna	 placed on IR with lower body injury
+1	2014-01-20	 Penguins	 • Jayson Megna	 	 activated from IR
+2	2016-10-29	 Canucks	 	 • Jayson Megna	 placed on IR with shoulder injury
+3	2016-11-19	 Canucks	 • Jayson Megna	 	 activated from IR
+4	2017-01-17	 Canucks	 	 • Jayson Megna	 illness (DTD)
+5	2017-01-20	 Canucks	 • Jayson Megna	 	 returned to lineup
+6	2017-03-22	 Canucks	 	 • Jayson Megna	 upper body injury (DTD)
+7	2017-04-02	 Canucks	 • Jayson Megna	 	 returned to lineup

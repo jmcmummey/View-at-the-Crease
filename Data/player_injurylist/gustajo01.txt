@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-08	 Maple Leafs	 	 • Jonas Gustavsson	 placed on IR with groin injury
+1	2009-10-26	 Maple Leafs	 • Jonas Gustavsson	 	 activated from IR
+2	2009-12-01	 Maple Leafs	 	 • Jonas Gustavsson	 accelerated heart rate (DTD)
+3	2009-12-02	 Maple Leafs	 	 • Jonas Gustavsson	 heart ablation procedure (DTD)
+4	2009-12-18	 Maple Leafs	 • Jonas Gustavsson	 	 returned to lineup
+5	2011-02-13	 Maple Leafs	 	 • Jonas Gustavsson	 placed on IR with heart ablation procedure
+6	2011-02-22	 Maple Leafs	 	 • Jonas Gustavsson	 heart surgery (DTD)
+7	2011-03-03	 Maple Leafs	 • Jonas Gustavsson	 	 returned to lineup
+8	2012-03-30	 Maple Leafs	 	 • Jonas Gustavsson	 knee injury (DTD)
+9	2012-04-03	 Maple Leafs	 • Jonas Gustavsson	 	 returned to lineup
+10	2013-01-21	 Red Wings	 	 • Jonas Gustavsson	 groin injury (DTD)
+11	2013-02-08	 Red Wings	 	 • Jonas Gustavsson	 placed on IR with groin injury
+12	2013-02-16	 Red Wings	 • Jonas Gustavsson	 	 activated from IR
+13	2013-02-24	 Red Wings	 	 • Jonas Gustavsson	 groin injury (DTD)
+14	2013-02-27	 Red Wings	 • Jonas Gustavsson	 	 returned to lineup
+15	2013-09-30	 Red Wings	 	 • Jonas Gustavsson	 placed on IR with groin injury
+16	2013-10-11	 Red Wings	 • Jonas Gustavsson	 	 activated from IR
+17	2013-11-01	 Red Wings	 	 • Jonas Gustavsson	 placed on IR with strained neck
+18	2013-11-07	 Red Wings	 • Jonas Gustavsson	 	 activated from IR
+19	2013-12-29	 Red Wings	 	 • Jonas Gustavsson	 groin injury (DTD)
+20	2014-01-04	 Red Wings	 	 • Jonas Gustavsson	 placed on IR with groin injury
+21	2014-01-21	 Red Wings	 • Jonas Gustavsson	 	 activated from IR
+22	2014-03-08	 Red Wings	 	 • Jonas Gustavsson	 groin injury (DTD)
+23	2014-03-20	 Red Wings	 • Jonas Gustavsson	 	 returned to lineup
+24	2014-04-11	 Red Wings	 	 • Jonas Gustavsson	 undisclosed injury (DTD)
+25	2014-11-06	 Red Wings	 	 • Jonas Gustavsson	 placed on IR with separated left shoulder
+26	2015-01-31	 Red Wings	 • Jonas Gustavsson	 	 activated from IR
+27	2015-02-11	 Red Wings	 	 • Jonas Gustavsson	 bruised shoulder (DTD)
+28	2015-02-18	 Red Wings	 • Jonas Gustavsson	 	 returned to lineup
+29	2015-03-09	 Red Wings	 	 • Jonas Gustavsson	 concussion-like symptoms (out for season)
+30	2016-01-26	 Bruins	 	 • Jonas Gustavsson	 illness (DTD)
+31	2016-02-01	 Bruins	 	 • Jonas Gustavsson	 placed on IR with heart ailment
+32	2016-02-04	 Bruins	 • Jonas Gustavsson	 	 activated from IR
+33	2016-10-17	 Oilers	 	 • Jonas Gustavsson	 head injury / concussion-like symptoms (DTD)
+34	2016-10-21	 Oilers	 • Jonas Gustavsson	 	 returned to lineup

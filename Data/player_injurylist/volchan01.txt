@@ -1,0 +1,70 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-12-08	 Senators	 	 • Anton Volchenkov	 shoulder injury (out indefinitely)
+1	2005-11-01	 Senators	 	 • Anton Volchenkov	 rib injury (DTD)
+2	2005-11-05	 Senators	 • Anton Volchenkov	 	 returned to lineup
+3	2006-03-21	 Senators	 	 • Anton Volchenkov	 concussion (left game)
+4	2006-03-22	 Senators	 	 • Anton Volchenkov	 concussion (DTD)
+5	2006-03-30	 Senators	 • Anton Volchenkov	 	 returned to lineup
+6	2006-04-05	 Senators	 	 • Anton Volchenkov	 neck injury (DTD)
+7	2006-04-08	 Senators	 • Anton Volchenkov	 	 returned to lineup
+8	2006-05-10	 Senators	 	 • Anton Volchenkov	 head injury (DTD)
+9	2006-05-11	 Senators	 • Anton Volchenkov	 	 returned to lineup
+10	2006-11-26	 Senators	 	 • Anton Volchenkov	 lower body injury (DTD)
+11	2006-11-30	 Senators	 • Anton Volchenkov	 	 returned to lineup
+12	2007-01-11	 Senators	 	 • Anton Volchenkov	 ankle injury (DTD)
+13	2007-01-13	 Senators	 • Anton Volchenkov	 	 returned to lineup
+14	2007-03-31	 Senators	 	 • Anton Volchenkov	 headache (DTD)
+15	2007-04-03	 Senators	 • Anton Volchenkov	 	 returned to lineup
+16	2007-11-29	 Senators	 	 • Anton Volchenkov	 hand injury (left game)
+17	2007-11-30	 Senators	 	 • Anton Volchenkov	 broken finger (out indefinitely)
+18	2008-01-04	 Senators	 • Anton Volchenkov	 	 returned to lineup
+19	2008-12-13	 Senators	 	 • Anton Volchenkov	 lower body injury (DTD)
+20	2008-12-19	 Senators	 • Anton Volchenkov	 	 returned to lineup
+21	2008-12-24	 Senators	 	 • Anton Volchenkov	 upper body injury (DTD)
+22	2009-01-03	 Senators	 • Anton Volchenkov	 	 returned to lineup
+23	2009-01-04	 Senators	 	 • Anton Volchenkov	 shoulder injury (DTD)
+24	2009-01-27	 Senators	 • Anton Volchenkov	 	 returned to lineup
+25	2009-10-29	 Senators	 	 • Anton Volchenkov	 placed on IR with dislocated right elbow
+26	2009-12-01	 Senators	 • Anton Volchenkov	 	 activated from IR
+27	2010-01-23	 Senators	 	 • Anton Volchenkov	 upper body injury (DTD)
+28	2010-01-26	 Senators	 • Anton Volchenkov	 	 returned to lineup
+29	2010-03-27	 Senators	 	 • Anton Volchenkov	 upper body injury (DTD)
+30	2010-04-01	 Senators	 • Anton Volchenkov	 	 returned to lineup
+31	2010-10-11	 Devils	 	 • Anton Volchenkov	 broken nose (DTD)
+32	2010-10-30	 Devils	 	 • Anton Volchenkov	 placed on IR with broken nose
+33	2010-11-05	 Devils	 • Anton Volchenkov	 	 activated from IR
+34	2011-03-26	 Devils	 	 • Anton Volchenkov	 lower body injury (DTD)
+35	2011-04-01	 Devils	 • Anton Volchenkov	 	 returned to lineup
+36	2011-04-02	 Devils	 	 • Anton Volchenkov	 left leg injury (out for season)
+37	2011-12-09	 Devils	 	 • Anton Volchenkov	 placed on IR with hand injury
+38	2011-12-16	 Devils	 • Anton Volchenkov	 	 activated from IR
+39	2011-12-31	 Devils	 	 • Anton Volchenkov	 lower body injury (DTD)
+40	2012-01-07	 Devils	 	 • Anton Volchenkov	 placed on IR with lower body injury
+41	2012-01-10	 Devils	 • Anton Volchenkov	 	 activated from IR
+42	2012-03-25	 Devils	 	 • Anton Volchenkov	 lower body injury (DTD)
+43	2012-03-29	 Devils	 • Anton Volchenkov	 	 returned to lineup
+44	2013-11-03	 Devils	 	 • Anton Volchenkov	 lower body injury (DTD)
+45	2013-11-06	 Devils	 • Anton Volchenkov	 	 returned to lineup
+46	2013-11-13	 Devils	 	 • Anton Volchenkov	 pulled leg muscle (DTD)
+47	2013-11-18	 Devils	 	 • Anton Volchenkov	 placed on IR with leg injury
+48	2013-11-29	 Devils	 • Anton Volchenkov	 	 activated from IR
+49	2013-12-28	 Devils	 	 • Anton Volchenkov	 body soreness (DTD)
+50	2014-01-03	 Devils	 	 • Anton Volchenkov	 placed on IR with body soreness
+51	2014-01-04	 Devils	 • Anton Volchenkov	 	 activated from IR
+52	2014-01-16	 Devils	 	 • Anton Volchenkov	 food poisoning (DTD)
+53	2014-01-18	 Devils	 • Anton Volchenkov	 	 returned to lineup
+54	2014-02-03	 Devils	 	 • Anton Volchenkov	 lower body injury (DTD)
+55	2014-03-01	 Devils	 • Anton Volchenkov	 	 returned to lineup
+56	2014-03-23	 Devils	 	 • Anton Volchenkov	 lower body injury (DTD)
+57	2014-04-04	 Devils	 • Anton Volchenkov	 	 returned to lineup
+58	2014-12-06	 Predators	 	 • Anton Volchenkov	 lower body injury (DTD)
+59	2014-12-09	 Predators	 • Anton Volchenkov	 	 returned to lineup
+60	2014-12-20	 Predators	 	 • Anton Volchenkov	 lower body injury (DTD)
+61	2014-12-30	 Predators	 • Anton Volchenkov	 	 returned to lineup
+62	2015-01-06	 Predators	 	 • Anton Volchenkov	 lower body injury (DTD)
+63	2015-01-10	 Predators	 • Anton Volchenkov	 	 returned to lineup
+64	2015-02-14	 Predators	 	 • Anton Volchenkov	 lower body injury (DTD)
+65	2015-02-17	 Predators	 	 • Anton Volchenkov	 placed on IR with lower body injury
+66	2015-03-09	 Predators	 • Anton Volchenkov	 	 activated from IR
+67	2015-03-12	 Predators	 	 • Anton Volchenkov	 lower body injury (DTD)
+68	2015-03-28	 Predators	 • Anton Volchenkov	 	 returned to lineup

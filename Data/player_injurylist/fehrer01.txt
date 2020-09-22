@@ -1,0 +1,47 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-15	 Capitals	 	 • Eric Fehr	 back injury (DTD)
+1	2007-04-07	 Capitals	 • Eric Fehr	 	 returned to lineup
+2	2007-10-03	 Capitals	 	 • Eric Fehr	 back injury (out indefinitely)
+3	2008-01-09	 Capitals	 • Eric Fehr	 	 returned to lineup
+4	2008-12-07	 Capitals	 	 • Eric Fehr	 shoulder injury (DTD)
+5	2008-12-18	 Capitals	 • Eric Fehr	 	 returned to lineup
+6	2009-05-06	 Capitals	 	 • Eric Fehr	 undisclosed injury (out for season)
+7	2009-09-30	 Capitals	 	 • Eric Fehr	 placed on IR
+8	2009-10-27	 Capitals	 	 • Eric Fehr	 rib injury (DTD)
+9	2009-11-07	 Capitals	 • Eric Fehr	 	 returned to lineup
+10	2011-01-15	 Capitals	 	 • Eric Fehr	 right shoulder injury (DTD)
+11	2011-01-26	 Capitals	 	 • Eric Fehr	 placed on IR with right shoulder injury
+12	2011-03-09	 Capitals	 • Eric Fehr	 	 activated from IR
+13	2011-03-15	 Capitals	 	 • Eric Fehr	 upper body injury (DTD)
+14	2011-03-22	 Capitals	 • Eric Fehr	 	 returned to lineup
+15	2011-03-25	 Capitals	 	 • Eric Fehr	 shoulder injury (DTD)
+16	2011-03-26	 Capitals	 • Eric Fehr	 	 returned to lineup
+17	2011-10-04	 Jets	 	 • Eric Fehr	 placed on IR recovering from surgery on right shoulder
+18	2011-11-19	 Jets	 • Eric Fehr	 	 activated from IR
+19	2011-12-01	 Jets	 	 • Eric Fehr	 right shoulder injury (DTD)
+20	2011-12-13	 Jets	 • Eric Fehr	 	 returned to lineup
+21	2012-03-17	 Jets	 	 • Eric Fehr	 upper body injury (out for season)
+22	2013-03-26	 Capitals	 	 • Eric Fehr	 upper body injury (DTD)
+23	2013-03-30	 Capitals	 	 • Eric Fehr	 placed on IR with upper body injury
+24	2013-04-04	 Capitals	 • Eric Fehr	 	 activated from IR
+25	2015-01-16	 Capitals	 	 • Eric Fehr	 lower body injury (DTD)
+26	2015-01-17	 Capitals	 • Eric Fehr	 	 returned to lineup
+27	2015-04-05	 Capitals	 	 • Eric Fehr	 upper body injury (DTD)
+28	2015-04-15	 Capitals	 • Eric Fehr	 	 returned to lineup
+29	2015-04-20	 Capitals	 	 • Eric Fehr	 upper body injury (out for season)
+30	2015-10-06	 Penguins	 	 • Eric Fehr	 placed on IR with elbow injury
+31	2015-10-31	 Penguins	 • Eric Fehr	 	 activated from IR
+32	2016-02-03	 Penguins	 	 • Eric Fehr	 placed on IR with lower body injury
+33	2016-03-11	 Penguins	 • Eric Fehr	 	 activated from IR
+34	2016-05-04	 Penguins	 	 • Eric Fehr	 undisclosed injury (DTD)
+35	2016-05-06	 Penguins	 • Eric Fehr	 	 returned to lineup
+36	2017-03-23	 Maple Leafs	 	 • Eric Fehr	 upper body injury (out for season)
+37	2018-03-01	 Sharks	 	 • Eric Fehr	 lower body injury (DTD)
+38	2018-03-04	 Sharks	 • Eric Fehr	 	 returned to lineup
+39	2018-03-26	 Sharks	 	 • Eric Fehr	 lower body injury (DTD)
+40	2018-04-12	 Sharks	 • Eric Fehr	 	 returned to lineup
+41	2019-01-08	 Wild	 	 • Eric Fehr	 undisclosed (DTD)
+42	2019-01-17	 Wild	 	 • Eric Fehr	 placed on IR with undisclosed injury
+43	2019-02-01	 Wild	 • Eric Fehr	 	 activated from IR
+44	2019-02-05	 Wild	 	 • Eric Fehr	 illness (DTD)
+45	2019-02-07	 Wild	 • Eric Fehr	 	 returned to lineup

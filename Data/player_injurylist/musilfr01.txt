@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-10-02	 Oilers	 	 • Frantisek Musil / Frank Musil	 neck injury (out indefinitely)
+1	1999-10-04	 Oilers	 	 • Frantisek Musil / Frank Musil	 placed on IR with compressed vertebrae in neck
+2	2000-02-25	 Oilers	 	 • Frantisek Musil / Frank Musil	 surgery on neck to repair nerve damage
+3	2001-01-07	 Oilers	 	 • Frantisek Musil (LOH) / Frank Musil	 neck injury / numbness in right arm (out indefinitely)

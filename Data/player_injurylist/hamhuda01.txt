@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-17	 Predators	 	 • Dan Hamhuis	 upper body injury (DTD)
+1	2009-10-28	 Predators	 • Dan Hamhuis	 	 returned to lineup
+2	2010-10-18	 Canucks	 	 • Dan Hamhuis	 foot injury (DTD)
+3	2010-11-09	 Canucks	 • Dan Hamhuis	 	 returned to lineup
+4	2011-02-10	 Canucks	 	 • Dan Hamhuis	 concussion (DTD)
+5	2011-02-22	 Canucks	 • Dan Hamhuis	 	 returned to lineup
+6	2011-03-28	 Canucks	 	 • Dan Hamhuis	 concussion (DTD)
+7	2011-04-09	 Canucks	 • Dan Hamhuis	 	 returned to lineup
+8	2011-06-02	 Canucks	 	 • Dan Hamhuis	 lower body injury (out for season)
+9	2014-02-04	 Canucks	 	 • Dan Hamhuis	 undisclosed injury (DTD)
+10	2014-02-07	 Canucks	 • Dan Hamhuis	 	 returned to lineup
+11	2014-11-21	 Canucks	 	 • Dan Hamhuis	 placed on IR with lower body injury
+12	2015-01-15	 Canucks	 • Dan Hamhuis	 	 activated from IR
+13	2015-10-27	 Canucks	 	 • Dan Hamhuis	 placed on IR with lower body injury
+14	2015-10-29	 Canucks	 	 • Dan Hamhuis	 placed on IR with lower body injury (CBC)
+15	2015-11-02	 Canucks	 • Dan Hamhuis	 	 activated from IR
+16	2015-12-10	 Canucks	 	 • Dan Hamhuis	 placed on IR with facial fractures
+17	2015-12-15	 Canucks	 	 • Dan Hamhuis	 placed on IR with facial fractures (CBC)
+18	2016-02-06	 Canucks	 • Dan Hamhuis	 	 activated from IR
+19	2017-03-24	 Stars	 	 • Dan Hamhuis	 undisclosed injury (DTD)
+20	2017-03-26	 Stars	 • Dan Hamhuis	 	 returned to lineup
+21	2017-10-10	 Stars	 	 • Dan Hamhuis	 groin injury (DTD)
+22	2017-10-14	 Stars	 • Dan Hamhuis	 	 returned to lineup
+23	2018-10-25	 Predators	 	 • Dan Hamhuis	 placed on IR with undisclosed injury
+24	2018-11-15	 Predators	 • Dan Hamhuis	 	 activated from IR
+25	2019-02-25	 Predators	 	 • Dan Hamhuis	 placed on IR with lower body injury
+26	2019-03-30	 Predators	 • Dan Hamhuis	 	 activated from IR
+27	2019-12-28	 Predators	 	 • Dan Hamhuis	 upper body injury (DTD)
+28	2020-01-01	 Predators	 • Dan Hamhuis	 	 returned to lineup
+29	2020-03-03	 Predators	 	 • Dan Hamhuis	 lower body injury (out for season)

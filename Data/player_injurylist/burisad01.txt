@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-13	 Blackhawks	 	 • Adam Burish	 elbow injury (DTD)
+1	2007-01-19	 Blackhawks	 • Adam Burish	 	 returned to lineup
+2	2008-11-29	 Blackhawks	 	 • Adam Burish	 leg injury (DTD)
+3	2008-12-09	 Blackhawks	 	 • Adam Burish	 placed on IR with right foot injury
+4	2008-12-30	 Blackhawks	 • Adam Burish	 	 activated from IR
+5	2009-09-22	 Blackhawks	 	 • Adam Burish	 torn ACL in right knee (out indefinitely)
+6	2009-09-30	 Blackhawks	 	 • Adam Burish	 placed on IR with torn ACL in right knee
+7	2010-03-06	 Blackhawks	 • Adam Burish	 	 activated from IR
+8	2011-02-04	 Stars	 	 • Adam Burish	 placed on IR with facial injury / fractured orbital bone
+9	2011-02-23	 Stars	 • Adam Burish	 	 activated from IR
+10	2011-02-23	 Stars	 	 • Adam Burish	 fractured orbital bone (DTD)
+11	2011-02-24	 Stars	 • Adam Burish	 	 returned to lineup
+12	2011-03-13	 Stars	 	 • Adam Burish	 lower body injury (out indefinitely)
+13	2011-04-07	 Stars	 • Adam Burish	 	 returned to lineup
+14	2011-10-07	 Stars	 	 • Adam Burish	 groin injury (DTD)
+15	2011-10-08	 Stars	 • Adam Burish	 	 returned to lineup
+16	2011-11-16	 Stars	 	 • Adam Burish	 placed on IR with broken hand
+17	2011-12-20	 Stars	 • Adam Burish	 	 activated from IR
+18	2013-05-08	 Sharks	 	 • Adam Burish	 fractured hand (out for season)
+19	2013-10-03	 Sharks	 	 • Adam Burish	 lower body injury (DTD)
+20	2013-10-15	 Sharks	 	 • Adam Burish	 placed on IR with lower body injury
+21	2014-02-05	 Sharks	 • Adam Burish	 	 activated from IR
+22	2014-03-26	 Sharks	 	 • Adam Burish	 hand injury (out for season)

@@ -1,0 +1,48 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-02-09	 Sabres	 	 • Thomas Vanek	 jaw injury (out indefinitely)
+1	2009-03-04	 Sabres	 • Thomas Vanek	 	 returned to lineup
+2	2009-10-13	 Sabres	 	 • Thomas Vanek	 upper body injury (out indefinitely)
+3	2009-10-21	 Sabres	 • Thomas Vanek	 	 returned to lineup
+4	2009-12-19	 Sabres	 	 • Thomas Vanek	 abdominal strain (DTD)
+5	2009-12-26	 Sabres	 • Thomas Vanek	 	 returned to lineup
+6	2010-03-29	 Sabres	 	 • Thomas Vanek	 lower body injury (DTD)
+7	2010-04-05	 Sabres	 	 • Thomas Vanek	 lower body injury (DTD)
+8	2010-04-10	 Sabres	 • Thomas Vanek	 	 returned to lineup
+9	2010-04-18	 Sabres	 	 • Thomas Vanek	 left foot/ankle injury (out for season)
+10	2011-03-08	 Sabres	 	 • Thomas Vanek	 illness (DTD)
+11	2011-03-10	 Sabres	 • Thomas Vanek	 	 returned to lineup
+12	2012-01-11	 Sabres	 	 • Thomas Vanek	 illness (DTD)
+13	2012-02-01	 Sabres	 	 • Thomas Vanek	 upper body injury (DTD)
+14	2012-02-10	 Sabres	 • Thomas Vanek	 	 returned to lineup
+15	2012-03-10	 Sabres	 	 • Thomas Vanek	 upper body injury (DTD)
+16	2012-03-12	 Sabres	 • Thomas Vanek	 	 returned to lineup
+17	2013-01-27	 Sabres	 	 • Thomas Vanek	 strained muscle (DTD)
+18	2013-03-02	 Sabres	 	 • Thomas Vanek	 upper body injury (DTD)
+19	2013-03-05	 Sabres	 • Thomas Vanek	 	 returned to lineup
+20	2013-03-19	 Sabres	 	 • Thomas Vanek	 upper body injury (DTD)
+21	2013-03-21	 Sabres	 	 • Thomas Vanek	 lower body injury (DTD)
+22	2013-03-23	 Sabres	 • Thomas Vanek	 	 returned to lineup
+23	2013-03-28	 Sabres	 	 • Thomas Vanek	 upper body injury (DTD)
+24	2013-04-09	 Sabres	 • Thomas Vanek	 	 returned to lineup
+25	2013-11-10	 Islanders	 	 • Thomas Vanek	 upper body injury (DTD)
+26	2013-11-22	 Islanders	 • Thomas Vanek	 	 returned to lineup
+27	2015-03-06	 Wild	 	 • Thomas Vanek	 illness (DTD)
+28	2015-03-08	 Wild	 • Thomas Vanek	 	 returned to lineup
+29	2015-04-09	 Wild	 	 • Thomas Vanek	 general soreness (DTD)
+30	2015-04-11	 Wild	 • Thomas Vanek	 	 returned to lineup
+31	2016-03-31	 Wild	 	 • Thomas Vanek	 upper body injury (DTD)
+32	2016-04-01	 Wild	 • Thomas Vanek	 	 returned to lineup
+33	2016-04-03	 Wild	 	 • Thomas Vanek	 upper body injury (out for season)
+34	2016-10-27	 Red Wings	 	 • Thomas Vanek	 groin injury (DTD)
+35	2016-11-06	 Red Wings	 	 • Thomas Vanek	 hip injury (out indefinitely)
+36	2016-11-07	 Red Wings	 	 • Thomas Vanek	 placed on IR with hip injury
+37	2016-11-20	 Red Wings	 • Thomas Vanek	 	 activated from IR
+38	2017-01-22	 Red Wings	 	 • Thomas Vanek	 lower body injury (DTD)
+39	2017-01-25	 Red Wings	 • Thomas Vanek	 	 returned to lineup
+40	2017-02-12	 Red Wings	 	 • Thomas Vanek	 ankle injury (DTD)
+41	2017-02-15	 Red Wings	 • Thomas Vanek	 	 returned to lineup
+42	2018-11-01	 Red Wings	 	 • Thomas Vanek	 placed on IR with lower body injury
+43	2018-11-21	 Red Wings	 • Thomas Vanek	 	 activated from IR
+44	2019-02-24	 Red Wings	 	 • Thomas Vanek	 hip flexor injury (DTD)
+45	2019-03-05	 Red Wings	 • Thomas Vanek	 	 returned to lineup
+46	2019-03-27	 Red Wings	 	 • Thomas Vanek	 mid body injury (out for season)

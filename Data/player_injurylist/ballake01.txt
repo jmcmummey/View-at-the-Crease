@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-10	 Coyotes	 	 • Keith Ballard	 broken hand (out indefinitely)
+1	2006-11-09	 Coyotes	 • Keith Ballard	 	 returned to lineup
+2	2010-10-17	 Canucks	 	 • Keith Ballard	 concussion (DTD)
+3	2010-11-01	 Canucks	 • Keith Ballard	 	 returned to lineup
+4	2010-11-20	 Canucks	 	 • Keith Ballard	 flu (DTD)
+5	2010-11-24	 Canucks	 • Keith Ballard	 	 returned to lineup
+6	2011-02-08	 Canucks	 	 • Keith Ballard	 placed on IR with sprained right knee
+7	2011-02-22	 Canucks	 • Keith Ballard	 	 activated from IR
+8	2011-11-17	 Canucks	 	 • Keith Ballard	 back injury (out indefinitely)
+9	2011-11-25	 Canucks	 • Keith Ballard	 	 returned to lineup
+10	2011-12-19	 Canucks	 	 • Keith Ballard	 back spasms (DTD)
+11	2011-12-26	 Canucks	 • Keith Ballard	 	 returned to lineup
+12	2012-02-13	 Canucks	 	 • Keith Ballard	 headaches (DTD)
+13	2012-02-18	 Canucks	 	 • Keith Ballard	 placed on IR with headaches
+14	2012-04-13	 Canucks	 • Keith Ballard	 	 activated from IR
+15	2013-03-06	 Canucks	 	 • Keith Ballard	 lower body injury (DTD)
+16	2013-03-10	 Canucks	 • Keith Ballard	 	 returned to lineup
+17	2013-03-28	 Canucks	 	 • Keith Ballard	 fractured foot (DTD)
+18	2013-04-03	 Canucks	 	 • Keith Ballard	 placed on IR wtih fractured foot
+19	2013-04-08	 Canucks	 • Keith Ballard	 	 activated from IR
+20	2013-04-21	 Canucks	 	 • Keith Ballard	 strained back (DTD)
+21	2013-04-25	 Canucks	 • Keith Ballard	 	 returned to lineup
+22	2013-10-15	 Wild	 	 • Keith Ballard	 head injury / concussion (DTD)
+23	2013-11-01	 Wild	 • Keith Ballard	 	 returned to lineup
+24	2013-11-06	 Wild	 	 • Keith Ballard	 upper body injury (DTD)
+25	2013-11-11	 Wild	 	 • Keith Ballard	 placed on IR with upper body injury
+26	2013-11-27	 Wild	 • Keith Ballard	 	 activated from IR
+27	2014-03-18	 Wild	 	 • Keith Ballard	 groin injury (DTD)
+28	2014-05-06	 Wild	 • Keith Ballard	 	 returned to lineup
+29	2014-05-11	 Wild	 	 • Keith Ballard	 upper body injury (out for season)
+30	2014-10-23	 Wild	 	 • Keith Ballard	 flu (DTD)
+31	2014-10-28	 Wild	 	 • Keith Ballard	 placed on IR with illness
+32	2014-11-08	 Wild	 • Keith Ballard	 	 activated from IR
+33	2014-12-10	 Wild	 	 • Keith Ballard	 concussion / facial fractures (out for season)
+34	2014-12-15	 Wild	 	 • Keith Ballard	 placed on IR with concussion (out for season)

@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-09-01	 Thrashers	 	 • Dany Heatley	 injured knee in car accident (date approximate)
+1	2004-01-28	 Thrashers	 • Dany Heatley	 	 activated from IR
+2	2008-01-12	 Senators	 	 • Dany Heatley	 right shoulder injury (left game)
+3	2008-01-13	 Senators	 	 • Dany Heatley	 right shoulder injury (out 6-8 weeks)
+4	2008-02-07	 Senators	 • Dany Heatley	 	 returned to lineup
+5	2010-04-18	 Sharks	 	 • Dany Heatley	 undisclosed injury (DTD)
+6	2010-04-20	 Sharks	 • Dany Heatley	 	 returned to lineup
+7	2011-10-22	 Wild	 	 • Dany Heatley	 groin injury (DTD)
+8	2013-04-04	 Wild	 	 • Dany Heatley	 wrist injury (Y) / lower body injury (CBC) (DTD)
+9	2013-04-09	 Wild	 	 • Dany Heatley	 surgery on shoulder (out for season)
+10	2014-10-06	 Ducks	 	 • Dany Heatley	 placed on IR with groin injury
+11	2014-10-28	 Ducks	 • Dany Heatley	 	 activated from IR
+12	2014-11-14	 Ducks	 	 • Dany Heatley	 placed on IR with groin injury
+13	2014-12-15	 Ducks	 • Dany Heatley	 	 activated from IR

@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-09-01	 Panthers	 	 • Serge Payer	 back injury (out indefinitely) (date approximate)
+1	2005-12-01	 Panthers	 	 • Serge Payer	 rib injury (DTD)
+2	2005-12-13	 Panthers	 • Serge Payer	 	 returned to lineup

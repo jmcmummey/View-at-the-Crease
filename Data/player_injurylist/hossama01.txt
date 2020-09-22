@@ -1,0 +1,67 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-20	 Thrashers	 	 • Marian Hossa	 flu (DTD)
+1	2006-03-23	 Thrashers	 • Marian Hossa	 	 returned to lineup
+2	2007-10-10	 Thrashers	 	 • Marian Hossa	 groin injury (DTD)
+3	2007-10-16	 Thrashers	 • Marian Hossa	 	 returned to lineup
+4	2008-02-29	 Penguins	 	 • Marian Hossa	 knee injury (out indefinitely)
+5	2008-03-16	 Penguins	 • Marian Hossa	 	 returned to lineup
+6	2009-02-26	 Red Wings	 	 • Marian Hossa	 neck injury (DTD)
+7	2009-03-03	 Red Wings	 • Marian Hossa	 	 returned to lineup
+8	2009-03-03	 Red Wings	 	 • Marian Hossa	 lower body injury (left game)
+9	2009-03-04	 Red Wings	 	 • Marian Hossa	 head injury (DTD)
+10	2009-03-14	 Red Wings	 • Marian Hossa	 	 returned to lineup
+11	2009-04-10	 Red Wings	 	 • Marian Hossa	 groin injury (DTD)
+12	2009-04-16	 Red Wings	 • Marian Hossa	 	 returned to lineup
+13	2009-09-14	 Blackhawks	 	 • Marian Hossa	 surgery on right shoulder (out indefinitely)
+14	2009-09-30	 Blackhawks	 	 • Marian Hossa	 placed on IR recovering from surgery on right shoulder
+15	2009-11-25	 Blackhawks	 • Marian Hossa	 	 activated from IR
+16	2010-01-10	 Blackhawks	 	 • Marian Hossa	 lower body injury (DTD)
+17	2010-01-14	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+18	2010-02-14	 Blackhawks	 	 • Marian Hossa	 head injury (DTD)
+19	2010-03-02	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+20	2010-03-14	 Blackhawks	 	 • Marian Hossa	 upper body injury (DTD)
+21	2010-03-17	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+22	2010-04-07	 Blackhawks	 	 • Marian Hossa	 undisclosed injury (left game)
+23	2010-10-28	 Blackhawks	 	 • Marian Hossa	 upper body injury (DTD)
+24	2010-11-07	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+25	2010-11-30	 Blackhawks	 	 • Marian Hossa	 lower body injury (DTD)
+26	2010-12-08	 Blackhawks	 	 • Marian Hossa	 placed on IR with lower body injury
+27	2010-12-26	 Blackhawks	 • Marian Hossa	 	 activated from IR
+28	2011-01-25	 Blackhawks	 	 • Marian Hossa	 illness (DTD)
+29	2011-02-01	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+30	2011-02-10	 Blackhawks	 	 • Marian Hossa	 upper body injury (DTD)
+31	2011-02-12	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+32	2011-10-15	 Blackhawks	 	 • Marian Hossa	 upper body injury (DTD)
+33	2011-10-18	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+34	2012-04-18	 Blackhawks	 	 • Marian Hossa	 head injury (out for season)
+35	2013-02-20	 Blackhawks	 	 • Marian Hossa	 head injury (DTD)
+36	2013-03-06	 Blackhawks	 	 • Marian Hossa	 upper body injury (DTD)
+37	2013-03-08	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+38	2013-03-18	 Blackhawks	 	 • Marian Hossa	 upper body injury (DTD)
+39	2013-03-29	 Blackhawks	 	 • Marian Hossa	 placed on IR with upper body injury
+40	2013-04-04	 Blackhawks	 • Marian Hossa	 	 activated from IR
+41	2013-06-17	 Blackhawks	 	 • Marian Hossa	 upper body injury (DTD)
+42	2013-06-19	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+43	2013-11-16	 Blackhawks	 	 • Marian Hossa	 lower body injury (DTD)
+44	2013-11-21	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+45	2014-03-02	 Blackhawks	 	 • Marian Hossa	 upper body injury (DTD)
+46	2014-03-16	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+47	2015-10-31	 Blackhawks	 	 • Marian Hossa	 lower body injury (DTD)
+48	2015-11-08	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+49	2015-12-20	 Blackhawks	 	 • Marian Hossa	 upper body injury (DTD)
+50	2015-12-27	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+51	2016-02-14	 Blackhawks	 	 • Marian Hossa	 placed on IR with leg injury
+52	2016-03-11	 Blackhawks	 • Marian Hossa	 	 activated from IR
+53	2016-03-31	 Blackhawks	 	 • Marian Hossa	 illness (DTD)
+54	2016-04-02	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+55	2016-04-05	 Blackhawks	 	 • Marian Hossa	 lower body injury (out for season)
+56	2016-10-19	 Blackhawks	 	 • Marian Hossa	 undisclosed injury (DTD)
+57	2016-10-20	 Blackhawks	 	 • Marian Hossa	 lower body injury (DTD)
+58	2016-10-22	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+59	2016-12-21	 Blackhawks	 	 • Marian Hossa	 upper body injury (DTD)
+60	2016-12-27	 Blackhawks	 	 • Marian Hossa	 placed on IR with upper body injury
+61	2017-01-04	 Blackhawks	 • Marian Hossa	 	 activated from IR
+62	2017-03-18	 Blackhawks	 	 • Marian Hossa	 lower body injury (DTD)
+63	2017-03-21	 Blackhawks	 • Marian Hossa	 	 returned to lineup
+64	2017-10-03	 Blackhawks	 	 • Marian Hossa	 placed on IR with skin infection (out for season)
+65	2019-10-01	 Coyotes	 	 • Marian Hossa	 placed on IR with skin infection

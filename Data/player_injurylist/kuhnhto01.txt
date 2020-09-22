@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-06	 Penguins	 	 • Tom Kuhnhackl	 placed on IR with undisclosed injury
+1	2015-10-21	 Penguins	 • Tom Kuhnhackl	 	 activated from IR
+2	2016-12-19	 Penguins	 	 • Tom Kuhnhackl	 lower body injury (DTD)
+3	2016-12-31	 Penguins	 	 • Tom Kuhnhackl	 placed on IR with lower body injury
+4	2017-01-08	 Penguins	 • Tom Kuhnhackl	 	 activated from IR
+5	2017-05-17	 Penguins	 	 • Tom Kuhnhackl	 lower body injury (out for season)
+6	2017-12-08	 Penguins	 	 • Tom Kuhnhackl	 upper body injury (DTD)
+7	2017-12-18	 Penguins	 • Tom Kuhnhackl	 	 returned to lineup
+8	2018-02-08	 Penguins	 	 • Tom Kuhnhackl	 placed on IR with lower body injury
+9	2018-02-27	 Penguins	 • Tom Kuhnhackl	 	 activated from IR
+10	2018-12-08	 Islanders	 	 • Tom Kuhnhackl	 undisclosed (DTD)
+11	2018-12-28	 Islanders	 • Tom Kuhnhackl	 	 returned to lineup
+12	2019-01-17	 Islanders	 	 • Tom Kuhnhackl	 illness (DTD)
+13	2019-01-22	 Islanders	 • Tom Kuhnhackl	 	 returned to lineup
+14	2019-10-26	 Islanders	 	 • Tom Kuhnhackl	 left leg injury (out indefinitely)
+15	2019-10-30	 Islanders	 	 • Tom Kuhnhackl	 placed on IR with left leg injury
+16	2019-12-19	 Islanders	 • Tom Kuhnhackl	 	 activated from IR
+17	2020-03-05	 Islanders	 	 • Tom Kuhnhackl	 undisclosed (DTD)
+18	2020-07-26	 Islanders	 • Tom Kuhnhackl	 	 returned to lineup
+19	2020-09-13	 Islanders	 	 • Tom Kuhnhackl	 undisclosed (out for season)

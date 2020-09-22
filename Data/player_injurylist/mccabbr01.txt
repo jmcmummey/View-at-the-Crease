@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-10	 Maple Leafs	 	 • Bryan McCabe	 groin injury (DTD)
+1	2006-01-31	 Maple Leafs	 • Bryan McCabe	 	 returned to lineup
+2	2007-10-25	 Maple Leafs	 	 • Bryan McCabe	 groin injury (DTD)
+3	2007-11-09	 Maple Leafs	 • Bryan McCabe	 	 returned to lineup
+4	2007-12-15	 Maple Leafs	 	 • Bryan McCabe	 left wrist injury (left game)
+5	2007-12-16	 Maple Leafs	 	 • Bryan McCabe	 broken hand (out 7-10 weeks)
+6	2007-12-17	 Maple Leafs	 	 • Bryan McCabe	 placed on IR with broken hand
+7	2008-02-07	 Maple Leafs	 • Bryan McCabe	 	 activated from IR
+8	2008-10-11	 Panthers	 	 • Bryan McCabe	 placed on IR with strained lower back
+9	2008-11-05	 Panthers	 • Bryan McCabe	 	 activated from IR
+10	2009-03-10	 Panthers	 	 • Bryan McCabe	 broken nose (DTD)
+11	2009-03-14	 Panthers	 	 • Bryan McCabe	 fractured orbital bone (DTD)
+12	2009-03-17	 Panthers	 • Bryan McCabe	 	 returned to lineup
+13	2011-01-16	 Panthers	 	 • Bryan McCabe	 placed on IR with broken jaw (surgery)
+14	2011-02-18	 Panthers	 • Bryan McCabe	 	 activated from IR

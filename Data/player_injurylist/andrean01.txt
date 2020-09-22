@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-30	 Kings	 	 • Andy Andreoff	 upper body injury (DTD)
+1	2016-11-03	 Kings	 	 • Andy Andreoff	 placed on IR with upper body injury
+2	2016-12-04	 Kings	 • Andy Andreoff	 	 activated from IR
+3	2017-11-26	 Kings	 	 • Andy Andreoff	 placed on IR with upper body injury
+4	2017-12-07	 Kings	 • Andy Andreoff	 	 activated from IR

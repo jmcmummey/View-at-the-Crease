@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-20	 Blue Jackets	 	 • Nikita Filatov	 sore left leg (DTD)
+1	2009-01-26	 Blue Jackets	 	 • Nikita Filatov	 placed on IR
+2	2009-02-05	 Blue Jackets	 • Nikita Filatov	 	 activated from IR
+3	2009-11-01	 Blue Jackets	 	 • Nikita Filatov	 bruised back (DTD)
+4	2009-11-04	 Blue Jackets	 • Nikita Filatov	 	 returned to lineup
+5	2011-12-03	 Senators	 	 • Nikita Filatov	 broken nose (DTD)

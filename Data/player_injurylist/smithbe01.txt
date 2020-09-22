@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-06	 Blackhawks	 	 • Ben Smith	 placed on IR with concussion
+1	2011-11-18	 Blackhawks	 • Ben Smith	 	 activated from IR
+2	2015-10-19	 Sharks	 	 • Ben Smith	 upper body injury (DTD)
+3	2015-10-28	 Sharks	 • Ben Smith	 	 returned to lineup
+4	2015-11-10	 Sharks	 	 • Ben Smith	 upper body injury (DTD)
+5	2015-12-08	 Sharks	 	 • Ben Smith	 placed on IR with concussion
+6	2015-12-20	 Sharks	 • Ben Smith	 	 activated from IR
+7	2016-12-19	 Maple Leafs	 	 • Ben Smith	 placed on IR with upper body injury
+8	2016-12-21	 Maple Leafs	 	 • Ben Smith	 placed on IR with upper body injury
+9	2017-02-02	 Maple Leafs	 • Ben Smith	 	 activated from IR

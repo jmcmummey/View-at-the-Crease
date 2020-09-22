@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-09-30	 Maple Leafs	 	 • Tim Brent	 placed on IR with undisclosed injury
+1	2010-12-28	 Maple Leafs	 	 • Tim Brent	 illness (DTD)
+2	2010-12-30	 Maple Leafs	 • Tim Brent	 	 returned to lineup
+3	2011-04-06	 Maple Leafs	 	 • Tim Brent	 undisclosed injury (DTD)
+4	2011-12-20	 Hurricanes	 	 • Tim Brent	 undisclosed injury (DTD)
+5	2011-12-26	 Hurricanes	 • Tim Brent	 	 returned to lineup
+6	2013-02-18	 Hurricanes	 	 • Tim Brent	 lower body injury (DTD)
+7	2013-02-21	 Hurricanes	 	 • Tim Brent	 placed on IR with lower body injury
+8	2013-02-28	 Hurricanes	 • Tim Brent	 	 activated from IR
+9	2013-03-03	 Hurricanes	 	 • Tim Brent	 lower body injury (DTD)
+10	2013-03-07	 Hurricanes	 	 • Tim Brent	 placed on IR with lower body injury
+11	2013-03-08	 Hurricanes	 • Tim Brent	 	 activated from IR
+12	2013-04-11	 Hurricanes	 	 • Tim Brent	 lower body injury (DTD)
+13	2013-04-27	 Hurricanes	 • Tim Brent	 	 returned to lineup

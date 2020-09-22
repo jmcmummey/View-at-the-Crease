@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-09-30	 Penguins	 	 • Mark Letestu	 placed on IR
+1	2009-10-31	 Penguins	 • Mark Letestu	 	 activated from IR
+2	2011-02-01	 Penguins	 	 • Mark Letestu	 knee injury (DTD)
+3	2011-02-04	 Penguins	 	 • Mark Letestu	 placed on IR with knee injury
+4	2011-02-26	 Penguins	 • Mark Letestu	 	 activated from IR
+5	2011-03-17	 Penguins	 	 • Mark Letestu	 upper body injury (DTD)
+6	2011-03-29	 Penguins	 • Mark Letestu	 	 returned to lineup
+7	2012-01-07	 Blue Jackets	 	 • Mark Letestu	 broken right hand (out indefinitely)
+8	2012-01-10	 Blue Jackets	 	 • Mark Letestu	 placed on IR with broken right hand
+9	2012-02-14	 Blue Jackets	 • Mark Letestu	 	 activated from IR
+10	2014-10-28	 Blue Jackets	 	 • Mark Letestu	 placed on IR with groin injury
+11	2015-01-06	 Blue Jackets	 • Mark Letestu	 	 activated from IR
+12	2019-10-15	 Jets	 	 • Mark Letestu	 undisclosed (DTD)
+13	2019-10-17	 Jets	 	 • Mark Letestu	 placed on IR with heart condition
+14	2020-03-10	 Jets	 • Mark Letestu	 	 activated from IR

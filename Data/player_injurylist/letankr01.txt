@@ -1,0 +1,72 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-23	 Penguins	 	 • Kris Letang	 unknown injury (DTD)
+1	2009-01-01	 Penguins	 • Kris Letang	 	 returned to lineup
+2	2009-01-16	 Penguins	 	 • Kris Letang	 lower body injury (DTD)
+3	2009-01-18	 Penguins	 • Kris Letang	 	 returned to lineup
+4	2009-04-23	 Penguins	 	 • Kris Letang	 undisclosed injury (DTD)
+5	2009-04-25	 Penguins	 • Kris Letang	 	 returned to lineup
+6	2009-11-07	 Penguins	 	 • Kris Letang	 right arm injury (left game)
+7	2009-11-10	 Penguins	 	 • Kris Letang	 bruised right shoulder (out indefinitely)
+8	2009-11-28	 Penguins	 • Kris Letang	 	 activated from IR
+9	2010-10-31	 Penguins	 	 • Kris Letang	 upper body injury (DTD)
+10	2011-11-27	 Penguins	 	 • Kris Letang	 broken nose (DTD)
+11	2011-12-05	 Penguins	 	 • Kris Letang	 placed on IR with concussion
+12	2012-01-19	 Penguins	 • Kris Letang	 	 activated from IR
+13	2012-03-01	 Penguins	 	 • Kris Letang	 concussion (DTD)
+14	2012-03-15	 Penguins	 • Kris Letang	 	 returned to lineup
+15	2012-03-27	 Penguins	 	 • Kris Letang	 lower body injury (DTD)
+16	2012-04-01	 Penguins	 • Kris Letang	 	 returned to lineup
+17	2013-02-07	 Penguins	 	 • Kris Letang	 placed on IR with lower body injury
+18	2013-02-13	 Penguins	 • Kris Letang	 	 activated from IR
+19	2013-03-18	 Penguins	 	 • Kris Letang	 lower body injury (DTD)
+20	2013-03-25	 Penguins	 	 • Kris Letang	 placed on IR with lower body injury
+21	2013-03-26	 Penguins	 • Kris Letang	 	 activated from IR
+22	2013-03-27	 Penguins	 	 • Kris Letang	 placed on IR with lower body injury
+23	2013-04-11	 Penguins	 • Kris Letang	 	 activated from IR
+24	2013-04-22	 Penguins	 	 • Kris Letang	 food poisoning (DTD)
+25	2013-04-23	 Penguins	 • Kris Letang	 	 returned to lineup
+26	2013-09-28	 Penguins	 	 • Kris Letang	 placed on IR with lower body injury
+27	2013-10-25	 Penguins	 • Kris Letang	 	 activated from IR
+28	2013-12-14	 Penguins	 	 • Kris Letang	 upper body injury (DTD) (CBC Y)
+29	2013-12-14	 Penguins	 	 • Kris Letang	 placed on IR with upper body injury (CBS)
+30	2013-12-16	 Penguins	 	 • Kris Letang	 placed on IR with upper body injury (E T CBC)
+31	2014-01-03	 Penguins	 • Kris Letang	 	 activated from IR
+32	2014-01-30	 Penguins	 	 • Kris Letang	 undisclosed / illness (DTD)
+33	2014-03-06	 Penguins	 	 • Kris Letang	 placed on IR with heart ailment
+34	2014-04-09	 Penguins	 • Kris Letang	 	 activated from IR
+35	2014-11-29	 Penguins	 	 • Kris Letang	 placed on IR with groin injury
+36	2014-12-12	 Penguins	 • Kris Letang	 	 activated from IR
+37	2015-01-21	 Penguins	 	 • Kris Letang	 head injury (DTD)
+38	2015-01-27	 Penguins	 • Kris Letang	 	 returned to lineup
+39	2015-03-29	 Penguins	 	 • Kris Letang	 concussion (out for season)
+40	2015-12-05	 Penguins	 	 • Kris Letang	 undisclosed injury (DTD)
+41	2015-12-09	 Penguins	 • Kris Letang	 	 returned to lineup
+42	2015-12-11	 Penguins	 	 • Kris Letang	 undisclosed (DTD)
+43	2015-12-15	 Penguins	 	 • Kris Letang	 placed on IR with upper body injury
+44	2015-12-26	 Penguins	 • Kris Letang	 	 activated from IR
+45	2015-12-27	 Penguins	 	 • Kris Letang	 undisclosed injury (DTD)
+46	2015-12-30	 Penguins	 • Kris Letang	 	 returned to lineup
+47	2016-01-16	 Penguins	 	 • Kris Letang	 wrist injury (DTD)
+48	2016-01-18	 Penguins	 • Kris Letang	 	 returned to lineup
+49	2016-10-19	 Penguins	 	 • Kris Letang	 upper body injury (DTD)
+50	2016-11-02	 Penguins	 • Kris Letang	 	 returned to lineup
+51	2016-12-15	 Penguins	 	 • Kris Letang	 placed on IR with lower body injury
+52	2016-12-31	 Penguins	 • Kris Letang	 	 activated from IR
+53	2017-01-15	 Penguins	 	 • Kris Letang	 placed on IR with knee injury
+54	2017-01-31	 Penguins	 • Kris Letang	 	 activated from IR
+55	2017-02-23	 Penguins	 	 • Kris Letang	 neck injury (out for season)
+56	2017-03-08	 Penguins	 	 • Kris Letang	 placed on IR with neck injury (out for season)
+57	2017-12-27	 Penguins	 	 • Kris Letang	 lower body injury (DTD)
+58	2017-12-28	 Penguins	 	 • Kris Letang	 placed on IR with lower body injury
+59	2018-01-02	 Penguins	 • Kris Letang	 	 activated from IR
+60	2018-10-30	 Penguins	 	 • Kris Letang	 lower body injury (DTD)
+61	2018-11-01	 Penguins	 • Kris Letang	 	 returned to lineup
+62	2018-12-15	 Penguins	 	 • Kris Letang	 lower body injury (DTD)
+63	2018-12-17	 Penguins	 • Kris Letang	 	 returned to lineup
+64	2019-02-25	 Penguins	 	 • Kris Letang	 upper body injury (DTD)
+65	2019-03-19	 Penguins	 • Kris Letang	 	 returned to lineup
+66	2019-03-27	 Penguins	 	 • Kris Letang	 upper body injury (DTD)
+67	2019-04-04	 Penguins	 • Kris Letang	 	 returned to lineup
+68	2019-11-07	 Penguins	 	 • Kris Letang	 lower body injury (out indefinitely)
+69	2019-11-21	 Penguins	 	 • Kris Letang	 placed on IR with lower body injury
+70	2019-11-25	 Penguins	 • Kris Letang	 	 activated from IR

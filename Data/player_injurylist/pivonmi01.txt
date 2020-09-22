@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-10-24	 Capitals	 	 • Michal Pivonka	 placed on IR
+1	1997-11-12	 Capitals	 	 • Michal Pivonka	 wrist injury (out indefinitely)
+2	1998-02-07	 Capitals	 	 • Michal Pivonka	 groin injury (out indefinitely)

@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-02-11	 Devils	 	 • John Quenneville	 undisclosed (DTD)
+1	2018-02-17	 Devils	 	 • John Quenneville	 placed on IR with knee injury
+2	2018-02-25	 Devils	 • John Quenneville	 	 activated from IR
+3	2019-02-26	 Devils	 	 • John Quenneville	 upper body injury (DTD)
+4	2019-03-08	 Devils	 • John Quenneville	 	 returned to lineup
+5	2019-03-09	 Devils	 	 • John Quenneville	 upper body injury (DTD)
+6	2019-03-13	 Devils	 • John Quenneville	 	 returned to lineup
+7	2019-10-01	 Blackhawks	 	 • John Quenneville	 placed on IR with right hip injury
+8	2019-10-05	 Blackhawks	 • John Quenneville	 	 activated from IR

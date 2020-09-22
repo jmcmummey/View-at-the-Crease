@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-12-29	 Lightning	 	 • Brayden Point	 placed on IR with upper body injury
+1	2017-01-31	 Lightning	 • Brayden Point	 	 activated from IR
+2	2019-02-02	 Lightning	 	 • Brayden Point	 lower body injury (DTD)
+3	2019-02-05	 Lightning	 • Brayden Point	 	 returned to lineup
+4	2019-10-01	 Lightning	 	 • Brayden Point	 placed on IR with hip injury
+5	2019-10-10	 Lightning	 • Brayden Point	 	 activated from IR
+6	2020-02-20	 Lightning	 	 • Brayden Point	 flu (DTD)
+7	2020-02-22	 Lightning	 • Brayden Point	 	 returned to lineup
+8	2020-09-11	 Lightning	 	 • Brayden Point	 undisclosed (DTD)
+9	2020-09-13	 Lightning	 • Brayden Point	 	 returned to lineup
+10	2020-09-15	 Lightning	 	 • Brayden Point	 undisclosed (DTD)
+11	2020-09-17	 Lightning	 • Brayden Point	 	 returned to lineup

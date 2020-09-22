@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-05	 Sharks	 	 • Frazer McLaren	 placed on IR with surgery on hip
+1	2011-11-12	 Sharks	 • Frazer McLaren	 	 activated from IR
+2	2013-04-04	 Maple Leafs	 	 • Frazer McLaren	 flu (DTD)
+3	2013-09-29	 Maple Leafs	 	 • Frazer McLaren	 placed on IR with finger injury
+4	2013-10-25	 Maple Leafs	 • Frazer McLaren	 	 activated from IR
+5	2014-01-15	 Maple Leafs	 	 • Frazer McLaren	 placed on IR with bruised shoulder

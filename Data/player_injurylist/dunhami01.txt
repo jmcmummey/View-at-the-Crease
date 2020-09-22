@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-01-01	 Devils	 	 • Mike Dunham	 placed on IR
+1	1999-01-19	 Predators	 • Mike Dunham	 	 activated from IR
+2	2005-10-12	 Thrashers	 	 • Mike Dunham	 groin injury (left game)
+3	2005-10-13	 Thrashers	 	 • Mike Dunham	 groin injury (DTD)
+4	2005-10-15	 Thrashers	 	 • Mike Dunham	 placed on IR with groin injury
+5	2005-10-29	 Thrashers	 • Mike Dunham	 	 activated from IR
+6	2005-11-04	 Thrashers	 • Mike Dunham	 	 returned to lineup
+7	2005-11-15	 Thrashers	 	 • Mike Dunham	 placed on IR with groin injury
+8	2006-01-12	 Thrashers	 • Mike Dunham	 	 activated from IR

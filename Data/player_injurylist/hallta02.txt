@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-04	 Oilers	 	 • Taylor Hall (Strba)	 high left ankle sprain (out for season)
+1	2011-10-18	 Oilers	 	 • Taylor Hall (Strba)	 flu (DTD)
+2	2011-11-27	 Oilers	 	 • Taylor Hall (Strba)	 placed on IR with left shoulder injury
+3	2011-12-15	 Oilers	 • Taylor Hall (Strba)	 	 activated from IR
+4	2012-01-17	 Oilers	 	 • Taylor Hall (Strba)	 placed on IR with head laceration
+5	2012-01-21	 Oilers	 • Taylor Hall (Strba)	 	 activated from IR
+6	2012-03-17	 Oilers	 	 • Taylor Hall (Strba)	 concussion (out for season)
+7	2013-03-03	 Oilers	 	 • Taylor Hall (Strba)	 hamstring injury (DTD)
+8	2013-03-05	 Oilers	 • Taylor Hall (Strba)	 	 returned to lineup
+9	2013-10-20	 Oilers	 	 • Taylor Hall (Strba)	 placed on IR with left knee injury
+10	2013-11-07	 Oilers	 • Taylor Hall (Strba)	 	 activated from IR
+11	2014-11-02	 Oilers	 	 • Taylor Hall (Strba)	 placed on IR with sprained MCL in knee
+12	2014-11-16	 Oilers	 • Taylor Hall (Strba)	 	 activated from IR
+13	2015-01-27	 Oilers	 	 • Taylor Hall (Strba)	 leg injury (DTD)
+14	2015-02-02	 Oilers	 • Taylor Hall (Strba)	 	 returned to lineup
+15	2015-02-03	 Oilers	 	 • Taylor Hall (Strba)	 leg injury (DTD)
+16	2015-02-10	 Oilers	 	 • Taylor Hall (Strba)	 placed on IR with lower body injury
+17	2015-03-21	 Oilers	 • Taylor Hall (Strba)	 	 activated from IR
+18	2016-11-15	 Devils	 	 • Taylor Hall (Strba)	 placed on IR with left knee injury
+19	2016-12-01	 Devils	 • Taylor Hall (Strba)	 	 activated from IR
+20	2016-12-28	 Devils	 	 • Taylor Hall (Strba)	 lower body injury (DTD)
+21	2017-01-02	 Devils	 • Taylor Hall (Strba)	 	 returned to lineup
+22	2017-12-13	 Devils	 	 • Taylor Hall (Strba)	 knee injury (DTD)
+23	2017-12-18	 Devils	 • Taylor Hall (Strba)	 	 returned to lineup
+24	2018-01-22	 Devils	 	 • Taylor Hall (Strba)	 hand injury (DTD)
+25	2018-01-30	 Devils	 • Taylor Hall (Strba)	 	 returned to lineup
+26	2018-12-14	 Devils	 	 • Taylor Hall (Strba)	 lower body injury (DTD)
+27	2018-12-18	 Devils	 • Taylor Hall (Strba)	 	 returned to lineup
+28	2018-12-27	 Devils	 	 • Taylor Hall (Strba)	 lower body injury (out for season)
+29	2019-01-01	 Devils	 	 • Taylor Hall (Strba)	 placed on IR with lower body injury (out for season)
+30	2019-12-13	 Devils	 	 • Taylor Hall (Strba)	 undisclosed (DTD)
+31	2019-12-17	 Coyotes	 • Taylor Hall (Strba)	 	 returned to lineup

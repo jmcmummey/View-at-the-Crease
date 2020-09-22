@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-10-14	 Lightning	 	 • Steve Kelly	 placed on IR
+1	2001-10-02	 Kings	 	 • Steve Kelly	 placed on IR
+2	2008-03-15	 Wild	 	 • Steve Kelly	 ankle injury (DTD)

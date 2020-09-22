@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-15	 Canadiens	 	 • Raphael Diaz	 flu (DTD)
+1	2011-12-19	 Canadiens	 • Raphael Diaz	 	 returned to lineup
+2	2012-03-06	 Canadiens	 	 • Raphael Diaz	 lower body injury (DTD)
+3	2012-03-10	 Canadiens	 	 • Raphael Diaz	 placed on IR with lower body injury (out for season)
+4	2013-02-27	 Canadiens	 	 • Raphael Diaz	 concussion (DTD)
+5	2013-03-02	 Canadiens	 	 • Raphael Diaz	 placed on IR with concussion
+6	2013-04-20	 Canadiens	 • Raphael Diaz	 	 activated from IR
+7	2014-01-18	 Canadiens	 	 • Raphael Diaz	 flu (DTD)
+8	2014-01-21	 Canadiens	 • Raphael Diaz	 	 returned to lineup
+9	2015-04-04	 Flames	 	 • Raphael Diaz	 undisclosed (DTD)
+10	2015-05-05	 Flames	 • Raphael Diaz	 	 returned to lineup

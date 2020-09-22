@@ -1,0 +1,38 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1996-12-27	 Maple Leafs	 	 • Mathieu Schneider	 groin injury (out indefinitely)
+1	2001-02-27	 Kings	 	 • Mathieu Schneider	 placed on IR with strained right groin
+2	2001-03-14	 Kings	 • Mathieu Schneider	 	 activated from IR
+3	2001-11-15	 Kings	 	 • Mathieu Schneider	 placed on IR recovering from surgery to repair hernia
+4	2002-01-30	 Kings	 	 • Mathieu Schneider	 placed on IR with sprained shoulder
+5	2002-02-06	 Kings	 • Mathieu Schneider	 	 activated from IR
+6	2005-11-01	 Red Wings	 	 • Mathieu Schneider	 groin injury (DTD)
+7	2005-11-03	 Red Wings	 • Mathieu Schneider	 	 returned to lineup
+8	2005-12-17	 Red Wings	 	 • Mathieu Schneider	 charley horse (left game)
+9	2005-12-18	 Red Wings	 	 • Mathieu Schneider	 charley horse (DTD)
+10	2005-12-23	 Red Wings	 • Mathieu Schneider	 	 returned to lineup
+11	2006-03-31	 Red Wings	 	 • Mathieu Schneider	 lower body injury (DTD)
+12	2006-04-15	 Red Wings	 • Mathieu Schneider	 	 returned to lineup
+13	2006-04-17	 Red Wings	 	 • Mathieu Schneider	 groin injury (DTD)
+14	2006-04-18	 Red Wings	 • Mathieu Schneider	 	 returned to lineup
+15	2006-11-01	 Red Wings	 	 • Mathieu Schneider	 groin injury (DTD)
+16	2006-11-08	 Red Wings	 • Mathieu Schneider	 	 returned to lineup
+17	2007-01-08	 Red Wings	 	 • Mathieu Schneider	 sprained knee (DTD)
+18	2007-02-02	 Red Wings	 • Mathieu Schneider	 	 returned to lineup
+19	2007-04-03	 Red Wings	 	 • Mathieu Schneider	 elbow injury (DTD)
+20	2007-04-05	 Red Wings	 • Mathieu Schneider	 	 returned to lineup
+21	2007-05-07	 Red Wings	 	 • Mathieu Schneider	 broken wrist (out indefinitely)
+22	2007-09-16	 Ducks	 	 • Mathieu Schneider	 left ankle injury (out indefinitely)
+23	2007-11-01	 Ducks	 • Mathieu Schneider	 	 returned to lineup
+24	2007-11-15	 Ducks	 	 • Mathieu Schneider	 hip injury (DTD)
+25	2007-11-21	 Ducks	 • Mathieu Schneider	 	 returned to lineup
+26	2008-02-01	 Ducks	 	 • Mathieu Schneider	 sprained wrist (DTD)
+27	2008-02-05	 Ducks	 • Mathieu Schneider	 	 returned to lineup
+28	2008-11-06	 Thrashers	 	 • Mathieu Schneider	 hip flexor injury (DTD)
+29	2008-11-20	 Thrashers	 • Mathieu Schneider	 	 returned to lineup
+30	2008-12-02	 Thrashers	 	 • Mathieu Schneider	 upper body injury (DTD)
+31	2008-12-20	 Thrashers	 • Mathieu Schneider	 	 returned to lineup
+32	2009-04-04	 Canadiens	 	 • Mathieu Schneider	 upper body injury (DTD)
+33	2009-04-09	 Canadiens	 • Mathieu Schneider	 	 returned to lineup
+34	2009-04-20	 Canadiens	 	 • Mathieu Schneider	 upper body injury (DTD)
+35	2009-09-29	 Canucks	 	 • Mathieu Schneider	 placed on IR recovering from surgery on shoulder
+36	2009-10-25	 Canucks	 • Mathieu Schneider	 	 activated from IR

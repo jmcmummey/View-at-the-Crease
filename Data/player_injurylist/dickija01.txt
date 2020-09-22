@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-11	 Stars	 	 • Jason Dickinson	 placed on injured/non-roster list with undisclosed injury
+1	2018-12-23	 Stars	 	 • Jason Dickinson	 back spasms (DTD)
+2	2018-12-28	 Stars	 	 • Jason Dickinson	 placed on IR with back spasms
+3	2019-01-16	 Stars	 • Jason Dickinson	 	 activated from IR
+4	2019-01-31	 Stars	 	 • Jason Dickinson	 lower body injury (DTD)
+5	2019-02-04	 Stars	 • Jason Dickinson	 	 returned to lineup
+6	2019-10-04	 Stars	 	 • Jason Dickinson	 placed on IR with upper body injury
+7	2019-10-12	 Stars	 • Jason Dickinson	 	 activated from IR

@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-05	 Flames	 	 • Jarome Iginla	 lower body injury (DTD)
+1	2007-02-02	 Flames	 • Jarome Iginla	 	 returned to lineup
+2	2014-04-02	 Bruins	 	 • Jarome Iginla	 lower body injury (DTD)
+3	2014-04-03	 Bruins	 • Jarome Iginla	 	 returned to lineup
+4	2014-04-05	 Bruins	 	 • Jarome Iginla	 illness (DTD)
+5	2014-04-10	 Bruins	 • Jarome Iginla	 	 returned to lineup

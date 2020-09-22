@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-02-02	 Predators	 	 • Cody Franson	 rib injury (out indefinitely)
+1	2010-02-09	 Predators	 	 • Cody Franson	 placed on IR with rib injury
+2	2010-03-07	 Predators	 • Cody Franson	 	 activated from IR
+3	2012-03-11	 Maple Leafs	 	 • Cody Franson	 facial injury (DTD)
+4	2012-03-15	 Maple Leafs	 • Cody Franson	 	 returned to lineup
+5	2013-11-30	 Maple Leafs	 	 • Cody Franson	 lower body injury (DTD)
+6	2013-12-04	 Maple Leafs	 • Cody Franson	 	 returned to lineup
+7	2014-03-11	 Maple Leafs	 	 • Cody Franson	 stomach virus (DTD)
+8	2014-03-13	 Maple Leafs	 • Cody Franson	 	 returned to lineup
+9	2014-10-07	 Maple Leafs	 	 • Cody Franson	 placed on IR with bruised left knee
+10	2014-10-11	 Maple Leafs	 • Cody Franson	 	 activated from IR
+11	2015-04-10	 Predators	 	 • Cody Franson	 upper body injury (DTD)
+12	2015-04-17	 Predators	 • Cody Franson	 	 returned to lineup
+13	2016-02-21	 Sabres	 	 • Cody Franson	 neck injury (out for season)
+14	2016-12-22	 Sabres	 	 • Cody Franson	 lower body injury (DTD)
+15	2016-12-29	 Sabres	 • Cody Franson	 	 returned to lineup
+16	2017-02-09	 Sabres	 	 • Cody Franson	 foot injury (DTD)
+17	2017-02-18	 Sabres	 • Cody Franson	 	 returned to lineup
+18	2017-03-19	 Sabres	 	 • Cody Franson	 undisclosed injury (DTD)
+19	2017-04-03	 Sabres	 • Cody Franson	 	 returned to lineup
+20	2017-12-09	 Blackhawks	 	 • Cody Franson	 upper body injury (DTD)
+21	2017-12-13	 Blackhawks	 	 • Cody Franson	 placed on IR with upper body injury
+22	2017-12-29	 Blackhawks	 • Cody Franson	 	 activated from IR

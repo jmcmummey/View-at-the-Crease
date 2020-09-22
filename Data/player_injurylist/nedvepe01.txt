@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-06	 Coyotes	 	 • Petr Nedved	 groin injury (out indefinitely)
+1	2005-10-13	 Coyotes	 • Petr Nedved	 	 returned to lineup
+2	2005-10-30	 Coyotes	 	 • Petr Nedved	 elbow injury (out indefinitely)
+3	2005-11-20	 Coyotes	 • Petr Nedved	 	 returned to lineup
+4	2005-11-23	 Coyotes	 	 • Petr Nedved	 concussion (out indefinitely)
+5	2005-12-03	 Coyotes	 • Petr Nedved	 	 returned to lineup
+6	2005-12-26	 Coyotes	 	 • Petr Nedved	 groin injury (DTD)
+7	2006-01-05	 Coyotes	 • Petr Nedved	 	 returned to lineup
+8	2006-02-04	 Flyers	 	 • Petr Nedved	 groin injury (left game)
+9	2006-02-05	 Flyers	 	 • Petr Nedved	 groin injury (DTD)
+10	2006-02-10	 Flyers	 	 • Petr Nedved	 groin injury (DTD)
+11	2006-03-01	 Flyers	 • Petr Nedved	 	 returned to lineup
+12	2006-04-02	 Flyers	 	 • Petr Nedved	 groin injury (DTD)
+13	2006-04-11	 Flyers	 • Petr Nedved	 	 returned to lineup
+14	2007-02-18	 Oilers	 	 • Petr Nedved	 sprained right knee (out indefinitely)
+15	2007-03-01	 Oilers	 • Petr Nedved	 	 returned to lineup

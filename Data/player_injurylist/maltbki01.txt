@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-10-05	 Red Wings	 	 • Kirk Maltby	 hernia (out indefinitely)
+1	2007-11-29	 Red Wings	 	 • Kirk Maltby	 placed on IR with back injury
+2	2008-01-08	 Red Wings	 • Kirk Maltby	 	 activated from IR
+3	2008-04-03	 Red Wings	 	 • Kirk Maltby	 hamstring injury (DTD)
+4	2008-05-08	 Red Wings	 • Kirk Maltby	 	 returned to lineup
+5	2008-12-06	 Red Wings	 	 • Kirk Maltby	 ankle injury (DTD)
+6	2008-12-10	 Red Wings	 • Kirk Maltby	 	 returned to lineup
+7	2009-10-10	 Red Wings	 	 • Kirk Maltby	 right thigh injury (DTD)
+8	2009-10-15	 Red Wings	 • Kirk Maltby	 	 returned to lineup
+9	2009-11-12	 Red Wings	 	 • Kirk Maltby	 flu (DTD)
+10	2009-11-20	 Red Wings	 • Kirk Maltby	 	 returned to lineup
+11	2010-02-25	 Red Wings	 	 • Kirk Maltby	 placed on IR with surgery on shoulder
+12	2010-05-08	 Red Wings	 • Kirk Maltby	 	 activated from IR

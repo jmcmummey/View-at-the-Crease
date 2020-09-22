@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-04-20	 Ducks	 	 • Chris Wagner	 upper body injury (DTD)
+1	2015-05-03	 Ducks	 • Chris Wagner	 	 returned to lineup
+2	2019-03-31	 Bruins	 	 • Chris Wagner	 lower body injury (DTD)
+3	2019-04-02	 Bruins	 • Chris Wagner	 	 returned to lineup
+4	2019-04-03	 Bruins	 	 • Chris Wagner	 lower body injury (DTD)
+5	2019-04-09	 Bruins	 • Chris Wagner	 	 returned to lineup
+6	2019-04-21	 Bruins	 	 • Chris Wagner	 undisclosed (DTD)
+7	2019-04-25	 Bruins	 • Chris Wagner	 	 returned to lineup
+8	2019-05-15	 Bruins	 	 • Chris Wagner	 right arm injury (out for season)
+9	2019-10-27	 Bruins	 	 • Chris Wagner	 lower body injury (DTD)
+10	2019-10-29	 Bruins	 • Chris Wagner	 	 returned to lineup
+11	2020-02-27	 Bruins	 	 • Chris Wagner	 upper body injury (DTD)
+12	2020-03-02	 Bruins	 • Chris Wagner	 	 returned to lineup
+13	2020-08-30	 Bruins	 	 • Chris Wagner	 undisclosed (out for season)

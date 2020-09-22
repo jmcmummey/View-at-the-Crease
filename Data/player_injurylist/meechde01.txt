@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-15	 Red Wings	 	 • Derek Meech	 thigh injury (DTD)
+1	2009-01-20	 Red Wings	 • Derek Meech	 	 returned to lineup
+2	2009-02-02	 Red Wings	 	 • Derek Meech	 groin injury (DTD)
+3	2009-02-13	 Red Wings	 • Derek Meech	 	 returned to lineup
+4	2011-10-29	 Jets	 	 • Derek Meech	 placed on IR with lower body injury
+5	2012-01-21	 Jets	 • Derek Meech	 	 activated from IR

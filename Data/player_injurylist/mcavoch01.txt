@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-01-22	 Bruins	 	 • Charles McAvoy / Charlie McAvoy	 heart arrhythmia (out indefinitely)
+1	2018-01-25	 Bruins	 	 • Charles McAvoy / Charlie McAvoy	 placed on IR with heart arrhythmia
+2	2018-02-03	 Bruins	 • Charles McAvoy / Charlie McAvoy	 	 activated from IR
+3	2018-03-06	 Bruins	 	 • Charles McAvoy / Charlie McAvoy	 sprained MCL in knee (out indefinitely)
+4	2018-04-03	 Bruins	 • Charles McAvoy / Charlie McAvoy	 	 returned to lineup
+5	2018-10-20	 Bruins	 	 • Charles McAvoy / Charlie McAvoy	 undisclosed (DTD)
+6	2018-10-29	 Bruins	 	 • Charles McAvoy / Charlie McAvoy	 placed on IR with concussion
+7	2018-12-06	 Bruins	 • Charles McAvoy / Charlie McAvoy	 	 activated from IR
+8	2018-12-27	 Bruins	 	 • Charles McAvoy / Charlie McAvoy	 lower body injury (DTD)
+9	2018-12-28	 Bruins	 	 • Charles McAvoy / Charlie McAvoy	 placed on IR with lower body injury
+10	2019-01-12	 Bruins	 • Charles McAvoy / Charlie McAvoy	 	 activated from IR
+11	2019-12-27	 Bruins	 	 • Charles McAvoy / Charlie McAvoy	 upper body injury (DTD)
+12	2019-12-27	 Bruins	 	 • Charles McAvoy / Charlie McAvoy	 placed on IR with upper body injury
+13	2019-12-30	 Bruins	 	 • Charles McAvoy / Charlie McAvoy	 placed on IR with lower body injury
+14	2020-01-02	 Bruins	 • Charles McAvoy / Charlie McAvoy	 	 activated from IR

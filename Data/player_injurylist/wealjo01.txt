@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-02-16	 Flyers	 	 • Jordan Weal	 upper body injury (DTD)
+1	2016-02-22	 Flyers	 	 • Jordan Weal	 placed on IR with upper body injury
+2	2016-03-12	 Flyers	 • Jordan Weal	 	 activated from IR
+3	2017-02-17	 Flyers	 	 • Jordan Weal	 upper body injury (DTD)
+4	2017-02-25	 Flyers	 • Jordan Weal	 	 returned to lineup
+5	2017-03-15	 Flyers	 	 • Jordan Weal	 lower body injury (DTD)
+6	2017-03-16	 Flyers	 • Jordan Weal	 	 returned to lineup
+7	2017-04-04	 Flyers	 	 • Jordan Weal	 flu (DTD)
+8	2017-04-08	 Flyers	 • Jordan Weal	 	 returned to lineup
+9	2017-10-19	 Flyers	 	 • Jordan Weal	 upper body injury (DTD)
+10	2017-10-24	 Flyers	 • Jordan Weal	 	 returned to lineup
+11	2017-11-18	 Flyers	 	 • Jordan Weal	 upper body injury (DTD)
+12	2017-11-21	 Flyers	 • Jordan Weal	 	 returned to lineup
+13	2020-02-04	 Canadiens	 	 • Jordan Weal	 illness (DTD)

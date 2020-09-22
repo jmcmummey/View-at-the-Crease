@@ -1,0 +1,42 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-29	 Wild	 	 • Derek Boogaard	 lower body injury (DTD)
+1	2005-11-01	 Wild	 • Derek Boogaard	 	 returned to lineup
+2	2006-01-20	 Wild	 	 • Derek Boogaard	 back injury (DTD)
+3	2006-01-22	 Wild	 • Derek Boogaard	 	 returned to lineup
+4	2006-11-02	 Wild	 	 • Derek Boogaard	 lower body injury (DTD)
+5	2006-11-07	 Wild	 • Derek Boogaard	 	 returned to lineup
+6	2006-11-21	 Wild	 	 • Derek Boogaard	 placed on IR with leg injury (out indefinitely)
+7	2006-12-07	 Wild	 • Derek Boogaard	 	 activated from IR
+8	2007-03-06	 Wild	 	 • Derek Boogaard	 back injury (DTD)
+9	2007-03-13	 Wild	 • Derek Boogaard	 	 returned to lineup
+10	2007-11-24	 Wild	 	 • Derek Boogaard	 back spasms (DTD)
+11	2007-12-08	 Wild	 • Derek Boogaard	 	 returned to lineup
+12	2007-12-15	 Wild	 	 • Derek Boogaard	 back injury (DTD)
+13	2008-01-18	 Wild	 • Derek Boogaard	 	 returned to lineup
+14	2008-01-24	 Wild	 	 • Derek Boogaard	 back injury (DTD)
+15	2008-03-17	 Wild	 • Derek Boogaard	 	 returned to lineup
+16	2008-10-30	 Wild	 	 • Derek Boogaard	 undisclosed injury (DTD)
+17	2008-11-01	 Wild	 • Derek Boogaard	 	 returned to lineup
+18	2009-01-10	 Wild	 	 • Derek Boogaard	 upper body injury (DTD)
+19	2009-01-13	 Wild	 • Derek Boogaard	 	 returned to lineup
+20	2009-02-19	 Wild	 	 • Derek Boogaard	 illness (DTD)
+21	2009-02-22	 Wild	 • Derek Boogaard	 	 returned to lineup
+22	2009-03-24	 Wild	 	 • Derek Boogaard	 upper body injury (DTD)
+23	2009-04-21	 Wild	 	 • Derek Boogaard	 surgery on right shoulder
+24	2009-09-29	 Wild	 	 • Derek Boogaard	 placed on IR with concussion
+25	2009-10-16	 Wild	 • Derek Boogaard	 	 activated from IR
+26	2009-10-24	 Wild	 	 • Derek Boogaard	 illness (DTD)
+27	2009-10-28	 Wild	 • Derek Boogaard	 	 returned to lineup
+28	2009-12-07	 Wild	 	 • Derek Boogaard	 flu (DTD)
+29	2009-12-11	 Wild	 • Derek Boogaard	 	 returned to lineup
+30	2009-12-26	 Wild	 	 • Derek Boogaard	 lower body injury (DTD)
+31	2010-01-28	 Wild	 	 • Derek Boogaard	 hamstring injury (DTD)
+32	2010-01-30	 Wild	 • Derek Boogaard	 	 returned to lineup
+33	2010-02-02	 Wild	 	 • Derek Boogaard	 hamstring injury (DTD)
+34	2010-03-14	 Wild	 	 • Derek Boogaard	 facial laceration (DTD)
+35	2010-03-25	 Wild	 • Derek Boogaard	 	 returned to lineup
+36	2010-10-29	 Rangers	 	 • Derek Boogaard	 finger injury (DTD)
+37	2010-10-30	 Rangers	 • Derek Boogaard	 	 returned to lineup
+38	2010-11-26	 Rangers	 	 • Derek Boogaard	 shoulder injury (DTD)
+39	2010-12-02	 Rangers	 • Derek Boogaard	 	 returned to lineup
+40	2010-12-10	 Rangers	 	 • Derek Boogaard	 shoulder injury (out for season)

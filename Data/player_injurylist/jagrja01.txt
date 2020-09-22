@@ -1,0 +1,43 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-02-22	 Penguins	 	 • Jaromir Jagr	 placed on IR with hamstring injury
+1	2001-04-08	 Penguins	 	 • Jaromir Jagr	 bruised finger (DTD)
+2	2006-04-22	 Rangers	 	 • Jaromir Jagr	 upper body injury (left game)
+3	2006-04-24	 Rangers	 	 • Jaromir Jagr	 upper body injury (DTD)
+4	2006-04-26	 Rangers	 • Jaromir Jagr	 	 returned to lineup
+5	2006-09-21	 Rangers	 	 • Jaromir Jagr	 shoulder injury (DTD)
+6	2011-11-17	 Flyers	 	 • Jaromir Jagr	 lower body injury (DTD)
+7	2011-11-23	 Flyers	 • Jaromir Jagr	 	 returned to lineup
+8	2011-11-25	 Flyers	 	 • Jaromir Jagr	 lower body injury (DTD)
+9	2011-12-02	 Flyers	 • Jaromir Jagr	 	 returned to lineup
+10	2012-01-03	 Flyers	 	 • Jaromir Jagr	 strained left groin (DTD)
+11	2012-01-08	 Flyers	 • Jaromir Jagr	 	 returned to lineup
+12	2012-01-21	 Flyers	 	 • Jaromir Jagr	 groin injury (DTD)
+13	2012-01-31	 Flyers	 • Jaromir Jagr	 	 returned to lineup
+14	2012-02-15	 Flyers	 	 • Jaromir Jagr	 flu (DTD)
+15	2012-02-18	 Flyers	 • Jaromir Jagr	 	 returned to lineup
+16	2013-01-25	 Stars	 	 • Jaromir Jagr	 back injury (DTD)
+17	2013-01-26	 Stars	 	 • Jaromir Jagr	 strained groin (DTD)
+18	2013-01-28	 Stars	 • Jaromir Jagr	 	 returned to lineup
+19	2013-04-26	 Bruins	 	 • Jaromir Jagr	 flu (out for season)
+20	2014-12-04	 Devils	 	 • Jaromir Jagr	 flu (DTD)
+21	2014-12-06	 Devils	 • Jaromir Jagr	 	 returned to lineup
+22	2015-01-12	 Devils	 	 • Jaromir Jagr	 illness (DTD)
+23	2015-01-28	 Devils	 • Jaromir Jagr	 	 returned to lineup
+24	2015-03-05	 Panthers	 	 • Jaromir Jagr	 illness (DTD)
+25	2015-03-07	 Panthers	 • Jaromir Jagr	 	 returned to lineup
+26	2015-10-28	 Panthers	 	 • Jaromir Jagr	 lower body injury (DTD)
+27	2015-11-04	 Panthers	 • Jaromir Jagr	 	 returned to lineup
+28	2015-12-15	 Panthers	 	 • Jaromir Jagr	 flu (DTD)
+29	2015-12-16	 Panthers	 • Jaromir Jagr	 	 returned to lineup
+30	2016-11-08	 Panthers	 	 • Jaromir Jagr	 groin injury (DTD)
+31	2017-10-22	 Flames	 	 • Jaromir Jagr	 placed on IR with lower body injury
+32	2017-11-07	 Flames	 • Jaromir Jagr	 	 activated from IR
+33	2017-11-28	 Flames	 	 • Jaromir Jagr	 lower body injury (DTD)
+34	2017-11-30	 Flames	 • Jaromir Jagr	 	 returned to lineup
+35	2017-12-06	 Flames	 	 • Jaromir Jagr	 lower body injury (DTD)
+36	2017-12-16	 Flames	 • Jaromir Jagr	 	 returned to lineup
+37	2017-12-20	 Flames	 	 • Jaromir Jagr	 lower body injury (DTD)
+38	2017-12-28	 Flames	 • Jaromir Jagr	 	 returned to lineup
+39	2018-01-04	 Flames	 	 • Jaromir Jagr	 lower body injury (DTD)
+40	2018-01-14	 Flames	 	 • Jaromir Jagr	 placed on IR with groin injury
+41	2018-01-29	 Flames	 • Jaromir Jagr	 	 activated from IR

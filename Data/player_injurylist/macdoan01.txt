@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-04	 Islanders	 	 • Andrew MacDonald	 broken foot (DTD)
+1	2010-03-30	 Islanders	 • Andrew MacDonald	 	 returned to lineup
+2	2010-10-22	 Islanders	 	 • Andrew MacDonald	 placed on IR with broken hand
+3	2010-12-02	 Islanders	 • Andrew MacDonald	 	 activated from IR
+4	2011-03-25	 Islanders	 	 • Andrew MacDonald	 surgery on right hip (out for season)
+5	2011-12-02	 Islanders	 	 • Andrew MacDonald	 right leg injury (DTD)
+6	2011-12-05	 Islanders	 	 • Andrew MacDonald	 placed on IR with right leg injury
+7	2011-12-17	 Islanders	 • Andrew MacDonald	 	 activated from IR
+8	2013-05-09	 Islanders	 	 • Andrew MacDonald	 fractured hand (out for season)
+9	2014-10-24	 Flyers	 	 • Andrew MacDonald	 lower body injury (DTD)
+10	2014-10-28	 Flyers	 	 • Andrew MacDonald	 placed on IR with lower body injury
+11	2014-11-20	 Flyers	 • Andrew MacDonald	 	 activated from IR
+12	2015-03-26	 Flyers	 	 • Andrew MacDonald	 fractured right hand (out for season)
+13	2016-03-12	 Flyers	 	 • Andrew MacDonald	 lower body injury (DTD)
+14	2016-03-15	 Flyers	 • Andrew MacDonald	 	 returned to lineup
+15	2016-11-03	 Flyers	 	 • Andrew MacDonald	 lower body injury (DTD)
+16	2016-11-17	 Flyers	 • Andrew MacDonald	 	 returned to lineup
+17	2017-10-22	 Flyers	 	 • Andrew MacDonald	 placed on IR with lower body injury
+18	2017-11-27	 Flyers	 • Andrew MacDonald	 	 activated from IR
+19	2018-03-04	 Flyers	 	 • Andrew MacDonald	 upper body injury (DTD)
+20	2018-03-07	 Flyers	 • Andrew MacDonald	 	 returned to lineup
+21	2019-01-03	 Flyers	 	 • Andrew MacDonald	 lower body injury (DTD)
+22	2019-01-04	 Flyers	 	 • Andrew MacDonald	 placed on IR with lower body injury
+23	2019-01-14	 Flyers	 • Andrew MacDonald	 	 activated from IR

@@ -1,0 +1,32 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-02-15	 Panthers	 	 • Bret Hedican	 placed on IR
+1	2005-12-18	 Hurricanes	 	 • Bret Hedican	 groin injury (DTD)
+2	2005-12-23	 Hurricanes	 • Bret Hedican	 	 returned to lineup
+3	2006-01-19	 Hurricanes	 	 • Bret Hedican	 shoulder injury (DTD)
+4	2006-01-21	 Hurricanes	 • Bret Hedican	 	 returned to lineup
+5	2006-03-14	 Hurricanes	 	 • Bret Hedican	 ill (DTD)
+6	2006-03-16	 Hurricanes	 • Bret Hedican	 	 returned to lineup
+7	2006-03-22	 Hurricanes	 	 • Bret Hedican	 lower body injury (DTD)
+8	2006-03-31	 Hurricanes	 • Bret Hedican	 	 returned to lineup
+9	2006-09-14	 Hurricanes	 	 • Bret Hedican	 surgery on hip (DTD)
+10	2006-10-07	 Hurricanes	 	 • Bret Hedican	 undisclosed injury (DTD)
+11	2006-10-11	 Hurricanes	 • Bret Hedican	 	 returned to lineup
+12	2006-10-14	 Hurricanes	 	 • Bret Hedican	 upper body injury (DTD)
+13	2006-10-20	 Hurricanes	 • Bret Hedican	 	 returned to lineup
+14	2007-01-04	 Hurricanes	 	 • Bret Hedican	 finger injury (out indefinitely)
+15	2007-02-01	 Hurricanes	 • Bret Hedican	 	 returned to lineup
+16	2007-03-02	 Hurricanes	 	 • Bret Hedican	 lower body injury (DTD)
+17	2007-10-05	 Hurricanes	 	 • Bret Hedican	 illness (DTD)
+18	2007-10-09	 Hurricanes	 • Bret Hedican	 	 returned to lineup
+19	2007-12-29	 Hurricanes	 	 • Bret Hedican	 knee injury (DTD)
+20	2008-01-01	 Hurricanes	 	 • Bret Hedican	 placed on IR with knee injury
+21	2008-01-17	 Hurricanes	 • Bret Hedican	 	 activated from IR
+22	2008-02-14	 Hurricanes	 	 • Bret Hedican	 lower body injury (DTD)
+23	2008-02-21	 Hurricanes	 • Bret Hedican	 	 returned to lineup
+24	2008-03-29	 Hurricanes	 	 • Bret Hedican	 torso injury (DTD)
+25	2008-04-01	 Hurricanes	 • Bret Hedican	 	 returned to lineup
+26	2008-12-31	 Ducks	 	 • Bret Hedican	 upper body injury (DTD)
+27	2009-01-02	 Ducks	 • Bret Hedican	 	 returned to lineup
+28	2009-02-20	 Ducks	 	 • Bret Hedican	 back spasms (DTD)
+29	2009-02-24	 Ducks	 • Bret Hedican	 	 returned to lineup
+30	2009-02-28	 Ducks	 	 • Bret Hedican	 back injury (DTD)

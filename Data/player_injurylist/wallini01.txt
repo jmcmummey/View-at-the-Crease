@@ -1,0 +1,42 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-19	 Hurricanes	 	 • Niclas Wallin	 placed on IR
+1	2005-11-11	 Hurricanes	 	 • Niclas Wallin	 wrist injury (DTD)
+2	2005-11-17	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+3	2005-11-19	 Hurricanes	 	 • Niclas Wallin	 surgery on wrist (out indefinitely)
+4	2005-11-20	 Hurricanes	 	 • Niclas Wallin	 placed on IR recovering from surgery on wrist
+5	2005-12-13	 Hurricanes	 	 • Niclas Wallin	 surgery on wrist (DTD)
+6	2005-12-28	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+7	2006-03-14	 Hurricanes	 	 • Niclas Wallin	 lower body injury (DTD)
+8	2006-03-21	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+9	2006-03-22	 Hurricanes	 	 • Niclas Wallin	 groin injury (DTD)
+10	2006-04-08	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+11	2006-10-21	 Hurricanes	 	 • Niclas Wallin	 leg injury (DTD)
+12	2006-10-28	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+13	2006-11-11	 Hurricanes	 	 • Niclas Wallin	 groin injury (DTD)
+14	2006-11-18	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+15	2007-01-20	 Hurricanes	 	 • Niclas Wallin	 lower body injury (DTD)
+16	2007-01-30	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+17	2007-10-26	 Hurricanes	 	 • Niclas Wallin	 groin injury (DTD)
+18	2007-10-31	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+19	2007-11-02	 Hurricanes	 	 • Niclas Wallin	 groin injury (out 3-5 weeks)
+20	2007-11-17	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+21	2007-12-11	 Hurricanes	 	 • Niclas Wallin	 shoulder injury (DTD)
+22	2008-01-05	 Hurricanes	 	 • Niclas Wallin	 groin injury (DTD)
+23	2008-01-08	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+24	2008-01-14	 Hurricanes	 	 • Niclas Wallin	 illness (DTD)
+25	2008-01-18	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+26	2008-12-06	 Hurricanes	 	 • Niclas Wallin	 leg injury (DTD)
+27	2009-01-03	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+28	2009-01-20	 Hurricanes	 	 • Niclas Wallin	 ankle injury (DTD)
+29	2009-01-29	 Hurricanes	 	 • Niclas Wallin	 placed on IR with ankle injury
+30	2009-02-07	 Hurricanes	 • Niclas Wallin	 	 activated from IR
+31	2009-12-07	 Hurricanes	 	 • Niclas Wallin	 upper body injury (DTD)
+32	2009-12-23	 Hurricanes	 • Niclas Wallin	 	 returned to lineup
+33	2010-04-20	 Sharks	 	 • Niclas Wallin	 lower body injury (DTD)
+34	2010-05-08	 Sharks	 • Niclas Wallin	 	 returned to lineup
+35	2010-11-17	 Sharks	 	 • Niclas Wallin	 undisclosed (DTD)
+36	2010-11-20	 Sharks	 • Niclas Wallin	 	 returned to lineup
+37	2010-11-30	 Sharks	 	 • Niclas Wallin	 leg injury (DTD)
+38	2010-12-06	 Sharks	 • Niclas Wallin	 	 returned to lineup
+39	2011-03-16	 Sharks	 	 • Niclas Wallin	 head injury (DTD)
+40	2011-03-24	 Sharks	 • Niclas Wallin	 	 returned to lineup

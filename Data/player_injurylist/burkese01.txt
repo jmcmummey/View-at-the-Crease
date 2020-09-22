@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-12-27	 Whalers	 	 • Sean Burke	 sprained ankle (DTD) (date approximate)
+1	1993-03-13	 Whalers	 	 • Sean Burke	 back spasms (out for season)
+2	1993-09-29	 Whalers	 	 • Sean Burke	 pulled hamstring (DTD)
+3	1993-10-27	 Whalers	 	 • Sean Burke	 re-injured hamstring (out indefinitely)
+4	1993-12-23	 Whalers	 	 • Sean Burke	 back spasms (DTD)
+5	1995-02-28	 Whalers	 	 • Sean Burke	 strained groin (out indefinitely)
+6	1995-11-19	 Whalers	 	 • Sean Burke	 back spasms (DTD)
+7	1996-02-07	 Whalers	 	 • Sean Burke	 back spasms (DTD)
+8	2002-12-28	 Coyotes	 • Sean Burke	 	 activated from IR
+9	2003-02-21	 Coyotes	 • Sean Burke	 	 activated from IR
+10	2005-10-29	 Lightning	 	 • Sean Burke	 groin injury (DTD)
+11	2005-11-15	 Lightning	 • Sean Burke	 	 returned to lineup
+12	2006-03-16	 Lightning	 	 • Sean Burke	 broken finger (out indefinitely)
+13	2006-04-01	 Lightning	 • Sean Burke	 	 returned to lineup

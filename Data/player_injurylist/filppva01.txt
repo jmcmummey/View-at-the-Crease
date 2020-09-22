@@ -1,0 +1,39 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-03	 Red Wings	 	 • Valtteri Filppula	 placed on IR with finger injury
+1	2006-10-12	 Red Wings	 • Valtteri Filppula	 	 activated from IR
+2	2008-03-19	 Red Wings	 	 • Valtteri Filppula	 groin injury (DTD)
+3	2008-03-28	 Red Wings	 • Valtteri Filppula	 	 returned to lineup
+4	2009-03-15	 Red Wings	 	 • Valtteri Filppula	 back spasms (DTD)
+5	2009-03-20	 Red Wings	 • Valtteri Filppula	 	 returned to lineup
+6	2009-10-30	 Red Wings	 	 • Valtteri Filppula	 broken right wrist (out indefinitely)
+7	2009-12-26	 Red Wings	 • Valtteri Filppula	 	 returned to lineup
+8	2011-01-07	 Red Wings	 	 • Valtteri Filppula	 groin injury (DTD)
+9	2011-01-10	 Red Wings	 • Valtteri Filppula	 	 returned to lineup
+10	2011-01-22	 Red Wings	 	 • Valtteri Filppula	 flu (DTD)
+11	2011-01-26	 Red Wings	 • Valtteri Filppula	 	 returned to lineup
+12	2011-02-08	 Red Wings	 	 • Valtteri Filppula	 sprained left knee (DTD)
+13	2011-02-26	 Red Wings	 • Valtteri Filppula	 	 returned to lineup
+14	2011-12-05	 Red Wings	 	 • Valtteri Filppula	 lacerated shin (DTD)
+15	2011-12-08	 Red Wings	 • Valtteri Filppula	 	 returned to lineup
+16	2013-02-26	 Red Wings	 	 • Valtteri Filppula	 shoulder injury (DTD)
+17	2013-03-05	 Red Wings	 	 • Valtteri Filppula	 placed on IR with left shoujlder injury
+18	2013-03-13	 Red Wings	 • Valtteri Filppula	 	 activated from IR
+19	2014-01-31	 Lightning	 	 • Valtteri Filppula	 lower body injury (DTD)
+20	2014-02-04	 Lightning	 • Valtteri Filppula	 	 returned to lineup
+21	2014-02-07	 Lightning	 	 • Valtteri Filppula	 placed on IR with fractured right ankle
+22	2014-03-04	 Lightning	 • Valtteri Filppula	 	 activated from IR
+23	2014-04-11	 Lightning	 	 • Valtteri Filppula	 lower body injury (out for season)
+24	2016-03-14	 Lightning	 	 • Valtteri Filppula	 upper body injury (DTD)
+25	2016-03-28	 Lightning	 • Valtteri Filppula	 	 returned to lineup
+26	2016-11-07	 Lightning	 	 • Valtteri Filppula	 lower body injury (DTD)
+27	2016-11-10	 Lightning	 • Valtteri Filppula	 	 returned to lineup
+28	2018-03-28	 Flyers	 	 • Valtteri Filppula	 arm injury (DTD)
+29	2018-04-01	 Flyers	 • Valtteri Filppula	 	 returned to lineup
+30	2018-12-31	 Islanders	 	 • Valtteri Filppula	 placed on IR with upper body injury
+31	2019-01-03	 Islanders	 	 • Valtteri Filppula	 upper body injury (DTD)
+32	2019-01-04	 Islanders	 	 • Valtteri Filppula	 placed on IR with upper body injury
+33	2019-01-08	 Islanders	 • Valtteri Filppula	 	 activated from IR
+34	2019-03-20	 Islanders	 	 • Valtteri Filppula	 upper body injury (out indefinitely)
+35	2019-04-06	 Islanders	 • Valtteri Filppula	 	 returned to lineup
+36	2019-12-29	 Red Wings	 	 • Valtteri Filppula	 upper body injury (DTD)
+37	2019-12-31	 Red Wings	 • Valtteri Filppula	 	 returned to lineup

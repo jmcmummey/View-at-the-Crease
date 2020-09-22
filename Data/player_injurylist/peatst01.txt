@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-09-29	 Capitals	 	 • Stephen Peat	 groin injury (out indefinitely)
+1	2005-10-10	 Capitals	 	 • Stephen Peat	 upper body injury (DTD)
+2	2005-12-06	 Capitals	 • Stephen Peat	 	 returned to lineup

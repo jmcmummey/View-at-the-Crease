@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-04-03	 Blue Jackets	 	 • Zachary Werenski / Zach Werenski	 upper body injury (out for season)
+1	2017-04-17	 Blue Jackets	 	 • Zachary Werenski / Zach Werenski	 facial injury (out for season)
+2	2017-12-20	 Blue Jackets	 	 • Zachary Werenski / Zach Werenski	 undisclosed injury (DTD)
+3	2017-12-29	 Blue Jackets	 • Zachary Werenski / Zach Werenski	 	 returned to lineup
+4	2019-12-01	 Blue Jackets	 	 • Zachary Werenski / Zach Werenski	 shoulder injury (out indefinitely)
+5	2019-12-06	 Blue Jackets	 	 • Zachary Werenski / Zach Werenski	 placed on IR with shoulder injury
+6	2019-12-17	 Blue Jackets	 • Zachary Werenski / Zach Werenski	 	 activated from IR

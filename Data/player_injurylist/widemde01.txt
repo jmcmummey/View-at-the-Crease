@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-04	 Blues	 	 • Dennis Wideman	 hand injury (DTD)
+1	2006-11-12	 Blues	 • Dennis Wideman	 	 returned to lineup
+2	2008-04-12	 Bruins	 	 • Dennis Wideman	 upper body injury (DTD)
+3	2008-04-13	 Bruins	 • Dennis Wideman	 	 returned to lineup
+4	2008-12-04	 Bruins	 	 • Dennis Wideman	 undisclosed injury (DTD)
+5	2008-12-06	 Bruins	 • Dennis Wideman	 	 returned to lineup
+6	2009-04-06	 Bruins	 	 • Dennis Wideman	 undisclosed injury (DTD)
+7	2009-04-11	 Bruins	 • Dennis Wideman	 	 returned to lineup
+8	2009-10-10	 Bruins	 	 • Dennis Wideman	 shoulder injury (DTD)
+9	2009-10-21	 Bruins	 • Dennis Wideman	 	 returned to lineup
+10	2009-12-05	 Bruins	 	 • Dennis Wideman	 upper body injury (DTD)
+11	2009-12-14	 Bruins	 	 • Dennis Wideman	 undisclosed injury (DTD)
+12	2009-12-21	 Bruins	 • Dennis Wideman	 	 returned to lineup
+13	2010-01-16	 Bruins	 	 • Dennis Wideman	 left knee injury (DTD)
+14	2010-01-18	 Bruins	 • Dennis Wideman	 	 returned to lineup
+15	2011-03-30	 Capitals	 	 • Dennis Wideman	 right leg injury (out indefinitely)
+16	2013-04-19	 Flames	 	 • Dennis Wideman	 fractured finger (DTD)
+17	2013-04-23	 Flames	 • Dennis Wideman	 	 returned to lineup
+18	2013-11-28	 Flames	 	 • Dennis Wideman	 placed on IR with fractured hand
+19	2014-01-03	 Flames	 • Dennis Wideman	 	 activated from IR
+20	2014-03-07	 Flames	 	 • Dennis Wideman	 upper body injury (out for season)
+21	2016-03-18	 Flames	 	 • Dennis Wideman	 triceps injury (out for season)

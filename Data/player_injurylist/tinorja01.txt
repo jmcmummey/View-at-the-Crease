@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-02-02	 Coyotes	 	 • Jarred Tinordi	 lower body injury (DTD)
+1	2016-02-05	 Coyotes	 • Jarred Tinordi	 	 returned to lineup

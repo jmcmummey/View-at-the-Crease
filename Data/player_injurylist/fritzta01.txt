@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-02-05	 Islanders	 	 • Tanner Fritz	 lower body injury (DTD)
+1	2018-02-15	 Islanders	 • Tanner Fritz	 	 returned to lineup
+2	2018-04-05	 Islanders	 	 • Tanner Fritz	 illness (DTD)
+3	2018-04-07	 Islanders	 • Tanner Fritz	 	 returned to lineup
+4	2019-03-28	 Islanders	 	 • Tanner Fritz	 right hand injury (DTD)
+5	2019-03-31	 Islanders	 	 • Tanner Fritz	 surgery on right hand (out for season)
+6	2019-04-04	 Islanders	 	 • Tanner Fritz	 placed on IR recovering from surgery on right hand (out for season)

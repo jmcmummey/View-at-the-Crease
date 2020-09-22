@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-04-06	 Islanders	 	 • Matt Moulson	 flu (DTD)
+1	2013-04-09	 Islanders	 • Matt Moulson	 	 returned to lineup
+2	2014-01-31	 Sabres	 	 • Matt Moulson	 upper body injury (DTD)
+3	2014-02-03	 Sabres	 	 • Matt Moulson	 placed on IR with upper body injury
+4	2014-02-25	 Sabres	 • Matt Moulson	 	 activated from IR
+5	2014-05-09	 Wild	 	 • Matt Moulson	 lower body injury (out for season)
+6	2014-12-19	 Sabres	 	 • Matt Moulson	 illness (DTD)
+7	2014-12-26	 Sabres	 • Matt Moulson	 	 returned to lineup
+8	2015-04-03	 Sabres	 	 • Matt Moulson	 illness (DTD)
+9	2015-04-06	 Sabres	 • Matt Moulson	 	 returned to lineup

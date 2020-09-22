@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-02-21	 Lightning	 • Stanislav Neckar / Stan Neckar	 	 activated from IR
+1	2003-11-29	 Predators	 	 • Stanislav Neckar / Stan Neckar	 groin injury (out indefinitely)
+2	2004-02-18	 Predators	 • Stanislav Neckar / Stan Neckar	 	 activated

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-02-28	 Senators	 	 • Rudolfs Balcers	 illness (DTD)
+1	2019-03-02	 Senators	 • Rudolfs Balcers	 	 returned to lineup
+2	2019-09-30	 Senators	 	 • Rudolfs Balcers	 placed on IR with leg injury
+3	2019-11-12	 Senators	 • Rudolfs Balcers	 	 activated from IR

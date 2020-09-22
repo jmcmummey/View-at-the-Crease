@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-02	 Avalanche	 	 • Kurt Sauer	 placed on IR with neck injury
+1	2007-12-16	 Avalanche	 	 • Kurt Sauer	 concussion (out indefinitely)
+2	2008-01-31	 Avalanche	 • Kurt Sauer	 	 activated from IR
+3	2009-01-11	 Coyotes	 	 • Kurt Sauer	 placed on IR with lower body injury
+4	2009-02-16	 Coyotes	 • Kurt Sauer	 	 activated from IR
+5	2009-10-07	 Coyotes	 	 • Kurt Sauer	 placed on IR with headaches
+6	2010-09-15	 Coyotes	 	 • Kurt Sauer	 concussion-like symptoms (out for season)

@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-31	 Canadiens	 	 • Francis Bouillon	 ankle injury (out indefinitely)
+1	2006-03-18	 Canadiens	 	 • Francis Bouillon	 left leg injury (left game)
+2	2006-03-20	 Canadiens	 	 • Francis Bouillon	 ankle injury (out indefinitely)
+3	2006-04-18	 Canadiens	 • Francis Bouillon	 	 returned to lineup
+4	2006-09-14	 Canadiens	 	 • Francis Bouillon	 surgery on knee (DTD)
+5	2006-11-22	 Canadiens	 • Francis Bouillon	 	 returned to lineup
+6	2007-10-30	 Canadiens	 	 • Francis Bouillon	 shoulder injury (DTD)
+7	2007-11-08	 Canadiens	 • Francis Bouillon	 	 returned to lineup
+8	2008-04-01	 Canadiens	 	 • Francis Bouillon	 right ankle injury (DTD)
+9	2008-04-19	 Canadiens	 • Francis Bouillon	 	 returned to lineup
+10	2008-10-08	 Canadiens	 	 • Francis Bouillon	 leg injury (out indefinitely)
+11	2008-10-20	 Canadiens	 • Francis Bouillon	 	 returned to lineup
+12	2008-11-16	 Canadiens	 	 • Francis Bouillon	 groin injury (DTD)
+13	2009-04-18	 Canadiens	 • Francis Bouillon	 	 returned to lineup
+14	2009-04-20	 Canadiens	 	 • Francis Bouillon	 groin injury (DTD)
+15	2010-01-09	 Predators	 	 • Francis Bouillon	 flu (DTD)
+16	2010-01-11	 Predators	 • Francis Bouillon	 	 returned to lineup
+17	2011-01-17	 Predators	 	 • Francis Bouillon	 upper body injury (out for season)
+18	2011-01-31	 Predators	 	 • Francis Bouillon	 placed on IR with upper body injury (out for season)
+19	2011-10-04	 Predators	 	 • Francis Bouillon	 placed on IR with post-concussion
+20	2011-10-25	 Predators	 • Francis Bouillon	 	 activated from IR
+21	2011-11-28	 Predators	 	 • Francis Bouillon	 groin injury (DTD)
+22	2011-12-08	 Predators	 • Francis Bouillon	 	 returned to lineup
+23	2012-01-23	 Predators	 	 • Francis Bouillon	 upper body injury (DTD)
+24	2012-02-02	 Predators	 • Francis Bouillon	 	 returned to lineup

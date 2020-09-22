@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-04-02	 Kings	 	 • Kurtis MacDermid	 upper body injury (out for season)
+1	2019-10-12	 Kings	 	 • Kurtis MacDermid	 undisclosed (DTD)
+2	2019-10-19	 Kings	 • Kurtis MacDermid	 	 returned to lineup

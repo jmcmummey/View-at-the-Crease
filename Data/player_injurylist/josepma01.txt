@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-12-13	 Lightning	 	 • Mathieu Joseph	 lower body injury (DTD)
+1	2018-12-16	 Lightning	 	 • Mathieu Joseph	 placed on IR with lower body injury
+2	2018-12-29	 Lightning	 • Mathieu Joseph	 	 activated from IR

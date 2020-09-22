@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-02-27	 Stars	 	 • Andrew Cogliano	 upper body injury (DTD)
+1	2019-03-06	 Stars	 • Andrew Cogliano	 	 returned to lineup
+2	2019-11-14	 Stars	 	 • Andrew Cogliano	 lower body injury (DTD)
+3	2019-11-16	 Stars	 • Andrew Cogliano	 	 returned to lineup
+4	2020-09-04	 Stars	 	 • Andrew Cogliano	 undisclosed (DTD)
+5	2020-09-06	 Stars	 • Andrew Cogliano	 	 returned to lineup

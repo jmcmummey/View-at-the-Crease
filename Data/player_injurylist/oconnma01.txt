@@ -1,0 +1,54 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-12-02	 Coyotes	 	 • Connor Murphy	 upper body injury (DTD)
+1	2014-12-06	 Coyotes	 • Connor Murphy	 	 returned to lineup
+2	2015-02-10	 Coyotes	 	 • Connor Murphy	 illness (DTD)
+3	2015-02-13	 Coyotes	 • Connor Murphy	 	 returned to lineup
+4	2015-03-09	 Coyotes	 	 • Connor Murphy	 illness (out for season?)
+5	2015-10-27	 Coyotes	 	 • Connor Murphy	 lower body injury (DTD)
+6	2015-10-30	 Coyotes	 • Connor Murphy	 	 returned to lineup
+7	2015-11-03	 Oilers	 	 • Connor McDavid	 fractured left clavicle (DTD)
+8	2015-11-06	 Oilers	 	 • Connor McDavid	 placed on IR with fractured left clavicle
+9	2016-02-02	 Oilers	 • Connor McDavid	 	 activated from IR
+10	2016-11-14	 Jets	 	 • Kyle Connor	 placed on IR with upper body injury
+11	2016-11-25	 Jets	 • Kyle Connor	 	 activated from IR
+12	2016-12-11	 Coyotes	 	 • Connor Murphy	 upper body injury (DTD)
+13	2016-12-17	 Coyotes	 • Connor Murphy	 	 returned to lineup
+14	2017-02-22	 Maple Leafs	 	 • Connor Carrick	 upper body injury (DTD)
+15	2017-02-27	 Maple Leafs	 	 • Connor Carrick	 placed on IR with upper body injury
+16	2017-03-20	 Maple Leafs	 • Connor Carrick	 	 activated from IR
+17	2017-10-09	 Maple Leafs	 	 • Connor Carrick	 upper body injury (DTD)
+18	2017-10-14	 Maple Leafs	 • Connor Carrick	 	 returned to lineup
+19	2017-10-26	 Panthers	 	 • Connor Brickley	 upper body injury (DTD)
+20	2017-11-04	 Panthers	 • Connor Brickley	 	 returned to lineup
+21	2017-12-03	 Jets	 	 • Kyle Connor	 lower body injury (DTD)
+22	2017-12-05	 Jets	 • Kyle Connor	 	 returned to lineup
+23	2018-10-02	 Blackhawks	 	 • Connor Murphy	 placed on IR with back injury
+24	2018-10-29	 Stars	 	 • Connor Carrick	 placed on IR with lower body injury
+25	2018-10-30	 Stars	 	 • Connor Carrick	 foot injury (DTD)
+26	2018-11-02	 Stars	 	 • Connor Carrick	 placed on IR with foot injury
+27	2018-12-03	 Oilers	 	 • Connor McDavid	 illness (DTD)
+28	2018-12-05	 Oilers	 • Connor McDavid	 	 returned to lineup
+29	2018-12-08	 Blackhawks	 • Connor Murphy	 	 activated from IR
+30	2018-12-27	 Stars	 • Connor Carrick	 	 activated from IR
+31	2019-02-19	 Oilers	 	 • Connor McDavid	 illness (DTD)
+32	2019-02-21	 Oilers	 • Connor McDavid	 	 returned to lineup
+33	2019-03-01	 Jets	 	 • Connor Hellebuyck	 illness (DTD)
+34	2019-03-03	 Jets	 • Connor Hellebuyck	 	 returned to lineup
+35	2019-03-09	 Rangers	 	 • Connor Brickley	 illness (DTD)
+36	2019-03-11	 Rangers	 • Connor Brickley	 	 returned to lineup
+37	2019-04-15	 Bruins	 	 • Connor Clifton	 upper body injury (DTD)
+38	2019-04-25	 Bruins	 • Connor Clifton	 	 returned to lineup
+39	2019-10-01	 Blackhawks	 	 • Connor Murphy	 placed on IR with groin injury
+40	2019-10-10	 Blackhawks	 • Connor Murphy	 	 activated from IR
+41	2019-10-23	 Blackhawks	 	 • Connor Murphy	 placed on IR with groin injury
+42	2019-10-25	 Devils	 	 • Connor Carrick	 placed on IR with fractured finger
+43	2019-11-16	 Blackhawks	 • Connor Murphy	 	 activated from IR
+44	2019-12-18	 Devils	 • Connor Carrick	 	 activated from IR
+45	2019-12-30	 Bruins	 	 • Connor Clifton	 upper body injury (DTD)
+46	2020-01-02	 Bruins	 	 • Connor Clifton	 placed on IR with upper body injury
+47	2020-02-11	 Oilers	 	 • Connor McDavid	 quadriceps injury (DTD)
+48	2020-02-14	 Oilers	 	 • Connor McDavid	 placed on IR with quadriceps injury
+49	2020-02-23	 Oilers	 • Connor McDavid	 	 activated from IR
+50	2020-03-07	 Bruins	 • Connor Clifton	 	 activated from IR
+51	2020-03-09	 Oilers	 	 • Connor McDavid	 illness (DTD)
+52	2020-03-11	 Oilers	 • Connor McDavid	 	 returned to lineup

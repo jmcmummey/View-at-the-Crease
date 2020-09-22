@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-06	 Blue Jackets	 	 • Josh Anderson (b. 1994-05-07)	 placed on IR with eye injury
+1	2015-10-23	 Blue Jackets	 • Josh Anderson (b. 1994-05-07)	 	 activated from IR
+2	2017-02-04	 Blue Jackets	 	 • Josh Anderson (b. 1994-05-07)	 flu (DTD)
+3	2017-02-07	 Blue Jackets	 • Josh Anderson (b. 1994-05-07)	 	 returned to lineup
+4	2017-03-06	 Blue Jackets	 	 • Josh Anderson (b. 1994-05-07)	 lower body injury (DTD)
+5	2017-03-13	 Blue Jackets	 • Josh Anderson (b. 1994-05-07)	 	 returned to lineup
+6	2018-02-27	 Blue Jackets	 	 • Josh Anderson (b. 1994-05-07)	 sprained knee (DTD)
+7	2018-04-05	 Blue Jackets	 • Josh Anderson (b. 1994-05-07)	 	 returned to lineup
+8	2019-10-07	 Blue Jackets	 	 • Josh Anderson (b. 1994-05-07)	 upper body injury (DTD)
+9	2019-10-07	 Blue Jackets	 	 • Josh Anderson (b. 1994-05-07)	 placed on IR with upper body injury
+10	2019-10-21	 Blue Jackets	 • Josh Anderson (b. 1994-05-07)	 	 activated from IR
+11	2019-12-14	 Blue Jackets	 	 • Josh Anderson (b. 1994-05-07)	 placed on IR with upper body injury
+12	2019-12-16	 Blue Jackets	 	 • Josh Anderson (b. 1994-05-07)	 shoulder injury (DTD)
+13	2019-12-17	 Blue Jackets	 	 • Josh Anderson (b. 1994-05-07)	 placed on IR with shoulder injury (out for season)

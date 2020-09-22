@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-09-14	 Predators	 	 • Pekka Rinne	 dislocated left shoulder (out until early Jan)
+1	2009-03-10	 Predators	 	 • Pekka Rinne	 flu (DTD)
+2	2009-03-12	 Predators	 • Pekka Rinne	 	 returned to lineup
+3	2010-10-13	 Predators	 	 • Pekka Rinne	 lower body injury (DTD)
+4	2010-10-19	 Predators	 • Pekka Rinne	 	 returned to lineup
+5	2010-12-04	 Predators	 	 • Pekka Rinne	 lower body injury (out indefinitely)
+6	2010-12-08	 Predators	 	 • Pekka Rinne	 placed on IR with arthroscopic surgery on knee
+7	2010-12-22	 Predators	 • Pekka Rinne	 	 activated from IR
+8	2013-10-24	 Predators	 	 • Pekka Rinne	 placed on IR with hip infection after surgery
+9	2014-03-03	 Predators	 • Pekka Rinne	 	 activated from IR
+10	2015-01-14	 Predators	 	 • Pekka Rinne	 sprained knee (DTD)
+11	2015-02-04	 Predators	 • Pekka Rinne	 	 returned to lineup
+12	2016-10-22	 Predators	 	 • Pekka Rinne	 food poisoning (DTD)
+13	2016-10-26	 Predators	 • Pekka Rinne	 	 returned to lineup
+14	2016-11-15	 Predators	 	 • Pekka Rinne	 lower body injury (DTD)
+15	2016-11-16	 Predators	 • Pekka Rinne	 	 returned to lineup
+16	2018-10-20	 Predators	 	 • Pekka Rinne	 placed on IR with undisclosed injury
+17	2018-10-31	 Predators	 • Pekka Rinne	 	 activated from IR
+18	2020-02-25	 Predators	 	 • Pekka Rinne	 illness (DTD)
+19	2020-02-27	 Predators	 • Pekka Rinne	 	 returned to lineup

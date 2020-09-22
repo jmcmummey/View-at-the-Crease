@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-03	 Canadiens	 	 • Aaron Palushaj	 eye injury (DTD)
+1	2012-03-08	 Canadiens	 • Aaron Palushaj	 	 returned to lineup
+2	2013-01-19	 Canadiens	 	 • Aaron Palushaj	 placed on IR with shoulder injury

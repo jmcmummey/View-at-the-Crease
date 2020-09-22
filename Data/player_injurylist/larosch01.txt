@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-09-21	 Hurricanes	 	 • Chad LaRose	 knee injury (2-4 weeks)
+1	2007-12-19	 Hurricanes	 	 • Chad LaRose	 concussion (DTD)
+2	2007-12-21	 Hurricanes	 	 • Chad LaRose	 placed on IR with concussion
+3	2007-12-28	 Hurricanes	 • Chad LaRose	 	 activated from IR
+4	2008-02-06	 Hurricanes	 	 • Chad LaRose	 broken leg (out for season)
+5	2008-02-12	 Hurricanes	 	 • Chad LaRose	 placed on IR with broken leg
+6	2008-03-28	 Hurricanes	 • Chad LaRose	 	 activated from IR
+7	2009-11-30	 Hurricanes	 	 • Chad LaRose	 lower body injury (DTD)
+8	2009-12-05	 Hurricanes	 • Chad LaRose	 	 returned to lineup
+9	2009-12-10	 Hurricanes	 	 • Chad LaRose	 placed on IR with lower body injury
+10	2010-01-18	 Hurricanes	 • Chad LaRose	 	 activated from IR
+11	2010-02-01	 Hurricanes	 	 • Chad LaRose	 upper body injury (DTD)
+12	2010-02-04	 Hurricanes	 	 • Chad LaRose	 placed on IR with upper body injury
+13	2010-03-02	 Hurricanes	 • Chad LaRose	 	 activated from IR
+14	2012-01-10	 Hurricanes	 	 • Chad LaRose	 head injury (DTD)
+15	2012-01-21	 Hurricanes	 • Chad LaRose	 	 returned to lineup
+16	2012-02-01	 Hurricanes	 	 • Chad LaRose	 illness/flu (DTD)
+17	2012-02-08	 Hurricanes	 • Chad LaRose	 	 returned to lineup
+18	2012-02-17	 Hurricanes	 	 • Chad LaRose	 upper body injury (DTD)
+19	2012-03-03	 Hurricanes	 • Chad LaRose	 	 returned to lineup
+20	2013-03-03	 Hurricanes	 	 • Chad LaRose	 concussion-like symptoms (DTD)
+21	2013-03-20	 Hurricanes	 	 • Chad LaRose	 placed on IR with concussion
+22	2013-03-26	 Hurricanes	 • Chad LaRose	 	 activated from IR
+23	2013-03-28	 Hurricanes	 	 • Chad LaRose	 illness/flu (DTD)
+24	2013-04-01	 Hurricanes	 • Chad LaRose	 	 returned to lineup

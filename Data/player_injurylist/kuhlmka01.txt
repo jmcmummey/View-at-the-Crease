@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-22	 Bruins	 	 • Karson Kuhlman	 fractured tibia in right leg (out indefinitely)
+1	2019-10-27	 Bruins	 	 • Karson Kuhlman	 placed on IR with fractured tibia in right leg
+2	2019-12-30	 Bruins	 • Karson Kuhlman	 	 activated from IR

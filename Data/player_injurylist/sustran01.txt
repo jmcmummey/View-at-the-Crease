@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-31	 Lightning	 	 • Andrej Sustr	 hand injury (DTD)
+1	2014-11-06	 Lightning	 • Andrej Sustr	 	 returned to lineup
+2	2015-03-30	 Lightning	 	 • Andrej Sustr	 upper body injury (out for season)
+3	2016-03-02	 Lightning	 	 • Andrej Sustr	 undisclosed injury (DTD)
+4	2016-03-08	 Lightning	 • Andrej Sustr	 	 returned to lineup

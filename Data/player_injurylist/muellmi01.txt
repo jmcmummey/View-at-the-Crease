@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-01-10	 Sharks	 	 • Mirco Mueller	 placed on IR with undisclosed injury
+1	2015-01-21	 Sharks	 	 • Mirco Mueller	 upper body injury (DTD)
+2	2015-01-27	 Sharks	 • Mirco Mueller	 	 activated from IR
+3	2015-03-27	 Sharks	 	 • Mirco Mueller	 left hand/wrist injury (out for season)
+4	2017-11-13	 Devils	 	 • Mirco Mueller	 placed on IR with fractured clavicle
+5	2018-01-30	 Devils	 • Mirco Mueller	 	 activated from IR
+6	2019-03-01	 Devils	 	 • Mirco Mueller	 shoulder injury (DTD)
+7	2019-03-23	 Devils	 • Mirco Mueller	 	 returned to lineup

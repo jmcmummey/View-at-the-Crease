@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-04	 Wild	 	 • Justin Fontaine	 upper body injury (DTD)
+1	2014-01-07	 Wild	 • Justin Fontaine	 	 returned to lineup
+2	2014-02-04	 Wild	 	 • Justin Fontaine	 illness (DTD)
+3	2014-02-06	 Wild	 • Justin Fontaine	 	 returned to lineup
+4	2014-10-05	 Wild	 	 • Justin Fontaine	 placed on IR with lower body injury
+5	2014-10-17	 Wild	 • Justin Fontaine	 	 activated from IR
+6	2015-01-31	 Wild	 	 • Justin Fontaine	 placed on IR with lower body injury (date 02-03 per CBC)
+7	2015-02-09	 Wild	 • Justin Fontaine	 	 activated from IR
+8	2015-02-09	 Wild	 	 • Justin Fontaine	 lower body injury (DTD)
+9	2015-02-10	 Wild	 • Justin Fontaine	 	 returned to lineup
+10	2015-04-18	 Wild	 	 • Justin Fontaine	 illness (DTD)
+11	2015-04-20	 Wild	 • Justin Fontaine	 	 returned to lineup
+12	2015-05-02	 Wild	 	 • Justin Fontaine	 leg injury (out for season)
+13	2015-10-06	 Wild	 	 • Justin Fontaine	 placed on IR with upper body injury
+14	2015-10-15	 Wild	 • Justin Fontaine	 	 returned to lineup
+15	2015-10-31	 Wild	 	 • Justin Fontaine	 left knee injury (DTD)
+16	2015-11-05	 Wild	 	 • Justin Fontaine	 placed on IR with left knee injury
+17	2015-11-28	 Wild	 • Justin Fontaine	 	 activated from IR

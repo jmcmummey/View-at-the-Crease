@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-03-12	 Flames	 	 • Markus Granlund	 shoulder injury (out for season)
+1	2015-03-29	 Flames	 	 • Markus Granlund	 illness (DTD)
+2	2015-03-30	 Flames	 • Markus Granlund	 	 returned to lineup
+3	2016-03-15	 Canucks	 	 • Markus Granlund	 upper body injury (DTD)
+4	2016-03-29	 Canucks	 • Markus Granlund	 	 returned to lineup
+5	2017-02-24	 Canucks	 	 • Markus Granlund	 mumps (DTD)
+6	2017-02-28	 Canucks	 • Markus Granlund	 	 returned to lineup
+7	2017-03-11	 Canucks	 	 • Markus Granlund	 food poisoning (DTD)
+8	2017-03-13	 Canucks	 • Markus Granlund	 	 returned to lineup
+9	2017-03-20	 Canucks	 	 • Markus Granlund	 placed on IR with surgery on wrist (out for season)
+10	2017-11-07	 Canucks	 	 • Markus Granlund	 upper body injury (DTD)
+11	2017-11-09	 Canucks	 • Markus Granlund	 	 returned to lineup
+12	2018-02-09	 Canucks	 	 • Markus Granlund	 placed on IR with ankle injury (out for season)

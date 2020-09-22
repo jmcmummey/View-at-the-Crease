@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-17	 Canucks	 	 • Wade Brookbank	 concussion (out indefinitely)
+1	2006-01-07	 Canucks	 • Wade Brookbank	 	 returned to lineup
+2	2006-01-31	 Canucks	 	 • Wade Brookbank	 concussion (out indefinitely)
+3	2006-02-28	 Canucks	 • Wade Brookbank	 	 returned to lineup
+4	2008-01-10	 Hurricanes	 	 • Wade Brookbank	 flu (DTD)
+5	2008-01-15	 Hurricanes	 • Wade Brookbank	 	 returned to lineup
+6	2008-03-12	 Hurricanes	 	 • Wade Brookbank	 thigh injury (DTD)
+7	2008-03-14	 Hurricanes	 	 • Wade Brookbank	 placed on IR with thigh injury
+8	2008-03-20	 Hurricanes	 • Wade Brookbank	 	 activated from IR
+9	2008-12-31	 Hurricanes	 	 • Wade Brookbank	 flu (DTD)

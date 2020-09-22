@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-11-12	 Predators	 	 • Teemu Laakso	 surgery to remove cyst (DTD)
+1	2011-11-15	 Predators	 	 • Teemu Laakso	 placed on IR with surgery to remove cyst
+2	2011-12-01	 Predators	 • Teemu Laakso	 	 activated from IR

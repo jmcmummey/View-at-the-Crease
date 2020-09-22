@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-10-19	 Senators	 	 • Jean-Gabriel Pageau	 undisclosed (DTD)
+1	2013-10-27	 Senators	 • Jean-Gabriel Pageau	 	 returned to lineup
+2	2018-01-17	 Senators	 	 • Jean-Gabriel Pageau	 placed on IR with upper body injury
+3	2018-01-18	 Senators	 	 • Jean-Gabriel Pageau	 upper body injury (DTD)
+4	2018-01-20	 Senators	 	 • Jean-Gabriel Pageau	 placed on IR with upper body injury
+5	2018-01-25	 Senators	 • Jean-Gabriel Pageau	 	 activated from IR
+6	2018-09-15	 Senators	 	 • Jean-Gabriel Pageau	 placed on IR with Achilles injury
+7	2019-01-06	 Senators	 • Jean-Gabriel Pageau	 	 activated from IR
+8	2020-01-16	 Senators	 	 • Jean-Gabriel Pageau	 sore neck (DTD)
+9	2020-01-27	 Senators	 • Jean-Gabriel Pageau	 	 returned to lineup

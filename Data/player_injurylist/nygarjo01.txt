@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-16	 Oilers	 	 • Joakim Nygard	 rib injury (out indefinitely)
+1	2019-10-17	 Oilers	 	 • Joakim Nygard	 placed on IR with rib injury
+2	2019-11-12	 Oilers	 • Joakim Nygard	 	 activated from IR
+3	2020-01-30	 Oilers	 	 • Joakim Nygard	 placed on IR with hand injury
+4	2020-07-13	 Oilers	 • Joakim Nygard	 	 activated from IR

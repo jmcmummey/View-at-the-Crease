@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-06	 Avalanche	 	 • Patrick Bordeleau	 placed on IR with surgery on back
+1	2014-12-15	 Avalanche	 • Patrick Bordeleau	 	 activated from IR
+2	2014-12-23	 Avalanche	 	 • Patrick Bordeleau	 placed on IR with fractured kneecap (out for season)
+3	2014-12-27	 Avalanche	 	 • Patrick Bordeleau	 placed on IR with fractured kneecap (out for season) (CBC)

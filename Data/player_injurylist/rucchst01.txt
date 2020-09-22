@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-11-15	 Mighty Ducks	 	 • Steve Rucchin	 jaw injury (out indefinitely)
+1	2001-11-16	 Mighty Ducks	 	 • Steve Rucchin	 leg injury (out indefinitely)
+2	2005-11-24	 Rangers	 	 • Steve Rucchin	 back injury (DTD)
+3	2005-12-01	 Rangers	 • Steve Rucchin	 	 returned to lineup
+4	2005-12-31	 Rangers	 	 • Steve Rucchin	 ankle injury (DTD)
+5	2006-01-03	 Rangers	 • Steve Rucchin	 	 returned to lineup
+6	2006-04-06	 Rangers	 	 • Steve Rucchin	 foot injury (DTD)
+7	2006-12-15	 Thrashers	 	 • Steve Rucchin	 lower body injury (DTD)
+8	2006-12-27	 Thrashers	 	 • Steve Rucchin	 placed on IR with lower body injury
+9	2007-01-05	 Thrashers	 • Steve Rucchin	 	 activated from IR
+10	2007-02-09	 Thrashers	 	 • Steve Rucchin	 head injury (DTD)
+11	2007-04-18	 Thrashers	 • Steve Rucchin	 	 returned to lineup

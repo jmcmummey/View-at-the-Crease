@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-09-28	 Canadiens	 	 • Cristobal Huet	 knee injury (out indefinitely)
+1	2005-11-09	 Canadiens	 	 • Cristobal Huet	 knee injury (DTD)
+2	2005-11-14	 Canadiens	 • Cristobal Huet	 	 returned to lineup
+3	2007-02-14	 Canadiens	 	 • Cristobal Huet	 lower body injury (left game)
+4	2007-02-15	 Canadiens	 	 • Cristobal Huet	 hamstring injury (out indefinitely)
+5	2007-02-20	 Canadiens	 	 • Cristobal Huet	 hamstring injury (out for regular season)
+6	2007-04-03	 Canadiens	 • Cristobal Huet	 	 returned to lineup
+7	2007-12-03	 Canadiens	 	 • Cristobal Huet	 groin injury (DTD)
+8	2007-12-15	 Canadiens	 • Cristobal Huet	 	 returned to lineup
+9	2008-03-03	 Capitals	 	 • Cristobal Huet	 back spasms (DTD)
+10	2008-03-08	 Capitals	 • Cristobal Huet	 	 returned to lineup
+11	2010-03-16	 Blackhawks	 	 • Cristobal Huet	 flu (DTD)
+12	2010-03-20	 Blackhawks	 • Cristobal Huet	 	 returned to lineup

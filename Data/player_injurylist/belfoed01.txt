@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1996-01-31	 Blackhawks	 	 • Ed Belfour	 strained hip muscle (DTD)
+1	1996-02-19	 Blackhawks	 	 • Ed Belfour	 back injury (DTD)
+2	2002-10-17	 Maple Leafs	 	 • Ed Belfour	 placed on IR with right thumb infection
+3	2004-02-21	 Maple Leafs	 	 • Ed Belfour	 placed on IR
+4	2005-12-12	 Maple Leafs	 	 • Ed Belfour	 groin injury (DTD)
+5	2005-12-17	 Maple Leafs	 • Ed Belfour	 	 returned to lineup
+6	2006-03-14	 Maple Leafs	 	 • Ed Belfour	 sore back (DTD)
+7	2006-03-23	 Maple Leafs	 	 • Ed Belfour	 placed on IR with back injury

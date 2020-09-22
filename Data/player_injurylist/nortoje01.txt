@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-01-03	 Islanders	 	 • Jeff Norton	 wrist injury (out indefinitely)
+1	2000-01-19	 Sharks	 • Jeff Norton	 	 activated from IR
+2	2000-12-09	 Penguins	 	 • Jeff Norton	 bruised foot (DTD)
+3	2000-12-13	 Penguins	 • Jeff Norton	 	 returned to lineup
+4	2001-01-12	 Penguins	 	 • Jeff Norton	 bruised knee (DTD)
+5	2001-01-21	 Penguins	 • Jeff Norton	 	 returned to lineup
+6	2001-02-17	 Penguins	 	 • Jeff Norton	 back injury (DTD)
+7	2001-02-25	 Penguins	 • Jeff Norton	 	 returned to lineup
+8	2001-12-28	 Panthers	 	 • Jeff Norton	 knee injury (out indefinitely)

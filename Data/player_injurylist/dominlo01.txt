@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-11-25	 Coyotes	 	 • Louis Domingue	 placed on IR with lower body injury
+1	2016-12-01	 Coyotes	 • Louis Domingue	 	 activated from IR
+2	2017-02-16	 Coyotes	 	 • Louis Domingue	 lower body injury (DTD)
+3	2017-02-22	 Coyotes	 • Louis Domingue	 	 returned to lineup
+4	2019-04-01	 Lightning	 	 • Louis Domingue	 lower body injury (out for season)
+5	2019-12-14	 Devils	 	 • Louis Domingue	 placed on IR with lower body injury
+6	2019-12-28	 Devils	 • Louis Domingue	 	 activated from IR
+7	2020-01-18	 Devils	 	 • Louis Domingue	 lower body injury (DTD)
+8	2020-01-27	 Devils	 • Louis Domingue	 	 returned to lineup

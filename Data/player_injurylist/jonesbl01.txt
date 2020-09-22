@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-27	 Lightning	 	 • Blair Jones	 stomach injury (DTD)
+1	2010-10-30	 Lightning	 • Blair Jones	 	 returned to lineup
+2	2012-02-10	 Flames	 	 • Blair Jones	 placed on IR with broken left ankle
+3	2012-03-22	 Flames	 • Blair Jones	 	 activated from IR
+4	2013-12-23	 Flames	 	 • Blair Jones	 knee injury (out indefinitely)
+5	2014-01-03	 Flames	 	 • Blair Jones	 placed on IR with knee injury
+6	2014-01-17	 Flames	 • Blair Jones	 	 activated from IR

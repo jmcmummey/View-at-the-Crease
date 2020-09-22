@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1994-01-30	 Flyers	 	 • Josef Beranek	 bruised left shoulder (DTD)
+1	1996-02-02	 Canucks	 	 • Josef Beranek	 sprained thumb (DTD)
+2	1996-02-17	 Canucks	 	 • Josef Beranek	 thumb injury (DTD)
+3	1999-04-13	 Oilers	 	 • Josef Beranek	 placed on IR (date approximate)
+4	2000-11-22	 Penguins	 	 • Josef Beranek	 strained hamstring (DTD)
+5	2000-12-13	 Penguins	 	 • Josef Beranek	 strained shoulder (DTD)
+6	2000-12-20	 Penguins	 	 • Josef Beranek	 hip injury (DTD)
+7	2001-01-21	 Penguins	 	 • Josef Beranek	 strained groin (DTD)
+8	2001-02-10	 Penguins	 • Josef Beranek	 	 returned to lineup
+9	2001-03-23	 Penguins	 	 • Josef Beranek	 bruised thigh (DTD)

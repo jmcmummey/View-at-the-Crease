@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-04-09	 Blackhawks	 	 • Jordan Hendry	 undisclosed injury (DTD)
+1	2010-04-11	 Blackhawks	 • Jordan Hendry	 	 returned to lineup
+2	2011-02-28	 Blackhawks	 	 • Jordan Hendry	 torn ACL in left knee (out for season)

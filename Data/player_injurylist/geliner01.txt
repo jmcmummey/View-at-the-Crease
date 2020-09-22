@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-01-02	 Devils	 	 • Eric Gelinas	 illness (DTD)
+1	2015-01-09	 Devils	 	 • Eric Gelinas	 placed on IR with illness
+2	2015-01-14	 Devils	 • Eric Gelinas	 	 activated from IR
+3	2015-04-09	 Devils	 	 • Eric Gelinas	 rib injury (DTD)
+4	2015-04-11	 Devils	 • Eric Gelinas	 	 returned to lineup
+5	2016-03-03	 Avalanche	 	 • Eric Gelinas	 back injury (DTD)
+6	2016-03-07	 Avalanche	 • Eric Gelinas	 	 returned to lineup
+7	2016-03-19	 Avalanche	 	 • Eric Gelinas	 elbow injury (out for season)

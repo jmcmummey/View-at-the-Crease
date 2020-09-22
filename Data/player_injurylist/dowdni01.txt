@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-01-22	 Kings	 	 • Nic Dowd	 lower body injury (DTD)
+1	2017-01-31	 Kings	 • Nic Dowd	 	 returned to lineup
+2	2019-10-31	 Capitals	 	 • Nic Dowd	 lower body injury (DTD)
+3	2019-11-09	 Capitals	 • Nic Dowd	 	 returned to lineup
+4	2019-11-15	 Capitals	 	 • Nic Dowd	 upper body injury (DTD)
+5	2019-11-20	 Capitals	 	 • Nic Dowd	 placed on IR with upper body injury
+6	2019-11-26	 Capitals	 • Nic Dowd	 	 activated from IR

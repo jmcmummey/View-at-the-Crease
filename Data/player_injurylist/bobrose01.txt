@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-04	 Blue Jackets	 	 • Sergei Bobrovsky	 placed on IR with strained groin
+1	2014-01-02	 Blue Jackets	 • Sergei Bobrovsky	 	 activated from IR
+2	2014-03-28	 Blue Jackets	 	 • Sergei Bobrovsky	 flu (DTD)
+3	2014-03-29	 Blue Jackets	 • Sergei Bobrovsky	 	 returned to lineup
+4	2014-10-27	 Blue Jackets	 	 • Sergei Bobrovsky	 placed on IR with fractured finger
+5	2014-11-14	 Blue Jackets	 • Sergei Bobrovsky	 	 activated from IR
+6	2014-12-27	 Blue Jackets	 	 • Sergei Bobrovsky	 illness (DTD)
+7	2014-12-31	 Blue Jackets	 • Sergei Bobrovsky	 	 returned to lineup
+8	2015-01-21	 Blue Jackets	 	 • Sergei Bobrovsky	 lower body injury (DTD)
+9	2015-01-26	 Blue Jackets	 	 • Sergei Bobrovsky	 placed on IR with groin injury
+10	2015-02-28	 Blue Jackets	 • Sergei Bobrovsky	 	 activated from IR
+11	2015-12-09	 Blue Jackets	 	 • Sergei Bobrovsky	 placed on IR with lower body injury
+12	2015-12-30	 Blue Jackets	 • Sergei Bobrovsky	 	 activated from IR
+13	2016-01-02	 Blue Jackets	 	 • Sergei Bobrovsky	 placed on IR with groin injury
+14	2016-01-15	 Blue Jackets	 • Sergei Bobrovsky	 	 activated from IR
+15	2016-01-22	 Blue Jackets	 	 • Sergei Bobrovsky	 placed on IR with groin injury
+16	2016-03-09	 Blue Jackets	 • Sergei Bobrovsky	 	 activated from IR
+17	2017-01-10	 Blue Jackets	 	 • Sergei Bobrovsky	 illness (DTD)
+18	2017-01-12	 Blue Jackets	 • Sergei Bobrovsky	 	 returned to lineup
+19	2017-01-14	 Blue Jackets	 	 • Sergei Bobrovsky	 illness (DTD)
+20	2017-01-17	 Blue Jackets	 • Sergei Bobrovsky	 	 returned to lineup
+21	2018-03-06	 Blue Jackets	 	 • Sergei Bobrovsky	 illness (DTD)
+22	2018-03-08	 Blue Jackets	 • Sergei Bobrovsky	 	 returned to lineup
+23	2018-11-15	 Blue Jackets	 	 • Sergei Bobrovsky	 illness (DTD)
+24	2018-11-17	 Blue Jackets	 • Sergei Bobrovsky	 	 returned to lineup
+25	2019-03-21	 Blue Jackets	 	 • Sergei Bobrovsky	 upper body injury (DTD)
+26	2019-03-24	 Blue Jackets	 • Sergei Bobrovsky	 	 returned to lineup
+27	2020-01-12	 Panthers	 	 • Sergei Bobrovsky	 upper body injury (DTD)
+28	2020-01-18	 Panthers	 • Sergei Bobrovsky	 	 returned to lineup
+29	2020-03-03	 Panthers	 	 • Sergei Bobrovsky	 lower body injury (DTD)

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-30	 Coyotes	 	 • Jeff Taffe	 left foot injury (DTD)
+1	2007-04-05	 Coyotes	 • Jeff Taffe	 	 returned to lineup

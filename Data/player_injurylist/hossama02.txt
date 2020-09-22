@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-25	 Rangers	 	 • Marcel Hossa	 chest injury (DTD)
+1	2005-10-29	 Rangers	 • Marcel Hossa	 	 returned to lineup
+2	2006-01-22	 Rangers	 	 • Marcel Hossa	 dental surgery (DTD)
+3	2006-01-28	 Rangers	 • Marcel Hossa	 	 returned to lineup
+4	2007-03-08	 Rangers	 	 • Marcel Hossa	 sprained knee (out indefinitely)
+5	2007-10-18	 Rangers	 	 • Marcel Hossa	 groin (DTD)
+6	2007-10-23	 Rangers	 • Marcel Hossa	 	 returned to lineup
+7	2007-12-16	 Rangers	 	 • Marcel Hossa	 placed on IR with flu
+8	2007-12-30	 Rangers	 • Marcel Hossa	 	 activated from IR

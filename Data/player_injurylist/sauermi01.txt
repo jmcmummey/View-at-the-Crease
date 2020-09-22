@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-24	 Rangers	 	 • Michael Sauer / Mike Sauer	 undisclosed injury (DTD)
+1	2010-11-01	 Rangers	 • Michael Sauer / Mike Sauer	 	 returned to lineup
+2	2011-10-14	 Rangers	 	 • Michael Sauer / Mike Sauer	 placed on IR with right shoulder injury
+3	2011-10-27	 Rangers	 • Michael Sauer / Mike Sauer	 	 activated from IR
+4	2011-12-06	 Rangers	 	 • Michael Sauer / Mike Sauer	 concussion (out for season)
+5	2011-12-14	 Rangers	 	 • Michael Sauer / Mike Sauer	 placed on IR with concussion (out for season)
+6	2013-01-13	 Rangers	 	 • Michael Sauer / Mike Sauer	 placed on IR with post-concussion syndrome (out for season)

@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1993-12-04	 Whalers	 	 • Andrew Cassels	 bruised kneecap (DTD)
+1	1994-03-13	 Whalers	 	 • Andrew Cassels	 facial injury (DTD)
+2	1995-12-02	 Whalers	 	 • Andrew Cassels	 bruised forearm (DTD)
+3	2001-10-24	 Canucks	 	 • Andrew Cassels	 placed on IR
+4	2004-01-10	 Blue Jackets	 	 • Andrew Cassels	 placed on IR
+5	2004-02-25	 Blue Jackets	 • Andrew Cassels	 	 activated from IR
+6	2005-09-07	 Capitals	 	 • Andrew Cassels	 broken cheekbone (date approximate)
+7	2005-10-13	 Capitals	 	 • Andrew Cassels	 ankle injury (left game)

@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-31	 Flyers	 	 • Matt Read	 upper body injury (DTD)
+1	2011-11-09	 Flyers	 • Matt Read	 	 returned to lineup
+2	2013-02-21	 Flyers	 	 • Matt Read	 placed on IR with torn muscles in rib cage
+3	2013-03-07	 Flyers	 • Matt Read	 	 activated from IR
+4	2013-11-27	 Flyers	 	 • Matt Read	 lower body injury (DTD)
+5	2013-11-29	 Flyers	 • Matt Read	 	 returned to lineup
+6	2014-01-02	 Flyers	 	 • Matt Read	 upper body injury (DTD)
+7	2014-01-11	 Flyers	 	 • Matt Read	 placed on IR with concussion
+8	2014-01-14	 Flyers	 • Matt Read	 	 activated from IR
+9	2016-12-05	 Flyers	 	 • Matt Read	 oblique injury (DTD)
+10	2016-12-07	 Flyers	 	 • Matt Read	 placed on IR with oblique injury
+11	2017-01-01	 Flyers	 • Matt Read	 	 activated from IR
+12	2017-01-14	 Flyers	 	 • Matt Read	 lower body injury (DTD)
+13	2017-01-21	 Flyers	 • Matt Read	 	 returned to lineup
+14	2017-03-31	 Flyers	 	 • Matt Read	 upper body injury (out for season)

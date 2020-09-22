@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-14	 Sabres	 	 • Brayden McNabb	 concussion (DTD)
+1	2012-01-16	 Sabres	 	 • Brayden McNabb	 placed on IR with concussion
+2	2012-02-02	 Sabres	 • Brayden McNabb	 	 activated from IR
+3	2016-10-30	 Kings	 	 • Brayden McNabb	 placed on IR with arm injury
+4	2016-12-29	 Kings	 • Brayden McNabb	 	 activated from IR
+5	2018-01-24	 Golden Knights	 	 • Brayden McNabb	 upper body injury (DTD)

@@ -1,0 +1,47 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-02-07	 Bruins	 	 • Johnny Boychuk	 fractured orbital bone (DTD)
+1	2010-03-04	 Bruins	 • Johnny Boychuk	 	 returned to lineup
+2	2010-03-18	 Bruins	 	 • Johnny Boychuk	 flu (DTD)
+3	2010-03-21	 Bruins	 • Johnny Boychuk	 	 returned to lineup
+4	2010-10-24	 Bruins	 	 • Johnny Boychuk	 fractured left forearm (DTD)
+5	2010-11-18	 Bruins	 • Johnny Boychuk	 	 returned to lineup
+6	2011-11-17	 Bruins	 	 • Johnny Boychuk	 flu (DTD)
+7	2011-11-19	 Bruins	 • Johnny Boychuk	 	 returned to lineup
+8	2012-02-26	 Bruins	 	 • Johnny Boychuk	 concussion (DTD)
+9	2012-03-03	 Bruins	 • Johnny Boychuk	 	 returned to lineup
+10	2012-04-04	 Bruins	 	 • Johnny Boychuk	 sprained left knee (out for season)
+11	2013-03-23	 Bruins	 	 • Johnny Boychuk	 foot/leg injury (DTD)
+12	2013-03-27	 Bruins	 	 • Johnny Boychuk	 placed on IR with foot injury
+13	2013-03-30	 Bruins	 • Johnny Boychuk	 	 activated from IR
+14	2013-11-02	 Bruins	 	 • Johnny Boychuk	 upper body injury (DTD)
+15	2013-11-05	 Bruins	 • Johnny Boychuk	 	 returned to lineup
+16	2013-12-06	 Bruins	 	 • Johnny Boychuk	 lower back (Y) / upper body (CBC) injury (DTD)
+17	2013-12-10	 Bruins	 • Johnny Boychuk	 	 returned to lineup
+18	2014-03-17	 Bruins	 	 • Johnny Boychuk	 leg injury (DTD)
+19	2014-03-22	 Bruins	 • Johnny Boychuk	 	 returned to lineup
+20	2014-11-08	 Islanders	 	 • Johnny Boychuk	 lower body injury (DTD)
+21	2014-11-11	 Islanders	 • Johnny Boychuk	 	 returned to lineup
+22	2014-12-03	 Islanders	 	 • Johnny Boychuk	 placed on IR with upper body injury
+23	2014-12-19	 Islanders	 • Johnny Boychuk	 	 activated from IR
+24	2015-12-31	 Islanders	 	 • Johnny Boychuk	 placed on IR with upper body injury
+25	2016-02-06	 Islanders	 • Johnny Boychuk	 	 activated from IR
+26	2016-12-06	 Islanders	 	 • Johnny Boychuk	 flu (DTD)
+27	2016-12-08	 Islanders	 • Johnny Boychuk	 	 returned to lineup
+28	2017-01-14	 Islanders	 	 • Johnny Boychuk	 upper body injury (DTD)
+29	2017-01-16	 Islanders	 • Johnny Boychuk	 	 returned to lineup
+30	2017-01-19	 Islanders	 	 • Johnny Boychuk	 upper body injury (DTD)
+31	2017-01-22	 Islanders	 • Johnny Boychuk	 	 returned to lineup
+32	2017-03-04	 Islanders	 	 • Johnny Boychuk	 foot injury (DTD)
+33	2017-03-30	 Islanders	 • Johnny Boychuk	 	 returned to lineup
+34	2017-12-07	 Islanders	 	 • Johnny Boychuk	 undisclosed injury (DTD)
+35	2017-12-13	 Islanders	 • Johnny Boychuk	 	 returned to lineup
+36	2017-12-28	 Islanders	 	 • Johnny Boychuk	 placed on IR with lower body injury
+37	2018-02-09	 Islanders	 • Johnny Boychuk	 	 activated from IR
+38	2018-03-27	 Islanders	 	 • Johnny Boychuk	 undisclosed injury (DTD)
+39	2018-03-29	 Islanders	 • Johnny Boychuk	 	 returned to lineup
+40	2019-03-11	 Islanders	 	 • Johnny Boychuk	 concussion (DTD)
+41	2019-03-16	 Islanders	 • Johnny Boychuk	 	 returned to lineup
+42	2019-04-19	 Islanders	 	 • Johnny Boychuk	 lower body injury (out for season)
+43	2020-03-04	 Islanders	 	 • Johnny Boychuk	 facial injury (out indefinitely)
+44	2020-08-04	 Islanders	 	 • Johnny Boychuk	 undisclosed (DTD)
+45	2020-08-24	 Islanders	 • Johnny Boychuk	 	 returned to lineup

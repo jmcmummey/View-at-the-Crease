@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-12-14	 Blackhawks	 	 • Jan Rutta	 upper body injury (out indefinitely)
+1	2017-12-23	 Blackhawks	 • Jan Rutta	 	 returned to lineup
+2	2018-02-06	 Blackhawks	 	 • Jan Rutta	 placed on IR with undisclosed injury
+3	2018-02-08	 Blackhawks	 	 • Jan Rutta	 undisclosed (DTD)
+4	2018-02-09	 Blackhawks	 	 • Jan Rutta	 placed on IR with undisclosed
+5	2018-02-23	 Blackhawks	 • Jan Rutta	 	 activated from IR
+6	2018-03-01	 Blackhawks	 	 • Jan Rutta	 lower body injury (DTD)
+7	2018-03-08	 Blackhawks	 • Jan Rutta	 	 returned to lineup
+8	2019-12-31	 Lightning	 	 • Jan Rutta	 lower body injury (DTD)
+9	2020-01-04	 Lightning	 • Jan Rutta	 	 returned to lineup
+10	2020-02-05	 Lightning	 	 • Jan Rutta	 lower body injury (out indefinitely)
+11	2020-02-08	 Lightning	 	 • Jan Rutta	 placed on IR with lower body injury
+12	2020-07-13	 Lightning	 • Jan Rutta	 	 activated from IR
+13	2020-08-08	 Lightning	 	 • Jan Rutta	 undisclosed (DTD)

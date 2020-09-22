@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-11-02	 Ducks	 	 • John Gibson (b. 1993-07-14)	 placed on IR with groin injury
+1	2014-12-17	 Ducks	 • John Gibson (b. 1993-07-14)	 	 activated from IR
+2	2015-04-11	 Ducks	 	 • John Gibson (b. 1993-07-14)	 upper body injury (DTD)
+3	2016-02-15	 Ducks	 	 • John Gibson (b. 1993-07-14)	 upper body injury (DTD)
+4	2016-02-17	 Ducks	 • John Gibson (b. 1993-07-14)	 	 returned to lineup
+5	2016-04-10	 Ducks	 	 • John Gibson (b. 1993-07-14)	 lower body injury (out for season)
+6	2017-02-22	 Ducks	 	 • John Gibson (b. 1993-07-14)	 placed on IR with lower body injury
+7	2017-02-25	 Ducks	 	 • John Gibson (b. 1993-07-14)	 placed on IR with lower body injury
+8	2017-03-10	 Ducks	 • John Gibson (b. 1993-07-14)	 	 activated from IR
+9	2017-03-12	 Ducks	 	 • John Gibson (b. 1993-07-14)	 lower body injury (DTD)
+10	2017-03-28	 Ducks	 • John Gibson (b. 1993-07-14)	 	 returned to lineup
+11	2017-05-22	 Ducks	 	 • John Gibson (b. 1993-07-14)	 lower body injury (out for season)
+12	2017-11-09	 Ducks	 	 • John Gibson (b. 1993-07-14)	 placed on IR with concussion
+13	2017-11-12	 Ducks	 • John Gibson (b. 1993-07-14)	 	 activated from IR
+14	2018-01-31	 Ducks	 	 • John Gibson (b. 1993-07-14)	 lower body injury (DTD)
+15	2018-02-06	 Ducks	 	 • John Gibson (b. 1993-07-14)	 placed on IR with lower body injury
+16	2018-02-09	 Ducks	 • John Gibson (b. 1993-07-14)	 	 activated from IR
+17	2018-02-20	 Ducks	 	 • John Gibson (b. 1993-07-14)	 lower body injury (DTD)
+18	2018-02-24	 Ducks	 	 • John Gibson (b. 1993-07-14)	 placed on IR with lower body injury
+19	2018-03-02	 Ducks	 • John Gibson (b. 1993-07-14)	 	 activated from IR
+20	2018-04-03	 Ducks	 	 • John Gibson (b. 1993-07-14)	 upper body injury (DTD)
+21	2018-04-12	 Ducks	 • John Gibson (b. 1993-07-14)	 	 returned to lineup
+22	2018-11-18	 Ducks	 	 • John Gibson (b. 1993-07-14)	 illness (DTD)
+23	2018-11-21	 Ducks	 • John Gibson (b. 1993-07-14)	 	 returned to lineup
+24	2019-02-08	 Ducks	 	 • John Gibson (b. 1993-07-14)	 upper body injury (DTD)
+25	2019-02-13	 Ducks	 	 • John Gibson (b. 1993-07-14)	 placed on IR with upper body injury
+26	2019-03-01	 Ducks	 • John Gibson (b. 1993-07-14)	 	 activated from IR
+27	2019-12-02	 Ducks	 	 • John Gibson (b. 1993-07-14)	 illness (DTD)
+28	2019-12-08	 Ducks	 • John Gibson (b. 1993-07-14)	 	 returned to lineup
+29	2020-03-08	 Ducks	 	 • John Gibson (b. 1993-07-14)	 groin injury (DTD)

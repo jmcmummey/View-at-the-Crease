@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-12-20	 Kings	 	 • Jason Blake	 placed on IR
+1	2000-01-02	 Kings	 • Jason Blake	 	 activated from IR
+2	2005-12-13	 Islanders	 	 • Jason Blake	 head injury (left game)
+3	2005-12-14	 Islanders	 	 • Jason Blake	 concussion (out indefinitely)
+4	2005-12-21	 Islanders	 • Jason Blake	 	 returned to lineup
+5	2006-01-05	 Islanders	 	 • Jason Blake	 bruised ribs (DTD)
+6	2006-01-12	 Islanders	 • Jason Blake	 	 returned to lineup
+7	2006-04-02	 Islanders	 	 • Jason Blake	 groin injury (DTD)
+8	2006-04-05	 Islanders	 • Jason Blake	 	 returned to lineup
+9	2006-11-22	 Islanders	 	 • Jason Blake	 groin injury (DTD)
+10	2008-11-26	 Maple Leafs	 	 • Jason Blake	 concussion (DTD)
+11	2008-12-01	 Maple Leafs	 • Jason Blake	 	 returned to lineup
+12	2011-01-03	 Ducks	 	 • Jason Blake	 shoulder injury (DTD)
+13	2011-01-07	 Ducks	 • Jason Blake	 	 returned to lineup
+14	2011-03-04	 Ducks	 	 • Jason Blake	 lacerated hand (DTD)
+15	2011-03-13	 Ducks	 • Jason Blake	 	 returned to lineup
+16	2011-10-15	 Ducks	 	 • Jason Blake	 placed on IR with lacerated left forearm
+17	2012-01-04	 Ducks	 • Jason Blake	 	 activated from IR
+18	2012-01-31	 Ducks	 	 • Jason Blake	 placed on IR with lower body injury
+19	2012-02-03	 Ducks	 • Jason Blake	 	 activated from IR

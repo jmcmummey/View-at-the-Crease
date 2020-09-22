@@ -1,0 +1,54 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-24	 Predators	 	 • Martin Erat	 hip flexor injury (DTD)
+1	2006-01-28	 Predators	 • Martin Erat	 	 returned to lineup
+2	2006-11-01	 Predators	 	 • Martin Erat	 rib injury (DTD)
+3	2006-11-04	 Predators	 • Martin Erat	 	 returned to lineup
+4	2007-01-05	 Predators	 	 • Martin Erat	 hip flexor injury (DTD)
+5	2007-01-09	 Predators	 • Martin Erat	 	 returned to lineup
+6	2007-03-14	 Predators	 	 • Martin Erat	 sprained left knee (out 4-6 weeks)
+7	2007-04-11	 Predators	 • Martin Erat	 	 returned to lineup
+8	2007-04-18	 Predators	 	 • Martin Erat	 right leg injury (DTD)
+9	2007-12-13	 Predators	 	 • Martin Erat	 neck injury (DTD)
+10	2007-12-18	 Predators	 • Martin Erat	 	 returned to lineup
+11	2007-12-22	 Predators	 	 • Martin Erat	 virus (DTD)
+12	2007-12-26	 Predators	 • Martin Erat	 	 returned to lineup
+13	2008-02-09	 Predators	 	 • Martin Erat	 back spasms (DTD)
+14	2008-02-12	 Predators	 • Martin Erat	 	 returned to lineup
+15	2008-11-08	 Predators	 	 • Martin Erat	 undisclosed (DTD)
+16	2008-11-15	 Predators	 • Martin Erat	 	 returned to lineup
+17	2009-02-28	 Predators	 	 • Martin Erat	 groin injury (DTD)
+18	2009-03-05	 Predators	 • Martin Erat	 	 returned to lineup
+19	2009-03-30	 Predators	 	 • Martin Erat	 broken left leg (out for season)
+20	2009-10-29	 Predators	 	 • Martin Erat	 lower body injury (DTD)
+21	2009-11-07	 Predators	 • Martin Erat	 	 returned to lineup
+22	2009-12-30	 Predators	 	 • Martin Erat	 knee injury (DTD)
+23	2010-01-09	 Predators	 • Martin Erat	 	 returned to lineup
+24	2010-03-29	 Predators	 	 • Martin Erat	 lower body injury (DTD)
+25	2010-03-30	 Predators	 • Martin Erat	 	 returned to lineup
+26	2010-10-10	 Predators	 	 • Martin Erat	 placed on IR with back spasms
+27	2010-10-19	 Predators	 • Martin Erat	 	 activated from IR
+28	2010-11-01	 Predators	 	 • Martin Erat	 upper body injury (DTD)
+29	2010-11-07	 Predators	 	 • Martin Erat	 placed on IR with upper body injury
+30	2010-11-13	 Predators	 • Martin Erat	 	 activated from IR
+31	2010-12-26	 Predators	 	 • Martin Erat	 placed on IR with upper body injury
+32	2011-01-15	 Predators	 • Martin Erat	 	 activated from IR
+33	2011-04-08	 Predators	 	 • Martin Erat	 undisclosed injury (DTD)
+34	2011-04-13	 Predators	 • Martin Erat	 	 returned to lineup
+35	2011-04-21	 Predators	 	 • Martin Erat	 upper body injury (DTD)
+36	2011-04-28	 Predators	 • Martin Erat	 	 returned to lineup
+37	2011-10-08	 Predators	 	 • Martin Erat	 upper body injury (DTD)
+38	2011-10-13	 Predators	 	 • Martin Erat	 placed on IR with upper body injury
+39	2011-10-29	 Predators	 • Martin Erat	 	 activated from IR
+40	2012-03-25	 Predators	 	 • Martin Erat	 upper body injury (DTD)
+41	2012-03-30	 Predators	 • Martin Erat	 	 returned to lineup
+42	2013-02-02	 Predators	 	 • Martin Erat	 foot injury (DTD)
+43	2013-02-05	 Predators	 • Martin Erat	 	 returned to lineup
+44	2013-04-07	 Capitals	 	 • Martin Erat	 lower body injury (DTD)
+45	2013-04-13	 Capitals	 • Martin Erat	 	 returned to lineup
+46	2013-05-09	 Capitals	 	 • Martin Erat	 left wrist injury (out for season)
+47	2014-03-01	 Capitals	 	 • Martin Erat	 lower body injury (DTD)
+48	2014-03-02	 Capitals	 • Martin Erat	 	 returned to lineup
+49	2014-03-13	 Coyotes	 	 • Martin Erat	 upper body injury (DTD)
+50	2014-03-20	 Coyotes	 • Martin Erat	 	 returned to lineup
+51	2015-03-21	 Coyotes	 	 • Martin Erat	 upper body injury (DTD)
+52	2015-03-22	 Coyotes	 • Martin Erat	 	 returned to lineup

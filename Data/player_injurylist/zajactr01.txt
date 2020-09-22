@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-21	 Devils	 	 • Travis Zajac	 hip injury (DTD)
+1	2006-10-26	 Devils	 • Travis Zajac	 	 returned to lineup
+2	2011-08-17	 Devils	 	 • Travis Zajac	 leg injury (surgery) (out indefinitely)
+3	2011-10-05	 Devils	 	 • Travis Zajac	 placed on IR with left Achilles tendon injury
+4	2011-12-16	 Devils	 • Travis Zajac	 	 activated from IR
+5	2012-01-04	 Devils	 	 • Travis Zajac	 sore Achilles tendon (out indefinitely)
+6	2012-01-14	 Devils	 	 • Travis Zajac	 placed on IR with Achilles tendon injury
+7	2012-03-25	 Devils	 • Travis Zajac	 	 activated from IR
+8	2013-11-02	 Devils	 	 • Travis Zajac	 sprained right ankle (DTD)
+9	2013-11-06	 Devils	 • Travis Zajac	 	 returned to lineup
+10	2014-11-29	 Devils	 	 • Travis Zajac	 placed on IR with lower body injury
+11	2014-12-15	 Devils	 • Travis Zajac	 	 activated from IR
+12	2015-10-16	 Devils	 	 • Travis Zajac	 lower body injury (DTD)
+13	2015-10-18	 Devils	 • Travis Zajac	 	 returned to lineup
+14	2015-12-04	 Devils	 	 • Travis Zajac	 upper body injury (DTD)
+15	2015-12-10	 Devils	 	 • Travis Zajac	 placed on IR with upper body injury
+16	2015-12-19	 Devils	 • Travis Zajac	 	 activated from IR
+17	2017-01-02	 Devils	 	 • Travis Zajac	 illness (DTD)
+18	2017-01-03	 Devils	 • Travis Zajac	 	 returned to lineup
+19	2017-10-03	 Devils	 	 • Travis Zajac	 placed on IR with pectoral injuries
+20	2017-11-18	 Devils	 • Travis Zajac	 	 activated from IR
+21	2018-03-09	 Devils	 	 • Travis Zajac	 undisclosed (DTD)
+22	2018-03-14	 Devils	 • Travis Zajac	 	 returned to lineup
+23	2018-10-19	 Devils	 	 • Travis Zajac	 lower body injury (DTD)
+24	2018-10-25	 Devils	 • Travis Zajac	 	 returned to lineup
+25	2019-02-02	 Devils	 	 • Travis Zajac	 lower body injury (DTD)
+26	2019-02-05	 Devils	 • Travis Zajac	 	 returned to lineup

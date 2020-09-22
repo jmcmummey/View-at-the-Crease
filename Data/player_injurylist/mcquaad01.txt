@@ -1,0 +1,44 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-05-06	 Bruins	 	 • Adam McQuaid	 lower body injury (DTD)
+1	2011-01-10	 Bruins	 	 • Adam McQuaid	 undisclosed (DTD)
+2	2011-01-11	 Bruins	 • Adam McQuaid	 	 returned to lineup
+3	2011-05-02	 Bruins	 	 • Adam McQuaid	 sprained neck (DTD)
+4	2011-05-14	 Bruins	 • Adam McQuaid	 	 returned to lineup
+5	2011-10-06	 Bruins	 	 • Adam McQuaid	 illness (DTD)
+6	2011-10-08	 Bruins	 • Adam McQuaid	 	 returned to lineup
+7	2011-10-18	 Bruins	 	 • Adam McQuaid	 head injury (DTD)
+8	2011-10-27	 Bruins	 • Adam McQuaid	 	 returned to lineup
+9	2012-03-13	 Bruins	 	 • Adam McQuaid	 upper body injury (DTD)
+10	2012-03-15	 Bruins	 • Adam McQuaid	 	 returned to lineup
+11	2012-03-30	 Bruins	 	 • Adam McQuaid	 facial laceration / head injury (DTD)
+12	2012-04-05	 Bruins	 • Adam McQuaid	 	 returned to lineup
+13	2012-04-12	 Bruins	 	 • Adam McQuaid	 head injury (out for season)
+14	2013-03-14	 Bruins	 	 • Adam McQuaid	 undisclosed (DTD)
+15	2013-03-16	 Bruins	 • Adam McQuaid	 	 returned to lineup
+16	2013-03-20	 Bruins	 	 • Adam McQuaid	 strained shoulder (DTD)
+17	2013-03-23	 Bruins	 	 • Adam McQuaid	 placed on IR with shoulder injury
+18	2013-04-11	 Bruins	 • Adam McQuaid	 	 activated from IR
+19	2013-04-21	 Bruins	 	 • Adam McQuaid	 lower/upper (CBC) body injury (DTD)
+20	2013-04-23	 Bruins	 • Adam McQuaid	 	 returned to lineup
+21	2013-11-10	 Bruins	 	 • Adam McQuaid	 groin injury (DTD)
+22	2013-11-27	 Bruins	 • Adam McQuaid	 	 returned to lineup
+23	2013-12-04	 Bruins	 	 • Adam McQuaid	 lower body injury (DTD)
+24	2013-12-05	 Bruins	 	 • Adam McQuaid	 placed on IR with lower body injury (date 12-08 per CBC T)
+25	2013-12-23	 Bruins	 • Adam McQuaid	 	 activated from IR
+26	2014-01-20	 Bruins	 	 • Adam McQuaid	 leg injury (out for season)
+27	2014-03-04	 Bruins	 	 • Adam McQuaid	 placed on IR with lower body injury (out for season)
+28	2014-11-19	 Bruins	 	 • Adam McQuaid	 placed on IR with fractured thumb
+29	2015-01-03	 Bruins	 • Adam McQuaid	 	 activated from IR
+30	2016-01-06	 Bruins	 	 • Adam McQuaid	 placed on IR with upper body injury
+31	2016-02-16	 Bruins	 • Adam McQuaid	 	 activated from IR
+32	2016-10-11	 Bruins	 	 • Adam McQuaid	 placed on IR with upper body injury
+33	2016-10-25	 Bruins	 • Adam McQuaid	 	 activated from IR
+34	2017-04-17	 Bruins	 	 • Adam McQuaid	 upper body injury (out for season)
+35	2017-10-20	 Bruins	 	 • Adam McQuaid	 placed on IR with fractured fibula in right leg
+36	2018-01-17	 Bruins	 • Adam McQuaid	 	 activated from IR
+37	2018-10-28	 Rangers	 	 • Adam McQuaid	 lower body injury (DTD)
+38	2018-11-05	 Rangers	 	 • Adam McQuaid	 placed on IR with lower body injury
+39	2018-12-16	 Rangers	 • Adam McQuaid	 	 activated from IR
+40	2019-01-13	 Rangers	 	 • Adam McQuaid	 undisclosed (DTD)
+41	2019-01-14	 Rangers	 • Adam McQuaid	 	 returned to lineup
+42	2019-03-30	 Blue Jackets	 	 • Adam McQuaid	 head injury (out for season)

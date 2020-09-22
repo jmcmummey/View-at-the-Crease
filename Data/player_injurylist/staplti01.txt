@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-07	 Jets	 	 • Tim Stapleton	 flu (DTD)
+1	2012-01-10	 Jets	 • Tim Stapleton	 	 returned to lineup
+2	2012-01-21	 Jets	 	 • Tim Stapleton	 lower body injury (DTD)
+3	2012-02-02	 Jets	 	 • Tim Stapleton	 placed on IR with lower body injury
+4	2012-02-11	 Jets	 • Tim Stapleton	 	 activated from IR

@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-13	 Islanders	 	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 upper body injury (DTD)
+1	2012-03-15	 Islanders	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 	 returned to lineup
+2	2013-12-30	 Avalanche	 	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 placed on IR with knee injury
+3	2014-01-21	 Avalanche	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 	 activated from IR
+4	2014-03-11	 Avalanche	 	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 torn MCL in knee (out indefinitely)
+5	2014-04-11	 Avalanche	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 	 returned to lineup
+6	2015-01-03	 Canadiens	 	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 upper body injury (DTD)
+7	2015-01-10	 Canadiens	 	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 placed on IR with upper body injury
+8	2015-01-14	 Canadiens	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 	 activated from IR
+9	2015-01-17	 Canadiens	 	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 placed on IR with upper body injury
+10	2015-03-02	 Canadiens	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 	 activated from IR
+11	2015-03-04	 Canadiens	 	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 upper body injury (DTD)
+12	2015-03-10	 Canadiens	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 	 returned to lineup
+13	2015-04-17	 Canadiens	 	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 upper body injury (DTD)
+14	2015-04-22	 Canadiens	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 	 returned to lineup
+15	2016-02-28	 Maple Leafs	 	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 upper body injury (DTD)
+16	2016-03-08	 Maple Leafs	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 	 returned to lineup
+17	2017-02-27	 Devils	 	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 finger injury (DTD)
+18	2017-03-11	 Predators	 • Pierre-Alexandre Parenteau / P.A. Parenteau	 	 returned to lineup

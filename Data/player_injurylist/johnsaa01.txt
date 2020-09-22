@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-23	 Blue Jackets	 	 • Aaron Johnson	 placed on IR with sprained knee
+1	2006-01-12	 Blue Jackets	 • Aaron Johnson	 	 activated from IR
+2	2007-11-06	 Islanders	 	 • Aaron Johnson	 sprained right knee (out 4-5 weeks)
+3	2008-01-16	 Islanders	 • Aaron Johnson	 	 returned to lineup
+4	2008-04-01	 Islanders	 	 • Aaron Johnson	 undisclosed injury (DTD)
+5	2008-11-26	 Blackhawks	 	 • Aaron Johnson	 placed on IR with left side injury
+6	2008-12-26	 Blackhawks	 • Aaron Johnson	 	 activated from IR
+7	2012-02-21	 Blue Jackets	 	 • Aaron Johnson	 upper and lower body injury (DTD)
+8	2012-03-03	 Blue Jackets	 • Aaron Johnson	 	 returned to lineup

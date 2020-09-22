@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-11	 Islanders	 	 • John Tavares	 concussion (DTD)
+1	2010-10-16	 Islanders	 • John Tavares	 	 returned to lineup
+2	2013-12-28	 Islanders	 	 • John Tavares	 lower body injury (DTD)
+3	2013-12-29	 Islanders	 • John Tavares	 	 returned to lineup
+4	2014-02-19	 Islanders	 	 • John Tavares	 torn MCL, menuscis in knee (out indefinitely)
+5	2014-02-24	 Islanders	 	 • John Tavares	 placed on IR with torn MCL in left knee (out for season)
+6	2015-10-31	 Islanders	 	 • John Tavares	 illness (DTD)
+7	2015-11-05	 Islanders	 • John Tavares	 	 returned to lineup
+8	2017-04-01	 Islanders	 	 • John Tavares	 hamstring injury (out for season)
+9	2019-10-17	 Maple Leafs	 	 • John Tavares	 fractured finger (out indefinitely)
+10	2019-11-05	 Maple Leafs	 • John Tavares	 	 returned to lineup

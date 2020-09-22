@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-19	 Senators	 	 • Jesse Winchester	 shoulder injury (DTD)
+1	2009-01-03	 Senators	 • Jesse Winchester	 	 returned to lineup
+2	2009-09-21	 Senators	 	 • Jesse Winchester	 knee injury (out indefinitely)
+3	2009-09-30	 Senators	 	 • Jesse Winchester	 placed on IR
+4	2009-10-23	 Senators	 • Jesse Winchester	 	 activated from IR
+5	2010-01-09	 Senators	 	 • Jesse Winchester	 right knee injury (out indefinitely)
+6	2010-02-03	 Senators	 • Jesse Winchester	 	 activated from IR
+7	2011-02-08	 Senators	 	 • Jesse Winchester	 placed on IR with knee injury
+8	2011-03-01	 Senators	 • Jesse Winchester	 	 activated from IR
+9	2011-10-05	 Senators	 	 • Jesse Winchester	 placed on IR with shoulder injury
+10	2011-10-20	 Senators	 • Jesse Winchester	 	 activated from IR
+11	2011-12-20	 Senators	 	 • Jesse Winchester	 head injury (out indefinitely)
+12	2011-12-21	 Senators	 	 • Jesse Winchester	 placed on IR with concussion
+13	2012-04-01	 Senators	 • Jesse Winchester	 	 activated from IR
+14	2012-04-19	 Senators	 	 • Jesse Winchester	 upper body injury (out for season)
+15	2013-11-22	 Panthers	 	 • Jesse Winchester	 lower body injury (DTD)
+16	2013-11-30	 Panthers	 • Jesse Winchester	 	 returned to lineup
+17	2013-12-16	 Panthers	 	 • Jesse Winchester	 placed on IR with hand injury
+18	2014-01-20	 Panthers	 • Jesse Winchester	 	 activated from IR
+19	2014-03-10	 Panthers	 	 • Jesse Winchester	 lower body injury (DTD)
+20	2014-03-25	 Panthers	 • Jesse Winchester	 	 returned to lineup
+21	2014-10-09	 Avalanche	 	 • Jesse Winchester	 concussion (out indefinitely)
+22	2014-10-15	 Avalanche	 	 • Jesse Winchester	 placed on IR with concussion (out for season)
+23	2015-10-06	 Avalanche	 	 • Jesse Winchester	 placed on IR with concussion / concussion-like symptoms (out for season)

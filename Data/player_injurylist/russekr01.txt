@@ -1,0 +1,52 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-03-19	 Blue Jackets	 	 • Kris Russell	 groin injury (DTD)
+1	2008-03-30	 Blue Jackets	 • Kris Russell	 	 returned to lineup
+2	2009-11-07	 Blue Jackets	 	 • Kris Russell	 illness (DTD)
+3	2009-11-13	 Blue Jackets	 • Kris Russell	 	 returned to lineup
+4	2010-01-10	 Blue Jackets	 	 • Kris Russell	 lower body injury (DTD)
+5	2010-01-14	 Blue Jackets	 • Kris Russell	 	 returned to lineup
+6	2010-04-02	 Blue Jackets	 	 • Kris Russell	 left arm injury (DTD)
+7	2010-04-07	 Blue Jackets	 • Kris Russell	 	 returned to lineup
+8	2010-09-19	 Blue Jackets	 	 • Kris Russell	 sprained knee (DTD)
+9	2010-10-09	 Blue Jackets	 • Kris Russell	 	 returned to lineup
+10	2010-10-20	 Blue Jackets	 	 • Kris Russell	 lower body injury (DTD)
+11	2010-10-28	 Blue Jackets	 • Kris Russell	 	 returned to lineup
+12	2011-04-07	 Blue Jackets	 	 • Kris Russell	 fractured left ankle / tibia (CBC) (out for season)
+13	2011-11-10	 Blue Jackets	 	 • Kris Russell	 undisclosed injury (DTD)
+14	2011-11-12	 Blues	 • Kris Russell	 	 returned to lineup
+15	2011-12-29	 Blues	 	 • Kris Russell	 placed on IR with groin injury
+16	2012-01-19	 Blues	 • Kris Russell	 	 activated from IR
+17	2012-02-11	 Blues	 	 • Kris Russell	 flu (DTD)
+18	2012-02-12	 Blues	 • Kris Russell	 	 returned to lineup
+19	2012-02-24	 Blues	 	 • Kris Russell	 concussion-like symptoms (DTD)
+20	2012-02-25	 Blues	 	 • Kris Russell	 concussion (DTD)
+21	2013-12-22	 Flames	 	 • Kris Russell	 sprained MCL in knee (DTD)
+22	2013-12-29	 Flames	 	 • Kris Russell	 placed on IR with sprained MCL in knee
+23	2014-01-20	 Flames	 • Kris Russell	 	 activated from IR
+24	2014-02-01	 Flames	 	 • Kris Russell	 upper body injury (DTD)
+25	2014-02-04	 Flames	 • Kris Russell	 	 returned to lineup
+26	2014-11-18	 Flames	 	 • Kris Russell	 lower body injury (DTD)
+27	2014-11-22	 Flames	 • Kris Russell	 	 returned to lineup
+28	2015-12-04	 Flames	 	 • Kris Russell	 upper body injury (DTD)
+29	2015-12-12	 Flames	 • Kris Russell	 	 returned to lineup
+30	2016-02-15	 Flames	 	 • Kris Russell	 lower body injury (DTD)
+31	2016-03-01	 Stars	 • Kris Russell	 	 returned to lineup
+32	2016-03-22	 Stars	 	 • Kris Russell	 lower body injury (DTD)
+33	2016-04-07	 Stars	 • Kris Russell	 	 returned to lineup
+34	2016-04-18	 Stars	 	 • Kris Russell	 illness (DTD)
+35	2016-04-20	 Stars	 • Kris Russell	 	 returned to lineup
+36	2016-11-05	 Oilers	 	 • Kris Russell	 placed on IR with lower body injury
+37	2016-11-19	 Oilers	 • Kris Russell	 	 activated from IR
+38	2017-02-05	 Oilers	 	 • Kris Russell	 undisclosed injury (DTD)
+39	2017-02-21	 Oilers	 • Kris Russell	 	 returned to lineup
+40	2017-03-04	 Oilers	 	 • Kris Russell	 upper body injury (DTD)
+41	2017-03-10	 Oilers	 • Kris Russell	 	 returned to lineup
+42	2018-02-25	 Oilers	 	 • Kris Russell	 hand injury (DTD)
+43	2018-03-01	 Oilers	 • Kris Russell	 	 returned to lineup
+44	2018-03-16	 Oilers	 	 • Kris Russell	 undisclosed (DTD)
+45	2018-03-20	 Oilers	 • Kris Russell	 	 returned to lineup
+46	2018-10-02	 Oilers	 	 • Kris Russell	 placed on IR with undisclosed injury
+47	2018-12-13	 Oilers	 	 • Kris Russell	 placed on IR with groin injury
+48	2019-01-06	 Oilers	 • Kris Russell	 	 activated from IR
+49	2020-01-30	 Oilers	 	 • Kris Russell	 placed on IR with concussion
+50	2020-02-29	 Oilers	 • Kris Russell	 	 activated from IR

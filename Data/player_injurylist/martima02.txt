@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-10	 Islanders	 	 • Matt Martin (a)	 illness (DTD)
+1	2012-03-13	 Islanders	 • Matt Martin (a)	 	 returned to lineup
+2	2014-02-27	 Islanders	 	 • Matt Martin (a)	 lower body injury (DTD)
+3	2014-03-04	 Islanders	 • Matt Martin (a)	 	 returned to lineup
+4	2015-04-07	 Islanders	 	 • Matt Martin (a)	 upper body injury (DTD)
+5	2016-04-10	 Islanders	 • Matt Martin (a)	 	 returned to lineup
+6	2017-10-28	 Maple Leafs	 	 • Matt Martin (a)	 undisclosed (DTD)
+7	2017-10-30	 Maple Leafs	 • Matt Martin (a)	 	 returned to lineup
+8	2018-11-03	 Islanders	 	 • Matt Martin (a)	 upper body injury (DTD)
+9	2018-11-15	 Islanders	 	 • Matt Martin (a)	 placed on IR with upper body injury
+10	2018-11-26	 Islanders	 • Matt Martin (a)	 	 activated from IR
+11	2019-03-01	 Islanders	 	 • Matt Martin (a)	 upper body injury (DTD)
+12	2019-03-09	 Islanders	 • Matt Martin (a)	 	 returned to lineup
+13	2019-10-26	 Islanders	 	 • Matt Martin (a)	 leg injury (out indefinitely)
+14	2019-10-30	 Islanders	 	 • Matt Martin (a)	 placed on IR with leg injury
+15	2019-11-21	 Islanders	 • Matt Martin (a)	 	 activated from IR

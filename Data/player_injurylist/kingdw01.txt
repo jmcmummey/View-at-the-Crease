@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-03-31	 Kings	 	 • Dwight King	 undisclosed (DTD)
+1	2014-04-09	 Kings	 • Dwight King	 	 returned to lineup
+2	2015-10-03	 Kings	 	 • Dwight King	 placed on IR with undisclosed injury
+3	2015-12-29	 Kings	 • Dwight King	 	 activated from IR

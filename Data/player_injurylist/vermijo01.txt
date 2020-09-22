@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-12-15	 Lightning	 	 • Joel Vermin	 hand injury (DTD)
+1	2015-12-18	 Lightning	 	 • Joel Vermin	 placed on IR with hand injury
+2	2016-02-25	 Lightning	 • Joel Vermin	 	 activated from IR

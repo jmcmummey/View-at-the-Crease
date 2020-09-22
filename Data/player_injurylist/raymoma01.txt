@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-12-05	 Canucks	 	 • Mason Raymond	 illness (DTD)
+1	2010-12-08	 Canucks	 • Mason Raymond	 	 returned to lineup
+2	2010-12-10	 Canucks	 	 • Mason Raymond	 broken left thumb (DTD)
+3	2011-01-02	 Canucks	 • Mason Raymond	 	 returned to lineup
+4	2011-03-07	 Canucks	 	 • Mason Raymond	 shoulder injury (DTD)
+5	2011-03-10	 Canucks	 • Mason Raymond	 	 returned to lineup
+6	2011-10-05	 Canucks	 	 • Mason Raymond	 placed on IR with fractured vertebrae
+7	2011-12-01	 Canucks	 • Mason Raymond	 	 activated from IR
+8	2013-04-01	 Canucks	 	 • Mason Raymond	 shoulder injury (DTD)
+9	2013-04-06	 Canucks	 • Mason Raymond	 	 returned to lineup
+10	2014-10-26	 Flames	 	 • Mason Raymond	 placed on IR with upper body injury
+11	2014-12-09	 Flames	 • Mason Raymond	 	 activated from IR
+12	2015-02-27	 Flames	 	 • Mason Raymond	 placed on IR for personal reasons
+13	2015-03-03	 Flames	 • Mason Raymond	 	 activated from IR

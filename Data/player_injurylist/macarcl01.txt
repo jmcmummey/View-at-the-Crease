@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-04-08	 Sabres	 	 • Clarke MacArthur	 undisclosed injury (DTD)
+1	2011-10-20	 Maple Leafs	 	 • Clarke MacArthur	 undisclosed injury (DTD)
+2	2011-10-22	 Maple Leafs	 • Clarke MacArthur	 	 returned to lineup
+3	2011-11-16	 Maple Leafs	 	 • Clarke MacArthur	 upper body injury (DTD)
+4	2011-11-22	 Maple Leafs	 • Clarke MacArthur	 	 returned to lineup
+5	2011-12-06	 Maple Leafs	 	 • Clarke MacArthur	 upper body injury (DTD)
+6	2011-12-09	 Maple Leafs	 • Clarke MacArthur	 	 returned to lineup
+7	2012-03-22	 Maple Leafs	 	 • Clarke MacArthur	 upper body injury (DTD)
+8	2012-03-27	 Maple Leafs	 • Clarke MacArthur	 	 returned to lineup
+9	2013-01-29	 Maple Leafs	 	 • Clarke MacArthur	 lacerated finger (DTD)
+10	2013-02-04	 Maple Leafs	 • Clarke MacArthur	 	 returned to lineup
+11	2013-03-26	 Maple Leafs	 	 • Clarke MacArthur	 upper body injury (DTD)
+12	2013-04-06	 Maple Leafs	 • Clarke MacArthur	 	 returned to lineup
+13	2013-10-27	 Senators	 	 • Clarke MacArthur	 undisclosed injury (DTD)
+14	2013-10-29	 Senators	 • Clarke MacArthur	 	 returned to lineup
+15	2014-03-07	 Senators	 	 • Clarke MacArthur	 bruised hand (DTD)
+16	2014-03-15	 Senators	 • Clarke MacArthur	 	 returned to lineup
+17	2014-12-11	 Senators	 	 • Clarke MacArthur	 flu (DTD)
+18	2014-12-13	 Senators	 • Clarke MacArthur	 	 returned to lineup
+19	2015-02-14	 Senators	 	 • Clarke MacArthur	 flu (DTD)
+20	2015-02-16	 Senators	 • Clarke MacArthur	 	 returned to lineup
+21	2015-02-17	 Senators	 	 • Clarke MacArthur	 upper body injury (DTD)
+22	2015-02-20	 Senators	 	 • Clarke MacArthur	 placed on IR with concussion
+23	2015-03-28	 Senators	 • Clarke MacArthur	 	 activated from IR
+24	2015-10-15	 Senators	 	 • Clarke MacArthur	 placed on IR with concussion (out for season)
+25	2016-10-11	 Senators	 	 • Clarke MacArthur	 placed on IR with concussion
+26	2017-04-04	 Senators	 • Clarke MacArthur	 	 activated from IR
+27	2017-10-03	 Senators	 	 • Clarke MacArthur	 placed on IR with undisclosed injury (out for season)
+28	2018-10-03	 Senators	 	 • Clarke MacArthur	 placed on IR with undisclosed injury (out for season)
+29	2019-10-01	 Senators	 	 • Clarke MacArthur	 placed on IR with concussion

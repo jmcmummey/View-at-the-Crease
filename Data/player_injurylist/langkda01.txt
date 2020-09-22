@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-11-10	 Flames	 	 • Daymond Langkow	 concussion (DTD)
+1	2007-11-13	 Flames	 • Daymond Langkow	 	 returned to lineup
+2	2009-02-19	 Flames	 	 • Daymond Langkow	 placed on IR with bruised hand
+3	2009-03-10	 Flames	 • Daymond Langkow	 	 activated from IR
+4	2009-04-22	 Flames	 	 • Daymond Langkow	 arm injury (left game)
+5	2010-03-22	 Flames	 	 • Daymond Langkow	 neck injury (out for season)
+6	2010-09-23	 Flames	 	 • Daymond Langkow	 back injury (out indefinitely)
+7	2010-09-27	 Flames	 	 • Daymond Langkow	 placed on IR with neck injury
+8	2011-03-31	 Flames	 • Daymond Langkow	 	 activated from IR
+9	2011-03-31	 Flames	 	 • Daymond Langkow	 neck injury (DTD)
+10	2011-04-01	 Flames	 • Daymond Langkow	 	 returned to lineup
+11	2012-01-19	 Coyotes	 	 • Daymond Langkow	 facial laceration (DTD)
+12	2012-01-24	 Coyotes	 • Daymond Langkow	 	 returned to lineup

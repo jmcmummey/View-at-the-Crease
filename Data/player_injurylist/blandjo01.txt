@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-03-26	 Devils	 	 • Joseph Blandisi	 illness (DTD)
+1	2017-03-28	 Devils	 • Joseph Blandisi	 	 returned to lineup
+2	2017-12-05	 Ducks	 	 • Joseph Blandisi	 upper body injury (DTD)
+3	2017-12-05	 Ducks	 	 • Joseph Blandisi	 placed on IR with upper body injury
+4	2017-12-11	 Ducks	 	 • Joseph Blandisi	 placed on IR with upper body injury
+5	2017-12-14	 Ducks	 • Joseph Blandisi	 	 activated from IR

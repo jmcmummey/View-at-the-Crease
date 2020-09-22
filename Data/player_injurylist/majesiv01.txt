@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-12-21	 Thrashers	 	 • Ivan Majesky	 placed on IR
+1	2003-12-27	 Thrashers	 • Ivan Majesky	 	 activated from IR
+2	2005-09-13	 Capitals	 	 • Ivan Majesky	 failed physical
+3	2005-10-04	 Capitals	 	 • Ivan Majesky	 placed on IR with knee injury
+4	2005-11-11	 Capitals	 • Ivan Majesky	 	 activated from IR

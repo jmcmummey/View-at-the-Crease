@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-12-02	 Senators	 	 • Fredrik Claesson	 placed on IR with lower body injury
+1	2016-12-20	 Senators	 • Fredrik Claesson	 	 activated from IR
+2	2018-10-20	 Rangers	 	 • Fredrik Claesson	 upper body injury (DTD)
+3	2018-10-20	 Rangers	 	 • Fredrik Claesson	 placed on IR with upper body injury
+4	2018-11-10	 Rangers	 • Fredrik Claesson	 	 activated from IR
+5	2019-01-12	 Rangers	 	 • Fredrik Claesson	 placed on IR with shoulder injury
+6	2019-01-13	 Rangers	 	 • Fredrik Claesson	 shoulder injury (DTD)
+7	2019-02-16	 Rangers	 • Fredrik Claesson	 	 activated from IR
+8	2020-03-01	 Devils	 	 • Fredrik Claesson	 undisclosed (DTD)
+9	2020-03-06	 Devils	 • Fredrik Claesson	 	 returned to lineup
+10	2020-03-10	 Devils	 	 • Fredrik Claesson	 lower body injury (DTD)

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1993-12-27	 Maple Leafs	 	 • Dave Andreychuk	 knee injury (DTD)
+1	1995-12-02	 Maple Leafs	 	 • Dave Andreychuk	 separated shoulder (DTD)
+2	1995-12-27	 Maple Leafs	 	 • Dave Andreychuk	 flu (DTD)
+3	1996-01-15	 Maple Leafs	 	 • Dave Andreychuk	 surgery on thumb (DTD)
+4	2002-12-05	 Lightning	 	 • Dave Andreychuk	 placed on IR

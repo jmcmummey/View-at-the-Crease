@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-03-19	 Canucks	 	 • Garth Snow	 placed on IR
+1	1999-11-20	 Canucks	 • Garth Snow	 	 activated from IR
+2	2001-02-08	 Penguins	 	 • Garth Snow	 placed on IR with groin injury
+3	2001-04-02	 Penguins	 • Garth Snow	 	 activated from IR
+4	2006-01-05	 Islanders	 	 • Garth Snow	 sprained MCL (out until early Feb)
+5	2006-02-06	 Islanders	 • Garth Snow	 	 activated from IR

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-17	 Sharks	 	 • Benn Ferriero	 facial injury (DTD)
+1	2011-01-20	 Sharks	 • Benn Ferriero	 	 returned to lineup

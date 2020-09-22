@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-12-30	 Avalanche	 	 • Brett McLean	 back injury (DTD)
+1	2007-01-05	 Avalanche	 • Brett McLean	 	 returned to lineup
+2	2007-01-06	 Avalanche	 	 • Brett McLean	 back injury (DTD)
+3	2007-01-09	 Avalanche	 • Brett McLean	 	 returned to lineup
+4	2007-11-11	 Panthers	 	 • Brett McLean	 hand injury (out 3-5 weeks)
+5	2007-12-16	 Panthers	 • Brett McLean	 	 returned to lineup

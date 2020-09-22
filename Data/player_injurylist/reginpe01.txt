@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-10	 Senators	 	 • Peter Regin	 upper body injury (DTD)
+1	2009-10-22	 Senators	 • Peter Regin	 	 returned to lineup
+2	2010-03-06	 Senators	 	 • Peter Regin	 flu (DTD)
+3	2010-03-09	 Senators	 • Peter Regin	 	 returned to lineup
+4	2011-02-23	 Senators	 	 • Peter Regin	 left shoulder injury (out for season)
+5	2011-10-05	 Senators	 	 • Peter Regin	 placed on IR with shoulder injury
+6	2011-10-11	 Senators	 • Peter Regin	 	 activated from IR
+7	2011-10-21	 Senators	 	 • Peter Regin	 shoulder injury (DTD)
+8	2011-10-25	 Senators	 	 • Peter Regin	 placed on IR with shoulder injury
+9	2011-12-10	 Senators	 • Peter Regin	 	 activated from IR
+10	2011-12-22	 Senators	 	 • Peter Regin	 placed on IR with shoulder injury (out for season)
+11	2013-02-10	 Senators	 	 • Peter Regin	 placed on IR with chest injury
+12	2013-02-25	 Senators	 • Peter Regin	 	 activated from IR

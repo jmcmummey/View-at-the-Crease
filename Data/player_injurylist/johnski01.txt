@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-03	 Flyers	 	 • Kim Johnsson	 groin injury (DTD)
+1	2005-11-05	 Flyers	 • Kim Johnsson	 	 returned to lineup
+2	2006-01-21	 Flyers	 	 • Kim Johnsson	 concussion (DTD)
+3	2006-01-28	 Flyers	 	 • Kim Johnsson	 dizzyness (left game)
+4	2006-01-28	 Flyers	 • Kim Johnsson	 	 returned to lineup
+5	2006-01-30	 Flyers	 	 • Kim Johnsson	 hand injury (DTD)
+6	2007-01-12	 Wild	 	 • Kim Johnsson	 leg injury (DTD)
+7	2007-01-20	 Wild	 • Kim Johnsson	 	 returned to lineup
+8	2007-04-03	 Wild	 	 • Kim Johnsson	 illness (DTD)
+9	2007-04-07	 Wild	 • Kim Johnsson	 	 returned to lineup
+10	2007-04-19	 Wild	 	 • Kim Johnsson	 head injury (DTD)
+11	2007-10-31	 Wild	 	 • Kim Johnsson	 leg injury (DTD)
+12	2007-11-03	 Wild	 • Kim Johnsson	 	 returned to lineup
+13	2008-02-12	 Wild	 	 • Kim Johnsson	 illness (DTD)
+14	2008-02-14	 Wild	 • Kim Johnsson	 	 returned to lineup
+15	2009-10-24	 Wild	 	 • Kim Johnsson	 placed on IR with upper body injury
+16	2009-11-10	 Wild	 • Kim Johnsson	 	 activated from IR
+17	2010-03-14	 Blackhawks	 	 • Kim Johnsson	 upper body injury (out for season)

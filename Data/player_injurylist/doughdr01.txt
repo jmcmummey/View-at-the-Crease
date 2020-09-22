@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-13	 Kings	 	 • Drew Doughty	 bruised right thigh (DTD)
+1	2009-01-17	 Kings	 • Drew Doughty	 	 returned to lineup
+2	2010-10-21	 Kings	 	 • Drew Doughty	 upper body injury (DTD)
+3	2010-10-25	 Kings	 	 • Drew Doughty	 placed on IR with upper body injury
+4	2010-11-04	 Kings	 • Drew Doughty	 	 activated from IR
+5	2011-10-16	 Kings	 	 • Drew Doughty	 placed on IR with upper body injury
+6	2011-10-29	 Kings	 • Drew Doughty	 	 activated from IR
+7	2014-04-05	 Kings	 	 • Drew Doughty	 bruised left shoulder (out for season)
+8	2020-01-29	 Kings	 	 • Drew Doughty	 lower body injury (DTD)
+9	2020-02-04	 Kings	 • Drew Doughty	 	 returned to lineup

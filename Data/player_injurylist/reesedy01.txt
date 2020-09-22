@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-02-08	 Islanders	 	 • Dylan Reese	 placed on IR with sprained MCL in left knee
+1	2012-03-01	 Islanders	 • Dylan Reese	 	 activated from IR
+2	2012-03-04	 Islanders	 	 • Dylan Reese	 flu (DTD)
+3	2012-03-10	 Islanders	 • Dylan Reese	 	 returned to lineup
+4	2015-10-06	 Coyotes	 	 • Dylan Reese	 placed on IR with Achilles injury
+5	2016-02-11	 Coyotes	 • Dylan Reese	 	 activated from IR

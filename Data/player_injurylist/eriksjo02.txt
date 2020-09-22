@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-10-13	 Wild	 	 • Joel Eriksson Ek	 undisclosed (DTD)
+1	2018-10-18	 Wild	 	 • Joel Eriksson Ek	 placed on IR with lower body injury
+2	2018-10-27	 Wild	 • Joel Eriksson Ek	 	 activated from IR
+3	2019-03-13	 Wild	 	 • Joel Eriksson Ek	 lower body injury (DTD)
+4	2019-03-29	 Wild	 • Joel Eriksson Ek	 	 returned to lineup
+5	2019-10-19	 Wild	 	 • Joel Eriksson Ek	 lower body injury (DTD)
+6	2019-10-22	 Wild	 	 • Joel Eriksson Ek	 placed on IR with lower body injury
+7	2019-10-26	 Wild	 • Joel Eriksson Ek	 	 activated from IR
+8	2019-12-14	 Wild	 	 • Joel Eriksson Ek	 placed on IR with upper body injury
+9	2019-12-15	 Wild	 	 • Joel Eriksson Ek	 upper body injury (DTD)
+10	2019-12-16	 Wild	 	 • Joel Eriksson Ek	 placed on IR with upper body injury
+11	2019-12-22	 Wild	 • Joel Eriksson Ek	 	 activated from IR

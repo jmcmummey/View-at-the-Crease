@@ -1,0 +1,50 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-03	 Red Wings	 	 • Jonathan Ericsson	 placed on IR with groin injury
+1	2006-10-12	 Red Wings	 • Jonathan Ericsson	 	 activated from IR
+2	2009-05-27	 Red Wings	 	 • Jonathan Ericsson	 appendectomy (DTD)
+3	2009-05-30	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+4	2009-10-31	 Red Wings	 	 • Jonathan Ericsson	 illness (DTD)
+5	2009-11-05	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+6	2009-12-15	 Red Wings	 	 • Jonathan Ericsson	 bone bruise in left knee (DTD)
+7	2010-01-14	 Red Wings	 • Jonathan Ericsson	 	 activated from IR
+8	2010-10-09	 Red Wings	 	 • Jonathan Ericsson	 back spasms (DTD)
+9	2010-11-03	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+10	2012-02-25	 Red Wings	 	 • Jonathan Ericsson	 fractured left wrist (out indefinitely)
+11	2012-03-28	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+12	2013-01-21	 Red Wings	 	 • Jonathan Ericsson	 hip / shoulder (CBC) injury (DTD)
+13	2013-01-27	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+14	2013-10-21	 Red Wings	 	 • Jonathan Ericsson	 placed on IR with partially dislocated left shoulder
+15	2013-11-15	 Red Wings	 • Jonathan Ericsson	 	 activated from IR
+16	2013-12-24	 Red Wings	 	 • Jonathan Ericsson	 fractured ribs (DTD)
+17	2013-12-28	 Red Wings	 	 • Jonathan Ericsson	 placed on IR with fractured rib
+18	2014-01-21	 Red Wings	 • Jonathan Ericsson	 	 activated from IR
+19	2014-03-18	 Red Wings	 	 • Jonathan Ericsson	 fractured finger (out for season)
+20	2014-03-19	 Red Wings	 	 • Jonathan Ericsson	 surgery to repair fractured finger (out for season)
+21	2015-12-19	 Red Wings	 	 • Jonathan Ericsson	 upper body injury (DTD)
+22	2015-12-31	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+23	2016-02-13	 Red Wings	 	 • Jonathan Ericsson	 lower body injury (DTD)
+24	2016-02-27	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+25	2016-12-09	 Red Wings	 	 • Jonathan Ericsson	 back injury (DTD)
+26	2016-12-15	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+27	2017-02-10	 Red Wings	 	 • Jonathan Ericsson	 placed on IR with surgery on wrist (out for season)
+28	2018-03-02	 Red Wings	 	 • Jonathan Ericsson	 illness (DTD)
+29	2018-03-04	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+30	2018-10-03	 Red Wings	 	 • Jonathan Ericsson	 placed on IR with upper body injury
+31	2018-10-20	 Red Wings	 • Jonathan Ericsson	 	 activated from IR
+32	2018-11-02	 Red Wings	 	 • Jonathan Ericsson	 undisclosed (DTD)
+33	2018-11-02	 Red Wings	 	 • Jonathan Ericsson	 placed on IR with undisclosed
+34	2018-11-09	 Red Wings	 	 • Jonathan Ericsson	 lower body injury (DTD)
+35	2018-11-26	 Red Wings	 • Jonathan Ericsson	 	 activated from IR (date approximate)
+36	2018-11-28	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+37	2019-03-13	 Red Wings	 	 • Jonathan Ericsson	 lower body injury (DTD)
+38	2019-03-27	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+39	2019-03-29	 Red Wings	 	 • Jonathan Ericsson	 lower body injury (out for season)
+40	2019-10-05	 Red Wings	 	 • Jonathan Ericsson	 undisclosed (DTD)
+41	2019-10-07	 Red Wings	 	 • Jonathan Ericsson	 placed on IR with undisclosed injury
+42	2019-10-22	 Red Wings	 • Jonathan Ericsson	 	 activated from IR
+43	2019-11-29	 Red Wings	 	 • Jonathan Ericsson	 undisclosed (DTD)
+44	2019-11-30	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+45	2019-12-13	 Red Wings	 	 • Jonathan Ericsson	 nose injury (DTD)
+46	2019-12-15	 Red Wings	 • Jonathan Ericsson	 	 returned to lineup
+47	2019-12-17	 Red Wings	 	 • Jonathan Ericsson	 placed on IR with nose injury
+48	2020-01-22	 Red Wings	 • Jonathan Ericsson	 	 activated from IR

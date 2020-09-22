@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-12	 Canucks	 	 • Brendan Morrison	 wrist injury (out indefinitely)
+1	2007-12-18	 Canucks	 	 • Brendan Morrison	 wrist injury (out 8-10 weeks)
+2	2008-03-28	 Canucks	 	 • Brendan Morrison	 torn ACL in right knee (out indefinitely)
+3	2009-02-02	 Ducks	 	 • Brendan Morrison	 undisclosed injury (DTD)
+4	2009-02-05	 Ducks	 • Brendan Morrison	 	 returned to lineup
+5	2010-03-28	 Capitals	 	 • Brendan Morrison	 leg injury (DTD)
+6	2010-04-09	 Capitals	 • Brendan Morrison	 	 returned to lineup
+7	2011-03-03	 Flames	 	 • Brendan Morrison	 left knee injury (DTD)
+8	2011-03-15	 Flames	 	 • Brendan Morrison	 placed on IR with left knee injury (out for season)
+9	2011-10-03	 Flames	 	 • Brendan Morrison	 placed on IR with knee injury
+10	2011-10-18	 Flames	 • Brendan Morrison	 	 activated from IR
+11	2011-11-10	 Flames	 	 • Brendan Morrison	 placed on IR with surgery on knee
+12	2011-11-23	 Flames	 • Brendan Morrison	 	 activated from IR
+13	2012-01-07	 Flames	 	 • Brendan Morrison	 upper body injury (DTD)
+14	2012-01-21	 Flames	 • Brendan Morrison	 	 returned to lineup

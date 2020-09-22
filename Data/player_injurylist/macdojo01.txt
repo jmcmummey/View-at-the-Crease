@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-14	 Islanders	 	 • Joey MacDonald	 placed on IR with strained groin
+1	2009-02-03	 Islanders	 • Joey MacDonald	 	 activated from IR
+2	2009-03-12	 Islanders	 	 • Joey MacDonald	 knee injury (DTD)
+3	2009-03-27	 Islanders	 • Joey MacDonald	 	 returned to lineup
+4	2012-03-19	 Red Wings	 	 • Joey MacDonald	 back injury (out for season)
+5	2013-01-18	 Red Wings	 	 • Joey MacDonald	 placed on IR with bulging disc in lower back
+6	2013-02-11	 Red Wings	 • Joey MacDonald	 	 activated from IR

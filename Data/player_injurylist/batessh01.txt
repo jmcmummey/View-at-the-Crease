@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-13	 Islanders	 	 • Shawn Bates	 hip injury (DTD)
+1	2005-10-22	 Islanders	 • Shawn Bates	 	 returned to lineup
+2	2005-11-19	 Islanders	 	 • Shawn Bates	 hamstring injury (left game)
+3	2005-11-21	 Islanders	 	 • Shawn Bates	 placed on IR with hamstring injury (out until late December)
+4	2005-12-23	 Islanders	 • Shawn Bates	 	 activated from IR
+5	2007-01-06	 Islanders	 	 • Shawn Bates	 hand injury (DTD)
+6	2007-01-11	 Islanders	 • Shawn Bates	 	 returned to lineup
+7	2007-01-31	 Islanders	 	 • Shawn Bates	 lower body injury (DTD)
+8	2007-03-04	 Islanders	 	 • Shawn Bates	 sports hernia (out remainder of regular season)
+9	2007-10-03	 Islanders	 	 • Shawn Bates	 abdominal injury (out indefinitely)
+10	2007-11-14	 Islanders	 • Shawn Bates	 	 returned to lineup
+11	2007-12-02	 Islanders	 	 • Shawn Bates	 hip injury (DTD)
+12	2007-12-23	 Islanders	 	 • Shawn Bates	 surgery on hip (out indefinitely)

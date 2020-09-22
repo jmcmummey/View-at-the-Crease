@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-11-30	 Oilers	 	 • Anton Lander	 hand injury (DTD)
+1	2011-12-07	 Oilers	 • Anton Lander	 	 returned to lineup
+2	2013-02-07	 Oilers	 	 • Anton Lander	 placed on IR with foot injury
+3	2013-03-12	 Oilers	 • Anton Lander	 	 activated from IR
+4	2015-02-19	 Oilers	 	 • Anton Lander	 placed on IR with bruised shoulder
+5	2015-03-09	 Oilers	 • Anton Lander	 	 activated from IR

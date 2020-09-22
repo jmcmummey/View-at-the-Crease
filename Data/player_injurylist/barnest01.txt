@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1994-01-01	 Panthers	 	 • Stu Barnes	 strained left calf (DTD)
+1	1995-02-15	 Panthers	 	 • Stu Barnes	 bruises and lacerations in and around left eye (DTD)
+2	1996-03-10	 Panthers	 	 • Stu Barnes	 sprained left knee (out indefinitely)
+3	2005-12-29	 Stars	 	 • Stu Barnes	 hip flexor (DTD)
+4	2006-01-04	 Stars	 • Stu Barnes	 	 returned to lineup
+5	2008-02-20	 Stars	 	 • Stu Barnes	 surgery on retina (out 1-2 weeks)
+6	2008-02-26	 Stars	 • Stu Barnes	 	 returned to lineup
+7	2008-04-30	 Stars	 	 • Stu Barnes	 head injury (DTD)

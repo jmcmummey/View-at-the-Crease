@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-21	 Avalanche	 	 • Brett Clark	 flu (DTD)
+1	2005-11-23	 Avalanche	 • Brett Clark	 	 returned to lineup
+2	2008-02-14	 Avalanche	 	 • Brett Clark	 shoulder injury (out indefinitely)
+3	2009-04-01	 Avalanche	 	 • Brett Clark	 hand injury (out for season)
+4	2010-01-04	 Avalanche	 	 • Brett Clark	 cheekbone injury (DTD)
+5	2010-01-16	 Avalanche	 • Brett Clark	 	 activated from IR

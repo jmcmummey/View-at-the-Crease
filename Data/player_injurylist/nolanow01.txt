@@ -1,0 +1,34 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1993-11-13	 Nordiques	 	 • Owen Nolan	 shoulder injury (out indefinitely)
+1	2005-07-01	 Maple Leafs	 	 • Owen Nolan	 surgery on knee (out for season) (date approximate)
+2	2007-02-26	 Coyotes	 	 • Owen Nolan	 neck injury (DTD)
+3	2007-02-27	 Coyotes	 • Owen Nolan	 	 returned to lineup
+4	2007-03-03	 Coyotes	 	 • Owen Nolan	 shoulder injury (DTD)
+5	2007-03-10	 Coyotes	 • Owen Nolan	 	 returned to lineup
+6	2007-03-22	 Coyotes	 	 • Owen Nolan	 leg injury (DTD)
+7	2007-03-24	 Coyotes	 • Owen Nolan	 	 returned to lineup
+8	2007-12-18	 Flames	 	 • Owen Nolan	 neck injury (DTD)
+9	2007-12-27	 Flames	 • Owen Nolan	 	 returned to lineup
+10	2008-01-19	 Flames	 	 • Owen Nolan	 neck injury (DTD)
+11	2008-01-22	 Flames	 • Owen Nolan	 	 returned to lineup
+12	2008-10-16	 Wild	 	 • Owen Nolan	 lower body injury (DTD)
+13	2008-10-23	 Wild	 	 • Owen Nolan	 placed on IR with lower body injury
+14	2008-10-25	 Wild	 • Owen Nolan	 	 activated from IR
+15	2008-10-30	 Wild	 	 • Owen Nolan	 lower body injury (DTD)
+16	2008-11-03	 Wild	 	 • Owen Nolan	 placed on IR with lower body injury
+17	2008-11-13	 Wild	 • Owen Nolan	 	 activated from IR
+18	2008-12-05	 Wild	 	 • Owen Nolan	 leg injury (DTD)
+19	2008-12-19	 Wild	 	 • Owen Nolan	 placed on IR
+20	2008-12-31	 Wild	 • Owen Nolan	 	 activated from IR
+21	2009-02-04	 Wild	 	 • Owen Nolan	 upper body injury (DTD)
+22	2009-02-08	 Wild	 • Owen Nolan	 	 returned to lineup
+23	2009-02-23	 Wild	 	 • Owen Nolan	 fractured toe (DTD)
+24	2009-03-03	 Wild	 • Owen Nolan	 	 returned to lineup
+25	2009-12-12	 Wild	 	 • Owen Nolan	 leg injury (DTD)
+26	2009-12-16	 Wild	 	 • Owen Nolan	 placed on IR with leg injury
+27	2009-12-21	 Wild	 • Owen Nolan	 	 activated from IL
+28	2010-01-05	 Wild	 	 • Owen Nolan	 leg injury (DTD)
+29	2010-01-06	 Wild	 • Owen Nolan	 	 returned to lineup
+30	2010-03-14	 Wild	 	 • Owen Nolan	 lower body injury (DTD)
+31	2010-03-16	 Wild	 • Owen Nolan	 	 returned to lineup
+32	2010-04-05	 Wild	 	 • Owen Nolan	 leg injury (out for season)

@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-11-18	 Oilers	 	 • Corey Potter	 placed on IR with sprained ankle
+1	2011-12-15	 Oilers	 • Corey Potter	 	 activated from IR
+2	2012-02-15	 Oilers	 	 • Corey Potter	 groin injury (DTD)
+3	2012-02-21	 Oilers	 • Corey Potter	 	 returned to lineup
+4	2012-04-02	 Oilers	 	 • Corey Potter	 concussion symptoms (out for season)
+5	2013-03-01	 Oilers	 	 • Corey Potter	 head injury (DTD)
+6	2013-03-05	 Oilers	 • Corey Potter	 	 returned to lineup
+7	2013-09-28	 Oilers	 	 • Corey Potter	 placed on IR with back injury
+8	2013-10-25	 Oilers	 • Corey Potter	 	 activated from IR
+9	2013-12-12	 Oilers	 	 • Corey Potter	 neck injury (DTD)
+10	2013-12-15	 Oilers	 • Corey Potter	 	 returned to lineup
+11	2013-12-28	 Oilers	 	 • Corey Potter	 groin injury (DTD)
+12	2014-01-02	 Oilers	 	 • Corey Potter	 placed on IR with groin injury
+13	2014-01-21	 Oilers	 • Corey Potter	 	 activated from IR
+14	2014-10-06	 Flames	 	 • Corey Potter	 placed on IR with undisclosed injury
+15	2014-10-28	 Flames	 • Corey Potter	 	 activated from IR

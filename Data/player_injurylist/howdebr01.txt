@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-11-06	 Rangers	 	 • Brett Howden	 undisclosed injury (DTD)
+1	2018-11-09	 Rangers	 • Brett Howden	 	 returned to lineup
+2	2019-01-30	 Rangers	 	 • Brett Howden	 knee injury (out indefinitely)
+3	2019-02-21	 Rangers	 	 • Brett Howden	 placed on IR with knee injury
+4	2019-03-03	 Rangers	 • Brett Howden	 	 activated from IR

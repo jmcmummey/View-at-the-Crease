@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-03-18	 Red Wings	 	 • Kevin Hodson	 placed on IR with strained left hip flexor
+1	1998-03-20	 Red Wings	 • Kevin Hodson	 	 activated from IR
+2	2002-11-19	 Lightning	 	 • Kevin Hodson	 placed on IR with strained groin

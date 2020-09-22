@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-04-10	 Blues	 	 • Brian Elliott	 upper body injury (DTD)
+1	2014-11-26	 Blues	 	 • Brian Elliott	 placed on IR with sprained knee
+2	2014-12-30	 Blues	 • Brian Elliott	 	 activated from IR
+3	2016-02-23	 Blues	 	 • Brian Elliott	 placed on IR with lower body injury
+4	2016-03-18	 Blues	 • Brian Elliott	 	 activated from IR
+5	2017-03-15	 Flames	 	 • Brian Elliott	 illness (DTD)
+6	2017-03-17	 Flames	 • Brian Elliott	 	 returned to lineup
+7	2018-01-25	 Flyers	 	 • Brian Elliott	 lower body injury (DTD)
+8	2018-01-30	 Flyers	 	 • Brian Elliott	 placed on IR with lower body injury
+9	2018-02-05	 Flyers	 • Brian Elliott	 	 activated from IR
+10	2018-02-10	 Flyers	 	 • Brian Elliott	 placed on IR with surgery on core muscle
+11	2018-02-11	 Flyers	 	 • Brian Elliott	 placed on IR with core muscle surgery
+12	2018-02-11	 Flyers	 	 • Brian Elliott	 lower body injury (DTD)
+13	2018-04-05	 Flyers	 • Brian Elliott	 	 returned to lineup
+14	2018-11-05	 Flyers	 	 • Brian Elliott	 undisclosed (DTD)
+15	2018-11-08	 Flyers	 • Brian Elliott	 	 returned to lineup
+16	2018-11-16	 Flyers	 	 • Brian Elliott	 lower body injury (DTD)
+17	2018-11-16	 Flyers	 	 • Brian Elliott	 placed on IR with lower body injury
+18	2019-02-19	 Flyers	 • Brian Elliott	 	 activated from IR

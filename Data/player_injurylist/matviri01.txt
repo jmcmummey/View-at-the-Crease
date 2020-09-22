@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-01-19	 Stars	 	 • Richard Matvichuk	 placed on IR with torn ACL in knee
+1	1998-02-24	 Stars	 • Richard Matvichuk	 	 activated from IR
+2	1999-03-22	 Stars	 	 • Richard Matvichuk	 placed on IR with sprained knee
+3	1999-10-22	 Stars	 	 • Richard Matvichuk	 placed on IR with knee injury
+4	1999-10-30	 Stars	 • Richard Matvichuk	 	 activated from IR
+5	1999-11-16	 Stars	 	 • Richard Matvichuk	 placed on IR
+6	1999-11-22	 Stars	 • Richard Matvichuk	 	 activated from IR
+7	2001-01-25	 Stars	 	 • Richard Matvichuk	 placed on IR
+8	2001-02-09	 Stars	 • Richard Matvichuk	 	 activated from IR
+9	2003-01-13	 Stars	 	 • Richard Matvichuk	 placed on IR with fractured fibula in leg
+10	2003-02-21	 Stars	 • Richard Matvichuk	 	 activated from IR
+11	2006-03-02	 Devils	 	 • Richard Matvichuk	 back injury (DTD)
+12	2006-04-01	 Devils	 • Richard Matvichuk	 	 returned to lineup
+13	2006-04-11	 Devils	 	 • Richard Matvichuk	 groin injury (DTD)
+14	2006-04-18	 Devils	 • Richard Matvichuk	 	 returned to lineup
+15	2006-10-03	 Devils	 	 • Richard Matvichuk	 placed on IR with back injury
+16	2007-04-08	 Devils	 • Richard Matvichuk	 	 activated from IR

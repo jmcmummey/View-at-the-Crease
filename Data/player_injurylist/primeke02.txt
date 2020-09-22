@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-25	 Flyers	 	 • Keith Primeau	 head injury (DTD)
+1	2005-10-30	 Flyers	 	 • Keith Primeau	 headache (DTD)
+2	2005-11-01	 Flyers	 	 • Keith Primeau	 concussion (out indefinitely)
+3	2006-02-28	 Flyers	 	 • Keith Primeau	 concussion (out for remainder of the season)
+4	2006-04-25	 Flyers	 	 • Keith Primeau	 concussion (DTD)

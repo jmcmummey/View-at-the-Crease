@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-14	 Senators	 	 • Ryan Shannon	 concussion (DTD)
+1	2008-12-03	 Senators	 • Ryan Shannon	 	 returned to lineup
+2	2009-10-06	 Senators	 	 • Ryan Shannon	 head injury (DTD)
+3	2009-10-12	 Senators	 • Ryan Shannon	 	 returned to lineup
+4	2011-12-22	 Lightning	 	 • Ryan Shannon	 lower body injury (out indefinitely)
+5	2011-12-29	 Lightning	 	 • Ryan Shannon	 placed on IR with lower body injury
+6	2012-01-31	 Lightning	 • Ryan Shannon	 	 activated from IR
+7	2012-02-25	 Lightning	 	 • Ryan Shannon	 upper body injury (DTD)
+8	2012-03-02	 Lightning	 • Ryan Shannon	 	 returned to lineup
+9	2012-03-17	 Lightning	 	 • Ryan Shannon	 upper body injury (out for season)

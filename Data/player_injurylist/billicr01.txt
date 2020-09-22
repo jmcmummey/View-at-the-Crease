@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1992-02-15	 Devils	 	 • Craig Billington	 hamstring injury (DTD)
+1	1992-03-11	 Devils	 	 • Craig Billington	 strained knee (DTD)
+2	1992-04-13	 Devils	 	 • Craig Billington	 arthroscopic surgery on knee
+3	1993-03-27	 Devils	 	 • Craig Billington	 sore throat (DTD)
+4	1995-01-27	 Senators	 	 • Craig Billington	 knee injury (out indefinitely)

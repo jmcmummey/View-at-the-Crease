@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-11-08	 Oilers	 	 • Marty Reasoner	 ankle injury (DTD)
+1	2003-11-12	 Oilers	 	 • Marty Reasoner	 placed on IR with ankle injury
+2	2004-01-08	 Oilers	 • Marty Reasoner	 	 activated from IR
+3	2004-01-13	 Oilers	 	 • Marty Reasoner	 knee injury (DTD)
+4	2005-10-04	 Oilers	 	 • Marty Reasoner	 right foot injury (DTD)
+5	2005-11-04	 Oilers	 	 • Marty Reasoner	 bruised hand (DTD)
+6	2005-11-11	 Oilers	 • Marty Reasoner	 	 returned to lineup
+7	2006-11-26	 Oilers	 	 • Marty Reasoner	 head injury (DTD)
+8	2007-01-09	 Oilers	 	 • Marty Reasoner	 flu (DTD)
+9	2007-03-03	 Oilers	 	 • Marty Reasoner	 shoulder injury (DTD)
+10	2007-03-23	 Oilers	 • Marty Reasoner	 	 returned to lineup
+11	2009-02-08	 Thrashers	 	 • Marty Reasoner	 illness (DTD)
+12	2009-02-15	 Thrashers	 • Marty Reasoner	 	 returned to lineup
+13	2010-10-06	 Panthers	 	 • Marty Reasoner	 placed on IR with knee injury
+14	2012-01-07	 Islanders	 	 • Marty Reasoner	 broken right hand/thumb (out indefinitely)
+15	2012-01-30	 Islanders	 	 • Marty Reasoner	 placed on IR with broken right hand/thumb
+16	2012-02-14	 Islanders	 • Marty Reasoner	 	 activated from IR

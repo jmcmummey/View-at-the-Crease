@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-10-21	 Predators	 	 • Scott Walker	 placed on IR
+1	2003-01-23	 Predators	 • Scott Walker	 	 activated from IR
+2	2005-10-25	 Predators	 	 • Scott Walker	 sports hernia (out indefinitely)
+3	2005-11-10	 Predators	 	 • Scott Walker	 surgery to repair sports hernia
+4	2006-01-08	 Predators	 • Scott Walker	 	 returned to lineup
+5	2006-02-06	 Predators	 	 • Scott Walker	 wrist injury (out indefinitely)
+6	2006-02-09	 Predators	 	 • Scott Walker	 placed on IR with wrist injury
+7	2006-03-28	 Predators	 • Scott Walker	 	 activated from IR
+8	2007-10-20	 Hurricanes	 	 • Scott Walker	 torso injury (DTD)
+9	2007-10-21	 Hurricanes	 	 • Scott Walker	 placed on IR with torso injury
+10	2007-11-27	 Hurricanes	 • Scott Walker	 	 activated from IR
+11	2008-01-03	 Hurricanes	 	 • Scott Walker	 placed on IR with knee injury
+12	2008-01-17	 Hurricanes	 • Scott Walker	 	 activated from IR
+13	2008-10-06	 Hurricanes	 	 • Scott Walker	 placed on IR with torn ligament in left hand
+14	2008-10-06	 Hurricanes	 	 • Scott Walker	 surgery on left hand to repair torn ligament
+15	2008-11-04	 Hurricanes	 • Scott Walker	 	 activated from IR
+16	2008-11-26	 Hurricanes	 	 • Scott Walker	 leg injury (DTD)
+17	2008-12-07	 Hurricanes	 • Scott Walker	 	 returned to lineup
+18	2009-01-20	 Hurricanes	 	 • Scott Walker	 upper body injury (DTD)
+19	2009-01-29	 Hurricanes	 	 • Scott Walker	 head injury (DTD)
+20	2009-02-04	 Hurricanes	 	 • Scott Walker	 placed on IR with head injury
+21	2009-03-03	 Hurricanes	 • Scott Walker	 	 activated from IR
+22	2009-03-09	 Hurricanes	 	 • Scott Walker	 post-concussion (out indefinitely)
+23	2009-04-02	 Hurricanes	 • Scott Walker	 	 returned to lineup
+24	2009-11-17	 Hurricanes	 	 • Scott Walker	 upper body injury (DTD)
+25	2009-12-05	 Hurricanes	 • Scott Walker	 	 returned to lineup
+26	2010-01-01	 Hurricanes	 	 • Scott Walker	 placed on IR with upper body injury
+27	2010-03-02	 Hurricanes	 • Scott Walker	 	 activated from IR
+28	2010-03-24	 Capitals	 	 • Scott Walker	 knee injury (DTD)
+29	2010-04-05	 Capitals	 • Scott Walker	 	 returned to lineup

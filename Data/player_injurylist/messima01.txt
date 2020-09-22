@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-10-17	 Oilers	 	 • Mark Messier	 strained knee (out ~4 weeks)
+1	1998-12-22	 Canucks	 	 • Mark Messier	 concussion (out indefinitely)
+2	1999-12-16	 Canucks	 • Mark Messier	 	 activated from IR
+3	2001-12-08	 Rangers	 	 • Mark Messier	 back injury (out indefinitely)

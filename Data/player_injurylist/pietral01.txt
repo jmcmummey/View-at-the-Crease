@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-16	 Blues	 	 • Alex Pietrangelo	 placed on IR with head injury
+1	2008-11-01	 Blues	 • Alex Pietrangelo	 	 activated from IR
+2	2010-12-14	 Blues	 	 • Alex Pietrangelo	 upper body injury (DTD)
+3	2010-12-20	 Blues	 • Alex Pietrangelo	 	 returned to lineup
+4	2011-11-29	 Blues	 	 • Alex Pietrangelo	 illness (DTD)
+5	2011-12-02	 Blues	 • Alex Pietrangelo	 	 returned to lineup
+6	2012-04-29	 Blues	 	 • Alex Pietrangelo	 lower body injury (DTD)
+7	2012-05-03	 Blues	 • Alex Pietrangelo	 	 returned to lineup
+8	2013-03-16	 Blues	 	 • Alex Pietrangelo	 flu (DTD)
+9	2013-03-19	 Blues	 • Alex Pietrangelo	 	 returned to lineup
+10	2014-04-12	 Blues	 	 • Alex Pietrangelo	 undisclosed injury (out for season)
+11	2016-02-08	 Blues	 	 • Alex Pietrangelo	 placed on IR with right knee injury
+12	2016-02-27	 Blues	 • Alex Pietrangelo	 	 activated from IR
+13	2016-12-20	 Blues	 	 • Alex Pietrangelo	 illness (DTD)
+14	2016-12-21	 Blues	 • Alex Pietrangelo	 	 returned to lineup
+15	2017-12-10	 Blues	 	 • Alex Pietrangelo	 foot injury (DTD)
+16	2017-12-10	 Blues	 	 • Alex Pietrangelo	 placed on IR with foot injury
+17	2017-12-17	 Blues	 • Alex Pietrangelo	 	 activated from IR
+18	2018-11-30	 Blues	 	 • Alex Pietrangelo	 placed on IR with hand injury
+19	2018-12-01	 Blues	 	 • Alex Pietrangelo	 hand injury (DTD)
+20	2018-12-29	 Blues	 • Alex Pietrangelo	 	 returned to lineup
+21	2020-02-21	 Blues	 	 • Alex Pietrangelo	 illness (DTD)
+22	2020-02-23	 Blues	 • Alex Pietrangelo	 	 returned to lineup

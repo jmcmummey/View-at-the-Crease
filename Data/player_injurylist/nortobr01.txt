@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-10-07	 Kings	 	 • Brad Norton	 placed on IR with lacerated forearm
+1	2006-10-19	 Red Wings	 	 • Brad Norton	 placed on IR with shoulder injury
+2	2006-11-04	 Red Wings	 • Brad Norton	 	 activated from IR
+3	2007-10-02	 Sharks	 	 • Brad Norton	 back injury (DTD)
+4	2008-10-10	 Oilers	 	 • Brad Norton	 placed on IR with strained abdominal muscle

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-27	 Flames	 	 • Dustin Boyd	 shoulder injury (DTD)
+1	2008-12-09	 Flames	 • Dustin Boyd	 	 returned to lineup
+2	2009-10-28	 Flames	 	 • Dustin Boyd	 flu (DTD)
+3	2009-10-31	 Flames	 • Dustin Boyd	 	 returned to lineup

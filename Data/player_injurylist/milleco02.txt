@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-14	 Bruins	 	 • Colin Miller (b. 1992-10-29)	 lower body injury (DTD)
+1	2015-11-17	 Bruins	 • Colin Miller (b. 1992-10-29)	 	 returned to lineup
+2	2017-01-11	 Bruins	 	 • Colin Miller (b. 1992-10-29)	 lower body injury (DTD)
+3	2017-01-20	 Bruins	 	 • Colin Miller (b. 1992-10-29)	 placed on IR with lower body injury
+4	2017-01-24	 Bruins	 • Colin Miller (b. 1992-10-29)	 	 activated from IR
+5	2017-04-13	 Bruins	 	 • Colin Miller (b. 1992-10-29)	 lower body injury (DTD)
+6	2017-04-19	 Bruins	 • Colin Miller (b. 1992-10-29)	 	 returned to lineup
+7	2018-12-19	 Golden Knights	 	 • Colin Miller (b. 1992-10-29)	 undisclosed (DTD)
+8	2018-12-29	 Golden Knights	 	 • Colin Miller (b. 1992-10-29)	 placed on IR with upper body injury
+9	2019-01-19	 Golden Knights	 • Colin Miller (b. 1992-10-29)	 	 activated from IR

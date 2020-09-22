@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-09-21	 Ducks	 	 • Samuel Pahlsson / Sami Pahlsson	 placed on IR with sports hernia
+1	2007-10-10	 Ducks	 • Samuel Pahlsson / Sami Pahlsson	 	 activated from IR
+2	2007-12-27	 Ducks	 	 • Samuel Pahlsson / Sami Pahlsson	 abdominal strain (DTD)
+3	2008-02-10	 Ducks	 • Samuel Pahlsson / Sami Pahlsson	 	 returned to lineup
+4	2009-02-03	 Ducks	 	 • Samuel Pahlsson / Sami Pahlsson	 placed on IR with viral infection
+5	2009-03-18	 Blackhawks	 • Samuel Pahlsson / Sami Pahlsson	 	 activated from IR
+6	2009-11-12	 Blue Jackets	 	 • Samuel Pahlsson / Sami Pahlsson	 elbow injury (DTD)
+7	2009-11-21	 Blue Jackets	 • Samuel Pahlsson / Sami Pahlsson	 	 returned to lineup
+8	2011-12-13	 Blue Jackets	 	 • Samuel Pahlsson / Sami Pahlsson	 illness (DTD)
+9	2011-12-15	 Blue Jackets	 • Samuel Pahlsson / Sami Pahlsson	 	 returned to lineup

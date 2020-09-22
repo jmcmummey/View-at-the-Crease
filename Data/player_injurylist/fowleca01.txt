@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-18	 Ducks	 	 • Cam Fowler	 broken nose / stiff neck (DTD)
+1	2010-11-03	 Ducks	 • Cam Fowler	 	 returned to lineup
+2	2013-01-19	 Ducks	 	 • Cam Fowler	 flu (DTD)
+3	2013-01-21	 Ducks	 • Cam Fowler	 	 returned to lineup
+4	2013-02-03	 Ducks	 	 • Cam Fowler	 placed on IR with upper body injury
+5	2013-02-24	 Ducks	 • Cam Fowler	 	 activated from IR
+6	2013-04-11	 Ducks	 	 • Cam Fowler	 lower body injury (DTD)
+7	2013-04-13	 Ducks	 	 • Cam Fowler	 upper body injury (DTD)
+8	2013-04-19	 Ducks	 • Cam Fowler	 	 returned to lineup
+9	2014-03-15	 Ducks	 	 • Cam Fowler	 sprained MCL in knee (DTD)
+10	2014-04-09	 Ducks	 • Cam Fowler	 	 returned to lineup
+11	2014-11-09	 Ducks	 	 • Cam Fowler	 lower body injury (DTD)
+12	2014-11-12	 Ducks	 • Cam Fowler	 	 returned to lineup
+13	2015-12-28	 Ducks	 	 • Cam Fowler	 placed on IR with sprained knee
+14	2016-02-02	 Ducks	 • Cam Fowler	 	 activated from IR
+15	2017-04-05	 Ducks	 	 • Cam Fowler	 knee injury (out for season)
+16	2017-04-26	 Ducks	 • Cam Fowler	 	 returned to lineup
+17	2017-10-21	 Ducks	 	 • Cam Fowler	 placed on IR with lower body injury
+18	2017-11-20	 Ducks	 • Cam Fowler	 	 activated from IR
+19	2018-04-03	 Ducks	 	 • Cam Fowler	 shoulder injury (out for season)
+20	2018-11-12	 Ducks	 	 • Cam Fowler	 placed on IR with facial fracture
+21	2019-01-06	 Ducks	 • Cam Fowler	 	 activated from IR
+22	2020-02-19	 Ducks	 	 • Cam Fowler	 lower body injury (DTD)

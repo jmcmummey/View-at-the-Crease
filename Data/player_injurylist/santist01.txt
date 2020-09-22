@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-11-05	 Devils	 	 • Steven Santini / Steve Santini	 upper body injury (DTD)
+1	2017-11-07	 Devils	 • Steven Santini / Steve Santini	 	 returned to lineup
+2	2018-10-20	 Devils	 	 • Steven Santini / Steve Santini	 placed on IR with fractured jaw
+3	2018-10-21	 Devils	 	 • Steven Santini / Steve Santini	 fractured jaw (out indefinitely)
+4	2018-10-22	 Devils	 	 • Steven Santini / Steve Santini	 placed on IR with fractured jaw
+5	2018-12-01	 Devils	 • Steven Santini / Steve Santini	 	 activated from IR

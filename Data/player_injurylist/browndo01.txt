@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-02-13	 Devils	 	 • Doug Brown	 bruised right foot
+1	1994-03-26	 Penguins	 	 • Doug Brown	 leg injury (DTD)
+2	1995-12-02	 Red Wings	 	 • Doug Brown	 flu (DTD)

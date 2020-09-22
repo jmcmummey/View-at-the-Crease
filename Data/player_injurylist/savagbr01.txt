@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-11-20	 Canadiens	 	 • Brian Savage	 neck injury (out indefinitely)
+1	2005-11-22	 Flyers	 	 • Brian Savage	 left knee injury (out ~1 month)
+2	2005-12-17	 Flyers	 • Brian Savage	 	 returned to lineup

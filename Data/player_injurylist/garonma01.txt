@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-19	 Kings	 	 • Mathieu Garon	 shoulder injury (DTD)
+1	2006-01-21	 Kings	 • Mathieu Garon	 	 returned to lineup
+2	2006-11-30	 Kings	 	 • Mathieu Garon	 placed on IR with groin injury
+3	2006-12-28	 Kings	 • Mathieu Garon	 	 activated from IR
+4	2007-01-12	 Kings	 	 • Mathieu Garon	 placed on IR with finger injury (out indefinitely)
+5	2007-02-03	 Kings	 • Mathieu Garon	 	 activated from IR
+6	2008-03-26	 Oilers	 	 • Mathieu Garon	 ankle injury (DTD)
+7	2008-11-29	 Oilers	 	 • Mathieu Garon	 flu (DTD)
+8	2008-12-03	 Oilers	 • Mathieu Garon	 	 returned to lineup
+9	2012-03-07	 Lightning	 	 • Mathieu Garon	 torn groin muscle (out for season)
+10	2013-03-05	 Lightning	 	 • Mathieu Garon	 lower body injury (DTD)
+11	2013-03-05	 Lightning	 	 • Mathieu Garon	 placed on IR with lower body injury
+12	2013-03-12	 Lightning	 • Mathieu Garon	 	 activated from IR

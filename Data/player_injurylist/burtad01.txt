@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-02-16	 Whalers	 	 • Adam Burt	 torn MCL in right knee (out for season)
+1	1992-01-11	 Whalers	 	 • Adam Burt	 sprained left wrist (DTD)
+2	1993-01-25	 Whalers	 	 • Adam Burt	 broken right foot (out indefinitely)
+3	1994-02-27	 Whalers	 	 • Adam Burt	 sprained shoulder (out for season)
+4	2000-10-03	 Thrashers	 	 • Adam Burt	 placed on IR
+5	2000-10-24	 Thrashers	 • Adam Burt	 	 activated from IR
+6	2000-12-31	 Thrashers	 	 • Adam Burt	 placed on IR with herniated disc in back

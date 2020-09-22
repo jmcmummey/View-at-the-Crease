@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2004-02-13	 Capitals	 • Brian Willsie	 	 activated from IR
+1	2008-12-05	 Avalanche	 	 • Brian Willsie	 knee injury (DTD)
+2	2009-01-04	 Avalanche	 • Brian Willsie	 	 returned to lineup

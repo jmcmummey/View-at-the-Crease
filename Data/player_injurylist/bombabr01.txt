@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-10-28	 Devils	 	 • Brad Bombardir	 placed on IR
+1	1999-10-30	 Devils	 	 • Brad Bombardir	 esophagus injuruy (out indefinitely)
+2	2001-10-16	 Wild	 	 • Brad Bombardir	 ankle injury (out indefinitely)
+3	2004-01-18	 Wild	 	 • Brad Bombardir	 placed on IR with strained left hip
+4	2004-02-02	 Wild	 • Brad Bombardir	 	 activated from IR

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-13	 Avalanche	 	 • Ben Guite	 rib injury (DTD)
+1	2008-11-22	 Avalanche	 	 • Ben Guite	 placed on IR with rib injury
+2	2008-12-18	 Avalanche	 • Ben Guite	 	 activated from IR
+3	2009-01-04	 Avalanche	 	 • Ben Guite	 undisclosed injury (DTD)
+4	2009-01-07	 Avalanche	 • Ben Guite	 	 returned to lineup

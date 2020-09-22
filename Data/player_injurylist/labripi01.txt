@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-25	 Lightning	 	 • Pierre-Cedric Labrie	 placed on IR with upper body injury
+1	2013-04-09	 Lightning	 • Pierre-Cedric Labrie	 	 activated from IR
+2	2013-04-13	 Lightning	 	 • Pierre-Cedric Labrie	 upper body injury (DTD)
+3	2013-04-16	 Lightning	 • Pierre-Cedric Labrie	 	 returned to lineup
+4	2013-11-26	 Lightning	 	 • Pierre-Cedric Labrie	 placed on IR with upper body injury
+5	2013-12-14	 Lightning	 • Pierre-Cedric Labrie	 	 activated from IR

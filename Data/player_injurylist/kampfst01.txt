@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-03-05	 Bruins	 	 • Steven Kampfer	 concussion (DTD)
+1	2011-03-15	 Bruins	 • Steven Kampfer	 	 returned to lineup
+2	2011-05-14	 Bruins	 	 • Steven Kampfer	 knee injury (DTD)
+3	2011-05-21	 Bruins	 • Steven Kampfer	 	 returned to lineup
+4	2011-10-05	 Bruins	 	 • Steven Kampfer	 placed on IR with sprained MCL in knee
+5	2011-10-20	 Bruins	 • Steven Kampfer	 	 activated from IR
+6	2012-03-31	 Wild	 	 • Steven Kampfer	 knee injury (out for season)
+7	2015-12-11	 Panthers	 	 • Steven Kampfer	 placed on IR with lower body injury
+8	2015-12-14	 Panthers	 	 • Steven Kampfer	 placed on IR with lower body injury (CBC)
+9	2016-01-11	 Panthers	 • Steven Kampfer	 	 activated from IR
+10	2016-04-09	 Panthers	 	 • Steven Kampfer	 ankle injury (DTD)
+11	2016-04-20	 Panthers	 • Steven Kampfer	 	 returned to lineup
+12	2018-02-13	 Rangers	 	 • Steven Kampfer	 placed on IR with fractured hand (out for season)

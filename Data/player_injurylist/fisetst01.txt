@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1998-10-19	 Kings	 	 • Stephane Fiset	 strained right groin (DTD)
+1	1998-11-18	 Kings	 • Stephane Fiset	 	 returned to lineup
+2	1998-12-19	 Kings	 	 • Stephane Fiset	 placed on IR with right groin injury
+3	1999-01-01	 Kings	 • Stephane Fiset	 	 activated from IR
+4	1999-12-14	 Kings	 • Stephane Fiset	 	 activated from IR
+5	2000-03-06	 Kings	 	 • Stephane Fiset	 placed on IR
+6	2000-03-20	 Kings	 • Stephane Fiset	 	 activated from IR
+7	2000-09-22	 Kings	 	 • Stephane Fiset	 knee injury (out indefinitely)
+8	2000-10-03	 Kings	 	 • Stephane Fiset	 placed on IR
+9	2000-11-29	 Kings	 • Stephane Fiset	 	 activated from IR
+10	2000-12-26	 Kings	 	 • Stephane Fiset	 placed on IR with sprained MCL in left knee
+11	2001-03-07	 Kings	 • Stephane Fiset	 	 activated from IR

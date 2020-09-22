@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-30	 Avalanche	 	 • T.J. Galiardi	 ankle injury (DTD)
+1	2009-11-20	 Avalanche	 • T.J. Galiardi	 	 activated from IR
+2	2010-04-09	 Avalanche	 	 • T.J. Galiardi	 torso injury (DTD)
+3	2010-04-11	 Avalanche	 • T.J. Galiardi	 	 returned to lineup
+4	2010-11-10	 Avalanche	 	 • T.J. Galiardi	 placed on IR with broken right wrist
+5	2010-12-17	 Avalanche	 • T.J. Galiardi	 	 activated from IR
+6	2011-02-10	 Avalanche	 	 • T.J. Galiardi	 placed on IR with wrist injury (out for season)
+7	2012-02-16	 Avalanche	 	 • T.J. Galiardi	 placed on IR with shoulder injury
+8	2012-02-24	 Avalanche	 • T.J. Galiardi	 	 activated from IR
+9	2012-03-17	 Sharks	 	 • T.J. Galiardi	 undisclosed (DTD)
+10	2012-03-28	 Sharks	 • T.J. Galiardi	 	 returned to lineup
+11	2013-11-27	 Flames	 	 • T.J. Galiardi	 placed on IR with back spasms
+12	2013-12-12	 Flames	 • T.J. Galiardi	 	 activated from IR
+13	2014-03-05	 Flames	 	 • T.J. Galiardi	 upper body injury (DTD)
+14	2014-03-07	 Flames	 • T.J. Galiardi	 	 returned to lineup

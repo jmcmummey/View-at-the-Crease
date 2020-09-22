@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-26	 Red Wings	 	 • Brett Lebda	 concussion (DTD)
+1	2007-04-01	 Red Wings	 • Brett Lebda	 	 returned to lineup
+2	2007-04-22	 Red Wings	 	 • Brett Lebda	 knee injury (DTD)
+3	2007-05-07	 Red Wings	 • Brett Lebda	 	 returned to lineup
+4	2008-01-30	 Red Wings	 	 • Brett Lebda	 wrist injury (DTD)
+5	2008-02-01	 Red Wings	 • Brett Lebda	 	 returned to lineup
+6	2008-03-09	 Red Wings	 	 • Brett Lebda	 flu (DTD)
+7	2008-03-13	 Red Wings	 • Brett Lebda	 	 returned to lineup
+8	2009-02-13	 Red Wings	 	 • Brett Lebda	 back injury (DTD)
+9	2009-03-03	 Red Wings	 • Brett Lebda	 	 returned to lineup
+10	2010-09-26	 Maple Leafs	 	 • Brett Lebda	 shoulder injury (DTD)
+11	2010-10-06	 Maple Leafs	 	 • Brett Lebda	 placed on IR with shoulder injury
+12	2010-10-18	 Maple Leafs	 • Brett Lebda	 	 activated from IR
+13	2010-12-30	 Maple Leafs	 	 • Brett Lebda	 illness (DTD)
+14	2011-01-06	 Maple Leafs	 • Brett Lebda	 	 returned to lineup
+15	2012-02-04	 Blue Jackets	 	 • Brett Lebda	 thumb/hand injury (DTD)
+16	2012-02-10	 Blue Jackets	 	 • Brett Lebda	 placed on IR with thumb/hand injury
+17	2012-02-17	 Blue Jackets	 • Brett Lebda	 	 activated from IR

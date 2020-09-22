@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-21	 Flyers	 	 • Taylor Leier	 placed on IR with upper body injury
+1	2017-10-26	 Flyers	 • Taylor Leier	 	 activated from IR
+2	2017-12-20	 Flyers	 	 • Taylor Leier	 upper body injury (DTD)
+3	2017-12-23	 Flyers	 • Taylor Leier	 	 returned to lineup

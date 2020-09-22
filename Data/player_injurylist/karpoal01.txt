@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-11-05	 Blackhawks	 	 • Alexander Karpovtsev	 ankle injury (out indefinitely)
+1	2003-02-20	 Blackhawks	 	 • Alexander Karpovtsev	 cheekbone injury (out indefinitely)
+2	2003-11-26	 Blackhawks	 	 • Alexander Karpovtsev	 ankle injury (out indefinitely)
+3	2005-10-18	 Panthers	 	 • Alexander Karpovtsev	 wrist injury (DTD)
+4	2005-11-11	 Panthers	 • Alexander Karpovtsev	 	 returned to lineup

@@ -1,0 +1,42 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-01-09	 Canucks	 	 • Aaron Rome	 head/facial injury (DTD)
+1	2010-01-20	 Canucks	 • Aaron Rome	 	 returned to lineup
+2	2010-04-08	 Canucks	 	 • Aaron Rome	 undisclosed (DTD)
+3	2010-04-19	 Canucks	 • Aaron Rome	 	 returned to lineup
+4	2010-04-21	 Canucks	 	 • Aaron Rome	 undisclosed (DTD)
+5	2011-01-14	 Canucks	 	 • Aaron Rome	 sprained MCL in knee (out indefinitely)
+6	2011-01-15	 Canucks	 	 • Aaron Rome	 placed on IR with sprained MCL in knee
+7	2011-02-04	 Canucks	 • Aaron Rome	 	 activated from IR
+8	2011-05-22	 Canucks	 	 • Aaron Rome	 head injury (DTD)
+9	2011-06-01	 Canucks	 • Aaron Rome	 	 returned to lineup
+10	2011-10-05	 Canucks	 	 • Aaron Rome	 placed on IR with broken hand
+11	2011-11-06	 Canucks	 • Aaron Rome	 	 activated from IR
+12	2011-11-25	 Canucks	 	 • Aaron Rome	 placed on IR with thumb inijury
+13	2011-12-01	 Canucks	 • Aaron Rome	 	 activated from IR
+14	2011-12-19	 Canucks	 	 • Aaron Rome	 broken thumb (DTD)
+15	2011-12-21	 Canucks	 	 • Aaron Rome	 placed on IR with broken thumb
+16	2012-01-12	 Canucks	 • Aaron Rome	 	 activated from IR
+17	2012-03-21	 Canucks	 	 • Aaron Rome	 illness (DTD)
+18	2012-03-24	 Canucks	 • Aaron Rome	 	 returned to lineup
+19	2012-03-26	 Canucks	 	 • Aaron Rome	 sprained knee (out indefinitely)
+20	2012-04-05	 Canucks	 • Aaron Rome	 	 returned to lineup
+21	2013-01-19	 Stars	 	 • Aaron Rome	 groin injury (DTD)
+22	2013-01-26	 Stars	 • Aaron Rome	 	 returned to lineup
+23	2013-01-28	 Stars	 	 • Aaron Rome	 flu (DTD)
+24	2013-02-02	 Stars	 • Aaron Rome	 	 returned to lineup
+25	2013-02-24	 Stars	 	 • Aaron Rome	 placed on IR with foot injury (out for season)
+26	2013-03-25	 Stars	 • Aaron Rome	 	 activated from IR
+27	2013-09-30	 Stars	 	 • Aaron Rome	 placed on IR with hip injury (CBC CBS) / designated as injured non-roster player (E)
+28	2013-10-14	 Stars	 • Aaron Rome	 	 activated from IR
+29	2013-10-25	 Stars	 • Aaron Rome	 	 activated from IR
+30	2013-12-02	 Stars	 	 • Aaron Rome	 placed on IR with lower body injury
+31	2013-12-07	 Stars	 • Aaron Rome	 	 activated from IR
+32	2013-12-17	 Stars	 	 • Aaron Rome	 lower body injury (DTD)
+33	2013-12-20	 Stars	 	 • Aaron Rome	 placed on IR with lower body injury
+34	2013-12-27	 Stars	 • Aaron Rome	 	 activated from IR
+35	2014-01-05	 Stars	 	 • Aaron Rome	 upper body injury (DTD)
+36	2014-01-10	 Stars	 • Aaron Rome	 	 returned to lineup
+37	2014-01-12	 Stars	 	 • Aaron Rome	 lower body injury (DTD)
+38	2014-01-18	 Stars	 • Aaron Rome	 	 returned to lineup
+39	2014-04-01	 Stars	 	 • Aaron Rome	 undisclosed (DTD)
+40	2014-04-13	 Stars	 • Aaron Rome	 	 returned to lineup

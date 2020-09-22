@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-30	 Senators	 	 • Robin Lehner	 placed on IR for personal reasons
+1	2014-11-01	 Senators	 • Robin Lehner	 	 activated from IR
+2	2014-12-04	 Senators	 	 • Robin Lehner	 placed on IR with undisclosed injury
+3	2014-12-10	 Senators	 • Robin Lehner	 	 activated from IR
+4	2015-02-17	 Senators	 	 • Robin Lehner	 concussion (out for season)
+5	2015-02-19	 Senators	 	 • Robin Lehner	 placed on IR with concussion (out for season)
+6	2015-10-09	 Sabres	 	 • Robin Lehner	 placed on IR with lower body injury
+7	2016-01-08	 Sabres	 • Robin Lehner	 	 activated from IR
+8	2016-03-18	 Sabres	 	 • Robin Lehner	 ankle injury (out for season)
+9	2016-10-25	 Sabres	 	 • Robin Lehner	 illness (DTD)
+10	2016-10-28	 Sabres	 • Robin Lehner	 	 returned to lineup
+11	2016-11-30	 Sabres	 	 • Robin Lehner	 hip injury (DTD)
+12	2016-12-02	 Sabres	 • Robin Lehner	 	 returned to lineup
+13	2017-01-10	 Sabres	 	 • Robin Lehner	 flu (DTD)
+14	2017-01-16	 Sabres	 • Robin Lehner	 	 returned to lineup
+15	2017-02-26	 Sabres	 	 • Robin Lehner	 upper body injury (DTD)
+16	2017-02-28	 Sabres	 • Robin Lehner	 	 returned to lineup
+17	2018-02-19	 Sabres	 	 • Robin Lehner	 lower body injury (DTD)
+18	2018-02-21	 Sabres	 • Robin Lehner	 	 returned to lineup
+19	2018-03-17	 Sabres	 	 • Robin Lehner	 undisclosed (DTD)
+20	2018-03-23	 Sabres	 • Robin Lehner	 	 returned to lineup
+21	2018-03-30	 Sabres	 	 • Robin Lehner	 lower body injury (out for season)
+22	2018-10-31	 Islanders	 	 • Robin Lehner	 back spasms (DTD)
+23	2018-11-03	 Islanders	 • Robin Lehner	 	 returned to lineup
+24	2018-12-04	 Islanders	 	 • Robin Lehner	 undisclosed (DTD)
+25	2018-12-08	 Islanders	 • Robin Lehner	 	 returned to lineup
+26	2019-03-07	 Islanders	 	 • Robin Lehner	 upper body injury (DTD)
+27	2019-03-14	 Islanders	 • Robin Lehner	 	 returned to lineup
+28	2019-12-02	 Blackhawks	 	 • Robin Lehner	 flu (DTD)
+29	2019-12-05	 Blackhawks	 • Robin Lehner	 	 returned to lineup
+30	2020-01-05	 Blackhawks	 	 • Robin Lehner	 right knee injury (DTD)
+31	2020-01-08	 Blackhawks	 • Robin Lehner	 	 returned to lineup

@@ -1,0 +1,34 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-27	 Flyers	 	 • Randy Jones	 separated shoulder (left game)
+1	2007-01-28	 Flyers	 	 • Randy Jones	 separated shoulder (DTD)
+2	2007-02-07	 Flyers	 • Randy Jones	 	 returned to lineup
+3	2007-03-31	 Flyers	 	 • Randy Jones	 sprained shoulder (out indefinitely)
+4	2007-04-07	 Flyers	 • Randy Jones	 	 returned to lineup
+5	2007-12-22	 Flyers	 	 • Randy Jones	 knee injury (DTD)
+6	2007-12-27	 Flyers	 • Randy Jones	 	 returned to lineup
+7	2007-12-29	 Flyers	 	 • Randy Jones	 sprained right knee (DTD)
+8	2008-01-04	 Flyers	 • Randy Jones	 	 returned to lineup
+9	2008-03-15	 Flyers	 	 • Randy Jones	 hip flexor injury (DTD)
+10	2008-03-28	 Flyers	 • Randy Jones	 	 returned to lineup
+11	2008-04-11	 Flyers	 	 • Randy Jones	 flu (DTD)
+12	2008-04-13	 Flyers	 • Randy Jones	 	 returned to lineup
+13	2008-10-09	 Flyers	 	 • Randy Jones	 placed on IR with hip injury
+14	2008-12-17	 Flyers	 • Randy Jones	 	 activated from IR
+15	2009-01-31	 Flyers	 	 • Randy Jones	 flu (DTD)
+16	2009-02-04	 Flyers	 • Randy Jones	 	 returned to lineup
+17	2009-03-16	 Flyers	 	 • Randy Jones	 hip injury (DTD)
+18	2009-03-22	 Flyers	 • Randy Jones	 	 returned to lineup
+19	2010-01-06	 Kings	 	 • Randy Jones	 placed on IR with neck injury
+20	2010-01-09	 Kings	 • Randy Jones	 	 activated from IR
+21	2010-03-29	 Kings	 	 • Randy Jones	 elbow injury (DTD)
+22	2010-03-30	 Kings	 • Randy Jones	 	 returned to lineup
+23	2011-01-01	 Lightning	 	 • Randy Jones	 upper body injury (DTD)
+24	2011-01-08	 Lightning	 • Randy Jones	 	 returned to lineup
+25	2011-03-08	 Lightning	 	 • Randy Jones	 ankle injury (out indefinitely)
+26	2011-05-01	 Lightning	 • Randy Jones	 	 returned to lineup
+27	2011-11-04	 Jets	 	 • Randy Jones	 bruised right ankle (DTD)
+28	2011-11-12	 Jets	 	 • Randy Jones	 placed on IR with right ankle injury
+29	2011-12-09	 Jets	 • Randy Jones	 	 activated from IR
+30	2011-12-13	 Jets	 	 • Randy Jones	 upper body injury (DTD)
+31	2011-12-17	 Jets	 	 • Randy Jones	 placed on IR with upper body injury
+32	2011-12-31	 Jets	 • Randy Jones	 	 activated from IR

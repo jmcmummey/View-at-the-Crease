@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-04-06	 Wild	 	 • Nick Schultz	 flu (DTD)
+1	2009-04-05	 Wild	 	 • Nick Schultz	 eye injury (DTD)
+2	2010-04-05	 Wild	 	 • Nick Schultz	 leg injury (DTD)
+3	2010-04-10	 Wild	 • Nick Schultz	 	 returned to lineup
+4	2010-12-20	 Wild	 	 • Nick Schultz	 head injury (DTD)
+5	2010-12-27	 Wild	 • Nick Schultz	 	 returned to lineup
+6	2011-04-01	 Wild	 	 • Nick Schultz	 post-concussion symptoms (DTD) / out for season (CBC)
+7	2015-01-20	 Flyers	 	 • Nick Schultz	 upper body injury (DTD)
+8	2015-01-27	 Flyers	 • Nick Schultz	 	 returned to lineup
+9	2015-11-29	 Flyers	 	 • Nick Schultz	 upper body injury (DTD)
+10	2015-12-01	 Flyers	 	 • Nick Schultz	 upper body injury (DTD) (CBC)
+11	2015-12-04	 Flyers	 • Nick Schultz	 	 returned to lineup
+12	2016-09-30	 Flyers	 	 • Nick Schultz	 knee injury (DTD)

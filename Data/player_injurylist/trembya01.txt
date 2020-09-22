@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-02-13	 Thrashers	 	 • Yannick Tremblay	 placed on IR with sore right shoulder
+1	2001-11-06	 Thrashers	 	 • Yannick Tremblay	 placed on IR with dislocated right shoulder
+2	2001-11-29	 Thrashers	 • Yannick Tremblay	 	 activated from IR
+3	2003-11-15	 Thrashers	 	 • Yannick Tremblay	 foot injury (out indefinitely)
+4	2003-12-02	 Thrashers	 	 • Yannick Tremblay	 placed on IR with foot injury
+5	2003-12-13	 Thrashers	 • Yannick Tremblay	 	 activated from IR
+6	2004-01-30	 Thrashers	 	 • Yannick Tremblay	 hip injury (out indefinitely)
+7	2004-02-10	 Thrashers	 	 • Yannick Tremblay	 placed on IR

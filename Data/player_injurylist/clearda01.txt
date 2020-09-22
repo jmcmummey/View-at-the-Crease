@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-03-23	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 flu (DTD)
+1	2006-03-27	 Red Wings	 • Daniel Cleary / Dan Cleary / Danny Cleary	 	 returned to lineup
+2	2006-04-02	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 upper body injury (DTD)
+3	2006-04-07	 Red Wings	 • Daniel Cleary / Dan Cleary / Danny Cleary	 	 returned to lineup
+4	2007-02-24	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 knee injury (DTD)
+5	2007-03-22	 Red Wings	 • Daniel Cleary / Dan Cleary / Danny Cleary	 	 returned to lineup
+6	2008-02-09	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 broken jaw (out ~8 weeks)
+7	2008-03-25	 Red Wings	 • Daniel Cleary / Dan Cleary / Danny Cleary	 	 returned to lineup
+8	2008-11-11	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 left eye infection (DTD)
+9	2008-11-28	 Red Wings	 • Daniel Cleary / Dan Cleary / Danny Cleary	 	 returned to lineup
+10	2009-12-10	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 separated shoulder (DTD)
+11	2009-12-17	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 placed on IR separated shoulder
+12	2010-01-07	 Red Wings	 • Daniel Cleary / Dan Cleary / Danny Cleary	 	 activated from IR
+13	2010-03-20	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 groin injury (DTD)
+14	2010-03-24	 Red Wings	 • Daniel Cleary / Dan Cleary / Danny Cleary	 	 returned to lineup
+15	2010-03-27	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 groin injury (DTD)
+16	2010-04-05	 Red Wings	 • Daniel Cleary / Dan Cleary / Danny Cleary	 	 returned to lineup
+17	2010-12-27	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 placed on IR with broken left ankle
+18	2011-02-02	 Red Wings	 • Daniel Cleary / Dan Cleary / Danny Cleary	 	 activated from IR
+19	2012-02-09	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 knee injury (DTD)
+20	2012-02-16	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 placed on IR with knee injury
+21	2012-02-21	 Red Wings	 • Daniel Cleary / Dan Cleary / Danny Cleary	 	 activated from IR
+22	2012-04-07	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 knee injury (out for season)
+23	2014-03-04	 Red Wings	 	 • Daniel Cleary / Dan Cleary / Danny Cleary	 sprained knee (out for season)

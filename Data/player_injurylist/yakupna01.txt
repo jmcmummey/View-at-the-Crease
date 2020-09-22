@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-01-17	 Oilers	 	 • Nail Yakupov	 head injury (DTD)
+1	2014-01-24	 Oilers	 • Nail Yakupov	 	 returned to lineup
+2	2014-03-01	 Oilers	 	 • Nail Yakupov	 ankle injury (DTD)
+3	2014-03-04	 Oilers	 • Nail Yakupov	 	 returned to lineup
+4	2014-03-18	 Oilers	 	 • Nail Yakupov	 ankle injury (out for season)
+5	2015-02-24	 Oilers	 	 • Nail Yakupov	 groin injury (DTD)
+6	2015-02-28	 Oilers	 • Nail Yakupov	 	 returned to lineup
+7	2015-11-26	 Oilers	 	 • Nail Yakupov	 placed on IR with sprained ankle
+8	2016-01-14	 Oilers	 • Nail Yakupov	 	 activated from IR
+9	2017-01-02	 Blues	 	 • Nail Yakupov	 illness (DTD)
+10	2017-01-07	 Blues	 • Nail Yakupov	 	 returned to lineup
+11	2017-04-02	 Blues	 	 • Nail Yakupov	 lower body injury (out for season)
+12	2017-12-11	 Avalanche	 	 • Nail Yakupov	 illness (DTD)
+13	2017-12-16	 Avalanche	 • Nail Yakupov	 	 returned to lineup

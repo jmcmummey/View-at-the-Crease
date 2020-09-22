@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-05	 Maple Leafs	 	 • Nazem Kadri	 placed on IR with torn ligament in knee
+1	2011-10-20	 Maple Leafs	 • Nazem Kadri	 	 activated from IR
+2	2015-01-02	 Maple Leafs	 	 • Nazem Kadri	 lower body injury (DTD)
+3	2015-01-07	 Maple Leafs	 • Nazem Kadri	 	 returned to lineup
+4	2016-02-11	 Maple Leafs	 	 • Nazem Kadri	 lower body injury (DTD)
+5	2016-02-15	 Maple Leafs	 • Nazem Kadri	 	 returned to lineup
+6	2017-12-29	 Maple Leafs	 	 • Nazem Kadri	 upper body injury (DTD)
+7	2018-01-02	 Maple Leafs	 • Nazem Kadri	 	 returned to lineup
+8	2019-02-21	 Maple Leafs	 	 • Nazem Kadri	 concussion (DTD)
+9	2019-03-09	 Maple Leafs	 • Nazem Kadri	 	 returned to lineup
+10	2019-04-04	 Maple Leafs	 	 • Nazem Kadri	 undisclosed (DTD)
+11	2019-04-06	 Maple Leafs	 • Nazem Kadri	 	 returned to lineup
+12	2019-12-05	 Avalanche	 	 • Nazem Kadri	 lower body injury (DTD)
+13	2019-12-11	 Avalanche	 • Nazem Kadri	 	 returned to lineup
+14	2020-02-11	 Avalanche	 	 • Nazem Kadri	 placed on IR with lower body injury
+15	2020-07-13	 Avalanche	 • Nazem Kadri	 	 activated from IR

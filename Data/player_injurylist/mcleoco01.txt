@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-03-08	 Avalanche	 	 • Cody McLeod	 left shoulder injury (out indefinitely)
+1	2009-03-14	 Avalanche	 • Cody McLeod	 	 returned to lineup
+2	2009-10-21	 Avalanche	 	 • Cody McLeod	 facial laceration (DTD)
+3	2009-10-22	 Avalanche	 	 • Cody McLeod	 placed on IR with eye injury
+4	2009-11-04	 Avalanche	 • Cody McLeod	 	 activated from IR
+5	2010-03-16	 Avalanche	 	 • Cody McLeod	 leg injury (DTD)
+6	2010-03-21	 Avalanche	 • Cody McLeod	 	 returned to lineup
+7	2010-12-19	 Avalanche	 	 • Cody McLeod	 groin injury (DTD)
+8	2010-12-27	 Avalanche	 • Cody McLeod	 	 returned to lineup
+9	2010-12-30	 Avalanche	 	 • Cody McLeod	 groin injury (DTD)
+10	2011-01-14	 Avalanche	 • Cody McLeod	 	 returned to lineup
+11	2014-04-04	 Avalanche	 	 • Cody McLeod	 sprained ankle (out for season)
+12	2017-02-12	 Predators	 	 • Cody McLeod	 placed on IR with lower body injury
+13	2017-03-02	 Predators	 • Cody McLeod	 	 activated from IR
+14	2018-04-04	 Rangers	 	 • Cody McLeod	 strained abdominal (out for season)
+15	2018-11-22	 Rangers	 	 • Cody McLeod	 fractured left hand (out indefinitely)
+16	2018-11-29	 Rangers	 	 • Cody McLeod	 placed on IR with fractured left hand
+17	2018-12-29	 Rangers	 • Cody McLeod	 	 activated from IR

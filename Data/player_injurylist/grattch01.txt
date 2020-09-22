@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-02-22	 Lightning	 	 • Chris Gratton	 placed on IR
+1	2005-10-15	 Panthers	 	 • Chris Gratton	 groin injury (DTD)
+2	2005-10-20	 Panthers	 • Chris Gratton	 	 returned to lineup
+3	2005-11-05	 Panthers	 	 • Chris Gratton	 hip injury (DTD)
+4	2005-11-11	 Panthers	 • Chris Gratton	 	 returned to lineup
+5	2006-04-18	 Panthers	 	 • Chris Gratton	 broken foot (DTD)
+6	2007-12-15	 Lightning	 	 • Chris Gratton	 hip injury (DTD)
+7	2007-12-22	 Lightning	 • Chris Gratton	 	 returned to lineup
+8	2008-02-28	 Lightning	 	 • Chris Gratton	 surgery on hip (DTD)
+9	2008-11-21	 Lightning	 	 • Chris Gratton	 lower body injury (DTD)
+10	2008-11-23	 Lightning	 	 • Chris Gratton	 placed on IR

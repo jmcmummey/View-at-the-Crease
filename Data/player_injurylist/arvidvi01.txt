@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-01-06	 Predators	 	 • Viktor Arvidsson	 upper body injury (DTD)
+1	2017-01-10	 Predators	 • Viktor Arvidsson	 	 returned to lineup
+2	2018-01-16	 Predators	 	 • Viktor Arvidsson	 placed on IR with lower body injury
+3	2018-01-20	 Predators	 • Viktor Arvidsson	 	 activated from IR
+4	2018-04-01	 Predators	 	 • Viktor Arvidsson	 lower body injury (DTD)
+5	2018-04-03	 Predators	 • Viktor Arvidsson	 	 returned to lineup
+6	2018-11-01	 Predators	 	 • Viktor Arvidsson	 lower body injury (DTD)
+7	2018-11-05	 Predators	 	 • Viktor Arvidsson	 placed on IR with lower body injury
+8	2018-11-10	 Predators	 • Viktor Arvidsson	 	 activated from IR
+9	2018-11-12	 Predators	 	 • Viktor Arvidsson	 placed on IR with fractured thumb
+10	2018-12-27	 Predators	 • Viktor Arvidsson	 	 activated from IR
+11	2019-11-24	 Predators	 	 • Viktor Arvidsson	 lower body injury (out indefinitely)
+12	2019-11-25	 Predators	 	 • Viktor Arvidsson	 placed on IR with lower body injury
+13	2019-12-21	 Predators	 • Viktor Arvidsson	 	 activated from IR

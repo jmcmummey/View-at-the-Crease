@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-09-30	 Canadiens	 	 • Tom Pyatt	 placed on IR with undisclosed injury
+1	2012-01-20	 Lightning	 	 • Tom Pyatt	 lower body injury (DTD)
+2	2012-01-31	 Lightning	 • Tom Pyatt	 	 returned to lineup
+3	2013-03-13	 Lightning	 	 • Tom Pyatt	 upper body injury (DTD)
+4	2013-03-16	 Lightning	 • Tom Pyatt	 	 returned to lineup
+5	2013-04-15	 Lightning	 	 • Tom Pyatt	 upper body injury (DTD)
+6	2013-04-21	 Lightning	 • Tom Pyatt	 	 returned to lineup
+7	2013-10-09	 Lightning	 	 • Tom Pyatt	 placed on IR with fractured collarbone
+8	2013-12-21	 Lightning	 • Tom Pyatt	 	 activated from IR
+9	2017-04-21	 Senators	 	 • Tom Pyatt	 upper body injury (DTD)
+10	2017-04-28	 Senators	 • Tom Pyatt	 	 returned to lineup
+11	2018-03-05	 Senators	 	 • Tom Pyatt	 illness (DTD)
+12	2018-03-08	 Senators	 • Tom Pyatt	 	 returned to lineup

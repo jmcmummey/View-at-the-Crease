@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-10	 Wild	 	 • Dominic Moore	 abdominal strain (DTD)
+1	2007-11-11	 Wild	 • Dominic Moore	 	 returned to lineup
+2	2009-10-30	 Panthers	 	 • Dominic Moore	 nasal surgery (out indefinitely)
+3	2009-11-12	 Panthers	 • Dominic Moore	 	 returned to lineup
+4	2009-12-12	 Panthers	 	 • Dominic Moore	 abdominal injury (DTD)
+5	2009-12-14	 Panthers	 • Dominic Moore	 	 returned to lineup
+6	2010-10-26	 Lightning	 	 • Dominic Moore	 groin injury (DTD)
+7	2010-11-09	 Lightning	 • Dominic Moore	 	 returned to lineup
+8	2012-02-23	 Sharks	 	 • Dominic Moore	 undisclosed (DTD)
+9	2012-03-01	 Sharks	 • Dominic Moore	 	 returned to lineup
+10	2013-10-30	 Rangers	 	 • Dominic Moore	 strained oblique muscle (DTD)
+11	2013-11-16	 Rangers	 • Dominic Moore	 	 returned to lineup
+12	2016-10-01	 Bruins	 	 • Dominic Moore	 undisclosed injury (DTD)

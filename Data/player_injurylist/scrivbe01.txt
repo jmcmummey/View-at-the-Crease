@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-02-10	 Oilers	 	 • Ben Scrivens	 hamstring injury (DTD)
+1	2015-02-14	 Oilers	 	 • Ben Scrivens	 placed on IR with hamstring injury
+2	2015-02-17	 Oilers	 • Ben Scrivens	 	 activated from IR

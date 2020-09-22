@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-04-02	 Maple Leafs	 	 • Travis Dermott	 lower body injury (DTD)
+1	2018-04-07	 Maple Leafs	 • Travis Dermott	 	 returned to lineup
+2	2018-10-24	 Maple Leafs	 	 • Travis Dermott	 illness (DTD)
+3	2018-11-01	 Maple Leafs	 • Travis Dermott	 	 returned to lineup
+4	2019-02-28	 Maple Leafs	 	 • Travis Dermott	 shoulder injury (out indefinitely)
+5	2019-03-29	 Maple Leafs	 • Travis Dermott	 	 returned to lineup
+6	2019-09-30	 Maple Leafs	 	 • Travis Dermott	 placed on IR with shoulder injury
+7	2019-10-29	 Maple Leafs	 • Travis Dermott	 	 activated from IR
+8	2020-02-01	 Maple Leafs	 	 • Travis Dermott	 illness (DTD)
+9	2020-02-03	 Maple Leafs	 • Travis Dermott	 	 returned to lineup

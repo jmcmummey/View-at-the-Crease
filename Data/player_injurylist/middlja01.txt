@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-05	 Sharks	 	 • Jacob Middleton	 placed on IR with undisclosed injury
+1	2019-11-12	 Sharks	 • Jacob Middleton	 	 activated from IR
+2	2020-03-03	 Sharks	 	 • Jacob Middleton	 sprained ankle (out indefinitely)

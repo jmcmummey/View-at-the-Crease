@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-10-27	 Capitals	 • Bill Ranford	 	 activated from IR
+1	1998-01-13	 Capitals	 • Bill Ranford	 	 activated from IR
+2	1999-11-25	 Oilers	 	 • Bill Ranford	 placed on IR with inner ear infection
+3	2000-04-05	 Oilers	 	 • Bill Ranford	 strained hamstring (DTD)

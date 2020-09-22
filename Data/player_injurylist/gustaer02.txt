@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-11-09	 Flyers	 	 • Erik Gustafsson (a)	 wrist injury (DTD / out indefinitely)
+1	2011-11-19	 Flyers	 	 • Erik Gustafsson (a)	 placed on IR with surgery on wrist
+2	2011-12-30	 Flyers	 • Erik Gustafsson (a)	 	 activated from IR
+3	2013-12-23	 Flyers	 	 • Erik Gustafsson (a)	 placed on IR with sprained left knee
+4	2014-01-11	 Flyers	 • Erik Gustafsson (a)	 	 activated from IR
+5	2016-01-14	 Blackhawks	 	 • Erik Gustafsson (b. 1992-03-14)	 lower body injury (DTD)
+6	2016-01-17	 Blackhawks	 • Erik Gustafsson (b. 1992-03-14)	 	 returned to lineup
+7	2018-12-11	 Blackhawks	 	 • Erik Gustafsson (b. 1992-03-14)	 illness (DTD)
+8	2018-12-14	 Blackhawks	 • Erik Gustafsson (b. 1992-03-14)	 	 returned to lineup

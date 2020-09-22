@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-22	 Penguins	 	 • Carter Rowney	 hand injury (DTD)
+1	2017-10-22	 Penguins	 	 • Carter Rowney	 placed on IR with hand injury
+2	2017-11-22	 Penguins	 • Carter Rowney	 	 activated from IR
+3	2018-01-04	 Penguins	 	 • Carter Rowney	 upper body injury (out indefinitely)
+4	2018-01-13	 Penguins	 	 • Carter Rowney	 placed on IR with upper body injury
+5	2018-02-02	 Penguins	 • Carter Rowney	 	 activated from IR
+6	2018-03-18	 Penguins	 	 • Carter Rowney	 upper body injury (out indefinitely)
+7	2018-04-22	 Penguins	 • Carter Rowney	 	 returned to lineup
+8	2018-10-14	 Ducks	 	 • Carter Rowney	 upper body injury (DTD)
+9	2018-10-14	 Ducks	 	 • Carter Rowney	 placed on IR with upper body injury
+10	2018-11-27	 Ducks	 • Carter Rowney	 	 activated from IR

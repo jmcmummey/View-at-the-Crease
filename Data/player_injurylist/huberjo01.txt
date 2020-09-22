@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-15	 Panthers	 	 • Jonathan Huberdeau	 foot injury (DTD)
+1	2013-12-19	 Panthers	 • Jonathan Huberdeau	 	 returned to lineup
+2	2014-03-18	 Panthers	 	 • Jonathan Huberdeau	 concussion (DTD)
+3	2014-04-08	 Panthers	 • Jonathan Huberdeau	 	 returned to lineup
+4	2014-11-01	 Panthers	 	 • Jonathan Huberdeau	 flu (DTD)
+5	2014-11-08	 Panthers	 • Jonathan Huberdeau	 	 returned to lineup
+6	2016-02-21	 Panthers	 	 • Jonathan Huberdeau	 placed on IR with upper body injury
+7	2016-02-25	 Panthers	 	 • Jonathan Huberdeau	 placed on IR with upper body injury
+8	2016-03-07	 Panthers	 • Jonathan Huberdeau	 	 activated from IR
+9	2016-10-09	 Panthers	 	 • Jonathan Huberdeau	 leg injury (out indefinitely)
+10	2016-10-13	 Panthers	 	 • Jonathan Huberdeau	 placed on IR with surgery on Achilles
+11	2017-02-03	 Panthers	 • Jonathan Huberdeau	 	 activated from IR

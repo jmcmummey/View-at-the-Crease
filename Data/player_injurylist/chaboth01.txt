@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-12-29	 Senators	 	 • Thomas Chabot	 placed on IR with upper body injury
+1	2019-01-14	 Senators	 • Thomas Chabot	 	 activated from IR
+2	2019-03-14	 Senators	 	 • Thomas Chabot	 placed on IR with fractured toe
+3	2019-03-23	 Senators	 • Thomas Chabot	 	 activated from IR

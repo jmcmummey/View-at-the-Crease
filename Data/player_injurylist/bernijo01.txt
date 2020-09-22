@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-03-13	 Maple Leafs	 	 • Jonathan Bernier	 groin injury (DTD)
+1	2014-03-25	 Maple Leafs	 • Jonathan Bernier	 	 returned to lineup
+2	2014-04-04	 Maple Leafs	 	 • Jonathan Bernier	 sprained MCL in knee (out for season)
+3	2014-12-28	 Maple Leafs	 	 • Jonathan Bernier	 flu (DTD)
+4	2014-12-31	 Maple Leafs	 • Jonathan Bernier	 	 returned to lineup
+5	2015-02-07	 Maple Leafs	 	 • Jonathan Bernier	 left leg injury (DTD)
+6	2015-02-10	 Maple Leafs	 • Jonathan Bernier	 	 returned to lineup
+7	2015-11-03	 Maple Leafs	 	 • Jonathan Bernier	 lower body injury (DTD)
+8	2015-11-05	 Maple Leafs	 	 • Jonathan Bernier	 placed on IR with lower body injury
+9	2015-11-11	 Maple Leafs	 • Jonathan Bernier	 	 activated from IR
+10	2016-10-26	 Ducks	 	 • Jonathan Bernier	 upper body injury (DTD)
+11	2016-11-02	 Ducks	 • Jonathan Bernier	 	 returned to lineup
+12	2018-02-17	 Avalanche	 	 • Jonathan Bernier	 concussion (DTD)
+13	2018-02-19	 Avalanche	 	 • Jonathan Bernier	 placed on IR with concussion
+14	2018-03-06	 Avalanche	 • Jonathan Bernier	 	 activated from IR
+15	2018-03-13	 Avalanche	 	 • Jonathan Bernier	 neck injury (DTD)
+16	2018-03-22	 Avalanche	 • Jonathan Bernier	 	 returned to lineup
+17	2018-03-24	 Avalanche	 	 • Jonathan Bernier	 infection (DTD)
+18	2018-03-29	 Avalanche	 • Jonathan Bernier	 	 returned to lineup
+19	2018-04-19	 Avalanche	 	 • Jonathan Bernier	 lower body injury (out for season)
+20	2019-03-31	 Red Wings	 	 • Jonathan Bernier	 upper body injury (out for season)
+21	2019-12-22	 Red Wings	 	 • Jonathan Bernier	 groin injury (DTD)
+22	2019-12-29	 Red Wings	 • Jonathan Bernier	 	 returned to lineup
+23	2020-01-12	 Red Wings	 	 • Jonathan Bernier	 lower body injury (out indefinitely)
+24	2020-01-14	 Red Wings	 	 • Jonathan Bernier	 placed on IR with lower body injury
+25	2020-02-01	 Red Wings	 • Jonathan Bernier	 	 activated from IR

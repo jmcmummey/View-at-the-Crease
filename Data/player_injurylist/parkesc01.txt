@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-03	 Sharks	 	 • Scott Parker	 facial injury (out indefinitely)
+1	2005-11-21	 Sharks	 • Scott Parker	 	 returned to lineup
+2	2005-11-21	 Sharks	 	 • Scott Parker	 head injury (DTD)
+3	2005-11-23	 Sharks	 	 • Scott Parker	 post-concussion (DTD)
+4	2005-12-03	 Sharks	 	 • Scott Parker	 placed on IR
+5	2005-12-20	 Sharks	 • Scott Parker	 	 activated from IR
+6	2005-12-26	 Sharks	 	 • Scott Parker	 head injury (out indefinitely)
+7	2005-12-27	 Sharks	 	 • Scott Parker	 placed on IR with head injury
+8	2006-03-09	 Sharks	 • Scott Parker	 	 activated from IR
+9	2006-10-29	 Sharks	 	 • Scott Parker	 back injury (DTD)
+10	2006-11-07	 Sharks	 • Scott Parker	 	 returned to lineup
+11	2007-01-04	 Sharks	 	 • Scott Parker	 leg injury (DTD)
+12	2007-01-12	 Sharks	 	 • Scott Parker	 placed on IR with leg injury
+13	2007-02-03	 Sharks	 • Scott Parker	 	 activated from IR
+14	2007-02-18	 Sharks	 	 • Scott Parker	 ankle injury (DTD)
+15	2007-03-01	 Avalanche	 • Scott Parker	 	 returned to lineup
+16	2007-03-02	 Avalanche	 	 • Scott Parker	 left knee injury (out remainder of regular season)
+17	2008-02-14	 Avalanche	 	 • Scott Parker	 flu (DTD)
+18	2008-02-20	 Avalanche	 • Scott Parker	 	 returned to lineup
+19	2008-03-15	 Avalanche	 	 • Scott Parker	 right ankle injury (DTD)
+20	2008-10-09	 Avalanche	 	 • Scott Parker	 placed on IR with concussion
+21	2008-10-18	 Avalanche	 • Scott Parker	 	 activated from IR

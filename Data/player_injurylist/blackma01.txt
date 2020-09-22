@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-01-05	 Devils	 	 • MacKenzie Blackwood	 lower body injury (DTD)
+1	2019-01-05	 Devils	 	 • MacKenzie Blackwood	 placed on IR with lower body injury
+2	2019-01-12	 Devils	 • MacKenzie Blackwood	 	 activated from IR
+3	2020-01-11	 Devils	 	 • MacKenzie Blackwood	 upper body injury (DTD)
+4	2020-01-18	 Devils	 • MacKenzie Blackwood	 	 returned to lineup

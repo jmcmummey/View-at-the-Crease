@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-02-02	 Canucks	 	 • Aaron Volpatti	 rib injury (DTD)
+1	2011-02-09	 Canucks	 • Aaron Volpatti	 	 returned to lineup
+2	2011-12-03	 Canucks	 	 • Aaron Volpatti	 torn labrum in shoulder (out for season)
+3	2011-12-06	 Canucks	 	 • Aaron Volpatti	 placed on IR with surgery on shoulder to repair torn labrum (out for season)
+4	2014-02-03	 Capitals	 	 • Aaron Volpatti	 upper body injury (DTD)
+5	2014-02-06	 Capitals	 	 • Aaron Volpatti	 placed on IR with upper body injury
+6	2014-04-05	 Capitals	 • Aaron Volpatti	 	 activated from IR
+7	2014-10-06	 Capitals	 	 • Aaron Volpatti	 placed on IR with neck injury
+8	2015-02-03	 Capitals	 • Aaron Volpatti	 	 activated from IR

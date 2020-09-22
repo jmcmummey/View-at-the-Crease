@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-12	 Devils	 	 • Alex Brooks	 broken foot (out 3-4 weeks)
+1	2007-03-10	 Devils	 • Alex Brooks	 	 returned to lineup

@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-08	 Stars	 	 • Krystofer Barch / Krys Barch	 toe injury (DTD)
+1	2007-03-11	 Stars	 • Krystofer Barch / Krys Barch	 	 returned to lineup
+2	2008-03-05	 Stars	 	 • Krystofer Barch / Krys Barch	 flu (DTD)
+3	2008-03-09	 Stars	 • Krystofer Barch / Krys Barch	 	 returned to lineup
+4	2009-03-28	 Stars	 	 • Krystofer Barch / Krys Barch	 lower body injury (out for season)
+5	2010-01-12	 Stars	 	 • Krystofer Barch / Krys Barch	 flu (DTD)
+6	2010-01-14	 Stars	 • Krystofer Barch / Krys Barch	 	 returned to lineup
+7	2010-03-27	 Stars	 	 • Krystofer Barch / Krys Barch	 lacerated leg (out for season)
+8	2010-11-26	 Stars	 	 • Krystofer Barch / Krys Barch	 foot injury (DTD)
+9	2010-12-02	 Stars	 • Krystofer Barch / Krys Barch	 	 returned to lineup
+10	2010-12-03	 Stars	 	 • Krystofer Barch / Krys Barch	 placed on IR with foot injury
+11	2010-12-16	 Stars	 • Krystofer Barch / Krys Barch	 	 activated from IR
+12	2011-02-04	 Stars	 	 • Krystofer Barch / Krys Barch	 broken orbital bone / scratched cornea (DTD)
+13	2011-02-12	 Stars	 	 • Krystofer Barch / Krys Barch	 placed on IR
+14	2011-02-23	 Stars	 • Krystofer Barch / Krys Barch	 	 activated from IR
+15	2011-02-23	 Stars	 	 • Krystofer Barch / Krys Barch	 fractured orbital bone (DTD)
+16	2011-02-24	 Stars	 • Krystofer Barch / Krys Barch	 	 returned to lineup
+17	2011-11-18	 Stars	 	 • Krystofer Barch / Krys Barch	 ankle injury (DTD)
+18	2011-11-19	 Stars	 • Krystofer Barch / Krys Barch	 	 returned to lineup

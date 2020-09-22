@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-11-03	 Canadiens	 	 • Patrick Traverse	 knee injury (out indefinitely)
+1	2002-01-10	 Canadiens	 	 • Patrick Traverse	 head injury (out indefinitely)
+2	2006-01-26	 Stars	 	 • Patrick Traverse	 ankle injury (out indefinitely)
+3	2006-01-28	 Stars	 	 • Patrick Traverse	 placed on IR with ankle injury

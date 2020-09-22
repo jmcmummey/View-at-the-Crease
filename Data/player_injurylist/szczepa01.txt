@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-15	 Lightning	 	 • Paul Szczechura	 placed on IR with lower body injury
+1	2009-02-13	 Lightning	 • Paul Szczechura	 	 activated from IR
+2	2009-03-06	 Lightning	 	 • Paul Szczechura	 wrist injury (DTD)
+3	2009-03-07	 Lightning	 • Paul Szczechura	 	 returned to lineup
+4	2009-03-26	 Lightning	 	 • Paul Szczechura	 leg injury (DTD)
+5	2009-04-03	 Lightning	 • Paul Szczechura	 	 returned to lineup
+6	2009-12-05	 Lightning	 	 • Paul Szczechura	 upper body injury (DTD)
+7	2009-12-07	 Lightning	 • Paul Szczechura	 	 returned to lineup

@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-12-20	 Maple Leafs	 	 • Zach Hyman	 ankle injury (out indefinitely)
+1	2018-12-22	 Maple Leafs	 	 • Zach Hyman	 placed on IR with ankle injury
+2	2019-01-10	 Maple Leafs	 • Zach Hyman	 	 activated from IR
+3	2019-03-13	 Maple Leafs	 	 • Zach Hyman	 flu (DTD)
+4	2019-03-15	 Maple Leafs	 • Zach Hyman	 	 returned to lineup
+5	2019-09-30	 Maple Leafs	 	 • Zach Hyman	 placed on IR with knee injury
+6	2019-11-12	 Maple Leafs	 • Zach Hyman	 	 activated from IR

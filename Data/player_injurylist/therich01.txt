@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-11	 Flyers	 	 • Chris Therien	 back spasms (DTD)
+1	2005-10-22	 Flyers	 • Chris Therien	 	 returned to lineup
+2	2006-01-11	 Flyers	 	 • Chris Therien	 sore back (DTD)
+3	2006-01-14	 Flyers	 • Chris Therien	 	 returned to lineup
+4	2006-02-04	 Flyers	 	 • Chris Therien	 head injury (left game)
+5	2006-02-05	 Flyers	 	 • Chris Therien	 head injury (out indefinitely)

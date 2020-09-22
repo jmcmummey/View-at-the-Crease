@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-09-13	 Senators	 	 • Christian Wolanin	 placed on IR with torn labrum in shoulder
+1	2019-09-30	 Senators	 	 • Christian Wolanin	 placed on injured/non-roster list with torn labrum in shoulder
+2	2020-02-10	 Senators	 • Christian Wolanin	 	 activated from IR / injured/non-roster list

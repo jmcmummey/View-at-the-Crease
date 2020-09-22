@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-01-30	 Blackhawks	 • Chris McAlpine	 	 activated from IR
+1	2003-01-28	 Kings	 	 • Chris McAlpine	 hernia (out indefinitely)
+2	2003-02-08	 Kings	 	 • Chris McAlpine	 placed on IR with hernia

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-09-30	 Maple Leafs	 	 • Mason Marchment	 placed on injured/non-roster list with undisclosed injury
+1	2019-12-04	 Maple Leafs	 • Mason Marchment	 	 activated from injured/non-roster list

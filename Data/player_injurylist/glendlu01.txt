@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-12-28	 Red Wings	 	 • Luke Glendening	 flu (DTD)
+1	2015-12-29	 Red Wings	 • Luke Glendening	 	 returned to lineup
+2	2017-03-28	 Red Wings	 	 • Luke Glendening	 fractured foot (out for season)
+3	2017-12-22	 Red Wings	 	 • Luke Glendening	 hand injury (DTD)
+4	2018-01-07	 Red Wings	 	 • Luke Glendening	 placed on IR with hand injury
+5	2018-01-23	 Red Wings	 • Luke Glendening	 	 activated from IR
+6	2018-04-04	 Red Wings	 	 • Luke Glendening	 upper body injury (DTD)
+7	2018-04-07	 Red Wings	 • Luke Glendening	 	 returned to lineup
+8	2019-03-31	 Red Wings	 	 • Luke Glendening	 undisclosed (out for season)
+9	2019-10-25	 Red Wings	 	 • Luke Glendening	 placed on IR with hand injury
+10	2019-11-15	 Red Wings	 • Luke Glendening	 	 activated from IR

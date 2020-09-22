@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-11	 Hurricanes	 	 • Andrew Miller (b)	 placed on injured/non-roster list with undisclosed injury
+1	2016-10-26	 Hurricanes	 • Andrew Miller (b)	 	 activated from injured/non-roster list

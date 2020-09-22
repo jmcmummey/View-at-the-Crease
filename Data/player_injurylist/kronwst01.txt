@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-26	 Maple Leafs	 	 • Staffan Kronwall	 knee injury (left game)
+1	2005-11-28	 Maple Leafs	 	 • Staffan Kronwall	 knee injury (DTD)
+2	2005-12-16	 Maple Leafs	 • Staffan Kronwall	 	 returned to lineup
+3	2006-10-03	 Maple Leafs	 	 • Staffan Kronwall	 ankle injury (out indefinitely)

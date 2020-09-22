@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-02-24	 Canucks	 	 • Nikita Tryamkin	 placed on IR with mumps
+1	2017-02-28	 Canucks	 	 • Nikita Tryamkin	 placed on IR with mumps
+2	2017-03-09	 Canucks	 • Nikita Tryamkin	 	 activated from IR

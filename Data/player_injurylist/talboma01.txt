@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-11-21	 Penguins	 	 • Maxime Talbot / Max Talbot	 sprained ankle (DTD)
+1	2007-12-03	 Penguins	 • Maxime Talbot / Max Talbot	 	 returned to lineup
+2	2007-12-11	 Penguins	 	 • Maxime Talbot / Max Talbot	 ankle injury (out 3-4 weeks)
+3	2008-01-10	 Penguins	 • Maxime Talbot / Max Talbot	 	 returned to lineup
+4	2008-03-11	 Penguins	 	 • Maxime Talbot / Max Talbot	 ankle injury (DTD)
+5	2008-03-16	 Penguins	 • Maxime Talbot / Max Talbot	 	 returned to lineup
+6	2008-05-04	 Penguins	 	 • Maxime Talbot / Max Talbot	 broken foot (DTD)
+7	2008-05-11	 Penguins	 • Maxime Talbot / Max Talbot	 	 returned to lineup
+8	2008-12-12	 Penguins	 	 • Maxime Talbot / Max Talbot	 root injury (DTD)
+9	2008-12-20	 Penguins	 • Maxime Talbot / Max Talbot	 	 returned to lineup
+10	2009-01-15	 Penguins	 	 • Maxime Talbot / Max Talbot	 upper body injury injury (DTD)
+11	2009-01-28	 Penguins	 • Maxime Talbot / Max Talbot	 	 returned to lineup
+12	2009-09-14	 Penguins	 	 • Maxime Talbot / Max Talbot	 placed on IR with surgery on left shoulder
+13	2009-11-19	 Penguins	 • Maxime Talbot / Max Talbot	 	 activated from IR
+14	2010-01-21	 Penguins	 	 • Maxime Talbot / Max Talbot	 lower body injury (DTD)
+15	2010-01-28	 Penguins	 • Maxime Talbot / Max Talbot	 	 returned to lineup
+16	2010-01-31	 Penguins	 	 • Maxime Talbot / Max Talbot	 groin injury (DTD)
+17	2010-03-02	 Penguins	 • Maxime Talbot / Max Talbot	 	 returned to lineup
+18	2012-03-18	 Flyers	 	 • Maxime Talbot / Max Talbot	 upper body injury (DTD)
+19	2012-03-20	 Flyers	 • Maxime Talbot / Max Talbot	 	 returned to lineup
+20	2013-04-01	 Flyers	 	 • Maxime Talbot / Max Talbot	 fractured leg (out for season)

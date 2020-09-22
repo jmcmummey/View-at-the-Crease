@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-11	 Bruins	 	 • Hal Gill	 pinched nerve in neck (DTD)
+1	2006-01-16	 Bruins	 • Hal Gill	 	 returned to lineup
+2	2008-02-26	 Penguins	 	 • Hal Gill	 flu (DTD)
+3	2008-02-28	 Penguins	 • Hal Gill	 	 returned to lineup
+4	2008-10-23	 Penguins	 	 • Hal Gill	 undisclosed (DTD)
+5	2008-10-30	 Penguins	 • Hal Gill	 	 returned to lineup
+6	2008-12-08	 Penguins	 	 • Hal Gill	 right shoulder injury (DTD)
+7	2008-12-09	 Penguins	 	 • Hal Gill	 placed on IR with right shoulder injuiry
+8	2008-12-30	 Penguins	 • Hal Gill	 	 activated from IR
+9	2009-11-03	 Canadiens	 	 • Hal Gill	 placed on IR with fractured foot
+10	2009-12-03	 Canadiens	 • Hal Gill	 	 activated from IR
+11	2010-05-08	 Canadiens	 	 • Hal Gill	 leg laceration (DTD)
+12	2010-05-12	 Canadiens	 • Hal Gill	 	 returned to lineup
+13	2011-02-10	 Canadiens	 	 • Hal Gill	 undisclosed (DTD)
+14	2011-02-17	 Canadiens	 	 • Hal Gill	 placed on IR with upper body injury
+15	2011-02-20	 Canadiens	 • Hal Gill	 	 activated from IR
+16	2011-03-17	 Canadiens	 	 • Hal Gill	 flu (DTD)
+17	2011-03-20	 Canadiens	 • Hal Gill	 	 returned to lineup
+18	2011-11-14	 Canadiens	 	 • Hal Gill	 flu (DTD)
+19	2011-11-23	 Canadiens	 • Hal Gill	 	 returned to lineup
+20	2012-04-11	 Predators	 	 • Hal Gill	 lower body injury (DTD)
+21	2012-04-27	 Predators	 • Hal Gill	 	 returned to lineup
+22	2013-02-11	 Predators	 	 • Hal Gill	 undisclosed injury (DTD)
+23	2013-02-23	 Predators	 	 • Hal Gill	 lower body injury (DTD)
+24	2013-03-04	 Predators	 	 • Hal Gill	 placed on IR with lower body injury
+25	2013-03-23	 Predators	 • Hal Gill	 	 activated from IR

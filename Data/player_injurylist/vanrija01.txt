@@ -1,0 +1,31 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-08	 Flyers	 	 • James van Riemsdyk	 head injury (DTD)
+1	2009-10-16	 Flyers	 • James van Riemsdyk	 	 returned to lineup
+2	2009-11-10	 Flyers	 	 • James van Riemsdyk	 fractured finger (DTD)
+3	2009-11-14	 Flyers	 	 • James van Riemsdyk	 flu (DTD)
+4	2009-11-16	 Flyers	 • James van Riemsdyk	 	 returned to lineup
+5	2010-03-28	 Flyers	 	 • James van Riemsdyk	 knee injury (DTD)
+6	2010-04-01	 Flyers	 • James van Riemsdyk	 	 returned to lineup
+7	2011-01-23	 Flyers	 	 • James van Riemsdyk	 lower body injury (DTD)
+8	2011-02-01	 Flyers	 • James van Riemsdyk	 	 returned to lineup
+9	2011-11-03	 Flyers	 	 • James van Riemsdyk	 lower body injury (DTD)
+10	2011-11-05	 Flyers	 • James van Riemsdyk	 	 returned to lineup
+11	2011-11-25	 Flyers	 	 • James van Riemsdyk	 upper body injury (DTD)
+12	2011-12-07	 Flyers	 • James van Riemsdyk	 	 returned to lineup
+13	2012-01-14	 Flyers	 	 • James van Riemsdyk	 concussion (out indefinitely)
+14	2012-01-19	 Flyers	 	 • James van Riemsdyk	 placed on IR with concussion
+15	2012-02-18	 Flyers	 • James van Riemsdyk	 	 activated from IR
+16	2012-03-04	 Flyers	 	 • James van Riemsdyk	 placed on IR with fractured left foot
+17	2012-04-20	 Flyers	 • James van Riemsdyk	 	 activated from IR
+18	2013-10-15	 Maple Leafs	 	 • James van Riemsdyk	 back spasms (DTD)
+19	2013-10-19	 Maple Leafs	 • James van Riemsdyk	 	 returned to lineup
+20	2014-11-17	 Maple Leafs	 	 • James van Riemsdyk	 placed on IR with leg injury (out for season?)
+21	2016-01-11	 Maple Leafs	 	 • James van Riemsdyk	 fractured foot (out for season)
+22	2016-01-25	 Maple Leafs	 	 • James van Riemsdyk	 placed on IR with fractured foot (out for season)
+23	2017-10-28	 Maple Leafs	 	 • James van Riemsdyk	 undisclosed (DTD)
+24	2017-10-30	 Maple Leafs	 • James van Riemsdyk	 	 returned to lineup
+25	2018-10-08	 Flyers	 	 • James van Riemsdyk	 lower body injury (out indefinitely)
+26	2018-10-11	 Flyers	 	 • James van Riemsdyk	 placed on IR with lower body injury
+27	2018-11-15	 Flyers	 • James van Riemsdyk	 	 activated from IR
+28	2020-03-05	 Flyers	 	 • James van Riemsdyk	 fractured right hand (out indefinitely)
+29	2020-07-13	 Flyers	 • James van Riemsdyk	 	 returned to lineup

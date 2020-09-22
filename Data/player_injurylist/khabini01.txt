@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-28	 Blackhawks	 	 • Nikolai Khabibulin	 leg injury (left game)
+1	2005-12-29	 Blackhawks	 	 • Nikolai Khabibulin	 pulled groin (DTD)
+2	2006-01-19	 Blackhawks	 • Nikolai Khabibulin	 	 activated from IR
+3	2006-01-21	 Blackhawks	 	 • Nikolai Khabibulin	 knee injury (out 4-6 weeks)
+4	2006-01-22	 Blackhawks	 	 • Nikolai Khabibulin	 placed on IR with knee injury
+5	2006-02-17	 Blackhawks	 • Nikolai Khabibulin	 	 returned to lineup
+6	2006-03-09	 Blackhawks	 • Nikolai Khabibulin	 	 returned to lineup
+7	2006-10-22	 Blackhawks	 	 • Nikolai Khabibulin	 broken finger (DTD)
+8	2006-11-16	 Blackhawks	 • Nikolai Khabibulin	 	 returned to lineup
+9	2008-02-14	 Blackhawks	 	 • Nikolai Khabibulin	 spained knee (DTD)
+10	2008-02-20	 Blackhawks	 • Nikolai Khabibulin	 	 returned to lineup
+11	2008-02-23	 Blackhawks	 	 • Nikolai Khabibulin	 back spasms (DTD)
+12	2008-03-16	 Blackhawks	 • Nikolai Khabibulin	 	 returned to lineup
+13	2008-11-26	 Blackhawks	 	 • Nikolai Khabibulin	 undisclosed injury (left game)
+14	2008-11-28	 Blackhawks	 	 • Nikolai Khabibulin	 lower body injury (DTD)
+15	2008-12-12	 Blackhawks	 • Nikolai Khabibulin	 	 returned to lineup
+16	2009-02-12	 Blackhawks	 	 • Nikolai Khabibulin	 groin injury (DTD)
+17	2009-02-18	 Blackhawks	 	 • Nikolai Khabibulin	 placed on IR with groin injury
+18	2009-03-11	 Blackhawks	 • Nikolai Khabibulin	 	 activated from IR
+19	2009-05-24	 Blackhawks	 	 • Nikolai Khabibulin	 lower body injury (out for season)
+20	2009-11-21	 Oilers	 	 • Nikolai Khabibulin	 sore back (DTD)
+21	2010-01-01	 Oilers	 	 • Nikolai Khabibulin	 surgery on back to repair herniated disc (out for season) (date approximate)
+22	2010-11-18	 Oilers	 	 • Nikolai Khabibulin	 placed on IR with pulled groin muscle
+23	2010-12-01	 Oilers	 • Nikolai Khabibulin	 	 activated from IR
+24	2011-02-25	 Oilers	 	 • Nikolai Khabibulin	 placed on IR with eye infection
+25	2011-03-05	 Oilers	 • Nikolai Khabibulin	 	 activated from IR
+26	2012-02-20	 Oilers	 	 • Nikolai Khabibulin	 strained/sore groin (DTD)
+27	2012-03-02	 Oilers	 • Nikolai Khabibulin	 	 returned to lineup
+28	2013-01-18	 Oilers	 	 • Nikolai Khabibulin	 placed on IR with hip injury
+29	2013-02-27	 Oilers	 	 • Nikolai Khabibulin	 placed on IR with groin injury
+30	2013-03-13	 Oilers	 • Nikolai Khabibulin	 	 activated from IR
+31	2013-11-17	 Blackhawks	 	 • Nikolai Khabibulin	 placed on IR with groin injury (out for season)

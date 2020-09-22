@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-12-29	 Kings	 	 • Aki Berg	 placed on IR with rib injury
+1	1999-12-30	 Kings	 • Aki Berg	 	 activated from IR
+2	2005-10-29	 Maple Leafs	 	 • Aki Berg	 rib injury (DTD)
+3	2005-10-31	 Maple Leafs	 • Aki Berg	 	 returned to lineup
+4	2005-11-08	 Maple Leafs	 	 • Aki Berg	 knee injury (DTD)
+5	2005-11-11	 Maple Leafs	 • Aki Berg	 	 returned to lineup
+6	2006-01-28	 Maple Leafs	 	 • Aki Berg	 rib injury (DTD)
+7	2006-02-07	 Maple Leafs	 • Aki Berg	 	 returned to lineup

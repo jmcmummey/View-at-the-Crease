@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-11-28	 Predators	 	 • Scott Hartnell	 placed on IR
+1	2001-10-31	 Predators	 	 • Scott Hartnell	 placed on IR
+2	2007-02-24	 Predators	 	 • Scott Hartnell	 lower body injury (DTD)
+3	2007-04-05	 Predators	 • Scott Hartnell	 	 returned to lineup
+4	2010-01-14	 Flyers	 	 • Scott Hartnell	 flu (DTD)
+5	2010-01-17	 Flyers	 • Scott Hartnell	 	 returned to lineup
+6	2013-01-24	 Flyers	 	 • Scott Hartnell	 placed on IR with fractured left foot
+7	2013-02-23	 Flyers	 • Scott Hartnell	 	 activated from IR
+8	2013-10-12	 Flyers	 	 • Scott Hartnell	 placed on IR with upper body injury
+9	2013-10-25	 Flyers	 • Scott Hartnell	 	 activated from IR
+10	2014-12-12	 Blue Jackets	 	 • Scott Hartnell	 placed on IR with fractured finger
+11	2014-12-27	 Blue Jackets	 • Scott Hartnell	 	 activated from IR
+12	2017-02-14	 Blue Jackets	 	 • Scott Hartnell	 lower body injury (DTD)
+13	2017-02-18	 Blue Jackets	 • Scott Hartnell	 	 returned to lineup
+14	2017-11-12	 Predators	 	 • Scott Hartnell	 placed on IR with lower body injury
+15	2017-12-13	 Predators	 • Scott Hartnell	 	 activated from IR

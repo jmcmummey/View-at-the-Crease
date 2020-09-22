@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-03-01	 Flames	 	 • Cory Sarich	 facial injury (DTD)
+1	2008-03-07	 Flames	 • Cory Sarich	 	 returned to lineup
+2	2009-03-30	 Flames	 	 • Cory Sarich	 right foot/ankle injury (DTD)
+3	2009-04-18	 Flames	 • Cory Sarich	 	 returned to lineup
+4	2009-10-01	 Flames	 	 • Cory Sarich	 bruised foot (DTD)
+5	2009-10-12	 Flames	 • Cory Sarich	 	 returned to lineup
+6	2009-11-29	 Flames	 	 • Cory Sarich	 placed on IR
+7	2010-01-05	 Flames	 • Cory Sarich	 	 activated from IR
+8	2012-03-22	 Flames	 	 • Cory Sarich	 upper body injury (DTD)
+9	2012-03-30	 Flames	 • Cory Sarich	 	 returned to lineup
+10	2013-04-23	 Flames	 	 • Cory Sarich	 fractured nose (out for season)
+11	2014-01-14	 Avalanche	 	 • Cory Sarich	 back injury (DTD)
+12	2014-01-16	 Avalanche	 	 • Cory Sarich	 placed on IR with back injury
+13	2014-02-26	 Avalanche	 • Cory Sarich	 	 activated from IR
+14	2014-04-03	 Avalanche	 	 • Cory Sarich	 back injury (out for season)

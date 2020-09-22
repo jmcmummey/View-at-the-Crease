@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-02-27	 Penguins	 	 • Zach Aston-Reese	 upper body injury (DTD)
+1	2018-03-27	 Penguins	 • Zach Aston-Reese	 	 returned to lineup
+2	2018-05-02	 Penguins	 	 • Zach Aston-Reese	 fractured jaw (out for season)
+3	2019-01-09	 Penguins	 	 • Zach Aston-Reese	 placed on IR with fractured left hand
+4	2019-02-13	 Penguins	 • Zach Aston-Reese	 	 activated from IR
+5	2019-03-12	 Penguins	 	 • Zach Aston-Reese	 lower body injury (out for season)
+6	2020-02-18	 Penguins	 	 • Zach Aston-Reese	 lower body injury (out indefinitely)

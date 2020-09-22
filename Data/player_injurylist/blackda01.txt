@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-09-02	 Rangers	 	 • Dan Blackburn	 left shoulder injury (out indefinitely)
+1	2004-03-01	 Rangers	 	 • Dan Blackburn	 exploratory surgery on left shoulder (date approximate)
+2	2005-09-16	 Rangers	 	 • Dan Blackburn	 sprained MCL in left knee (out 2 weeks)

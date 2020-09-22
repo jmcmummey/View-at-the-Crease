@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-12-12	 Kings	 	 • Wayne Simmonds	 lower body injury (DTD)
+1	2009-12-16	 Kings	 	 • Wayne Simmonds	 placed on IR
+2	2009-12-26	 Kings	 • Wayne Simmonds	 	 activated from IR
+3	2011-01-16	 Kings	 	 • Wayne Simmonds	 lower body injury (DTD)
+4	2011-01-20	 Kings	 • Wayne Simmonds	 	 returned to lineup
+5	2013-02-02	 Flyers	 	 • Wayne Simmonds	 concussion (DTD)
+6	2013-02-09	 Flyers	 • Wayne Simmonds	 	 returned to lineup
+7	2015-03-26	 Flyers	 	 • Wayne Simmonds	 fractured left leg (out for season)
+8	2018-02-20	 Flyers	 	 • Wayne Simmonds	 upper body injury (out indefinitely)
+9	2018-02-22	 Flyers	 	 • Wayne Simmonds	 placed on IR with upper body injury
+10	2018-03-06	 Flyers	 • Wayne Simmonds	 	 activated from IR
+11	2019-04-15	 Predators	 	 • Wayne Simmonds	 lower body injury (out for season)

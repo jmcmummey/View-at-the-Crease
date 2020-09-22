@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-12-18	 Penguins	 	 • Dominik Simon	 illness (DTD)
+1	2017-12-21	 Penguins	 • Dominik Simon	 	 returned to lineup
+2	2018-03-09	 Penguins	 	 • Dominik Simon	 lower body injury (out indefinitely)
+3	2018-03-23	 Penguins	 • Dominik Simon	 	 returned to lineup
+4	2018-12-05	 Penguins	 	 • Dominik Simon	 lower body injury (DTD)
+5	2018-12-07	 Penguins	 	 • Dominik Simon	 placed on IR with lower body injury
+6	2018-12-20	 Penguins	 • Dominik Simon	 	 activated from IR
+7	2020-03-02	 Penguins	 	 • Dominik Simon	 upper body injury (out indefinitely)
+8	2020-08-01	 Penguins	 	 • Dominik Simon	 placed on IR with surgery on left shoulder (out for season)

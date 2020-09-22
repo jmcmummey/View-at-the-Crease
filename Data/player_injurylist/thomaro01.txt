@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-01-11	 Blues	 	 • Robert Thomas	 placed on IR with shoulder injury
+1	2019-02-02	 Blues	 • Robert Thomas	 	 activated from IR
+2	2019-05-29	 Blues	 	 • Robert Thomas	 wrist injury (DTD)
+3	2019-06-09	 Blues	 • Robert Thomas	 	 returned to lineup
+4	2019-10-05	 Blues	 	 • Robert Thomas	 upper body injury (DTD)
+5	2019-10-17	 Blues	 • Robert Thomas	 	 returned to lineup
+6	2020-08-06	 Blues	 	 • Robert Thomas	 undisclosed (DTD)
+7	2020-08-08	 Blues	 • Robert Thomas	 	 returned to lineup

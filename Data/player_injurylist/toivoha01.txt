@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-05	 Bruins	 	 • Hannu Toivonen	 ankle injury (left game)
+1	2006-01-06	 Bruins	 	 • Hannu Toivonen	 ankle injury (DTD)
+2	2006-04-11	 Bruins	 	 • Hannu Toivonen	 ankle injury (out for remainder of regular season)

@@ -1,0 +1,85 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-30	 Senators	 	 • Patrick Eaves	 flu (DTD)
+1	2006-01-02	 Senators	 • Patrick Eaves	 	 returned to lineup
+2	2006-04-11	 Senators	 	 • Patrick Eaves	 lower body injury (DTD)
+3	2006-04-13	 Senators	 • Patrick Eaves	 	 returned to lineup
+4	2007-03-30	 Senators	 	 • Patrick Eaves	 groin injury (DTD)
+5	2007-04-07	 Senators	 • Patrick Eaves	 	 returned to lineup
+6	2007-04-15	 Senators	 	 • Patrick Eaves	 head injury (left game)
+7	2007-04-16	 Senators	 	 • Patrick Eaves	 head injury (DTD)
+8	2007-11-22	 Senators	 	 • Patrick Eaves	 separated shoulder (out indefinitely)
+9	2008-01-15	 Senators	 • Patrick Eaves	 	 returned to lineup
+10	2008-02-14	 Hurricanes	 	 • Patrick Eaves	 placed on IR with shoulder injury
+11	2008-02-26	 Hurricanes	 • Patrick Eaves	 	 activated from IR
+12	2008-03-25	 Hurricanes	 	 • Patrick Eaves	 flu (DTD)
+13	2008-03-28	 Hurricanes	 	 • Patrick Eaves	 surgery on shoulder (out indefinitely)
+14	2008-03-28	 Hurricanes	 	 • Patrick Eaves	 placed on IR recovering from surgery on shoulder
+15	2008-11-07	 Hurricanes	 	 • Patrick Eaves	 undisclosed (DTD)
+16	2008-11-16	 Hurricanes	 • Patrick Eaves	 	 returned to lineup
+17	2008-11-24	 Hurricanes	 	 • Patrick Eaves	 upper body injury (DTD)
+18	2008-11-28	 Hurricanes	 • Patrick Eaves	 	 returned to lineup
+19	2009-01-02	 Hurricanes	 	 • Patrick Eaves	 upper body injury (DTD)
+20	2009-01-06	 Hurricanes	 • Patrick Eaves	 	 returned to lineup
+21	2009-04-04	 Hurricanes	 	 • Patrick Eaves	 upper body injury (DTD)
+22	2009-04-07	 Hurricanes	 • Patrick Eaves	 	 returned to lineup
+23	2009-11-07	 Red Wings	 	 • Patrick Eaves	 bruised foot (DTD)
+24	2009-11-11	 Red Wings	 • Patrick Eaves	 	 returned to lineup
+25	2009-12-02	 Red Wings	 	 • Patrick Eaves	 ankle injury (DTD)
+26	2009-12-05	 Red Wings	 • Patrick Eaves	 	 returned to lineup
+27	2009-12-31	 Red Wings	 	 • Patrick Eaves	 flu (DTD)
+28	2010-01-02	 Red Wings	 • Patrick Eaves	 	 returned to lineup
+29	2010-02-06	 Red Wings	 	 • Patrick Eaves	 sprained ankle (out indefinitely)
+30	2010-03-01	 Red Wings	 • Patrick Eaves	 	 returned to lineup
+31	2010-03-20	 Red Wings	 	 • Patrick Eaves	 head injury (DTD)
+32	2010-03-26	 Red Wings	 • Patrick Eaves	 	 returned to lineup
+33	2010-05-02	 Red Wings	 	 • Patrick Eaves	 right elbow injury (DTD)
+34	2010-05-08	 Red Wings	 • Patrick Eaves	 	 returned to lineup
+35	2010-12-30	 Red Wings	 	 • Patrick Eaves	 elbow injury (DTD)
+36	2011-01-07	 Red Wings	 • Patrick Eaves	 	 returned to lineup
+37	2011-02-23	 Red Wings	 	 • Patrick Eaves	 groin injury (DTD)
+38	2011-03-17	 Red Wings	 • Patrick Eaves	 	 returned to lineup
+39	2011-11-03	 Red Wings	 	 • Patrick Eaves	 back injury (DTD)
+40	2011-11-11	 Red Wings	 • Patrick Eaves	 	 returned to lineup
+41	2011-11-27	 Red Wings	 	 • Patrick Eaves	 broken jaw (DTD)
+42	2011-11-30	 Red Wings	 	 • Patrick Eaves	 placed on IR with broken jaw (out for season)
+43	2013-01-19	 Red Wings	 	 • Patrick Eaves	 post-concussion syndrome (DTD)
+44	2013-01-21	 Red Wings	 • Patrick Eaves	 	 returned to lineup
+45	2013-03-19	 Red Wings	 	 • Patrick Eaves	 sore jaw (DTD)
+46	2013-03-22	 Red Wings	 • Patrick Eaves	 	 returned to lineup
+47	2013-09-21	 Red Wings	 	 • Patrick Eaves	 sprained MCL in left knee (DTD)
+48	2013-09-30	 Red Wings	 	 • Patrick Eaves	 placed on IR with sprained MCL in knee
+49	2013-10-26	 Red Wings	 • Patrick Eaves	 	 activated from IR
+50	2013-10-30	 Red Wings	 • Patrick Eaves	 	 activated from IR (T)
+51	2014-01-02	 Red Wings	 	 • Patrick Eaves	 upper body injury (DTD)
+52	2014-03-20	 Predators	 	 • Patrick Eaves	 lower body injury (out for season)
+53	2014-11-14	 Stars	 	 • Patrick Eaves	 bruised foot (DTD)
+54	2014-11-20	 Stars	 • Patrick Eaves	 	 returned to lineup
+55	2014-12-03	 Stars	 	 • Patrick Eaves	 placed on IR with fractured ankle
+56	2015-01-27	 Stars	 • Patrick Eaves	 	 activated from IR
+57	2015-02-13	 Stars	 	 • Patrick Eaves	 placed on IR with concussion
+58	2015-03-01	 Stars	 • Patrick Eaves	 	 activated from IR
+59	2015-10-14	 Stars	 	 • Patrick Eaves	 placed on IR with lower body injury
+60	2015-11-12	 Stars	 • Patrick Eaves	 	 activated from IR
+61	2016-02-23	 Stars	 	 • Patrick Eaves	 illness (DTD)
+62	2016-03-08	 Stars	 • Patrick Eaves	 	 returned to lineup
+63	2016-04-07	 Stars	 	 • Patrick Eaves	 undisclosed injury (DTD)
+64	2016-04-08	 Stars	 • Patrick Eaves	 	 returned to lineup
+65	2016-04-30	 Stars	 	 • Patrick Eaves	 foot injury (DTD)
+66	2016-05-09	 Stars	 • Patrick Eaves	 	 returned to lineup
+67	2016-10-21	 Stars	 	 • Patrick Eaves	 lower body injury (DTD)
+68	2016-10-25	 Stars	 • Patrick Eaves	 	 returned to lineup
+69	2017-05-03	 Ducks	 	 • Patrick Eaves	 right leg injury (out for season)
+70	2017-10-03	 Ducks	 	 • Patrick Eaves	 placed on IR with lower body injury
+71	2017-10-11	 Ducks	 • Patrick Eaves	 	 activated from IR
+72	2017-10-15	 Ducks	 	 • Patrick Eaves	 lower body injury (DTD)
+73	2017-10-20	 Ducks	 • Patrick Eaves	 	 returned to lineup
+74	2017-10-20	 Ducks	 	 • Patrick Eaves	 placed on IR with nervous system disorder (out for season)
+75	2018-10-02	 Ducks	 	 • Patrick Eaves	 placed on IR with shoulder injury
+76	2018-11-01	 Ducks	 • Patrick Eaves	 	 activated from IR
+77	2018-11-12	 Ducks	 	 • Patrick Eaves	 back spasms (DTD)
+78	2018-11-13	 Ducks	 	 • Patrick Eaves	 placed on IR with back spasms
+79	2019-02-02	 Ducks	 • Patrick Eaves	 	 activated from IR
+80	2019-02-05	 Ducks	 	 • Patrick Eaves	 placed on IR with illness
+81	2019-02-07	 Ducks	 	 • Patrick Eaves	 illness (DTD)
+82	2019-02-20	 Ducks	 • Patrick Eaves	 	 activated from IR
+83	2019-09-13	 Ducks	 	 • Patrick Eaves	 placed on IR with illness

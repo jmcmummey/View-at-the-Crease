@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-28	 Wild	 	 • Erik Haula	 head injury (DTD)
+1	2014-11-01	 Wild	 • Erik Haula	 	 returned to lineup
+2	2015-11-17	 Wild	 	 • Erik Haula	 illness (DTD)
+3	2015-11-18	 Wild	 • Erik Haula	 	 returned to lineup
+4	2016-01-03	 Wild	 	 • Erik Haula	 undisclosed (DTD)
+5	2016-01-05	 Wild	 • Erik Haula	 	 returned to lineup
+6	2016-04-10	 Wild	 	 • Erik Haula	 lower body injury (DTD)
+7	2016-04-16	 Wild	 • Erik Haula	 	 returned to lineup
+8	2016-10-21	 Wild	 	 • Erik Haula	 lower body injury (DTD)
+9	2016-11-10	 Wild	 • Erik Haula	 	 returned to lineup
+10	2016-12-18	 Wild	 	 • Erik Haula	 lower body injury (DTD)
+11	2016-12-27	 Wild	 • Erik Haula	 	 returned to lineup
+12	2017-04-18	 Wild	 	 • Erik Haula	 undisclosed injury (out for season)
+13	2017-10-14	 Golden Knights	 	 • Erik Haula	 placed on IR with lower body injury
+14	2017-10-27	 Golden Knights	 • Erik Haula	 	 activated from IR
+15	2018-02-13	 Golden Knights	 	 • Erik Haula	 flu (DTD)
+16	2018-02-15	 Golden Knights	 • Erik Haula	 	 returned to lineup
+17	2018-11-07	 Golden Knights	 	 • Erik Haula	 knee injury (surgery) (out for season)
+18	2018-11-14	 Golden Knights	 	 • Erik Haula	 placed on IR recovering from surgery on knee (out for season)
+19	2019-11-05	 Hurricanes	 	 • Erik Haula	 knee injury (DTD)
+20	2019-11-14	 Hurricanes	 • Erik Haula	 	 returned to lineup
+21	2019-11-18	 Hurricanes	 	 • Erik Haula	 knee injury (out indefinitely)
+22	2019-12-21	 Hurricanes	 • Erik Haula	 	 returned to lineup

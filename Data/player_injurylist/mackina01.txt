@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-03-06	 Avalanche	 	 • Nathan MacKinnon	 fractured foot (out for season)
+1	2016-03-19	 Avalanche	 	 • Nathan MacKinnon	 knee injury (DTD)
+2	2016-04-09	 Avalanche	 • Nathan MacKinnon	 	 returned to lineup
+3	2018-02-01	 Avalanche	 	 • Nathan MacKinnon	 upper body injury (out indefinitely)
+4	2018-02-14	 Avalanche	 	 • Nathan MacKinnon	 placed on IR with upper body injury
+5	2018-02-17	 Avalanche	 • Nathan MacKinnon	 	 activated from IR
+6	2020-03-11	 Avalanche	 	 • Nathan MacKinnon	 lower body injury (DTD)

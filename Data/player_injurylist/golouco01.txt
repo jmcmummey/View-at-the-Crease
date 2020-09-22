@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-11-02	 Blue Jackets	 	 • Cody Goloubef	 placed on IR with knee injury
+1	2014-12-10	 Blue Jackets	 • Cody Goloubef	 	 activated from IR
+2	2014-12-20	 Blue Jackets	 	 • Cody Goloubef	 sprained right knee (DTD)
+3	2015-01-04	 Blue Jackets	 • Cody Goloubef	 	 returned to lineup
+4	2015-11-21	 Blue Jackets	 	 • Cody Goloubef	 mouth/jaw injury (DTD)
+5	2015-11-24	 Blue Jackets	 	 • Cody Goloubef	 placed on IR with fractured jaw
+6	2016-01-05	 Blue Jackets	 • Cody Goloubef	 	 activated from IR
+7	2016-04-05	 Blue Jackets	 	 • Cody Goloubef	 oblique injury (out for season)
+8	2016-10-11	 Blue Jackets	 	 • Cody Goloubef	 placed on IR with oblique injury
+9	2016-10-20	 Blue Jackets	 • Cody Goloubef	 	 activated from IR
+10	2019-11-22	 Senators	 	 • Cody Goloubef	 undisclosed (DTD)
+11	2019-11-27	 Senators	 	 • Cody Goloubef	 placed on IR with undisclosed
+12	2019-12-07	 Senators	 • Cody Goloubef	 	 activated from IR

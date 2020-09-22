@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-01-09	 Maple Leafs	 	 • Martin Marincin	 illness (DTD)
+1	2016-01-13	 Maple Leafs	 • Martin Marincin	 	 returned to lineup
+2	2016-10-20	 Maple Leafs	 	 • Martin Marincin	 lower body injury (DTD)
+3	2016-10-27	 Maple Leafs	 • Martin Marincin	 	 returned to lineup
+4	2016-12-07	 Maple Leafs	 	 • Martin Marincin	 flu (DTD)
+5	2016-12-10	 Maple Leafs	 • Martin Marincin	 	 returned to lineup
+6	2016-12-11	 Maple Leafs	 	 • Martin Marincin	 undisclosed injury (DTD)
+7	2016-12-17	 Maple Leafs	 	 • Martin Marincin	 placed on IR with lower body injury
+8	2017-01-21	 Maple Leafs	 • Martin Marincin	 	 activated from IR
+9	2019-03-19	 Maple Leafs	 	 • Martin Marincin	 illness (DTD)
+10	2019-03-27	 Maple Leafs	 • Martin Marincin	 	 returned to lineup

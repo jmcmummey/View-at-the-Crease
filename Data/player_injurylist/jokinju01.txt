@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-10	 Stars	 	 • Jussi Jokinen	 lower body injury (DTD)
+1	2005-12-14	 Stars	 • Jussi Jokinen	 	 returned to lineup
+2	2007-04-19	 Stars	 	 • Jussi Jokinen	 upper body injury (DTD)
+3	2007-12-30	 Stars	 	 • Jussi Jokinen	 knee injury (DTD)
+4	2008-01-24	 Stars	 • Jussi Jokinen	 	 returned to lineup
+5	2009-12-05	 Hurricanes	 	 • Jussi Jokinen	 lower body injury (DTD)
+6	2009-12-07	 Hurricanes	 • Jussi Jokinen	 	 returned to lineup
+7	2010-12-29	 Hurricanes	 	 • Jussi Jokinen	 lower body / upper body (CBC) injury (DTD)
+8	2011-01-11	 Hurricanes	 • Jussi Jokinen	 	 returned to lineup
+9	2011-02-02	 Hurricanes	 	 • Jussi Jokinen	 lower body injury (DTD)
+10	2011-02-16	 Hurricanes	 • Jussi Jokinen	 	 returned to lineup
+11	2011-11-02	 Hurricanes	 	 • Jussi Jokinen	 lower body injury (DTD)
+12	2011-11-04	 Hurricanes	 	 • Jussi Jokinen	 left leg injury (out indefinitely)
+13	2011-11-11	 Hurricanes	 • Jussi Jokinen	 	 returned to lineup
+14	2014-04-05	 Penguins	 	 • Jussi Jokinen	 upper body injury (DTD)
+15	2014-04-06	 Penguins	 • Jussi Jokinen	 	 returned to lineup
+16	2014-11-28	 Panthers	 	 • Jussi Jokinen	 flu (DTD)
+17	2014-12-01	 Panthers	 • Jussi Jokinen	 	 returned to lineup
+18	2016-03-15	 Panthers	 	 • Jussi Jokinen	 lower body injury (DTD)
+19	2016-03-17	 Panthers	 • Jussi Jokinen	 	 returned to lineup
+20	2016-10-22	 Panthers	 	 • Jussi Jokinen	 knee injury (DTD)
+21	2016-11-05	 Panthers	 	 • Jussi Jokinen	 placed on IR with knee injury
+22	2016-11-10	 Panthers	 • Jussi Jokinen	 	 activated from IR
+23	2016-11-17	 Panthers	 	 • Jussi Jokinen	 illness (DTD)
+24	2016-11-19	 Panthers	 • Jussi Jokinen	 	 returned to lineup
+25	2017-04-05	 Panthers	 	 • Jussi Jokinen	 undisclosed injury (out for season)

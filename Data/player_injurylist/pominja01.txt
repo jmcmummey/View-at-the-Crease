@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-13	 Sabres	 	 • Jason Pominville	 concussion (out indefinitely)
+1	2010-11-03	 Sabres	 • Jason Pominville	 	 returned to lineup
+2	2011-04-23	 Sabres	 	 • Jason Pominville	 lacerated left leg (out for season)
+3	2013-04-24	 Wild	 	 • Jason Pominville	 concussion (DTD)
+4	2013-05-07	 Wild	 • Jason Pominville	 	 returned to lineup
+5	2016-03-09	 Wild	 	 • Jason Pominville	 lower body injury (DTD)
+6	2016-03-24	 Wild	 • Jason Pominville	 	 returned to lineup
+7	2017-02-27	 Wild	 	 • Jason Pominville	 mumps (DTD)
+8	2017-03-05	 Wild	 • Jason Pominville	 	 returned to lineup
+9	2018-12-02	 Sabres	 	 • Jason Pominville	 undisclosed (DTD)
+10	2018-12-08	 Sabres	 • Jason Pominville	 	 returned to lineup
+11	2018-12-18	 Sabres	 	 • Jason Pominville	 placed on IR with undisclosed injury
+12	2018-12-29	 Sabres	 • Jason Pominville	 	 activated from IR

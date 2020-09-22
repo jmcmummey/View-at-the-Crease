@@ -1,0 +1,50 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-09	 Blackhawks	 	 • Rene Bourque	 hip flexor injury (DTD)
+1	2005-12-15	 Blackhawks	 	 • Rene Bourque	 hip flexor injury (DTD)
+2	2005-12-16	 Blackhawks	 • Rene Bourque	 	 returned to lineup
+3	2006-11-13	 Blackhawks	 	 • Rene Bourque	 placed on IR with lacerated neck (out 4-6 weeks)
+4	2006-12-14	 Blackhawks	 • Rene Bourque	 	 activated from IR
+5	2007-01-02	 Blackhawks	 	 • Rene Bourque	 bruised ankle (DTD)
+6	2007-01-22	 Blackhawks	 • Rene Bourque	 	 returned to lineup
+7	2007-01-28	 Blackhawks	 	 • Rene Bourque	 ankle injury (out indefinitely)
+8	2007-02-20	 Blackhawks	 • Rene Bourque	 	 returned to lineup
+9	2007-03-01	 Blackhawks	 	 • Rene Bourque	 flu (DTD)
+10	2007-03-04	 Blackhawks	 • Rene Bourque	 	 returned to lineup
+11	2007-10-17	 Blackhawks	 	 • Rene Bourque	 groin injury (DTD)
+12	2007-10-23	 Blackhawks	 • Rene Bourque	 	 returned to lineup
+13	2007-10-25	 Blackhawks	 	 • Rene Bourque	 groin injury (DTD)
+14	2007-10-27	 Blackhawks	 • Rene Bourque	 	 returned to lineup
+15	2007-11-18	 Blackhawks	 	 • Rene Bourque	 broken thumb (out 3-5 weeks)
+16	2007-12-26	 Blackhawks	 • Rene Bourque	 	 returned to lineup
+17	2009-02-20	 Flames	 	 • Rene Bourque	 ankle injury (out indefinitely)
+18	2009-02-21	 Flames	 	 • Rene Bourque	 placed on IR with ankle injury
+19	2009-04-16	 Flames	 • Rene Bourque	 	 activated from IR
+20	2009-04-22	 Flames	 	 • Rene Bourque	 upper body injury (left game)
+21	2009-04-25	 Flames	 • Rene Bourque	 	 returned to lineup
+22	2009-11-21	 Flames	 	 • Rene Bourque	 undisclosed injury (out indefinitely)
+23	2009-11-22	 Flames	 	 • Rene Bourque	 placed on IR
+24	2009-12-03	 Flames	 • Rene Bourque	 	 activated from IR
+25	2010-02-06	 Flames	 	 • Rene Bourque	 shoulder injury (DTD)
+26	2010-03-03	 Flames	 • Rene Bourque	 	 returned to lineup
+27	2010-10-14	 Flames	 	 • Rene Bourque	 head injury (DTD)
+28	2010-10-19	 Flames	 • Rene Bourque	 	 returned to lineup
+29	2011-12-13	 Flames	 	 • Rene Bourque	 flu (DTD)
+30	2011-12-15	 Flames	 • Rene Bourque	 	 returned to lineup
+31	2013-02-23	 Canadiens	 	 • Rene Bourque	 flu / concussion (CBC) (DTD)
+32	2013-02-27	 Canadiens	 	 • Rene Bourque	 placed on IR with concussion
+33	2013-04-09	 Canadiens	 • Rene Bourque	 	 activated from IR
+34	2013-11-19	 Canadiens	 	 • Rene Bourque	 lower body injury (DTD)
+35	2013-11-27	 Canadiens	 • Rene Bourque	 	 returned to lineup
+36	2013-12-04	 Canadiens	 	 • Rene Bourque	 lower (CBC) / upper (Y) body injury (DTD)
+37	2013-12-12	 Canadiens	 	 • Rene Bourque	 placed on IR with upper body injury
+38	2013-12-17	 Canadiens	 • Rene Bourque	 	 activated from IR
+39	2015-03-24	 Blue Jackets	 	 • Rene Bourque	 upper body injury (out for season)
+40	2015-11-24	 Blue Jackets	 	 • Rene Bourque	 placed on IR with upper body injury
+41	2015-12-19	 Blue Jackets	 • Rene Bourque	 	 activated from IR
+42	2016-10-20	 Avalanche	 	 • Rene Bourque	 groin injury (DTD)
+43	2016-10-28	 Avalanche	 • Rene Bourque	 	 returned to lineup
+44	2017-01-21	 Avalanche	 	 • Rene Bourque	 lower body injury (DTD)
+45	2017-01-24	 Avalanche	 	 • Rene Bourque	 placed on IR with lower body injury
+46	2017-01-31	 Avalanche	 • Rene Bourque	 	 activated from IR
+47	2017-02-02	 Avalanche	 	 • Rene Bourque	 head injury (DTD)
+48	2017-02-24	 Avalanche	 • Rene Bourque	 	 returned to lineup

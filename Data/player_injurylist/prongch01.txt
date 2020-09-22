@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-02-25	 Blues	 • Chris Pronger	 	 activated from IR
+1	2002-09-10	 Blues	 	 • Chris Pronger	 recovering from surgery on wrist and knee (out indefinitely)
+2	2005-11-25	 Oilers	 	 • Chris Pronger	 bruised left knee (DTD)
+3	2005-11-29	 Oilers	 • Chris Pronger	 	 returned to lineup
+4	2007-01-01	 Ducks	 	 • Chris Pronger	 fractured left foot (out indefinitely)
+5	2007-01-28	 Ducks	 • Chris Pronger	 	 returned to lineup
+6	2007-03-07	 Ducks	 	 • Chris Pronger	 toe injury (out 2-3 weeks)
+7	2007-03-23	 Ducks	 • Chris Pronger	 	 returned to lineup
+8	2007-09-21	 Ducks	 	 • Chris Pronger	 separated shoulder (DTD)
+9	2008-02-27	 Ducks	 	 • Chris Pronger	 jaw injury (DTD)
+10	2008-03-05	 Ducks	 • Chris Pronger	 	 returned to lineup
+11	2010-10-07	 Flyers	 	 • Chris Pronger	 surgery on knee (DTD)
+12	2010-10-11	 Flyers	 • Chris Pronger	 	 returned to lineup
+13	2010-12-16	 Flyers	 	 • Chris Pronger	 placed on IR with surgery on right foot
+14	2011-01-20	 Flyers	 • Chris Pronger	 	 activated from IR
+15	2011-02-25	 Flyers	 	 • Chris Pronger	 hand injury (DTD)
+16	2011-03-03	 Flyers	 • Chris Pronger	 	 returned to lineup
+17	2011-03-10	 Flyers	 	 • Chris Pronger	 upper body injury (DTD)
+18	2011-04-24	 Flyers	 • Chris Pronger	 	 returned to lineup
+19	2011-05-02	 Flyers	 	 • Chris Pronger	 undisclosed injury (out for season)
+20	2011-10-25	 Flyers	 	 • Chris Pronger	 right eye injury (out indefinitely)
+21	2011-11-01	 Flyers	 	 • Chris Pronger	 placed on IR with right eye injury
+22	2011-11-09	 Flyers	 • Chris Pronger	 	 activated from IR
+23	2011-11-21	 Flyers	 	 • Chris Pronger	 illness (DTD)
+24	2011-11-28	 Flyers	 	 • Chris Pronger	 surgery on knee (out for season)
+25	2011-12-02	 Flyers	 	 • Chris Pronger	 placed on IR with surgery on knee (out for season)
+26	2013-01-13	 Flyers	 	 • Chris Pronger	 placed on IR with post-concussion syndrome (out for season)
+27	2013-09-30	 Flyers	 	 • Chris Pronger	 placed on IR with post-consussion (out for season)

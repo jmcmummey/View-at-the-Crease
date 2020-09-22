@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-12-08	 Canadiens	 	 • Greg Pateryn	 placed on IR with fractured ankle
+1	2017-01-31	 Canadiens	 • Greg Pateryn	 	 activated from IR
+2	2018-11-27	 Wild	 	 • Greg Pateryn	 illness (DTD)
+3	2018-11-29	 Wild	 • Greg Pateryn	 	 returned to lineup
+4	2019-10-02	 Wild	 	 • Greg Pateryn	 placed on IR with core muscle injury
+5	2019-12-06	 Wild	 	 • Greg Pateryn	 placed on IR with core muscle injury
+6	2020-01-09	 Wild	 • Greg Pateryn	 	 activated from IR
+7	2020-01-12	 Wild	 • Greg Pateryn	 	 activated from IR
+8	2020-07-11	 Wild	 	 • Greg Pateryn	 placed on IR with upper body injury

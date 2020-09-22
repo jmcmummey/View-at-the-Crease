@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-03-27	 Penguins	 	 • Brian Dumoulin	 upper body injury (DTD)
+1	2016-04-02	 Penguins	 • Brian Dumoulin	 	 returned to lineup
+2	2016-12-28	 Penguins	 	 • Brian Dumoulin	 placed on IR with fractured jaw
+3	2017-01-24	 Penguins	 • Brian Dumoulin	 	 activated from IR
+4	2018-01-04	 Penguins	 	 • Brian Dumoulin	 concussion (DTD)
+5	2018-01-07	 Penguins	 • Brian Dumoulin	 	 returned to lineup
+6	2019-02-24	 Penguins	 	 • Brian Dumoulin	 concussion (DTD)
+7	2019-03-05	 Penguins	 • Brian Dumoulin	 	 returned to lineup
+8	2019-04-02	 Penguins	 	 • Brian Dumoulin	 lower body injury (out for season)
+9	2019-10-19	 Penguins	 	 • Brian Dumoulin	 undisclosed (DTD)
+10	2019-10-21	 Penguins	 	 • Brian Dumoulin	 placed on IR with lower body injury
+11	2019-10-29	 Penguins	 • Brian Dumoulin	 	 activated from IR
+12	2019-12-01	 Penguins	 	 • Brian Dumoulin	 surgery on left ankle (out indefinitely)
+13	2019-12-04	 Penguins	 	 • Brian Dumoulin	 placed on IR with surgery on left ankle
+14	2020-03-03	 Penguins	 • Brian Dumoulin	 	 activated from IR

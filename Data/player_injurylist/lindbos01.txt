@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-12-11	 Flyers	 	 • Oskar Lindblom	 upper body injury (DTD)
+1	2019-12-15	 Flyers	 	 • Oskar Lindblom	 placed on IR with Ewing's sarcoma

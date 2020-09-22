@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-16	 Capitals	 	 • Steve Eminger	 ankle injury (DTD)
+1	2006-03-06	 Capitals	 • Steve Eminger	 	 returned to lineup
+2	2006-11-18	 Capitals	 	 • Steve Eminger	 undisclosed injury (DTD)
+3	2006-11-22	 Capitals	 • Steve Eminger	 	 returned to lineup
+4	2006-12-29	 Capitals	 	 • Steve Eminger	 stomach virus (DTD)
+5	2006-12-30	 Capitals	 • Steve Eminger	 	 returned to lineup
+6	2007-03-22	 Capitals	 	 • Steve Eminger	 head injury (DTD)
+7	2007-03-30	 Capitals	 • Steve Eminger	 	 returned to lineup
+8	2007-10-03	 Capitals	 	 • Steve Eminger	 ankle injury (DTD)
+9	2007-11-06	 Capitals	 • Steve Eminger	 	 returned to lineup
+10	2007-11-08	 Capitals	 	 • Steve Eminger	 ankle injury (DTD)
+11	2007-11-26	 Capitals	 • Steve Eminger	 	 returned to lineup
+12	2009-01-12	 Lightning	 	 • Steve Eminger	 undisclosed injury (DTD)
+13	2009-01-15	 Lightning	 • Steve Eminger	 	 returned to lineup
+14	2009-11-19	 Ducks	 	 • Steve Eminger	 back injury (DTD)
+15	2009-11-21	 Ducks	 • Steve Eminger	 	 returned to lineup
+16	2009-12-29	 Ducks	 	 • Steve Eminger	 flu (DTD)
+17	2010-01-03	 Ducks	 • Steve Eminger	 	 returned to lineup
+18	2010-12-11	 Rangers	 	 • Steve Eminger	 back injury (DTD)
+19	2010-12-12	 Rangers	 • Steve Eminger	 	 returned to lineup
+20	2011-12-18	 Rangers	 	 • Steve Eminger	 placed on IR with separated right shoulder
+21	2012-02-09	 Rangers	 • Steve Eminger	 	 activated from IR
+22	2012-03-16	 Rangers	 	 • Steve Eminger	 ankle injury (DTD)
+23	2012-04-28	 Rangers	 • Steve Eminger	 	 returned to lineup

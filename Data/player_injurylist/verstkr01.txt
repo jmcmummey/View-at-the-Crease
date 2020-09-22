@@ -1,0 +1,47 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-01-30	 Blackhawks	 • Kris Versteeg	 	 activated from IR
+1	2009-01-22	 Blackhawks	 	 • Kris Versteeg	 right hand finger injury (DTD)
+2	2009-01-31	 Blackhawks	 • Kris Versteeg	 	 returned to lineup
+3	2009-04-11	 Blackhawks	 	 • Kris Versteeg	 undisclosed (DTD)
+4	2009-04-12	 Blackhawks	 • Kris Versteeg	 	 returned to lineup
+5	2009-11-15	 Blackhawks	 	 • Kris Versteeg	 upper body injury (DTD)
+6	2009-11-19	 Blackhawks	 • Kris Versteeg	 	 returned to lineup
+7	2009-12-26	 Blackhawks	 	 • Kris Versteeg	 flu (DTD)
+8	2009-12-29	 Blackhawks	 • Kris Versteeg	 	 returned to lineup
+9	2010-10-28	 Maple Leafs	 	 • Kris Versteeg	 back injury (DTD)
+10	2010-10-30	 Maple Leafs	 • Kris Versteeg	 	 returned to lineup
+11	2011-01-13	 Maple Leafs	 	 • Kris Versteeg	 upper body injury (DTD)
+12	2011-01-19	 Maple Leafs	 • Kris Versteeg	 	 returned to lineup
+13	2011-12-01	 Panthers	 	 • Kris Versteeg	 fractured nose (DTD)
+14	2012-01-31	 Panthers	 	 • Kris Versteeg	 flu (DTD)
+15	2012-02-03	 Panthers	 • Kris Versteeg	 	 returned to lineup
+16	2012-02-28	 Panthers	 	 • Kris Versteeg	 lower body injury (DTD)
+17	2012-03-17	 Panthers	 • Kris Versteeg	 	 returned to lineup
+18	2013-01-19	 Panthers	 	 • Kris Versteeg	 placed on IR with surgery on hip/groin
+19	2013-02-13	 Panthers	 	 • Kris Versteeg	 chest injury (DTD)
+20	2013-02-24	 Panthers	 	 • Kris Versteeg	 placed on IR with chest injury
+21	2013-03-08	 Panthers	 • Kris Versteeg	 	 activated from IR
+22	2013-03-13	 Panthers	 	 • Kris Versteeg	 placed on IR with lower body injury (out for season)
+23	2014-04-27	 Blackhawks	 	 • Kris Versteeg	 illness (DTD)
+24	2014-05-04	 Blackhawks	 • Kris Versteeg	 	 returned to lineup
+25	2014-10-08	 Blackhawks	 	 • Kris Versteeg	 lower body injury (DTD)
+26	2014-10-21	 Blackhawks	 • Kris Versteeg	 	 returned to lineup
+27	2015-01-02	 Blackhawks	 	 • Kris Versteeg	 left hand injury (DTD)
+28	2015-01-25	 Blackhawks	 	 • Kris Versteeg	 placed on IR with left hand injury
+29	2015-02-11	 Blackhawks	 • Kris Versteeg	 	 activated from IR
+30	2015-05-01	 Blackhawks	 	 • Kris Versteeg	 lower body injury (DTD)
+31	2015-05-06	 Blackhawks	 • Kris Versteeg	 	 returned to lineup
+32	2016-02-09	 Hurricanes	 	 • Kris Versteeg	 illness (DTD)
+33	2016-03-20	 Kings	 	 • Kris Versteeg	 upper body injury (DTD)
+34	2016-04-02	 Kings	 • Kris Versteeg	 	 returned to lineup
+35	2016-11-04	 Flames	 	 • Kris Versteeg	 placed on IR with groin injury
+36	2016-11-23	 Flames	 • Kris Versteeg	 	 returned to lineup
+37	2016-11-25	 Flames	 	 • Kris Versteeg	 undisclosed injury (DTD)
+38	2016-11-27	 Flames	 • Kris Versteeg	 	 returned to lineup
+39	2016-12-08	 Flames	 	 • Kris Versteeg	 general soreness (DTD)
+40	2016-12-14	 Flames	 • Kris Versteeg	 	 returned to lineup
+41	2017-11-25	 Flames	 	 • Kris Versteeg	 lower body injury (DTD)
+42	2017-11-25	 Flames	 	 • Kris Versteeg	 placed on IR with lower body injury
+43	2018-03-13	 Flames	 	 • Kris Versteeg	 surgery on hip (out indefinitely)
+44	2018-03-14	 Flames	 • Kris Versteeg	 	 activated from IR
+45	2018-03-23	 Flames	 	 • Kris Versteeg	 hip injury (out for season)

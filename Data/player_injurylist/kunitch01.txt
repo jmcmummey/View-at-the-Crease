@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-12	 Ducks	 	 • Chris Kunitz	 left hand injury (DTD)
+1	2006-11-15	 Ducks	 • Chris Kunitz	 	 returned to lineup
+2	2007-05-13	 Ducks	 	 • Chris Kunitz	 broken right hand (DTD)
+3	2007-06-02	 Ducks	 • Chris Kunitz	 	 returned to lineup
+4	2007-06-04	 Ducks	 	 • Chris Kunitz	 abdominal injury (DTD)
+5	2007-06-06	 Ducks	 • Chris Kunitz	 	 returned to lineup
+6	2009-11-14	 Penguins	 	 • Chris Kunitz	 lower body injury (out indefinitely)
+7	2009-11-20	 Penguins	 	 • Chris Kunitz	 placed on IR
+8	2009-12-12	 Penguins	 • Chris Kunitz	 	 activated from IR
+9	2010-01-05	 Penguins	 	 • Chris Kunitz	 torn abdominal muscle (out indefinitely)
+10	2010-01-06	 Penguins	 	 • Chris Kunitz	 surgery to repair torn abdominal muscle (out indefinitely)
+11	2010-02-07	 Penguins	 • Chris Kunitz	 	 activated from IR
+12	2010-04-06	 Penguins	 	 • Chris Kunitz	 shoulder injury (out for season)
+13	2010-12-14	 Penguins	 	 • Chris Kunitz	 undisclosed injury (DTD)
+14	2010-12-20	 Penguins	 • Chris Kunitz	 	 returned to lineup
+15	2011-02-08	 Penguins	 	 • Chris Kunitz	 placed on IR with lower body injury
+16	2011-03-02	 Penguins	 	 • Chris Kunitz	 lower body injury (DTD)
+17	2011-03-08	 Penguins	 • Chris Kunitz	 	 returned to lineup
+18	2014-03-15	 Penguins	 	 • Chris Kunitz	 leg injury (DTD)
+19	2014-03-18	 Penguins	 • Chris Kunitz	 	 returned to lineup
+20	2014-04-06	 Penguins	 	 • Chris Kunitz	 lower body injury (DTD)
+21	2014-04-09	 Penguins	 • Chris Kunitz	 	 returned to lineup
+22	2014-04-12	 Penguins	 	 • Chris Kunitz	 undisclosed (DTD)
+23	2014-04-13	 Penguins	 • Chris Kunitz	 	 returned to lineup
+24	2014-12-02	 Penguins	 	 • Chris Kunitz	 placed on IR with fractured foot
+25	2014-12-20	 Penguins	 • Chris Kunitz	 	 activated from IR
+26	2016-01-22	 Penguins	 	 • Chris Kunitz	 lower body injury (DTD)
+27	2016-02-02	 Penguins	 • Chris Kunitz	 	 returned to lineup
+28	2016-11-21	 Penguins	 	 • Chris Kunitz	 placed on IR with lower body injury
+29	2016-12-03	 Penguins	 • Chris Kunitz	 	 activated from IR
+30	2017-04-01	 Penguins	 	 • Chris Kunitz	 lower body injury (DTD)
+31	2017-04-27	 Penguins	 • Chris Kunitz	 	 returned to lineup

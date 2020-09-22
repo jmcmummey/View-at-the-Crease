@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-03-31	 Red Wings	 	 • Nicklas Lidstrom	 strained lower back (DTD)
+1	2007-04-03	 Red Wings	 • Nicklas Lidstrom	 	 returned to lineup
+2	2007-04-05	 Red Wings	 	 • Nicklas Lidstrom	 sore back (DTD)
+3	2007-04-07	 Red Wings	 • Nicklas Lidstrom	 	 returned to lineup
+4	2008-02-21	 Red Wings	 	 • Nicklas Lidstrom	 sprained knee (out 2-3 weeks)
+5	2008-03-09	 Red Wings	 • Nicklas Lidstrom	 	 returned to lineup
+6	2008-12-27	 Red Wings	 	 • Nicklas Lidstrom	 left ankle injury (DTD)
+7	2009-01-01	 Red Wings	 • Nicklas Lidstrom	 	 returned to lineup
+8	2009-01-24	 Red Wings	 	 • Nicklas Lidstrom	 ankle injury (DTD)
+9	2009-05-24	 Red Wings	 	 • Nicklas Lidstrom	 lower body injury (DTD)
+10	2009-05-30	 Red Wings	 • Nicklas Lidstrom	 	 returned to lineup
+11	2012-01-25	 Red Wings	 	 • Nicklas Lidstrom	 flu (DTD)
+12	2012-01-31	 Red Wings	 • Nicklas Lidstrom	 	 returned to lineup
+13	2012-02-27	 Red Wings	 	 • Nicklas Lidstrom	 ankle injury (DTD)
+14	2012-03-24	 Red Wings	 • Nicklas Lidstrom	 	 returned to lineup

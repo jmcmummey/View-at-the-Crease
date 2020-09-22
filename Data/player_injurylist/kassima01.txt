@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-01	 Wild	 	 • Matt Kassian	 placed on IR with finger injury
+1	2011-10-10	 Wild	 • Matt Kassian	 	 activated from IR
+2	2012-03-22	 Wild	 	 • Matt Kassian	 strained groin (out for season)

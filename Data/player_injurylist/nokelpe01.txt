@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-27	 Islanders	 	 • Petteri Nokelainen	 sprained ankle (DTD)
+1	2005-10-29	 Islanders	 • Petteri Nokelainen	 	 returned to lineup
+2	2005-11-03	 Islanders	 	 • Petteri Nokelainen	 knee injury (out indefinitely)
+3	2006-03-29	 Islanders	 • Petteri Nokelainen	 	 activated from IR
+4	2006-04-05	 Islanders	 	 • Petteri Nokelainen	 knee surgery (out for season)
+5	2008-02-21	 Bruins	 	 • Petteri Nokelainen	 flu (DTD)
+6	2008-02-23	 Bruins	 • Petteri Nokelainen	 	 returned to lineup
+7	2008-12-13	 Bruins	 	 • Petteri Nokelainen	 arm injury (DTD)
+8	2009-01-06	 Bruins	 • Petteri Nokelainen	 	 returned to lineup
+9	2009-01-28	 Bruins	 	 • Petteri Nokelainen	 undisclosed injury (DTD)
+10	2009-02-05	 Bruins	 • Petteri Nokelainen	 	 returned to lineup
+11	2009-02-12	 Bruins	 	 • Petteri Nokelainen	 eye contusion (DTD)
+12	2009-02-27	 Bruins	 	 • Petteri Nokelainen	 placed on IR with eye injury
+13	2009-03-06	 Ducks	 • Petteri Nokelainen	 	 activated from IR
+14	2009-04-25	 Ducks	 	 • Petteri Nokelainen	 upper body injury (DTD)
+15	2009-04-25	 Ducks	 • Petteri Nokelainen	 	 returned to lineup
+16	2009-10-03	 Ducks	 	 • Petteri Nokelainen	 abdominal injury (DTD)
+17	2009-10-10	 Ducks	 • Petteri Nokelainen	 	 returned to lineup
+18	2012-01-25	 Canadiens	 	 • Petteri Nokelainen	 placed on IR with leg injury
+19	2012-02-24	 Canadiens	 • Petteri Nokelainen	 	 activated from IR
+20	2012-04-04	 Canadiens	 	 • Petteri Nokelainen	 upper body injury (out for season)
+21	2013-01-19	 Canadiens	 	 • Petteri Nokelainen	 placed on IR with back injury
+22	2013-03-15	 Canadiens	 • Petteri Nokelainen	 	 activated from IR

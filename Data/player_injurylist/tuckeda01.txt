@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-14	 Maple Leafs	 	 • Darcy Tucker	 rib injury (DTD)
+1	2006-01-28	 Maple Leafs	 • Darcy Tucker	 	 returned to lineup
+2	2006-12-29	 Maple Leafs	 	 • Darcy Tucker	 right foot injury (DTD)
+3	2007-01-01	 Maple Leafs	 • Darcy Tucker	 	 returned to lineup
+4	2007-01-04	 Maple Leafs	 	 • Darcy Tucker	 foot injury (DTD)
+5	2007-03-03	 Maple Leafs	 • Darcy Tucker	 	 returned to lineup
+6	2007-10-23	 Maple Leafs	 	 • Darcy Tucker	 knee injury (out indefinitely)
+7	2007-11-09	 Maple Leafs	 • Darcy Tucker	 	 returned to lineup
+8	2007-12-06	 Maple Leafs	 	 • Darcy Tucker	 back injury (DTD)
+9	2007-12-08	 Maple Leafs	 • Darcy Tucker	 	 returned to lineup
+10	2008-11-25	 Avalanche	 	 • Darcy Tucker	 placed on IR with knee injury
+11	2008-12-18	 Avalanche	 • Darcy Tucker	 	 activated from IR
+12	2009-03-02	 Avalanche	 	 • Darcy Tucker	 undisclosed injury (DTD)
+13	2009-03-04	 Avalanche	 • Darcy Tucker	 	 returned to lineup
+14	2009-03-18	 Avalanche	 	 • Darcy Tucker	 tight back (DTD)
+15	2009-03-29	 Avalanche	 • Darcy Tucker	 	 returned to lineup
+16	2009-10-24	 Avalanche	 	 • Darcy Tucker	 concussion (DTD)
+17	2009-10-26	 Avalanche	 	 • Darcy Tucker	 placed on IR with concussion
+18	2009-11-11	 Avalanche	 • Darcy Tucker	 	 activated from IR
+19	2010-03-09	 Avalanche	 	 • Darcy Tucker	 illness (DTD)
+20	2010-03-11	 Avalanche	 • Darcy Tucker	 	 returned to lineup

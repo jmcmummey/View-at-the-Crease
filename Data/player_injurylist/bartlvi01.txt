@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-03-20	 Canadiens	 	 • Victor Bartley	 lower body injury (out for season)
+1	2016-10-03	 Wild	 	 • Victor Bartley	 torn triceps (DTD)
+2	2016-10-11	 Wild	 	 • Victor Bartley	 placed on IR with torn triceps
+3	2017-04-14	 Wild	 • Victor Bartley	 	 activated from IR

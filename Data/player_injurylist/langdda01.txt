@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-12-01	 Rangers	 	 • Darren Langdon	 hernia (out indefinitely)
+1	2001-02-17	 Hurricanes	 	 • Darren Langdon	 placed on IR with strained groin
+2	2006-03-14	 Devils	 	 • Darren Langdon	 groin injury (out indefinitely)

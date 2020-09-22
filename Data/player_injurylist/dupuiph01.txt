@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-18	 Avalanche	 	 • Philippe Dupuis	 foot injury (DTD)
+1	2011-03-22	 Avalanche	 	 • Philippe Dupuis	 illness (DTD)
+2	2011-03-26	 Avalanche	 • Philippe Dupuis	 	 returned to lineup
+3	2011-12-21	 Maple Leafs	 	 • Philippe Dupuis	 placed on IR with upper body injury
+4	2012-01-03	 Maple Leafs	 • Philippe Dupuis	 	 activated from IR

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-23	 Penguins	 	 • Adam Johnson (b. 1994-06-22)	 upper body injury (DTD)
+1	2019-10-28	 Penguins	 • Adam Johnson (b. 1994-06-22)	 	 returned to lineup

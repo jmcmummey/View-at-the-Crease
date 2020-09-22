@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-10-13	 Avalanche	 	 • Tyson Jost	 knee injury (DTD)
+1	2017-10-17	 Avalanche	 • Tyson Jost	 	 returned to lineup
+2	2017-10-20	 Avalanche	 	 • Tyson Jost	 placed on IR with lower body injury
+3	2017-11-16	 Avalanche	 • Tyson Jost	 	 activated from IR
+4	2018-01-17	 Avalanche	 	 • Tyson Jost	 leg injury (DTD)
+5	2018-01-20	 Avalanche	 • Tyson Jost	 	 returned to lineup
+6	2018-10-27	 Avalanche	 	 • Tyson Jost	 head injury (DTD)
+7	2018-11-01	 Avalanche	 	 • Tyson Jost	 placed on IR with head injury
+8	2018-11-09	 Avalanche	 • Tyson Jost	 	 activated from IR
+9	2019-11-16	 Avalanche	 	 • Tyson Jost	 upper body injury (DTD)
+10	2019-11-23	 Avalanche	 • Tyson Jost	 	 returned to lineup

@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-12-14	 Penguins	 	 • Aleksey Morozov / Alexei Morozov	 bruised shoulder (DTD)
+1	2001-12-26	 Penguins	 • Aleksey Morozov / Alexei Morozov	 	 returned to lineup
+2	2002-01-05	 Penguins	 	 • Aleksey Morozov / Alexei Morozov	 bruised shoulder (DTD)
+3	2002-01-12	 Penguins	 • Aleksey Morozov / Alexei Morozov	 	 returned to lineup
+4	2002-12-12	 Penguins	 	 • Aleksey Morozov / Alexei Morozov	 placed on IR with fractured wrist (out for season)

@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-05	 Canucks	 	 • Steven Pinizzotto / Steve Pinizzotto	 placed on IR with shoulder injury (out for season)
+1	2013-01-19	 Canucks	 	 • Steven Pinizzotto / Steve Pinizzotto	 placed on IR with groin injury
+2	2013-03-21	 Canucks	 	 • Steven Pinizzotto / Steve Pinizzotto	 illness (DTD)
+3	2013-09-24	 Panthers	 	 • Steven Pinizzotto / Steve Pinizzotto	 hip injury (DTD)
+4	2013-09-30	 Panthers	 	 • Steven Pinizzotto / Steve Pinizzotto	 placed on IR with hip injury
+5	2013-11-07	 Panthers	 • Steven Pinizzotto / Steve Pinizzotto	 	 activated from IR

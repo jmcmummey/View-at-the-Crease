@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-05	 Sabres	 	 • Jeff Jillson	 quadricep injury (DTD)
+1	2005-10-15	 Sabres	 • Jeff Jillson	 	 returned to lineup

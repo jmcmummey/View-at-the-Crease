@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-12-11	 Thrashers	 • Marc Savard	 	 activated from IR
+1	2003-11-23	 Thrashers	 • Marc Savard	 	 activated from IR
+2	2004-01-23	 Thrashers	 	 • Marc Savard	 placed on IR
+3	2004-01-30	 Thrashers	 • Marc Savard	 	 activated from IR
+4	2007-10-10	 Bruins	 	 • Marc Savard	 groin injury (DTD)
+5	2007-10-12	 Bruins	 • Marc Savard	 	 returned to lineup
+6	2008-03-25	 Bruins	 	 • Marc Savard	 back injury (DTD)
+7	2008-04-10	 Bruins	 • Marc Savard	 	 returned to lineup
+8	2009-05-12	 Bruins	 	 • Marc Savard	 right knee injury (DTD)
+9	2009-10-21	 Bruins	 	 • Marc Savard	 placed on IR with fractured left foot
+10	2009-11-23	 Bruins	 • Marc Savard	 	 activated from IR
+11	2010-01-07	 Bruins	 	 • Marc Savard	 right knee injury (DTD
+12	2010-01-29	 Bruins	 • Marc Savard	 	 activated from IR
+13	2010-03-08	 Bruins	 	 • Marc Savard	 concussion (out indefinitely)
+14	2010-05-01	 Bruins	 • Marc Savard	 	 returned to lineup
+15	2010-09-17	 Bruins	 	 • Marc Savard	 post-concussion syndrome (out indefinitely)
+16	2010-12-02	 Bruins	 • Marc Savard	 	 activated from IR
+17	2011-01-23	 Bruins	 	 • Marc Savard	 concussion (DTD)
+18	2011-02-07	 Bruins	 	 • Marc Savard	 placed on IR with post-concussion syndrome
+19	2013-01-15	 Bruins	 	 • Marc Savard	 placed on IR with post-concussion syndrome (out for season and all of 2013-14 season)
+20	2014-10-06	 Bruins	 	 • Marc Savard	 placed on IR with post-concussion syndrome (out for season)
+21	2015-10-08	 Panthers	 	 • Marc Savard	 placed on IR with post-concussion syndrome (out for season)
+22	2016-10-10	 Devils	 	 • Marc Savard	 placed on IR with post-concussion syndrome

@@ -1,0 +1,36 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-01-18	 Ducks	 	 • Sami Vatanen	 placed on IR with foot injury
+1	2013-01-25	 Ducks	 • Sami Vatanen	 	 activated from IR
+2	2013-11-06	 Ducks	 	 • Sami Vatanen	 upper body injury (DTD)
+3	2013-11-08	 Ducks	 • Sami Vatanen	 	 returned to lineup
+4	2015-02-16	 Ducks	 	 • Sami Vatanen	 placed on IR with lower body injury
+5	2015-03-20	 Ducks	 • Sami Vatanen	 	 activated from IR
+6	2016-03-10	 Ducks	 	 • Sami Vatanen	 upper body injury (DTD)
+7	2016-03-28	 Ducks	 • Sami Vatanen	 	 returned to lineup
+8	2016-04-07	 Ducks	 	 • Sami Vatanen	 illness (out for season)
+9	2016-12-27	 Ducks	 	 • Sami Vatanen	 illness (DTD)
+10	2017-01-01	 Ducks	 • Sami Vatanen	 	 returned to lineup
+11	2017-02-04	 Ducks	 	 • Sami Vatanen	 lower body injury (DTD)
+12	2017-02-17	 Ducks	 • Sami Vatanen	 	 returned to lineup
+13	2017-04-02	 Ducks	 	 • Sami Vatanen	 upper body injury (DTD)
+14	2017-04-05	 Ducks	 • Sami Vatanen	 	 returned to lineup
+15	2017-04-15	 Ducks	 	 • Sami Vatanen	 upper body injury (DTD)
+16	2017-04-30	 Ducks	 • Sami Vatanen	 	 returned to lineup
+17	2017-10-03	 Ducks	 	 • Sami Vatanen	 placed on IR with shoulder injury
+18	2017-10-28	 Ducks	 • Sami Vatanen	 	 activated from IR
+19	2018-04-21	 Devils	 • Sami Vatanen	 	 upper body injury (out for season)
+20	2018-11-17	 Devils	 	 • Sami Vatanen	 placed on IR with lower body injury
+21	2018-11-23	 Devils	 • Sami Vatanen	 	 activated from IR
+22	2019-01-29	 Devils	 	 • Sami Vatanen	 placed on IR with concussion
+23	2019-02-27	 Devils	 • Sami Vatanen	 	 activated from IR
+24	2019-03-05	 Devils	 	 • Sami Vatanen	 illness (DTD)
+25	2019-03-23	 Devils	 • Sami Vatanen	 	 returned to lineup
+26	2019-03-27	 Devils	 	 • Sami Vatanen	 illness (out for season)
+27	2019-11-09	 Devils	 	 • Sami Vatanen	 upper body injury (DTD)
+28	2019-11-15	 Devils	 	 • Sami Vatanen	 placed on IR with upper body injury
+29	2019-11-19	 Devils	 • Sami Vatanen	 	 activated from IR
+30	2020-02-04	 Devils	 	 • Sami Vatanen	 right leg injury (DTD)
+31	2020-02-13	 Devils	 	 • Sami Vatanen	 placed on IR with right leg injury
+32	2020-07-13	 Hurricanes	 • Sami Vatanen	 	 activated from IR
+33	2020-08-12	 Hurricanes	 	 • Sami Vatanen	 undisclosed (DTD)
+34	2020-08-13	 Hurricanes	 • Sami Vatanen	 	 returned to lineup

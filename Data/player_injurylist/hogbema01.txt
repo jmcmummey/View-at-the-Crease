@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-11-10	 Senators	 	 • Marcus Hogberg	 placed on IR with head, neck injury
+1	2017-11-13	 Senators	 • Marcus Hogberg	 	 activated from IR

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-03-02	 Devils	 	 • Nathan Bastian	 upper body injury (DTD)
+1	2019-04-01	 Devils	 • Nathan Bastian	 	 returned to lineup

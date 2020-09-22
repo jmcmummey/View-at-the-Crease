@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-05	 Blue Jackets	 	 • Michael Blunden / Mike Blunden	 upper body injry (DTD)
+1	2009-11-13	 Blue Jackets	 • Michael Blunden / Mike Blunden	 	 returned to lineup
+2	2012-02-03	 Canadiens	 	 • Michael Blunden / Mike Blunden	 placed on IR with lower body injury
+3	2012-03-16	 Canadiens	 • Michael Blunden / Mike Blunden	 	 activated from IR
+4	2016-04-29	 Lightning	 	 • Michael Blunden / Mike Blunden	 upper body injury (DTD)
+5	2016-05-03	 Lightning	 • Michael Blunden / Mike Blunden	 	 returned to lineup

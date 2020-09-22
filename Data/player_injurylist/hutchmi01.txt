@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-02-08	 Jets	 	 • Michael Hutchinson	 concussion (out indefinitely)
+1	2018-02-08	 Jets	 	 • Michael Hutchinson	 placed on IR with concussion
+2	2018-02-22	 Jets	 • Michael Hutchinson	 	 activated from IR
+3	2018-03-14	 Jets	 	 • Michael Hutchinson	 concussion (out indefinitely)
+4	2018-03-27	 Jets	 • Michael Hutchinson	 	 returned to lineup

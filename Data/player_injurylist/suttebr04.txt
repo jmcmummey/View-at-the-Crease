@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-01-02	 Wild	 	 • Brett Sutter	 illness (DTD)
+1	2015-01-06	 Wild	 • Brett Sutter	 	 returned to lineup

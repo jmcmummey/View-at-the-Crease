@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-10	 Islanders	 	 • Josh Bailey	 lower body injury (DTD)
+1	2008-11-11	 Islanders	 • Josh Bailey	 	 returned to lineup
+2	2010-02-04	 Islanders	 	 • Josh Bailey	 upper body injury (DTD)
+3	2010-03-02	 Islanders	 • Josh Bailey	 	 returned to lineup
+4	2010-04-10	 Islanders	 	 • Josh Bailey	 facial injury (out for season)
+5	2010-10-19	 Islanders	 	 • Josh Bailey	 hip flexor injury (DTD)
+6	2010-10-27	 Islanders	 • Josh Bailey	 	 returned to lineup
+7	2012-02-24	 Islanders	 	 • Josh Bailey	 back spasms (DTD)
+8	2012-02-28	 Islanders	 • Josh Bailey	 	 returned to lineup
+9	2013-01-16	 Islanders	 	 • Josh Bailey	 knee injury (DTD)
+10	2013-02-09	 Islanders	 • Josh Bailey	 	 returned to lineup
+11	2013-12-29	 Islanders	 	 • Josh Bailey	 upper body injury (DTD)
+12	2014-01-06	 Islanders	 • Josh Bailey	 	 returned to lineup
+13	2014-10-24	 Islanders	 	 • Josh Bailey	 placed on IR with fractured hand
+14	2014-11-13	 Islanders	 • Josh Bailey	 	 activated from IR
+15	2014-12-04	 Islanders	 	 • Josh Bailey	 undisclosed (DTD)
+16	2014-12-09	 Islanders	 • Josh Bailey	 	 returned to lineup
+17	2014-12-11	 Islanders	 	 • Josh Bailey	 lower body injury (DTD)
+18	2014-12-13	 Islanders	 • Josh Bailey	 	 returned to lineup
+19	2015-01-06	 Islanders	 	 • Josh Bailey	 upper body injury (DTD)
+20	2015-01-09	 Islanders	 • Josh Bailey	 	 returned to lineup
+21	2016-04-25	 Islanders	 	 • Josh Bailey	 upper body injury (DTD)
+22	2016-05-03	 Islanders	 • Josh Bailey	 	 returned to lineup
+23	2018-01-07	 Islanders	 	 • Josh Bailey	 lower body injury (DTD)
+24	2018-01-18	 Islanders	 • Josh Bailey	 	 returned to lineup
+25	2018-03-30	 Islanders	 	 • Josh Bailey	 upper body injury (DTD)
+26	2018-04-03	 Islanders	 • Josh Bailey	 	 returned to lineup

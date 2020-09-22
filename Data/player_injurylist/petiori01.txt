@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-09-27	 Kings	 	 • Richard Petiot	 placed on IR
+1	2005-10-04	 Kings	 	 • Richard Petiot	 placed on IR with rib injury
+2	2005-10-11	 Kings	 • Richard Petiot	 	 activated from IR
+3	2006-10-03	 Kings	 	 • Richard Petiot	 placed on IR with sprained knee
+4	2006-10-06	 Kings	 	 • Richard Petiot	 surgery on knee (out indefinitely)
+5	2007-03-03	 Kings	 • Richard Petiot	 	 activated from IR
+6	2009-04-03	 Lightning	 	 • Richard Petiot	 left shoulder injury (DTD)

@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-11	 Panthers	 	 • Anthony Stewart	 dislocated right wrist (out for season)
+1	2005-11-12	 Panthers	 	 • Anthony Stewart	 placed on IR with dislocated right wrist (out for season)
+2	2005-11-12	 Panthers	 	 • Anthony Stewart	 surgery on right wrist to insert pins (out for season)
+3	2005-12-13	 Panthers	 	 • Anthony Stewart	 surgery on right wrist to insert pins (out for season)
+4	2006-01-12	 Panthers	 	 • Anthony Stewart	 surgery on right wrist (out for season)
+5	2011-10-25	 Hurricanes	 	 • Anthony Stewart	 lower body injury (DTD)
+6	2011-10-28	 Hurricanes	 • Anthony Stewart	 	 returned to lineup

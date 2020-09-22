@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-10	 Capitals	 	 • Tomas Fleischmann	 lower body injury (DTD)
+1	2008-12-16	 Capitals	 • Tomas Fleischmann	 	 returned to lineup
+2	2008-12-26	 Capitals	 	 • Tomas Fleischmann	 flu (DTD)
+3	2008-12-28	 Capitals	 	 • Tomas Fleischmann	 pneumonia (DTD)
+4	2009-01-09	 Capitals	 • Tomas Fleischmann	 	 returned to lineup
+5	2009-09-30	 Capitals	 	 • Tomas Fleischmann	 placed on IR with blood clot in leg
+6	2009-10-29	 Capitals	 • Tomas Fleischmann	 	 activated from IR
+7	2011-01-20	 Avalanche	 	 • Tomas Fleischmann	 placed on IR with pulmonary embolism (out for season)
+8	2013-10-27	 Panthers	 	 • Tomas Fleischmann	 illness (DTD)
+9	2013-11-01	 Panthers	 • Tomas Fleischmann	 	 returned to lineup
+10	2015-01-02	 Panthers	 	 • Tomas Fleischmann	 undisclosed (DTD)
+11	2015-01-08	 Panthers	 • Tomas Fleischmann	 	 returned to lineup

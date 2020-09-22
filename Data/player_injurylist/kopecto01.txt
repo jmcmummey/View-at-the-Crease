@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-12-14	 Red Wings	 	 • Tomas Kopecky	 broken collarbone (out indefinitely)
+1	2006-12-15	 Red Wings	 	 • Tomas Kopecky	 surgery to repair broken collarbone (out 10-12 weeks)
+2	2006-12-16	 Red Wings	 	 • Tomas Kopecky	 placed on IR recovering from surgery on collarbone
+3	2007-03-20	 Red Wings	 	 • Tomas Kopecky	 broken collarbone (out for season)
+4	2007-11-22	 Red Wings	 	 • Tomas Kopecky	 shoulder injury (DTD)
+5	2007-11-29	 Red Wings	 • Tomas Kopecky	 	 returned to lineup
+6	2008-04-04	 Red Wings	 	 • Tomas Kopecky	 torn MCL in knee (out indefinitely)
+7	2009-05-08	 Red Wings	 	 • Tomas Kopecky	 eye/facial injuries (out for season)
+8	2010-04-07	 Blackhawks	 	 • Tomas Kopecky	 upper body injury (DTD)
+9	2010-04-09	 Blackhawks	 • Tomas Kopecky	 	 returned to lineup
+10	2010-10-23	 Blackhawks	 	 • Tomas Kopecky	 upper body injury (DTD)
+11	2011-04-14	 Blackhawks	 	 • Tomas Kopecky	 upper body injury (out for season)
+12	2011-11-01	 Panthers	 	 • Tomas Kopecky	 knee injury (DTD)
+13	2011-11-25	 Panthers	 	 • Tomas Kopecky	 back spasms (DTD)
+14	2011-11-26	 Panthers	 • Tomas Kopecky	 	 returned to lineup
+15	2012-02-28	 Panthers	 	 • Tomas Kopecky	 undisclosed (DTD)
+16	2012-03-01	 Panthers	 • Tomas Kopecky	 	 returned to lineup
+17	2013-04-21	 Panthers	 	 • Tomas Kopecky	 upper body injury (DTD)
+18	2013-04-23	 Panthers	 • Tomas Kopecky	 	 returned to lineup
+19	2013-11-22	 Panthers	 	 • Tomas Kopecky	 upper body injury (DTD)
+20	2013-11-22	 Panthers	 	 • Tomas Kopecky	 placed on IR with hand injury (CBS)
+21	2013-11-25	 Panthers	 	 • Tomas Kopecky	 placed on IR with upper body injury (CBC)
+22	2013-12-05	 Panthers	 • Tomas Kopecky	 	 activated from IR
+23	2014-01-19	 Panthers	 	 • Tomas Kopecky	 upper body injury (DTD)
+24	2014-01-26	 Panthers	 	 • Tomas Kopecky	 placed on IR with upper body injury
+25	2014-01-28	 Panthers	 • Tomas Kopecky	 	 activated from IR
+26	2014-02-27	 Panthers	 	 • Tomas Kopecky	 placed on IR with concussion (out for season)
+27	2014-12-30	 Panthers	 	 • Tomas Kopecky	 placed on IR with undisclosed injury
+28	2015-01-08	 Panthers	 • Tomas Kopecky	 	 activated from IR
+29	2015-03-07	 Panthers	 	 • Tomas Kopecky	 flu (DTD)
+30	2015-03-10	 Panthers	 • Tomas Kopecky	 	 returned to lineup
+31	2015-03-19	 Panthers	 • Tomas Kopecky	 	 returned to lineup (CBC)

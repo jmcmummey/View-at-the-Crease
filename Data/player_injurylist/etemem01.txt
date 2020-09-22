@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-09-30	 Ducks	 	 • Emerson Etem	 placed on IR with leg injury
+1	2013-10-10	 Ducks	 • Emerson Etem	 	 activated from IR
+2	2015-12-02	 Rangers	 	 • Emerson Etem	 illness (DTD)
+3	2015-12-09	 Rangers	 • Emerson Etem	 	 returned to lineup

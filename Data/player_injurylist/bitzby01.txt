@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-01	 Bruins	 	 • Byron Bitz	 groin injury (DTD)
+1	2009-11-07	 Bruins	 • Byron Bitz	 	 returned to lineup
+2	2009-12-10	 Bruins	 	 • Byron Bitz	 illness (DTD)
+3	2009-12-12	 Bruins	 • Byron Bitz	 	 returned to lineup
+4	2010-01-09	 Bruins	 	 • Byron Bitz	 back injury (DTD)
+5	2010-01-13	 Bruins	 • Byron Bitz	 	 returned to lineup
+6	2010-01-18	 Bruins	 	 • Byron Bitz	 undisclosed injury (DTD)
+7	2010-01-29	 Bruins	 • Byron Bitz	 	 returned to lineup
+8	2010-03-11	 Panthers	 	 • Byron Bitz	 lower body injury (DTD)
+9	2010-03-20	 Panthers	 • Byron Bitz	 	 returned to lineup
+10	2010-03-29	 Panthers	 	 • Byron Bitz	 elbow injury (out for season)
+11	2010-10-05	 Panthers	 	 • Byron Bitz	 placed on IR with sports hernia (out for season)
+12	2011-10-05	 Canucks	 	 • Byron Bitz	 placed on IR with sports hernia
+13	2012-01-03	 Canucks	 • Byron Bitz	 	 activated from IR
+14	2012-02-19	 Canucks	 	 • Byron Bitz	 hip flexor injury (DTD)
+15	2012-02-24	 Canucks	 • Byron Bitz	 	 returned to lineup

@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-12-04	 Jets	 	 • Josh Morrissey	 lower body injury (DTD)
+1	2018-12-09	 Jets	 • Josh Morrissey	 	 returned to lineup
+2	2019-02-07	 Jets	 	 • Josh Morrissey	 lower body injury (DTD)
+3	2019-02-09	 Jets	 • Josh Morrissey	 	 returned to lineup
+4	2019-02-25	 Jets	 	 • Josh Morrissey	 upper body injury (out for season)
+5	2019-10-06	 Jets	 	 • Josh Morrissey	 upper body injury (DTD)
+6	2019-10-10	 Jets	 • Josh Morrissey	 	 returned to lineup
+7	2020-02-23	 Jets	 	 • Josh Morrissey	 upper body injury (DTD)
+8	2020-02-23	 Jets	 	 • Josh Morrissey	 placed on IR with upper body injury
+9	2020-03-02	 Jets	 • Josh Morrissey	 	 activated from IR

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-03-03	 Stars	 	 • Brett Hull	 placed on IR with strained hamstring
+1	1999-03-18	 Stars	 • Brett Hull	 	 activated from IR

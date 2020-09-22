@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-06	 Penguins	 	 • Jan Hrdina	 strained groin (DTD)
+1	2000-12-13	 Penguins	 • Jan Hrdina	 	 returned to lineup
+2	2001-01-13	 Penguins	 	 • Jan Hrdina	 bruised hip (DTD)
+3	2002-01-24	 Penguins	 	 • Jan Hrdina	 strained back (DTD)
+4	2002-01-29	 Penguins	 • Jan Hrdina	 	 returned to lineup
+5	2002-04-03	 Penguins	 	 • Jan Hrdina	 flu (DTD)
+6	2002-04-04	 Penguins	 • Jan Hrdina	 	 returned to lineup
+7	2003-01-07	 Penguins	 	 • Jan Hrdina	 back spasms (DTD)
+8	2003-01-11	 Penguins	 • Jan Hrdina	 	 returned to lineup
+9	2003-02-14	 Penguins	 	 • Jan Hrdina	 hip injury (DTD)
+10	2003-02-22	 Penguins	 • Jan Hrdina	 	 returned to lineup
+11	2003-02-27	 Penguins	 	 • Jan Hrdina	 hip injury (DTD)
+12	2003-11-17	 Coyotes	 	 • Jan Hrdina	 placed on IR
+13	2005-12-28	 Blue Jackets	 	 • Jan Hrdina	 chest injury (left game)
+14	2005-12-31	 Blue Jackets	 	 • Jan Hrdina	 chest injury (DTD)
+15	2006-01-05	 Blue Jackets	 • Jan Hrdina	 	 returned to lineup
+16	2006-01-08	 Blue Jackets	 	 • Jan Hrdina	 dizzyness (DTD)
+17	2006-01-11	 Blue Jackets	 • Jan Hrdina	 	 returned to lineup
+18	2006-03-15	 Blue Jackets	 	 • Jan Hrdina	 broken toe (out indefinitely)
+19	2006-03-17	 Blue Jackets	 • Jan Hrdina	 	 returned to lineup

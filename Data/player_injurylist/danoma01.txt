@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-17	 Blue Jackets	 	 • Marko Dano	 undisclosed injury (DTD)
+1	2014-10-26	 Blue Jackets	 • Marko Dano	 	 returned to lineup
+2	2016-03-20	 Jets	 	 • Marko Dano	 flu (DTD)
+3	2016-03-22	 Jets	 • Marko Dano	 	 returned to lineup
+4	2016-12-30	 Jets	 	 • Marko Dano	 placed on IR with leg injury
+5	2017-03-02	 Jets	 • Marko Dano	 	 activated from IR
+6	2017-03-23	 Jets	 	 • Marko Dano	 undisclosed injury (DTD)
+7	2017-03-26	 Jets	 • Marko Dano	 	 returned to lineup

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-12-29	 Kings	 • Brad Chartrand	 	 activated from IR
+1	2003-01-27	 Kings	 	 • Brad Chartrand	 placed on IR with strained back
+2	2003-02-04	 Kings	 • Brad Chartrand	 	 activated from IR
+3	2003-02-27	 Kings	 	 • Brad Chartrand	 placed on IR with strained back

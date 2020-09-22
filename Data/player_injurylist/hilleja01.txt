@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-12-13	 Islanders	 	 • Jack Hillen	 foot injury (DTD)
+1	2010-01-27	 Islanders	 	 • Jack Hillen	 placed on IR with broken jaw
+2	2010-03-02	 Islanders	 • Jack Hillen	 	 activated from IR
+3	2010-11-13	 Islanders	 	 • Jack Hillen	 illness (DTD)
+4	2010-11-20	 Islanders	 	 • Jack Hillen	 placed on IR with concussion
+5	2010-12-03	 Islanders	 • Jack Hillen	 	 activated from IR
+6	2011-04-06	 Islanders	 	 • Jack Hillen	 shoulder injury (out for season)
+7	2013-01-20	 Capitals	 	 • Jack Hillen	 placed on IR with left shoulder injury
+8	2013-03-16	 Capitals	 • Jack Hillen	 	 activated from IR
+9	2013-10-04	 Capitals	 	 • Jack Hillen	 placed on IR with toe injury (Y)
+10	2013-10-05	 Capitals	 	 • Jack Hillen	 tibia injury (DTD) (CBC)
+11	2013-10-08	 Capitals	 	 • Jack Hillen	 placed on IR with tibia injury (CBC)
+12	2014-03-03	 Capitals	 • Jack Hillen	 	 activated from IR
+13	2014-03-29	 Capitals	 	 • Jack Hillen	 upper body injury (out for season)
+14	2015-03-07	 Hurricanes	 	 • Jack Hillen	 concussion (out for season)

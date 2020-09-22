@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-16	 Predators	 	 • Darcy Hordichuk	 rib injury (DTD)
+1	2006-11-01	 Predators	 • Darcy Hordichuk	 	 returned to lineup
+2	2007-10-27	 Predators	 	 • Darcy Hordichuk	 broken toe (DTD)
+3	2007-11-19	 Predators	 • Darcy Hordichuk	 	 returned to lineup
+4	2008-01-15	 Predators	 	 • Darcy Hordichuk	 leg injury (DTD)
+5	2008-01-31	 Predators	 • Darcy Hordichuk	 	 returned to lineup
+6	2008-03-30	 Predators	 	 • Darcy Hordichuk	 sprained MCL in knee (DTD)
+7	2008-04-04	 Predators	 • Darcy Hordichuk	 	 returned to lineup
+8	2008-10-20	 Canucks	 	 • Darcy Hordichuk	 sprained knee (DTD)
+9	2008-10-25	 Canucks	 • Darcy Hordichuk	 	 returned to lineup
+10	2008-12-02	 Canucks	 	 • Darcy Hordichuk	 broken foot (out indefinitely)
+11	2008-12-05	 Canucks	 • Darcy Hordichuk	 	 returned to lineup
+12	2009-11-14	 Canucks	 	 • Darcy Hordichuk	 undisclosed injury (DTD)
+13	2009-11-26	 Canucks	 • Darcy Hordichuk	 	 returned to lineup
+14	2010-03-16	 Canucks	 	 • Darcy Hordichuk	 undisclosed injury (DTD)
+15	2010-03-18	 Canucks	 • Darcy Hordichuk	 	 returned to lineup
+16	2011-04-08	 Panthers	 	 • Darcy Hordichuk	 groin injury (out for season)
+17	2011-10-17	 Oilers	 	 • Darcy Hordichuk	 knee injury (DTD)
+18	2011-10-18	 Oilers	 	 • Darcy Hordichuk	 placed on IR with knee injury
+19	2011-11-21	 Oilers	 • Darcy Hordichuk	 	 activated from IR
+20	2013-02-09	 Oilers	 	 • Darcy Hordichuk	 facial injury (DTD)
+21	2013-02-12	 Oilers	 • Darcy Hordichuk	 	 returned to lineup

@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-19	 Flames	 	 • Josh Jooris	 upper body injury (DTD)
+1	2014-10-21	 Flames	 • Josh Jooris	 	 returned to lineup
+2	2014-12-22	 Flames	 	 • Josh Jooris	 upper body injury (DTD)
+3	2014-12-31	 Flames	 • Josh Jooris	 	 returned to lineup
+4	2015-01-08	 Flames	 	 • Josh Jooris	 placed on IR with wrist injury
+5	2015-01-19	 Flames	 • Josh Jooris	 	 activated from IR
+6	2015-03-19	 Flames	 	 • Josh Jooris	 undisclosed (DTD)
+7	2015-03-23	 Flames	 • Josh Jooris	 	 returned to lineup
+8	2016-01-27	 Flames	 	 • Josh Jooris	 undisclosed injury (DTD)
+9	2016-02-03	 Flames	 • Josh Jooris	 	 returned to lineup
+10	2016-03-28	 Flames	 	 • Josh Jooris	 lower body injury (DTD)
+11	2016-03-30	 Flames	 • Josh Jooris	 	 returned to lineup
+12	2016-10-13	 Rangers	 	 • Josh Jooris	 groin injury (DTD)
+13	2016-10-17	 Rangers	 • Josh Jooris	 	 returned to lineup
+14	2016-10-27	 Rangers	 	 • Josh Jooris	 placed on IR with upper body injury
+15	2016-11-20	 Rangers	 • Josh Jooris	 	 activated from IR
+16	2017-11-18	 Hurricanes	 	 • Josh Jooris	 lower body injury (DTD)
+17	2017-11-19	 Hurricanes	 • Josh Jooris	 	 returned to lineup

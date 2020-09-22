@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-12-03	 Blues	 	 • Murray Baron	 shoulder injury (DTD)
+1	1993-03-22	 Blues	 	 • Murray Baron	 broken foot (out for season)
+2	1993-12-01	 Blues	 	 • Murray Baron	 groin injury (DTD)
+3	1993-12-11	 Blues	 	 • Murray Baron	 groin injury (DTD)
+4	1994-03-07	 Blues	 	 • Murray Baron	 knee injury (DTD)
+5	1995-04-18	 Blues	 	 • Murray Baron	 knee injury (out for season)
+6	1997-11-19	 Coyotes	 	 • Murray Baron	 placed on IR with torn triceps

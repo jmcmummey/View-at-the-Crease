@@ -1,0 +1,39 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-21	 Ducks	 	 • Bobby Ryan	 flu (DTD)
+1	2010-03-23	 Ducks	 • Bobby Ryan	 	 returned to lineup
+2	2013-04-22	 Ducks	 	 • Bobby Ryan	 illness (DTD)
+3	2013-04-27	 Ducks	 • Bobby Ryan	 	 returned to lineup
+4	2014-03-23	 Senators	 	 • Bobby Ryan	 sports hernia (out for season)
+5	2014-11-08	 Senators	 	 • Bobby Ryan	 wrist injury (DTD)
+6	2014-11-09	 Senators	 • Bobby Ryan	 	 returned to lineup
+7	2014-11-29	 Senators	 	 • Bobby Ryan	 fractured finger (DTD)
+8	2014-12-04	 Senators	 • Bobby Ryan	 	 returned to lineup
+9	2015-02-10	 Senators	 	 • Bobby Ryan	 muscle cramps (DTD)
+10	2015-02-12	 Senators	 • Bobby Ryan	 	 returned to lineup
+11	2015-12-21	 Senators	 	 • Bobby Ryan	 hand injury (DTD)
+12	2015-12-26	 Senators	 • Bobby Ryan	 	 returned to lineup
+13	2016-11-18	 Senators	 	 • Bobby Ryan	 fractured finger (out indefinitely)
+14	2016-11-24	 Senators	 • Bobby Ryan	 	 returned to lineup
+15	2016-11-30	 Senators	 	 • Bobby Ryan	 placed on IR with hand injury
+16	2016-12-07	 Senators	 • Bobby Ryan	 	 activated from IR
+17	2017-01-07	 Senators	 	 • Bobby Ryan	 undisclosed (DTD)
+18	2017-01-08	 Senators	 • Bobby Ryan	 	 returned to lineup
+19	2017-02-19	 Senators	 	 • Bobby Ryan	 placed on IR with fractured right index finger
+20	2017-02-21	 Senators	 	 • Bobby Ryan	 placed on IR with fractured right index finger
+21	2017-03-14	 Senators	 • Bobby Ryan	 	 activated from IR
+22	2017-04-04	 Senators	 	 • Bobby Ryan	 upper body injury (DTD)
+23	2017-04-09	 Senators	 • Bobby Ryan	 	 returned to lineup
+24	2017-10-22	 Senators	 	 • Bobby Ryan	 placed on IR with fractured finger
+25	2017-11-13	 Senators	 • Bobby Ryan	 	 activated from IR
+26	2017-12-22	 Senators	 	 • Bobby Ryan	 finger injury (DTD)
+27	2017-12-27	 Senators	 • Bobby Ryan	 	 returned to lineup
+28	2018-01-10	 Senators	 	 • Bobby Ryan	 hand injury (DTD)
+29	2018-01-18	 Senators	 • Bobby Ryan	 	 returned to lineup
+30	2018-02-02	 Senators	 	 • Bobby Ryan	 hand injury (DTD)
+31	2018-02-05	 Senators	 	 • Bobby Ryan	 placed on IR with hand injury
+32	2018-02-22	 Senators	 • Bobby Ryan	 	 activated from IR
+33	2018-12-06	 Senators	 	 • Bobby Ryan	 placed on IR with concussion
+34	2018-12-08	 Senators	 	 • Bobby Ryan	 concussion (out indefinitely)
+35	2018-12-14	 Senators	 • Bobby Ryan	 	 returned to lineup
+36	2019-04-04	 Senators	 	 • Bobby Ryan	 undisclosed (DTD)
+37	2019-04-06	 Senators	 • Bobby Ryan	 	 returned to lineup

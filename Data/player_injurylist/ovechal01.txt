@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-31	 Capitals	 	 • Alexander Ovechkin / Alex Ovechkin	 groin injury (DTD)
+1	2006-02-03	 Capitals	 • Alexander Ovechkin / Alex Ovechkin	 	 returned to lineup
+2	2009-01-28	 Capitals	 	 • Alexander Ovechkin / Alex Ovechkin	 stinger (DTD)
+3	2009-03-05	 Capitals	 	 • Alexander Ovechkin / Alex Ovechkin	 bruised heel (DTD)
+4	2009-03-08	 Capitals	 • Alexander Ovechkin / Alex Ovechkin	 	 returned to lineup
+5	2009-11-02	 Capitals	 	 • Alexander Ovechkin / Alex Ovechkin	 placed on IR with upper body strain
+6	2009-11-17	 Capitals	 • Alexander Ovechkin / Alex Ovechkin	 	 activated from IR
+7	2009-12-01	 Capitals	 	 • Alexander Ovechkin / Alex Ovechkin	 sore right knee (DTD)
+8	2011-03-21	 Capitals	 	 • Alexander Ovechkin / Alex Ovechkin	 undisclosed injury (DTD)
+9	2011-03-29	 Capitals	 • Alexander Ovechkin / Alex Ovechkin	 	 returned to lineup
+10	2012-02-22	 Capitals	 	 • Alexander Ovechkin / Alex Ovechkin	 lower body injury (DTD)
+11	2012-02-24	 Capitals	 • Alexander Ovechkin / Alex Ovechkin	 	 returned to lineup
+12	2013-10-30	 Capitals	 	 • Alexander Ovechkin / Alex Ovechkin	 upper body injury (DTD)
+13	2013-11-05	 Capitals	 • Alexander Ovechkin / Alex Ovechkin	 	 returned to lineup
+14	2014-01-20	 Capitals	 	 • Alexander Ovechkin / Alex Ovechkin	 lower body injury (DTD)
+15	2014-01-25	 Capitals	 • Alexander Ovechkin / Alex Ovechkin	 	 returned to lineup
+16	2015-03-05	 Capitals	 	 • Alexander Ovechkin / Alex Ovechkin	 lower body injury (DTD)
+17	2015-03-07	 Capitals	 • Alexander Ovechkin / Alex Ovechkin	 	 returned to lineup
+18	2016-01-28	 Capitals	 	 • Alexander Ovechkin / Alex Ovechkin	 lower body injury (DTD)

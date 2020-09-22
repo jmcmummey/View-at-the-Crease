@@ -1,0 +1,38 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-03	 Hurricanes	 	 • Andrew Ladd	 knee injury (left game)
+1	2005-12-04	 Hurricanes	 	 • Andrew Ladd	 placed on IR with torn meniscus in right knee (out indefinitely)
+2	2006-01-14	 Hurricanes	 • Andrew Ladd	 	 activated from IR
+3	2006-03-29	 Hurricanes	 	 • Andrew Ladd	 lower body injury (DTD)
+4	2006-04-08	 Hurricanes	 • Andrew Ladd	 	 returned to lineup
+5	2006-10-14	 Hurricanes	 	 • Andrew Ladd	 left shoulder injury (DTD)
+6	2006-10-15	 Hurricanes	 	 • Andrew Ladd	 placed on IR with left shoulder injury
+7	2006-10-23	 Hurricanes	 • Andrew Ladd	 	 activated from IR
+8	2006-12-15	 Hurricanes	 	 • Andrew Ladd	 placed on IR with appendicitis (out 3-4 weeks)
+9	2006-12-30	 Hurricanes	 • Andrew Ladd	 	 activated from IR
+10	2006-12-31	 Hurricanes	 	 • Andrew Ladd	 appendicitis (DTD)
+11	2007-01-02	 Hurricanes	 • Andrew Ladd	 	 returned to lineup
+12	2007-04-03	 Hurricanes	 	 • Andrew Ladd	 dehydration (DTD)
+13	2007-04-07	 Hurricanes	 • Andrew Ladd	 	 returned to lineup
+14	2007-10-21	 Hurricanes	 	 • Andrew Ladd	 placed on IR with sprained ankle
+15	2007-11-16	 Hurricanes	 • Andrew Ladd	 	 activated from IR
+16	2007-12-18	 Hurricanes	 	 • Andrew Ladd	 flu (DTD)
+17	2007-12-20	 Hurricanes	 • Andrew Ladd	 	 returned to lineup
+18	2008-01-05	 Hurricanes	 	 • Andrew Ladd	 fractured orbital bone (DTD)
+19	2008-01-08	 Hurricanes	 • Andrew Ladd	 	 returned to lineup
+20	2010-05-24	 Blackhawks	 	 • Andrew Ladd	 upper body injury (DTD)
+21	2010-06-04	 Blackhawks	 • Andrew Ladd	 	 returned to lineup
+22	2011-01-23	 Thrashers	 	 • Andrew Ladd	 lower body injury (DTD)
+23	2011-01-26	 Thrashers	 • Andrew Ladd	 	 returned to lineup
+24	2014-04-07	 Jets	 	 • Andrew Ladd	 elbow injury (out for season)
+25	2017-01-16	 Islanders	 	 • Andrew Ladd	 upper body injury (DTD)
+26	2017-01-24	 Islanders	 • Andrew Ladd	 	 returned to lineup
+27	2018-01-07	 Islanders	 	 • Andrew Ladd	 undisclosed injury (DTD)
+28	2018-01-14	 Islanders	 	 • Andrew Ladd	 placed on IR with upper body injury
+29	2018-01-31	 Islanders	 • Andrew Ladd	 	 activated from IR
+30	2018-10-02	 Islanders	 	 • Andrew Ladd	 placed on IR with undisclosed injury
+31	2018-10-13	 Islanders	 • Andrew Ladd	 	 activated from IR
+32	2018-11-15	 Islanders	 	 • Andrew Ladd	 placed on IR with right leg injury
+33	2019-02-26	 Islanders	 • Andrew Ladd	 	 activated from IR
+34	2019-03-26	 Islanders	 	 • Andrew Ladd	 placed on IR with torn ACL in knee (out for season)
+35	2019-10-01	 Islanders	 	 • Andrew Ladd	 placed on IR with knee injury
+36	2019-11-15	 Islanders	 • Andrew Ladd	 	 activated from IR

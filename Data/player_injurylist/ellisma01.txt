@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-11-24	 Red Wings	 	 • Matt Ellis (a)	 headache (DTD)
+1	2007-12-01	 Red Wings	 • Matt Ellis (a)	 	 returned to lineup
+2	2009-10-17	 Sabres	 	 • Matt Ellis (a)	 bruised quadriceps (DTD)
+3	2010-04-21	 Sabres	 	 • Matt Ellis (a)	 upper body injury (DTD)
+4	2012-03-10	 Sabres	 	 • Matt Ellis (a)	 knee injury (out indefinitely)
+5	2012-04-07	 Sabres	 • Matt Ellis (a)	 	 returned to lineup

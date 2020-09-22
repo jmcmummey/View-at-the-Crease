@@ -1,0 +1,21 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-10-11	 Kings	 	 • Mattias Norstrom	 placed on IR with bruised chest
+1	2003-10-30	 Kings	 • Mattias Norstrom	 	 activated from IR
+2	2005-09-27	 Kings	 	 • Mattias Norstrom	 placed on IR
+3	2005-10-04	 Kings	 	 • Mattias Norstrom	 placed on IR with hamstring injury
+4	2005-10-09	 Kings	 • Mattias Norstrom	 	 activated from IR
+5	2006-02-08	 Kings	 	 • Mattias Norstrom	 strained neck (DTD)
+6	2006-02-12	 Kings	 • Mattias Norstrom	 	 returned to lineup
+7	2006-03-11	 Kings	 	 • Mattias Norstrom	 flu (DTD)
+8	2006-03-13	 Kings	 • Mattias Norstrom	 	 returned to lineup
+9	2007-02-18	 Kings	 	 • Mattias Norstrom	 lower body injury (DTD)
+10	2007-02-22	 Kings	 • Mattias Norstrom	 	 returned to lineup
+11	2007-03-01	 Stars	 	 • Mattias Norstrom	 knee injury (DTD)
+12	2007-03-04	 Stars	 • Mattias Norstrom	 	 returned to lineup
+13	2007-03-11	 Stars	 	 • Mattias Norstrom	 knee injury (DTD)
+14	2007-03-18	 Stars	 • Mattias Norstrom	 	 returned to lineup
+15	2007-11-08	 Stars	 	 • Mattias Norstrom	 facial injury (DTD)
+16	2007-11-16	 Stars	 	 • Mattias Norstrom	 placed on IR with facial injury
+17	2007-12-03	 Stars	 • Mattias Norstrom	 	 activated from IR
+18	2007-12-23	 Stars	 	 • Mattias Norstrom	 knee injury (DTD)
+19	2007-12-31	 Stars	 • Mattias Norstrom	 	 returned to lineup

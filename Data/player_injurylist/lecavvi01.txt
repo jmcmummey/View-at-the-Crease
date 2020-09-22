@@ -1,0 +1,34 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-02-13	 Lightning	 • Vincent Lecavalier	 	 ativated from IR
+1	2006-02-04	 Lightning	 	 • Vincent Lecavalier	 upper body injury (DTD)
+2	2006-02-06	 Lightning	 • Vincent Lecavalier	 	 returned to lineup
+3	2008-04-03	 Lightning	 	 • Vincent Lecavalier	 shoulder injury (out for season)
+4	2009-04-02	 Lightning	 	 • Vincent Lecavalier	 surgery on right wrist (out for season)
+5	2010-10-18	 Lightning	 	 • Vincent Lecavalier	 right hand injury (DTD)
+6	2010-10-21	 Lightning	 • Vincent Lecavalier	 	 returned to lineup
+7	2010-11-12	 Lightning	 	 • Vincent Lecavalier	 placed on IR with broken hand
+8	2010-12-15	 Lightning	 • Vincent Lecavalier	 	 activated from IR
+9	2011-03-03	 Lightning	 	 • Vincent Lecavalier	 undisclosed (DTD)
+10	2011-03-05	 Lightning	 • Vincent Lecavalier	 	 returned to lineup
+11	2012-02-20	 Lightning	 	 • Vincent Lecavalier	 upper body injury (DTD)
+12	2012-02-25	 Lightning	 	 • Vincent Lecavalier	 placed on IR with fractured right hand
+13	2012-03-29	 Lightning	 • Vincent Lecavalier	 	 activated from IR
+14	2013-03-14	 Lightning	 	 • Vincent Lecavalier	 placed on IR with lower body injury
+15	2013-04-04	 Lightning	 • Vincent Lecavalier	 	 activated from IR
+16	2013-10-12	 Flyers	 	 • Vincent Lecavalier	 placed on IR with lower body injury
+17	2013-10-24	 Flyers	 • Vincent Lecavalier	 	 activated from IR
+18	2013-11-02	 Flyers	 	 • Vincent Lecavalier	 facial laceration (DTD)
+19	2013-11-05	 Flyers	 • Vincent Lecavalier	 	 returned to lineup
+20	2013-12-02	 Flyers	 	 • Vincent Lecavalier	 back spasms (DTD)
+21	2013-12-09	 Flyers	 	 • Vincent Lecavalier	 placed on IR with back injury
+22	2013-12-21	 Flyers	 • Vincent Lecavalier	 	 activated from IR
+23	2014-10-12	 Flyers	 	 • Vincent Lecavalier	 lower body injury (DTD)
+24	2014-10-25	 Flyers	 	 • Vincent Lecavalier	 placed on IR with lower body injury
+25	2014-11-01	 Flyers	 • Vincent Lecavalier	 	 activated from IR
+26	2014-12-13	 Flyers	 	 • Vincent Lecavalier	 lower body injury (DTD)
+27	2014-12-18	 Flyers	 • Vincent Lecavalier	 	 returned to lineup
+28	2015-04-10	 Flyers	 	 • Vincent Lecavalier	 upper body injury (out for season)
+29	2015-12-08	 Flyers	 	 • Vincent Lecavalier	 back injury (DTD)
+30	2016-01-07	 Kings	 • Vincent Lecavalier	 	 returned to lineup
+31	2016-03-24	 Kings	 	 • Vincent Lecavalier	 undisclosed injury (DTD)
+32	2016-03-26	 Kings	 • Vincent Lecavalier	 	 returned to lineup

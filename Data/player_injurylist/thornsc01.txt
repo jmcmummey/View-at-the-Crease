@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-01-13	 Sharks	 • Scott Thornton	 	 activated from IR
+1	2002-10-07	 Sharks	 	 • Scott Thornton	 shoulder injury (out indefinitely)
+2	2003-02-21	 Sharks	 	 • Scott Thornton	 head injury (out indefinitely)
+3	2005-11-02	 Sharks	 	 • Scott Thornton	 groin injury (DTD)
+4	2005-11-08	 Sharks	 	 • Scott Thornton	 placed on IR with groin injury
+5	2005-11-16	 Sharks	 • Scott Thornton	 	 activated from IR
+6	2006-03-16	 Sharks	 	 • Scott Thornton	 ribcage injury (DTD)
+7	2006-03-25	 Sharks	 • Scott Thornton	 	 returned to lineup
+8	2007-01-04	 Kings	 	 • Scott Thornton	 placed on IR
+9	2007-02-23	 Kings	 • Scott Thornton	 	 activated from IR
+10	2007-11-24	 Kings	 	 • Scott Thornton	 placed on IR with bruised sternum
+11	2007-12-08	 Kings	 • Scott Thornton	 	 activated from IR
+12	2008-02-15	 Kings	 	 • Scott Thornton	 neck injury (DTD)
+13	2008-02-21	 Kings	 • Scott Thornton	 	 returned to lineup
+14	2008-03-22	 Kings	 	 • Scott Thornton	 upper body injury (out indefinitely)
+15	2008-03-27	 Kings	 • Scott Thornton	 	 returned to lineup

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-07	 Jets	 	 • Nic Petan	 illness (DTD)
+1	2015-11-10	 Jets	 • Nic Petan	 	 returned to lineup
+2	2016-11-28	 Jets	 	 • Nic Petan	 placed on IR with lower body injury
+3	2016-12-20	 Jets	 • Nic Petan	 	 activated from IR

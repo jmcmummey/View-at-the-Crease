@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-10-02	 Blues	 	 • Oskar Sundqvist	 placed on IR with upper body injury
+1	2018-10-25	 Blues	 • Oskar Sundqvist	 	 activated from IR
+2	2019-11-28	 Blues	 	 • Oskar Sundqvist	 placed on IR with lower body injury
+3	2019-12-12	 Blues	 • Oskar Sundqvist	 	 activated from IR
+4	2020-01-28	 Blues	 	 • Oskar Sundqvist	 lower body injury (DTD)
+5	2020-01-29	 Blues	 	 • Oskar Sundqvist	 placed on IR with lower body injury
+6	2020-02-16	 Blues	 • Oskar Sundqvist	 	 activated from IR

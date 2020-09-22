@@ -1,0 +1,29 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-19	 Canadiens	 	 • Andrei Markov	 shoulder injury (out 2-3 weeks)
+1	2006-02-04	 Canadiens	 • Andrei Markov	 	 activated from IR
+2	2006-03-13	 Canadiens	 	 • Andrei Markov	 back spasms (DTD)
+3	2006-03-20	 Canadiens	 • Andrei Markov	 	 returned to lineup
+4	2006-03-21	 Canadiens	 	 • Andrei Markov	 back spasms (DTD)
+5	2006-03-23	 Canadiens	 • Andrei Markov	 	 returned to lineup
+6	2006-12-06	 Canadiens	 	 • Andrei Markov	 flu (DTD)
+7	2006-12-08	 Canadiens	 • Andrei Markov	 	 returned to lineup
+8	2007-02-04	 Canadiens	 	 • Andrei Markov	 lower body injury (DTD)
+9	2007-02-10	 Canadiens	 • Andrei Markov	 	 returned to lineup
+10	2009-04-04	 Canadiens	 	 • Andrei Markov	 head injury (DTD)
+11	2009-10-02	 Canadiens	 	 • Andrei Markov	 placed on IR with surgery on left ankle to repair lacerated tendon
+12	2009-12-19	 Canadiens	 • Andrei Markov	 	 activated from IR
+13	2010-02-12	 Canadiens	 	 • Andrei Markov	 lower body injury (DTD)
+14	2010-03-02	 Canadiens	 • Andrei Markov	 	 returned to lineup
+15	2010-05-01	 Canadiens	 	 • Andrei Markov	 torn ACL in right knee (out for season)
+16	2010-09-17	 Canadiens	 	 • Andrei Markov	 recovering from surgery on right knee to repair torn ACL (out indefinitely)
+17	2010-10-30	 Canadiens	 • Andrei Markov	 	 returned to lineup
+18	2010-11-13	 Canadiens	 	 • Andrei Markov	 right knee injury (out for season)
+19	2010-12-01	 Canadiens	 	 • Andrei Markov	 placed on IR with right knee injury (surgery) (out for season)
+20	2011-10-05	 Canadiens	 	 • Andrei Markov	 placed on IR with right knee injury
+21	2012-03-10	 Canadiens	 • Andrei Markov	 	 activated from IR
+22	2012-03-16	 Canadiens	 	 • Andrei Markov	 upper body injury (DTD)
+23	2012-03-17	 Canadiens	 • Andrei Markov	 	 returned to lineup
+24	2016-12-18	 Canadiens	 	 • Andrei Markov	 lower body injury (DTD)
+25	2016-12-20	 Canadiens	 	 • Andrei Markov	 lower body injury (DTD)
+26	2016-12-22	 Canadiens	 	 • Andrei Markov	 placed on IR with lower body injury
+27	2017-01-31	 Canadiens	 • Andrei Markov	 	 activated from IR

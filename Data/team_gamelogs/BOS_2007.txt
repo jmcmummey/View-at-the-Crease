@@ -1,0 +1,83 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	2006-10-06	@	Florida Panthers	3	8	L			37	19	1		0		38	23	4		0
+1	2006-10-07	@	Tampa Bay Lightning	3	2	W			25	12	0		0		31	8	0		0
+2	2006-10-11	@	Atlanta Thrashers	1	4	L			23	8	1		0		28	16	1		0
+3	2006-10-12	@	St. Louis Blues	2	3	L	SO		18	15	0		0		35	19	0		0
+4	2006-10-14	@	New York Islanders	1	4	L			32	16	1		0		39	10	2		0
+5	2006-10-19		Calgary Flames	3	2	W			30	11	1		0		28	11	0		0
+6	2006-10-21		Buffalo Sabres	2	6	L			26	14	0		0		30	8	3		0
+7	2006-10-26		Montreal Canadiens	2	3	L			36	24	1		0		30	34	2		0
+8	2006-10-28		Ottawa Senators	2	1	W			32	35	1		0		36	21	1		0
+9	2006-11-02		Buffalo Sabres	4	5	L	SO		34	12	2		0		33	10	0		0
+10	2006-11-04		Tampa Bay Lightning	6	5	W	OT		33	14	3		0		28	18	2		0
+11	2006-11-06	@	Atlanta Thrashers	3	5	L			27	26	2		1		39	14	4		0
+12	2006-11-09		Toronto Maple Leafs	4	6	L			37	24	2		0		37	12	1		0
+13	2006-11-11		Ottawa Senators	4	3	W			29	14	1		0		28	12	1		0
+14	2006-11-15	@	Washington Capitals	3	2	W	SO		35	16	0		0		35	12	1		1
+15	2006-11-16		Toronto Maple Leafs	2	1	W	OT		36	4	1		0		25	8	1		0
+16	2006-11-18		Washington Capitals	3	2	W	OT		38	12	2		0		29	16	1		0
+17	2006-11-20		Florida Panthers	2	3	L			31	18	0		0		28	24	2		0
+18	2006-11-22	@	Pittsburgh Penguins	4	3	W	SO		31	18	2		0		25	12	1		0
+19	2006-11-24		Carolina Hurricanes	1	5	L			26	8	1		0		40	10	1		0
+20	2006-11-25	@	Toronto Maple Leafs	3	1	W			25	23	1		0		28	9	1		0
+21	2006-11-28	@	Toronto Maple Leafs	4	1	W			24	12	0		0		46	6	0		0
+22	2006-11-30		Tampa Bay Lightning	4	3	W	SO		25	12	0		1		34	4	0		1
+23	2006-12-02	@	Carolina Hurricanes	2	5	L			19	17	0		0		30	19	0		1
+24	2006-12-04	@	Montreal Canadiens	6	5	W			30	8	0		1		39	8	2		0
+25	2006-12-07		Toronto Maple Leafs	3	1	W			26	10	0		0		24	12	0		0
+26	2006-12-09		New Jersey Devils	1	5	L			20	14	0		0		42	6	1		0
+27	2006-12-12	@	Montreal Canadiens	3	4	L			34	12	2		0		40	8	1		0
+28	2006-12-14		New Jersey Devils	5	3	W			45	13	3		0		29	29	1		0
+29	2006-12-16		Florida Panthers	3	6	L			21	14	1		0		36	14	3		0
+30	2006-12-19	@	Ottawa Senators	7	2	W			26	28	3		0		37	47	0		0
+31	2006-12-21		Vancouver Canucks	2	0	W			19	12	2		0		39	22	0		0
+32	2006-12-23		Montreal Canadiens	4	2	W			31	8	1		0		22	16	0		1
+33	2006-12-26	@	Columbus Blue Jackets	4	5	L	OT		26	12	1		0		42	12	1		1
+34	2006-12-29	@	Chicago Blackhawks	5	3	W			21	17	2		1		40	23	0		0
+35	2006-12-30	@	Nashville Predators	0	5	L			38	18	0		0		25	8	0		0
+36	2007-01-01	@	Toronto Maple Leafs	1	5	L			28	16	1		0		35	12	2		0
+37	2007-01-04		Toronto Maple Leafs	2	10	L			31	19	1		0		39	33	1		1
+38	2007-01-06		Philadelphia Flyers	4	3	W			26	12	2		0		32	10	0		1
+39	2007-01-09	@	Ottawa Senators	2	5	L			25	10	0		1		36	6	0		0
+40	2007-01-11		New York Islanders	4	5	L	SO		42	8	1		0		35	12	2		0
+41	2007-01-13	@	New York Rangers	1	3	L			25	12	0		0		38	8	0		1
+42	2007-01-15		Buffalo Sabres	3	2	W	SO		37	11	1		0		36	13	0		0
+43	2007-01-17	@	Buffalo Sabres	3	6	L			28	10	1		0		32	14	1		0
+44	2007-01-18		Pittsburgh Penguins	5	4	W	SO		44	12	1		0		35	8	2		0
+45	2007-01-20		Ottawa Senators	0	3	L			18	46	0		0		39	19	1		1
+46	2007-01-27	@	Ottawa Senators	1	3	L			30	10	0		0		36	8	0		1
+47	2007-01-29		New York Rangers	1	6	L			30	12	1		0		29	8	1		2
+48	2007-01-30	@	Buffalo Sabres	1	7	L			26	15	1		0		35	27	2		1
+49	2007-02-01		Buffalo Sabres	1	3	L			34	21	0		0		28	19	1		0
+50	2007-02-03	@	Carolina Hurricanes	4	3	W	OT		33	28	2		0		37	20	1		0
+51	2007-02-06	@	Washington Capitals	3	2	W	SO		24	13	1		0		34	17	0		0
+52	2007-02-08		Carolina Hurricanes	2	5	L			36	27	0		0		36	17	1		0
+53	2007-02-10		New York Islanders	4	3	W	SO		28	10	2		0		34	18	1		0
+54	2007-02-13		Edmonton Oilers	3	0	W			23	19	2		0		32	15	0		0
+55	2007-02-15	@	New York Islanders	1	4	L			25	4	1		0		38	6	0		0
+56	2007-02-17	@	Buffalo Sabres	4	3	W	SO		30	26	0		1		25	18	3		0
+57	2007-02-19	@	Philadelphia Flyers	6	3	W			18	15	1		0		33	13	0		0
+58	2007-02-20	@	Toronto Maple Leafs	3	0	W			21	12	0		1		44	10	0		0
+59	2007-02-23	@	Tampa Bay Lightning	6	2	W			23	13	1		0		26	25	1		0
+60	2007-02-24	@	Florida Panthers	2	7	L			27	12	2		0		52	18	2		1
+61	2007-02-26		Atlanta Thrashers	2	3	L			24	10	0		0		20	8	2		0
+62	2007-03-01		Philadelphia Flyers	3	4	L	OT		37	12	1		0		55	10	1		1
+63	2007-03-03		Montreal Canadiens	3	1	W			36	10	0		0		32	12	0		0
+64	2007-03-04	@	New Jersey Devils	4	1	W			30	8	0		1		27	6	0		0
+65	2007-03-06		Colorado Avalanche	0	2	L			21	8	0		0		30	10	0		0
+66	2007-03-08		Minnesota Wild	1	2	L			30	22	0		0		32	16	0		0
+67	2007-03-10	@	Philadelphia Flyers	1	4	L			27	13	0		0		29	15	0		1
+68	2007-03-11	@	Detroit Red Wings	6	3	W			25	17	2		0		38	21	1		0
+69	2007-03-15		Washington Capitals	4	3	W	SO		39	17	3		0		34	23	1		1
+70	2007-03-17	@	New York Rangers	0	7	L			30	41	0		0		39	29	4		0
+71	2007-03-20	@	Montreal Canadiens	0	1	L			30	8	0		0		32	2	0		0
+72	2007-03-22		Montreal Canadiens	3	6	L			35	16	0		0		30	10	3		0
+73	2007-03-24		New York Rangers	1	2	L	SO		41	10	0		0		36	19	0		0
+74	2007-03-25	@	Pittsburgh Penguins	0	5	L			29	16	0		0		28	14	3		1
+75	2007-03-27	@	Ottawa Senators	3	2	W			17	14	1		0		34	10	1		0
+76	2007-03-29		Pittsburgh Penguins	2	4	L			33	10	0		0		26	6	1		0
+77	2007-03-31		Atlanta Thrashers	2	3	L			27	24	1		0		40	16	0		0
+78	2007-04-01	@	New Jersey Devils	1	3	L			18	10	1		0		24	6	1		0
+79	2007-04-03	@	Montreal Canadiens	0	2	L			29	23	0		0		30	17	1		0
+80	2007-04-05	@	Buffalo Sabres	2	4	L			22	12	1		0		33	12	1		0
+81	2007-04-07		Ottawa Senators	3	6	L			32	12	1		0		28	16	1		0

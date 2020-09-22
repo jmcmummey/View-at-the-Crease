@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-10	 Oilers	 	 • Taylor Chorney	 sprained ankle (DTD)
+1	2009-12-06	 Oilers	 • Taylor Chorney	 	 returned to lineup
+2	2011-02-23	 Oilers	 	 • Taylor Chorney	 right knee injury (DTD)
+3	2011-02-25	 Oilers	 	 • Taylor Chorney	 placed on IR with right knee injury
+4	2011-04-06	 Oilers	 • Taylor Chorney	 	 activated from IR
+5	2011-10-09	 Oilers	 	 • Taylor Chorney	 sprained right knee (DTD)
+6	2011-11-04	 Blues	 • Taylor Chorney	 	 returned to lineup

@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-11-26	 Canadiens	 	 • Charles Hudon	 placed on IR with fractured sternum
+1	2016-12-07	 Canadiens	 • Charles Hudon	 	 activated from IR
+2	2017-11-05	 Canadiens	 	 • Charles Hudon	 upper body injury (DTD)
+3	2017-11-07	 Canadiens	 • Charles Hudon	 	 returned to lineup
+4	2018-03-02	 Canadiens	 	 • Charles Hudon	 upper body injury (DTD)
+5	2018-03-10	 Canadiens	 • Charles Hudon	 	 returned to lineup
+6	2018-04-01	 Canadiens	 	 • Charles Hudon	 undisclosed injury (DTD)
+7	2018-04-05	 Canadiens	 • Charles Hudon	 	 returned to lineup
+8	2018-04-07	 Canadiens	 	 • Charles Hudon	 undisclosed injury (out for season)

@@ -1,0 +1,38 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-22	 Penguins	 	 • Ryan Malone	 broken left forearm (out 4-5 weeks)
+1	2006-12-05	 Penguins	 • Ryan Malone	 	 returned to lineup
+2	2007-12-18	 Penguins	 	 • Ryan Malone	 flu (DTD)
+3	2007-12-19	 Penguins	 	 • Ryan Malone	 infected cut on leg (DTD)
+4	2007-12-29	 Penguins	 • Ryan Malone	 	 returned to lineup
+5	2008-11-12	 Lightning	 	 • Ryan Malone	 lower body injury (DTD)
+6	2008-11-21	 Lightning	 • Ryan Malone	 	 returned to lineup
+7	2008-12-06	 Lightning	 	 • Ryan Malone	 upper body injury (DTD)
+8	2008-12-18	 Lightning	 • Ryan Malone	 	 returned to lineup
+9	2009-03-06	 Lightning	 	 • Ryan Malone	 flu (DTD)
+10	2009-03-07	 Lightning	 • Ryan Malone	 	 returned to lineup
+11	2009-04-09	 Lightning	 	 • Ryan Malone	 broken hand (out for season)
+12	2010-03-09	 Lightning	 	 • Ryan Malone	 upper body injury (DTD)
+13	2010-03-11	 Lightning	 • Ryan Malone	 	 returned to lineup
+14	2010-03-12	 Lightning	 	 • Ryan Malone	 arthroscopic surgery on knee (DTD)
+15	2010-04-06	 Lightning	 • Ryan Malone	 	 returned to lineup
+16	2011-01-23	 Lightning	 	 • Ryan Malone	 lower body injury (DTD)
+17	2011-02-08	 Lightning	 • Ryan Malone	 	 returned to lineup
+18	2011-02-10	 Lightning	 	 • Ryan Malone	 placed on IR with abdominal injury
+19	2011-03-31	 Lightning	 • Ryan Malone	 	 activated from IR
+20	2011-11-08	 Lightning	 	 • Ryan Malone	 upper body injury (DTD)
+21	2011-11-19	 Lightning	 • Ryan Malone	 	 returned to lineup
+22	2012-01-03	 Lightning	 	 • Ryan Malone	 lower body injury (DTD)
+23	2012-01-07	 Lightning	 • Ryan Malone	 	 returned to lineup
+24	2012-01-22	 Lightning	 	 • Ryan Malone	 upper body injury (DTD)
+25	2012-01-31	 Lightning	 	 • Ryan Malone	 placed on IR with upper body injury
+26	2012-02-14	 Lightning	 • Ryan Malone	 	 activated from IR
+27	2013-02-10	 Lightning	 	 • Ryan Malone	 placed on IR with lower body injury
+28	2013-03-07	 Lightning	 • Ryan Malone	 	 activated from IR
+29	2013-03-19	 Lightning	 	 • Ryan Malone	 left shoulder injury (DTD)
+30	2013-03-20	 Lightning	 	 • Ryan Malone	 placed on IR with left shoulder injury
+31	2013-04-09	 Lightning	 • Ryan Malone	 	 activated from IR
+32	2013-04-24	 Lightning	 	 • Ryan Malone	 flu (DTD)
+33	2013-04-27	 Lightning	 • Ryan Malone	 	 returned to lineup
+34	2013-11-24	 Lightning	 	 • Ryan Malone	 bruised foot (DTD)
+35	2013-11-27	 Lightning	 	 • Ryan Malone	 placed on IR with bruised foot
+36	2014-01-01	 Lightning	 • Ryan Malone	 	 activated from IR

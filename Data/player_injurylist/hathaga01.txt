@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-01-17	 Flames	 	 • Garnet Hathaway	 upper body injury (DTD)
+1	2017-01-23	 Flames	 	 • Garnet Hathaway	 placed on IR with upper body injury
+2	2017-02-07	 Flames	 • Garnet Hathaway	 	 activated from IR

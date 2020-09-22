@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-10-21	 Nordiques	 	 • Joe Cirella	 knee injury (DTD)
+1	1991-10-04	 Rangers	 	 • Joe Cirella	 strained lower back (DTD)
+2	1993-11-23	 Panthers	 	 • Joe Cirella	 fractured right cheekbone (DTD)
+3	1993-12-18	 Panthers	 	 • Joe Cirella	 surgery on right eye (out indefinitely)
+4	1994-02-04	 Panthers	 	 • Joe Cirella	 fractured nose (DTD)

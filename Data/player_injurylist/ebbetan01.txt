@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-12-08	 Wild	 	 • Andrew Ebbett	 head injury / concussion (DTD)
+1	2009-12-14	 Wild	 	 • Andrew Ebbett	 placed on IR with concussion
+2	2009-12-19	 Wild	 • Andrew Ebbett	 	 activated from IR
+3	2010-03-29	 Wild	 	 • Andrew Ebbett	 broken finger (out for season)
+4	2011-11-11	 Canucks	 	 • Andrew Ebbett	 fractured foot (DTD)
+5	2011-12-17	 Canucks	 • Andrew Ebbett	 	 returned to lineup
+6	2012-01-07	 Canucks	 	 • Andrew Ebbett	 broken collarbone (out indefinitely)
+7	2012-01-15	 Canucks	 	 • Andrew Ebbett	 placed on IR with broken collarbone
+8	2012-03-31	 Canucks	 • Andrew Ebbett	 	 activated from IR
+9	2013-12-06	 Penguins	 	 • Andrew Ebbett	 placed on IR with fractured ankle
+10	2014-01-23	 Penguins	 • Andrew Ebbett	 	 activated from IR

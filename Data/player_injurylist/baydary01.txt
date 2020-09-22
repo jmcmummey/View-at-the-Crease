@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-05-08	 Hurricanes	 	 • Ryan Bayda	 flu (DTD)
+1	2009-05-12	 Hurricanes	 • Ryan Bayda	 	 returned to lineup

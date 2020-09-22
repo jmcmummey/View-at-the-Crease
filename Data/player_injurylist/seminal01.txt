@@ -1,0 +1,58 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-18	 Capitals	 	 • Alexander Semin	 shoulder injury (DTD)
+1	2006-11-28	 Capitals	 • Alexander Semin	 	 returned to lineup
+2	2007-04-04	 Capitals	 	 • Alexander Semin	 foot injury (DTD)
+3	2007-04-07	 Capitals	 • Alexander Semin	 	 returned to lineup
+4	2007-10-05	 Capitals	 	 • Alexander Semin	 sprained ankle (DTD)
+5	2007-10-06	 Capitals	 • Alexander Semin	 	 returned to lineup
+6	2007-10-08	 Capitals	 	 • Alexander Semin	 ankle injury (DTD)
+7	2007-10-24	 Capitals	 • Alexander Semin	 	 returned to lineup
+8	2007-10-28	 Capitals	 	 • Alexander Semin	 ankle injury (DTD)
+9	2007-11-19	 Capitals	 • Alexander Semin	 	 returned to lineup
+10	2007-11-23	 Capitals	 	 • Alexander Semin	 ankle injury (DTD)
+11	2007-11-26	 Capitals	 • Alexander Semin	 	 returned to lineup
+12	2008-01-03	 Capitals	 	 • Alexander Semin	 bruised tailbone (DTD)
+13	2008-01-09	 Capitals	 • Alexander Semin	 	 returned to lineup
+14	2008-11-15	 Capitals	 	 • Alexander Semin	 placed on IR with upper body injury
+15	2008-12-10	 Capitals	 • Alexander Semin	 	 activated from IR
+16	2008-12-20	 Capitals	 	 • Alexander Semin	 back injury (DTD)
+17	2009-01-03	 Capitals	 • Alexander Semin	 	 returned to lineup
+18	2009-02-11	 Capitals	 	 • Alexander Semin	 undisclosed injury (DTD)
+19	2009-02-14	 Capitals	 • Alexander Semin	 	 returned to lineup
+20	2009-03-27	 Capitals	 	 • Alexander Semin	 flu (DTD)
+21	2009-04-01	 Capitals	 • Alexander Semin	 	 returned to lineup
+22	2009-10-22	 Capitals	 	 • Alexander Semin	 illness (DTD)
+23	2009-10-27	 Capitals	 • Alexander Semin	 	 returned to lineup
+24	2009-11-17	 Capitals	 	 • Alexander Semin	 placed on IR with right wrist injury
+25	2009-12-03	 Capitals	 • Alexander Semin	 	 activated from IR
+26	2010-12-14	 Capitals	 	 • Alexander Semin	 flu (DTD)
+27	2010-12-21	 Capitals	 • Alexander Semin	 	 returned to lineup
+28	2011-01-09	 Capitals	 	 • Alexander Semin	 hip injury (DTD)
+29	2011-01-16	 Capitals	 	 • Alexander Semin	 placed on IR with hip injury
+30	2011-04-04	 Capitals	 	 • Alexander Semin	 wrist injury (DTD)
+31	2011-04-09	 Capitals	 • Alexander Semin	 	 returned to lineup
+32	2011-12-03	 Capitals	 	 • Alexander Semin	 right shoulder injury (DTD)
+33	2011-12-07	 Capitals	 • Alexander Semin	 	 returned to lineup
+34	2012-01-03	 Capitals	 	 • Alexander Semin	 right arm injury (DTD)
+35	2012-01-07	 Capitals	 • Alexander Semin	 	 returned to lineup
+36	2013-04-06	 Hurricanes	 	 • Alexander Semin	 upper body injury (DTD)
+37	2013-04-09	 Hurricanes	 • Alexander Semin	 	 returned to lineup
+38	2013-04-25	 Hurricanes	 	 • Alexander Semin	 concussion (out for season)
+39	2013-11-18	 Hurricanes	 	 • Alexander Semin	 concussion (DTD)
+40	2013-11-21	 Hurricanes	 	 • Alexander Semin	 placed on IR with concussion
+41	2013-12-12	 Hurricanes	 • Alexander Semin	 	 activated from IR
+42	2014-03-01	 Hurricanes	 	 • Alexander Semin	 lower body injury (DTD)
+43	2014-03-02	 Hurricanes	 • Alexander Semin	 	 returned to lineup
+44	2014-04-01	 Hurricanes	 	 • Alexander Semin	 illness (DTD)
+45	2014-04-05	 Hurricanes	 • Alexander Semin	 	 returned to lineup
+46	2014-11-15	 Hurricanes	 	 • Alexander Semin	 upper body injury (DTD)
+47	2014-11-18	 Hurricanes	 • Alexander Semin	 	 returned to lineup
+48	2014-12-08	 Hurricanes	 	 • Alexander Semin	 lower body injury (DTD)
+49	2014-12-11	 Hurricanes	 	 • Alexander Semin	 placed on IR with lower body injury
+50	2014-12-20	 Hurricanes	 • Alexander Semin	 	 activated from IR
+51	2014-12-23	 Hurricanes	 	 • Alexander Semin	 upper body injury (DTD)
+52	2015-01-08	 Hurricanes	 • Alexander Semin	 	 returned to lineup
+53	2015-03-28	 Hurricanes	 	 • Alexander Semin	 hamstring injury (DTD)
+54	2015-03-29	 Hurricanes	 • Alexander Semin	 	 returned to lineup
+55	2015-11-26	 Canadiens	 	 • Alexander Semin	 placed on IR with lower body injury
+56	2015-12-08	 Canadiens	 • Alexander Semin	 	 activated from IR

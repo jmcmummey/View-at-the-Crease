@@ -1,0 +1,27 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-07	 Penguins	 	 • Marc-Andre Fleury	 stomach virus (DTD)
+1	2005-12-10	 Penguins	 • Marc-Andre Fleury	 	 returned to lineup
+2	2007-12-07	 Penguins	 	 • Marc-Andre Fleury	 ankle injury (DTD)
+3	2007-12-12	 Penguins	 	 • Marc-Andre Fleury	 ankle injury (out 7-8 weeks)
+4	2008-02-10	 Penguins	 • Marc-Andre Fleury	 	 returned to lineup
+5	2008-11-17	 Penguins	 	 • Marc-Andre Fleury	 undisclosed injury (DTD)
+6	2008-12-18	 Penguins	 • Marc-Andre Fleury	 	 returned to lineup
+7	2010-01-16	 Penguins	 	 • Marc-Andre Fleury	 fractured left ring finger (DTD)
+8	2010-01-24	 Penguins	 • Marc-Andre Fleury	 	 activated from IR
+9	2013-03-26	 Penguins	 	 • Marc-Andre Fleury	 undisclosed injury (DTD)
+10	2013-03-30	 Penguins	 • Marc-Andre Fleury	 	 returned to lineup
+11	2015-12-15	 Penguins	 	 • Marc-Andre Fleury	 concussion (DTD)
+12	2015-12-21	 Penguins	 	 • Marc-Andre Fleury	 placed on IR with concussion
+13	2016-01-02	 Penguins	 • Marc-Andre Fleury	 	 activated from IR
+14	2016-02-20	 Penguins	 	 • Marc-Andre Fleury	 illness (DTD)
+15	2016-02-21	 Penguins	 • Marc-Andre Fleury	 	 returned to lineup
+16	2016-04-02	 Penguins	 	 • Marc-Andre Fleury	 concussion (DTD)
+17	2016-05-02	 Penguins	 • Marc-Andre Fleury	 	 returned to lineup
+18	2017-10-14	 Golden Knights	 	 • Marc-Andre Fleury	 placed on IR with concussion
+19	2017-12-10	 Golden Knights	 • Marc-Andre Fleury	 	 activated from IR
+20	2018-03-21	 Golden Knights	 	 • Marc-Andre Fleury	 undisclosed injury (DTD)
+21	2018-03-24	 Golden Knights	 • Marc-Andre Fleury	 	 returned to lineup
+22	2019-03-17	 Golden Knights	 	 • Marc-Andre Fleury	 lower body injury (DTD)
+23	2019-04-04	 Golden Knights	 • Marc-Andre Fleury	 	 returned to lineup
+24	2019-11-02	 Golden Knights	 	 • Marc-Andre Fleury	 flu (DTD)
+25	2019-11-05	 Golden Knights	 • Marc-Andre Fleury	 	 returned to lineup

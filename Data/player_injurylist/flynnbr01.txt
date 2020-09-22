@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-03-17	 Canadiens	 	 • Brian Flynn	 upper body injury (DTD)
+1	2015-03-28	 Canadiens	 • Brian Flynn	 	 returned to lineup
+2	2016-02-10	 Canadiens	 	 • Brian Flynn	 placed on IR with lower body injury
+3	2016-04-07	 Canadiens	 • Brian Flynn	 	 activated from IR
+4	2016-10-13	 Canadiens	 	 • Brian Flynn	 neck injury (DTD)
+5	2016-10-18	 Canadiens	 • Brian Flynn	 	 returned to lineup
+6	2016-11-12	 Canadiens	 	 • Brian Flynn	 upper body injury (DTD)
+7	2016-11-18	 Canadiens	 	 • Brian Flynn	 placed on IR with upper body injury
+8	2016-12-02	 Canadiens	 • Brian Flynn	 	 activated from IR
+9	2017-03-08	 Canadiens	 	 • Brian Flynn	 upper body injury (DTD)
+10	2017-04-05	 Canadiens	 • Brian Flynn	 	 returned to lineup

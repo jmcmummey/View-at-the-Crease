@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-05	 Oilers	 	 • Anton Belov	 sprained knee (DTD)
+1	2013-11-09	 Oilers	 • Anton Belov	 	 returned to lineup
+2	2014-03-01	 Oilers	 	 • Anton Belov	 illness (DTD)
+3	2014-03-03	 Oilers	 	 • Anton Belov	 placed on IR with torn oblique
+4	2014-03-25	 Oilers	 • Anton Belov	 	 activated from IR

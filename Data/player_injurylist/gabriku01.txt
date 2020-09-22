@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-03-12	 Devils	 	 • Kurtis Gabriel	 illness (DTD)
+1	2019-03-13	 Devils	 • Kurtis Gabriel	 	 returned to lineup
+2	2019-03-17	 Devils	 	 • Kurtis Gabriel	 undisclosed (DTD)
+3	2019-03-19	 Devils	 • Kurtis Gabriel	 	 returned to lineup
+4	2019-04-01	 Devils	 	 • Kurtis Gabriel	 upper body injury (out for season)

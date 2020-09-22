@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-11-15	 Devils	 	 • Matt Taormina	 ankle injury (out for season)
+1	2013-01-18	 Lightning	 	 • Matt Taormina	 placed on IR
+2	2013-02-26	 Lightning	 • Matt Taormina	 	 activated from IR
+3	2018-10-02	 Flames	 	 • Matt Taormina	 placed on IR with undisclosed injury
+4	2018-10-11	 Flames	 • Matt Taormina	 	 activated from IR

@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-01-23	 Devils	 	 • Sergey Kalinin / Sergei Kalinin	 illness (DTD)
+1	2016-01-26	 Devils	 • Sergey Kalinin / Sergei Kalinin	 	 returned to lineup
+2	2016-10-10	 Devils	 	 • Sergey Kalinin / Sergei Kalinin	 placed on IR with illness
+3	2016-10-22	 Devils	 • Sergey Kalinin / Sergei Kalinin	 	 activated from IR
+4	2016-12-01	 Devils	 	 • Sergey Kalinin / Sergei Kalinin	 illness (DTD)
+5	2016-12-06	 Devils	 • Sergey Kalinin / Sergei Kalinin	 	 returned to lineup
+6	2017-01-13	 Devils	 	 • Sergey Kalinin / Sergei Kalinin	 lower body injury (DTD)
+7	2017-01-21	 Devils	 • Sergey Kalinin / Sergei Kalinin	 	 returned to lineup

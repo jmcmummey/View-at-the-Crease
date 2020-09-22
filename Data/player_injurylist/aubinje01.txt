@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-02	 Penguins	 	 • Jean-Sebastien Aubin	 placed on IR with surgery on knee
+1	2001-01-01	 Penguins	 • Jean-Sebastien Aubin	 	 activated from IR
+2	2003-02-08	 Penguins	 	 • Jean-Sebastien Aubin	 bruised hand (DTD)
+3	2003-02-27	 Penguins	 • Jean-Sebastien Aubin	 	 returned to lineup
+4	2007-10-02	 Kings	 	 • Jean-Sebastien Aubin	 placed on IR with groin injury
+5	2007-10-15	 Kings	 • Jean-Sebastien Aubin	 	 activated from IR

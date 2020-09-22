@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-10-10	 Bruins	 	 • Kyle McLaren	 chest injury (out indefinitely)
+1	2001-12-26	 Bruins	 	 • Kyle McLaren	 wrist injury (out indefinitely)
+2	2004-01-19	 Sharks	 • Kyle McLaren	 	 activated from IR
+3	2004-03-06	 Sharks	 	 • Kyle McLaren	 placed on IR
+4	2005-12-12	 Sharks	 	 • Kyle McLaren	 arthroscopic surgery on knee
+5	2005-12-15	 Sharks	 	 • Kyle McLaren	 left knee injury (DTD)
+6	2005-12-26	 Sharks	 • Kyle McLaren	 	 returned to lineup
+7	2006-12-07	 Sharks	 	 • Kyle McLaren	 lower body injury (DTD)
+8	2006-12-09	 Sharks	 • Kyle McLaren	 	 returned to lineup
+9	2006-12-11	 Sharks	 	 • Kyle McLaren	 lower body injury (DTD)
+10	2006-12-16	 Sharks	 • Kyle McLaren	 	 returned to lineup
+11	2006-12-23	 Sharks	 	 • Kyle McLaren	 illness (DTD)
+12	2006-12-30	 Sharks	 • Kyle McLaren	 	 returned to lineup
+13	2007-01-18	 Sharks	 	 • Kyle McLaren	 knee injury (DTD)
+14	2007-02-06	 Sharks	 • Kyle McLaren	 	 returned to lineup
+15	2007-02-07	 Sharks	 	 • Kyle McLaren	 knee injury (DTD)
+16	2007-02-13	 Sharks	 • Kyle McLaren	 	 returned to lineup
+17	2007-10-23	 Sharks	 	 • Kyle McLaren	 chest injury (DTD)
+18	2007-10-26	 Sharks	 • Kyle McLaren	 	 returned to lineup
+19	2008-01-13	 Sharks	 	 • Kyle McLaren	 knee injury (DTD)
+20	2008-02-08	 Sharks	 • Kyle McLaren	 	 returned to lineup
+21	2008-02-24	 Sharks	 	 • Kyle McLaren	 undisclosed injury (DTD)
+22	2008-03-03	 Sharks	 • Kyle McLaren	 	 returned to lineup
+23	2008-04-22	 Sharks	 	 • Kyle McLaren	 groin injury (DTD)
+24	2008-12-10	 Sharks	 	 • Kyle McLaren	 head injury (out indefinitely)

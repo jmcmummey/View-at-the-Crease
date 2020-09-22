@@ -1,0 +1,83 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	2006-10-06		Los Angeles Kings	4	3	W			32	21	1		0		44	17	1		0
+1	2006-10-07	@	Phoenix Coyotes	2	1	W			25	24	2		0		35	22	1		0
+2	2006-10-09		St. Louis Blues	2	0	W			34	10	2		0		34	14	0		0
+3	2006-10-11		New York Islanders	4	5	L	SO		50	6	2		0		24	12	1		0
+4	2006-10-15		Dallas Stars	3	4	L	SO		39	27	0		1		35	15	2		0
+5	2006-10-18		Detroit Red Wings	4	1	W			31	28	3		0		22	34	0		0
+6	2006-10-20		Minnesota Wild	2	1	W			29	10	0		0		28	8	0		0
+7	2006-10-22	@	Los Angeles Kings	3	2	W	SO		21	11	0		0		31	9	0		0
+8	2006-10-25		Edmonton Oilers	6	2	W			20	15	0		0		31	9	1		0
+9	2006-10-27	@	Minnesota Wild	2	3	L	SO		34	52	0		0		33	22	0		0
+10	2006-10-28	@	Chicago Blackhawks	3	0	W			22	18	1		0		14	26	0		0
+11	2006-10-30	@	St. Louis Blues	6	5	W	SO		33	33	2		0		24	21	2		0
+12	2006-11-01		New York Rangers	3	4	L	OT		33	33	0		0		34	17	2		0
+13	2006-11-03		Phoenix Coyotes	6	2	W			35	10	3		0		27	14	0		0
+14	2006-11-06		Pittsburgh Penguins	3	2	W	OT		40	10	2		0		17	24	0		0
+15	2006-11-09	@	Vancouver Canucks	6	0	W			27	15	0		0		20	32	0		0
+16	2006-11-10	@	Calgary Flames	0	3	L			37	14	0		0		18	20	0		0
+17	2006-11-12		Minnesota Wild	3	2	W			38	2	1		0		26	10	0		0
+18	2006-11-15		Philadelphia Flyers	4	7	L			41	17	2		0		16	21	3		0
+19	2006-11-17		Chicago Blackhawks	3	4	L	SO		45	13	2		0		24	29	0		0
+20	2006-11-19		Phoenix Coyotes	6	4	W			30	8	2		0		28	10	3		0
+21	2006-11-21		San Jose Sharks	5	0	W			44	11	2		0		23	15	0		0
+22	2006-11-22	@	Colorado Avalanche	2	3	L	SO		32	8	1		0		43	8	0		0
+23	2006-11-24		New Jersey Devils	4	2	W			37	17	0		1		25	17	1		0
+24	2006-11-26		Calgary Flames	5	3	W			39	18	2		0		22	22	1		0
+25	2006-11-28	@	Edmonton Oilers	3	2	W	OT		26	18	1		0		22	16	0		0
+26	2006-11-30	@	Vancouver Canucks	2	1	W			30	4	1		0		24	14	0		0
+27	2006-12-02	@	Los Angeles Kings	4	3	W			29	19	2		0		41	17	2		0
+28	2006-12-03		Los Angeles Kings	2	3	L			29	26	1		0		41	6	1		0
+29	2006-12-06		Nashville Predators	4	0	W			32	17	2		0		21	15	0		0
+30	2006-12-08	@	Washington Capitals	6	1	W			34	29	0		1		27	23	1		0
+31	2006-12-09	@	Tampa Bay Lightning	4	3	W			25	15	1		0		27	9	0		0
+32	2006-12-12	@	Florida Panthers	5	4	W			36	8	1		0		31	8	0		0
+33	2006-12-13	@	Atlanta Thrashers	2	1	W			32	26	1		0		35	22	1		0
+34	2006-12-16	@	San Jose Sharks	3	4	L			35	21	2		0		29	21	2		0
+35	2006-12-18		Calgary Flames	4	1	W			41	19	1		0		28	15	0		0
+36	2006-12-20		Dallas Stars	4	1	W			27	15	1		0		27	27	0		0
+37	2006-12-23	@	Phoenix Coyotes	0	2	L			29	8	0		0		32	6	0		0
+38	2006-12-26	@	San Jose Sharks	4	3	W			30	17	0		0		21	13	1		0
+39	2006-12-29	@	Carolina Hurricanes	2	4	L			27	12	1		0		27	12	3		0
+40	2006-12-31	@	Minnesota Wild	3	4	L			30	20	2		0		29	14	3		0
+41	2007-01-02	@	Detroit Red Wings	1	2	L			22	10	1		0		30	10	1		0
+42	2007-01-05		Columbus Blue Jackets	3	4	L			36	19	1		0		33	19	0		0
+43	2007-01-07		Detroit Red Wings	4	2	W			27	14	0		0		35	4	2		0
+44	2007-01-09	@	Nashville Predators	4	5	L	OT		31	20	2		0		24	20	0		0
+45	2007-01-11	@	Dallas Stars	5	1	W			24	13	3		0		18	30	0		0
+46	2007-01-13		Colorado Avalanche	2	3	L	SO		40	6	0		0		17	10	0		0
+47	2007-01-16		St. Louis Blues	2	6	L			32	20	1		0		20	24	1		2
+48	2007-01-18	@	Edmonton Oilers	1	4	L			24	20	0		0		20	16	0		0
+49	2007-01-19	@	Calgary Flames	2	3	L			24	23	1		0		22	19	1		0
+50	2007-01-28		Dallas Stars	4	1	W			28	31	1		0		31	45	1		0
+51	2007-01-31		Phoenix Coyotes	2	1	W			40	6	1		0		25	6	0		0
+52	2007-02-03	@	Nashville Predators	0	3	L			36	64	0		0		20	44	2		0
+53	2007-02-06	@	San Jose Sharks	7	4	W			31	19	0		1		38	11	2		0
+54	2007-02-07		San Jose Sharks	2	3	L			22	17	0		0		29	17	1		0
+55	2007-02-10	@	Dallas Stars	0	1	L			32	17	0		0		21	17	1		0
+56	2007-02-13	@	Colorado Avalanche	0	2	L			39	20	0		0		29	10	1		0
+57	2007-02-15	@	Phoenix Coyotes	5	4	W	OT		40	19	3		0		26	35	0		0
+58	2007-02-17	@	Los Angeles Kings	3	2	W	SO		34	29	1		0		32	39	1		0
+59	2007-02-18		Los Angeles Kings	3	4	L	SO		42	14	2		0		24	14	2		0
+60	2007-02-20		Vancouver Canucks	2	3	L	OT		40	8	1		0		31	8	2		0
+61	2007-02-23	@	Dallas Stars	1	4	L			25	10	0		0		21	12	0		0
+62	2007-02-25		Colorado Avalanche	5	3	W			41	10	2		0		26	14	2		0
+63	2007-02-26	@	San Jose Sharks	3	2	W			19	10	0		0		42	2	1		0
+64	2007-03-01	@	Los Angeles Kings	3	4	L	OT		30	12	2		0		21	8	1		0
+65	2007-03-02		San Jose Sharks	3	1	W			25	14	2		0		31	12	0		0
+66	2007-03-04		Nashville Predators	3	2	W	SO		35	11	0		0		14	17	0		0
+67	2007-03-07		Phoenix Coyotes	2	1	W			26	8	1		0		25	6	0		0
+68	2007-03-09		Edmonton Oilers	5	1	W			32	13	2		0		29	31	0		1
+69	2007-03-11		Vancouver Canucks	4	2	W			24	47	2		0		26	57	0		0
+70	2007-03-14		Columbus Blue Jackets	4	5	L	SO		38	16	0		0		27	12	1		0
+71	2007-03-16		Chicago Blackhawks	5	2	W			26	68	3		0		33	55	2		0
+72	2007-03-18		Los Angeles Kings	3	5	L			27	12	0		0		29	12	2		1
+73	2007-03-22	@	Phoenix Coyotes	1	2	L			23	10	0		0		21	8	0		0
+74	2007-03-23		Dallas Stars	3	2	W	OT		35	8	2		0		36	8	1		0
+75	2007-03-26	@	Detroit Red Wings	0	1	L			25	19	0		0		28	19	0		0
+76	2007-03-28	@	Chicago Blackhawks	3	1	W			23	16	0		0		21	16	1		0
+77	2007-03-29	@	Columbus Blue Jackets	5	2	W			31	12	3		0		25	16	0		0
+78	2007-03-31	@	St. Louis Blues	3	2	W	OT		27	13	2		0		22	13	0		0
+79	2007-04-04		San Jose Sharks	2	3	L	SO		39	13	1		0		31	15	0		0
+80	2007-04-06	@	Dallas Stars	1	2	L	SO		22	10	0		0		30	6	0		0
+81	2007-04-07	@	Columbus Blue Jackets	4	3	W			25	31	2		0		45	40	0		0

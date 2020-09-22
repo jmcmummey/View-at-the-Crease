@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-10-03	 Blackhawks	 	 • Niklas Hjalmarsson	 placed on IR with undisclosed injury
+1	2007-10-11	 Blackhawks	 • Niklas Hjalmarsson	 	 activated from IR
+2	2009-12-18	 Blackhawks	 	 • Niklas Hjalmarsson	 illness (DTD)
+3	2009-12-20	 Blackhawks	 • Niklas Hjalmarsson	 	 returned to lineup
+4	2009-12-26	 Blackhawks	 	 • Niklas Hjalmarsson	 flu (DTD)
+5	2009-12-29	 Blackhawks	 • Niklas Hjalmarsson	 	 returned to lineup
+6	2010-01-02	 Blackhawks	 	 • Niklas Hjalmarsson	 head injury (DTD)
+7	2010-01-05	 Blackhawks	 • Niklas Hjalmarsson	 	 returned to lineup
+8	2011-02-24	 Blackhawks	 	 • Niklas Hjalmarsson	 upper body injury (DTD)
+9	2012-02-10	 Blackhawks	 	 • Niklas Hjalmarsson	 flu (Y) / concussion (CBC) (DTD)
+10	2012-02-23	 Blackhawks	 • Niklas Hjalmarsson	 	 returned to lineup
+11	2012-02-24	 Blackhawks	 	 • Niklas Hjalmarsson	 concussion (DTD)
+12	2012-03-09	 Blackhawks	 • Niklas Hjalmarsson	 	 returned to lineup
+13	2012-03-14	 Blackhawks	 	 • Niklas Hjalmarsson	 undisclosed injury (DTD)
+14	2017-02-24	 Blackhawks	 	 • Niklas Hjalmarsson	 upper body injury (DTD)
+15	2017-02-28	 Blackhawks	 	 • Niklas Hjalmarsson	 placed on IR with upper body injury
+16	2017-03-08	 Blackhawks	 • Niklas Hjalmarsson	 	 activated from IR
+17	2017-04-13	 Blackhawks	 • Niklas Hjalmarsson	 	 returned to lineup
+18	2017-10-31	 Coyotes	 	 • Niklas Hjalmarsson	 placed on IR with upper body injury
+19	2017-11-20	 Coyotes	 • Niklas Hjalmarsson	 	 activated from IR
+20	2017-11-29	 Coyotes	 	 • Niklas Hjalmarsson	 placed on IR with upper body injury
+21	2017-11-30	 Coyotes	 	 • Niklas Hjalmarsson	 upper body injury (DTD)
+22	2017-12-02	 Coyotes	 	 • Niklas Hjalmarsson	 placed on IR with upper body injury
+23	2018-01-12	 Coyotes	 • Niklas Hjalmarsson	 	 activated from IR
+24	2018-03-24	 Coyotes	 	 • Niklas Hjalmarsson	 lower body injury (out for season)
+25	2019-10-12	 Coyotes	 	 • Niklas Hjalmarsson	 placed on IR with fractured fibula
+26	2020-01-12	 Coyotes	 • Niklas Hjalmarsson	 	 activated from IR

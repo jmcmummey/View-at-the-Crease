@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-12-09	 Panthers	 	 • Jani Hurme	 placed on IR
+1	2003-10-05	 Thrashers	 	 • Jani Hurme	 back injury (out indefinitely) (date approximate)
+2	2003-11-29	 Thrashers	 	 • Jani Hurme	 placed on IR
+3	2005-10-04	 Thrashers	 	 • Jani Hurme	 placed on IR with knee injury
+4	2005-11-24	 Thrashers	 • Jani Hurme	 	 activated from IR

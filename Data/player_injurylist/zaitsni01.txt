@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-04-12	 Maple Leafs	 	 • Nikita Zaitsev	 upper body injury (DTD)
+1	2017-04-17	 Maple Leafs	 • Nikita Zaitsev	 	 returned to lineup
+2	2017-12-17	 Maple Leafs	 	 • Nikita Zaitsev	 placed on IR with lower body injury
+3	2018-01-30	 Maple Leafs	 • Nikita Zaitsev	 	 activated from IR
+4	2018-03-10	 Maple Leafs	 	 • Nikita Zaitsev	 illness (DTD)
+5	2018-03-22	 Maple Leafs	 • Nikita Zaitsev	 	 returned to lineup
+6	2019-12-16	 Senators	 	 • Nikita Zaitsev	 placed on IR with lower body injury
+7	2020-01-07	 Senators	 	 • Nikita Zaitsev	 placed on IR with lower body injury
+8	2020-01-14	 Senators	 • Nikita Zaitsev	 	 activated from IR

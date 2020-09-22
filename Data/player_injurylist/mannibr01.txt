@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-05	 Rangers	 	 • Brandon Manning	 placed on IR with undisclosed injury
+1	2016-10-06	 Flyers	 	 • Brandon Manning	 upper body injury (DTD)
+2	2016-10-14	 Flyers	 • Brandon Manning	 	 returned to lineup
+3	2016-11-27	 Flyers	 	 • Brandon Manning	 concussion (DTD)
+4	2016-12-02	 Flyers	 • Brandon Manning	 	 returned to lineup
+5	2017-03-13	 Flyers	 	 • Brandon Manning	 upper body injury (DTD)
+6	2017-03-19	 Flyers	 • Brandon Manning	 	 returned to lineup
+7	2017-04-04	 Flyers	 	 • Brandon Manning	 upper body injury (DTD)
+8	2017-04-08	 Flyers	 • Brandon Manning	 	 returned to lineup
+9	2017-12-06	 Flyers	 	 • Brandon Manning	 placed on IR with undisclosed injury
+10	2017-12-29	 Flyers	 • Brandon Manning	 	 activated from IR
+11	2019-11-13	 Oilers	 	 • Brandon Manning	 placed on IR with hand injury

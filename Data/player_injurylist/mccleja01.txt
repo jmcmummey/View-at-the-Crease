@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-01-02	 Hurricanes	 	 • Jay McClement	 illness (DTD)
+1	2016-01-04	 Hurricanes	 • Jay McClement	 	 returned to lineup
+2	2016-02-26	 Hurricanes	 	 • Jay McClement	 upper body injury (DTD)
+3	2016-02-28	 Hurricanes	 • Jay McClement	 	 returned to lineup
+4	2016-03-01	 Hurricanes	 	 • Jay McClement	 upper body injury (DTD)
+5	2016-03-08	 Hurricanes	 • Jay McClement	 	 returned to lineup
+6	2017-03-15	 Hurricanes	 	 • Jay McClement	 lower body injury (out for season)

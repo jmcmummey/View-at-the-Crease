@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-30	 Canucks	 	 • Alexandre Bolduc / Alex Bolduc	 placed on IR with shoulder injury
+1	2009-11-30	 Canucks	 • Alexandre Bolduc / Alex Bolduc	 	 activated from IR
+2	2010-01-14	 Canucks	 	 • Alexandre Bolduc / Alex Bolduc	 placed on IR with shoulder injury
+3	2010-10-11	 Canucks	 	 • Alexandre Bolduc / Alex Bolduc	 placed on IR with high ankle sprain
+4	2010-12-05	 Canucks	 • Alexandre Bolduc / Alex Bolduc	 	 activated from IR
+5	2011-01-15	 Canucks	 	 • Alexandre Bolduc / Alex Bolduc	 placed on IR with shoulder injury
+6	2011-03-21	 Canucks	 • Alexandre Bolduc / Alex Bolduc	 	 activated from IR
+7	2015-02-13	 Coyotes	 	 • Alexandre Bolduc / Alex Bolduc	 middle body injury (DTD)
+8	2015-02-21	 Coyotes	 • Alexandre Bolduc / Alex Bolduc	 	 returned to lineup

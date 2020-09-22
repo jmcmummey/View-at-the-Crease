@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-01-12	 Rangers	 	 • Neal Pionk	 lower body injury (DTD)
+1	2019-01-13	 Rangers	 • Neal Pionk	 	 returned to lineup
+2	2019-01-14	 Rangers	 	 • Neal Pionk	 lower body injury (DTD)
+3	2019-01-29	 Rangers	 • Neal Pionk	 	 returned to lineup
+4	2019-02-19	 Rangers	 	 • Neal Pionk	 eye injury (DTD)
+5	2019-02-21	 Rangers	 • Neal Pionk	 	 returned to lineup

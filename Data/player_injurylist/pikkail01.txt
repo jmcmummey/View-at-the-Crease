@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-09-30	 Devils	 	 • Ilkka Pikkarainen	 placed on IR with illness
+1	2009-10-05	 Devils	 • Ilkka Pikkarainen	 	 activated from IR
+2	2009-11-21	 Devils	 	 • Ilkka Pikkarainen	 flu (DTD)
+3	2009-11-25	 Devils	 • Ilkka Pikkarainen	 	 activated from IR

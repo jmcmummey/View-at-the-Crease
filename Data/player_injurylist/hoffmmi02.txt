@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-09	 Thrashers	 	 • Mike Hoffman (a)	 placed on IR with broken right hand
+1	2008-10-28	 Thrashers	 • Mike Hoffman (a)	 	 activated from IR
+2	2013-04-05	 Senators	 	 • Mike Hoffman (b)	 collarbone injury (out for season)
+3	2015-10-23	 Senators	 	 • Mike Hoffman (b)	 lower body injury (DTD)
+4	2015-11-03	 Senators	 • Mike Hoffman (b)	 	 returned to lineup
+5	2016-01-19	 Senators	 	 • Mike Hoffman (b)	 upper body injury (DTD)
+6	2016-11-17	 Senators	 	 • Mike Hoffman (b)	 undisclosed injury (DTD)
+7	2016-11-22	 Senators	 • Mike Hoffman (b)	 	 returned to lineup
+8	2017-01-24	 Senators	 	 • Mike Hoffman (b)	 illness (DTD)
+9	2017-01-26	 Senators	 • Mike Hoffman (b)	 	 returned to lineup
+10	2017-02-20	 Senators	 	 • Mike Hoffman (b)	 groin injury (DTD)
+11	2017-02-26	 Senators	 • Mike Hoffman (b)	 	 returned to lineup

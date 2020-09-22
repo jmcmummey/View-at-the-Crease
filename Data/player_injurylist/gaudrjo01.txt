@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-03-28	 Flames	 	 • John Gaudreau / Johnny Gaudreau	 upper body injury (DTD)
+1	2016-03-31	 Flames	 • John Gaudreau / Johnny Gaudreau	 	 returned to lineup
+2	2016-11-16	 Flames	 	 • John Gaudreau / Johnny Gaudreau	 fractured finger (out indefinitely)
+3	2016-11-21	 Flames	 	 • John Gaudreau / Johnny Gaudreau	 placed on IR with fractured finger
+4	2016-12-04	 Flames	 • John Gaudreau / Johnny Gaudreau	 	 activated from IR

@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-12-06	 Islanders	 • Eric Godard	 	 activated from IR
+1	2006-02-08	 Islanders	 	 • Eric Godard	 viral infection (DTD)
+2	2006-03-10	 Islanders	 • Eric Godard	 	 returned to lineup
+3	2009-01-03	 Penguins	 	 • Eric Godard	 leg injury (DTD)
+4	2009-01-05	 Penguins	 • Eric Godard	 	 returned to lineup
+5	2010-01-28	 Penguins	 	 • Eric Godard	 groin injury (out indefinitely)
+6	2010-03-18	 Penguins	 • Eric Godard	 	 returned to lineup
+7	2010-10-27	 Penguins	 	 • Eric Godard	 illness (DTD)
+8	2010-10-30	 Penguins	 • Eric Godard	 	 returned to lineup
+9	2010-12-28	 Penguins	 	 • Eric Godard	 broken nose (DTD)
+10	2011-01-10	 Penguins	 	 • Eric Godard	 placed on IR with broken nose
+11	2011-02-01	 Penguins	 • Eric Godard	 	 activated from IR

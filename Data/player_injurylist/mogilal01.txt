@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-02-18	 Devils	 	 • Alexander Mogilny	 placed on IR
+1	2003-11-20	 Maple Leafs	 	 • Alexander Mogilny	 hip injury (out indefinitely)
+2	2005-10-04	 Devils	 	 • Alexander Mogilny	 hip injury (DTD)
+3	2005-11-11	 Devils	 	 • Alexander Mogilny	 mild concussion (DTD)
+4	2005-11-23	 Devils	 • Alexander Mogilny	 	 returned to lineup
+5	2006-09-23	 Devils	 	 • Alexander Mogilny	 hip injury (out indefinitely)
+6	2006-10-03	 Devils	 	 • Alexander Mogilny	 placed on long-term injury exception list

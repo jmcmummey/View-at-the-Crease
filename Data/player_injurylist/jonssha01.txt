@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-07	 Penguins	 	 • Hans Jonsson	 bruised foot (DTD)
+1	2000-10-13	 Penguins	 • Hans Jonsson	 	 returned to lineup
+2	2000-10-14	 Penguins	 	 • Hans Jonsson	 concussion (DTD)
+3	2000-10-25	 Penguins	 • Hans Jonsson	 	 returned to lineup
+4	2001-01-30	 Penguins	 	 • Hans Jonsson	 strained hip (DTD)
+5	2001-02-14	 Penguins	 • Hans Jonsson	 	 returned to lineup
+6	2001-02-23	 Penguins	 	 • Hans Jonsson	 strained shoulder (DTD)
+7	2001-03-09	 Penguins	 • Hans Jonsson	 	 returned to lineup
+8	2001-03-31	 Penguins	 	 • Hans Jonsson	 elbow injury (out for season)
+9	2001-10-03	 Penguins	 	 • Hans Jonsson	 placed on IR with broken foot
+10	2001-11-06	 Penguins	 • Hans Jonsson	 	 activated from IR
+11	2002-01-26	 Penguins	 	 • Hans Jonsson	 broken finger (DTD)
+12	2002-02-27	 Penguins	 • Hans Jonsson	 	 returned to lineup
+13	2002-04-13	 Penguins	 	 • Hans Jonsson	 bruised shoulder (DTD)
+14	2002-12-15	 Penguins	 	 • Hans Jonsson	 thigh injury (DTD)
+15	2002-12-21	 Penguins	 • Hans Jonsson	 	 returned to lineup

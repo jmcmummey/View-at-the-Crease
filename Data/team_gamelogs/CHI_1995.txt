@@ -1,0 +1,49 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1995-01-20	@	Detroit Red Wings	1	4	L			21	25	1		0		25	16	1		0
+1	1995-01-23	@	Winnipeg Jets	3	5	L			43	12	1		0		20	29	2		1
+2	1995-01-25		Edmonton Oilers	5	1	W			37	38	2		1		18	46	0		0
+3	1995-01-27		Toronto Maple Leafs	4	1	W			28	24	0		0		19	14	1		0
+4	1995-01-29	@	Los Angeles Kings	6	3	W			42	20	1		0		27	16	1		0
+5	1995-01-30	@	San Jose Sharks	1	2	L			31	15	0		0		14	9	1		0
+6	1995-02-01	@	Edmonton Oilers	7	0	W			17	42	3		0		22	55	0		0
+7	1995-02-03	@	Calgary Flames	4	3	W	OT		31	17	2		0		30	17	1		0
+8	1995-02-05	@	Vancouver Canucks	9	4	W			24	28	3		0		32	28	2		0
+9	1995-02-07	@	Mighty Ducks of Anaheim	3	0	W			22	20	1		0		16	16	0		0
+10	1995-02-09	@	St. Louis Blues	5	0	W			35	15	3		0		19	15	0		0
+11	1995-02-13	@	Toronto Maple Leafs	2	4	L			32	23	0		0		28	8	0		0
+12	1995-02-16		Calgary Flames	2	2	T	OT		31	2	2		0		27	10	0		0
+13	1995-02-19		Edmonton Oilers	4	1	W			23	20	2		0		22	18	0		0
+14	1995-02-20		San Jose Sharks	3	2	W			28	12	0		0		20	8	0		0
+15	1995-02-23		Detroit Red Wings	2	4	L			27	19	0		0		28	6	1		0
+16	1995-02-26	@	Dallas Stars	2	1	W			29	37	0		0		24	39	1		0
+17	1995-02-28	@	Los Angeles Kings	8	4	W			35	18	4		0		25	24	1		0
+18	1995-03-01	@	Mighty Ducks of Anaheim	1	3	L			33	6	0		0		31	6	0		0
+19	1995-03-03	@	Edmonton Oilers	5	2	W			26	14	1		0		29	12	0		1
+20	1995-03-05		Mighty Ducks of Anaheim	3	0	W			32	22	2		0		16	18	0		0
+21	1995-03-07		Calgary Flames	3	6	L			35	31	3		0		24	34	2		0
+22	1995-03-09		Los Angeles Kings	3	4	L			39	4	0		0		25	8	0		1
+23	1995-03-11	@	Toronto Maple Leafs	2	2	T	OT		30	12	0		0		40	8	1		0
+24	1995-03-13	@	Dallas Stars	2	4	L			46	21	2		0		34	21	1		0
+25	1995-03-16		Vancouver Canucks	9	2	W			34	27	3		2		24	10	2		0
+26	1995-03-19	@	Winnipeg Jets	3	2	W			27	21	0		1		38	19	0		0
+27	1995-03-21	@	San Jose Sharks	7	3	W			32	30	2		1		21	38	2		0
+28	1995-03-23	@	Vancouver Canucks	3	1	W			19	23	1		0		24	20	0		0
+29	1995-03-26		Mighty Ducks of Anaheim	5	2	W			39	24	1		0		21	22	0		0
+30	1995-03-29		St. Louis Blues	1	3	L			18	9	0		0		25	13	1		0
+31	1995-03-31		Toronto Maple Leafs	3	3	T	OT		42	40	1		0		24	15	0		0
+32	1995-04-02		Dallas Stars	1	2	L			30	18	0		0		24	24	0		0
+33	1995-04-04	@	Calgary Flames	2	3	L			27	8	1		0		18	8	2		0
+34	1995-04-05	@	Winnipeg Jets	1	4	L			37	17	1		0		34	21	0		0
+35	1995-04-09		Detroit Red Wings	1	4	L			26	15	0		0		28	11	2		0
+36	1995-04-12		San Jose Sharks	2	3	L			31	16	0		0		14	18	0		0
+37	1995-04-14		Detroit Red Wings	1	3	L			31	48	0		1		23	44	1		0
+38	1995-04-16	@	Dallas Stars	0	2	L			24	84	0		0		39	76	2		0
+39	1995-04-17		Toronto Maple Leafs	1	3	L			29	17	0		0		23	15	1		0
+40	1995-04-19		St. Louis Blues	2	2	T	OT		18	29	1		0		21	39	1		0
+41	1995-04-21		Winnipeg Jets	1	2	L			24	15	1		0		20	24	2		0
+42	1995-04-23	@	St. Louis Blues	2	2	T	OT		35	71	2		0		36	58	1		0
+43	1995-04-25		Vancouver Canucks	4	3	W	OT		34	10	1		0		23	23	1		0
+44	1995-04-27		Dallas Stars	5	1	W			31	27	2		0		23	23	0		0
+45	1995-04-30	@	Detroit Red Wings	4	0	W			22	25	1		0		27	10	0		0
+46	1995-05-01		Winnipeg Jets	3	2	W			22	14	0		1		28	6	1		0
+47	1995-05-03		Los Angeles Kings	5	1	W			34	30	1		0		22	19	1		0

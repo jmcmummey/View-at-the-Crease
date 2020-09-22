@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-11-30	 Thrashers	 	 • Jim Slater	 foot injury (DTD)
+1	2006-12-09	 Thrashers	 • Jim Slater	 	 returned to lineup
+2	2008-01-07	 Thrashers	 	 • Jim Slater	 illness (DTD)
+3	2008-01-16	 Thrashers	 • Jim Slater	 	 returned to lineup
+4	2009-01-20	 Thrashers	 	 • Jim Slater	 shoulder injury (DTD)
+5	2009-02-02	 Thrashers	 	 • Jim Slater	 placed on IR with shoulder injury
+6	2009-02-27	 Thrashers	 • Jim Slater	 	 activated from IR
+7	2009-02-28	 Thrashers	 	 • Jim Slater	 shoulder injury (DTD)
+8	2009-03-03	 Thrashers	 • Jim Slater	 	 returned to lineup
+9	2009-03-17	 Thrashers	 	 • Jim Slater	 shoulder injury (DTD)
+10	2010-04-10	 Thrashers	 	 • Jim Slater	 lower body injury (DTD)
+11	2010-10-06	 Thrashers	 	 • Jim Slater	 placed on IR / injured non-roster list with wrist injury
+12	2010-10-14	 Thrashers	 • Jim Slater	 	 activated from IR / injured non-roster list
+13	2011-01-02	 Thrashers	 	 • Jim Slater	 concussion (DTD)
+14	2011-01-07	 Thrashers	 	 • Jim Slater	 placed on IR with concussion (out for season)
+15	2011-10-20	 Jets	 	 • Jim Slater	 flu (DTD)
+16	2011-10-22	 Jets	 • Jim Slater	 	 returned to lineup
+17	2011-10-23	 Jets	 	 • Jim Slater	 undisclosed injury (DTD)
+18	2011-10-27	 Jets	 • Jim Slater	 	 returned to lineup
+19	2011-12-29	 Jets	 	 • Jim Slater	 rib injury (DTD)
+20	2012-01-04	 Jets	 • Jim Slater	 	 returned to lineup
+21	2013-03-13	 Jets	 	 • Jim Slater	 placed on IR with hand injury (out for season)
+22	2013-10-20	 Jets	 	 • Jim Slater	 lower body injury (DTD)
+23	2013-10-26	 Jets	 	 • Jim Slater	 placed on IR with sports hernia
+24	2014-02-26	 Jets	 • Jim Slater	 	 activated from IR
+25	2014-03-16	 Jets	 	 • Jim Slater	 lower body injury (DTD)
+26	2014-03-22	 Jets	 • Jim Slater	 	 returned to lineup

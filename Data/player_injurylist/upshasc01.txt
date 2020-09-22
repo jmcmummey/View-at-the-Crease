@@ -1,0 +1,57 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-12-22	 Predators	 	 • Scottie Upshall	 knee injury (out indefinitely)
+1	2004-01-09	 Predators	 • Scottie Upshall	 	 activated from IR
+2	2006-03-07	 Predators	 	 • Scottie Upshall	 hip injury (DTD)
+3	2006-03-14	 Predators	 • Scottie Upshall	 	 returned to lineup
+4	2006-11-10	 Predators	 	 • Scottie Upshall	 rash (DTD)
+5	2006-11-11	 Predators	 • Scottie Upshall	 	 returned to lineup
+6	2006-11-16	 Predators	 	 • Scottie Upshall	 groin injury (DTD)
+7	2006-11-20	 Predators	 	 • Scottie Upshall	 placed on IR with groin injury
+8	2007-01-16	 Predators	 • Scottie Upshall	 	 activated from IR
+9	2007-03-17	 Flyers	 	 • Scottie Upshall	 shoulder injury (DTD)
+10	2007-03-24	 Flyers	 • Scottie Upshall	 	 returned to lineup
+11	2007-03-28	 Flyers	 	 • Scottie Upshall	 shoulder injury (DTD)
+12	2007-04-05	 Flyers	 • Scottie Upshall	 	 returned to lineup
+13	2007-09-28	 Flyers	 	 • Scottie Upshall	 wrist injury (out indefinitely)
+14	2007-11-01	 Flyers	 • Scottie Upshall	 	 returned to lineup
+15	2007-12-30	 Flyers	 	 • Scottie Upshall	 ankle injury (DTD)
+16	2008-01-12	 Flyers	 • Scottie Upshall	 	 returned to lineup
+17	2008-02-09	 Flyers	 	 • Scottie Upshall	 sprained right ankle (DTD)
+18	2008-02-16	 Flyers	 • Scottie Upshall	 	 returned to lineup
+19	2008-03-16	 Flyers	 	 • Scottie Upshall	 undisclosed injury (DTD)
+20	2008-03-18	 Flyers	 • Scottie Upshall	 	 returned to lineup
+21	2008-12-22	 Flyers	 	 • Scottie Upshall	 placed on IR with sprained right knee
+22	2009-01-02	 Flyers	 • Scottie Upshall	 	 activated from IR
+23	2009-02-04	 Flyers	 	 • Scottie Upshall	 flu (DTD)
+24	2009-02-12	 Flyers	 • Scottie Upshall	 	 returned to lineup
+25	2009-11-04	 Coyotes	 	 • Scottie Upshall	 lower body injury (DTD)
+26	2009-11-05	 Coyotes	 • Scottie Upshall	 	 returned to lineup
+27	2010-01-04	 Coyotes	 	 • Scottie Upshall	 upper body injury (DTD)
+28	2010-01-07	 Coyotes	 	 • Scottie Upshall	 placed on IR
+29	2010-01-11	 Coyotes	 • Scottie Upshall	 	 activated from IR
+30	2010-01-30	 Coyotes	 	 • Scottie Upshall	 torn ACL in right knee (DTD)
+31	2011-11-13	 Panthers	 	 • Scottie Upshall	 upper body injury (DTD)
+32	2011-11-15	 Panthers	 	 • Scottie Upshall	 placed on IR with upper body injury
+33	2012-01-20	 Panthers	 • Scottie Upshall	 	 activated from IR
+34	2012-02-01	 Panthers	 	 • Scottie Upshall	 placed on IR for surgery to repair sports hernia
+35	2012-03-21	 Panthers	 • Scottie Upshall	 	 activated from IR
+36	2013-02-01	 Panthers	 	 • Scottie Upshall	 placed on IR with ankle injury
+37	2013-03-02	 Panthers	 	 • Scottie Upshall	 lower body injury (left game)
+38	2013-03-02	 Panthers	 • Scottie Upshall	 	 activated from IR
+39	2013-03-03	 Panthers	 	 • Scottie Upshall	 placed on IR with lower body injury
+40	2013-03-19	 Panthers	 • Scottie Upshall	 	 activated from IR
+41	2013-12-28	 Panthers	 	 • Scottie Upshall	 upper body injury (DTD)
+42	2014-01-04	 Panthers	 • Scottie Upshall	 	 returned to lineup
+43	2014-11-20	 Panthers	 	 • Scottie Upshall	 lower body injury (DTD)
+44	2014-11-24	 Panthers	 • Scottie Upshall	 	 returned to lineup
+45	2014-11-25	 Panthers	 	 • Scottie Upshall	 placed on IR with ankle injury
+46	2014-12-15	 Panthers	 • Scottie Upshall	 	 activated from IR
+47	2015-04-02	 Panthers	 	 • Scottie Upshall	 upper body injury (DTD)
+48	2015-04-04	 Panthers	 • Scottie Upshall	 	 returned to lineup
+49	2015-10-29	 Blues	 	 • Scottie Upshall	 undisclosed (DTD)
+50	2015-10-31	 Blues	 • Scottie Upshall	 	 returned to lineup
+51	2016-05-21	 Blues	 	 • Scottie Upshall	 upper body injury (DTD)
+52	2016-05-25	 Blues	 • Scottie Upshall	 	 returned to lineup
+53	2018-03-05	 Blues	 	 • Scottie Upshall	 sprained MCL in left knee (out indefinitely)
+54	2018-03-27	 Blues	 • Scottie Upshall	 	 returned to lineup
+55	2018-04-02	 Blues	 	 • Scottie Upshall	 kidney injury (out for season)

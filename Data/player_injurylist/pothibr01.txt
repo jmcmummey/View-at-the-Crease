@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-28	 Senators	 	 • Brian Pothier	 concussion (left game)
+1	2006-01-05	 Senators	 	 • Brian Pothier	 foot injury (DTD)
+2	2006-01-07	 Senators	 • Brian Pothier	 	 returned to lineup
+3	2006-02-01	 Senators	 	 • Brian Pothier	 food poisoning (DTD)
+4	2006-02-04	 Senators	 • Brian Pothier	 	 returned to lineup
+5	2007-01-20	 Capitals	 	 • Brian Pothier	 flu (concussion per CBC) (DTD)
+6	2007-02-15	 Capitals	 • Brian Pothier	 	 returned to lineup
+7	2007-12-21	 Capitals	 	 • Brian Pothier	 broken thumb (out indefinitely)
+8	2007-12-26	 Capitals	 • Brian Pothier	 	 returned to lineup
+9	2008-01-03	 Capitals	 	 • Brian Pothier	 head injury (out indefinitely)
+10	2008-09-20	 Capitals	 	 • Brian Pothier	 placed on IR with post-concussion syndrome
+11	2009-03-04	 Capitals	 • Brian Pothier	 	 activated from IR
+12	2009-12-11	 Capitals	 	 • Brian Pothier	 rib injury (DTD)
+13	2010-01-07	 Capitals	 • Brian Pothier	 	 activated from IR
+14	2010-01-15	 Capitals	 	 • Brian Pothier	 undisclosed (DTD)
+15	2010-01-27	 Capitals	 • Brian Pothier	 	 returned to lineup

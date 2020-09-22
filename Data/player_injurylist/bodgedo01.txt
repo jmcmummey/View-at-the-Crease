@@ -1,0 +1,14 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-12-28	 Sabres	 	 • Doug Bodger	 shoulder injury (DTD)
+1	1991-02-17	 Sabres	 	 • Doug Bodger	 separated left shoulder (out indefinitely)
+2	1991-03-30	 Sabres	 	 • Doug Bodger	 left shoulder injury (DTD)
+3	1992-02-11	 Sabres	 	 • Doug Bodger	 eye injury (DTD)
+4	1993-12-02	 Sabres	 	 • Doug Bodger	 sore back (DTD)
+5	1995-03-19	 Sabres	 	 • Doug Bodger	 flu (DTD)
+6	1995-04-28	 Sabres	 	 • Doug Bodger	 bruised shoulder (out for season)
+7	1996-01-17	 Sharks	 	 • Doug Bodger	 knee injury (DTD)
+8	1996-02-23	 Sharks	 	 • Doug Bodger	 groin injury (DTD)
+9	1998-11-25	 Kings	 • Doug Bodger	 	 returned to lineup
+10	1998-12-30	 Kings	 	 • Doug Bodger	 bruised right arm & neck (DTD)
+11	1999-01-04	 Kings	 	 • Doug Bodger	 placed on IR with bruised right arm & neck
+12	1999-01-14	 Kings	 • Doug Bodger	 	 activated from IR

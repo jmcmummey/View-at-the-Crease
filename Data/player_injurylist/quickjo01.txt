@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-11-13	 Kings	 	 • Jonathan Quick	 strained groin (DTD)
+1	2013-11-25	 Kings	 	 • Jonathan Quick	 placed on IR with strained groin
+2	2014-01-04	 Kings	 • Jonathan Quick	 	 activated from IR
+3	2016-02-10	 Kings	 	 • Jonathan Quick	 undisclosed (DTD)
+4	2016-02-16	 Kings	 • Jonathan Quick	 	 returned to lineup
+5	2016-10-13	 Kings	 	 • Jonathan Quick	 placed on IR with groin injury
+6	2017-02-25	 Kings	 • Jonathan Quick	 	 activated from IR
+7	2018-01-29	 Kings	 	 • Jonathan Quick	 placed on IR with undisclosed injury
+8	2018-02-01	 Kings	 • Jonathan Quick	 	 activated from IR
+9	2018-10-07	 Kings	 	 • Jonathan Quick	 placed on IR with lower body injury
+10	2018-10-18	 Kings	 • Jonathan Quick	 	 activated from IR
+11	2018-10-28	 Kings	 	 • Jonathan Quick	 torn meniscus in knee (DTD)
+12	2018-10-28	 Kings	 	 • Jonathan Quick	 placed on IR with torn meniscus in knee
+13	2018-10-31	 Kings	 	 • Jonathan Quick	 placed on IR with surgery on knee to repair torn meniscus
+14	2018-11-27	 Kings	 • Jonathan Quick	 	 activated from IR

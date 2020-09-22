@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-21	 Blackhawks	 	 • Marcus Kruger	 head injury (DTD)
+1	2011-12-26	 Blackhawks	 • Marcus Kruger	 	 returned to lineup
+2	2011-12-27	 Blackhawks	 	 • Marcus Kruger	 concussion (DTD)
+3	2012-01-04	 Blackhawks	 	 • Marcus Kruger	 placed on IR with concussion
+4	2012-01-13	 Blackhawks	 • Marcus Kruger	 	 activated from IR
+5	2012-03-22	 Blackhawks	 	 • Marcus Kruger	 concussion (DTD)
+6	2012-03-27	 Blackhawks	 • Marcus Kruger	 	 returned to lineup
+7	2015-04-09	 Blackhawks	 	 • Marcus Kruger	 illness (DTD)
+8	2015-04-11	 Blackhawks	 • Marcus Kruger	 	 returned to lineup
+9	2015-12-18	 Blackhawks	 	 • Marcus Kruger	 left wrist injury (surgery) (out indefinitely)
+10	2015-12-28	 Blackhawks	 	 • Marcus Kruger	 placed on IR with left wrist injury (surgery)
+11	2016-03-25	 Blackhawks	 • Marcus Kruger	 	 activated from IR
+12	2016-12-31	 Blackhawks	 	 • Marcus Kruger	 placed on IR with upper body injury
+13	2017-01-24	 Blackhawks	 • Marcus Kruger	 	 activated from IR
+14	2017-01-31	 Blackhawks	 	 • Marcus Kruger	 illness (DTD)
+15	2017-02-02	 Blackhawks	 • Marcus Kruger	 	 returned to lineup
+16	2017-11-18	 Hurricanes	 	 • Marcus Kruger	 flu (DTD)
+17	2017-11-18	 Hurricanes	 • Marcus Kruger	 	 returned to lineup
+18	2017-12-29	 Hurricanes	 	 • Marcus Kruger	 undisclosed (DTD)
+19	2017-12-29	 Hurricanes	 	 • Marcus Kruger	 placed on IR with undisclosed injury
+20	2018-01-03	 Hurricanes	 	 • Marcus Kruger	 placed on IR with lower body injury
+21	2018-01-05	 Hurricanes	 • Marcus Kruger	 	 activated from IR
+22	2018-11-09	 Blackhawks	 	 • Marcus Kruger	 leg injury (DTD)
+23	2018-11-13	 Blackhawks	 	 • Marcus Kruger	 placed on IR with leg injury
+24	2018-11-16	 Blackhawks	 • Marcus Kruger	 	 activated from IR
+25	2018-12-19	 Blackhawks	 	 • Marcus Kruger	 placed on IR with concussion
+26	2018-12-28	 Blackhawks	 • Marcus Kruger	 	 activated from IR

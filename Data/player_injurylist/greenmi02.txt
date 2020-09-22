@@ -1,0 +1,89 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-18	 Capitals	 	 • Mike Green (David)	 foot injury (DTD)
+1	2007-01-20	 Capitals	 • Mike Green (David)	 	 returned to lineup
+2	2008-11-20	 Capitals	 	 • Mike Green (David)	 placed on IR with right shoulder injury
+3	2008-12-12	 Capitals	 • Mike Green (David)	 	 activated from IR
+4	2008-12-19	 Capitals	 	 • Mike Green (David)	 shoulder injury (DTD)
+5	2008-12-23	 Capitals	 	 • Mike Green (David)	 shoulder injury (DTD)
+6	2008-12-28	 Capitals	 • Mike Green (David)	 	 returned to lineup
+7	2009-03-16	 Capitals	 	 • Mike Green (David)	 flu (DTD)
+8	2009-03-17	 Capitals	 • Mike Green (David)	 	 returned to lineup
+9	2009-11-07	 Capitals	 	 • Mike Green (David)	 upper body injury (DTD)
+10	2009-11-11	 Capitals	 • Mike Green (David)	 	 returned to lineup
+11	2009-12-15	 Capitals	 	 • Mike Green (David)	 undisclosed injury (left game)
+12	2010-01-21	 Capitals	 	 • Mike Green (David)	 undisclosed injury (DTD)
+13	2010-01-23	 Capitals	 • Mike Green (David)	 	 returned to lineup
+14	2010-01-29	 Capitals	 	 • Mike Green (David)	 left knee injury (left game)
+15	2010-04-06	 Capitals	 	 • Mike Green (David)	 undisclosed (DTD)
+16	2010-04-09	 Capitals	 • Mike Green (David)	 	 returned to lineup
+17	2010-10-14	 Capitals	 	 • Mike Green (David)	 stinger (DTD)
+18	2010-10-23	 Capitals	 • Mike Green (David)	 	 returned to lineup
+19	2010-11-24	 Capitals	 	 • Mike Green (David)	 undisclosed (DTD)
+20	2010-11-28	 Capitals	 • Mike Green (David)	 	 returned to lineup
+21	2010-12-11	 Capitals	 	 • Mike Green (David)	 illness (DTD)
+22	2010-12-15	 Capitals	 • Mike Green (David)	 	 returned to lineup
+23	2011-02-07	 Capitals	 	 • Mike Green (David)	 head injury (DTD)
+24	2011-02-14	 Capitals	 	 • Mike Green (David)	 undisclosed (DTD) (CBC)
+25	2011-02-25	 Capitals	 • Mike Green (David)	 	 returned to lineup
+26	2011-02-26	 Capitals	 	 • Mike Green (David)	 head injury (out indefinitely)
+27	2011-03-09	 Capitals	 	 • Mike Green (David)	 placed on IR with head injury (out for season)
+28	2011-04-26	 Capitals	 	 • Mike Green (David)	 head injury (DTD) (Y)
+29	2011-10-24	 Capitals	 	 • Mike Green (David)	 ankle injury (DTD)
+30	2011-10-27	 Capitals	 	 • Mike Green (David)	 chin injury (DTD)
+31	2011-11-11	 Capitals	 • Mike Green (David)	 	 returned to lineup
+32	2011-11-12	 Capitals	 	 • Mike Green (David)	 groin injury (DTD)
+33	2011-11-25	 Capitals	 	 • Mike Green (David)	 groin injury (out indefinitely)
+34	2011-12-31	 Capitals	 	 • Mike Green (David)	 placed on IR with groin injury
+35	2012-01-03	 Capitals	 • Mike Green (David)	 	 activated from IR
+36	2012-01-09	 Capitals	 	 • Mike Green (David)	 groin injury (DTD)
+37	2012-01-12	 Capitals	 	 • Mike Green (David)	 placed on IR with groin injury
+38	2012-02-18	 Capitals	 • Mike Green (David)	 	 activated from IR
+39	2013-02-17	 Capitals	 	 • Mike Green (David)	 lower body injury (DTD)
+40	2013-02-26	 Capitals	 • Mike Green (David)	 	 returned to lineup
+41	2013-03-02	 Capitals	 	 • Mike Green (David)	 groin injury (DTD)
+42	2013-03-05	 Capitals	 	 • Mike Green (David)	 placed on IR with groin injury
+43	2013-03-21	 Capitals	 • Mike Green (David)	 	 activated from IR
+44	2013-11-13	 Capitals	 	 • Mike Green (David)	 lower body injury (DTD)
+45	2013-11-17	 Capitals	 	 • Mike Green (David)	 placed on IR with lower body injury
+46	2013-11-22	 Capitals	 • Mike Green (David)	 	 activated from IR
+47	2014-01-31	 Capitals	 	 • Mike Green (David)	 head injury (DTD)
+48	2014-02-27	 Capitals	 • Mike Green (David)	 	 returned to lineup
+49	2014-04-07	 Capitals	 	 • Mike Green (David)	 upper body injury (out for season)
+50	2014-10-09	 Capitals	 	 • Mike Green (David)	 upper body injury (DTD)
+51	2014-10-11	 Capitals	 • Mike Green (David)	 	 returned to lineup
+52	2014-11-23	 Capitals	 	 • Mike Green (David)	 upper body injury (DTD)
+53	2014-11-29	 Capitals	 	 • Mike Green (David)	 placed on IR with upper body injury
+54	2014-12-11	 Capitals	 • Mike Green (David)	 	 activated from IR
+55	2015-02-06	 Capitals	 	 • Mike Green (David)	 undisclosed (DTD)
+56	2015-02-08	 Capitals	 • Mike Green (David)	 	 returned to lineup
+57	2015-03-10	 Capitals	 	 • Mike Green (David)	 upper body injury (DTD)
+58	2015-03-13	 Capitals	 • Mike Green (David)	 	 returned to lineup
+59	2015-10-24	 Red Wings	 	 • Mike Green (David)	 upper body injury (DTD)
+60	2015-11-07	 Red Wings	 • Mike Green (David)	 	 returned to lineup
+61	2016-02-08	 Red Wings	 	 • Mike Green (David)	 groin injury (DTD)
+62	2016-02-12	 Red Wings	 • Mike Green (David)	 	 returned to lineup
+63	2016-12-18	 Red Wings	 	 • Mike Green (David)	 undisclosed injury (DTD)
+64	2016-12-27	 Red Wings	 	 • Mike Green (David)	 placed on IR with lower body injury
+65	2017-01-10	 Red Wings	 • Mike Green (David)	 	 activated from IR
+66	2017-02-18	 Red Wings	 	 • Mike Green (David)	 illness (DTD)
+67	2017-02-21	 Red Wings	 • Mike Green (David)	 	 returned to lineup
+68	2018-02-17	 Red Wings	 	 • Mike Green (David)	 upper body injury (DTD)
+69	2018-03-01	 Red Wings	 • Mike Green (David)	 	 returned to lineup
+70	2018-03-22	 Red Wings	 	 • Mike Green (David)	 neck injury (out for season)
+71	2018-10-01	 Red Wings	 	 • Mike Green (David)	 placed on IR with illness
+72	2018-10-26	 Red Wings	 • Mike Green (David)	 	 activated from IR
+73	2018-12-14	 Red Wings	 	 • Mike Green (David)	 lower body injury (out indefinitely)
+74	2018-12-15	 Red Wings	 	 • Mike Green (David)	 placed on IR with lower body injury
+75	2019-01-11	 Red Wings	 • Mike Green (David)	 	 activated from IR
+76	2019-03-05	 Red Wings	 	 • Mike Green (David)	 viral illness (out for season)
+77	2019-04-01	 Red Wings	 	 • Mike Green (David)	 placed on IR with viral illness (out for season)
+78	2019-11-02	 Red Wings	 	 • Mike Green (David)	 illness (DTD)
+79	2019-11-08	 Red Wings	 • Mike Green (David)	 	 returned to lineup
+80	2019-11-19	 Red Wings	 • Mike Green (David)	 	 returned to lineup
+81	2019-11-21	 Red Wings	 	 • Mike Green (David)	 upper body injury (DTD)
+82	2019-11-24	 Red Wings	 	 • Mike Green (David)	 placed on IR with upper body injury
+83	2019-11-29	 Red Wings	 • Mike Green (David)	 	 activated from IR
+84	2020-01-21	 Red Wings	 	 • Mike Green (David)	 upper body injury (out indefinitely)
+85	2020-02-05	 Red Wings	 	 • Mike Green (David)	 placed on IR with upper body injury
+86	2020-02-09	 Red Wings	 • Mike Green (David)	 	 activated from IR
+87	2020-02-27	 Oilers	 	 • Mike Green (David)	 sprained MCL in knee (out indefinitely)

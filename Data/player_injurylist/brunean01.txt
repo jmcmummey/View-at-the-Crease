@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-05-06	 Avalanche	 	 • Andrew Brunette	 jaw injury (DTD)
+1	2006-05-07	 Avalanche	 • Andrew Brunette	 	 returned to lineup
+2	2009-01-18	 Wild	 	 • Andrew Brunette	 right knee injury (DTD)
+3	2009-02-20	 Wild	 	 • Andrew Brunette	 lower body injury (DTD)
+4	2009-02-24	 Wild	 • Andrew Brunette	 	 returned to lineup
+5	2012-02-03	 Blackhawks	 	 • Andrew Brunette	 upper body injury (DTD)
+6	2012-02-07	 Blackhawks	 • Andrew Brunette	 	 returned to lineup
+7	2012-04-01	 Blackhawks	 	 • Andrew Brunette	 lower body injury (out for season)

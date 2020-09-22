@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1993-10-24	 Canucks	 	 • Pavel Bure	 strained groin (DTD)
+1	1995-03-17	 Canucks	 	 • Pavel Bure	 unknown injury (DTD)
+2	1995-11-09	 Canucks	 	 • Pavel Bure	 torn ACL in knee (out for season)
+3	1999-02-05	 Panthers	 	 • Pavel Bure	 knee injury (out indefinitely)
+4	2001-12-11	 Panthers	 • Pavel Bure	 	" ""activated"""
+5	2002-12-06	 Rangers	 	 • Pavel Bure	 knee injury (out indefinitely)

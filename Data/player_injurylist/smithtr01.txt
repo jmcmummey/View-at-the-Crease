@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-12-18	 Maple Leafs	 	 • Trevor Smith	 placed on IR with fractured hand
+1	2014-02-27	 Maple Leafs	 • Trevor Smith	 	 activated from IR
+2	2015-02-17	 Maple Leafs	 	 • Trevor Smith	 lower body injury (DTD)
+3	2015-03-03	 Maple Leafs	 • Trevor Smith	 	 returned to lineup
+4	2015-03-26	 Maple Leafs	 	 • Trevor Smith	 undisclosed (DTD)
+5	2015-03-28	 Maple Leafs	 • Trevor Smith	 	 returned to lineup
+6	2015-04-05	 Maple Leafs	 	 • Trevor Smith	 facial injury (out for season)

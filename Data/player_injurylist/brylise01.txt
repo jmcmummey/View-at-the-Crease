@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1995-05-03	 Devils	 	 • Sergei Brylin	 tonsillitis (out for season)
+1	1995-11-16	 Devils	 	 • Sergei Brylin	 broken hand (out indefinitely)
+2	1997-10-01	 Devils	 	 • Sergei Brylin	 placed on IR
+3	2001-03-06	 Devils	 • Sergei Brylin	 	 activated from IR

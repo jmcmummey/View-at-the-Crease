@@ -1,0 +1,25 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-03-07	 Hurricanes	 	 • Riley Nash	 illness (DTD)
+1	2013-03-09	 Hurricanes	 • Riley Nash	 	 returned to lineup
+2	2014-01-02	 Hurricanes	 	 • Riley Nash	 lower body injury (DTD)
+3	2014-01-05	 Hurricanes	 	 • Riley Nash	 placed on IR with lower body injury
+4	2014-01-11	 Hurricanes	 • Riley Nash	 	 activated from IR
+5	2015-03-29	 Hurricanes	 	 • Riley Nash	 head injury/concussion (out for season)
+6	2015-10-13	 Hurricanes	 	 • Riley Nash	 shoulder injury (DTD)
+7	2015-10-24	 Hurricanes	 • Riley Nash	 	 returned to lineup
+8	2016-01-22	 Hurricanes	 	 • Riley Nash	 illness (DTD)
+9	2016-01-26	 Hurricanes	 • Riley Nash	 	 returned to lineup
+10	2016-03-27	 Hurricanes	 	 • Riley Nash	 undisclosed injury (DTD)
+11	2016-04-05	 Hurricanes	 • Riley Nash	 	 returned to lineup
+12	2017-12-21	 Bruins	 	 • Riley Nash	 illness (DTD)
+13	2017-12-23	 Bruins	 • Riley Nash	 	 returned to lineup
+14	2018-04-03	 Bruins	 	 • Riley Nash	 head injury (DTD)
+15	2018-04-16	 Bruins	 • Riley Nash	 	 returned to lineup
+16	2018-05-04	 Bruins	 	 • Riley Nash	 undisclosed injury (out for season)
+17	2018-11-15	 Blue Jackets	 	 • Riley Nash	 illness (DTD)
+18	2018-11-17	 Blue Jackets	 • Riley Nash	 	 returned to lineup
+19	2019-03-03	 Blue Jackets	 	 • Riley Nash	 undisclosed (DTD)
+20	2019-03-07	 Blue Jackets	 • Riley Nash	 	 returned to lineup
+21	2019-05-02	 Blue Jackets	 	 • Riley Nash	 upper body injury (out for season)
+22	2020-02-25	 Blue Jackets	 	 • Riley Nash	 upper body injury (DTD)
+23	2020-02-27	 Blue Jackets	 • Riley Nash	 	 returned to lineup

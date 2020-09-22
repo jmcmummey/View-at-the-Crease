@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-06	 Kings	 	 • Marc-Andre Cliche	 placed on IR with separated shoulder
+1	2009-02-04	 Kings	 • Marc-Andre Cliche	 	 activated from IR
+2	2010-10-06	 Kings	 	 • Marc-Andre Cliche	 placed on IR / injured-non-roster list (CBC) with knee injury
+3	2010-10-29	 Kings	 • Marc-Andre Cliche	 	 activated from IR / non-roster list
+4	2014-11-30	 Avalanche	 	 • Marc-Andre Cliche	 undisclosed injury (DTD)
+5	2014-12-13	 Avalanche	 • Marc-Andre Cliche	 	 returned to lineup

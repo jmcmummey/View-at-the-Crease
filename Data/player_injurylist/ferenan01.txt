@@ -1,0 +1,45 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-12-26	 Penguins	 	 • Andrew Ference	 flu (DTD)
+1	2001-12-29	 Penguins	 • Andrew Ference	 	 returned to lineup
+2	2002-10-03	 Penguins	 	 • Andrew Ference	 surgery to repair hernia (DTD)
+3	2002-11-18	 Penguins	 	 • Andrew Ference	 groin injury (out indefinitely)
+4	2002-11-29	 Penguins	 • Andrew Ference	 	 returned to lineup
+5	2003-03-20	 Flames	 	 • Andrew Ference	 ankle injury (out indefinitely)
+6	2007-11-04	 Bruins	 	 • Andrew Ference	 upper body injury (DTD)
+7	2007-11-15	 Bruins	 • Andrew Ference	 	 returned to lineup
+8	2007-11-17	 Bruins	 	 • Andrew Ference	 sprained knee (DTD)
+9	2007-12-12	 Bruins	 • Andrew Ference	 	 returned to lineup
+10	2008-03-25	 Bruins	 	 • Andrew Ference	 leg injury (DTD)
+11	2008-04-10	 Bruins	 • Andrew Ference	 	 returned to lineup
+12	2008-11-14	 Bruins	 	 • Andrew Ference	 fractured right tibia (DTD)
+13	2008-11-19	 Bruins	 	 • Andrew Ference	 placed on IR with fractured right tibia
+14	2009-01-27	 Bruins	 • Andrew Ference	 	 activated from IR
+15	2009-04-06	 Bruins	 	 • Andrew Ference	 undisclosed injury (DTD)
+16	2009-04-17	 Bruins	 	 • Andrew Ference	 undisclosed injury (out for season)
+17	2009-05-08	 Bruins	 	 • Andrew Ference	 lower body injury (out for season)
+18	2010-01-05	 Bruins	 	 • Andrew Ference	 groin injury (DTD)
+19	2010-02-07	 Bruins	 • Andrew Ference	 	 returned to lineup
+20	2010-03-04	 Bruins	 	 • Andrew Ference	 groin injury (DTD)
+21	2010-03-18	 Bruins	 • Andrew Ference	 	 returned to lineup
+22	2010-03-27	 Bruins	 	 • Andrew Ference	 groin injury (DTD)
+23	2010-04-15	 Bruins	 • Andrew Ference	 	 returned to lineup
+24	2011-01-15	 Bruins	 	 • Andrew Ference	 upper body / hip (CBC) injury (DTD)
+25	2011-01-20	 Bruins	 • Andrew Ference	 	 returned to lineup
+26	2011-02-27	 Bruins	 	 • Andrew Ference	 lower body injury (DTD)
+27	2011-03-19	 Bruins	 • Andrew Ference	 	 returned to lineup
+28	2011-11-12	 Bruins	 	 • Andrew Ference	 lower body injury (DTD)
+29	2011-11-17	 Bruins	 • Andrew Ference	 	 returned to lineup
+30	2012-03-03	 Bruins	 	 • Andrew Ference	 lower body injury (DTD)
+31	2012-03-11	 Bruins	 • Andrew Ference	 	 returned to lineup
+32	2013-05-12	 Bruins	 	 • Andrew Ference	 undisclosed injury (DTD)
+33	2013-06-01	 Bruins	 • Andrew Ference	 	 returned to lineup
+34	2014-01-26	 Oilers	 	 • Andrew Ference	 head injury (DTD)
+35	2014-02-01	 Oilers	 • Andrew Ference	 	 returned to lineup
+36	2014-03-30	 Oilers	 	 • Andrew Ference	 torn pectoral muscle (out for season)
+37	2015-03-24	 Oilers	 	 • Andrew Ference	 lower body injury (out for season)
+38	2015-11-14	 Oilers	 	 • Andrew Ference	 flu (DTD)
+39	2015-11-27	 Oilers	 • Andrew Ference	 	 returned to lineup
+40	2015-12-05	 Oilers	 	 • Andrew Ference	 placed on IR with undisclosed injury
+41	2015-12-14	 Oilers	 • Andrew Ference	 	 activated from IR
+42	2015-12-21	 Oilers	 	 • Andrew Ference	 placed on IR with undisclosed injury (out for season)
+43	2016-10-10	 Oilers	 	 • Andrew Ference	 placed on IR with hip injury

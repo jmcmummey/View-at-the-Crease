@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-28	 Canucks	 	 • Markus Naslund	 hip injury (DTD)
+1	2006-01-31	 Canucks	 • Markus Naslund	 	 returned to lineup

@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-03	 Islanders	 	 • Nino Niederreiter	 placed on IR with groin injury
+1	2011-11-03	 Islanders	 • Nino Niederreiter	 	 activated from IR
+2	2011-12-03	 Islanders	 	 • Nino Niederreiter	 concussion (out indefinitely)
+3	2011-12-17	 Islanders	 • Nino Niederreiter	 	 returned to lineup
+4	2014-04-03	 Wild	 	 • Nino Niederreiter	 upper body injury (DTD)
+5	2014-04-05	 Wild	 • Nino Niederreiter	 	 returned to lineup
+6	2015-03-05	 Wild	 	 • Nino Niederreiter	 lower body injury (DTD)
+7	2015-03-06	 Wild	 • Nino Niederreiter	 	 returned to lineup
+8	2015-04-09	 Wild	 	 • Nino Niederreiter	 general soreness (DTD)
+9	2015-04-11	 Wild	 • Nino Niederreiter	 	 returned to lineup
+10	2017-10-13	 Wild	 	 • Nino Niederreiter	 placed on IR with left high ankle sprain
+11	2017-10-31	 Wild	 • Nino Niederreiter	 	 activated from IR
+12	2017-12-23	 Wild	 	 • Nino Niederreiter	 ankle injury (DTD)
+13	2018-01-04	 Wild	 • Nino Niederreiter	 	 returned to lineup
+14	2018-01-09	 Wild	 	 • Nino Niederreiter	 lower body injury (DTD)
+15	2018-02-01	 Wild	 • Nino Niederreiter	 	 returned to lineup

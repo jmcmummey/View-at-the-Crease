@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-10-26	 Islanders	 	 • Colin McDonald	 hip injury (DTD)
+1	2013-11-07	 Islanders	 • Colin McDonald	 	 returned to lineup
+2	2017-10-03	 Flyers	 	 • Colin McDonald	 placed on IR with lower body injury
+3	2017-10-24	 Flyers	 • Colin McDonald	 	 activated from IR

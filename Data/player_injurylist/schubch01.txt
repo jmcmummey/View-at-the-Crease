@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-12	 Senators	 	 • Christoph Schubert	 hamstring (DTD)
+1	2006-01-14	 Senators	 • Christoph Schubert	 	 returned to lineup
+2	2006-02-03	 Senators	 	 • Christoph Schubert	 back injury (DTD)
+3	2006-02-06	 Senators	 • Christoph Schubert	 	 returned to lineup
+4	2010-01-18	 Thrashers	 	 • Christoph Schubert	 lower body injry (DTD)
+5	2010-01-21	 Thrashers	 	 • Christoph Schubert	 placed on IR
+6	2010-03-02	 Thrashers	 • Christoph Schubert	 	 activated from IR
+7	2010-03-09	 Thrashers	 	 • Christoph Schubert	 hip injury (out for season)

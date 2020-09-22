@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-12-23	 Blues	 	 • Ryan Reaves	 hip injury (DTD)
+1	2011-12-26	 Blues	 • Ryan Reaves	 	 returned to lineup
+2	2011-12-27	 Blues	 	 • Ryan Reaves	 placed on IR with right hip injury
+3	2012-01-05	 Blues	 • Ryan Reaves	 	 activated from IR
+4	2013-11-24	 Blues	 	 • Ryan Reaves	 placed on IR with fractured right hand
+5	2014-01-02	 Blues	 • Ryan Reaves	 	 activated from IR
+6	2014-11-11	 Blues	 	 • Ryan Reaves	 ankle injury (DTD)
+7	2014-11-13	 Blues	 • Ryan Reaves	 	 returned to lineup

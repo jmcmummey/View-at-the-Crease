@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-04-11	 Lightning	 	 • Teddy Purcell	 flu (DTD)
+1	2014-04-13	 Lightning	 • Teddy Purcell	 	 returned to lineup
+2	2014-10-12	 Oilers	 	 • Teddy Purcell	 undisclosed injury (DTD)
+3	2016-03-07	 Panthers	 	 • Teddy Purcell	 groin injury (DTD)
+4	2016-03-15	 Panthers	 • Teddy Purcell	 	 returned to lineup
+5	2016-10-29	 Kings	 	 • Teddy Purcell	 lower body injury (DTD)
+6	2016-11-03	 Kings	 • Teddy Purcell	 	 returned to lineup

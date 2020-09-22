@@ -1,0 +1,16 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-02-01	 Flames	 	 • Denis Gauthier	 hip injury (out indefinitely)
+1	2005-10-17	 Coyotes	 	 • Denis Gauthier	 fractured finger (out ~4 weeks)
+2	2005-11-16	 Coyotes	 • Denis Gauthier	 	 returned to lineup
+3	2006-02-01	 Coyotes	 	 • Denis Gauthier	 left shoulder injury (DTD)
+4	2006-02-09	 Coyotes	 • Denis Gauthier	 	 returned to lineup
+5	2006-10-05	 Flyers	 	 • Denis Gauthier	 concussion (DTD)
+6	2006-10-07	 Flyers	 • Denis Gauthier	 	 returned to lineup
+7	2006-11-11	 Flyers	 	 • Denis Gauthier	 left shoulder injury (DTD)
+8	2006-11-12	 Flyers	 	 • Denis Gauthier	 surgery on left shoulder (out indefinitely)
+9	2007-01-27	 Flyers	 • Denis Gauthier	 	 returned to lineup
+10	2007-03-30	 Flyers	 	 • Denis Gauthier	 right wrist injury (out indefinitely)
+11	2008-12-01	 Kings	 	 • Denis Gauthier	 right foot injury (DTD)
+12	2008-12-05	 Kings	 • Denis Gauthier	 	 returned to lineup
+13	2009-03-20	 Kings	 	 • Denis Gauthier	 upper body injury (DTD)
+14	2009-03-31	 Kings	 • Denis Gauthier	 	 returned to lineup

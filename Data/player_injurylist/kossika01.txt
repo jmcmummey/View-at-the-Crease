@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-09-15	 Ducks	 	 • Kalle Kossila	 placed on IR with hip injury
+1	2018-10-25	 Ducks	 • Kalle Kossila	 	 activated from IR
+2	2019-09-30	 Maple Leafs	 	 • Kalle Kossila	 placed on injured/non-roster list with undisclosed injury
+3	2019-10-09	 Maple Leafs	 • Kalle Kossila	 	 activated from injured/non-roster list with undisclosed injury

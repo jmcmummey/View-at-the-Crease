@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-10-26	 Flames	 • Jason Wiemer	 	 activated from IR
+1	2006-09-14	 Devils	 	 • Jason Wiemer	 surgery on knee (out until late Feb)

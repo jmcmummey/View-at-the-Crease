@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-11-13	 Devils	 	 • Nico Hischier	 upper body injury (DTD)
+1	2018-11-21	 Devils	 • Nico Hischier	 	 returned to lineup
+2	2019-03-04	 Devils	 	 • Nico Hischier	 upper body injury (DTD)
+3	2019-03-23	 Devils	 • Nico Hischier	 	 returned to lineup
+4	2019-10-16	 Devils	 	 • Nico Hischier	 upper body injury (DTD)
+5	2019-10-25	 Devils	 • Nico Hischier	 	 returned to lineup
+6	2019-12-06	 Devils	 	 • Nico Hischier	 illness (DTD)
+7	2019-12-10	 Devils	 	 • Nico Hischier	 placed on IR with illness
+8	2019-12-13	 Devils	 • Nico Hischier	 	 activated from IR
+9	2020-02-04	 Devils	 	 • Nico Hischier	 knee injury (DTD)
+10	2020-02-16	 Devils	 • Nico Hischier	 	 returned to lineup

@@ -1,0 +1,81 @@
+	date_game	game_location	opp_name	goals	opp_goals	game_outcome	overtimes	empty1	shots	pen_min	goals_pp	chances_pp	goals_sh	empty2	shots_against	pen_min_opp	goals_against_pp	opp_chances_pp	goals_against_sh
+0	1990-10-04	@	Boston Bruins	1	4	L			27	8	1		0		16	12	1		0
+1	1990-10-06	@	New Jersey Devils	1	3	L			27	17	1		0		22	17	1		0
+2	1990-10-07		Detroit Red Wings	7	2	W			34	13	2		0		21	19	0		1
+3	1990-10-11		New Jersey Devils	7	4	W			31	49	2		0		28	47	3		0
+4	1990-10-13		Winnipeg Jets	4	3	W			26	6	1		0		25	6	0		0
+5	1990-10-16	@	Pittsburgh Penguins	5	1	W			33	16	0		0		31	14	0		0
+6	1990-10-18		Quebec Nordiques	5	4	W			39	26	1		0		18	38	1		1
+7	1990-10-20	@	Montreal Canadiens	5	3	W			27	16	2		0		26	14	1		0
+8	1990-10-23		Washington Capitals	2	6	L			20	26	1		0		22	22	1		1
+9	1990-10-25	@	New York Rangers	3	5	L			28	21	1		0		30	10	2		0
+10	1990-10-27	@	New York Islanders	2	5	L			26	24	1		0		29	30	4		0
+11	1990-10-30		Pittsburgh Penguins	2	6	L			35	25	1		0		21	10	2		0
+12	1990-11-01		Minnesota North Stars	6	3	W			24	8	1		0		28	18	2		1
+13	1990-11-03		Chicago Blackhawks	1	3	L			26	25	1		0		22	27	1		0
+14	1990-11-04	@	Toronto Maple Leafs	7	1	W			36	25	2		0		32	23	0		0
+15	1990-11-06	@	Winnipeg Jets	4	2	W			26	20	0		0		27	16	2		0
+16	1990-11-08		Calgary Flames	2	8	L			27	14	1		0		44	10	2		0
+17	1990-11-10	@	Quebec Nordiques	5	2	W			25	26	2		0		18	35	1		1
+18	1990-11-11		Vancouver Canucks	2	0	W			25	21	0		0		31	9	0		0
+19	1990-11-13		New York Rangers	1	1	T	OT		27	25	0		0		23	11	0		1
+20	1990-11-15		Montreal Canadiens	4	1	W			30	31	0		0		29	53	0		0
+21	1990-11-17	@	New Jersey Devils	2	3	L			29	30	1		0		40	22	2		0
+22	1990-11-18		New Jersey Devils	1	4	L			15	32	1		0		24	34	1		0
+23	1990-11-21	@	Pittsburgh Penguins	5	4	W			30	10	1		0		35	4	1		0
+24	1990-11-23		Toronto Maple Leafs	4	1	W			23	29	2		0		23	31	0		0
+25	1990-11-25		New York Islanders	4	1	W			28	19	1		0		26	19	0		0
+26	1990-11-27	@	New York Islanders	5	1	W			30	16	3		0		29	21	0		0
+27	1990-11-28	@	New Jersey Devils	5	5	T	OT		24	8	2		0		35	10	0		0
+28	1990-11-30		New York Rangers	5	1	W			35	45	1		1		35	41	0		0
+29	1990-12-02		Edmonton Oilers	3	6	L			30	8	0		0		24	12	1		0
+30	1990-12-06		Buffalo Sabres	3	4	L			32	8	1		0		27	29	1		1
+31	1990-12-08	@	Minnesota North Stars	0	7	L			22	59	0		0		37	35	3		0
+32	1990-12-09	@	Chicago Blackhawks	5	4	W			24	10	2		0		33	12	2		1
+33	1990-12-11	@	Washington Capitals	1	4	L			13	8	0		0		16	8	1		0
+34	1990-12-13		New York Islanders	2	2	T	OT		25	19	1		0		30	25	1		0
+35	1990-12-15		Detroit Red Wings	1	3	L			28	10	1		0		32	35	1		0
+36	1990-12-16	@	Winnipeg Jets	4	2	W			39	10	1		0		21	10	0		0
+37	1990-12-18	@	Detroit Red Wings	1	3	L			20	26	0		0		30	20	0		0
+38	1990-12-20		New Jersey Devils	3	3	T	OT		40	45	1		0		32	51	1		1
+39	1990-12-22	@	Hartford Whalers	0	1	L			26	32	0		0		22	32	1		0
+40	1990-12-23		Montreal Canadiens	4	4	T	OT		31	27	0		0		49	8	2		0
+41	1990-12-27	@	Los Angeles Kings	7	5	W			38	17	1		0		40	13	2		0
+42	1990-12-29	@	St. Louis Blues	3	1	W			29	12	2		0		35	8	1		0
+43	1990-12-31	@	Buffalo Sabres	2	5	L			31	15	1		0		30	17	1		0
+44	1991-01-04	@	Washington Capitals	3	3	T	OT		24	18	0		0		28	10	0		0
+45	1991-01-05	@	New York Islanders	2	3	L			21	6	1		0		20	4	0		0
+46	1991-01-07	@	New York Rangers	2	3	L			26	16	1		0		27	12	1		0
+47	1991-01-12	@	Boston Bruins	3	1	W			32	4	1		0		26	8	1		0
+48	1991-01-13		Edmonton Oilers	3	5	L			38	10	1		0		24	12	0		0
+49	1991-01-15		Pittsburgh Penguins	5	4	W			41	23	2		0		24	18	1		0
+50	1991-01-17		Quebec Nordiques	5	1	W			29	15	1		0		26	17	0		0
+51	1991-01-22		Calgary Flames	4	3	W			29	21	1		0		32	17	0		0
+52	1991-01-24		Washington Capitals	6	1	W			26	52	1		0		39	38	0		0
+53	1991-01-26	@	Hartford Whalers	3	5	L			37	12	0		0		25	12	3		0
+54	1991-01-31		Pittsburgh Penguins	4	2	W			26	13	1		0		28	11	1		0
+55	1991-02-02		Hartford Whalers	0	2	L			20	25	0		0		30	23	2		0
+56	1991-02-05		Los Angeles Kings	2	3	L			24	13	1		0		32	17	0		0
+57	1991-02-07		Vancouver Canucks	1	2	L			37	35	0		0		28	8	1		0
+58	1991-02-10	@	Washington Capitals	2	5	L			25	157	0		1		39	147	1		0
+59	1991-02-13	@	Toronto Maple Leafs	6	3	W			35	8	1		0		26	8	1		0
+60	1991-02-16	@	New Jersey Devils	2	3	L			36	42	0		0		31	42	0		0
+61	1991-02-18		Chicago Blackhawks	5	3	W			29	31	3		0		27	43	1		0
+62	1991-02-21		New York Rangers	4	4	T	OT		42	23	0		0		33	23	1		0
+63	1991-02-23	@	New York Islanders	5	3	W			30	14	1		0		28	12	0		0
+64	1991-02-24		New York Islanders	4	3	W			30	39	1		0		28	70	1		1
+65	1991-02-26	@	Minnesota North Stars	2	2	T	OT		21	12	0		0		44	6	0		0
+66	1991-03-02		St. Louis Blues	4	4	T	OT		24	8	1		0		23	6	0		0
+67	1991-03-04	@	New York Rangers	2	6	L			24	19	1		0		33	34	2		0
+68	1991-03-07	@	Calgary Flames	2	4	L			25	13	0		0		27	11	1		0
+69	1991-03-08	@	Edmonton Oilers	4	5	L			27	22	1		0		28	22	0		0
+70	1991-03-12	@	Los Angeles Kings	0	6	L			26	69	0		0		40	46	1		0
+71	1991-03-13	@	Vancouver Canucks	5	4	W	OT		24	23	2		0		24	17	1		1
+72	1991-03-16	@	Washington Capitals	0	6	L			25	83	0		0		32	87	2		0
+73	1991-03-17		Boston Bruins	1	3	L			24	16	0		0		23	24	0		1
+74	1991-03-21		St. Louis Blues	1	4	L			23	4	0		0		17	8	0		1
+75	1991-03-23		New York Rangers	7	4	W			30	54	1		0		26	50	1		0
+76	1991-03-24	@	Buffalo Sabres	2	6	L			31	45	1		0		41	29	0		1
+77	1991-03-26		Pittsburgh Penguins	1	3	L			49	12	0		0		21	31	2		1
+78	1991-03-28		Washington Capitals	0	3	L			21	12	0		0		27	12	0		1
+79	1991-03-30	@	Pittsburgh Penguins	4	4	T	OT		32	39	0		0		39	12	1		0

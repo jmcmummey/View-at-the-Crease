@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-04-22	 Predators	 	 • Taylor Beck	 upper body injury (out for season)
+1	2015-01-02	 Predators	 	 • Taylor Beck	 illness (DTD)
+2	2015-01-03	 Predators	 	 • Taylor Beck	 placed on IR with illness
+3	2015-01-09	 Predators	 • Taylor Beck	 	 activated from IR

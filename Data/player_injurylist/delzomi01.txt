@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-02-12	 Rangers	 	 • Michael Del Zotto	 abdominal laceration (DTD)
+1	2010-03-04	 Rangers	 • Michael Del Zotto	 	 returned to lineup
+2	2010-12-22	 Rangers	 	 • Michael Del Zotto	 flu (DTD)
+3	2010-12-27	 Rangers	 • Michael Del Zotto	 	 returned to lineup
+4	2010-12-29	 Rangers	 	 • Michael Del Zotto	 groin injury (DTD)
+5	2011-01-02	 Rangers	 • Michael Del Zotto	 	 returned to lineup
+6	2012-03-02	 Rangers	 	 • Michael Del Zotto	 bruised hip (DTD)
+7	2012-03-04	 Rangers	 • Michael Del Zotto	 	 returned to lineup
+8	2012-03-09	 Rangers	 	 • Michael Del Zotto	 hip injury (DTD)
+9	2012-03-17	 Rangers	 • Michael Del Zotto	 	 returned to lineup
+10	2013-02-22	 Rangers	 	 • Michael Del Zotto	 lower body injury (DTD)
+11	2013-02-28	 Rangers	 • Michael Del Zotto	 	 returned to lineup
+12	2013-10-16	 Rangers	 	 • Michael Del Zotto	 flu / illness (DTD)
+13	2013-10-24	 Rangers	 • Michael Del Zotto	 	 returned to lineup
+14	2014-11-20	 Flyers	 	 • Michael Del Zotto	 lower body injury (DTD)
+15	2014-11-22	 Flyers	 • Michael Del Zotto	 	 returned to lineup
+16	2015-03-08	 Flyers	 	 • Michael Del Zotto	 upper body injury (DTD)
+17	2015-03-19	 Flyers	 • Michael Del Zotto	 	 returned to lineup
+18	2015-12-27	 Flyers	 	 • Michael Del Zotto	 upper body injury (DTD)
+19	2016-01-01	 Flyers	 • Michael Del Zotto	 	 returned to lineup
+20	2016-02-13	 Flyers	 	 • Michael Del Zotto	 upper body injury (out for season)
+21	2016-02-14	 Flyers	 	 • Michael Del Zotto	 placed on IR with upper body injury (out for season)
+22	2016-10-07	 Flyers	 	 • Michael Del Zotto	 lower body injury (out indefinitely)
+23	2016-10-14	 Flyers	 	 • Michael Del Zotto	 placed on IR with lower body injury
+24	2016-11-05	 Flyers	 • Michael Del Zotto	 	 activated from IR
+25	2017-01-25	 Flyers	 	 • Michael Del Zotto	 lower body injury (DTD)
+26	2017-02-11	 Flyers	 • Michael Del Zotto	 	 returned to lineup

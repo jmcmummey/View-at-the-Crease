@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-06	 Capitals	 	 • Tom Wilson	 placed on IR with ankle injury (CBS) / fibula injury (CBC)
+1	2014-10-20	 Capitals	 • Tom Wilson	 	 activated from IR
+2	2014-11-09	 Capitals	 	 • Tom Wilson	 lower body injury (DTD)
+3	2014-11-15	 Capitals	 • Tom Wilson	 	 returned to lineup
+4	2015-04-06	 Capitals	 	 • Tom Wilson	 head injury (DTD)
+5	2015-04-17	 Capitals	 • Tom Wilson	 	 returned to lineup
+6	2017-01-09	 Capitals	 	 • Tom Wilson	 lower body injury (DTD)
+7	2018-12-06	 Capitals	 	 • Tom Wilson	 concussion (out indefinitely)
+8	2018-12-14	 Capitals	 • Tom Wilson	 	 returned to lineup
+9	2019-12-28	 Capitals	 	 • Tom Wilson	 lower body injury (DTD)
+10	2019-12-31	 Capitals	 • Tom Wilson	 	 returned to lineup

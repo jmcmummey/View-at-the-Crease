@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-19	 Blues	 	 • Jori Lehtera	 flu (DTD)
+1	2014-10-23	 Blues	 • Jori Lehtera	 	 returned to lineup
+2	2015-01-30	 Blues	 	 • Jori Lehtera	 concussion (DTD)
+3	2015-02-10	 Blues	 • Jori Lehtera	 	 returned to lineup
+4	2015-04-24	 Blues	 	 • Jori Lehtera	 lower body injury (out for season)
+5	2016-02-27	 Blues	 	 • Jori Lehtera	 upper body injury (DTD)
+6	2016-03-06	 Blues	 • Jori Lehtera	 	 returned to lineup
+7	2016-10-16	 Blues	 	 • Jori Lehtera	 upper body injury (DTD)
+8	2016-10-19	 Blues	 	 • Jori Lehtera	 placed on IR with upper body injury
+9	2016-10-27	 Blues	 • Jori Lehtera	 	 activated from IR
+10	2017-03-13	 Blues	 	 • Jori Lehtera	 upper body injury (DTD)
+11	2017-04-04	 Blues	 • Jori Lehtera	 	 returned to lineup
+12	2017-04-08	 Blues	 	 • Jori Lehtera	 illness (DTD)
+13	2017-04-09	 Blues	 • Jori Lehtera	 	 returned to lineup
+14	2017-12-16	 Flyers	 	 • Jori Lehtera	 illness (DTD)
+15	2017-12-18	 Flyers	 • Jori Lehtera	 	 returned to lineup

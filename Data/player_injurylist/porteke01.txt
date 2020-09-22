@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-04-18	 Avalanche	 	 • Kevin Porter	 upper body injury (DTD)
+1	2010-04-22	 Avalanche	 • Kevin Porter	 	 returned to lineup
+2	2013-12-22	 Sabres	 	 • Kevin Porter	 placed on IR with lower body injury
+3	2014-01-22	 Sabres	 • Kevin Porter	 	 activated from IR
+4	2016-03-04	 Penguins	 	 • Kevin Porter	 surgery on ankle (out for season)
+5	2016-03-08	 Penguins	 	 • Kevin Porter	 placed on IR recovering from surgery on ankle (out for season)

@@ -1,0 +1,52 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-12	 Capitals	 	 • Marcus Johansson	 lower body injury (out indefinitely)
+1	2010-10-16	 Capitals	 • Marcus Johansson	 	 returned to lineup
+2	2010-10-23	 Capitals	 	 • Marcus Johansson	 hip flexor injury (DTD)
+3	2010-11-06	 Capitals	 • Marcus Johansson	 	 returned to lineup
+4	2010-12-15	 Capitals	 	 • Marcus Johansson	 flu (DTD)
+5	2010-12-18	 Capitals	 • Marcus Johansson	 	 returned to lineup
+6	2010-12-28	 Capitals	 	 • Marcus Johansson	 undisclosed injury (DTD)
+7	2011-01-01	 Capitals	 • Marcus Johansson	 	 returned to lineup
+8	2012-01-22	 Capitals	 	 • Marcus Johansson	 illness (DTD)
+9	2012-01-24	 Capitals	 • Marcus Johansson	 	 returned to lineup
+10	2013-02-09	 Capitals	 	 • Marcus Johansson	 upper body injury (DTD)
+11	2013-02-26	 Capitals	 	 • Marcus Johansson	 placed on IR
+12	2013-03-10	 Capitals	 • Marcus Johansson	 	 activated from IR
+13	2014-04-12	 Capitals	 	 • Marcus Johansson	 upper body injury (out for season)
+14	2015-12-05	 Capitals	 	 • Marcus Johansson	 lower body injury (DTD)
+15	2015-12-08	 Capitals	 • Marcus Johansson	 	 returned to lineup
+16	2016-02-02	 Capitals	 	 • Marcus Johansson	 upper body injury (DTD)
+17	2016-02-09	 Capitals	 • Marcus Johansson	 	 returned to lineup
+18	2016-02-22	 Capitals	 	 • Marcus Johansson	 illness (DTD)
+19	2016-02-24	 Capitals	 • Marcus Johansson	 	 returned to lineup
+20	2016-10-01	 Capitals	 	 • Marcus Johansson	 lower body injury (DTD)
+21	2017-10-28	 Devils	 	 • Marcus Johansson	 lower body injury (DTD)
+22	2017-11-01	 Devils	 • Marcus Johansson	 	 returned to lineup
+23	2017-11-03	 Devils	 	 • Marcus Johansson	 concussion (out indefinitely)
+24	2017-11-09	 Devils	 	 • Marcus Johansson	 placed on IR with concussion
+25	2017-11-29	 Devils	 • Marcus Johansson	 	 activated from IR
+26	2017-12-10	 Devils	 	 • Marcus Johansson	 placed on IR with bruised ankle
+27	2017-12-12	 Devils	 	 • Marcus Johansson	 bruised ankle (DTD)
+28	2017-12-13	 Devils	 	 • Marcus Johansson	 placed on IR with bruised ankle
+29	2017-12-21	 Devils	 • Marcus Johansson	 	 activated from IR
+30	2018-01-25	 Devils	 	 • Marcus Johansson	 placed on IR with concussion
+31	2018-04-01	 Devils	 • Marcus Johansson	 	 activated from IR
+32	2018-04-16	 Devils	 • Marcus Johansson	 	 activated from IR
+33	2018-10-27	 Devils	 	 • Marcus Johansson	 illness (DTD)
+34	2018-10-30	 Devils	 • Marcus Johansson	 	 returned to lineup
+35	2018-11-26	 Devils	 	 • Marcus Johansson	 lower body injury (DTD)
+36	2018-11-30	 Devils	 • Marcus Johansson	 	 returned to lineup
+37	2018-12-21	 Devils	 	 • Marcus Johansson	 placed on IR with upper body injury
+38	2019-01-12	 Devils	 • Marcus Johansson	 	 activated from IR
+39	2019-03-06	 Bruins	 	 • Marcus Johansson	 lung injury (DTD)
+40	2019-03-27	 Bruins	 • Marcus Johansson	 	 returned to lineup
+41	2019-04-13	 Bruins	 	 • Marcus Johansson	 illness (DTD)
+42	2019-04-17	 Bruins	 • Marcus Johansson	 	 returned to lineup
+43	2019-11-13	 Sabres	 	 • Marcus Johansson	 placed on IR with upper body injury
+44	2019-11-14	 Sabres	 	 • Marcus Johansson	 upper body injury (DTD)
+45	2019-11-15	 Sabres	 	 • Marcus Johansson	 placed on IR with upper body injury
+46	2019-11-27	 Sabres	 • Marcus Johansson	 	 activated from IR
+47	2020-02-09	 Sabres	 	 • Marcus Johansson	 illness (DTD)
+48	2020-02-11	 Sabres	 • Marcus Johansson	 	 returned to lineup
+49	2020-02-13	 Sabres	 	 • Marcus Johansson	 upper body injury (DTD)
+50	2020-02-16	 Sabres	 • Marcus Johansson	 	 returned to lineup

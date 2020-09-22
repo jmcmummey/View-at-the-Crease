@@ -1,0 +1,45 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-10-07	 Red Wings	 	 • Jimmy Howard	 broken finger (out 1-2 weeks)
+1	2008-10-07	 Red Wings	 	 • Jimmy Howard	 placed on IR with broken finger
+2	2008-10-16	 Red Wings	 • Jimmy Howard	 	 activated from IR
+3	2010-10-28	 Red Wings	 	 • Jimmy Howard	 back spasms (DTD)
+4	2010-11-03	 Red Wings	 • Jimmy Howard	 	 returned to lineup
+5	2011-01-15	 Red Wings	 	 • Jimmy Howard	 knee injury (DTD)
+6	2011-01-18	 Red Wings	 • Jimmy Howard	 	 returned to lineup
+7	2011-03-27	 Red Wings	 	 • Jimmy Howard	 sprained shoulder (DTD)
+8	2011-04-02	 Red Wings	 • Jimmy Howard	 	 returned to lineup
+9	2012-02-04	 Red Wings	 	 • Jimmy Howard	 finger injury (out indefinitely)
+10	2012-02-21	 Red Wings	 • Jimmy Howard	 	 returned to lineup
+11	2012-03-04	 Red Wings	 	 • Jimmy Howard	 lower back / groin (CBC) injury (DTD)
+12	2012-03-13	 Red Wings	 • Jimmy Howard	 	 returned to lineup
+13	2012-03-20	 Red Wings	 	 • Jimmy Howard	 strained groin (DTD)
+14	2012-03-30	 Red Wings	 • Jimmy Howard	 	 returned to lineup
+15	2013-10-15	 Red Wings	 	 • Jimmy Howard	 bruised hand (DTD)
+16	2013-10-17	 Red Wings	 • Jimmy Howard	 	 returned to lineup
+17	2013-12-11	 Red Wings	 	 • Jimmy Howard	 knee injury (DTD)
+18	2013-12-17	 Red Wings	 	 • Jimmy Howard	 placed on IR with knee injury
+19	2013-12-30	 Red Wings	 • Jimmy Howard	 	 activated from IR
+20	2014-01-12	 Red Wings	 	 • Jimmy Howard	 hip flexor injury (DTD)
+21	2014-01-15	 Red Wings	 • Jimmy Howard	 	 returned to lineup
+22	2014-01-21	 Red Wings	 	 • Jimmy Howard	 knee injury (DTD)
+23	2014-01-24	 Red Wings	 	 • Jimmy Howard	 placed on IR with knee injury
+24	2014-01-27	 Red Wings	 • Jimmy Howard	 	 activated from IR
+25	2014-10-17	 Red Wings	 	 • Jimmy Howard	 placed on IR with strained groin
+26	2014-10-21	 Red Wings	 • Jimmy Howard	 	 activated from IR
+27	2014-12-20	 Red Wings	 	 • Jimmy Howard	 lower body injury (DTD)
+28	2014-12-23	 Red Wings	 	 • Jimmy Howard	 placed on IR with lower body injury
+29	2014-12-27	 Red Wings	 • Jimmy Howard	 	 activated from IR
+30	2015-01-11	 Red Wings	 	 • Jimmy Howard	 placed on IR with groin injury
+31	2015-02-11	 Red Wings	 • Jimmy Howard	 	 activated from IR
+32	2016-11-26	 Red Wings	 	 • Jimmy Howard	 placed on IR with groin injury
+33	2016-12-07	 Red Wings	 • Jimmy Howard	 	 activated from IR
+34	2016-12-21	 Red Wings	 	 • Jimmy Howard	 placed on IR with sprained MCL in knee
+35	2017-03-09	 Red Wings	 • Jimmy Howard	 	 activated from IR
+36	2018-01-06	 Red Wings	 	 • Jimmy Howard	 lower body injury (DTD)
+37	2018-01-12	 Red Wings	 • Jimmy Howard	 	 returned to lineup
+38	2018-12-18	 Red Wings	 	 • Jimmy Howard	 back injury (DTD)
+39	2018-12-20	 Red Wings	 • Jimmy Howard	 	 returned to lineup
+40	2019-02-22	 Red Wings	 	 • Jimmy Howard	 illness (DTD)
+41	2019-02-26	 Red Wings	 • Jimmy Howard	 	 returned to lineup
+42	2019-11-29	 Red Wings	 	 • Jimmy Howard	 placed on IR with mid-body injury
+43	2019-12-22	 Red Wings	 • Jimmy Howard	 	 activated from IR

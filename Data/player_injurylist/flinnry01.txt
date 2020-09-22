@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-26	 Kings	 	 • Ryan Flinn	 head injury (left game)
+1	2005-11-27	 Kings	 	 • Ryan Flinn	 head injury (DTD)
+2	2005-12-02	 Kings	 	 • Ryan Flinn	 placed on IR with head injury

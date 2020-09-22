@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-12-07	 Rangers	 	 • Jimmy Vesey	 upper body injury (DTD)
+1	2016-12-09	 Rangers	 • Jimmy Vesey	 	 returned to lineup
+2	2018-02-05	 Rangers	 	 • Jimmy Vesey	 concussion (DTD)
+3	2018-02-10	 Rangers	 • Jimmy Vesey	 	 returned to lineup
+4	2019-10-25	 Sabres	 	 • Jimmy Vesey	 upper body injury (DTD)
+5	2019-11-02	 Sabres	 • Jimmy Vesey	 	 returned to lineup

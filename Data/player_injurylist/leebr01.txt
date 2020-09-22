@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-01	 Bruins	 	 • Brian Leetch	 knee injury (left game)
+1	2005-11-02	 Bruins	 	 • Brian Leetch	 placed on IR with sprained MCL in right knee
+2	2005-11-26	 Bruins	 • Brian Leetch	 	 activated from IR
+3	2006-01-14	 Bruins	 	 • Brian Leetch	 groin injury (DTD)
+4	2006-01-28	 Bruins	 • Brian Leetch	 	 activated from IR
+5	2006-02-02	 Bruins	 	 • Brian Leetch	 groin injury (DTD)
+6	2006-02-08	 Bruins	 • Brian Leetch	 	 returned to lineup
+7	2006-04-01	 Bruins	 	 • Brian Leetch	 head injury (DTD)
+8	2006-04-04	 Bruins	 • Brian Leetch	 	 returned to lineup
+9	2010-11-13	 Senators	 	 • Brian Lee (a)	 neck injury (DTD)
+10	2010-12-26	 Senators	 	 • Brian Lee (a)	 rib injury (DTD)
+11	2012-01-23	 Senators	 	 • Brian Lee (a)	 placed on IR with lower body injury
+12	2012-02-09	 Senators	 • Brian Lee (a)	 	 activated from IR
+13	2013-10-01	 Lightning	 	 • Brian Lee (a)	 placed on IR with knee injury (out for season)

@@ -1,0 +1,9 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-02-07	 Flyers	 	 • Travis Konecny	 sprained ankle / left knee injury (DTD)
+1	2017-02-10	 Flyers	 	 • Travis Konecny	 placed on IR with sprained ankle
+2	2017-03-04	 Flyers	 • Travis Konecny	 	 activated from IR
+3	2018-02-22	 Flyers	 	 • Travis Konecny	 foot injury (DTD)
+4	2018-02-24	 Flyers	 • Travis Konecny	 	 returned to lineup
+5	2019-12-09	 Flyers	 	 • Travis Konecny	 concussion (out indefinitely)
+6	2019-12-15	 Flyers	 	 • Travis Konecny	 placed on IR with concussion
+7	2019-12-17	 Flyers	 • Travis Konecny	 	 activated from IR

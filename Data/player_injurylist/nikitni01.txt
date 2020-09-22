@@ -1,0 +1,39 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-10-03	 Blues	 	 • Nikita Nikitin	 broken right wrist (DTD)
+1	2010-10-06	 Blues	 	 • Nikita Nikitin	 placed on IR with broken right wrist
+2	2010-11-06	 Blues	 • Nikita Nikitin	 	 activated from IR
+3	2011-02-25	 Blues	 	 • Nikita Nikitin	 lower body injury (DTD)
+4	2011-03-05	 Blues	 • Nikita Nikitin	 	 returned to lineup
+5	2011-03-16	 Blues	 	 • Nikita Nikitin	 upper body injury (DTD)
+6	2011-03-19	 Blues	 • Nikita Nikitin	 	 returned to lineup
+7	2011-12-31	 Blue Jackets	 	 • Nikita Nikitin	 flu (DTD)
+8	2012-01-22	 Blue Jackets	 	 • Nikita Nikitin	 left knee injury (out indefinitely)
+9	2012-02-02	 Blue Jackets	 	 • Nikita Nikitin	 placed on IR with left knee injury
+10	2012-02-21	 Blue Jackets	 • Nikita Nikitin	 	 activated from IR
+11	2013-01-30	 Blue Jackets	 	 • Nikita Nikitin	 head injury (DTD)
+12	2013-02-03	 Blue Jackets	 	 • Nikita Nikitin	 placed on IR with upper body injury
+13	2013-02-07	 Blue Jackets	 • Nikita Nikitin	 	 activated from IR
+14	2013-03-03	 Blue Jackets	 	 • Nikita Nikitin	 upper body injury (DTD)
+15	2013-03-07	 Blue Jackets	 • Nikita Nikitin	 	 returned to lineup
+16	2013-03-14	 Blue Jackets	 	 • Nikita Nikitin	 undisclosed (DTD)
+17	2013-03-16	 Blue Jackets	 • Nikita Nikitin	 	 returned to lineup
+18	2013-04-07	 Blue Jackets	 	 • Nikita Nikitin	 upper body injury (DTD)
+19	2013-04-09	 Blue Jackets	 • Nikita Nikitin	 	 returned to lineup
+20	2013-04-18	 Blue Jackets	 	 • Nikita Nikitin	 lower body injury (out for season)
+21	2013-11-27	 Blue Jackets	 	 • Nikita Nikitin	 lower body injury (DTD)
+22	2013-11-29	 Blue Jackets	 • Nikita Nikitin	 	 returned to lineup
+23	2014-03-08	 Blue Jackets	 	 • Nikita Nikitin	 head injury (DTD)
+24	2014-03-11	 Blue Jackets	 • Nikita Nikitin	 	 returned to lineup
+25	2014-04-02	 Blue Jackets	 	 • Nikita Nikitin	 lower body injury (DTD)
+26	2014-04-12	 Blue Jackets	 • Nikita Nikitin	 	 returned to lineup
+27	2014-04-27	 Blue Jackets	 	 • Nikita Nikitin	 undisclosed injury (out for season)
+28	2014-10-07	 Oilers	 	 • Nikita Nikitin	 placed on IR with ankle injury
+29	2014-10-27	 Oilers	 	 • Nikita Nikitin	 back spasms (DTD)
+30	2014-11-04	 Oilers	 • Nikita Nikitin	 	 returned to lineup
+31	2014-12-06	 Oilers	 	 • Nikita Nikitin	 back injury (DTD)
+32	2014-12-08	 Oilers	 	 • Nikita Nikitin	 placed on IR with back injury
+33	2014-12-29	 Oilers	 • Nikita Nikitin	 	 activated from IR
+34	2015-01-30	 Oilers	 	 • Nikita Nikitin	 left shoulder injury (DTD)
+35	2015-02-04	 Oilers	 	 • Nikita Nikitin	 placed on IR with left shoulder injury
+36	2015-03-18	 Oilers	 • Nikita Nikitin	 	 activated from IR
+37	2015-04-04	 Oilers	 	 • Nikita Nikitin	 undisclosed (out for season)

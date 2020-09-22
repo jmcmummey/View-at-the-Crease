@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-20	 Penguins	 	 • Brian Strait	 placed on IR with hyperextended elbow
+1	2011-12-18	 Penguins	 • Brian Strait	 	 activated from IR
+2	2013-02-18	 Islanders	 	 • Brian Strait	 placed on IR with fractured left ankle
+3	2013-04-15	 Islanders	 • Brian Strait	 	 activated from IR
+4	2013-10-25	 Islanders	 	 • Brian Strait	 upper body injury (DTD)
+5	2013-11-04	 Islanders	 	 • Brian Strait	 placed on IR with upper body injury
+6	2013-12-12	 Islanders	 • Brian Strait	 	 activated from IR
+7	2014-03-23	 Islanders	 	 • Brian Strait	 fractured left hand (out for season)
+8	2016-04-07	 Islanders	 	 • Brian Strait	 upper body injury (out for season)
+9	2019-10-01	 Devils	 	 • Brian Strait	 placed on injured/non-roster list with concussion

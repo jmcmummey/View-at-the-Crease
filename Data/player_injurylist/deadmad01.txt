@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-12-08	 Avalanche	 • Adam Deadmarsh	 	 activated from IR
+1	2001-10-02	 Kings	 	 • Adam Deadmarsh	 placed on IR
+2	2001-10-07	 Kings	 • Adam Deadmarsh	 	 activated from IR
+3	2002-11-26	 Kings	 	 • Adam Deadmarsh	 placed on IR with post-concussion symptoms
+4	2002-12-07	 Kings	 • Adam Deadmarsh	 	 activated from IR
+5	2002-12-15	 Kings	 	 • Adam Deadmarsh	 head injury (out indefinitely)
+6	2002-12-23	 Kings	 	 • Adam Deadmarsh	 placed on IR with post-concussion syndrome

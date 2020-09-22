@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-20	 Blues	 	 • Jason Bacashihua	 left shoulder injury (left game)
+1	2006-01-21	 Blues	 	 • Jason Bacashihua	 left shoulder injury (out indefinitely)
+2	2006-01-22	 Blues	 	 • Jason Bacashihua	 placed on IR with left shoulder injury
+3	2006-04-06	 Blues	 • Jason Bacashihua	 	 activated from IR
+4	2006-04-08	 Blues	 • Jason Bacashihua	 	 returned to lineup

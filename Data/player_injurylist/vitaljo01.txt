@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-03-18	 Penguins	 	 • Joe Vitale	 shoulder injury (DTD)
+1	2012-03-30	 Penguins	 • Joe Vitale	 	 returned to lineup
+2	2013-04-25	 Penguins	 	 • Joe Vitale	 lower body injury (out indefinitely)
+3	2013-04-30	 Penguins	 • Joe Vitale	 	 returned to lineup
+4	2013-05-19	 Penguins	 	 • Joe Vitale	 undisclosed injury (out for season)
+5	2014-01-11	 Penguins	 	 • Joe Vitale	 wrist injury (DTD)
+6	2014-01-14	 Penguins	 	 • Joe Vitale	 placed on IR with wrist injury
+7	2014-02-27	 Penguins	 • Joe Vitale	 	 activated from IR
+8	2014-03-21	 Penguins	 	 • Joe Vitale	 upper body injury (out for season)
+9	2014-04-09	 Penguins	 	 • Joe Vitale	 placed on IR with upper body injury (out for season)
+10	2014-12-29	 Coyotes	 	 • Joe Vitale	 lower body injury (DTD)
+11	2015-01-03	 Coyotes	 • Joe Vitale	 	 returned to lineup
+12	2015-01-29	 Coyotes	 	 • Joe Vitale	 upper body injury (DTD)
+13	2015-02-05	 Coyotes	 	 • Joe Vitale	 placed on IR with upper body injury
+14	2015-02-14	 Coyotes	 • Joe Vitale	 	 activated from IR
+15	2015-10-18	 Coyotes	 	 • Joe Vitale	 placed on IR with fractured orbital bone (out for season)
+16	2016-10-10	 Red Wings	 	 • Joe Vitale	 placed on IR with concussion

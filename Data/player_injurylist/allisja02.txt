@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-01-08	 Bruins	 	 • Jason Allison	 thumb injury (out indefinitely)
+1	2002-10-29	 Kings	 	 • Jason Allison	 knee injury (out indefinitely)
+2	2002-10-30	 Kings	 	 • Jason Allison	 placed on IR with knee injury
+3	2002-12-27	 Kings	 	 • Jason Allison	 placed on IR with sprained right knee
+4	2003-01-09	 Kings	 • Jason Allison	 	 activated from IR
+5	2003-01-25	 Kings	 	 • Jason Allison	 hip injury (out indefinitely)
+6	2003-02-08	 Kings	 	 • Jason Allison	 placed on IR with hip injury / cervical strain (HN)
+7	2005-09-14	 Maple Leafs	 	 • Jason Allison	 aggrivated hip flexor injury
+8	2005-12-27	 Maple Leafs	 	 • Jason Allison	 finger injury (out until early-Jan)
+9	2006-01-06	 Maple Leafs	 • Jason Allison	 	 returned to lineup
+10	2006-03-27	 Maple Leafs	 	 • Jason Allison	 broken hand (out indefinitely)

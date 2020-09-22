@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-28	 Sharks	 	 • Scott Hannan	 leg injury (DTD)
+1	2007-03-04	 Sharks	 • Scott Hannan	 	 returned to lineup
+2	2008-11-06	 Avalanche	 	 • Scott Hannan	 flu (DTD)
+3	2008-11-08	 Avalanche	 • Scott Hannan	 	 returned to lineup
+4	2010-10-24	 Avalanche	 	 • Scott Hannan	 head injury (DTD)
+5	2012-01-07	 Flames	 	 • Scott Hannan	 placed on IR with upper body injury
+6	2012-01-17	 Flames	 • Scott Hannan	 	 activated from IR
+7	2013-03-18	 Predators	 	 • Scott Hannan	 upper body injury (DTD)
+8	2013-03-29	 Predators	 	 • Scott Hannan	 placed on IR with upper body injury
+9	2013-04-13	 Sharks	 • Scott Hannan	 	 activated from IR
+10	2013-12-10	 Sharks	 	 • Scott Hannan	 upper body injury (DTD)
+11	2013-12-19	 Sharks	 • Scott Hannan	 	 returned to lineup
+12	2014-01-16	 Sharks	 	 • Scott Hannan	 placed on IR with upper body injury
+13	2014-01-29	 Sharks	 • Scott Hannan	 	 activated from IR
+14	2014-04-12	 Sharks	 	 • Scott Hannan	 upper body injury (out for season)
+15	2015-04-03	 Sharks	 	 • Scott Hannan	 facial injury (out for season)

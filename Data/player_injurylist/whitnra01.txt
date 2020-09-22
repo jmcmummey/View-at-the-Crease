@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-04-03	 Blue Jackets	 • Ray Whitney	 	 activated from IR
+1	2001-11-09	 Blue Jackets	 • Ray Whitney	 	 activated from IR
+2	2005-10-03	 Hurricanes	 	 • Ray Whitney	 placed on IR with strained groin
+3	2005-10-22	 Hurricanes	 • Ray Whitney	 	 activated from IR
+4	2005-11-22	 Hurricanes	 	 • Ray Whitney	 groin injury (DTD)
+5	2005-12-06	 Hurricanes	 • Ray Whitney	 	 returned to lineup
+6	2006-04-07	 Hurricanes	 	 • Ray Whitney	 lower body injury (DTD)
+7	2006-04-24	 Hurricanes	 • Ray Whitney	 	 returned to lineup
+8	2007-03-04	 Hurricanes	 	 • Ray Whitney	 ankle injury (DTD)
+9	2007-03-09	 Hurricanes	 • Ray Whitney	 	 returned to lineup
+10	2008-01-08	 Hurricanes	 	 • Ray Whitney	 illness (DTD)
+11	2008-01-15	 Hurricanes	 • Ray Whitney	 	 returned to lineup
+12	2008-02-18	 Hurricanes	 	 • Ray Whitney	 strained groin (DTD)
+13	2008-02-21	 Hurricanes	 • Ray Whitney	 	 returned to lineup
+14	2008-03-01	 Hurricanes	 	 • Ray Whitney	 groin injury (DTD)
+15	2008-03-14	 Hurricanes	 	 • Ray Whitney	 placed on IR with surgery on left ankle
+16	2008-04-01	 Hurricanes	 • Ray Whitney	 	 activated from IR
+17	2009-11-06	 Hurricanes	 	 • Ray Whitney	 upper body injury (DTD)
+18	2009-11-11	 Hurricanes	 • Ray Whitney	 	 returned to lineup
+19	2010-10-16	 Coyotes	 	 • Ray Whitney	 upper body injury (DTD)
+20	2010-10-21	 Coyotes	 • Ray Whitney	 	 returned to lineup
+21	2011-02-22	 Coyotes	 	 • Ray Whitney	 lower body injury (DTD)
+22	2011-02-25	 Coyotes	 	 • Ray Whitney	 placed on IR with lower body injury
+23	2011-03-13	 Coyotes	 • Ray Whitney	 	 activated from IR
+24	2013-02-02	 Stars	 	 • Ray Whitney	 placed on IR with fractured foot
+25	2013-03-12	 Stars	 • Ray Whitney	 	 activated from IR
+26	2013-11-10	 Stars	 	 • Ray Whitney	 placed on IR with lower body injury
+27	2013-11-26	 Stars	 • Ray Whitney	 	 activated from IR
+28	2013-12-31	 Stars	 	 • Ray Whitney	 illness (DTD)
+29	2014-01-03	 Stars	 • Ray Whitney	 	 returned to lineup
+30	2014-04-04	 Stars	 	 • Ray Whitney	 lower body injury (DTD)
+31	2014-04-16	 Stars	 • Ray Whitney	 	 returned to lineup

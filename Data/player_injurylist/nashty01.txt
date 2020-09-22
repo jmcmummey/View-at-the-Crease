@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-05	 Coyotes	 	 • Tyson Nash	 hip injury (DTD)
+1	2005-11-25	 Coyotes	 • Tyson Nash	 	 returned to lineup
+2	2005-12-03	 Coyotes	 	 • Tyson Nash	 strained abdominal muscle (out indefinitely)
+3	2005-12-07	 Coyotes	 	 • Tyson Nash	 abdominal surgery
+4	2006-01-12	 Coyotes	 • Tyson Nash	 	 activated from IR
+5	2006-04-10	 Coyotes	 	 • Tyson Nash	 knee injury (DTD)

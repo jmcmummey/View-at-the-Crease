@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2013-02-03	 Red Wings	 	 • Brendan Smith	 placed on IR with sprained right shoulder
+1	2013-02-27	 Red Wings	 • Brendan Smith	 	 activated from IR
+2	2013-11-03	 Red Wings	 	 • Brendan Smith	 placed on IR with shoulder injury
+3	2013-11-19	 Red Wings	 • Brendan Smith	 	 activated from IR
+4	2014-11-19	 Red Wings	 	 • Brendan Smith	 placed on IR with hand infection
+5	2014-11-30	 Red Wings	 • Brendan Smith	 	 activated from IR
+6	2015-11-10	 Red Wings	 	 • Brendan Smith	 illness (DTD)
+7	2015-11-19	 Red Wings	 • Brendan Smith	 	 returned to lineup
+8	2016-11-27	 Red Wings	 	 • Brendan Smith	 placed on IR with knee injury
+9	2016-12-27	 Red Wings	 • Brendan Smith	 	 activated from IR
+10	2017-01-05	 Red Wings	 	 • Brendan Smith	 placed on IR with right knee injury
+11	2017-02-04	 Red Wings	 • Brendan Smith	 	 activated from IR
+12	2018-12-08	 Rangers	 	 • Brendan Smith	 upper body injury (DTD)
+13	2018-12-14	 Rangers	 • Brendan Smith	 	 returned to lineup

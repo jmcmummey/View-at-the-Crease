@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-10-08	 Thrashers	 	 • Chris Tamer	 placed on IR
+1	2002-10-18	 Thrashers	 • Chris Tamer	 	 activated from IR
+2	2004-01-11	 Thrashers	 	 • Chris Tamer	 back injury (out indefinitely)
+3	2004-01-21	 Thrashers	 	 • Chris Tamer	 placed on IR with back injury
+4	2004-01-30	 Thrashers	 • Chris Tamer	 	 activated from IR
+5	2004-01-31	 Thrashers	 	 • Chris Tamer	 placed on IR

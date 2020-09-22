@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-23	 Blue Jackets	 	 • Alexandre Picard (a)	 concussion (out indefinitely)
+1	2005-11-24	 Blue Jackets	 	 • Alexandre Picard (a)	 placed on IR with concussion
+2	2006-01-02	 Blue Jackets	 • Alexandre Picard (a)	 	 activated from IR
+3	2006-11-12	 Flyers	 	 • Alexandre Picard (R.)	 concussion (DTD) (date approximate)
+4	2006-11-29	 Flyers	 • Alexandre Picard (R.)	 	 returned to lineup
+5	2007-11-23	 Blue Jackets	 • Alexandre Picard (a)	 	 activated from IR
+6	2008-12-02	 Senators	 	 • Alexandre Picard (R.)	 wrist injury (DTD)
+7	2008-12-06	 Senators	 • Alexandre Picard (R.)	 	 returned to lineup
+8	2009-02-05	 Senators	 	 • Alexandre Picard (R.)	 upper body injury (DTD)
+9	2009-02-17	 Senators	 • Alexandre Picard (R.)	 	 returned to lineup
+10	2009-03-03	 Senators	 	 • Alexandre Picard (R.)	 placed on IR with groin injury (out for season)
+11	2009-12-05	 Senators	 	 • Alexandre Picard (R.)	 upper body injury (DTD)
+12	2009-12-12	 Senators	 • Alexandre Picard (R.)	 	 returned to lineup
+13	2010-01-02	 Blue Jackets	 	 • Alexandre Picard (a)	 lower body injury (DTD)
+14	2010-01-07	 Blue Jackets	 • Alexandre Picard (a)	 	 returned to lineup
+15	2010-03-19	 Hurricanes	 	 • Alexandre Picard (R.)	 upper body injury (out for season)
+16	2011-03-24	 Canadiens	 	 • Alexandre Picard (R.)	 foot injury (out for season)

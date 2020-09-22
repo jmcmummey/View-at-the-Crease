@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2017-02-03	 Flames	 	 • Brett Kulak	 illness (DTD)
+1	2017-02-07	 Flames	 • Brett Kulak	 	 returned to lineup

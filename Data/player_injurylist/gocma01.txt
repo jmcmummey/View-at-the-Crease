@@ -1,0 +1,35 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-15	 Sharks	 	 • Marcel Goc	 back injury (DTD)
+1	2007-01-26	 Sharks	 • Marcel Goc	 	 returned to lineup
+2	2007-11-15	 Sharks	 	 • Marcel Goc	 placed on IR with back spasms
+3	2007-12-11	 Sharks	 • Marcel Goc	 	 activated from IR
+4	2008-10-10	 Sharks	 	 • Marcel Goc	 back injury (DTD)
+5	2008-10-14	 Sharks	 • Marcel Goc	 	 returned to lineup
+6	2008-10-28	 Sharks	 	 • Marcel Goc	 upper body injury (DTD)
+7	2008-11-08	 Sharks	 • Marcel Goc	 	 returned to lineup
+8	2009-02-11	 Sharks	 	 • Marcel Goc	 lower body injury (DTD)
+9	2009-02-13	 Sharks	 	 • Marcel Goc	 placed on IR with lower body injury
+10	2009-03-12	 Sharks	 • Marcel Goc	 	 activated from IR
+11	2009-03-22	 Sharks	 	 • Marcel Goc	 left leg injury (out indefinitely)
+12	2009-04-02	 Sharks	 • Marcel Goc	 	 returned to lineup
+13	2010-01-25	 Predators	 	 • Marcel Goc	 upper body injury (DTD)
+14	2010-02-02	 Predators	 • Marcel Goc	 	 returned to lineup
+15	2010-02-09	 Predators	 	 • Marcel Goc	 upper body injury (DTD)
+16	2010-02-14	 Predators	 • Marcel Goc	 	 returned to lineup
+17	2010-10-17	 Predators	 	 • Marcel Goc	 placed on IR with separated shoulder
+18	2010-11-03	 Predators	 • Marcel Goc	 	 activated from IR
+19	2011-02-10	 Predators	 	 • Marcel Goc	 upper body injury (DTD)
+20	2011-02-15	 Predators	 • Marcel Goc	 	 returned to lineup
+21	2011-02-18	 Predators	 	 • Marcel Goc	 placed on IR with surgery on shoulder (out for season)
+22	2011-11-17	 Panthers	 	 • Marcel Goc	 upper body injury (DTD)
+23	2011-11-26	 Panthers	 	 • Marcel Goc	 placed on IR with head injury
+24	2012-01-05	 Panthers	 • Marcel Goc	 	 activated from IR
+25	2012-02-23	 Panthers	 	 • Marcel Goc	 lower body injury (DTD)
+26	2012-02-28	 Panthers	 • Marcel Goc	 	 returned to lineup
+27	2013-01-19	 Panthers	 	 • Marcel Goc	 placed on IR with groin injury
+28	2014-03-28	 Penguins	 	 • Marcel Goc	 foot injury (out indefinitely)
+29	2014-04-26	 Penguins	 • Marcel Goc	 	 returned to lineup
+30	2014-11-29	 Penguins	 	 • Marcel Goc	 foot injury (DTD)
+31	2014-12-04	 Penguins	 • Marcel Goc	 	 returned to lineup
+32	2015-01-05	 Penguins	 	 • Marcel Goc	 illness (DTD)
+33	2015-01-10	 Penguins	 • Marcel Goc	 	 returned to lineup

@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-05-25	 Rangers	 	 • Derek Stepan	 fractured jaw (out indefinitely)
+1	2014-05-27	 Rangers	 • Derek Stepan	 	 returned to lineup
+2	2014-10-05	 Rangers	 	 • Derek Stepan	 placed on IR with fractured fibula
+3	2014-11-08	 Rangers	 • Derek Stepan	 	 activated from IR
+4	2015-01-14	 Rangers	 	 • Derek Stepan	 upper body injury (DTD)
+5	2015-01-16	 Rangers	 • Derek Stepan	 	 returned to lineup
+6	2015-02-07	 Rangers	 	 • Derek Stepan	 flu (DTD)
+7	2015-02-08	 Rangers	 • Derek Stepan	 	 returned to lineup
+8	2015-11-27	 Rangers	 	 • Derek Stepan	 fractured rib (out indefinitely)
+9	2015-12-18	 Rangers	 • Derek Stepan	 	 returned to lineup
+10	2019-03-01	 Coyotes	 	 • Derek Stepan	 leg injury (out indefinitely)
+11	2019-03-23	 Coyotes	 • Derek Stepan	 	 returned to lineup

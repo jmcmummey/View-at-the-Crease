@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-11-09	 Islanders	 	 • Bill Berg	 fractured left foot (out indefinitely)
+1	1993-11-18	 Maple Leafs	 	 • Bill Berg	 hip flexor injury (DTD)
+2	1995-02-06	 Maple Leafs	 	 • Bill Berg	 sprained knee (out indefinitely)
+3	1995-10-26	 Maple Leafs	 	 • Bill Berg	 broken leg (out indefinitely)

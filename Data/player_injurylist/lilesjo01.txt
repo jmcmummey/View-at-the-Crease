@@ -1,0 +1,41 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-01-08	 Avalanche	 	 • John-Michael Liles	 broken foot (out 4-6 weeks)
+1	2007-02-06	 Avalanche	 • John-Michael Liles	 	 returned to lineup
+2	2008-11-26	 Avalanche	 	 • John-Michael Liles	 flu (DTD)
+3	2008-11-29	 Avalanche	 • John-Michael Liles	 	 returned to lineup
+4	2009-02-17	 Avalanche	 	 • John-Michael Liles	 left wrist/hand injury (DTD)
+5	2009-02-28	 Avalanche	 • John-Michael Liles	 	 returned to lineup
+6	2009-10-14	 Avalanche	 	 • John-Michael Liles	 placed on IR with bruised right shoulder
+7	2009-10-30	 Avalanche	 • John-Michael Liles	 	 activated from IR
+8	2009-11-06	 Avalanche	 	 • John-Michael Liles	 shoulder injury (DTD)
+9	2009-11-11	 Avalanche	 	 • John-Michael Liles	 placed on IR
+10	2009-11-20	 Avalanche	 • John-Michael Liles	 	 activated from IR
+11	2010-01-08	 Avalanche	 	 • John-Michael Liles	 flu (DTD)
+12	2010-01-09	 Avalanche	 • John-Michael Liles	 	 returned to lineup
+13	2011-03-11	 Avalanche	 	 • John-Michael Liles	 knee injury (DTD)
+14	2011-03-16	 Avalanche	 • John-Michael Liles	 	 returned to lineup
+15	2011-04-05	 Avalanche	 	 • John-Michael Liles	 head injury / concussion (out for season)
+16	2011-12-23	 Maple Leafs	 	 • John-Michael Liles	 sore neck (DTD)
+17	2011-12-27	 Maple Leafs	 	 • John-Michael Liles	 placed on IR with concussion
+18	2012-02-01	 Maple Leafs	 • John-Michael Liles	 	 activated from IR
+19	2013-03-25	 Maple Leafs	 	 • John-Michael Liles	 ankle/leg injury (DTD)
+20	2013-03-28	 Maple Leafs	 • John-Michael Liles	 	 returned to lineup
+21	2014-02-08	 Hurricanes	 	 • John-Michael Liles	 lower body injury (DTD)
+22	2014-02-25	 Hurricanes	 • John-Michael Liles	 	 returned to lineup
+23	2014-03-08	 Hurricanes	 	 • John-Michael Liles	 upper body injury (DTD)
+24	2014-03-21	 Hurricanes	 • John-Michael Liles	 	 returned to lineup
+25	2014-10-15	 Hurricanes	 	 • John-Michael Liles	 undisclosed injury (DTD)
+26	2014-10-23	 Hurricanes	 • John-Michael Liles	 	 returned to lineup
+27	2014-10-25	 Hurricanes	 	 • John-Michael Liles	 lower body injury (DTD)
+28	2014-10-28	 Hurricanes	 • John-Michael Liles	 	 returned to lineup
+29	2014-12-20	 Hurricanes	 	 • John-Michael Liles	 upper body injury (DTD)
+30	2014-12-21	 Hurricanes	 • John-Michael Liles	 	 returned to lineup
+31	2014-12-29	 Hurricanes	 	 • John-Michael Liles	 placed on IR with flu
+32	2015-01-08	 Hurricanes	 • John-Michael Liles	 	 activated from IR
+33	2015-03-19	 Hurricanes	 	 • John-Michael Liles	 leg injury (DTD)
+34	2015-03-21	 Hurricanes	 • John-Michael Liles	 	 returned to lineup
+35	2016-03-25	 Bruins	 	 • John-Michael Liles	 lower body injury (DTD)
+36	2016-04-01	 Bruins	 • John-Michael Liles	 	 returned to lineup
+37	2016-11-28	 Bruins	 	 • John-Michael Liles	 concussion (DTD)
+38	2016-12-03	 Bruins	 	 • John-Michael Liles	 placed on IR with concussion
+39	2017-01-07	 Bruins	 • John-Michael Liles	 	 activated from IR

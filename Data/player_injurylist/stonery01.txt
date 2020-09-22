@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-10-19	 Oilers	 	 • Ryan Stone	 knee injury (out indefinitely)
+1	2009-10-22	 Oilers	 	 • Ryan Stone	 placed on IR with knee injury
+2	2009-12-03	 Oilers	 • Ryan Stone	 	 activated from IR
+3	2010-01-14	 Oilers	 	 • Ryan Stone	 knee injury (out for season)
+4	2010-09-29	 Flames	 	 • Ryan Stone	 knee injury (out indefinitely)

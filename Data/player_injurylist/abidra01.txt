@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-10-27	 Coyotes	 	 • Ramzi Abid	 wrist injury (out indefinitely)
+1	2003-03-18	 Penguins	 	 • Ramzi Abid	 knee injury (out for season)
+2	2003-12-06	 Penguins	 	 • Ramzi Abid	 knee injury (out indefinitely)

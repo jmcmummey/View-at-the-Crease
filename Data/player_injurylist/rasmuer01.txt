@@ -1,0 +1,12 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-12-28	 Kings	 	 • Erik Rasmussen	 placed on IR with strained back
+1	2003-01-09	 Kings	 • Erik Rasmussen	 	 activated from IR
+2	2005-11-23	 Devils	 	 • Erik Rasmussen	 twisted ankle (left game)
+3	2005-11-29	 Devils	 	 • Erik Rasmussen	 right ankle injury (DTD)
+4	2005-12-03	 Devils	 • Erik Rasmussen	 	 returned to lineup
+5	2005-12-11	 Devils	 	 • Erik Rasmussen	 right ankle injury (DTD)
+6	2005-12-20	 Devils	 • Erik Rasmussen	 	 returned to lineup
+7	2006-02-07	 Devils	 	 • Erik Rasmussen	 dislocated shoulder (DTD)
+8	2006-03-01	 Devils	 • Erik Rasmussen	 	 returned to lineup
+9	2006-03-10	 Devils	 	 • Erik Rasmussen	 shoulder injury (DTD)
+10	2006-03-11	 Devils	 • Erik Rasmussen	 	 returned to lineup

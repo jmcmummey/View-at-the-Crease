@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-10-08	 Canadiens	 	 • Guy Carbonneau	 concussion
+1	1992-01-13	 Canadiens	 	 • Guy Carbonneau	 fractured rib (DTD)
+2	1992-03-02	 Canadiens	 	 • Guy Carbonneau	 elbow injury (DTD)
+3	1992-10-01	 Canadiens	 	 • Guy Carbonneau	 right knee tendinitis (DTD)
+4	1992-11-14	 Canadiens	 	 • Guy Carbonneau	 broken finger (DTD)
+5	1993-02-04	 Canadiens	 	 • Guy Carbonneau	 knee tendinitis (out indefinitely)
+6	1994-02-11	 Canadiens	 	 • Guy Carbonneau	 flu (DTD)
+7	1995-03-31	 Blues	 	 • Guy Carbonneau	 surgery on knee (DTD)
+8	1995-10-17	 Stars	 	 • Guy Carbonneau	 groin injury (DTD)
+9	2000-03-07	 Stars	 	 • Guy Carbonneau	 placed on IR

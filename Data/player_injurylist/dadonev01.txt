@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-01-05	 Panthers	 	 • Evgeni Dadonov / Evgenii Dadonov	 ankle injury (DTD)
+1	2011-01-07	 Panthers	 • Evgeni Dadonov / Evgenii Dadonov	 	 returned to lineup
+2	2011-02-03	 Panthers	 	 • Evgeni Dadonov / Evgenii Dadonov	 broken finger (DTD)
+3	2011-02-08	 Panthers	 	 • Evgeni Dadonov / Evgenii Dadonov	 placed on IR with broken finger
+4	2011-03-19	 Panthers	 • Evgeni Dadonov / Evgenii Dadonov	 	 activated from IR
+5	2017-11-26	 Panthers	 	 • Evgeni Dadonov / Evgenii Dadonov	 placed on IR with shoulder injury
+6	2017-11-27	 Panthers	 	 • Evgeni Dadonov / Evgenii Dadonov	 shoulder injury (out indefinitely)
+7	2017-12-01	 Panthers	 	 • Evgeni Dadonov / Evgenii Dadonov	 placed on IR with shoulder injury
+8	2017-12-12	 Panthers	 • Evgeni Dadonov / Evgenii Dadonov	 	 activated from IR

@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-04-29	 Rangers	 	 • Mark Janssens	 surgery on left shoulder to restructure injured ligaments
+1	1999-12-03	 Blackhawks	 	 • Mark Janssens	 back injury (out indefinitely)

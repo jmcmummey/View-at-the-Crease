@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-01	 Thrashers	 	 • Bobby Holik	 injured foot
+1	2006-01-06	 Thrashers	 	 • Bobby Holik	 placed on IR with broken foot
+2	2006-02-28	 Thrashers	 • Bobby Holik	 	 activated from IR
+3	2006-03-01	 Thrashers	 • Bobby Holik	 	 activated from IR (SN)
+4	2008-10-19	 Devils	 	 • Bobby Holik	 placed on IR with broken right pinkie finger
+5	2008-12-06	 Devils	 • Bobby Holik	 	 activated from IR
+6	2009-04-09	 Devils	 	 • Bobby Holik	 undisclosed injury (DTD)

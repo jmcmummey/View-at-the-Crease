@@ -1,0 +1,19 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-14	 Stars	 	 • Valeri Nichushkin	 groin/hip injury (DTD)
+1	2014-10-19	 Stars	 	 • Valeri Nichushkin	 placed on IR with groin injury
+2	2014-11-04	 Stars	 • Valeri Nichushkin	 	 activated from IR
+3	2014-11-07	 Stars	 	 • Valeri Nichushkin	 placed on IR with groin injury
+4	2014-11-08	 Stars	 	 • Valeri Nichushkin	 soreness (DTD) (CBC)
+5	2014-11-09	 Stars	 	 • Valeri Nichushkin	 placed on IR with groin injury (CBC E SN)
+6	2015-03-27	 Stars	 • Valeri Nichushkin	 	 activated from IR
+7	2016-01-01	 Stars	 	 • Valeri Nichushkin	 lower body injury (DTD)
+8	2016-01-03	 Stars	 • Valeri Nichushkin	 	 returned to lineup
+9	2018-10-02	 Stars	 	 • Valeri Nichushkin	 lower body injury (DTD)
+10	2018-10-09	 Stars	 • Valeri Nichushkin	 	 returned to lineup
+11	2018-10-16	 Stars	 	 • Valeri Nichushkin	 general soreness / lower body injury (DTD)
+12	2018-10-25	 Stars	 • Valeri Nichushkin	 	 returned to lineup
+13	2019-01-17	 Stars	 	 • Valeri Nichushkin	 upper body injury (DTD)
+14	2019-02-01	 Stars	 • Valeri Nichushkin	 	 returned to lineup
+15	2019-04-05	 Stars	 	 • Valeri Nichushkin	 illness (out for season)
+16	2020-01-04	 Avalanche	 	 • Valeri Nichushkin	 illness (DTD)
+17	2020-01-06	 Avalanche	 • Valeri Nichushkin	 	 returned to lineup

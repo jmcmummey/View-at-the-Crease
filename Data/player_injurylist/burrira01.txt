@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-02-07	 Bruins	 	 • Randy Burridge	 torn ligaments in right knee (out for season)
+1	1991-02-13	 Bruins	 	 • Randy Burridge	 surgery on right knee to repair torn ligaments (out for season)
+2	1992-03-01	 Capitals	 	 • Randy Burridge	 partially torn ligament in left knee (out indefinitely)
+3	1992-09-05	 Capitals	 	 • Randy Burridge	 surgery on knee (out indefinitely)
+4	1993-10-06	 Capitals	 	 • Randy Burridge	 strained groin (DTD)
+5	1995-10-07	 Sabres	 	 • Randy Burridge	 shoulder injury (DTD)
+6	1996-02-28	 Sabres	 	 • Randy Burridge	 left knee injury (DTD)

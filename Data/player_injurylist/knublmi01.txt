@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-10-30	 Flyers	 	 • Mike Knuble	 broken finger (out indefinitely)
+1	2006-11-13	 Flyers	 • Mike Knuble	 	 returned to lineup
+2	2007-02-17	 Flyers	 	 • Mike Knuble	 orbital fracture (out indefinitely)
+3	2007-03-15	 Flyers	 • Mike Knuble	 	 returned to lineup
+4	2008-04-21	 Flyers	 	 • Mike Knuble	 hamstring injury (DTD)
+5	2008-04-30	 Flyers	 • Mike Knuble	 	 returned to lineup
+6	2009-11-13	 Capitals	 	 • Mike Knuble	 broken finger (DTD)
+7	2009-12-11	 Capitals	 • Mike Knuble	 	 activated from IR
+8	2010-11-20	 Capitals	 	 • Mike Knuble	 facial injury (DTD)
+9	2010-11-26	 Capitals	 • Mike Knuble	 	 returned to lineup
+10	2011-04-20	 Capitals	 	 • Mike Knuble	 right hand injury (DTD)
+11	2011-05-01	 Capitals	 • Mike Knuble	 	 returned to lineup

@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-11-07	 Bruins	 	 • David Warsofsky	 placed on IR with groin injury (date 11-10 per CBC)
+1	2014-12-09	 Bruins	 • David Warsofsky	 	 activated from IR
+2	2016-01-18	 Penguins	 	 • David Warsofsky	 concussion (DTD)
+3	2016-01-23	 Penguins	 	 • David Warsofsky	 placed on IR with concussion
+4	2016-02-29	 Penguins	 • David Warsofsky	 	 activated from IR
+5	2016-03-04	 Devils	 	 • David Warsofsky	 lower body injury (DTD)
+6	2016-03-10	 Devils	 • David Warsofsky	 	 returned to lineup

@@ -1,0 +1,20 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-04-13	 Oilers	 	 • Bill Guerin	 placed on IR (date approximate)
+1	2003-03-03	 Stars	 	 • Bill Guerin	 placed on IR
+2	2005-10-29	 Stars	 	 • Bill Guerin	 back spasms (left game)
+3	2005-10-31	 Stars	 	 • Bill Guerin	 back spasms (DTD)
+4	2005-11-04	 Stars	 • Bill Guerin	 	 returned to lineup
+5	2006-03-14	 Stars	 	 • Bill Guerin	 eye injury (DTD)
+6	2006-04-08	 Stars	 • Bill Guerin	 	 returned to lineup
+7	2006-12-16	 Blues	 	 • Bill Guerin	 lower body injury (DTD)
+8	2006-12-17	 Blues	 • Bill Guerin	 	 returned to lineup
+9	2007-05-05	 Sharks	 	 • Bill Guerin	 facial injury (DTD)
+10	2007-05-08	 Sharks	 • Bill Guerin	 	 returned to lineup
+11	2007-11-12	 Islanders	 	 • Bill Guerin	 facial injury (DTD)
+12	2007-11-15	 Islanders	 • Bill Guerin	 	 returned to lineup
+13	2010-01-25	 Penguins	 	 • Bill Guerin	 undisclosed (DTD)
+14	2010-01-28	 Penguins	 • Bill Guerin	 	 returned to lineup
+15	2010-03-04	 Penguins	 	 • Bill Guerin	 back spasms (DTD)
+16	2010-03-11	 Penguins	 • Bill Guerin	 	 returned to lineup
+17	2010-05-03	 Penguins	 	 • Bill Guerin	 undisclosed (DTD)
+18	2010-05-08	 Penguins	 • Bill Guerin	 	 returned to lineup

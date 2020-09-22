@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-22	 Kings	 	 • Jeff Zatkoff	 placed on IR with lower body injury
+1	2016-11-07	 Kings	 • Jeff Zatkoff	 	 activated from IR
+2	2016-11-12	 Kings	 	 • Jeff Zatkoff	 lower body injury (DTD)
+3	2016-11-18	 Kings	 • Jeff Zatkoff	 	 returned to lineup

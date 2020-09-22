@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2016-10-01	 Kings	 	 • Nicholas Shore / Nick Shore	 undisclosed injury (DTD)
+1	2016-10-12	 Kings	 • Nicholas Shore / Nick Shore	 	 returned to lineup
+2	2017-03-04	 Kings	 	 • Nicholas Shore / Nick Shore	 upper body injury (DTD)
+3	2017-03-29	 Kings	 • Nicholas Shore / Nick Shore	 	 returned to lineup
+4	2017-10-26	 Kings	 	 • Nicholas Shore / Nick Shore	 undisclosed (DTD)
+5	2017-11-02	 Kings	 • Nicholas Shore / Nick Shore	 	 returned to lineup
+6	2018-01-24	 Kings	 	 • Nicholas Shore / Nick Shore	 lower body injury (DTD)
+7	2018-02-01	 Kings	 • Nicholas Shore / Nick Shore	 	 returned to lineup
+8	2018-02-28	 Flames	 	 • Nicholas Shore / Nick Shore	 illness (DTD)
+9	2018-03-02	 Flames	 • Nicholas Shore / Nick Shore	 	 returned to lineup

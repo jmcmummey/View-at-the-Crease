@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-12-08	 Penguins	 	 • Josef Melichar	 bruised hip (DTD)
+1	2001-12-11	 Penguins	 • Josef Melichar	 	 returned to lineup
+2	2002-02-27	 Penguins	 	 • Josef Melichar	 dislocated shoulder (DTD)
+3	2002-03-30	 Penguins	 • Josef Melichar	 	 returned to lineup
+4	2002-04-04	 Penguins	 	 • Josef Melichar	 shoulder injury (out for season)
+5	2002-10-13	 Penguins	 	 • Josef Melichar	 sub-luxation of shoulder (DTD)
+6	2002-11-06	 Penguins	 • Josef Melichar	 	 returned to lineup
+7	2002-11-20	 Penguins	 	 • Josef Melichar	 placed on IR with sub-luxation of shoulder (out for season)
+8	2007-01-11	 Penguins	 	 • Josef Melichar	 knee injury (out 3-4 weeks)
+9	2007-02-10	 Penguins	 • Josef Melichar	 	 returned to lineup
+10	2009-04-04	 Lightning	 	 • Josef Melichar	 lower body injury (DTD)
+11	2009-04-11	 Lightning	 • Josef Melichar	 	 returned to lineup

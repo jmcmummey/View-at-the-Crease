@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-03-01	 Lightning	 • Jaroslav Svejkovsky	 	 activated from IR
+1	2000-10-02	 Lightning	 	 • Jaroslav Svejkovsky	 placed on IR
+2	2000-10-25	 Lightning	 • Jaroslav Svejkovsky	 	 activated from IR
+3	2001-10-24	 Lightning	 	 • Jaroslav Svejkovsky	 surgery on knee (out indefinitely)

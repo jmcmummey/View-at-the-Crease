@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-09-23	 Lightning	 	 • Jonathan Drouin	 fractured thumb (DTD)
+1	2014-10-20	 Lightning	 • Jonathan Drouin	 	 returned to lineup
+2	2014-12-27	 Lightning	 	 • Jonathan Drouin	 illness (DTD)
+3	2014-12-29	 Lightning	 • Jonathan Drouin	 	 returned to lineup
+4	2015-04-11	 Lightning	 	 • Jonathan Drouin	 illness (DTD)
+5	2015-04-23	 Lightning	 • Jonathan Drouin	 	 returned to lineup
+6	2015-10-29	 Lightning	 	 • Jonathan Drouin	 lower body injury (DTD)
+7	2015-11-07	 Lightning	 • Jonathan Drouin	 	 returned to lineup
+8	2015-11-16	 Lightning	 	 • Jonathan Drouin	 undisclosed (DTD)
+9	2015-11-19	 Lightning	 	 • Jonathan Drouin	 placed on IR with undisclosed
+10	2015-12-02	 Lightning	 • Jonathan Drouin	 	 activated from IR
+11	2015-12-12	 Lightning	 	 • Jonathan Drouin	 lower body injury (DTD)
+12	2015-12-20	 Lightning	 	 • Jonathan Drouin	 placed on IR with lower body injury
+13	2015-12-29	 Lightning	 • Jonathan Drouin	 	 activated from IR
+14	2016-11-03	 Lightning	 	 • Jonathan Drouin	 upper body injury (DTD)
+15	2016-11-17	 Lightning	 • Jonathan Drouin	 	 returned to lineup
+16	2016-12-04	 Lightning	 	 • Jonathan Drouin	 undisclosed (DTD)
+17	2016-12-08	 Lightning	 • Jonathan Drouin	 	 returned to lineup
+18	2017-02-22	 Lightning	 	 • Jonathan Drouin	 flu (DTD)
+19	2017-02-25	 Lightning	 • Jonathan Drouin	 	 returned to lineup
+20	2017-11-09	 Canadiens	 	 • Jonathan Drouin	 upper body injury (DTD)
+21	2017-11-11	 Canadiens	 • Jonathan Drouin	 	 returned to lineup
+22	2017-11-30	 Canadiens	 	 • Jonathan Drouin	 lower body injury (DTD)
+23	2017-12-07	 Canadiens	 	 • Jonathan Drouin	 flu (DTD)
+24	2017-12-09	 Canadiens	 • Jonathan Drouin	 	 returned to lineup
+25	2019-02-23	 Canadiens	 	 • Jonathan Drouin	 flu (DTD)
+26	2019-02-25	 Canadiens	 • Jonathan Drouin	 	 returned to lineup
+27	2019-11-16	 Canadiens	 	 • Jonathan Drouin	 placed on IR with surgery on wrist
+28	2020-02-08	 Canadiens	 • Jonathan Drouin	 	 activated from IR
+29	2020-02-15	 Canadiens	 	 • Jonathan Drouin	 ankle injury (DTD)
+30	2020-02-18	 Canadiens	 • Jonathan Drouin	 	 returned to lineup
+31	2020-02-27	 Canadiens	 	 • Jonathan Drouin	 ankle injury (DTD)

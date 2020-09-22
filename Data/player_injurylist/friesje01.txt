@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-08	 Capitals	 	 • Jeff Friesen	 groin injury (DTD)
+1	2005-12-16	 Capitals	 	 • Jeff Friesen	 groin injury (out until late-Jan)
+2	2006-01-13	 Capitals	 • Jeff Friesen	 	 returned to lineup
+3	2006-11-07	 Flames	 	 • Jeff Friesen	 thigh injury (DTD)
+4	2006-11-17	 Flames	 • Jeff Friesen	 	 returned to lineup
+5	2006-12-19	 Flames	 	 • Jeff Friesen	 hand injury (DTD)
+6	2006-12-29	 Flames	 • Jeff Friesen	 	 returned to lineup

@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-01-17	 Kings	 	 • Alexander Frolov / Alex Frolov	 flu (DTD)
+1	2006-01-23	 Kings	 • Alexander Frolov / Alex Frolov	 	 returned to lineup
+2	2006-02-28	 Kings	 	 • Alexander Frolov / Alex Frolov	 placed on IR with shoulder injury
+3	2006-03-24	 Kings	 • Alexander Frolov / Alex Frolov	 	 activated from IR
+4	2007-11-24	 Kings	 	 • Alexander Frolov / Alex Frolov	 placed on IR with groin injury
+5	2007-12-15	 Kings	 • Alexander Frolov / Alex Frolov	 	 activated from IR
+6	2008-10-11	 Kings	 • Alexander Frolov / Alex Frolov	 	 returned to lineup
+7	2009-03-23	 Kings	 	 • Alexander Frolov / Alex Frolov	 lower body injury (DTD)
+8	2009-04-04	 Kings	 • Alexander Frolov / Alex Frolov	 	 returned to lineup
+9	2011-01-09	 Rangers	 	 • Alexander Frolov / Alex Frolov	 placed on IR with torn ACL and sprained MCL in right knee (out for season)

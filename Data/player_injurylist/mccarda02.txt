@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-11-10	 Red Wings	 	 • Darren McCarty	 hernia (out indefinitely)
+1	2000-03-06	 Red Wings	 	 • Darren McCarty	 placed on IR
+2	2001-10-10	 Red Wings	 • Darren McCarty	 	 activated from IR
+3	2003-02-07	 Red Wings	 	 • Darren McCarty	 placed on IR
+4	2003-11-19	 Red Wings	 	 • Darren McCarty	 placed on IR
+5	2005-10-23	 Flames	 	 • Darren McCarty	 head injury (DTD)
+6	2005-11-01	 Flames	 • Darren McCarty	 	 returned to lineup
+7	2005-12-26	 Flames	 	 • Darren McCarty	 hip flexor injury
+8	2005-12-31	 Flames	 • Darren McCarty	 	 returned to lineup
+9	2006-03-07	 Flames	 	 • Darren McCarty	 flu (DTD)
+10	2006-03-09	 Flames	 • Darren McCarty	 	 returned to lineup
+11	2006-03-26	 Flames	 	 • Darren McCarty	 back injury (DTD)
+12	2006-03-31	 Flames	 • Darren McCarty	 	 returned to lineup
+13	2006-04-01	 Flames	 	 • Darren McCarty	 groin injury (DTD)
+14	2006-04-07	 Flames	 • Darren McCarty	 	 returned to lineup
+15	2006-10-14	 Flames	 	 • Darren McCarty	 groin injury (DTD)
+16	2006-10-19	 Flames	 • Darren McCarty	 	 returned to lineup
+17	2006-12-27	 Flames	 	 • Darren McCarty	 hip injury (out indefinitely)
+18	2007-04-08	 Flames	 • Darren McCarty	 	 returned to lineup
+19	2008-03-09	 Red Wings	 	 • Darren McCarty	 rib injury (DTD)
+20	2008-03-28	 Red Wings	 • Darren McCarty	 	 returned to lineup
+21	2008-10-07	 Red Wings	 	 • Darren McCarty	 groin injury (out indefinitely)
+22	2008-10-07	 Red Wings	 	 • Darren McCarty	 placed on IR with groin injury
+23	2008-11-28	 Red Wings	 	 • Darren McCarty	 placed on IR with groin injury
+24	2009-02-24	 Red Wings	 • Darren McCarty	 	 activated from IR

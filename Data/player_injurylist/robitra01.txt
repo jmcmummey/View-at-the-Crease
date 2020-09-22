@@ -1,0 +1,18 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-12-04	 Kings	 	 • Randy Robitaille	 placed on IR with separated right shoulder
+1	2001-12-28	 Kings	 • Randy Robitaille	 	 activated from IR
+2	2002-10-22	 Penguins	 	 • Randy Robitaille	 broken bone in foot (DTD)
+3	2002-11-16	 Penguins	 • Randy Robitaille	 	 returned to lineup
+4	2004-01-28	 Thrashers	 	 • Randy Robitaille	 placed on IR with strained knee
+5	2004-02-10	 Thrashers	 • Randy Robitaille	 	 activated from IR
+6	2006-02-07	 Wild	 	 • Randy Robitaille	 flu (DTD)
+7	2006-02-09	 Wild	 • Randy Robitaille	 	 returned to lineup
+8	2006-02-12	 Wild	 	 • Randy Robitaille	 broken toe (out indefinitely)
+9	2006-02-28	 Wild	 • Randy Robitaille	 	 returned to lineup
+10	2006-04-02	 Wild	 	 • Randy Robitaille	 right knee injury (out indefinitely)
+11	2006-11-03	 Flyers	 	 • Randy Robitaille	 left ankle injury (DTD)
+12	2006-11-11	 Flyers	 • Randy Robitaille	 	 returned to lineup
+13	2007-11-21	 Senators	 	 • Randy Robitaille	 hand injury (DTD)
+14	2007-11-24	 Senators	 • Randy Robitaille	 	 returned to lineup
+15	2008-01-01	 Senators	 	 • Randy Robitaille	 flu (DTD)
+16	2008-01-04	 Senators	 • Randy Robitaille	 	 returned to lineup

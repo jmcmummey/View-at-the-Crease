@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-12-05	 Flames	 	 • Brandon Prust	 placed on IR with broken jaw
+1	2009-02-19	 Flames	 • Brandon Prust	 	 activated from IR
+2	2009-03-01	 Flames	 	 • Brandon Prust	 concussion (DTD)
+3	2009-03-03	 Flames	 	 • Brandon Prust	 concussion (DTD)
+4	2009-03-10	 Coyotes	 • Brandon Prust	 	 returned to lineup
+5	2013-03-10	 Canadiens	 	 • Brandon Prust	 separated shoulder (DTD)
+6	2013-03-16	 Canadiens	 	 • Brandon Prust	 placed on IR with separated shoulder
+7	2013-03-30	 Canadiens	 • Brandon Prust	 	 activated from IR
+8	2013-04-15	 Canadiens	 	 • Brandon Prust	 elbow injury (DTD)
+9	2013-04-17	 Canadiens	 • Brandon Prust	 	 returned to lineup
+10	2013-04-18	 Canadiens	 	 • Brandon Prust	 shoulder injury (DTD)
+11	2013-04-20	 Canadiens	 • Brandon Prust	 	 returned to lineup
+12	2013-05-08	 Canadiens	 	 • Brandon Prust	 upper body injury (out for season)
+13	2013-10-20	 Canadiens	 	 • Brandon Prust	 placed on IR with shoulder injury
+14	2013-11-15	 Canadiens	 • Brandon Prust	 	 activated from IR
+15	2014-02-26	 Canadiens	 	 • Brandon Prust	 placed on IR with upper body injury
+16	2014-03-12	 Canadiens	 • Brandon Prust	 	 activated from IR
+17	2014-03-20	 Canadiens	 	 • Brandon Prust	 shoulder injury (out indefinitely)
+18	2014-04-16	 Canadiens	 • Brandon Prust	 	 returned to lineup
+19	2014-05-06	 Canadiens	 	 • Brandon Prust	 shoulder injury (DTD)
+20	2014-05-10	 Canadiens	 • Brandon Prust	 	 returned to lineup
+21	2015-10-28	 Canucks	 	 • Brandon Prust	 placed on IR with ankle injury
+22	2015-11-21	 Canucks	 • Brandon Prust	 	 activated from IR
+23	2016-01-03	 Canucks	 	 • Brandon Prust	 leg injury (DTD)
+24	2016-01-06	 Canucks	 • Brandon Prust	 	 returned to lineup

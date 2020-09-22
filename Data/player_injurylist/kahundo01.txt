@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2020-01-20	 Penguins	 	 • Dominik Kahun	 concussion (out indefinitely)
+1	2020-02-18	 Penguins	 • Dominik Kahun	 	 returned to lineup
+2	2020-02-22	 Penguins	 	 • Dominik Kahun	 knee injury (DTD)
+3	2020-02-27	 Sabres	 • Dominik Kahun	 	 returned to lineup

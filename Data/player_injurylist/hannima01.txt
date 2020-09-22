@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-29	 Blue Jackets	 	 • Markus Hannikainen	 placed on IR with shoulder injury
+1	2016-01-15	 Blue Jackets	 • Markus Hannikainen	 	 activated from IR
+2	2019-01-08	 Blue Jackets	 	 • Markus Hannikainen	 placed on IR with upper body injury
+3	2019-01-29	 Blue Jackets	 • Markus Hannikainen	 	 activated from IR
+4	2019-02-15	 Blue Jackets	 	 • Markus Hannikainen	 illness (DTD)
+5	2019-02-15	 Blue Jackets	 	 • Markus Hannikainen	 placed on IR with illness
+6	2019-02-24	 Blue Jackets	 • Markus Hannikainen	 	 activated from IR

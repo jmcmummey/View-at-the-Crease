@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-07	 Blackhawks	 	 • Mikael Holmqvist / Michael Holmqvist	 back injury (out indefinitely)
+1	2007-02-27	 Blackhawks	 • Mikael Holmqvist / Michael Holmqvist	 	 returned to lineup
+2	2007-04-05	 Blackhawks	 	 • Mikael Holmqvist / Michael Holmqvist	 shoulder injury (out for season)

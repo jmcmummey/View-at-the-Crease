@@ -1,0 +1,44 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-02	 Blues	 	 • T.J. Oshie	 placed on IR with high ankle sprain
+1	2008-12-05	 Blues	 • T.J. Oshie	 	 activated from IR
+2	2008-12-08	 Blues	 	 • T.J. Oshie	 left ankle injury (DTD)
+3	2008-12-30	 Blues	 • T.J. Oshie	 	 returned to lineup
+4	2009-10-24	 Blues	 	 • T.J. Oshie	 appendectomy (DTD)
+5	2009-11-05	 Blues	 • T.J. Oshie	 	 activated from IR
+6	2010-04-09	 Blues	 	 • T.J. Oshie	 upper body injury (out for season)
+7	2010-11-11	 Blues	 	 • T.J. Oshie	 placed on IR with recovering from surgery to repair fractured left ankle
+8	2011-01-18	 Blues	 • T.J. Oshie	 	 activated from IR
+9	2011-12-26	 Blues	 	 • T.J. Oshie	 left wrist injury (DTD)
+10	2011-12-30	 Blues	 • T.J. Oshie	 	 returned to lineup
+11	2013-03-13	 Blues	 	 • T.J. Oshie	 upper body injury (DTD)
+12	2013-03-16	 Blues	 	 • T.J. Oshie	 placed on IR with bruised ribs
+13	2013-03-23	 Blues	 • T.J. Oshie	 	 activated from IR
+14	2013-04-01	 Blues	 	 • T.J. Oshie	 foot injury (DTD)
+15	2013-04-02	 Blues	 	 • T.J. Oshie	 placed on IR with foot injury (out for season)
+16	2014-04-11	 Blues	 	 • T.J. Oshie	 upper body injury (DTD)
+17	2014-04-19	 Blues	 • T.J. Oshie	 	 returned to lineup
+18	2014-10-29	 Blues	 	 • T.J. Oshie	 placed on IR with concussion
+19	2014-11-13	 Blues	 • T.J. Oshie	 	 activated from IR
+20	2015-03-28	 Blues	 	 • T.J. Oshie	 illness (DTD)
+21	2015-03-30	 Blues	 • T.J. Oshie	 	 returned to lineup
+22	2016-03-24	 Capitals	 	 • T.J. Oshie	 illness (DTD)
+23	2016-03-28	 Capitals	 • T.J. Oshie	 	 returned to lineup
+24	2016-03-30	 Capitals	 	 • T.J. Oshie	 undisclosed injury (out for season)
+25	2016-11-19	 Capitals	 	 • T.J. Oshie	 upper body injury (DTD)
+26	2016-12-07	 Capitals	 • T.J. Oshie	 	 returned to lineup
+27	2017-01-08	 Capitals	 	 • T.J. Oshie	 shoulder injury (DTD)
+28	2017-01-11	 Capitals	 • T.J. Oshie	 	 returned to lineup
+29	2017-02-24	 Capitals	 	 • T.J. Oshie	 upper body injury (DTD)
+30	2017-03-04	 Capitals	 • T.J. Oshie	 	 returned to lineup
+31	2017-12-05	 Capitals	 	 • T.J. Oshie	 upper body injury (DTD)
+32	2017-12-19	 Capitals	 • T.J. Oshie	 	 returned to lineup
+33	2018-04-02	 Capitals	 	 • T.J. Oshie	 lower body injury (DTD)
+34	2018-04-05	 Capitals	 • T.J. Oshie	 	 returned to lineup
+35	2018-04-07	 Capitals	 	 • T.J. Oshie	 undisclosed injury (DTD)
+36	2018-04-12	 Capitals	 • T.J. Oshie	 	 returned to lineup
+37	2018-11-16	 Capitals	 	 • T.J. Oshie	 upper body injury (DTD)
+38	2018-12-08	 Capitals	 	 • T.J. Oshie	 placed on IR with upper body injury
+39	2018-12-11	 Capitals	 • T.J. Oshie	 	 activated from IR
+40	2019-03-28	 Capitals	 	 • T.J. Oshie	 illness (DTD)
+41	2019-03-30	 Capitals	 • T.J. Oshie	 	 returned to lineup
+42	2019-04-19	 Capitals	 	 • T.J. Oshie	 fractured right clavicle (out for season)

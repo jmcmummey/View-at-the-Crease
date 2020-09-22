@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1991-06-01	 Devils	 	 • John MacLean	 surgery on knee (date approximate)
+1	1996-03-13	 Devils	 	 • John MacLean	 placed on IR

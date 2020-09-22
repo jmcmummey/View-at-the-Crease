@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-11-28	 Devils	 	 • David Clarkson	 placed on IR with fractured right lower leg
+1	2009-12-28	 Devils	 • David Clarkson	 	 activated from IR
+2	2009-12-31	 Devils	 	 • David Clarkson	 sore right leg (DTD)
+3	2010-01-05	 Devils	 	 • David Clarkson	 placed on IR
+4	2010-03-02	 Devils	 • David Clarkson	 	 activated from IR
+5	2012-04-03	 Devils	 	 • David Clarkson	 lower body injury (DTD)
+6	2012-04-05	 Devils	 • David Clarkson	 	 returned to lineup
+7	2014-01-07	 Maple Leafs	 	 • David Clarkson	 left foot injury (DTD)
+8	2014-01-09	 Maple Leafs	 • David Clarkson	 	 returned to lineup
+9	2014-01-17	 Maple Leafs	 	 • David Clarkson	 placed on IR with bursa sac injury in elbow
+10	2014-02-04	 Maple Leafs	 • David Clarkson	 	 activated from IR
+11	2014-03-08	 Maple Leafs	 	 • David Clarkson	 leg injury (DTD)
+12	2014-03-10	 Maple Leafs	 • David Clarkson	 	 returned to lineup
+13	2015-03-04	 Blue Jackets	 	 • David Clarkson	 torn oblique muscle (out for season)
+14	2015-10-08	 Blue Jackets	 	 • David Clarkson	 lower body injury (DTD)
+15	2015-10-16	 Blue Jackets	 • David Clarkson	 	 returned to lineup
+16	2015-11-04	 Blue Jackets	 	 • David Clarkson	 placed on IR with back injury
+17	2015-12-09	 Blue Jackets	 • David Clarkson	 	 activated from IR
+18	2016-01-02	 Blue Jackets	 	 • David Clarkson	 placed on IR with upper body injury
+19	2016-01-05	 Blue Jackets	 	 • David Clarkson	 placed on IR with upper body injury
+20	2016-02-25	 Blue Jackets	 • David Clarkson	 	 activated from IR
+21	2016-03-12	 Blue Jackets	 	 • David Clarkson	 undisclosed injury (out for season)
+22	2016-10-11	 Blue Jackets	 	 • David Clarkson	 placed on injured/non-roster list with back injury (out for season)
+23	2017-10-03	 Golden Knights	 	 • David Clarkson	 placed on IR with back injury (out for season)
+24	2019-10-01	 Maple Leafs	 	 • David Clarkson	 placed on IR with back injury

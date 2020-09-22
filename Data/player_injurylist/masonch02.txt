@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-13	 Predators	 	 • Chris Mason	 groin injury (DTD)
+1	2005-12-21	 Predators	 • Chris Mason	 	 returned to lineup
+2	2008-10-17	 Blues	 	 • Chris Mason	 placed on IR with appendectomy
+3	2008-10-30	 Blues	 • Chris Mason	 	 activated from IR
+4	2011-01-16	 Thrashers	 	 • Chris Mason	 placed on IR with sprained MCL in right knee
+5	2011-02-04	 Thrashers	 • Chris Mason	 	 activated from IR
+6	2011-10-28	 Jets	 	 • Chris Mason	 groin injury (DTD)
+7	2011-11-03	 Jets	 	 • Chris Mason	 placed on IR with groin injury
+8	2011-11-11	 Jets	 • Chris Mason	 	 activated from IR

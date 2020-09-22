@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1990-09-11	 North Stars	 	 • Shawn Chambers	 left knee injury (out indefinitely)
+1	1990-12-05	 North Stars	 	 • Shawn Chambers	 fractured left kneecap (out indefinitely)
+2	1991-05-01	 North Stars	 	 • Shawn Chambers	 surgery on left knee to remove loose cartilage (date approximate)
+3	1991-10-01	 Capitals	 	 • Shawn Chambers	 sore knee (out indefinitely)
+4	1992-01-26	 Capitals	 	 • Shawn Chambers	 reinjured knee (out for season)
+5	1992-02-04	 Capitals	 	 • Shawn Chambers	 arthroscopic surgery on knee
+6	1992-10-09	 Lightning	 	 • Shawn Chambers	 arthroscopic surgery on knee (out indefinitely)
+7	1993-10-21	 Lightning	 	 • Shawn Chambers	 arthroscopic surgery on knee (out indefinitely)
+8	1993-11-13	 Lightning	 	 • Shawn Chambers	 shoulder injury (DTD)
+9	1994-01-02	 Lightning	 	 • Shawn Chambers	 facial lacerations (DTD)
+10	1995-02-07	 Lightning	 	 • Shawn Chambers	 strep throat (DTD)
+11	1995-11-14	 Devils	 	 • Shawn Chambers	 charley horse (DTD)
+12	1995-12-06	 Devils	 	 • Shawn Chambers	 bruised shoulder (DTD)
+13	1996-03-13	 Devils	 	 • Shawn Chambers	 broken right hand (out indefinitely)
+14	1997-09-30	 Stars	 	 • Shawn Chambers	 placed on IR with broken bone in left hand
+15	1997-11-05	 Stars	 	 • Shawn Chambers	 placed on IR with broken left thumb
+16	1997-11-24	 Stars	 • Shawn Chambers	 	 activated from IR
+17	1998-12-10	 Stars	 	 • Shawn Chambers	 placed on IR
+18	1998-12-18	 Stars	 • Shawn Chambers	 	 activated from IR
+19	1999-03-18	 Stars	 	 • Shawn Chambers	 placed on IR with hip flexor injury
+20	1999-10-08	 Stars	 	 • Shawn Chambers	 knee injury (out indefinitely)
+21	1999-10-12	 Stars	 	 • Shawn Chambers	 placed on IR with knee injury

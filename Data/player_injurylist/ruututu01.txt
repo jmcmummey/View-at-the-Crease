@@ -1,0 +1,45 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-15	 Blackhawks	 	 • Tuomo Ruutu	 back injury (DTD)
+1	2005-11-01	 Blackhawks	 • Tuomo Ruutu	 	 returned to lineup
+2	2005-11-02	 Blackhawks	 	 • Tuomo Ruutu	 back injury (DTD)
+3	2006-01-02	 Blackhawks	 • Tuomo Ruutu	 	 returned to lineup
+4	2006-01-09	 Blackhawks	 	 • Tuomo Ruutu	 severed tendon in right ankle (out for season)
+5	2006-09-23	 Blackhawks	 	 • Tuomo Ruutu	 sprained left knee (out ~4 weeks)
+6	2006-10-30	 Blackhawks	 • Tuomo Ruutu	 	 returned to lineup
+7	2007-03-04	 Blackhawks	 	 • Tuomo Ruutu	 flu (DTD)
+8	2007-03-06	 Blackhawks	 • Tuomo Ruutu	 	 returned to lineup
+9	2007-10-04	 Blackhawks	 	 • Tuomo Ruutu	 knee injury (DTD)
+10	2007-10-06	 Blackhawks	 • Tuomo Ruutu	 	 returned to lineup
+11	2007-11-24	 Blackhawks	 	 • Tuomo Ruutu	 flu (DTD)
+12	2007-11-25	 Blackhawks	 • Tuomo Ruutu	 	 returned to lineup
+13	2008-10-17	 Hurricanes	 	 • Tuomo Ruutu	 groin injury (DTD)
+14	2008-10-25	 Hurricanes	 • Tuomo Ruutu	 	 returned to lineup
+15	2009-05-18	 Hurricanes	 	 • Tuomo Ruutu	 lower body injury (DTD)
+16	2009-05-23	 Hurricanes	 • Tuomo Ruutu	 	 returned to lineup
+17	2009-05-26	 Hurricanes	 	 • Tuomo Ruutu	 lower body injury (DTD)
+18	2009-11-23	 Hurricanes	 	 • Tuomo Ruutu	 lower body injury (DTD)
+19	2009-11-27	 Hurricanes	 • Tuomo Ruutu	 	 returned to lineup
+20	2010-01-09	 Hurricanes	 	 • Tuomo Ruutu	 upper body injury (DTD)
+21	2010-02-03	 Hurricanes	 	 • Tuomo Ruutu	 placed on IR with upper body injury
+22	2010-02-09	 Hurricanes	 • Tuomo Ruutu	 	 activated from IR
+23	2010-03-24	 Hurricanes	 	 • Tuomo Ruutu	 surgery on shoulder (out for season)
+24	2012-02-14	 Hurricanes	 	 • Tuomo Ruutu	 upper body injury (DTD)
+25	2012-03-10	 Hurricanes	 • Tuomo Ruutu	 	 returned to lineup
+26	2013-01-18	 Hurricanes	 	 • Tuomo Ruutu	 placed on IR with surgery on hip
+27	2013-03-21	 Hurricanes	 • Tuomo Ruutu	 	 activated from IR
+28	2013-04-01	 Hurricanes	 	 • Tuomo Ruutu	 lower body injury (DTD)
+29	2013-04-04	 Hurricanes	 • Tuomo Ruutu	 	 returned to lineup
+30	2013-09-29	 Hurricanes	 	 • Tuomo Ruutu	 placed on IR with lower body injury
+31	2013-10-13	 Hurricanes	 • Tuomo Ruutu	 	 activated from IR
+32	2015-01-12	 Devils	 	 • Tuomo Ruutu	 illness (DTD)
+33	2015-01-14	 Devils	 	 • Tuomo Ruutu	 placed on IR with illness
+34	2015-01-27	 Devils	 • Tuomo Ruutu	 	 activated from IR
+35	2015-10-18	 Devils	 	 • Tuomo Ruutu	 undisclosed (DTD)
+36	2015-10-27	 Devils	 	 • Tuomo Ruutu	 placed on IR with fractured right foot
+37	2015-12-17	 Devils	 • Tuomo Ruutu	 	 activated from IR
+38	2015-12-29	 Devils	 	 • Tuomo Ruutu	 illness (DTD)
+39	2016-01-02	 Devils	 • Tuomo Ruutu	 	 returned to lineup
+40	2016-01-07	 Devils	 	 • Tuomo Ruutu	 placed on IR with lower body injury
+41	2016-01-14	 Devils	 • Tuomo Ruutu	 	 activated from IR
+42	2016-03-10	 Devils	 	 • Tuomo Ruutu	 undisclosed injury (DTD)
+43	2016-03-12	 Devils	 • Tuomo Ruutu	 	 returned to lineup

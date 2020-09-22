@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2001-12-26	 Senators	 	 • Shane Hnidy	 ankle injury (out indefinitely)
+1	2005-10-04	 Thrashers	 	 • Shane Hnidy	 placed on IR with separated shoulder
+2	2005-10-20	 Thrashers	 • Shane Hnidy	 	 activated from IR
+3	2005-10-22	 Thrashers	 • Shane Hnidy	 	 returned to lineup
+4	2008-11-06	 Bruins	 	 • Shane Hnidy	 lower body injury (DTD)
+5	2008-11-13	 Bruins	 • Shane Hnidy	 	 returned to lineup
+6	2009-01-08	 Bruins	 	 • Shane Hnidy	 left eye injury (DTD)
+7	2009-01-13	 Bruins	 • Shane Hnidy	 	 returned to lineup
+8	2010-03-10	 Wild	 	 • Shane Hnidy	 leg injury (DTD)
+9	2010-03-31	 Wild	 • Shane Hnidy	 	 returned to lineup
+10	2011-02-26	 Bruins	 	 • Shane Hnidy	 placed on IR with shoulder injury
+11	2011-04-02	 Bruins	 • Shane Hnidy	 	 activated from IR

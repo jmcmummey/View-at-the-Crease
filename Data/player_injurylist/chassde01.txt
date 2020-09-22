@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1994-01-29	 Blues	 	 • Denis Chasse	 neck injury (out for season)
+1	1994-03-09	 Blues	 	 • Denis Chasse	 surgery on neck (out for season)

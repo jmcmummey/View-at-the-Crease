@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2014-10-20	 Lightning	 	 • Alex Killorn	 upper body injury (DTD)
+1	2014-10-25	 Lightning	 	 • Alex Killorn	 placed on IR with upper body injury
+2	2014-10-28	 Lightning	 • Alex Killorn	 	 activated from IR
+3	2014-11-06	 Lightning	 	 • Alex Killorn	 upper body injury (DTD)
+4	2014-11-13	 Lightning	 • Alex Killorn	 	 returned to lineup
+5	2015-04-04	 Lightning	 	 • Alex Killorn	 undisclosed (out for season)
+6	2015-10-15	 Lightning	 	 • Alex Killorn	 upper body injury (DTD)
+7	2015-10-17	 Lightning	 • Alex Killorn	 	 returned to lineup
+8	2017-02-07	 Lightning	 	 • Alex Killorn	 undisclosed injury (DTD)
+9	2017-02-10	 Lightning	 • Alex Killorn	 	 returned to lineup
+10	2019-11-30	 Lightning	 	 • Alex Killorn	 lower body injury (DTD)
+11	2019-12-05	 Lightning	 • Alex Killorn	 	 returned to lineup

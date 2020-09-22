@@ -1,0 +1,34 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2011-10-22	 Maple Leafs	 	 • Tyler Bozak	 foot injury (DTD)
+1	2011-10-27	 Maple Leafs	 • Tyler Bozak	 	 returned to lineup
+2	2011-12-31	 Maple Leafs	 	 • Tyler Bozak	 placed on IR with shoulder injury
+3	2012-01-17	 Maple Leafs	 • Tyler Bozak	 	 activated from IR
+4	2013-04-25	 Maple Leafs	 	 • Tyler Bozak	 upper body injury (DTD)
+5	2013-05-01	 Maple Leafs	 • Tyler Bozak	 	 returned to lineup
+6	2013-05-12	 Maple Leafs	 	 • Tyler Bozak	 upper body injury (out for season)
+7	2013-10-26	 Maple Leafs	 	 • Tyler Bozak	 lower body injury (DTD)
+8	2013-10-27	 Maple Leafs	 	 • Tyler Bozak	 placed on IR with lower body injury
+9	2013-11-25	 Maple Leafs	 • Tyler Bozak	 	 activated from IR with strained oblique
+10	2013-12-05	 Maple Leafs	 	 • Tyler Bozak	 placed on IR with strained oblique muscle
+11	2013-12-28	 Maple Leafs	 • Tyler Bozak	 	 activated from IR
+12	2015-10-17	 Maple Leafs	 	 • Tyler Bozak	 lower body injury (DTD)
+13	2015-10-23	 Maple Leafs	 	 • Tyler Bozak	 placed on IR with lower body injury
+14	2015-10-30	 Maple Leafs	 • Tyler Bozak	 	 activated from IR
+15	2016-02-07	 Maple Leafs	 	 • Tyler Bozak	 upper body injury (DTD)
+16	2016-02-11	 Maple Leafs	 	 • Tyler Bozak	 placed on IR with upper body injury
+17	2016-03-23	 Maple Leafs	 • Tyler Bozak	 	 activated from IR
+18	2016-12-19	 Maple Leafs	 	 • Tyler Bozak	 lower body injury (DTD)
+19	2016-12-28	 Maple Leafs	 • Tyler Bozak	 	 returned to lineup
+20	2017-02-25	 Maple Leafs	 	 • Tyler Bozak	 illness (DTD)
+21	2017-02-28	 Maple Leafs	 • Tyler Bozak	 	 returned to lineup
+22	2017-12-02	 Maple Leafs	 	 • Tyler Bozak	 illness (DTD)
+23	2017-12-06	 Maple Leafs	 • Tyler Bozak	 	 returned to lineup
+24	2019-01-07	 Blues	 	 • Tyler Bozak	 concussion (DTD)
+25	2019-01-11	 Blues	 	 • Tyler Bozak	 placed on IR with concussion
+26	2019-01-23	 Blues	 • Tyler Bozak	 	 activated from IR
+27	2019-04-06	 Blues	 	 • Tyler Bozak	 undisclosed (out for season)
+28	2019-12-18	 Blues	 	 • Tyler Bozak	 illness (DTD)
+29	2019-12-21	 Blues	 • Tyler Bozak	 	 returned to lineup
+30	2020-02-21	 Blues	 	 • Tyler Bozak	 lower body injury (DTD)
+31	2020-02-25	 Blues	 • Tyler Bozak	 	 returned to lineup
+32	2020-08-21	 Blues	 	 • Tyler Bozak	 undisclosed (out for season)

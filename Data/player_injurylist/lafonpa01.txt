@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1996-10-17	 Sabres	 	 • Pat LaFontaine	 concussion
+1	1996-11-07	 Sabres	 	 • Pat LaFontaine	 concussion (missed game)
+2	1996-11-25	 Sabres	 	 • Pat LaFontaine	 concussion (out 3 months)
+3	1998-03-16	 Rangers	 	 • Pat LaFontaine	 head injury (out indefinitely)

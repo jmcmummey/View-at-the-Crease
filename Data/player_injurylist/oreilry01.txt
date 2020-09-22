@@ -1,0 +1,34 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-02-07	 Avalanche	 	 • Ryan O'Reilly	 foot injury (DTD)
+1	2010-02-10	 Avalanche	 • Ryan O'Reilly	 	 returned to lineup
+2	2011-01-03	 Predators	 	 • Cal O'Reilly	 placed on IR with broken right fibula (out for season)
+3	2011-01-14	 Avalanche	 	 • Ryan O'Reilly	 head injury (DTD)
+4	2011-01-15	 Avalanche	 	 • Ryan O'Reilly	 shoulder injury (DTD) (Y)
+5	2011-02-07	 Avalanche	 • Ryan O'Reilly	 	 returned to lineup
+6	2011-10-20	 Predators	 	 • Cal O'Reilly	 groin injury (DTD)
+7	2011-10-29	 Coyotes	 • Cal O'Reilly	 	 returned to lineup
+8	2011-11-05	 Coyotes	 • Cal O'Reilly	 	 returned to lineup
+9	2012-01-24	 Avalanche	 	 • Ryan O'Reilly	 flu (DTD)
+10	2012-01-31	 Avalanche	 • Ryan O'Reilly	 	 returned to lineup
+11	2014-01-07	 Avalanche	 	 • Ryan O'Reilly	 bruised left shoulder (DTD)
+12	2014-01-11	 Avalanche	 • Ryan O'Reilly	 	 returned to lineup
+13	2016-02-21	 Sabres	 	 • Ryan O'Reilly	 placed on IR with lower body injury
+14	2016-03-16	 Sabres	 • Ryan O'Reilly	 	 activated from IR
+15	2016-10-06	 Sabres	 	 • Ryan O'Reilly	 back injury (DTD)
+16	2016-10-13	 Sabres	 • Ryan O'Reilly	 	 returned to lineup
+17	2016-11-09	 Sabres	 	 • Ryan O'Reilly	 undisclosed injury (DTD)
+18	2016-11-11	 Sabres	 • Ryan O'Reilly	 	 returned to lineup
+19	2016-11-12	 Sabres	 	 • Ryan O'Reilly	 upper (CBC) / middle (Y) body injury (DTD)
+20	2016-11-23	 Sabres	 • Ryan O'Reilly	 	 returned to lineup
+21	2016-12-27	 Panthers	 	 • Reilly Smith	 placed on IR with concussion
+22	2016-12-27	 Sabres	 	 • Ryan O'Reilly	 appendectomy (out indefinitely)
+23	2016-12-29	 Panthers	 	 • Reilly Smith	 placed on IR with concussion
+24	2016-12-31	 Panthers	 • Reilly Smith	 	 activated from IR
+25	2017-01-03	 Sabres	 	 • Ryan O'Reilly	 placed on IR with appendectomy
+26	2017-01-05	 Sabres	 • Ryan O'Reilly	 	 returned to lineup
+27	2018-03-08	 Golden Knights	 	 • Reilly Smith	 upper body injury (DTD)
+28	2018-03-31	 Canadiens	 	 • Mike Reilly (J.)	 undisclosed injury (DTD)
+29	2018-04-01	 Canadiens	 • Mike Reilly (J.)	 	 returned to lineup
+30	2018-04-07	 Golden Knights	 • Reilly Smith	 	 returned to lineup
+31	2019-01-08	 Golden Knights	 	 • Reilly Smith	 placed on IR with undisclosed injury
+32	2019-02-01	 Golden Knights	 • Reilly Smith	 	 activated from IR

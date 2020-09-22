@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-21	 Blues	 	 • Mike Sillinger	 flu (DTD)
+1	2005-12-23	 Blues	 • Mike Sillinger	 	 returned to lineup
+2	2007-12-31	 Islanders	 	 • Mike Sillinger	 undisclosed injury (DTD)
+3	2008-01-03	 Islanders	 • Mike Sillinger	 	 returned to lineup
+4	2008-09-20	 Islanders	 	 • Mike Sillinger	 placed on IR with surgery on hip
+5	2008-12-01	 Islanders	 • Mike Sillinger	 	 activated from IR
+6	2008-12-16	 Islanders	 	 • Mike Sillinger	 groin injury (DTD)
+7	2008-12-29	 Islanders	 • Mike Sillinger	 	 returned to lineup
+8	2008-12-30	 Islanders	 	 • Mike Sillinger	 placed on IR with hip injury
+9	2009-01-26	 Islanders	 	 • Mike Sillinger	 hip resurfacing surgery (out indefinitely)

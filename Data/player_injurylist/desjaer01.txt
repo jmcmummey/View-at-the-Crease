@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-03	 Flyers	 	 • Eric Desjardins	 concussion (left game)
+1	2005-11-04	 Flyers	 	 • Eric Desjardins	 concussion (out indefinitely)
+2	2005-11-22	 Flyers	 • Eric Desjardins	 	 returned to lineup
+3	2005-12-06	 Flyers	 	 • Eric Desjardins	 right shoulder injury (left game)
+4	2005-12-07	 Flyers	 	 • Eric Desjardins	 dislocated right shoulder (out until mid-Feb)
+5	2006-02-08	 Flyers	 • Eric Desjardins	 	 activated from IR

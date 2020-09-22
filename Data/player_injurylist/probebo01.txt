@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1997-11-16	 Blackhawks	 	 • Bob Probert	 rotator cuff injury (out indefinitely)
+1	1998-04-04	 Blackhawks	 • Bob Probert	 	 activated from IR
+2	2002-10-08	 Blackhawks	 	 • Bob Probert	 placed on IR
+3	2002-11-16	 Blackhawks	 	 • Bob Probert	 team announced player will not play this season

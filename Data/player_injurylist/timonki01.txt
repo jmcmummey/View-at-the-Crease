@@ -1,0 +1,33 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-01-23	 Predators	 • Kimmo Timonen	 	 activated from IR
+1	2005-12-03	 Predators	 	 • Kimmo Timonen	 flu (DTD)
+2	2005-12-07	 Predators	 • Kimmo Timonen	 	 returned to lineup
+3	2006-03-08	 Predators	 	 • Kimmo Timonen	 bruised hand (DTD)
+4	2006-03-11	 Predators	 • Kimmo Timonen	 	 returned to lineup
+5	2007-02-17	 Predators	 	 • Kimmo Timonen	 upper body injury (DTD)
+6	2007-02-19	 Predators	 • Kimmo Timonen	 	 returned to lineup
+7	2007-02-22	 Predators	 	 • Kimmo Timonen	 upper body injury (DTD)
+8	2007-02-24	 Predators	 • Kimmo Timonen	 	 returned to lineup
+9	2007-12-15	 Flyers	 	 • Kimmo Timonen	 lower body injury (DTD)
+10	2007-12-18	 Flyers	 • Kimmo Timonen	 	 returned to lineup
+11	2008-05-09	 Flyers	 	 • Kimmo Timonen	 blood clot in right ankle (out indefinitely)
+12	2008-12-27	 Flyers	 	 • Kimmo Timonen	 right ankle injury (DTD)
+13	2008-12-30	 Flyers	 • Kimmo Timonen	 	 returned to lineup
+14	2009-02-24	 Flyers	 	 • Kimmo Timonen	 flu (DTD)
+15	2009-03-03	 Flyers	 • Kimmo Timonen	 	 returned to lineup
+16	2012-03-04	 Flyers	 	 • Kimmo Timonen	 back injury (out indefinitely)
+17	2012-03-13	 Flyers	 • Kimmo Timonen	 	 returned to lineup
+18	2012-03-29	 Flyers	 	 • Kimmo Timonen	 upper body injury (DTD)
+19	2012-03-31	 Flyers	 • Kimmo Timonen	 	 returned to lineup
+20	2013-04-23	 Flyers	 	 • Kimmo Timonen	 fractured right foot (out for season)
+21	2013-10-18	 Flyers	 	 • Kimmo Timonen	 lower body injury (DTD)
+22	2014-02-01	 Flyers	 	 • Kimmo Timonen	 foot injury (DTD)
+23	2014-02-06	 Flyers	 • Kimmo Timonen	 	 returned to lineup
+24	2014-02-26	 Flyers	 	 • Kimmo Timonen	 lower body injury (DTD)
+25	2014-03-01	 Flyers	 • Kimmo Timonen	 	 returned to lineup
+26	2014-03-31	 Flyers	 	 • Kimmo Timonen	 facial injury (DTD)
+27	2014-04-03	 Flyers	 • Kimmo Timonen	 	 returned to lineup
+28	2014-10-06	 Flyers	 	 • Kimmo Timonen	 placed on IR with blood clots in right leg
+29	2015-03-02	 Blackhawks	 • Kimmo Timonen	 	 activated from IR
+30	2015-04-06	 Blackhawks	 	 • Kimmo Timonen	 upper body injury (DTD)
+31	2015-04-15	 Blackhawks	 • Kimmo Timonen	 	 returned to lineup

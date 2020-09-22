@@ -1,0 +1,15 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-11-01	 Predators	 	 • Adam Hall	 ankle injury (DTD)
+1	2005-11-02	 Predators	 • Adam Hall	 	 returned to lineup
+2	2005-11-05	 Predators	 	 • Adam Hall	 sprained ankle (DTD)
+3	2005-11-15	 Predators	 • Adam Hall	 	 returned to lineup
+4	2008-01-20	 Penguins	 	 • Adam Hall	 groin injury (DTD)
+5	2008-01-21	 Penguins	 	 • Adam Hall	 placed on IR with groin injury
+6	2008-04-02	 Penguins	 • Adam Hall	 	 activated from IR
+7	2008-12-10	 Lightning	 	 • Adam Hall	 upper body injury (DTD)
+8	2008-12-13	 Lightning	 • Adam Hall	 	 returned to lineup
+9	2012-01-05	 Lightning	 	 • Adam Hall	 upper body injury (DTD)
+10	2012-01-10	 Lightning	 	 • Adam Hall	 placed on IR with upper body injury
+11	2012-02-07	 Lightning	 • Adam Hall	 	 activated from IR
+12	2012-03-19	 Lightning	 	 • Adam Hall	 upper body injury (DTD)
+13	2012-04-05	 Lightning	 • Adam Hall	 	 returned to lineup

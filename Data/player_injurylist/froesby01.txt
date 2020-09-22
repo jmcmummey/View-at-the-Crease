@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-12-30	 Maple Leafs	 	 • Byron Froese	 lower body injury (DTD)
+1	2016-01-09	 Maple Leafs	 • Byron Froese	 	 returned to lineup
+2	2016-02-27	 Maple Leafs	 	 • Byron Froese	 fractured hand (out indefinitely)
+3	2016-03-31	 Maple Leafs	 • Byron Froese	 	 returned to lineup
+4	2017-12-27	 Canadiens	 	 • Byron Froese	 illness (DTD)
+5	2017-12-30	 Canadiens	 • Byron Froese	 	 returned to lineup

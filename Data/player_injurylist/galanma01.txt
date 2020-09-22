@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-10-17	 Thrashers	 	 • Maxim Galanov	 hand injury (out indefinitely)
+1	1999-10-19	 Thrashers	 	 • Maxim Galanov	 placed on IR with hand injury
+2	1999-10-22	 Thrashers	 	 • Maxim Galanov	 placed on IR with hand injury
+3	2000-01-01	 Thrashers	 • Maxim Galanov	 	 activated from IR
+4	2000-01-08	 Thrashers	 • Maxim Galanov	 	 activated from IR

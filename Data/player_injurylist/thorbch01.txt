@@ -1,0 +1,13 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-03-20	 Thrashers	 	 • Chris Thorburn	 flu (DTD)
+1	2010-03-27	 Thrashers	 • Chris Thorburn	 	 returned to lineup
+2	2012-03-10	 Jets	 	 • Chris Thorburn	 lower body injury (out indefinitely)
+3	2012-03-31	 Jets	 • Chris Thorburn	 	 returned to lineup
+4	2013-10-10	 Jets	 	 • Chris Thorburn	 lower body injury (DTD)
+5	2013-10-15	 Jets	 	 • Chris Thorburn	 placed on IR with lower body injury
+6	2013-10-26	 Jets	 • Chris Thorburn	 	 activated from IR
+7	2014-03-05	 Jets	 	 • Chris Thorburn	 facial injury (DTD)
+8	2014-03-12	 Jets	 • Chris Thorburn	 	 returned to lineup
+9	2014-03-14	 Jets	 	 • Chris Thorburn	 fractured foot (out for season)
+10	2017-03-11	 Jets	 	 • Chris Thorburn	 undisclosed injury (DTD)
+11	2017-03-13	 Jets	 • Chris Thorburn	 	 returned to lineup

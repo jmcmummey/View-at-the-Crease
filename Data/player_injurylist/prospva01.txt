@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-04-18	 Lightning	 	 • Vaclav Prospal / Vinny Prospal	 upper body injury (DTD)
+1	2008-03-29	 Flyers	 	 • Vaclav Prospal / Vinny Prospal	 flu (DTD)
+2	2008-04-02	 Flyers	 • Vaclav Prospal / Vinny Prospal	 	 returned to lineup
+3	2009-12-28	 Rangers	 	 • Vaclav Prospal / Vinny Prospal	 arthroscopic surgery on knee (out indefinitely)
+4	2010-01-12	 Rangers	 • Vaclav Prospal / Vinny Prospal	 	 returned to lineup
+5	2010-10-04	 Rangers	 	 • Vaclav Prospal / Vinny Prospal	 placed on IR with sore right knee
+6	2011-02-01	 Rangers	 • Vaclav Prospal / Vinny Prospal	 	 activated from IR
+7	2011-02-01	 Rangers	 	 • Vaclav Prospal / Vinny Prospal	 surgery on right knee (DTD)
+8	2011-02-03	 Rangers	 • Vaclav Prospal / Vinny Prospal	 	 returned to lineup

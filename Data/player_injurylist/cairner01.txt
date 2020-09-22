@@ -1,0 +1,8 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-10-04	 Panthers	 	 • Eric Cairns	 left ankle injury (DTD)
+1	2005-10-10	 Panthers	 • Eric Cairns	 	 returned to lineup
+2	2006-10-03	 Penguins	 	 • Eric Cairns	 ankle injury (out indefinitely)
+3	2006-10-26	 Penguins	 • Eric Cairns	 	 returned to lineup
+4	2006-11-06	 Penguins	 	 • Eric Cairns	 knee injury (out indefinitely)
+5	2006-11-10	 Penguins	 • Eric Cairns	 	 returned to lineup
+6	2006-11-21	 Penguins	 	 • Eric Cairns	 placed on IR with post-concussion syndrome

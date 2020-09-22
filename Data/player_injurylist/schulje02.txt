@@ -1,0 +1,17 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-02-23	 Capitals	 	 • Jeff Schultz	 strained left knee (DTD)
+1	2008-02-26	 Capitals	 • Jeff Schultz	 	 returned to lineup
+2	2008-04-11	 Capitals	 	 • Jeff Schultz	 undisclosed injury (DTD)
+3	2008-04-13	 Capitals	 • Jeff Schultz	 	 returned to lineup
+4	2008-04-17	 Capitals	 	 • Jeff Schultz	 back spasms (DTD)
+5	2008-11-25	 Capitals	 	 • Jeff Schultz	 placed on IR with broken finger
+6	2008-12-28	 Capitals	 • Jeff Schultz	 	 activated from IR
+7	2009-01-09	 Capitals	 	 • Jeff Schultz	 finger injury (DTD)
+8	2009-01-13	 Capitals	 • Jeff Schultz	 	 returned to lineup
+9	2009-04-18	 Capitals	 	 • Jeff Schultz	 upper body injury (out for season)
+10	2009-11-07	 Capitals	 	 • Jeff Schultz	 lower body injury (DTD)
+11	2009-11-14	 Capitals	 • Jeff Schultz	 	 returned to lineup
+12	2010-12-07	 Capitals	 	 • Jeff Schultz	 placed on IR with broken thumb
+13	2010-12-28	 Capitals	 • Jeff Schultz	 	 activated from IR
+14	2012-01-24	 Capitals	 	 • Jeff Schultz	 illness (DTD)
+15	2012-02-01	 Capitals	 • Jeff Schultz	 	 returned to lineup

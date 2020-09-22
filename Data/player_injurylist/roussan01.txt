@@ -1,0 +1,24 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-11-06	 Stars	 	 • Antoine Roussel	 upper body injury (DTD)
+1	2015-11-10	 Stars	 • Antoine Roussel	 	 returned to lineup
+2	2016-12-21	 Stars	 	 • Antoine Roussel	 placed on IR with undisclosed injury
+3	2016-12-23	 Stars	 	 • Antoine Roussel	 placed on IR with undisclosed injury
+4	2016-12-26	 Stars	 	 • Antoine Roussel	 placed on IR with undisclosed injury
+5	2016-12-27	 Stars	 	 • Antoine Roussel	 placed on IR with undisclosed injury
+6	2017-01-04	 Stars	 • Antoine Roussel	 	 activated from IR
+7	2017-03-03	 Stars	 	 • Antoine Roussel	 hand injury (out for season)
+8	2017-12-02	 Stars	 	 • Antoine Roussel	 flu (DTD)
+9	2017-12-09	 Stars	 • Antoine Roussel	 	 returned to lineup
+10	2017-12-11	 Stars	 	 • Antoine Roussel	 elbow injury (DTD)
+11	2017-12-14	 Stars	 • Antoine Roussel	 	 returned to lineup
+12	2018-01-30	 Stars	 	 • Antoine Roussel	 illness (DTD)
+13	2018-02-03	 Stars	 • Antoine Roussel	 	 returned to lineup
+14	2018-02-16	 Stars	 	 • Antoine Roussel	 back spasms (DTD)
+15	2018-02-18	 Stars	 • Antoine Roussel	 	 returned to lineup
+16	2018-10-02	 Canucks	 	 • Antoine Roussel	 placed on IR with concussion
+17	2018-10-13	 Canucks	 • Antoine Roussel	 	 activated from IR
+18	2018-11-29	 Canucks	 	 • Antoine Roussel	 upper body injury (DTD)
+19	2018-12-01	 Canucks	 • Antoine Roussel	 	 returned to lineup
+20	2019-03-14	 Canucks	 	 • Antoine Roussel	 knee injury (out for season)
+21	2019-10-01	 Canucks	 	 • Antoine Roussel	 placed on IR with knee injury
+22	2019-12-03	 Canucks	 • Antoine Roussel	 	 activated from IR

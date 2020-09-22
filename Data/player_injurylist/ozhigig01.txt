@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-12-20	 Maple Leafs	 	 • Igor Ozhiganov	 illness (DTD)
+1	2018-12-28	 Maple Leafs	 • Igor Ozhiganov	 	 returned to lineup

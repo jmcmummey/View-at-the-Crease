@@ -1,0 +1,23 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-01-12	 Lightning	 	 • Matt Smaby	 placed on IR with lower body injury
+1	2009-01-17	 Lightning	 • Matt Smaby	 	 activated from IR
+2	2009-01-19	 Lightning	 	 • Matt Smaby	 lower body injury (DTD)
+3	2009-01-29	 Lightning	 • Matt Smaby	 	 returned to lineup
+4	2009-03-29	 Lightning	 	 • Matt Smaby	 lower body injury (DTD)
+5	2009-03-31	 Lightning	 • Matt Smaby	 	 returned to lineup
+6	2009-10-22	 Lightning	 	 • Matt Smaby	 upper body injury (DTD)
+7	2009-11-21	 Lightning	 • Matt Smaby	 	 activated from IL
+8	2009-11-25	 Lightning	 	 • Matt Smaby	 finger injury (DTD)
+9	2010-01-09	 Lightning	 	 • Matt Smaby	 shoulder injury (DTD)
+10	2010-01-18	 Lightning	 • Matt Smaby	 	 activated from IR
+11	2010-03-30	 Lightning	 	 • Matt Smaby	 back spasms (out for season)
+12	2010-10-27	 Lightning	 	 • Matt Smaby	 stomach virus (DTD)
+13	2010-11-09	 Lightning	 • Matt Smaby	 	 returned to lineup
+14	2010-11-18	 Lightning	 	 • Matt Smaby	 ankle injury (DTD)
+15	2010-11-20	 Lightning	 	 • Matt Smaby	 placed on IR with ankle injury
+16	2010-12-02	 Lightning	 • Matt Smaby	 	 activated from IR
+17	2011-02-15	 Lightning	 	 • Matt Smaby	 illness (DTD)
+18	2011-02-25	 Lightning	 • Matt Smaby	 	 returned to lineup
+19	2011-04-13	 Lightning	 	 • Matt Smaby	 lower body injury (DTD)
+20	2011-10-01	 Ducks	 	 • Matt Smaby	 placed on IR with surgery on right thumb to repair torn ligament
+21	2012-01-06	 Ducks	 • Matt Smaby	 	 activated from IR

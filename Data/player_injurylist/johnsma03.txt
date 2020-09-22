@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1999-12-14	 Thrashers	 	 • Matt Johnson	 placed on IR
+1	2000-01-04	 Thrashers	 • Matt Johnson	 	 activated from IR
+2	2002-10-17	 Wild	 	 • Matt Johnson	 placed on IR
+3	2003-11-13	 Wild	 	 • Matt Johnson	 placed on IR

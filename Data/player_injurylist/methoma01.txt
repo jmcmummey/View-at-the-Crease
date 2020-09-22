@@ -1,0 +1,71 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2008-11-12	 Blue Jackets	 	 • Marc Methot	 knee injury (DTD)
+1	2008-11-14	 Blue Jackets	 • Marc Methot	 	 returned to lineup
+2	2009-02-06	 Blue Jackets	 	 • Marc Methot	 flu (DTD)
+3	2009-02-13	 Blue Jackets	 • Marc Methot	 	 returned to lineup
+4	2009-03-13	 Blue Jackets	 	 • Marc Methot	 concussion (DTD)
+5	2009-03-18	 Blue Jackets	 • Marc Methot	 	 returned to lineup
+6	2009-12-01	 Blue Jackets	 	 • Marc Methot	 upper body injury (DTD)
+7	2009-12-05	 Blue Jackets	 • Marc Methot	 	 returned to lineup
+8	2009-12-26	 Blue Jackets	 	 • Marc Methot	 placed on IR with upper body injury
+9	2010-01-18	 Blue Jackets	 • Marc Methot	 	 activated from IR
+10	2010-01-21	 Blue Jackets	 	 • Marc Methot	 illness (DTD)
+11	2010-01-28	 Blue Jackets	 • Marc Methot	 	 returned to lineup
+12	2010-02-05	 Blue Jackets	 • Marc Methot	 	 activated from IR
+13	2010-11-22	 Blue Jackets	 	 • Marc Methot	 upper body injury (DTD)
+14	2010-12-04	 Blue Jackets	 • Marc Methot	 	 returned to lineup
+15	2011-02-18	 Blue Jackets	 	 • Marc Methot	 undisclosed (DTD)
+16	2011-02-22	 Blue Jackets	 • Marc Methot	 	 returned to lineup
+17	2011-03-15	 Blue Jackets	 	 • Marc Methot	 lower body injury (DTD)
+18	2011-03-17	 Blue Jackets	 • Marc Methot	 	 returned to lineup
+19	2011-10-18	 Blue Jackets	 	 • Marc Methot	 lower body injury (DTD)
+20	2011-10-21	 Blue Jackets	 • Marc Methot	 	 returned to lineup
+21	2011-10-22	 Blue Jackets	 	 • Marc Methot	 hand / thumb injury (DTD)
+22	2011-11-03	 Blue Jackets	 • Marc Methot	 	 returned to lineup
+23	2012-01-31	 Blue Jackets	 	 • Marc Methot	 illness (DTD)
+24	2012-02-03	 Blue Jackets	 • Marc Methot	 	 returned to lineup
+25	2012-02-09	 Blue Jackets	 	 • Marc Methot	 broken jaw (out for season)
+26	2012-02-10	 Blue Jackets	 	 • Marc Methot	 placed on IR with broken jaw (out for season)
+27	2013-03-20	 Senators	 	 • Marc Methot	 knee injury (DTD)
+28	2013-03-23	 Senators	 • Marc Methot	 	 returned to lineup
+29	2013-12-01	 Senators	 	 • Marc Methot	 flu (DTD)
+30	2013-12-03	 Senators	 • Marc Methot	 	 returned to lineup
+31	2013-12-12	 Senators	 	 • Marc Methot	 flu (DTD)
+32	2013-12-19	 Senators	 • Marc Methot	 	 returned to lineup
+33	2014-01-21	 Senators	 	 • Marc Methot	 undisclosed injury (DTD)
+34	2014-10-06	 Senators	 	 • Marc Methot	 placed on IR with back injury
+35	2014-12-04	 Senators	 • Marc Methot	 	 activated from IR
+36	2014-12-06	 Senators	 	 • Marc Methot	 undisclosed injury (DTD)
+37	2014-12-11	 Senators	 	 • Marc Methot	 back injury (DTD)
+38	2014-12-15	 Senators	 	 • Marc Methot	 placed on IR with back injury
+39	2015-01-03	 Senators	 • Marc Methot	 	 activated from IR
+40	2015-01-04	 Senators	 	 • Marc Methot	 back injury (DTD)
+41	2015-01-08	 Senators	 • Marc Methot	 	 returned to lineup
+42	2015-10-17	 Senators	 	 • Marc Methot	 illness (DTD)
+43	2015-10-20	 Senators	 	 • Marc Methot	 concussion (out indefinitely)
+44	2015-10-28	 Senators	 • Marc Methot	 	 returned to lineup
+45	2016-01-18	 Senators	 	 • Marc Methot	 lower body injury (DTD)
+46	2016-02-04	 Senators	 • Marc Methot	 	 returned to lineup
+47	2016-04-02	 Senators	 	 • Marc Methot	 flu (DTD)
+48	2016-04-07	 Senators	 • Marc Methot	 	 returned to lineup
+49	2016-04-09	 Senators	 	 • Marc Methot	 flu (out for season)
+50	2016-11-30	 Senators	 	 • Marc Methot	 lower body injury (DTD)
+51	2016-12-10	 Senators	 • Marc Methot	 	 returned to lineup
+52	2017-02-16	 Senators	 	 • Marc Methot	 illness (DTD)
+53	2017-02-18	 Senators	 • Marc Methot	 	 returned to lineup
+54	2017-03-24	 Senators	 	 • Marc Methot	 finger injury (DTD)
+55	2017-04-15	 Senators	 • Marc Methot	 	 returned to lineup
+56	2017-11-09	 Stars	 	 • Marc Methot	 lower body injury (DTD)
+57	2017-11-20	 Stars	 	 • Marc Methot	 placed on IR with knee injury
+58	2018-01-04	 Stars	 • Marc Methot	 	 activated from IR
+59	2018-01-06	 Stars	 	 • Marc Methot	 knee injury (DTD)
+60	2018-01-13	 Stars	 	 • Marc Methot	 placed on IR with surgery on knee
+61	2018-02-16	 Stars	 • Marc Methot	 	 activated from IR
+62	2018-03-09	 Stars	 	 • Marc Methot	 lower body injury / hand injury (DTD)
+63	2018-03-23	 Stars	 • Marc Methot	 	 returned to lineup
+64	2018-10-16	 Stars	 	 • Marc Methot	 general soreness (DTD)
+65	2018-10-19	 Stars	 • Marc Methot	 	 returned to lineup
+66	2018-10-25	 Stars	 	 • Marc Methot	 lower body injury (DTD)
+67	2018-10-30	 Stars	 • Marc Methot	 	 returned to lineup
+68	2018-11-03	 Stars	 	 • Marc Methot	 lower body injury (out for season)
+69	2018-11-15	 Stars	 	 • Marc Methot	 placed on IR with lower body injury (out for season)

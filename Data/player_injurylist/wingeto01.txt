@@ -1,0 +1,22 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2012-01-20	 Sharks	 	 • Tommy Wingels	 placed on IR with upper body injury
+1	2012-02-13	 Sharks	 • Tommy Wingels	 	 activated from IR
+2	2012-03-13	 Sharks	 	 • Tommy Wingels	 upper body injury (DTD)
+3	2012-03-22	 Sharks	 • Tommy Wingels	 	 returned to lineup
+4	2013-02-26	 Sharks	 	 • Tommy Wingels	 undisclosed injury (DTD)
+5	2013-03-04	 Sharks	 	 • Tommy Wingels	 placed on IR with upper body injury
+6	2013-03-09	 Sharks	 • Tommy Wingels	 	 activated from IR
+7	2013-12-31	 Sharks	 	 • Tommy Wingels	 upper body injury (DTD)
+8	2014-01-04	 Sharks	 	 • Tommy Wingels	 placed on IR with upper body injury
+9	2014-01-09	 Sharks	 • Tommy Wingels	 	 activated from IR
+10	2015-01-20	 Sharks	 	 • Tommy Wingels	 placed on IR with upper body injury
+11	2015-02-09	 Sharks	 • Tommy Wingels	 	 activated from IR
+12	2016-02-19	 Sharks	 	 • Tommy Wingels	 placed on IR with sprained left shoulder
+13	2016-02-22	 Sharks	 	 • Tommy Wingels	 placed on IR with upper body injury
+14	2016-03-15	 Sharks	 • Tommy Wingels	 	 activated from IR
+15	2016-11-26	 Sharks	 	 • Tommy Wingels	 undisclosed injury (DTD)
+16	2016-12-02	 Sharks	 • Tommy Wingels	 	 returned to lineup
+17	2018-04-03	 Bruins	 	 • Tommy Wingels	 hand injury (DTD)
+18	2018-04-07	 Bruins	 • Tommy Wingels	 	 returned to lineup
+19	2018-04-14	 Bruins	 	 • Tommy Wingels	 undisclosed injury (DTD)
+20	2018-04-16	 Bruins	 • Tommy Wingels	 	 returned to lineup

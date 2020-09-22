@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-11-09	 Blackhawks	 	 • Jocelyn Thibault	 hip injury (out indefinitely)
+1	2005-10-08	 Penguins	 	 • Jocelyn Thibault	 knee injury (DTD)
+2	2005-10-09	 Penguins	 	 • Jocelyn Thibault	 placed on IR with knee injury
+3	2005-10-20	 Penguins	 • Jocelyn Thibault	 	 activated from IR
+4	2006-01-11	 Penguins	 	 • Jocelyn Thibault	 placed on IR with torn cartilage in left hip (will need surgery)

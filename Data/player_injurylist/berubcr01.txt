@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	1995-03-31	 Capitals	 	 • Craig Berube	 flu (DTD)
+1	1995-09-14	 Capitals	 	 • Craig Berube	 broken jaw (DTD)
+2	1995-11-10	 Capitals	 	 • Craig Berube	 concussion (DTD)
+3	1996-03-22	 Capitals	 	 • Craig Berube	 knee injury (out indefinitely)

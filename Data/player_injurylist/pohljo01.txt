@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-02-08	 Maple Leafs	 	 • John Pohl / Johnny Pohl	 back injury (DTD)
+1	2007-02-15	 Maple Leafs	 • John Pohl / Johnny Pohl	 	 returned to lineup
+2	2007-03-17	 Maple Leafs	 	 • John Pohl / Johnny Pohl	 collarbone injury (DTD)
+3	2007-03-24	 Maple Leafs	 • John Pohl / Johnny Pohl	 	 returned to lineup
+4	2008-02-01	 Maple Leafs	 	 • John Pohl / Johnny Pohl	 ankle injury (out indefinitely)
+5	2008-04-01	 Maple Leafs	 • John Pohl / Johnny Pohl	 	 returned to lineup

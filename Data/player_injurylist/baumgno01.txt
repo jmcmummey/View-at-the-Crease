@@ -1,0 +1,7 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2005-12-22	 Canucks	 	 • Nolan Baumgartner	 finger injury (DTD)
+1	2005-12-31	 Canucks	 • Nolan Baumgartner	 	 returned to lineup
+2	2006-02-04	 Canucks	 	 • Nolan Baumgartner	 foot injury (DTD)
+3	2006-03-02	 Canucks	 • Nolan Baumgartner	 	 returned to lineup
+4	2010-04-23	 Canucks	 	 • Nolan Baumgartner	 right knee injury (DTD)
+5	2011-10-05	 Canucks	 	 • Nolan Baumgartner	 placed on IR with broken foot

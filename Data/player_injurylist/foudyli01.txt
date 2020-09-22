@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-10-01	 Blue Jackets	 	 • Liam Foudy	 placed on injured/non-roster list with upper body injury
+1	2019-10-14	 Blue Jackets	 • Liam Foudy	 	 activated from injured/non-roster list

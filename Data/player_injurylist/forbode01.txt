@@ -1,0 +1,10 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2015-10-23	 Kings	 	 • Derek Forbort	 illness (DTD)
+1	2015-10-29	 Kings	 • Derek Forbort	 	 returned to lineup
+2	2018-01-24	 Kings	 	 • Derek Forbort	 upper body injury (DTD)
+3	2018-02-01	 Kings	 • Derek Forbort	 	 returned to lineup
+4	2018-04-03	 Kings	 	 • Derek Forbort	 lower body injury (out for season)
+5	2019-09-30	 Kings	 	 • Derek Forbort	 placed on injured/non-roster list with back injury
+6	2020-01-06	 Kings	 • Derek Forbort	 	 activated from IR
+7	2020-01-29	 Kings	 	 • Derek Forbort	 undisclosed (DTD)
+8	2020-01-30	 Kings	 • Derek Forbort	 	 returned to lineup

@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2002-12-03	 Blue Jackets	 	 • Jean-Luc Grand-Pierre	 placed on IR
+1	2002-12-20	 Blue Jackets	 • Jean-Luc Grand-Pierre	 	 activated from IR
+2	2003-01-02	 Blue Jackets	 	 • Jean-Luc Grand-Pierre	 placed on IR
+3	2003-01-28	 Blue Jackets	 • Jean-Luc Grand-Pierre	 	 activated from IR

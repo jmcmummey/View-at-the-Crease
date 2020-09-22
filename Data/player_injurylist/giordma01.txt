@@ -1,0 +1,11 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2009-02-21	 Flames	 	 • Mark Giordano	 upper body injury (DTD)
+1	2011-11-30	 Flames	 	 • Mark Giordano	 placed on IR with hamstring injury
+2	2012-01-12	 Flames	 • Mark Giordano	 	 activated from IR
+3	2013-10-22	 Flames	 	 • Mark Giordano	 undisclosed (DTD)
+4	2013-10-26	 Flames	 	 • Mark Giordano	 placed on IR with lower body injury
+5	2013-12-04	 Flames	 • Mark Giordano	 	 activated from IR
+6	2015-02-26	 Flames	 	 • Mark Giordano	 upper body injury (out for season)
+7	2015-03-01	 Flames	 	 • Mark Giordano	 placed on IR with upper body injury (out for season)
+8	2020-02-06	 Flames	 	 • Mark Giordano	 placed on IR with hamstring injury
+9	2020-02-27	 Flames	 • Mark Giordano	 	 activated from IR

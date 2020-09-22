@@ -1,0 +1,4 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2000-11-15	 Avalanche	 	 • Chris Dingman	 knee injury (out indefinitely)
+1	2001-10-23	 Hurricanes	 • Chris Dingman	 	 activated from IR
+2	2002-01-18	 Hurricanes	 • Chris Dingman	 	 activated from IR

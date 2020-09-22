@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2019-03-20	 Ducks	 	 • Jacob Larsson	 charley horse (DTD)
+1	2019-03-29	 Ducks	 • Jacob Larsson	 	 returned to lineup
+2	2019-12-18	 Ducks	 	 • Jacob Larsson	 upper body injury (DTD)
+3	2019-12-22	 Ducks	 • Jacob Larsson	 	 returned to lineup
