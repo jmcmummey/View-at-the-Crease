@@ -1,0 +1,826 @@
+	Season	team_name	team_abbr	link
+0	2019-20	Anaheim Ducks	ANA	teams/ANA/2020_gamelog.html
+1	2018-19	Anaheim Ducks	ANA	teams/ANA/2019_gamelog.html
+2	2017-18	Anaheim Ducks	ANA	teams/ANA/2018_gamelog.html
+3	2016-17	Anaheim Ducks	ANA	teams/ANA/2017_gamelog.html
+4	2015-16	Anaheim Ducks	ANA	teams/ANA/2016_gamelog.html
+5	2014-15	Anaheim Ducks	ANA	teams/ANA/2015_gamelog.html
+6	2013-14	Anaheim Ducks	ANA	teams/ANA/2014_gamelog.html
+7	2012-13	Anaheim Ducks	ANA	teams/ANA/2013_gamelog.html
+8	2011-12	Anaheim Ducks	ANA	teams/ANA/2012_gamelog.html
+9	2010-11	Anaheim Ducks	ANA	teams/ANA/2011_gamelog.html
+10	2009-10	Anaheim Ducks	ANA	teams/ANA/2010_gamelog.html
+11	2008-09	Anaheim Ducks	ANA	teams/ANA/2009_gamelog.html
+12	2007-08	Anaheim Ducks	ANA	teams/ANA/2008_gamelog.html
+13	2006-07	Anaheim Ducks	ANA	teams/ANA/2007_gamelog.html
+14	2005-06	Mighty Ducks of Anaheim	MDA	teams/MDA/2006_gamelog.html
+15	2003-04	Mighty Ducks of Anaheim	MDA	teams/MDA/2004_gamelog.html
+16	2002-03	Mighty Ducks of Anaheim	MDA	teams/MDA/2003_gamelog.html
+17	2001-02	Mighty Ducks of Anaheim	MDA	teams/MDA/2002_gamelog.html
+18	2000-01	Mighty Ducks of Anaheim	MDA	teams/MDA/2001_gamelog.html
+19	1999-00	Mighty Ducks of Anaheim	MDA	teams/MDA/2000_gamelog.html
+20	1998-99	Mighty Ducks of Anaheim	MDA	teams/MDA/1999_gamelog.html
+21	1997-98	Mighty Ducks of Anaheim	MDA	teams/MDA/1998_gamelog.html
+22	1996-97	Mighty Ducks of Anaheim	MDA	teams/MDA/1997_gamelog.html
+23	1995-96	Mighty Ducks of Anaheim	MDA	teams/MDA/1996_gamelog.html
+24	1994-95	Mighty Ducks of Anaheim	MDA	teams/MDA/1995_gamelog.html
+25	1993-94	Mighty Ducks of Anaheim	MDA	teams/MDA/1994_gamelog.html
+26	2019-20	Arizona Coyotes	ARI	teams/ARI/2020_gamelog.html
+27	2018-19	Arizona Coyotes	ARI	teams/ARI/2019_gamelog.html
+28	2017-18	Arizona Coyotes	ARI	teams/ARI/2018_gamelog.html
+29	2016-17	Arizona Coyotes	ARI	teams/ARI/2017_gamelog.html
+30	2015-16	Arizona Coyotes	ARI	teams/ARI/2016_gamelog.html
+31	2014-15	Arizona Coyotes	ARI	teams/ARI/2015_gamelog.html
+32	2013-14	Phoenix Coyotes	PHX	teams/PHX/2014_gamelog.html
+33	2012-13	Phoenix Coyotes	PHX	teams/PHX/2013_gamelog.html
+34	2011-12	Phoenix Coyotes	PHX	teams/PHX/2012_gamelog.html
+35	2010-11	Phoenix Coyotes	PHX	teams/PHX/2011_gamelog.html
+36	2009-10	Phoenix Coyotes	PHX	teams/PHX/2010_gamelog.html
+37	2008-09	Phoenix Coyotes	PHX	teams/PHX/2009_gamelog.html
+38	2007-08	Phoenix Coyotes	PHX	teams/PHX/2008_gamelog.html
+39	2006-07	Phoenix Coyotes	PHX	teams/PHX/2007_gamelog.html
+40	2005-06	Phoenix Coyotes	PHX	teams/PHX/2006_gamelog.html
+41	2003-04	Phoenix Coyotes	PHX	teams/PHX/2004_gamelog.html
+42	2002-03	Phoenix Coyotes	PHX	teams/PHX/2003_gamelog.html
+43	2001-02	Phoenix Coyotes	PHX	teams/PHX/2002_gamelog.html
+44	2000-01	Phoenix Coyotes	PHX	teams/PHX/2001_gamelog.html
+45	1999-00	Phoenix Coyotes	PHX	teams/PHX/2000_gamelog.html
+46	1998-99	Phoenix Coyotes	PHX	teams/PHX/1999_gamelog.html
+47	1997-98	Phoenix Coyotes	PHX	teams/PHX/1998_gamelog.html
+48	1996-97	Phoenix Coyotes	PHX	teams/PHX/1997_gamelog.html
+49	1995-96	Winnipeg Jets	WIN	teams/WIN/1996_gamelog.html
+50	1994-95	Winnipeg Jets	WIN	teams/WIN/1995_gamelog.html
+51	1993-94	Winnipeg Jets	WIN	teams/WIN/1994_gamelog.html
+52	1992-93	Winnipeg Jets	WIN	teams/WIN/1993_gamelog.html
+53	1991-92	Winnipeg Jets	WIN	teams/WIN/1992_gamelog.html
+54	1990-91	Winnipeg Jets	WIN	teams/WIN/1991_gamelog.html
+55	2019-20	Boston Bruins	BOS	teams/BOS/2020_gamelog.html
+56	2018-19	Boston Bruins	BOS	teams/BOS/2019_gamelog.html
+57	2017-18	Boston Bruins	BOS	teams/BOS/2018_gamelog.html
+58	2016-17	Boston Bruins	BOS	teams/BOS/2017_gamelog.html
+59	2015-16	Boston Bruins	BOS	teams/BOS/2016_gamelog.html
+60	2014-15	Boston Bruins	BOS	teams/BOS/2015_gamelog.html
+61	2013-14	Boston Bruins	BOS	teams/BOS/2014_gamelog.html
+62	2012-13	Boston Bruins	BOS	teams/BOS/2013_gamelog.html
+63	2011-12	Boston Bruins	BOS	teams/BOS/2012_gamelog.html
+64	2010-11	Boston Bruins	BOS	teams/BOS/2011_gamelog.html
+65	2009-10	Boston Bruins	BOS	teams/BOS/2010_gamelog.html
+66	2008-09	Boston Bruins	BOS	teams/BOS/2009_gamelog.html
+67	2007-08	Boston Bruins	BOS	teams/BOS/2008_gamelog.html
+68	2006-07	Boston Bruins	BOS	teams/BOS/2007_gamelog.html
+69	2005-06	Boston Bruins	BOS	teams/BOS/2006_gamelog.html
+70	2003-04	Boston Bruins	BOS	teams/BOS/2004_gamelog.html
+71	2002-03	Boston Bruins	BOS	teams/BOS/2003_gamelog.html
+72	2001-02	Boston Bruins	BOS	teams/BOS/2002_gamelog.html
+73	2000-01	Boston Bruins	BOS	teams/BOS/2001_gamelog.html
+74	1999-00	Boston Bruins	BOS	teams/BOS/2000_gamelog.html
+75	1998-99	Boston Bruins	BOS	teams/BOS/1999_gamelog.html
+76	1997-98	Boston Bruins	BOS	teams/BOS/1998_gamelog.html
+77	1996-97	Boston Bruins	BOS	teams/BOS/1997_gamelog.html
+78	1995-96	Boston Bruins	BOS	teams/BOS/1996_gamelog.html
+79	1994-95	Boston Bruins	BOS	teams/BOS/1995_gamelog.html
+80	1993-94	Boston Bruins	BOS	teams/BOS/1994_gamelog.html
+81	1992-93	Boston Bruins	BOS	teams/BOS/1993_gamelog.html
+82	1991-92	Boston Bruins	BOS	teams/BOS/1992_gamelog.html
+83	1990-91	Boston Bruins	BOS	teams/BOS/1991_gamelog.html
+84	2019-20	Buffalo Sabres	BUF	teams/BUF/2020_gamelog.html
+85	2018-19	Buffalo Sabres	BUF	teams/BUF/2019_gamelog.html
+86	2017-18	Buffalo Sabres	BUF	teams/BUF/2018_gamelog.html
+87	2016-17	Buffalo Sabres	BUF	teams/BUF/2017_gamelog.html
+88	2015-16	Buffalo Sabres	BUF	teams/BUF/2016_gamelog.html
+89	2014-15	Buffalo Sabres	BUF	teams/BUF/2015_gamelog.html
+90	2013-14	Buffalo Sabres	BUF	teams/BUF/2014_gamelog.html
+91	2012-13	Buffalo Sabres	BUF	teams/BUF/2013_gamelog.html
+92	2011-12	Buffalo Sabres	BUF	teams/BUF/2012_gamelog.html
+93	2010-11	Buffalo Sabres	BUF	teams/BUF/2011_gamelog.html
+94	2009-10	Buffalo Sabres	BUF	teams/BUF/2010_gamelog.html
+95	2008-09	Buffalo Sabres	BUF	teams/BUF/2009_gamelog.html
+96	2007-08	Buffalo Sabres	BUF	teams/BUF/2008_gamelog.html
+97	2006-07	Buffalo Sabres	BUF	teams/BUF/2007_gamelog.html
+98	2005-06	Buffalo Sabres	BUF	teams/BUF/2006_gamelog.html
+99	2003-04	Buffalo Sabres	BUF	teams/BUF/2004_gamelog.html
+100	2002-03	Buffalo Sabres	BUF	teams/BUF/2003_gamelog.html
+101	2001-02	Buffalo Sabres	BUF	teams/BUF/2002_gamelog.html
+102	2000-01	Buffalo Sabres	BUF	teams/BUF/2001_gamelog.html
+103	1999-00	Buffalo Sabres	BUF	teams/BUF/2000_gamelog.html
+104	1998-99	Buffalo Sabres	BUF	teams/BUF/1999_gamelog.html
+105	1997-98	Buffalo Sabres	BUF	teams/BUF/1998_gamelog.html
+106	1996-97	Buffalo Sabres	BUF	teams/BUF/1997_gamelog.html
+107	1995-96	Buffalo Sabres	BUF	teams/BUF/1996_gamelog.html
+108	1994-95	Buffalo Sabres	BUF	teams/BUF/1995_gamelog.html
+109	1993-94	Buffalo Sabres	BUF	teams/BUF/1994_gamelog.html
+110	1992-93	Buffalo Sabres	BUF	teams/BUF/1993_gamelog.html
+111	1991-92	Buffalo Sabres	BUF	teams/BUF/1992_gamelog.html
+112	1990-91	Buffalo Sabres	BUF	teams/BUF/1991_gamelog.html
+113	2019-20	Calgary Flames	CGY	teams/CGY/2020_gamelog.html
+114	2018-19	Calgary Flames	CGY	teams/CGY/2019_gamelog.html
+115	2017-18	Calgary Flames	CGY	teams/CGY/2018_gamelog.html
+116	2016-17	Calgary Flames	CGY	teams/CGY/2017_gamelog.html
+117	2015-16	Calgary Flames	CGY	teams/CGY/2016_gamelog.html
+118	2014-15	Calgary Flames	CGY	teams/CGY/2015_gamelog.html
+119	2013-14	Calgary Flames	CGY	teams/CGY/2014_gamelog.html
+120	2012-13	Calgary Flames	CGY	teams/CGY/2013_gamelog.html
+121	2011-12	Calgary Flames	CGY	teams/CGY/2012_gamelog.html
+122	2010-11	Calgary Flames	CGY	teams/CGY/2011_gamelog.html
+123	2009-10	Calgary Flames	CGY	teams/CGY/2010_gamelog.html
+124	2008-09	Calgary Flames	CGY	teams/CGY/2009_gamelog.html
+125	2007-08	Calgary Flames	CGY	teams/CGY/2008_gamelog.html
+126	2006-07	Calgary Flames	CGY	teams/CGY/2007_gamelog.html
+127	2005-06	Calgary Flames	CGY	teams/CGY/2006_gamelog.html
+128	2003-04	Calgary Flames	CGY	teams/CGY/2004_gamelog.html
+129	2002-03	Calgary Flames	CGY	teams/CGY/2003_gamelog.html
+130	2001-02	Calgary Flames	CGY	teams/CGY/2002_gamelog.html
+131	2000-01	Calgary Flames	CGY	teams/CGY/2001_gamelog.html
+132	1999-00	Calgary Flames	CGY	teams/CGY/2000_gamelog.html
+133	1998-99	Calgary Flames	CGY	teams/CGY/1999_gamelog.html
+134	1997-98	Calgary Flames	CGY	teams/CGY/1998_gamelog.html
+135	1996-97	Calgary Flames	CGY	teams/CGY/1997_gamelog.html
+136	1995-96	Calgary Flames	CGY	teams/CGY/1996_gamelog.html
+137	1994-95	Calgary Flames	CGY	teams/CGY/1995_gamelog.html
+138	1993-94	Calgary Flames	CGY	teams/CGY/1994_gamelog.html
+139	1992-93	Calgary Flames	CGY	teams/CGY/1993_gamelog.html
+140	1991-92	Calgary Flames	CGY	teams/CGY/1992_gamelog.html
+141	1990-91	Calgary Flames	CGY	teams/CGY/1991_gamelog.html
+142	2019-20	Carolina Hurricanes	CAR	teams/CAR/2020_gamelog.html
+143	2018-19	Carolina Hurricanes	CAR	teams/CAR/2019_gamelog.html
+144	2017-18	Carolina Hurricanes	CAR	teams/CAR/2018_gamelog.html
+145	2016-17	Carolina Hurricanes	CAR	teams/CAR/2017_gamelog.html
+146	2015-16	Carolina Hurricanes	CAR	teams/CAR/2016_gamelog.html
+147	2014-15	Carolina Hurricanes	CAR	teams/CAR/2015_gamelog.html
+148	2013-14	Carolina Hurricanes	CAR	teams/CAR/2014_gamelog.html
+149	2012-13	Carolina Hurricanes	CAR	teams/CAR/2013_gamelog.html
+150	2011-12	Carolina Hurricanes	CAR	teams/CAR/2012_gamelog.html
+151	2010-11	Carolina Hurricanes	CAR	teams/CAR/2011_gamelog.html
+152	2009-10	Carolina Hurricanes	CAR	teams/CAR/2010_gamelog.html
+153	2008-09	Carolina Hurricanes	CAR	teams/CAR/2009_gamelog.html
+154	2007-08	Carolina Hurricanes	CAR	teams/CAR/2008_gamelog.html
+155	2006-07	Carolina Hurricanes	CAR	teams/CAR/2007_gamelog.html
+156	2005-06	Carolina Hurricanes	CAR	teams/CAR/2006_gamelog.html
+157	2003-04	Carolina Hurricanes	CAR	teams/CAR/2004_gamelog.html
+158	2002-03	Carolina Hurricanes	CAR	teams/CAR/2003_gamelog.html
+159	2001-02	Carolina Hurricanes	CAR	teams/CAR/2002_gamelog.html
+160	2000-01	Carolina Hurricanes	CAR	teams/CAR/2001_gamelog.html
+161	1999-00	Carolina Hurricanes	CAR	teams/CAR/2000_gamelog.html
+162	1998-99	Carolina Hurricanes	CAR	teams/CAR/1999_gamelog.html
+163	1997-98	Carolina Hurricanes	CAR	teams/CAR/1998_gamelog.html
+164	1996-97	Hartford Whalers	HAR	teams/HAR/1997_gamelog.html
+165	1995-96	Hartford Whalers	HAR	teams/HAR/1996_gamelog.html
+166	1994-95	Hartford Whalers	HAR	teams/HAR/1995_gamelog.html
+167	1993-94	Hartford Whalers	HAR	teams/HAR/1994_gamelog.html
+168	1992-93	Hartford Whalers	HAR	teams/HAR/1993_gamelog.html
+169	1991-92	Hartford Whalers	HAR	teams/HAR/1992_gamelog.html
+170	1990-91	Hartford Whalers	HAR	teams/HAR/1991_gamelog.html
+171	2019-20	Chicago Blackhawks	CHI	teams/CHI/2020_gamelog.html
+172	2018-19	Chicago Blackhawks	CHI	teams/CHI/2019_gamelog.html
+173	2017-18	Chicago Blackhawks	CHI	teams/CHI/2018_gamelog.html
+174	2016-17	Chicago Blackhawks	CHI	teams/CHI/2017_gamelog.html
+175	2015-16	Chicago Blackhawks	CHI	teams/CHI/2016_gamelog.html
+176	2014-15	Chicago Blackhawks	CHI	teams/CHI/2015_gamelog.html
+177	2013-14	Chicago Blackhawks	CHI	teams/CHI/2014_gamelog.html
+178	2012-13	Chicago Blackhawks	CHI	teams/CHI/2013_gamelog.html
+179	2011-12	Chicago Blackhawks	CHI	teams/CHI/2012_gamelog.html
+180	2010-11	Chicago Blackhawks	CHI	teams/CHI/2011_gamelog.html
+181	2009-10	Chicago Blackhawks	CHI	teams/CHI/2010_gamelog.html
+182	2008-09	Chicago Blackhawks	CHI	teams/CHI/2009_gamelog.html
+183	2007-08	Chicago Blackhawks	CHI	teams/CHI/2008_gamelog.html
+184	2006-07	Chicago Blackhawks	CHI	teams/CHI/2007_gamelog.html
+185	2005-06	Chicago Blackhawks	CHI	teams/CHI/2006_gamelog.html
+186	2003-04	Chicago Blackhawks	CHI	teams/CHI/2004_gamelog.html
+187	2002-03	Chicago Blackhawks	CHI	teams/CHI/2003_gamelog.html
+188	2001-02	Chicago Blackhawks	CHI	teams/CHI/2002_gamelog.html
+189	2000-01	Chicago Blackhawks	CHI	teams/CHI/2001_gamelog.html
+190	1999-00	Chicago Blackhawks	CHI	teams/CHI/2000_gamelog.html
+191	1998-99	Chicago Blackhawks	CHI	teams/CHI/1999_gamelog.html
+192	1997-98	Chicago Blackhawks	CHI	teams/CHI/1998_gamelog.html
+193	1996-97	Chicago Blackhawks	CHI	teams/CHI/1997_gamelog.html
+194	1995-96	Chicago Blackhawks	CHI	teams/CHI/1996_gamelog.html
+195	1994-95	Chicago Blackhawks	CHI	teams/CHI/1995_gamelog.html
+196	1993-94	Chicago Blackhawks	CHI	teams/CHI/1994_gamelog.html
+197	1992-93	Chicago Blackhawks	CHI	teams/CHI/1993_gamelog.html
+198	1991-92	Chicago Blackhawks	CHI	teams/CHI/1992_gamelog.html
+199	1990-91	Chicago Blackhawks	CHI	teams/CHI/1991_gamelog.html
+200	2019-20	Colorado Avalanche	COL	teams/COL/2020_gamelog.html
+201	2018-19	Colorado Avalanche	COL	teams/COL/2019_gamelog.html
+202	2017-18	Colorado Avalanche	COL	teams/COL/2018_gamelog.html
+203	2016-17	Colorado Avalanche	COL	teams/COL/2017_gamelog.html
+204	2015-16	Colorado Avalanche	COL	teams/COL/2016_gamelog.html
+205	2014-15	Colorado Avalanche	COL	teams/COL/2015_gamelog.html
+206	2013-14	Colorado Avalanche	COL	teams/COL/2014_gamelog.html
+207	2012-13	Colorado Avalanche	COL	teams/COL/2013_gamelog.html
+208	2011-12	Colorado Avalanche	COL	teams/COL/2012_gamelog.html
+209	2010-11	Colorado Avalanche	COL	teams/COL/2011_gamelog.html
+210	2009-10	Colorado Avalanche	COL	teams/COL/2010_gamelog.html
+211	2008-09	Colorado Avalanche	COL	teams/COL/2009_gamelog.html
+212	2007-08	Colorado Avalanche	COL	teams/COL/2008_gamelog.html
+213	2006-07	Colorado Avalanche	COL	teams/COL/2007_gamelog.html
+214	2005-06	Colorado Avalanche	COL	teams/COL/2006_gamelog.html
+215	2003-04	Colorado Avalanche	COL	teams/COL/2004_gamelog.html
+216	2002-03	Colorado Avalanche	COL	teams/COL/2003_gamelog.html
+217	2001-02	Colorado Avalanche	COL	teams/COL/2002_gamelog.html
+218	2000-01	Colorado Avalanche	COL	teams/COL/2001_gamelog.html
+219	1999-00	Colorado Avalanche	COL	teams/COL/2000_gamelog.html
+220	1998-99	Colorado Avalanche	COL	teams/COL/1999_gamelog.html
+221	1997-98	Colorado Avalanche	COL	teams/COL/1998_gamelog.html
+222	1996-97	Colorado Avalanche	COL	teams/COL/1997_gamelog.html
+223	1995-96	Colorado Avalanche	COL	teams/COL/1996_gamelog.html
+224	1994-95	Quebec Nordiques	QUE	teams/QUE/1995_gamelog.html
+225	1993-94	Quebec Nordiques	QUE	teams/QUE/1994_gamelog.html
+226	1992-93	Quebec Nordiques	QUE	teams/QUE/1993_gamelog.html
+227	1991-92	Quebec Nordiques	QUE	teams/QUE/1992_gamelog.html
+228	1990-91	Quebec Nordiques	QUE	teams/QUE/1991_gamelog.html
+229	2019-20	Columbus Blue Jackets	CBJ	teams/CBJ/2020_gamelog.html
+230	2018-19	Columbus Blue Jackets	CBJ	teams/CBJ/2019_gamelog.html
+231	2017-18	Columbus Blue Jackets	CBJ	teams/CBJ/2018_gamelog.html
+232	2016-17	Columbus Blue Jackets	CBJ	teams/CBJ/2017_gamelog.html
+233	2015-16	Columbus Blue Jackets	CBJ	teams/CBJ/2016_gamelog.html
+234	2014-15	Columbus Blue Jackets	CBJ	teams/CBJ/2015_gamelog.html
+235	2013-14	Columbus Blue Jackets	CBJ	teams/CBJ/2014_gamelog.html
+236	2012-13	Columbus Blue Jackets	CBJ	teams/CBJ/2013_gamelog.html
+237	2011-12	Columbus Blue Jackets	CBJ	teams/CBJ/2012_gamelog.html
+238	2010-11	Columbus Blue Jackets	CBJ	teams/CBJ/2011_gamelog.html
+239	2009-10	Columbus Blue Jackets	CBJ	teams/CBJ/2010_gamelog.html
+240	2008-09	Columbus Blue Jackets	CBJ	teams/CBJ/2009_gamelog.html
+241	2007-08	Columbus Blue Jackets	CBJ	teams/CBJ/2008_gamelog.html
+242	2006-07	Columbus Blue Jackets	CBJ	teams/CBJ/2007_gamelog.html
+243	2005-06	Columbus Blue Jackets	CBJ	teams/CBJ/2006_gamelog.html
+244	2003-04	Columbus Blue Jackets	CBJ	teams/CBJ/2004_gamelog.html
+245	2002-03	Columbus Blue Jackets	CBJ	teams/CBJ/2003_gamelog.html
+246	2001-02	Columbus Blue Jackets	CBJ	teams/CBJ/2002_gamelog.html
+247	2000-01	Columbus Blue Jackets	CBJ	teams/CBJ/2001_gamelog.html
+248	2019-20	Dallas Stars	DAL	teams/DAL/2020_gamelog.html
+249	2018-19	Dallas Stars	DAL	teams/DAL/2019_gamelog.html
+250	2017-18	Dallas Stars	DAL	teams/DAL/2018_gamelog.html
+251	2016-17	Dallas Stars	DAL	teams/DAL/2017_gamelog.html
+252	2015-16	Dallas Stars	DAL	teams/DAL/2016_gamelog.html
+253	2014-15	Dallas Stars	DAL	teams/DAL/2015_gamelog.html
+254	2013-14	Dallas Stars	DAL	teams/DAL/2014_gamelog.html
+255	2012-13	Dallas Stars	DAL	teams/DAL/2013_gamelog.html
+256	2011-12	Dallas Stars	DAL	teams/DAL/2012_gamelog.html
+257	2010-11	Dallas Stars	DAL	teams/DAL/2011_gamelog.html
+258	2009-10	Dallas Stars	DAL	teams/DAL/2010_gamelog.html
+259	2008-09	Dallas Stars	DAL	teams/DAL/2009_gamelog.html
+260	2007-08	Dallas Stars	DAL	teams/DAL/2008_gamelog.html
+261	2006-07	Dallas Stars	DAL	teams/DAL/2007_gamelog.html
+262	2005-06	Dallas Stars	DAL	teams/DAL/2006_gamelog.html
+263	2003-04	Dallas Stars	DAL	teams/DAL/2004_gamelog.html
+264	2002-03	Dallas Stars	DAL	teams/DAL/2003_gamelog.html
+265	2001-02	Dallas Stars	DAL	teams/DAL/2002_gamelog.html
+266	2000-01	Dallas Stars	DAL	teams/DAL/2001_gamelog.html
+267	1999-00	Dallas Stars	DAL	teams/DAL/2000_gamelog.html
+268	1998-99	Dallas Stars	DAL	teams/DAL/1999_gamelog.html
+269	1997-98	Dallas Stars	DAL	teams/DAL/1998_gamelog.html
+270	1996-97	Dallas Stars	DAL	teams/DAL/1997_gamelog.html
+271	1995-96	Dallas Stars	DAL	teams/DAL/1996_gamelog.html
+272	1994-95	Dallas Stars	DAL	teams/DAL/1995_gamelog.html
+273	1993-94	Dallas Stars	DAL	teams/DAL/1994_gamelog.html
+274	1992-93	Minnesota North Stars	MNS	teams/MNS/1993_gamelog.html
+275	1991-92	Minnesota North Stars	MNS	teams/MNS/1992_gamelog.html
+276	1990-91	Minnesota North Stars	MNS	teams/MNS/1991_gamelog.html
+277	2019-20	Detroit Red Wings	DET	teams/DET/2020_gamelog.html
+278	2018-19	Detroit Red Wings	DET	teams/DET/2019_gamelog.html
+279	2017-18	Detroit Red Wings	DET	teams/DET/2018_gamelog.html
+280	2016-17	Detroit Red Wings	DET	teams/DET/2017_gamelog.html
+281	2015-16	Detroit Red Wings	DET	teams/DET/2016_gamelog.html
+282	2014-15	Detroit Red Wings	DET	teams/DET/2015_gamelog.html
+283	2013-14	Detroit Red Wings	DET	teams/DET/2014_gamelog.html
+284	2012-13	Detroit Red Wings	DET	teams/DET/2013_gamelog.html
+285	2011-12	Detroit Red Wings	DET	teams/DET/2012_gamelog.html
+286	2010-11	Detroit Red Wings	DET	teams/DET/2011_gamelog.html
+287	2009-10	Detroit Red Wings	DET	teams/DET/2010_gamelog.html
+288	2008-09	Detroit Red Wings	DET	teams/DET/2009_gamelog.html
+289	2007-08	Detroit Red Wings	DET	teams/DET/2008_gamelog.html
+290	2006-07	Detroit Red Wings	DET	teams/DET/2007_gamelog.html
+291	2005-06	Detroit Red Wings	DET	teams/DET/2006_gamelog.html
+292	2003-04	Detroit Red Wings	DET	teams/DET/2004_gamelog.html
+293	2002-03	Detroit Red Wings	DET	teams/DET/2003_gamelog.html
+294	2001-02	Detroit Red Wings	DET	teams/DET/2002_gamelog.html
+295	2000-01	Detroit Red Wings	DET	teams/DET/2001_gamelog.html
+296	1999-00	Detroit Red Wings	DET	teams/DET/2000_gamelog.html
+297	1998-99	Detroit Red Wings	DET	teams/DET/1999_gamelog.html
+298	1997-98	Detroit Red Wings	DET	teams/DET/1998_gamelog.html
+299	1996-97	Detroit Red Wings	DET	teams/DET/1997_gamelog.html
+300	1995-96	Detroit Red Wings	DET	teams/DET/1996_gamelog.html
+301	1994-95	Detroit Red Wings	DET	teams/DET/1995_gamelog.html
+302	1993-94	Detroit Red Wings	DET	teams/DET/1994_gamelog.html
+303	1992-93	Detroit Red Wings	DET	teams/DET/1993_gamelog.html
+304	1991-92	Detroit Red Wings	DET	teams/DET/1992_gamelog.html
+305	1990-91	Detroit Red Wings	DET	teams/DET/1991_gamelog.html
+306	2019-20	Edmonton Oilers	EDM	teams/EDM/2020_gamelog.html
+307	2018-19	Edmonton Oilers	EDM	teams/EDM/2019_gamelog.html
+308	2017-18	Edmonton Oilers	EDM	teams/EDM/2018_gamelog.html
+309	2016-17	Edmonton Oilers	EDM	teams/EDM/2017_gamelog.html
+310	2015-16	Edmonton Oilers	EDM	teams/EDM/2016_gamelog.html
+311	2014-15	Edmonton Oilers	EDM	teams/EDM/2015_gamelog.html
+312	2013-14	Edmonton Oilers	EDM	teams/EDM/2014_gamelog.html
+313	2012-13	Edmonton Oilers	EDM	teams/EDM/2013_gamelog.html
+314	2011-12	Edmonton Oilers	EDM	teams/EDM/2012_gamelog.html
+315	2010-11	Edmonton Oilers	EDM	teams/EDM/2011_gamelog.html
+316	2009-10	Edmonton Oilers	EDM	teams/EDM/2010_gamelog.html
+317	2008-09	Edmonton Oilers	EDM	teams/EDM/2009_gamelog.html
+318	2007-08	Edmonton Oilers	EDM	teams/EDM/2008_gamelog.html
+319	2006-07	Edmonton Oilers	EDM	teams/EDM/2007_gamelog.html
+320	2005-06	Edmonton Oilers	EDM	teams/EDM/2006_gamelog.html
+321	2003-04	Edmonton Oilers	EDM	teams/EDM/2004_gamelog.html
+322	2002-03	Edmonton Oilers	EDM	teams/EDM/2003_gamelog.html
+323	2001-02	Edmonton Oilers	EDM	teams/EDM/2002_gamelog.html
+324	2000-01	Edmonton Oilers	EDM	teams/EDM/2001_gamelog.html
+325	1999-00	Edmonton Oilers	EDM	teams/EDM/2000_gamelog.html
+326	1998-99	Edmonton Oilers	EDM	teams/EDM/1999_gamelog.html
+327	1997-98	Edmonton Oilers	EDM	teams/EDM/1998_gamelog.html
+328	1996-97	Edmonton Oilers	EDM	teams/EDM/1997_gamelog.html
+329	1995-96	Edmonton Oilers	EDM	teams/EDM/1996_gamelog.html
+330	1994-95	Edmonton Oilers	EDM	teams/EDM/1995_gamelog.html
+331	1993-94	Edmonton Oilers	EDM	teams/EDM/1994_gamelog.html
+332	1992-93	Edmonton Oilers	EDM	teams/EDM/1993_gamelog.html
+333	1991-92	Edmonton Oilers	EDM	teams/EDM/1992_gamelog.html
+334	1990-91	Edmonton Oilers	EDM	teams/EDM/1991_gamelog.html
+335	2019-20	Florida Panthers	FLA	teams/FLA/2020_gamelog.html
+336	2018-19	Florida Panthers	FLA	teams/FLA/2019_gamelog.html
+337	2017-18	Florida Panthers	FLA	teams/FLA/2018_gamelog.html
+338	2016-17	Florida Panthers	FLA	teams/FLA/2017_gamelog.html
+339	2015-16	Florida Panthers	FLA	teams/FLA/2016_gamelog.html
+340	2014-15	Florida Panthers	FLA	teams/FLA/2015_gamelog.html
+341	2013-14	Florida Panthers	FLA	teams/FLA/2014_gamelog.html
+342	2012-13	Florida Panthers	FLA	teams/FLA/2013_gamelog.html
+343	2011-12	Florida Panthers	FLA	teams/FLA/2012_gamelog.html
+344	2010-11	Florida Panthers	FLA	teams/FLA/2011_gamelog.html
+345	2009-10	Florida Panthers	FLA	teams/FLA/2010_gamelog.html
+346	2008-09	Florida Panthers	FLA	teams/FLA/2009_gamelog.html
+347	2007-08	Florida Panthers	FLA	teams/FLA/2008_gamelog.html
+348	2006-07	Florida Panthers	FLA	teams/FLA/2007_gamelog.html
+349	2005-06	Florida Panthers	FLA	teams/FLA/2006_gamelog.html
+350	2003-04	Florida Panthers	FLA	teams/FLA/2004_gamelog.html
+351	2002-03	Florida Panthers	FLA	teams/FLA/2003_gamelog.html
+352	2001-02	Florida Panthers	FLA	teams/FLA/2002_gamelog.html
+353	2000-01	Florida Panthers	FLA	teams/FLA/2001_gamelog.html
+354	1999-00	Florida Panthers	FLA	teams/FLA/2000_gamelog.html
+355	1998-99	Florida Panthers	FLA	teams/FLA/1999_gamelog.html
+356	1997-98	Florida Panthers	FLA	teams/FLA/1998_gamelog.html
+357	1996-97	Florida Panthers	FLA	teams/FLA/1997_gamelog.html
+358	1995-96	Florida Panthers	FLA	teams/FLA/1996_gamelog.html
+359	1994-95	Florida Panthers	FLA	teams/FLA/1995_gamelog.html
+360	1993-94	Florida Panthers	FLA	teams/FLA/1994_gamelog.html
+361	2019-20	Los Angeles Kings	LAK	teams/LAK/2020_gamelog.html
+362	2018-19	Los Angeles Kings	LAK	teams/LAK/2019_gamelog.html
+363	2017-18	Los Angeles Kings	LAK	teams/LAK/2018_gamelog.html
+364	2016-17	Los Angeles Kings	LAK	teams/LAK/2017_gamelog.html
+365	2015-16	Los Angeles Kings	LAK	teams/LAK/2016_gamelog.html
+366	2014-15	Los Angeles Kings	LAK	teams/LAK/2015_gamelog.html
+367	2013-14	Los Angeles Kings	LAK	teams/LAK/2014_gamelog.html
+368	2012-13	Los Angeles Kings	LAK	teams/LAK/2013_gamelog.html
+369	2011-12	Los Angeles Kings	LAK	teams/LAK/2012_gamelog.html
+370	2010-11	Los Angeles Kings	LAK	teams/LAK/2011_gamelog.html
+371	2009-10	Los Angeles Kings	LAK	teams/LAK/2010_gamelog.html
+372	2008-09	Los Angeles Kings	LAK	teams/LAK/2009_gamelog.html
+373	2007-08	Los Angeles Kings	LAK	teams/LAK/2008_gamelog.html
+374	2006-07	Los Angeles Kings	LAK	teams/LAK/2007_gamelog.html
+375	2005-06	Los Angeles Kings	LAK	teams/LAK/2006_gamelog.html
+376	2003-04	Los Angeles Kings	LAK	teams/LAK/2004_gamelog.html
+377	2002-03	Los Angeles Kings	LAK	teams/LAK/2003_gamelog.html
+378	2001-02	Los Angeles Kings	LAK	teams/LAK/2002_gamelog.html
+379	2000-01	Los Angeles Kings	LAK	teams/LAK/2001_gamelog.html
+380	1999-00	Los Angeles Kings	LAK	teams/LAK/2000_gamelog.html
+381	1998-99	Los Angeles Kings	LAK	teams/LAK/1999_gamelog.html
+382	1997-98	Los Angeles Kings	LAK	teams/LAK/1998_gamelog.html
+383	1996-97	Los Angeles Kings	LAK	teams/LAK/1997_gamelog.html
+384	1995-96	Los Angeles Kings	LAK	teams/LAK/1996_gamelog.html
+385	1994-95	Los Angeles Kings	LAK	teams/LAK/1995_gamelog.html
+386	1993-94	Los Angeles Kings	LAK	teams/LAK/1994_gamelog.html
+387	1992-93	Los Angeles Kings	LAK	teams/LAK/1993_gamelog.html
+388	1991-92	Los Angeles Kings	LAK	teams/LAK/1992_gamelog.html
+389	1990-91	Los Angeles Kings	LAK	teams/LAK/1991_gamelog.html
+390	2019-20	Minnesota Wild	MIN	teams/MIN/2020_gamelog.html
+391	2018-19	Minnesota Wild	MIN	teams/MIN/2019_gamelog.html
+392	2017-18	Minnesota Wild	MIN	teams/MIN/2018_gamelog.html
+393	2016-17	Minnesota Wild	MIN	teams/MIN/2017_gamelog.html
+394	2015-16	Minnesota Wild	MIN	teams/MIN/2016_gamelog.html
+395	2014-15	Minnesota Wild	MIN	teams/MIN/2015_gamelog.html
+396	2013-14	Minnesota Wild	MIN	teams/MIN/2014_gamelog.html
+397	2012-13	Minnesota Wild	MIN	teams/MIN/2013_gamelog.html
+398	2011-12	Minnesota Wild	MIN	teams/MIN/2012_gamelog.html
+399	2010-11	Minnesota Wild	MIN	teams/MIN/2011_gamelog.html
+400	2009-10	Minnesota Wild	MIN	teams/MIN/2010_gamelog.html
+401	2008-09	Minnesota Wild	MIN	teams/MIN/2009_gamelog.html
+402	2007-08	Minnesota Wild	MIN	teams/MIN/2008_gamelog.html
+403	2006-07	Minnesota Wild	MIN	teams/MIN/2007_gamelog.html
+404	2005-06	Minnesota Wild	MIN	teams/MIN/2006_gamelog.html
+405	2003-04	Minnesota Wild	MIN	teams/MIN/2004_gamelog.html
+406	2002-03	Minnesota Wild	MIN	teams/MIN/2003_gamelog.html
+407	2001-02	Minnesota Wild	MIN	teams/MIN/2002_gamelog.html
+408	2000-01	Minnesota Wild	MIN	teams/MIN/2001_gamelog.html
+409	2019-20	Montreal Canadiens	MTL	teams/MTL/2020_gamelog.html
+410	2018-19	Montreal Canadiens	MTL	teams/MTL/2019_gamelog.html
+411	2017-18	Montreal Canadiens	MTL	teams/MTL/2018_gamelog.html
+412	2016-17	Montreal Canadiens	MTL	teams/MTL/2017_gamelog.html
+413	2015-16	Montreal Canadiens	MTL	teams/MTL/2016_gamelog.html
+414	2014-15	Montreal Canadiens	MTL	teams/MTL/2015_gamelog.html
+415	2013-14	Montreal Canadiens	MTL	teams/MTL/2014_gamelog.html
+416	2012-13	Montreal Canadiens	MTL	teams/MTL/2013_gamelog.html
+417	2011-12	Montreal Canadiens	MTL	teams/MTL/2012_gamelog.html
+418	2010-11	Montreal Canadiens	MTL	teams/MTL/2011_gamelog.html
+419	2009-10	Montreal Canadiens	MTL	teams/MTL/2010_gamelog.html
+420	2008-09	Montreal Canadiens	MTL	teams/MTL/2009_gamelog.html
+421	2007-08	Montreal Canadiens	MTL	teams/MTL/2008_gamelog.html
+422	2006-07	Montreal Canadiens	MTL	teams/MTL/2007_gamelog.html
+423	2005-06	Montreal Canadiens	MTL	teams/MTL/2006_gamelog.html
+424	2003-04	Montreal Canadiens	MTL	teams/MTL/2004_gamelog.html
+425	2002-03	Montreal Canadiens	MTL	teams/MTL/2003_gamelog.html
+426	2001-02	Montreal Canadiens	MTL	teams/MTL/2002_gamelog.html
+427	2000-01	Montreal Canadiens	MTL	teams/MTL/2001_gamelog.html
+428	1999-00	Montreal Canadiens	MTL	teams/MTL/2000_gamelog.html
+429	1998-99	Montreal Canadiens	MTL	teams/MTL/1999_gamelog.html
+430	1997-98	Montreal Canadiens	MTL	teams/MTL/1998_gamelog.html
+431	1996-97	Montreal Canadiens	MTL	teams/MTL/1997_gamelog.html
+432	1995-96	Montreal Canadiens	MTL	teams/MTL/1996_gamelog.html
+433	1994-95	Montreal Canadiens	MTL	teams/MTL/1995_gamelog.html
+434	1993-94	Montreal Canadiens	MTL	teams/MTL/1994_gamelog.html
+435	1992-93	Montreal Canadiens	MTL	teams/MTL/1993_gamelog.html
+436	1991-92	Montreal Canadiens	MTL	teams/MTL/1992_gamelog.html
+437	1990-91	Montreal Canadiens	MTL	teams/MTL/1991_gamelog.html
+438	2019-20	Nashville Predators	NSH	teams/NSH/2020_gamelog.html
+439	2018-19	Nashville Predators	NSH	teams/NSH/2019_gamelog.html
+440	2017-18	Nashville Predators	NSH	teams/NSH/2018_gamelog.html
+441	2016-17	Nashville Predators	NSH	teams/NSH/2017_gamelog.html
+442	2015-16	Nashville Predators	NSH	teams/NSH/2016_gamelog.html
+443	2014-15	Nashville Predators	NSH	teams/NSH/2015_gamelog.html
+444	2013-14	Nashville Predators	NSH	teams/NSH/2014_gamelog.html
+445	2012-13	Nashville Predators	NSH	teams/NSH/2013_gamelog.html
+446	2011-12	Nashville Predators	NSH	teams/NSH/2012_gamelog.html
+447	2010-11	Nashville Predators	NSH	teams/NSH/2011_gamelog.html
+448	2009-10	Nashville Predators	NSH	teams/NSH/2010_gamelog.html
+449	2008-09	Nashville Predators	NSH	teams/NSH/2009_gamelog.html
+450	2007-08	Nashville Predators	NSH	teams/NSH/2008_gamelog.html
+451	2006-07	Nashville Predators	NSH	teams/NSH/2007_gamelog.html
+452	2005-06	Nashville Predators	NSH	teams/NSH/2006_gamelog.html
+453	2003-04	Nashville Predators	NSH	teams/NSH/2004_gamelog.html
+454	2002-03	Nashville Predators	NSH	teams/NSH/2003_gamelog.html
+455	2001-02	Nashville Predators	NSH	teams/NSH/2002_gamelog.html
+456	2000-01	Nashville Predators	NSH	teams/NSH/2001_gamelog.html
+457	1999-00	Nashville Predators	NSH	teams/NSH/2000_gamelog.html
+458	1998-99	Nashville Predators	NSH	teams/NSH/1999_gamelog.html
+459	2019-20	New Jersey Devils	NJD	teams/NJD/2020_gamelog.html
+460	2018-19	New Jersey Devils	NJD	teams/NJD/2019_gamelog.html
+461	2017-18	New Jersey Devils	NJD	teams/NJD/2018_gamelog.html
+462	2016-17	New Jersey Devils	NJD	teams/NJD/2017_gamelog.html
+463	2015-16	New Jersey Devils	NJD	teams/NJD/2016_gamelog.html
+464	2014-15	New Jersey Devils	NJD	teams/NJD/2015_gamelog.html
+465	2013-14	New Jersey Devils	NJD	teams/NJD/2014_gamelog.html
+466	2012-13	New Jersey Devils	NJD	teams/NJD/2013_gamelog.html
+467	2011-12	New Jersey Devils	NJD	teams/NJD/2012_gamelog.html
+468	2010-11	New Jersey Devils	NJD	teams/NJD/2011_gamelog.html
+469	2009-10	New Jersey Devils	NJD	teams/NJD/2010_gamelog.html
+470	2008-09	New Jersey Devils	NJD	teams/NJD/2009_gamelog.html
+471	2007-08	New Jersey Devils	NJD	teams/NJD/2008_gamelog.html
+472	2006-07	New Jersey Devils	NJD	teams/NJD/2007_gamelog.html
+473	2005-06	New Jersey Devils	NJD	teams/NJD/2006_gamelog.html
+474	2003-04	New Jersey Devils	NJD	teams/NJD/2004_gamelog.html
+475	2002-03	New Jersey Devils	NJD	teams/NJD/2003_gamelog.html
+476	2001-02	New Jersey Devils	NJD	teams/NJD/2002_gamelog.html
+477	2000-01	New Jersey Devils	NJD	teams/NJD/2001_gamelog.html
+478	1999-00	New Jersey Devils	NJD	teams/NJD/2000_gamelog.html
+479	1998-99	New Jersey Devils	NJD	teams/NJD/1999_gamelog.html
+480	1997-98	New Jersey Devils	NJD	teams/NJD/1998_gamelog.html
+481	1996-97	New Jersey Devils	NJD	teams/NJD/1997_gamelog.html
+482	1995-96	New Jersey Devils	NJD	teams/NJD/1996_gamelog.html
+483	1994-95	New Jersey Devils	NJD	teams/NJD/1995_gamelog.html
+484	1993-94	New Jersey Devils	NJD	teams/NJD/1994_gamelog.html
+485	1992-93	New Jersey Devils	NJD	teams/NJD/1993_gamelog.html
+486	1991-92	New Jersey Devils	NJD	teams/NJD/1992_gamelog.html
+487	1990-91	New Jersey Devils	NJD	teams/NJD/1991_gamelog.html
+488	2019-20	New York Islanders	NYI	teams/NYI/2020_gamelog.html
+489	2018-19	New York Islanders	NYI	teams/NYI/2019_gamelog.html
+490	2017-18	New York Islanders	NYI	teams/NYI/2018_gamelog.html
+491	2016-17	New York Islanders	NYI	teams/NYI/2017_gamelog.html
+492	2015-16	New York Islanders	NYI	teams/NYI/2016_gamelog.html
+493	2014-15	New York Islanders	NYI	teams/NYI/2015_gamelog.html
+494	2013-14	New York Islanders	NYI	teams/NYI/2014_gamelog.html
+495	2012-13	New York Islanders	NYI	teams/NYI/2013_gamelog.html
+496	2011-12	New York Islanders	NYI	teams/NYI/2012_gamelog.html
+497	2010-11	New York Islanders	NYI	teams/NYI/2011_gamelog.html
+498	2009-10	New York Islanders	NYI	teams/NYI/2010_gamelog.html
+499	2008-09	New York Islanders	NYI	teams/NYI/2009_gamelog.html
+500	2007-08	New York Islanders	NYI	teams/NYI/2008_gamelog.html
+501	2006-07	New York Islanders	NYI	teams/NYI/2007_gamelog.html
+502	2005-06	New York Islanders	NYI	teams/NYI/2006_gamelog.html
+503	2003-04	New York Islanders	NYI	teams/NYI/2004_gamelog.html
+504	2002-03	New York Islanders	NYI	teams/NYI/2003_gamelog.html
+505	2001-02	New York Islanders	NYI	teams/NYI/2002_gamelog.html
+506	2000-01	New York Islanders	NYI	teams/NYI/2001_gamelog.html
+507	1999-00	New York Islanders	NYI	teams/NYI/2000_gamelog.html
+508	1998-99	New York Islanders	NYI	teams/NYI/1999_gamelog.html
+509	1997-98	New York Islanders	NYI	teams/NYI/1998_gamelog.html
+510	1996-97	New York Islanders	NYI	teams/NYI/1997_gamelog.html
+511	1995-96	New York Islanders	NYI	teams/NYI/1996_gamelog.html
+512	1994-95	New York Islanders	NYI	teams/NYI/1995_gamelog.html
+513	1993-94	New York Islanders	NYI	teams/NYI/1994_gamelog.html
+514	1992-93	New York Islanders	NYI	teams/NYI/1993_gamelog.html
+515	1991-92	New York Islanders	NYI	teams/NYI/1992_gamelog.html
+516	1990-91	New York Islanders	NYI	teams/NYI/1991_gamelog.html
+517	2019-20	New York Rangers	NYR	teams/NYR/2020_gamelog.html
+518	2018-19	New York Rangers	NYR	teams/NYR/2019_gamelog.html
+519	2017-18	New York Rangers	NYR	teams/NYR/2018_gamelog.html
+520	2016-17	New York Rangers	NYR	teams/NYR/2017_gamelog.html
+521	2015-16	New York Rangers	NYR	teams/NYR/2016_gamelog.html
+522	2014-15	New York Rangers	NYR	teams/NYR/2015_gamelog.html
+523	2013-14	New York Rangers	NYR	teams/NYR/2014_gamelog.html
+524	2012-13	New York Rangers	NYR	teams/NYR/2013_gamelog.html
+525	2011-12	New York Rangers	NYR	teams/NYR/2012_gamelog.html
+526	2010-11	New York Rangers	NYR	teams/NYR/2011_gamelog.html
+527	2009-10	New York Rangers	NYR	teams/NYR/2010_gamelog.html
+528	2008-09	New York Rangers	NYR	teams/NYR/2009_gamelog.html
+529	2007-08	New York Rangers	NYR	teams/NYR/2008_gamelog.html
+530	2006-07	New York Rangers	NYR	teams/NYR/2007_gamelog.html
+531	2005-06	New York Rangers	NYR	teams/NYR/2006_gamelog.html
+532	2003-04	New York Rangers	NYR	teams/NYR/2004_gamelog.html
+533	2002-03	New York Rangers	NYR	teams/NYR/2003_gamelog.html
+534	2001-02	New York Rangers	NYR	teams/NYR/2002_gamelog.html
+535	2000-01	New York Rangers	NYR	teams/NYR/2001_gamelog.html
+536	1999-00	New York Rangers	NYR	teams/NYR/2000_gamelog.html
+537	1998-99	New York Rangers	NYR	teams/NYR/1999_gamelog.html
+538	1997-98	New York Rangers	NYR	teams/NYR/1998_gamelog.html
+539	1996-97	New York Rangers	NYR	teams/NYR/1997_gamelog.html
+540	1995-96	New York Rangers	NYR	teams/NYR/1996_gamelog.html
+541	1994-95	New York Rangers	NYR	teams/NYR/1995_gamelog.html
+542	1993-94	New York Rangers	NYR	teams/NYR/1994_gamelog.html
+543	1992-93	New York Rangers	NYR	teams/NYR/1993_gamelog.html
+544	1991-92	New York Rangers	NYR	teams/NYR/1992_gamelog.html
+545	1990-91	New York Rangers	NYR	teams/NYR/1991_gamelog.html
+546	2019-20	Ottawa Senators	OTT	teams/OTT/2020_gamelog.html
+547	2018-19	Ottawa Senators	OTT	teams/OTT/2019_gamelog.html
+548	2017-18	Ottawa Senators	OTT	teams/OTT/2018_gamelog.html
+549	2016-17	Ottawa Senators	OTT	teams/OTT/2017_gamelog.html
+550	2015-16	Ottawa Senators	OTT	teams/OTT/2016_gamelog.html
+551	2014-15	Ottawa Senators	OTT	teams/OTT/2015_gamelog.html
+552	2013-14	Ottawa Senators	OTT	teams/OTT/2014_gamelog.html
+553	2012-13	Ottawa Senators	OTT	teams/OTT/2013_gamelog.html
+554	2011-12	Ottawa Senators	OTT	teams/OTT/2012_gamelog.html
+555	2010-11	Ottawa Senators	OTT	teams/OTT/2011_gamelog.html
+556	2009-10	Ottawa Senators	OTT	teams/OTT/2010_gamelog.html
+557	2008-09	Ottawa Senators	OTT	teams/OTT/2009_gamelog.html
+558	2007-08	Ottawa Senators	OTT	teams/OTT/2008_gamelog.html
+559	2006-07	Ottawa Senators	OTT	teams/OTT/2007_gamelog.html
+560	2005-06	Ottawa Senators	OTT	teams/OTT/2006_gamelog.html
+561	2003-04	Ottawa Senators	OTT	teams/OTT/2004_gamelog.html
+562	2002-03	Ottawa Senators	OTT	teams/OTT/2003_gamelog.html
+563	2001-02	Ottawa Senators	OTT	teams/OTT/2002_gamelog.html
+564	2000-01	Ottawa Senators	OTT	teams/OTT/2001_gamelog.html
+565	1999-00	Ottawa Senators	OTT	teams/OTT/2000_gamelog.html
+566	1998-99	Ottawa Senators	OTT	teams/OTT/1999_gamelog.html
+567	1997-98	Ottawa Senators	OTT	teams/OTT/1998_gamelog.html
+568	1996-97	Ottawa Senators	OTT	teams/OTT/1997_gamelog.html
+569	1995-96	Ottawa Senators	OTT	teams/OTT/1996_gamelog.html
+570	1994-95	Ottawa Senators	OTT	teams/OTT/1995_gamelog.html
+571	1993-94	Ottawa Senators	OTT	teams/OTT/1994_gamelog.html
+572	1992-93	Ottawa Senators	OTT	teams/OTT/1993_gamelog.html
+573	2019-20	Philadelphia Flyers	PHI	teams/PHI/2020_gamelog.html
+574	2018-19	Philadelphia Flyers	PHI	teams/PHI/2019_gamelog.html
+575	2017-18	Philadelphia Flyers	PHI	teams/PHI/2018_gamelog.html
+576	2016-17	Philadelphia Flyers	PHI	teams/PHI/2017_gamelog.html
+577	2015-16	Philadelphia Flyers	PHI	teams/PHI/2016_gamelog.html
+578	2014-15	Philadelphia Flyers	PHI	teams/PHI/2015_gamelog.html
+579	2013-14	Philadelphia Flyers	PHI	teams/PHI/2014_gamelog.html
+580	2012-13	Philadelphia Flyers	PHI	teams/PHI/2013_gamelog.html
+581	2011-12	Philadelphia Flyers	PHI	teams/PHI/2012_gamelog.html
+582	2010-11	Philadelphia Flyers	PHI	teams/PHI/2011_gamelog.html
+583	2009-10	Philadelphia Flyers	PHI	teams/PHI/2010_gamelog.html
+584	2008-09	Philadelphia Flyers	PHI	teams/PHI/2009_gamelog.html
+585	2007-08	Philadelphia Flyers	PHI	teams/PHI/2008_gamelog.html
+586	2006-07	Philadelphia Flyers	PHI	teams/PHI/2007_gamelog.html
+587	2005-06	Philadelphia Flyers	PHI	teams/PHI/2006_gamelog.html
+588	2003-04	Philadelphia Flyers	PHI	teams/PHI/2004_gamelog.html
+589	2002-03	Philadelphia Flyers	PHI	teams/PHI/2003_gamelog.html
+590	2001-02	Philadelphia Flyers	PHI	teams/PHI/2002_gamelog.html
+591	2000-01	Philadelphia Flyers	PHI	teams/PHI/2001_gamelog.html
+592	1999-00	Philadelphia Flyers	PHI	teams/PHI/2000_gamelog.html
+593	1998-99	Philadelphia Flyers	PHI	teams/PHI/1999_gamelog.html
+594	1997-98	Philadelphia Flyers	PHI	teams/PHI/1998_gamelog.html
+595	1996-97	Philadelphia Flyers	PHI	teams/PHI/1997_gamelog.html
+596	1995-96	Philadelphia Flyers	PHI	teams/PHI/1996_gamelog.html
+597	1994-95	Philadelphia Flyers	PHI	teams/PHI/1995_gamelog.html
+598	1993-94	Philadelphia Flyers	PHI	teams/PHI/1994_gamelog.html
+599	1992-93	Philadelphia Flyers	PHI	teams/PHI/1993_gamelog.html
+600	1991-92	Philadelphia Flyers	PHI	teams/PHI/1992_gamelog.html
+601	1990-91	Philadelphia Flyers	PHI	teams/PHI/1991_gamelog.html
+602	2019-20	Pittsburgh Penguins	PIT	teams/PIT/2020_gamelog.html
+603	2018-19	Pittsburgh Penguins	PIT	teams/PIT/2019_gamelog.html
+604	2017-18	Pittsburgh Penguins	PIT	teams/PIT/2018_gamelog.html
+605	2016-17	Pittsburgh Penguins	PIT	teams/PIT/2017_gamelog.html
+606	2015-16	Pittsburgh Penguins	PIT	teams/PIT/2016_gamelog.html
+607	2014-15	Pittsburgh Penguins	PIT	teams/PIT/2015_gamelog.html
+608	2013-14	Pittsburgh Penguins	PIT	teams/PIT/2014_gamelog.html
+609	2012-13	Pittsburgh Penguins	PIT	teams/PIT/2013_gamelog.html
+610	2011-12	Pittsburgh Penguins	PIT	teams/PIT/2012_gamelog.html
+611	2010-11	Pittsburgh Penguins	PIT	teams/PIT/2011_gamelog.html
+612	2009-10	Pittsburgh Penguins	PIT	teams/PIT/2010_gamelog.html
+613	2008-09	Pittsburgh Penguins	PIT	teams/PIT/2009_gamelog.html
+614	2007-08	Pittsburgh Penguins	PIT	teams/PIT/2008_gamelog.html
+615	2006-07	Pittsburgh Penguins	PIT	teams/PIT/2007_gamelog.html
+616	2005-06	Pittsburgh Penguins	PIT	teams/PIT/2006_gamelog.html
+617	2003-04	Pittsburgh Penguins	PIT	teams/PIT/2004_gamelog.html
+618	2002-03	Pittsburgh Penguins	PIT	teams/PIT/2003_gamelog.html
+619	2001-02	Pittsburgh Penguins	PIT	teams/PIT/2002_gamelog.html
+620	2000-01	Pittsburgh Penguins	PIT	teams/PIT/2001_gamelog.html
+621	1999-00	Pittsburgh Penguins	PIT	teams/PIT/2000_gamelog.html
+622	1998-99	Pittsburgh Penguins	PIT	teams/PIT/1999_gamelog.html
+623	1997-98	Pittsburgh Penguins	PIT	teams/PIT/1998_gamelog.html
+624	1996-97	Pittsburgh Penguins	PIT	teams/PIT/1997_gamelog.html
+625	1995-96	Pittsburgh Penguins	PIT	teams/PIT/1996_gamelog.html
+626	1994-95	Pittsburgh Penguins	PIT	teams/PIT/1995_gamelog.html
+627	1993-94	Pittsburgh Penguins	PIT	teams/PIT/1994_gamelog.html
+628	1992-93	Pittsburgh Penguins	PIT	teams/PIT/1993_gamelog.html
+629	1991-92	Pittsburgh Penguins	PIT	teams/PIT/1992_gamelog.html
+630	1990-91	Pittsburgh Penguins	PIT	teams/PIT/1991_gamelog.html
+631	2019-20	San Jose Sharks	SJS	teams/SJS/2020_gamelog.html
+632	2018-19	San Jose Sharks	SJS	teams/SJS/2019_gamelog.html
+633	2017-18	San Jose Sharks	SJS	teams/SJS/2018_gamelog.html
+634	2016-17	San Jose Sharks	SJS	teams/SJS/2017_gamelog.html
+635	2015-16	San Jose Sharks	SJS	teams/SJS/2016_gamelog.html
+636	2014-15	San Jose Sharks	SJS	teams/SJS/2015_gamelog.html
+637	2013-14	San Jose Sharks	SJS	teams/SJS/2014_gamelog.html
+638	2012-13	San Jose Sharks	SJS	teams/SJS/2013_gamelog.html
+639	2011-12	San Jose Sharks	SJS	teams/SJS/2012_gamelog.html
+640	2010-11	San Jose Sharks	SJS	teams/SJS/2011_gamelog.html
+641	2009-10	San Jose Sharks	SJS	teams/SJS/2010_gamelog.html
+642	2008-09	San Jose Sharks	SJS	teams/SJS/2009_gamelog.html
+643	2007-08	San Jose Sharks	SJS	teams/SJS/2008_gamelog.html
+644	2006-07	San Jose Sharks	SJS	teams/SJS/2007_gamelog.html
+645	2005-06	San Jose Sharks	SJS	teams/SJS/2006_gamelog.html
+646	2003-04	San Jose Sharks	SJS	teams/SJS/2004_gamelog.html
+647	2002-03	San Jose Sharks	SJS	teams/SJS/2003_gamelog.html
+648	2001-02	San Jose Sharks	SJS	teams/SJS/2002_gamelog.html
+649	2000-01	San Jose Sharks	SJS	teams/SJS/2001_gamelog.html
+650	1999-00	San Jose Sharks	SJS	teams/SJS/2000_gamelog.html
+651	1998-99	San Jose Sharks	SJS	teams/SJS/1999_gamelog.html
+652	1997-98	San Jose Sharks	SJS	teams/SJS/1998_gamelog.html
+653	1996-97	San Jose Sharks	SJS	teams/SJS/1997_gamelog.html
+654	1995-96	San Jose Sharks	SJS	teams/SJS/1996_gamelog.html
+655	1994-95	San Jose Sharks	SJS	teams/SJS/1995_gamelog.html
+656	1993-94	San Jose Sharks	SJS	teams/SJS/1994_gamelog.html
+657	1992-93	San Jose Sharks	SJS	teams/SJS/1993_gamelog.html
+658	1991-92	San Jose Sharks	SJS	teams/SJS/1992_gamelog.html
+659	2019-20	St. Louis Blues	STL	teams/STL/2020_gamelog.html
+660	2018-19	St. Louis Blues	STL	teams/STL/2019_gamelog.html
+661	2017-18	St. Louis Blues	STL	teams/STL/2018_gamelog.html
+662	2016-17	St. Louis Blues	STL	teams/STL/2017_gamelog.html
+663	2015-16	St. Louis Blues	STL	teams/STL/2016_gamelog.html
+664	2014-15	St. Louis Blues	STL	teams/STL/2015_gamelog.html
+665	2013-14	St. Louis Blues	STL	teams/STL/2014_gamelog.html
+666	2012-13	St. Louis Blues	STL	teams/STL/2013_gamelog.html
+667	2011-12	St. Louis Blues	STL	teams/STL/2012_gamelog.html
+668	2010-11	St. Louis Blues	STL	teams/STL/2011_gamelog.html
+669	2009-10	St. Louis Blues	STL	teams/STL/2010_gamelog.html
+670	2008-09	St. Louis Blues	STL	teams/STL/2009_gamelog.html
+671	2007-08	St. Louis Blues	STL	teams/STL/2008_gamelog.html
+672	2006-07	St. Louis Blues	STL	teams/STL/2007_gamelog.html
+673	2005-06	St. Louis Blues	STL	teams/STL/2006_gamelog.html
+674	2003-04	St. Louis Blues	STL	teams/STL/2004_gamelog.html
+675	2002-03	St. Louis Blues	STL	teams/STL/2003_gamelog.html
+676	2001-02	St. Louis Blues	STL	teams/STL/2002_gamelog.html
+677	2000-01	St. Louis Blues	STL	teams/STL/2001_gamelog.html
+678	1999-00	St. Louis Blues	STL	teams/STL/2000_gamelog.html
+679	1998-99	St. Louis Blues	STL	teams/STL/1999_gamelog.html
+680	1997-98	St. Louis Blues	STL	teams/STL/1998_gamelog.html
+681	1996-97	St. Louis Blues	STL	teams/STL/1997_gamelog.html
+682	1995-96	St. Louis Blues	STL	teams/STL/1996_gamelog.html
+683	1994-95	St. Louis Blues	STL	teams/STL/1995_gamelog.html
+684	1993-94	St. Louis Blues	STL	teams/STL/1994_gamelog.html
+685	1992-93	St. Louis Blues	STL	teams/STL/1993_gamelog.html
+686	1991-92	St. Louis Blues	STL	teams/STL/1992_gamelog.html
+687	1990-91	St. Louis Blues	STL	teams/STL/1991_gamelog.html
+688	2019-20	Tampa Bay Lightning	TBL	teams/TBL/2020_gamelog.html
+689	2018-19	Tampa Bay Lightning	TBL	teams/TBL/2019_gamelog.html
+690	2017-18	Tampa Bay Lightning	TBL	teams/TBL/2018_gamelog.html
+691	2016-17	Tampa Bay Lightning	TBL	teams/TBL/2017_gamelog.html
+692	2015-16	Tampa Bay Lightning	TBL	teams/TBL/2016_gamelog.html
+693	2014-15	Tampa Bay Lightning	TBL	teams/TBL/2015_gamelog.html
+694	2013-14	Tampa Bay Lightning	TBL	teams/TBL/2014_gamelog.html
+695	2012-13	Tampa Bay Lightning	TBL	teams/TBL/2013_gamelog.html
+696	2011-12	Tampa Bay Lightning	TBL	teams/TBL/2012_gamelog.html
+697	2010-11	Tampa Bay Lightning	TBL	teams/TBL/2011_gamelog.html
+698	2009-10	Tampa Bay Lightning	TBL	teams/TBL/2010_gamelog.html
+699	2008-09	Tampa Bay Lightning	TBL	teams/TBL/2009_gamelog.html
+700	2007-08	Tampa Bay Lightning	TBL	teams/TBL/2008_gamelog.html
+701	2006-07	Tampa Bay Lightning	TBL	teams/TBL/2007_gamelog.html
+702	2005-06	Tampa Bay Lightning	TBL	teams/TBL/2006_gamelog.html
+703	2003-04	Tampa Bay Lightning	TBL	teams/TBL/2004_gamelog.html
+704	2002-03	Tampa Bay Lightning	TBL	teams/TBL/2003_gamelog.html
+705	2001-02	Tampa Bay Lightning	TBL	teams/TBL/2002_gamelog.html
+706	2000-01	Tampa Bay Lightning	TBL	teams/TBL/2001_gamelog.html
+707	1999-00	Tampa Bay Lightning	TBL	teams/TBL/2000_gamelog.html
+708	1998-99	Tampa Bay Lightning	TBL	teams/TBL/1999_gamelog.html
+709	1997-98	Tampa Bay Lightning	TBL	teams/TBL/1998_gamelog.html
+710	1996-97	Tampa Bay Lightning	TBL	teams/TBL/1997_gamelog.html
+711	1995-96	Tampa Bay Lightning	TBL	teams/TBL/1996_gamelog.html
+712	1994-95	Tampa Bay Lightning	TBL	teams/TBL/1995_gamelog.html
+713	1993-94	Tampa Bay Lightning	TBL	teams/TBL/1994_gamelog.html
+714	1992-93	Tampa Bay Lightning	TBL	teams/TBL/1993_gamelog.html
+715	2019-20	Toronto Maple Leafs	TOR	teams/TOR/2020_gamelog.html
+716	2018-19	Toronto Maple Leafs	TOR	teams/TOR/2019_gamelog.html
+717	2017-18	Toronto Maple Leafs	TOR	teams/TOR/2018_gamelog.html
+718	2016-17	Toronto Maple Leafs	TOR	teams/TOR/2017_gamelog.html
+719	2015-16	Toronto Maple Leafs	TOR	teams/TOR/2016_gamelog.html
+720	2014-15	Toronto Maple Leafs	TOR	teams/TOR/2015_gamelog.html
+721	2013-14	Toronto Maple Leafs	TOR	teams/TOR/2014_gamelog.html
+722	2012-13	Toronto Maple Leafs	TOR	teams/TOR/2013_gamelog.html
+723	2011-12	Toronto Maple Leafs	TOR	teams/TOR/2012_gamelog.html
+724	2010-11	Toronto Maple Leafs	TOR	teams/TOR/2011_gamelog.html
+725	2009-10	Toronto Maple Leafs	TOR	teams/TOR/2010_gamelog.html
+726	2008-09	Toronto Maple Leafs	TOR	teams/TOR/2009_gamelog.html
+727	2007-08	Toronto Maple Leafs	TOR	teams/TOR/2008_gamelog.html
+728	2006-07	Toronto Maple Leafs	TOR	teams/TOR/2007_gamelog.html
+729	2005-06	Toronto Maple Leafs	TOR	teams/TOR/2006_gamelog.html
+730	2003-04	Toronto Maple Leafs	TOR	teams/TOR/2004_gamelog.html
+731	2002-03	Toronto Maple Leafs	TOR	teams/TOR/2003_gamelog.html
+732	2001-02	Toronto Maple Leafs	TOR	teams/TOR/2002_gamelog.html
+733	2000-01	Toronto Maple Leafs	TOR	teams/TOR/2001_gamelog.html
+734	1999-00	Toronto Maple Leafs	TOR	teams/TOR/2000_gamelog.html
+735	1998-99	Toronto Maple Leafs	TOR	teams/TOR/1999_gamelog.html
+736	1997-98	Toronto Maple Leafs	TOR	teams/TOR/1998_gamelog.html
+737	1996-97	Toronto Maple Leafs	TOR	teams/TOR/1997_gamelog.html
+738	1995-96	Toronto Maple Leafs	TOR	teams/TOR/1996_gamelog.html
+739	1994-95	Toronto Maple Leafs	TOR	teams/TOR/1995_gamelog.html
+740	1993-94	Toronto Maple Leafs	TOR	teams/TOR/1994_gamelog.html
+741	1992-93	Toronto Maple Leafs	TOR	teams/TOR/1993_gamelog.html
+742	1991-92	Toronto Maple Leafs	TOR	teams/TOR/1992_gamelog.html
+743	1990-91	Toronto Maple Leafs	TOR	teams/TOR/1991_gamelog.html
+744	2019-20	Vancouver Canucks	VAN	teams/VAN/2020_gamelog.html
+745	2018-19	Vancouver Canucks	VAN	teams/VAN/2019_gamelog.html
+746	2017-18	Vancouver Canucks	VAN	teams/VAN/2018_gamelog.html
+747	2016-17	Vancouver Canucks	VAN	teams/VAN/2017_gamelog.html
+748	2015-16	Vancouver Canucks	VAN	teams/VAN/2016_gamelog.html
+749	2014-15	Vancouver Canucks	VAN	teams/VAN/2015_gamelog.html
+750	2013-14	Vancouver Canucks	VAN	teams/VAN/2014_gamelog.html
+751	2012-13	Vancouver Canucks	VAN	teams/VAN/2013_gamelog.html
+752	2011-12	Vancouver Canucks	VAN	teams/VAN/2012_gamelog.html
+753	2010-11	Vancouver Canucks	VAN	teams/VAN/2011_gamelog.html
+754	2009-10	Vancouver Canucks	VAN	teams/VAN/2010_gamelog.html
+755	2008-09	Vancouver Canucks	VAN	teams/VAN/2009_gamelog.html
+756	2007-08	Vancouver Canucks	VAN	teams/VAN/2008_gamelog.html
+757	2006-07	Vancouver Canucks	VAN	teams/VAN/2007_gamelog.html
+758	2005-06	Vancouver Canucks	VAN	teams/VAN/2006_gamelog.html
+759	2003-04	Vancouver Canucks	VAN	teams/VAN/2004_gamelog.html
+760	2002-03	Vancouver Canucks	VAN	teams/VAN/2003_gamelog.html
+761	2001-02	Vancouver Canucks	VAN	teams/VAN/2002_gamelog.html
+762	2000-01	Vancouver Canucks	VAN	teams/VAN/2001_gamelog.html
+763	1999-00	Vancouver Canucks	VAN	teams/VAN/2000_gamelog.html
+764	1998-99	Vancouver Canucks	VAN	teams/VAN/1999_gamelog.html
+765	1997-98	Vancouver Canucks	VAN	teams/VAN/1998_gamelog.html
+766	1996-97	Vancouver Canucks	VAN	teams/VAN/1997_gamelog.html
+767	1995-96	Vancouver Canucks	VAN	teams/VAN/1996_gamelog.html
+768	1994-95	Vancouver Canucks	VAN	teams/VAN/1995_gamelog.html
+769	1993-94	Vancouver Canucks	VAN	teams/VAN/1994_gamelog.html
+770	1992-93	Vancouver Canucks	VAN	teams/VAN/1993_gamelog.html
+771	1991-92	Vancouver Canucks	VAN	teams/VAN/1992_gamelog.html
+772	1990-91	Vancouver Canucks	VAN	teams/VAN/1991_gamelog.html
+773	2019-20	Vegas Golden Knights	VEG	teams/VEG/2020_gamelog.html
+774	2018-19	Vegas Golden Knights	VEG	teams/VEG/2019_gamelog.html
+775	2017-18	Vegas Golden Knights	VEG	teams/VEG/2018_gamelog.html
+776	2019-20	Washington Capitals	WSH	teams/WSH/2020_gamelog.html
+777	2018-19	Washington Capitals	WSH	teams/WSH/2019_gamelog.html
+778	2017-18	Washington Capitals	WSH	teams/WSH/2018_gamelog.html
+779	2016-17	Washington Capitals	WSH	teams/WSH/2017_gamelog.html
+780	2015-16	Washington Capitals	WSH	teams/WSH/2016_gamelog.html
+781	2014-15	Washington Capitals	WSH	teams/WSH/2015_gamelog.html
+782	2013-14	Washington Capitals	WSH	teams/WSH/2014_gamelog.html
+783	2012-13	Washington Capitals	WSH	teams/WSH/2013_gamelog.html
+784	2011-12	Washington Capitals	WSH	teams/WSH/2012_gamelog.html
+785	2010-11	Washington Capitals	WSH	teams/WSH/2011_gamelog.html
+786	2009-10	Washington Capitals	WSH	teams/WSH/2010_gamelog.html
+787	2008-09	Washington Capitals	WSH	teams/WSH/2009_gamelog.html
+788	2007-08	Washington Capitals	WSH	teams/WSH/2008_gamelog.html
+789	2006-07	Washington Capitals	WSH	teams/WSH/2007_gamelog.html
+790	2005-06	Washington Capitals	WSH	teams/WSH/2006_gamelog.html
+791	2003-04	Washington Capitals	WSH	teams/WSH/2004_gamelog.html
+792	2002-03	Washington Capitals	WSH	teams/WSH/2003_gamelog.html
+793	2001-02	Washington Capitals	WSH	teams/WSH/2002_gamelog.html
+794	2000-01	Washington Capitals	WSH	teams/WSH/2001_gamelog.html
+795	1999-00	Washington Capitals	WSH	teams/WSH/2000_gamelog.html
+796	1998-99	Washington Capitals	WSH	teams/WSH/1999_gamelog.html
+797	1997-98	Washington Capitals	WSH	teams/WSH/1998_gamelog.html
+798	1996-97	Washington Capitals	WSH	teams/WSH/1997_gamelog.html
+799	1995-96	Washington Capitals	WSH	teams/WSH/1996_gamelog.html
+800	1994-95	Washington Capitals	WSH	teams/WSH/1995_gamelog.html
+801	1993-94	Washington Capitals	WSH	teams/WSH/1994_gamelog.html
+802	1992-93	Washington Capitals	WSH	teams/WSH/1993_gamelog.html
+803	1991-92	Washington Capitals	WSH	teams/WSH/1992_gamelog.html
+804	1990-91	Washington Capitals	WSH	teams/WSH/1991_gamelog.html
+805	2019-20	Winnipeg Jets	WPG	teams/WPG/2020_gamelog.html
+806	2018-19	Winnipeg Jets	WPG	teams/WPG/2019_gamelog.html
+807	2017-18	Winnipeg Jets	WPG	teams/WPG/2018_gamelog.html
+808	2016-17	Winnipeg Jets	WPG	teams/WPG/2017_gamelog.html
+809	2015-16	Winnipeg Jets	WPG	teams/WPG/2016_gamelog.html
+810	2014-15	Winnipeg Jets	WPG	teams/WPG/2015_gamelog.html
+811	2013-14	Winnipeg Jets	WPG	teams/WPG/2014_gamelog.html
+812	2012-13	Winnipeg Jets	WPG	teams/WPG/2013_gamelog.html
+813	2011-12	Winnipeg Jets	WPG	teams/WPG/2012_gamelog.html
+814	2010-11	Atlanta Thrashers	ATL	teams/ATL/2011_gamelog.html
+815	2009-10	Atlanta Thrashers	ATL	teams/ATL/2010_gamelog.html
+816	2008-09	Atlanta Thrashers	ATL	teams/ATL/2009_gamelog.html
+817	2007-08	Atlanta Thrashers	ATL	teams/ATL/2008_gamelog.html
+818	2006-07	Atlanta Thrashers	ATL	teams/ATL/2007_gamelog.html
+819	2005-06	Atlanta Thrashers	ATL	teams/ATL/2006_gamelog.html
+820	2003-04	Atlanta Thrashers	ATL	teams/ATL/2004_gamelog.html
+821	2002-03	Atlanta Thrashers	ATL	teams/ATL/2003_gamelog.html
+822	2001-02	Atlanta Thrashers	ATL	teams/ATL/2002_gamelog.html
+823	2000-01	Atlanta Thrashers	ATL	teams/ATL/2001_gamelog.html
+824	1999-00	Atlanta Thrashers	ATL	teams/ATL/2000_gamelog.html
