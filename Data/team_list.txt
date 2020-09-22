@@ -1,8 +1,8 @@
 index,team_abbr,team_name,years_active,city,latitude,longitude,timezone
 0,ANA,Anaheim Ducks,2006-2020,Anaheim,33.808,-117.876,-8
 1,MDA,Mighty Ducks of Anaheim,1993-2006,Anaheim,33.808,-117.876,-8
-2,ARI,Arizona Coyotes,2014-2020,Glendale,33.532,-112.261,-7
-3,PHX,Phoenix Coyotes,1996-2014,Glendale,33.532,-112.261,-7
+2,ARI,Arizona Coyotes,2014-2020,Glendale,33.532,",-112.261",-7
+3,PHX,Phoenix Coyotes,1996-2014,Glendale,33.532,",-112.261",-7
 4,WIN,Winnipeg Jets,1990-1996,Winnipeg,49.893,-97.144,-6
 5,BOS,Boston Bruins,1990-2020,Boston,42.366,-71.062,-5
 6,BUF,Buffalo Sabres,1990-2020,Buffalo,42.875,-78.876,-5
