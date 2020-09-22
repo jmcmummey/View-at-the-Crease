@@ -1,0 +1,39 @@
+,team_abbr,team_name,years_active,city,latitude,longitude,timezone
+0,ANA,Anaheim Ducks,2006-2020,Anaheim,33.808,-117.876,-8
+1,MDA,Mighty Ducks of Anaheim,1993-2006,Anaheim,33.808,-117.876,-8
+2,ARI,Arizona Coyotes,2014-2020,Glendale,33.532,",-112.261",-7
+3,PHX,Phoenix Coyotes,1996-2014,Glendale,33.532,",-112.261",-7
+4,WIN,Winnipeg Jets,1990-1996,Winnipeg,49.893,-97.144,-6
+5,BOS,Boston Bruins,1990-2020,Boston,42.366,-71.062,-5
+6,BUF,Buffalo Sabres,1990-2020,Buffalo,42.875,-78.876,-5
+7,CGY,Calgary Flames,1990-2020,Calgary,51.037,-114.052,-7
+8,CAR,Carolina Hurricanes,1997-2020,Raleigh,35.460,-78.380,-5
+9,HAR,Hartford Whalers,1990-1997,Hartford,41.768,-72.677,-5
+10,CHI,Chicago Blackhawks,1990-2020,Chicago,41.882,-87.628,-6
+11,COL,Colorado Avalanche,1995-2020,Denver,39.739,-104.990,-7
+12,QUE,Quebec Nordiques,1990-1995,Quebec,46.814,-71.208,-5
+13,CBJ,Columbus Blue Jackets,2000-2020,Columbus,39.962,-83.001,-5
+14,DAL,Dallas Stars,1993-2020,Dallas,32.779,-96.809,-6
+15,MNS,Minnesota North Stars,1990-1993,Bloomington,44.834, -93.31,-6
+16,DET,Detroit Red Wings,1990-2020,Detroit,42.331,-83.046,-5
+17,EDM,Edmonton Oilers,1990-2020,Edmonton,53.534,-113.490,-7
+18,FLA,Florida Panthers,1993-2020,Sunrise,26.157, -80.286111,-5
+19,LAK,Los Angeles Kings,1990-2020,Los Angeles,34.050,-118.250,-8
+20,MIN,Minnesota Wild,2000-2020,St Paul,44.944, -93.093611,-6
+21,MTL,Montreal Canadiens,1990-2020,Montreal,45.509,-73.562,-5
+22,NSH,Nashville Predators,1998-2020,Nashville,36.167,-86.783,-6
+23,NJD,New Jersey Devils,1990-2020,Newark,40.724,-74.173,-5
+24,NYI,New York Islanders,1990-2020,New York,40.683,-73.975,-5
+25,NYR,New York Rangers,1990-2020,New York,40.713,-74.006,-5
+26,OTT,Ottawa Senators,1992-2020,Ottawa,45.422,-75.697,-5
+27,PHI,Philadelphia Flyers,1990-2020,Philadelphia,39.953,-75.165,-5
+28,PIT,Pittsburgh Penguins,1990-2020,Pittsburgh,40.441,-79.996,-5
+29,SJS,San Jose Sharks,1991-2020,San Jose,37.338,-121.886,-8
+30,STL,St. Louis Blues,1990-2020,St Louis,38.627,-90.199,-6
+31,TBL,Tampa Bay Lightning,1992-2020,Tampa,27.951,-82.457,-5
+32,TOR,Toronto Maple Leafs,1990-2020,Toronto,43.742,-79.373,-5
+33,VAN,Vancouver Canucks,1990-2020,Vancouver,49.250,-123.100,-8
+34,VEG,Vegas Golden Knights,2017-2020,Las Vegas,36.175,-115.136,-8
+35,WSH,Washington Capitals,1990-2020,Washington,38.905,-77.016,-5
+36,WPG,Winnipeg Jets,2011-2020,Winnipeg,49.893,-97.144,-6
+37,ATL,Atlanta Thrashers,1999-2011,Atlanta,33.755,-84.390,-5
