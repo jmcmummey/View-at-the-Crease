@@ -6,4 +6,5 @@ scipy
 scikit-learn
 matplotlib
 bs4
-
+dash
+dash_bootstrap_components
