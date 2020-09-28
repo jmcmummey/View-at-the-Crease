@@ -9,17 +9,19 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
 import numpy as np
+import os
 import sqlite3 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.title = 'View From the Crease'
-
+cwd_directory = os.getcwd()
+print(cwd_directory +'\\Data\\hockey_data_goalies.db')
 #########################################################################################
 #SQL Handle functions
 def run_query(q):
-    with sqlite3.connect('C:\\Users\\jesse\\Documents\\Projects\\takeaseat\\Data\\hockey_data_goalies.db') as conn:
+    with sqlite3.connect(cwd_directory +'\\Data\\hockey_data_goalies.db') as conn:
         x = pd.read_sql(q,conn)
     return x
 def show_tables():
@@ -191,17 +193,6 @@ def data_maker(team_value,year_value,game_value):
                 AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) < {2}""".format(team_value,int(year_value) + .66,int(year_value)+1.66))
         games = run_query(q)
         dates = games['date_game'].str.extract(r'\d{4}-(\d{2}-\d{2})')[0].values
-        #now get data for table can use game
-        # player_info = run_query("""SELECT * FROM player_list pl WHERE pl.unique_id=\"{}\"""".format(player_value))
-        # player_details = player_info.loc[0,['player','year_start','position','height_cm','weight_kg']].copy()
-        # player_details.index = ['Player Name',"First Season","Position","Height (cm)","Weight (kg)"]
-        # player_details['Age'] = np.round(games.at[game_value,'age'],2)
-        # player_details['Minutes This Season'] = np.round(games.at[game_value,'min_season'],2)
-        # player_details['Minutes Past 3 Weeks'] = np.round(games.at[game_value,'min_3w'],2)
-        # player_details['Days to Next Game'] = games.at[game_value,'days_to_next_g']
-        # player_details['Percent of Games at New Venue (Last 3 wks)'] = np.round(100*games.at[game_value,'venuec'],1)
-        # player_details = player_details.reset_index()
-        # player_details.columns = ['Stat','Value']
         
         return ["Game Selected: %s"%dates[game_value]],active_players_T.to_dict('records'),columns,{'display':'block'}
 
