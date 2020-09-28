@@ -14,14 +14,15 @@ import sqlite3
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP,external_stylesheets])
+#application = app.server
 app.title = 'View From the Crease'
-cwd_directory = os.getcwd()
-print(cwd_directory +'\\Data\\hockey_data_goalies.db')
+
+print(os.getcwd())
 #########################################################################################
 #SQL Handle functions
 def run_query(q):
-    with sqlite3.connect(cwd_directory +'\\Data\\hockey_data_goalies.db') as conn:
+    with sqlite3.connect('assests/hockey_data_goalies.db') as conn:
         x = pd.read_sql(q,conn)
     return x
 def show_tables():
@@ -37,7 +38,7 @@ teamsdf = run_query("""Select team_name, team_abbr From team_list""")
 teams = []
 for i,row in teamsdf.sort_values('team_name',axis=0).iterrows():
     teams.append({'label':row['team_name'],'value':row['team_abbr']})
-#########################################################################################
+########################################################################################
 
 #fig = px.bar(df, x="Fruit", y="Amount", color="City", barmode="group")
 
@@ -103,8 +104,7 @@ app.layout = html.Div(
      Output('season-selector','options'),
      Output('game-range','marks'),
      Output('game-range','max'),
-     Output('game-range','value'),
-     Output('slider-title','children')],
+     Output('game-range','value')],
     [Input(component_id='team-selector', component_property='value'),
     Input(component_id='season-selector', component_property='value')]
 )
@@ -114,9 +114,9 @@ def update_output_div(team_value,year_value):
     """
     max_slider = 20
     markz = {}
-
+    print(team_value)
     if team_value == None: #nothing has been selected
-        return season_style,teams,markz,max_slider,10,"Select Game:"
+        return season_style,teams,markz,max_slider,10,
     elif (team_value != None) & (year_value==None): #Teams have been selected: Populate the season registry
         q = """select years_active from team_list WHERE team_abbr=\"{}\"""".format(team_value)
         season = run_query(q).iloc[0,0]
@@ -124,7 +124,7 @@ def update_output_div(team_value,year_value):
         for i in np.arange(int(season[:4]),int(season[-4:])):
             seasons.append({'label':(str(i)+'-'+str(i+1)),'value':(str(i))})
         season_style['display']='Default'
-        return season_style,seasons,markz,max_slider,10,'Select Game:'
+        return season_style,seasons,markz,max_slider,10,
     else: #Teams and Season has been selected - populate the slider
         q = """select years_active from team_list WHERE team_abbr=\"{}\"""".format(team_value)
         season = run_query(q).iloc[0,0]
@@ -149,7 +149,7 @@ def update_output_div(team_value,year_value):
                 if ((i-10)%spacing) == 0:
                         markz[i] = row
 
-        return season_style,seasons,markz,max_slider,10,'Game Selected: %s' % markz[10]
+        return season_style,seasons,markz,max_slider,10,
 #TABLE POPULATION
 @app.callback(
     [Output('slider-title','children'),
@@ -197,4 +197,5 @@ def data_maker(team_value,year_value,game_value):
         return ["Game Selected: %s"%dates[game_value]],active_players_T.to_dict('records'),columns,{'display':'block'}
 
 if __name__ == '__main__':
+    #application.run(debug=True,port=8080)
     app.run_server(debug=True)
