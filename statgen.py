@@ -212,6 +212,22 @@ class teamstats:
         statst.columns = ['Total Games', 'Wins','Loses','Ties','OTL','Points','Point_Pct','SRS','SOS']
         return statst.reset_index().rename(columns={'index':'Team'})
 
+    def last_five(self):
+        #find the game date
+        q = ("""SELECT *
+                FROM team_log 
+                WHERE team_id=\"{0}\" 
+                AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
+                AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) < {2}
+                AND opp_name=\"{3}\"""".format(self.team_value,int(self.year_value)-1 + .66,int(self.year_value)+1.66,self.opp_name))
+        past_games = run_query(q)
+        last_5 = past_games[past_games['date_game']<self.game_date][-5:][['team_id','date_game','game_location','opp_name','goals',
+                                                                    'opp_goals','game_outcome','overtimes','shots','shots_against'
+                                                                    ]]
+        last_5['game_outcome'] =last_5['game_outcome'].replace({'W':'Win','L':'Loss','T':'Tie'})
+        last_5['game_location'] = last_5['game_location'].replace({None:'','@':'@'})
+        return last_5
+
     def run_query(self,q):
         """Polls the database"""
         with sqlite3.connect('C:\\Users\\jesse\\Documents\\Projects\\takeaseat\\assests\\hockey_data_goalies.db') as conn:
