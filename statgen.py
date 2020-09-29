@@ -209,24 +209,31 @@ class teamstats:
         stats = pd.concat((self.hometeamstats,self.oppteamstats),axis=1)
         stats.columns = [self.team_name,self.opp_name]
         statst = stats.transpose().iloc[:,:9]
-        statst.columns = ['Total Games', 'Wins','Loses','Ties','OTL','Points','Point_Pct','SRS','SOS']
+        statst.columns = ['Games', 'Wins','Loses','Ties','OTL','Points','Point %','SRS','SOS']
         return statst.reset_index().rename(columns={'index':'Team'})
 
     def last_five(self):
-        #find the game date
+        """
+        Finds the results of the last 5 games between these teams
+        """
         q = ("""SELECT *
                 FROM team_log 
                 WHERE team_id=\"{0}\" 
                 AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
                 AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) < {2}
                 AND opp_name=\"{3}\"""".format(self.team_value,int(self.year_value)-1 + .66,int(self.year_value)+1.66,self.opp_name))
-        past_games = run_query(q)
+        past_games = self.run_query(q)
         last_5 = past_games[past_games['date_game']<self.game_date][-5:][['team_id','date_game','game_location','opp_name','goals',
                                                                     'opp_goals','game_outcome','overtimes','shots','shots_against'
                                                                     ]]
         last_5['game_outcome'] =last_5['game_outcome'].replace({'W':'Win','L':'Loss','T':'Tie'})
         last_5['game_location'] = last_5['game_location'].replace({None:'','@':'@'})
-        return last_5
+        last_5['overtimes'] =last_5['overtimes'].fillna('')
+        last_5['host'] = self.team_name
+        last_5.loc[last_5['game_location']=='@','host'] = self.opp_name
+        l5s = last_5[['host','date_game','goals','opp_goals','game_outcome','overtimes','shots','shots_against']].copy()
+        l5s.columns = ['Host','Date','Goals','Opp. Goals','Outcome','OT?','Shots','Opp. Shots']
+        return l5s
 
     def run_query(self,q):
         """Polls the database"""
