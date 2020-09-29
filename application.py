@@ -10,15 +10,16 @@ import plotly.express as px
 import pandas as pd
 import numpy as np
 import os
-import sqlite3 
+import sqlite3
+from team import teamstats as team 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP,external_stylesheets])
-#application = app.server
+application = app.server
 app.title = 'View From the Crease'
 
-print(os.getcwd())
+
 #########################################################################################
 #SQL Handle functions
 def run_query(q):
@@ -114,7 +115,6 @@ def update_output_div(team_value,year_value):
     """
     max_slider = 20
     markz = {}
-    print(team_value)
     if team_value == None: #nothing has been selected
         return season_style,teams,markz,max_slider,10,
     elif (team_value != None) & (year_value==None): #Teams have been selected: Populate the season registry
@@ -168,34 +168,35 @@ def data_maker(team_value,year_value,game_value):
     if (team_value==None) | (year_value==None) |(game_value==None): #if nothing is entered in one of the cat.
         return ["Select Game"],pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,{'display':'None'}
     else:
-        #call up all the players who played for that team this year
-        q = ("""WITH goalies as (SELECT player_id
-        FROM player_log 
-        WHERE team_id=\"{0}\" 
-        AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
-        AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) < {2}
-        GROUP BY player_id)
-        SELECT pl.*
-        FROM goalies g
-        LEFT JOIN player_list pl ON pl.unique_id=g.player_id""".format(team_value,int(year_value) + .66,int(year_value)+1.66))
-        active_players = run_query(q)
-        active_players_T = active_players.transpose()
-        active_players_T.columns = active_players_T.loc['player']
-        active_players_T.drop(['unique_id','player'],inplace=True)
-        active_players_T.reset_index(inplace=True)
-        active_players_T = active_players_T.rename(columns={'index':"Stat"})
-        columns=[{"name": i, "id": i} for i in active_players_T]
-        #all the games from that season and team for the selected player
-        q = ("""SELECT * 
-                FROM team_log 
-                WHERE team_id=\"{0}\" 
-                AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
-                AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) < {2}""".format(team_value,int(year_value) + .66,int(year_value)+1.66))
-        games = run_query(q)
-        dates = games['date_game'].str.extract(r'\d{4}-(\d{2}-\d{2})')[0].values
-        
-        return ["Game Selected: %s"%dates[game_value]],active_players_T.to_dict('records'),columns,{'display':'block'}
+        # #call up all the players who played for that team this year
+        # q = ("""WITH goalies as (SELECT player_id
+        # FROM player_log 
+        # WHERE team_id=\"{0}\" 
+        # AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
+        # AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) < {2}
+        # GROUP BY player_id)
+        # SELECT pl.*
+        # FROM goalies g
+        # LEFT JOIN player_list pl ON pl.unique_id=g.player_id""".format(team_value,int(year_value) + .66,int(year_value)+1.66))
+        # active_players = run_query(q)
+        # active_players_T = active_players.transpose()
+        # active_players_T.columns = active_players_T.loc['player']
+        # active_players_T.drop(['unique_id','player'],inplace=True)
+        # active_players_T.reset_index(inplace=True)
+        # active_players_T = active_players_T.rename(columns={'index':"Stat"})
+        # columns=[{"name": i, "id": i} for i in active_players_T]
+        # #all the games from that season and team for the selected player
+        # q = ("""SELECT * 
+        #         FROM team_log 
+        #         WHERE team_id=\"{0}\" 
+        #         AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
+        #         AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) < {2}""".format(team_value,int(year_value) + .66,int(year_value)+1.66))
+        # games = run_query(q)
+        # dates = games['date_game'].str.extract(r'\d{4}-(\d{2}-\d{2})')[0].values
+        teaminfo = team(team_value,year_value,game_value)
+        teamstandings = teaminfo.standings()
+        columns=[{"name": i, "id": i} for i in teamstandings]
+        return ["Game Selected: %s"% teaminfo.game_date],teamstandings.to_dict('records'),columns,{'display':'block'}
 
 if __name__ == '__main__':
-    #application.run(debug=True,port=8080)
-    app.run_server(debug=True)
+    application.run(debug=True,port=8080)
