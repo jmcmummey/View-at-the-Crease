@@ -11,7 +11,8 @@ import pandas as pd
 import numpy as np
 import os
 import sqlite3
-from team import teamstats as team 
+#this is the team object with handsls
+from statgen import teamstats as team 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 

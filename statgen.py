@@ -115,9 +115,9 @@ class teamstats:
             #get list of games played in the league that season up until the gameday
             q = ("""SELECT * 
                     FROM team_log 
-                    WHERE (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
-                    AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) < {2}
-                    """.format(nme,int(year) + .66,int(year)+1.66))
+                    WHERE (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {0}
+                    AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) < {1}
+                    """.format(int(year) + .66,int(year)+1.66))
             temp_games = self.run_query(q)
             temp_games['date_game'] = temp_games['date_game'].astype('datetime64')
 
