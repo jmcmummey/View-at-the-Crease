@@ -12,7 +12,8 @@ import numpy as np
 import os
 import sqlite3
 #this is the team object with handsls
-from statgen import teamstats as team 
+from statgen import teamstats as team
+from statgen import goalies as goalie 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -111,14 +112,15 @@ app.layout = html.Div(
                                         )],id='standing_table_sty',style={"margin-left": "50px","display":"None"})]
                         ,width={"size": 3, "order": 1, "offset": 0}),
                 dbc.Col([
-                        html.Div([dash_table.DataTable(
+                        html.Div([html.H1(children='Goalie Statistics',style={'font-size':24,"margin-left": "25px","margin-bottom": "10px"}),
+                                dash_table.DataTable(
                                 id='goalie_table',
                                 columns=[{"name": i, "id": i} for i in pd.DataFrame(columns=['Stat','Value'])],
                                 style_cell={'textAlign': 'center'},
                                 data=pd.DataFrame(columns=['Stat','Value']).to_dict('records'),
                                 style_data_conditional=[{'if': {'row_index': 'odd'},'backgroundColor': 'rgb(248, 248, 248)'}],
                                 style_header={'backgroundColor': 'rgb(230, 230, 230)','fontWeight': 'bold'})],id='table_well',style={"display":"None"})]
-                                ,width={"size": 4, "order": 2, "offset": 1})
+                                ,width={"size": 4, "order": 2, "offset": 2})
                 ]),
             
             ])
@@ -182,7 +184,10 @@ def update_output_div(team_value,year_value):
     Output('standing_table','columns'),
     Output('pr_table','data'),
     Output('pr_table','columns'),
-    Output('standing_table_sty','style')],
+    Output('standing_table_sty','style'),
+    Output('goalie_table','data'),
+    Output('goalie_table','columns'),
+    Output('table_well','style')],
     [Input(component_id='team-selector', component_property='value'),
     Input(component_id='season-selector', component_property='value'),
     Input(component_id='game-range', component_property='value')]
@@ -193,14 +198,18 @@ def data_maker(team_value,year_value,game_value):
     """
     columns=[{"name": i, "id": i} for i in pd.DataFrame(columns=['Stat','Value'])]
     if (team_value==None) | (year_value==None) |(game_value==None): #if nothing is entered in one of the cat.
-        return ["Select Game"],pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,{"margin-left": "25px",'display':'None'}
+        return ["Select Game"],pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,{"margin-left": "25px",'display':'None'},pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,{"margin-left": "25px",'display':'None'}
     else:
+        #import team info
         teaminfo = team(team_value,year_value,game_value)
         teamstandings = teaminfo.standings()
         columns = [{"name": i, "id": i} for i in teamstandings]
         last5 = teaminfo.last_five()
         columnsl5 = [{"name": i, "id": i} for i in last5]
-        return ["Game Selected: %s"% teaminfo.game_date],teamstandings.to_dict('records'),columns,last5.to_dict('records'),columnsl5,{"margin-left": "25px",'display':'block'}
+        #import goalie info
+        g = goalie(teaminfo.team_value,teaminfo.year_value,teaminfo.game_date)
+        
+        return ["Game Selected: %s"% teaminfo.game_date],teamstandings.to_dict('records'),columns,last5.to_dict('records'),columnsl5,{"margin-left": "25px",'display':'block'},g.roster.to_dict('records'),[{"name": i, "id": i} for i in g.roster],{"margin-left": "25px",'display':'Block'}
 
 if __name__ == '__main__':
     application.run(debug=True,port=8080)

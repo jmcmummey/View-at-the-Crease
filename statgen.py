@@ -1,22 +1,17 @@
 import pandas as pd
 import numpy as np
+import scipy.stats as stats
 import sqlite3
 from datetime import datetime as dt, timedelta
 from dateutil.relativedelta import *
 import re
 
 class teamstats:
+
     """
         This object generates a variety of statistics for the given team/year/game_no
         attributes:
-        site_id: the id of the solar site (hard coded)
-        api_key: the api key to get data from the solar site
-        methods:
-        run_query(): polls the database
-        get_data(): gets data over a specified date range (given at initalization)
-        filter_data(): quick filter of data for a given date
-        plot_data(): a quick plotter for the data based on the hour of the day
-        simpint(): integrates the selected time period to calculate total kWh produced
+    
     """
     def __init__(self,*argv):
         """
@@ -234,6 +229,85 @@ class teamstats:
         l5s = last_5[['host','date_game','goals','opp_goals','game_outcome','overtimes','shots','shots_against']].copy()
         l5s.columns = ['Host','Date','Goals','Opp. Goals','Outcome','OT?','Shots','Opp. Shots']
         return l5s
+
+    def run_query(self,q):
+        """Polls the database"""
+        with sqlite3.connect('C:\\Users\\jesse\\Documents\\Projects\\takeaseat\\assests\\hockey_data_goalies.db') as conn:
+            x = pd.read_sql(q,conn)
+        return x
+
+class goalies:
+    """
+        This object generates a variety of statistics for the goalies of the given team for the/year/game_no
+        attributes:
+    """
+    
+    def __init__(self,*argv):
+        #check if correct number of args entered
+        if len(argv)==3:
+            self.team_value = argv[0]
+            self.year_value = argv[1]
+            self.game_date = argv[2]
+        else:
+            raise ValueError('Wrong number of input arguments.  Please use either three.')
+        self.roster = self.fill_roster() #get list of goalies and their stats
+        
+    def fill_roster(self):
+    #call up all the players who played for that team this year
+
+        q = ("""WITH goalies as 
+                (SELECT player_id,
+                        SUM(goals_against) GA,
+                        SUM(saves) SAVES,
+                        SUM(CAST(SUBSTR(time_on_ice,1,2) AS INT)) TOI,
+                        ROUND(1-CAST(SUM(goals_against) AS FLOAT)/CAST(SUM(saves)+ SUM(goals_against) as FLOAT),3) SPCT
+                FROM player_log pl
+                WHERE team_id=\"{0}\"
+                AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
+                AND date_game < \"{2}\"
+                GROUP BY player_id)
+                
+                SELECT pl.*, g.GA, g.SAVES, g.SPCT, g.TOI
+                FROM goalies g
+                LEFT JOIN player_list pl ON pl.unique_id=g.player_id""".format(self.team_value,int(self.year_value) + .66,self.game_date))
+        active_players = self.run_query(q)
+        active_players_T = active_players.transpose()
+        active_players_T.columns = active_players_T.loc['player']
+        active_players_T.drop(['unique_id','player'],inplace=True)
+        active_players_T = active_players_T.iloc[2:,:]
+        active_players_T.index = ['Height(cm)','Weight(kg)','Total Games','Goals Allowed','Saves','SV%','Minutes']
+        active_players_T.reset_index(inplace=True)
+        active_players_T = active_players_T.rename(columns={'index':"Stat"})
+
+        #now run the baysian inference
+        q = """SELECT *
+        FROM team_log
+        WHERE (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
+        AND date_game < \"{2}\"
+        AND team_id ="{0}"
+        """.format(self.team_value,int(self.year_value)+.66,self.game_date)
+        pregames = self.run_query(q)
+        no_games = pregames.shape[0]
+        games_won = (pregames['game_outcome']=='W').sum()
+        mc_size = 10000
+        tot_mc = int(mc_size/no_games)
+        goalz = ['Goals per Game +/-']
+        winz = ['Games Won +/-']
+
+        for each in active_players.index:
+            result = 0
+            wins = 0
+            for x in range(tot_mc):
+                result += sum(pregames['shots_against']*(1-stats.distributions.beta.rvs(231.14+active_players.loc[each,'SAVES'],24.2+active_players.loc[each,'GA'],0,1,no_games))-pregames['opp_goals'])
+                wins += sum(np.round(pregames['shots_against']*(1-stats.distributions.beta.rvs(231.14+active_players.loc[each,'SAVES'],24.2+active_players.loc[each,'GA'],0,1,no_games)),0)<pregames['goals'])
+            goalz.append(np.round(result/mc_size,2))
+            winz.append(np.round((wins/tot_mc)-games_won,0))
+
+        active_players_T = active_players_T.append(dict(zip(active_players_T.columns,goalz)),ignore_index=True)
+        active_players_T = active_players_T.append(dict(zip(active_players_T.columns,winz)),ignore_index=True)
+
+
+        return active_players_T
 
     def run_query(self,q):
         """Polls the database"""
