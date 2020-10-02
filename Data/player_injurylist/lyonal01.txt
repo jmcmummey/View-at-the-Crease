@@ -1,0 +1,5 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-10-02	 Flyers	 	 • Alex Lyon	 placed on injured/non-roster list with lower body injury
+1	2018-10-10	 Flyers	 • Alex Lyon	 	 activated from IR
+2	2018-11-24	 Flyers	 	 • Alex Lyon	 lower body injury (DTD)
+3	2018-11-26	 Flyers	 • Alex Lyon	 	 returned to lineup

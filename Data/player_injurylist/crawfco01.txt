@@ -1,0 +1,26 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2010-12-26	 Blackhawks	 	 • Corey Crawford	 illness (DTD)
+1	2011-01-02	 Blackhawks	 • Corey Crawford	 	 returned to lineup
+2	2013-02-15	 Blackhawks	 	 • Corey Crawford	 upper body injury (DTD)
+3	2013-02-22	 Blackhawks	 • Corey Crawford	 	 returned to lineup
+4	2013-12-09	 Blackhawks	 	 • Corey Crawford	 lower body injury (DTD)
+5	2014-01-02	 Blackhawks	 • Corey Crawford	 	 returned to lineup
+6	2014-10-21	 Blackhawks	 	 • Corey Crawford	 upper body injury (DTD)
+7	2014-10-30	 Blackhawks	 • Corey Crawford	 	 returned to lineup
+8	2014-12-02	 Blackhawks	 	 • Corey Crawford	 left leg injury (DTD)
+9	2014-12-20	 Blackhawks	 • Corey Crawford	 	 returned to lineup
+10	2016-03-17	 Blackhawks	 	 • Corey Crawford	 upper body injury (DTD)
+11	2016-04-09	 Blackhawks	 • Corey Crawford	 	 returned to lineup
+12	2016-12-03	 Blackhawks	 	 • Corey Crawford	 appendectomy (out indefinitely)
+13	2016-12-06	 Blackhawks	 	 • Corey Crawford	 placed on IR with appendectomy
+14	2016-12-21	 Blackhawks	 • Corey Crawford	 	 activated from IR
+15	2017-02-26	 Blackhawks	 	 • Corey Crawford	 illness (DTD)
+16	2017-03-01	 Blackhawks	 • Corey Crawford	 	 returned to lineup
+17	2017-12-01	 Blackhawks	 	 • Corey Crawford	 placed on IR with undisclosed injury
+18	2017-12-08	 Blackhawks	 • Corey Crawford	 	 activated from IR
+19	2017-12-27	 Blackhawks	 	 • Corey Crawford	 placed on IR with upper body injury (out for season)
+20	2018-10-02	 Blackhawks	 	 • Corey Crawford	 placed on IR with concussion
+21	2018-10-18	 Blackhawks	 • Corey Crawford	 	 activated from IR
+22	2018-12-17	 Blackhawks	 	 • Corey Crawford	 placed on IR with concussion
+23	2019-02-25	 Blackhawks	 • Corey Crawford	 	 activated from IR
+24	2019-04-06	 Blackhawks	 	 • Corey Crawford	 groin injury (out for season)

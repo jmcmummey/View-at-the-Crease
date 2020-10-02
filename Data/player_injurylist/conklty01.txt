@@ -1,0 +1,6 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2003-10-31	 Oilers	 • Ty Conklin	 	 activated from IR
+1	2004-02-16	 Oilers	 	 • Ty Conklin	 placed on IR
+2	2005-11-06	 Oilers	 	 • Ty Conklin	 groin injury (out indefinitely)
+3	2005-11-11	 Oilers	 	 • Ty Conklin	 placed on IR with groin injury
+4	2005-12-07	 Oilers	 • Ty Conklin	 	 activated from IR

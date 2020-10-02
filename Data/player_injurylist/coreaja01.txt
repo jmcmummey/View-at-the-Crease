@@ -1,0 +1,3 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2018-04-03	 Red Wings	 	 • Jared Coreau	 illness (DTD)
+1	2018-04-05	 Red Wings	 • Jared Coreau	 	 returned to lineup

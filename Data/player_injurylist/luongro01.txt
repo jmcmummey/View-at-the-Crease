@@ -1,0 +1,37 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2007-12-12	 Canucks	 	 • Roberto Luongo	 rib injury (DTD)
+1	2007-12-18	 Canucks	 • Roberto Luongo	 	 returned to lineup
+2	2008-11-23	 Canucks	 	 • Roberto Luongo	 placed on IR with strained groin
+3	2009-01-15	 Canucks	 • Roberto Luongo	 	 activated from IR
+4	2009-10-28	 Canucks	 	 • Roberto Luongo	 placed on IR with fractured rib
+5	2009-11-10	 Canucks	 • Roberto Luongo	 	 activated from IR
+6	2011-02-09	 Canucks	 	 • Roberto Luongo	 illness (DTD)
+7	2011-02-12	 Canucks	 • Roberto Luongo	 	 returned to lineup
+8	2011-11-15	 Canucks	 	 • Roberto Luongo	 upper body injury (DTD)
+9	2011-11-23	 Canucks	 • Roberto Luongo	 	 returned to lineup
+10	2013-12-23	 Canucks	 	 • Roberto Luongo	 lower body injury (DTD)
+11	2013-12-27	 Canucks	 	 • Roberto Luongo	 placed on IR with groin injury
+12	2014-01-02	 Canucks	 • Roberto Luongo	 	 activated from IR
+13	2014-01-05	 Canucks	 	 • Roberto Luongo	 lower body injury (DTD)
+14	2014-01-18	 Canucks	 • Roberto Luongo	 	 returned to lineup
+15	2014-03-28	 Panthers	 	 • Roberto Luongo	 sore neck (DTD)
+16	2014-04-04	 Panthers	 • Roberto Luongo	 	 returned to lineup
+17	2014-11-28	 Panthers	 	 • Roberto Luongo	 upper body injury (DTD)
+18	2014-12-01	 Panthers	 • Roberto Luongo	 	 returned to lineup
+19	2015-03-04	 Panthers	 	 • Roberto Luongo	 sprained right shoulder (DTD)
+20	2015-03-19	 Panthers	 • Roberto Luongo	 	 returned to lineup
+21	2016-12-22	 Panthers	 	 • Roberto Luongo	 undisclosed injury (DTD)
+22	2016-12-23	 Panthers	 • Roberto Luongo	 	 returned to lineup
+23	2017-01-07	 Panthers	 	 • Roberto Luongo	 upper body injury (DTD)
+24	2017-01-09	 Panthers	 • Roberto Luongo	 	 returned to lineup
+25	2017-03-03	 Panthers	 	 • Roberto Luongo	 lower body injury (out for season)
+26	2017-10-21	 Panthers	 	 • Roberto Luongo	 placed on IR with hand injury
+27	2017-11-04	 Panthers	 • Roberto Luongo	 	 activated from IR
+28	2017-12-05	 Panthers	 	 • Roberto Luongo	 lower body injury (DTD)
+29	2017-12-12	 Panthers	 	 • Roberto Luongo	 placed on IR with lower body injury
+30	2018-02-14	 Panthers	 • Roberto Luongo	 	 activated from IR
+31	2018-03-24	 Panthers	 	 • Roberto Luongo	 upper body injury (DTD)
+32	2018-10-07	 Panthers	 	 • Roberto Luongo	 placed on IR with knee injury
+33	2018-11-01	 Panthers	 • Roberto Luongo	 	 activated from IR
+34	2018-11-24	 Panthers	 	 • Roberto Luongo	 lower body injury (DTD)
+35	2018-12-04	 Panthers	 • Roberto Luongo	 	 returned to lineup

@@ -1,0 +1,28 @@
+	 Date	 Team	 Acquired	 Relinquished	 Notes
+0	2006-04-04	 Rangers	 	 • Henrik Lundqvist	 hip flexor injury (DTD)
+1	2006-04-18	 Rangers	 • Henrik Lundqvist	 	 returned to lineup
+2	2006-12-19	 Rangers	 	 • Henrik Lundqvist	 flu (DTD)
+3	2006-12-21	 Rangers	 • Henrik Lundqvist	 	 returned to lineup
+4	2009-02-07	 Rangers	 	 • Henrik Lundqvist	 flu (DTD)
+5	2009-11-10	 Rangers	 	 • Henrik Lundqvist	 lower body injury (out indefinitely)
+6	2010-01-31	 Rangers	 	 • Henrik Lundqvist	 flu (DTD)
+7	2010-11-11	 Rangers	 	 • Henrik Lundqvist	 illness (DTD)
+8	2012-03-13	 Rangers	 	 • Henrik Lundqvist	 flu (DTD)
+9	2012-03-17	 Rangers	 • Henrik Lundqvist	 	 returned to lineup
+10	2013-10-23	 Rangers	 	 • Henrik Lundqvist	 undisclsoed (DTD)
+11	2013-10-28	 Rangers	 • Henrik Lundqvist	 	 returned to lineup
+12	2014-01-21	 Rangers	 	 • Henrik Lundqvist	 flu (DTD)
+13	2014-01-22	 Rangers	 • Henrik Lundqvist	 	 returned to lineup
+14	2015-02-04	 Rangers	 	 • Henrik Lundqvist	 throat injury (DTD)
+15	2015-02-10	 Rangers	 	 • Henrik Lundqvist	 placed on IR with throat injury
+16	2015-03-25	 Rangers	 • Henrik Lundqvist	 	 activated from IR
+17	2016-03-04	 Rangers	 	 • Henrik Lundqvist	 neck spasms (DTD)
+18	2016-03-12	 Rangers	 • Henrik Lundqvist	 	 returned to lineup
+19	2016-12-27	 Rangers	 	 • Henrik Lundqvist	 flu (DTD)
+20	2016-12-29	 Rangers	 • Henrik Lundqvist	 	 returned to lineup
+21	2017-03-09	 Rangers	 	 • Henrik Lundqvist	 hip injury (DTD)
+22	2017-03-24	 Rangers	 • Henrik Lundqvist	 	 returned to lineup
+23	2017-12-05	 Rangers	 	 • Henrik Lundqvist	 flu (DTD)
+24	2017-12-07	 Rangers	 • Henrik Lundqvist	 	 returned to lineup
+25	2018-03-21	 Rangers	 	 • Henrik Lundqvist	 back injury (DTD)
+26	2018-03-27	 Rangers	 • Henrik Lundqvist	 	 returned to lineup
