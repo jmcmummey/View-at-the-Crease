@@ -1,0 +1,4 @@
+,date_game,game_season,age,team_id,game_location,opp_id,game_result,decision,goals_against,shots_against,saves,save_pct,shutouts,pen_min,time_on_ice
+0,1991-01-29,1,23-230,BUF,@,STL,L,,3,18,15,.833,0,0,35:42
+1,1992-03-14,1,24-275,BUF,@,NYI,L,L,4,29,25,.862,0,0,60:00
+2,1993-03-23,1,25-283,TBL,@,NJD,L,L,7,21,14,.667,0,0,45:27

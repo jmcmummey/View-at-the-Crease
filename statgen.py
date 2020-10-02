@@ -5,6 +5,10 @@ import sqlite3
 from datetime import datetime as dt, timedelta
 from dateutil.relativedelta import *
 import re
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestClassifier
+from joblib import dump, load
 
 class teamstats:
 
@@ -250,10 +254,13 @@ class goalies:
             self.game_date = argv[2]
         else:
             raise ValueError('Wrong number of input arguments.  Please use either three.')
-        self.roster = self.fill_roster() #get list of goalies and their stats
+        self.roster =self.fill_roster() #get list of goalies and their stats
+        #now add risk to roster
+        self.roster = self.roster.append(self.risk(),ignore_index=True)
         
     def fill_roster(self):
-    #call up all the players who played for that team this year
+        #call up all the players who played for that team this year
+        #return a dataframe and their ids
 
         q = ("""WITH goalies as 
                 (SELECT player_id,
@@ -273,9 +280,9 @@ class goalies:
         active_players = self.run_query(q)
         active_players_T = active_players.transpose()
         active_players_T.columns = active_players_T.loc['player']
-        active_players_T.drop(['unique_id','player'],inplace=True)
+        active_players_T.drop(['unique_id','player','total_games'],inplace=True)
         active_players_T = active_players_T.iloc[2:,:]
-        active_players_T.index = ['Height(cm)','Weight(kg)','Total Games','Goals Allowed','Saves','SV%','Minutes']
+        active_players_T.index = ['Height(cm)','Weight(kg)','Goals Allowed','Saves','SV%','Minutes']
         active_players_T.reset_index(inplace=True)
         active_players_T = active_players_T.rename(columns={'index':"Stat"})
 
@@ -289,10 +296,10 @@ class goalies:
         pregames = self.run_query(q)
         no_games = pregames.shape[0]
         games_won = (pregames['game_outcome']=='W').sum()
-        mc_size = 10000
+        mc_size = 5000
         tot_mc = int(mc_size/no_games)
-        goalz = ['Goals per Game +/-']
-        winz = ['Games Won +/-']
+        goalz = ['Goal Allowed per G.']
+        winz = ['Win Delta']
 
         for each in active_players.index:
             result = 0
@@ -301,13 +308,83 @@ class goalies:
                 result += sum(pregames['shots_against']*(1-stats.distributions.beta.rvs(231.14+active_players.loc[each,'SAVES'],24.2+active_players.loc[each,'GA'],0,1,no_games))-pregames['opp_goals'])
                 wins += sum(np.round(pregames['shots_against']*(1-stats.distributions.beta.rvs(231.14+active_players.loc[each,'SAVES'],24.2+active_players.loc[each,'GA'],0,1,no_games)),0)<pregames['goals'])
             goalz.append(np.round(result/mc_size,2))
-            winz.append(np.round((wins/tot_mc)-games_won,0))
+            winz.append(int(np.round((wins/tot_mc)-games_won,0)))
+        
+        winz = [i-max(winz[1:]) if type(i) == int else i for i in winz]
 
         active_players_T = active_players_T.append(dict(zip(active_players_T.columns,goalz)),ignore_index=True)
         active_players_T = active_players_T.append(dict(zip(active_players_T.columns,winz)),ignore_index=True)
 
-
         return active_players_T
+
+    def risk(self):
+        """
+        Calculate the increased risk due to known risk factors run through random_forest
+        """
+        #load models...
+        ran_for = load('C:\\Users\\jesse\\Documents\\Projects\\takeaseat\\assests\\ranforest_regression.joblib')
+        pipe = load('C:\\Users\\jesse\\Documents\\Projects\\takeaseat\\assests\\pipeline.joblib')
+
+        #get unique ids
+        q = ("""SELECT * 
+            FROM player_log 
+            WHERE team_id=\"{0}\"
+            AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
+            AND date_game < \"{2}\"
+            GROUP BY player_id
+            """.format(self.team_value,int(self.year_value) + .66,self.game_date))
+        ids = self.run_query(q)
+
+        #now generate data for season for each id
+
+        prodf = pd.DataFrame(columns=['player_id','team_id','opp_id','date_game','age','rest_days','min_season',
+                                        'shots_against','save_pct','min3W','sa3W','svepct3W','future_save_pct','injured'])
+        row = 0
+        for each_id in ids['player_id']:
+            print(each_id)
+            q = ("""SELECT * 
+            FROM player_log 
+            WHERE (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {0}
+            AND date_game < \"{1}\"
+            AND player_id = \"{2}\"
+            """.format(int(self.year_value) + .66,self.game_date,each_id))
+            season_logs = self.run_query(q)
+            season_logs['date_game'] = season_logs['date_game'].astype('datetime64') #convert to datetime
+            season_logs['time_on_ice'] = season_logs['time_on_ice'].str.extract(r'(\d*)\:\d*')[0].astype(int)+season_logs['time_on_ice'].str.extract(r'\d*\:(\d*)')[0].astype(int)/60
+            
+            for r,game in season_logs[-1:].iterrows():
+                prodf.loc[row,'player_id'] = season_logs.loc[r,'player_id']
+                prodf.loc[row,'team_id'] = season_logs.loc[r,'team_id']
+                prodf.loc[row,'opp_id'] = season_logs.loc[r,'opp_id']
+                prodf.loc[row,'date_game'] = season_logs.loc[r,'date_game']
+                prodf.loc[row,'age'] = season_logs.loc[r,'age']
+                prodf.loc[row,'rest_days'] = (season_logs.loc[r,'date_game']-season_logs.loc[r-1,'date_game']).days
+                prodf.loc[row,'min_season'] = season_logs.loc[:(r-1),'time_on_ice'].sum()
+                prodf.loc[row,'shots_against'] = season_logs.loc[:(r-1),'shots_against'].sum()
+                prodf.loc[row,'save_pct'] = np.round(season_logs.loc[:(r-1),'saves'].sum()/season_logs.loc[:(r-1),'shots_against'].sum(),3)
+
+                window = (season_logs.loc[r,'date_game']>season_logs['date_game'])&(season_logs['date_game']>(season_logs.loc[r,'date_game']-timedelta(21)))
+
+                prodf.loc[row,'min3W'] = season_logs.loc[window,'time_on_ice'].sum()
+                prodf.loc[row,'sa3W'] = season_logs.loc[window ,'shots_against'].sum()
+                prodf.loc[row,'svepct3W'] = season_logs.loc[window,'saves'].sum()/season_logs.loc[window,'shots_against'].sum()
+                prodf.loc[row,'future_save_pct'] = np.round(season_logs.loc[r,'saves'].sum()/season_logs.loc[r,'shots_against'].sum(),3)
+                prodf.loc[row,'injured'] = season_logs.loc[r,'injured']    
+                prodf.loc[row,'pre_inj'] = season_logs.loc[r,'pre_inj']
+            row+=1
+        #fit for each player
+        columns = ['age','min_season','rest_days','shots_against','save_pct','min3W','sa3W','svepct3W','pre_inj']
+        probs = ran_for.predict_proba(pipe.fit_transform(prodf[columns]))[:,1]
+        data = ['Injury Risk Factor']
+        data.extend(self.riskfunc(probs))
+        new_row =  dict(zip(self.roster.columns,data))
+        return new_row
+
+    def riskfunc(self,x):
+        """Estimate the increased risk factor by player playing
+        """
+        y = x**3+0.37*(x**2)-0.2572*x+0.0118
+        return np.round(10**y,1)
 
     def run_query(self,q):
         """Polls the database"""
