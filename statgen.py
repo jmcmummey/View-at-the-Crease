@@ -10,12 +10,34 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 from joblib import dump, load
 
+#this module contains two classes: teamstats and goalies, both of which generate statistics displayed in the main application 
+
 class teamstats:
 
     """
-        This object generates a variety of statistics for the given team/year/game_no
+        This class generates a variety of statistics for the team given the year and game_no
+
         attributes:
-    
+
+        team_value (str) - the team abbr
+        year_value (int) - the year in question (YYYY)-(YYYY+1)
+        game_no (int) - game number for the team where game 1 is the second game of the season
+        game_date (str) - the date of the game
+        team_name (str) - note this is the full team name
+        opp_name (str) - the opposing team name
+        opp_team_value (str) - the opposing team abbr
+        opp_game_no - the opposing team game no
+        hometeamstats - a dataframe of the hometeam stats
+        oppteamstats - a dataframe of the opposition team stats
+
+        methods: 
+
+        opp_team() - generates information on opposing team for the game selected
+        sos_calc() - generates the team SOS (strength of season) based on their schedule 
+        team_stat_gen() - generates statistics on the entered team based on their schedule to date (returns DataFrame)
+        standings() - Combines the home and away dataframes
+        last_five() - finds the last five contests between the two teams over last season and this one
+        run_query() - used to query the database
     """
     def __init__(self,*argv):
         """
@@ -24,7 +46,7 @@ class teamstats:
                 year_value(int) the season year YYYY where season is YYYY-YYYY+1
                 game_no(in) - game number for the team where game 1 is the second game of the season
         """
-        
+
         #check if correct no of args entered
         if len(argv)==3:
             self.team_value = argv[0]
@@ -43,7 +65,17 @@ class teamstats:
 
     def opp_team(self):
         """
-        Gets the opposing team information
+        Gets the opposing team information for the date selected
+        INPUT (from self attributes):
+            self.team_value (str)
+            self.year_value (int)
+            self.game_no (int)
+        OUTPUT
+            game_date (str) - the date of the game
+            team_name (str) - note this is the full team name
+            opp_name (str) - the opposing team name
+            opp_team_value (str) - the opposing team abbr
+            opp_game_no - the opposing team game no
         """
         #find the game date
         q = ("""SELECT *
@@ -81,12 +113,15 @@ class teamstats:
     def sos_calc(self,year,game_no,nme,wind=[0]):
         """
             CALCULATES THE SOS FOR THE TEAM entered faced before a given date
+            The SOS is a measure of the Strength Of Schedule, reflective of how hard
+            a season the team has had.  It's used to adjust the normalised goal differential to get a measure
+            of how good a team is (beyond its number of wins)
         INPUT:
             year: the current season (YYYY-YYYY+1)
             game_no: the game_no for the current game previous games are [0-game_no-1]
             nme: the team abbr to calculate the SOS for
             wind: optional window to calc for
-            RETURN:
+        OUTPUT:
             sos: the computed sos statistics sum(no_times_faced*(goalsfor-goalsagainst)/no_games)/no_games
         """
         
@@ -126,11 +161,11 @@ class teamstats:
             diff = (goals['goals']['sum']-goals['opp_goals']['sum'])/goals['goals']['count'] #calculates metric for all teams to date
 
             for eachteam in teams_faced.index:
-                #get team_abbr
+                #get team_abbr faced and 
 
                 q = '''SELECT team_abbr FROM team_list WHERE team_name=\"{0}\" AND CAST(SUBSTR(years_active,6,9) AS INT)>{1}'''.format(eachteam,int(year))
                 nme = (self.run_query(q)['team_abbr'].values)[0]
-                sos = sos + teams_faced[eachteam]*diff[nme]
+                sos = sos + teams_faced[eachteam]*diff[nme] #updates the SOS
             if len(wind) == 1:
                 return sos/game_no
             else:
@@ -174,14 +209,15 @@ class teamstats:
         otl = ((game_details.loc[game_details.index<game_value,'game_outcome']=='L')&(game_details['overtimes'].notnull())).sum()
         points = wins*2+ties+otl
         points_pct = np.round(points/(2*games),3)
+        #SOS/SRS deal with the strength of schedule
         sos = np.round(self.sos_calc(year_value,game_value,team_value),3) #strength of schedule higher is tougher
         srs = np.round((cum_total['goals']-cum_total['opp_goals'])/games+sos,3) #simple rating system
         cum_total = game_details.loc[game_details.index<game_value,['goals','opp_goals','shots','shots_against']].sum()/game_value
         basic_stats = [games,wins,losses,ties,otl,points,points_pct,srs,sos]
         basic_stats.extend(cum_total)
 
-        #team stats last 3 weeks (basic stats)
-        window = (game_details['date_game']<game_date)&(game_details['date_game']>(game_date-timedelta(21)))
+        #team stats last 3 weeks (basic stats) format rSTAT where r==recent
+        window = (game_details['date_game']<game_date)&(game_details['date_game']>(game_date-timedelta(21))) #window == contests in last three weeks
         rec_game_details = game_details.loc[window]
         rgames = (rec_game_details['game_outcome']=='W').count() 
         rwins = (rec_game_details['game_outcome']=='W').sum()
@@ -197,13 +233,19 @@ class teamstats:
         recent_stats = [rest_days.days,rgames,rwins,rlosses,rties,rotl,rpoints,rpoints_pct,srs_rec,sos_rec]
         recent_stats.extend(list(rcumum_total))
 
+        #now put these arrays into a Series
         labels = ['total_games','wins','loses','ties','otl','points','point_pct','srs','sos','ave_goals','ave_oppgoals','ave_shots','ave_oppshots','rest_days','recent_games','recent_wins','recent_loses','recent_ties','recent_otl','recent_points','recent_point_pct','recent_srs','recent_sos','recent_ave_goals','recent_ave_oppgoals','recent_ave_shots','recent_ave_oppshots']
         all_stats = basic_stats+recent_stats
         return pd.Series(all_stats,labels)
         
     def standings(self):
         """
-            Generates a pretty table of the home and opposing team stats
+            Generates a pretty table of the home and opposing team stats dataframes
+            INPUT:
+                hometeamstats (DataFrame)
+                oppteamstats (DataFrame)
+            OUTPUT:
+                combinedDataFrame (DataFrame)
         """
         stats = pd.concat((self.hometeamstats,self.oppteamstats),axis=1)
         stats.columns = [self.team_name,self.opp_name]
@@ -213,7 +255,15 @@ class teamstats:
 
     def last_five(self):
         """
-        Finds the results of the last 5 games between these teams
+            Finds the results of the last 5 games between these teams over the last two seasons (this season and last season)
+            INPUT:
+                team_value (str): The team abbr
+                year_value (int): The season in question where year is YYYY:YYYY+1
+                game_value (int): The game_no for the current game previous games are [0-game_no-1] # must be more than 10
+                opp_name (str): the opposition name
+            OUTPUT:
+                (dataframe): a dataframe of the (upto) last five contests
+
         """
         q = ("""SELECT *
                 FROM team_log 
@@ -236,14 +286,28 @@ class teamstats:
 
     def run_query(self,q):
         """Polls the database"""
-        with sqlite3.connect('C:\\Users\\jesse\\Documents\\Projects\\takeaseat\\assests\\hockey_data_goalies.db') as conn:
+        with sqlite3.connect('assests/hockey_data_goalies.db') as conn:
             x = pd.read_sql(q,conn)
         return x
 
 class goalies:
     """
-        This object generates a variety of statistics for the goalies of the given team for the/year/game_no
+        This class generates a variety of statistics for the goalies of the given team for the/year/game_no
+
         attributes:
+            team_value (str) - the team abbr
+            year_value (int) - the year in question (YYYY)-(YYYY+1)
+            game_no (int) - game number for the team where game 1 is the second game of the season
+            game_date (str) - the date of the game
+            team_name (str) - note this is the full team name
+            roster(dataframe) - a dataframe of all the goalies who played for that team
+
+        methods:
+            fill_roster() - calls all the players who have played for the team this year and returns a dataframe of their ids
+            risk() - uses a random forest model to calculate the injury risk
+            riskfunc() - calculates a risk factor based on the ML probability and the baseline risk
+            run_query() - used to poll the database
+            
     """
     
     def __init__(self,*argv):
@@ -259,9 +323,21 @@ class goalies:
         self.roster = self.roster.append(self.risk(),ignore_index=True)
         
     def fill_roster(self):
-        #call up all the players who played for that team this year
-        #return a dataframe and their ids
+        """
+        call up all the players who played for that team this year
+        return a dataframe and their ids and their stats (up to the baysian estimation of their impact)
+        computed by mapping the prior dist.  to posterior using their saves/goals allowed to date, then 
+        running a quick monte carlo on the season data
 
+        INPUT:
+            self.team_value (str) - the team abbr
+            self.date_game (str) - the date of the game under prediction
+            self.year_value (int) - the year of the season under examination
+        OUTPUT:
+            a dataframe of their stats
+        """
+        
+        #Get all the stats from the database
         q = ("""WITH goalies as 
                 (SELECT player_id,
                         SUM(goals_against) GA,
@@ -286,7 +362,8 @@ class goalies:
         active_players_T.reset_index(inplace=True)
         active_players_T = active_players_T.rename(columns={'index':"Stat"})
 
-        #now run the baysian inference
+        #now run the baysian inference and a montecarlo of 5000 games to determine their 
+        #impact had they played all the games
         q = """SELECT *
         FROM team_log
         WHERE (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
@@ -301,6 +378,8 @@ class goalies:
         goalz = ['Goal Allowed per G.']
         winz = ['Win Delta']
 
+        #for each layer use their estimated save percentage distribution to run the monte carlo
+        #to estimate 1) +/- goals allowed per game 2)number of wins (relative to the star)
         for each in active_players.index:
             result = 0
             wins = 0
@@ -311,7 +390,7 @@ class goalies:
             winz.append(int(np.round((wins/tot_mc)-games_won,0)))
         
         winz = [i-max(winz[1:]) if type(i) == int else i for i in winz]
-
+        #now add to the dataframe and return
         active_players_T = active_players_T.append(dict(zip(active_players_T.columns,goalz)),ignore_index=True)
         active_players_T = active_players_T.append(dict(zip(active_players_T.columns,winz)),ignore_index=True)
 
@@ -319,13 +398,18 @@ class goalies:
 
     def risk(self):
         """
-        Calculate the increased risk due to known risk factors run through random_forest
+        Calculate the increased risk due to known risk factors (age, minutes played, prior injuries) run through random_forest model
+        INPUTS:
+            Dataframe of player features
+            Previous random forest model
+        OUTPUTS:
+            risk_factor (float) for each player
         """
-        #load models...
-        ran_for = load('C:\\Users\\jesse\\Documents\\Projects\\takeaseat\\assests\\ranforest_regression.joblib')
-        pipe = load('C:\\Users\\jesse\\Documents\\Projects\\takeaseat\\assests\\pipeline.joblib')
+        #load models... random forest and the pipeline
+        ran_for = load('assests/ranforest_regression.joblib')
+        pipe = load('assests/pipeline.joblib')
 
-        #get unique ids
+        #get unique ids (unfortunately, not saved in the roster)
         q = ("""SELECT * 
             FROM player_log 
             WHERE team_id=\"{0}\"
@@ -336,12 +420,13 @@ class goalies:
         ids = self.run_query(q)
 
         #now generate data for season for each id
-
         prodf = pd.DataFrame(columns=['player_id','team_id','opp_id','date_game','age','rest_days','min_season',
                                         'shots_against','save_pct','min3W','sa3W','svepct3W','future_save_pct','injured'])
         row = 0
+        #for each player
         for each_id in ids['player_id']:
             print(each_id)
+            #load the games they've played this season
             q = ("""SELECT * 
             FROM player_log 
             WHERE (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {0}
@@ -349,45 +434,70 @@ class goalies:
             AND player_id = \"{2}\"
             """.format(int(self.year_value) + .66,self.game_date,each_id))
             season_logs = self.run_query(q)
+            #massage the data to get the right format
             season_logs['date_game'] = season_logs['date_game'].astype('datetime64') #convert to datetime
             season_logs['time_on_ice'] = season_logs['time_on_ice'].str.extract(r'(\d*)\:\d*')[0].astype(int)+season_logs['time_on_ice'].str.extract(r'\d*\:(\d*)')[0].astype(int)/60
             
+            #for the last season (this looks like a loop, but it's only getting at the last season)
             for r,game in season_logs[-1:].iterrows():
                 prodf.loc[row,'player_id'] = season_logs.loc[r,'player_id']
                 prodf.loc[row,'team_id'] = season_logs.loc[r,'team_id']
                 prodf.loc[row,'opp_id'] = season_logs.loc[r,'opp_id']
                 prodf.loc[row,'date_game'] = season_logs.loc[r,'date_game']
                 prodf.loc[row,'age'] = season_logs.loc[r,'age']
-                prodf.loc[row,'rest_days'] = (season_logs.loc[r,'date_game']-season_logs.loc[r-1,'date_game']).days
-                prodf.loc[row,'min_season'] = season_logs.loc[:(r-1),'time_on_ice'].sum()
-                prodf.loc[row,'shots_against'] = season_logs.loc[:(r-1),'shots_against'].sum()
-                prodf.loc[row,'save_pct'] = np.round(season_logs.loc[:(r-1),'saves'].sum()/season_logs.loc[:(r-1),'shots_against'].sum(),3)
-
-                window = (season_logs.loc[r,'date_game']>season_logs['date_game'])&(season_logs['date_game']>(season_logs.loc[r,'date_game']-timedelta(21)))
-
-                prodf.loc[row,'min3W'] = season_logs.loc[window,'time_on_ice'].sum()
-                prodf.loc[row,'sa3W'] = season_logs.loc[window ,'shots_against'].sum()
-                prodf.loc[row,'svepct3W'] = season_logs.loc[window,'saves'].sum()/season_logs.loc[window,'shots_against'].sum()
-                prodf.loc[row,'future_save_pct'] = np.round(season_logs.loc[r,'saves'].sum()/season_logs.loc[r,'shots_against'].sum(),3)
-                prodf.loc[row,'injured'] = season_logs.loc[r,'injured']    
-                prodf.loc[row,'pre_inj'] = season_logs.loc[r,'pre_inj']
-            row+=1
+                try: #if only one game this season, then set equal to 0 when it fails
+                    prodf.loc[row,'rest_days'] = (season_logs.loc[r,'date_game']-season_logs.loc[r-1,'date_game']).days
+                    prodf.loc[row,'min_season'] = season_logs.loc[:(r-1),'time_on_ice'].sum()
+                    prodf.loc[row,'shots_against'] = season_logs.loc[:(r-1),'shots_against'].sum()
+                    prodf.loc[row,'save_pct'] = np.round(season_logs.loc[:(r-1),'saves'].sum()/season_logs.loc[:(r-1),'shots_against'].sum(),3)
+                    window = (season_logs.loc[r,'date_game']>season_logs['date_game'])&(season_logs['date_game']>(season_logs.loc[r,'date_game']-timedelta(21)))
+                    prodf.loc[row,'min3W'] = season_logs.loc[window,'time_on_ice'].sum()
+                    prodf.loc[row,'sa3W'] = season_logs.loc[window ,'shots_against'].sum()
+                    prodf.loc[row,'svepct3W'] = season_logs.loc[window,'saves'].sum()/season_logs.loc[window,'shots_against'].sum()
+                    prodf.loc[row,'future_save_pct'] = np.round(season_logs.loc[r,'saves'].sum()/season_logs.loc[r,'shots_against'].sum(),3)
+                    prodf.loc[row,'injured'] = season_logs.loc[r,'injured']    
+                    prodf.loc[row,'pre_inj'] = season_logs.loc[r,'pre_inj']
+                except:
+                    prodf.loc[row,'rest_days'] = 30
+                    prodf.loc[row,'min_season'] = 0
+                    prodf.loc[row,'shots_against'] = 0
+                    prodf.loc[row,'save_pct'] = .905 #league average
+                    #window = (season_logs.loc[r,'date_game']>season_logs['date_game'])&(season_logs['date_game']>(season_logs.loc[r,'date_game']-timedelta(21)))
+                    prodf.loc[row,'min3W'] = 0
+                    prodf.loc[row,'sa3W'] = 0
+                    prodf.loc[row,'svepct3W'] = .905
+                    prodf.loc[row,'future_save_pct'] = np.round(season_logs.loc[r,'saves'].sum()/season_logs.loc[r,'shots_against'].sum(),3)
+                    prodf.loc[row,'injured'] = season_logs.loc[r,'injured']    
+                    prodf.loc[row,'pre_inj'] = season_logs.loc[r,'pre_inj']
+            row+=1 #counter for each player
         #fit for each player
         columns = ['age','min_season','rest_days','shots_against','save_pct','min3W','sa3W','svepct3W','pre_inj']
         probs = ran_for.predict_proba(pipe.fit_transform(prodf[columns]))[:,1]
+        #the above generates a probability, this is converted to risk by using the precision and the baseline in the function risk function
         data = ['Injury Risk Factor']
         data.extend(self.riskfunc(probs))
         new_row =  dict(zip(self.roster.columns,data))
         return new_row
 
     def riskfunc(self,x):
-        """Estimate the increased risk factor by player playing
         """
-        y = x**3+0.37*(x**2)-0.2572*x+0.0118
+        Estimate the increased risk factor by player based on the probability.
+        The risk factor is calculated based on the precision of the model / the baseline probability.
+        That is among the population (tp and fp) left above this probability level, what's the ratio of injured/total population
+        compared with the baseline of 1%
+        INPUT:
+            x(float) - the probability from 0 to 1
+        OUTPUT:
+            risk factor(float) 
+        """
+        if x < 0.4:
+            return 1
+        else:
+            y = x**3+0.37*(x**2)-0.2572*x+0.0118
         return np.round(10**y,1)
 
     def run_query(self,q):
         """Polls the database"""
-        with sqlite3.connect('C:\\Users\\jesse\\Documents\\Projects\\takeaseat\\assests\\hockey_data_goalies.db') as conn:
+        with sqlite3.connect('assests/hockey_data_goalies.db') as conn:
             x = pd.read_sql(q,conn)
         return x
