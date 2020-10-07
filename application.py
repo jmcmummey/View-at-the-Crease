@@ -120,7 +120,7 @@ app.layout = html.Div(#sets up the dashboard
                                 data=pd.DataFrame(columns=['Stat','Value']).to_dict('records'),
                                 style_data_conditional=[{'if': {'row_index': 'odd'},'backgroundColor': 'rgb(248, 248, 248)'}],
                                 style_header={'backgroundColor': 'rgb(230, 230, 230)','fontWeight': 'bold'})],id='table_well',style={"display":"None"})]
-                                ,width={"size": 4, "order": 2, "offset": 1})
+                                ,width={"size": 4, "order": 2, "offset": 2})
                 ]),
             
             ])

@@ -11,7 +11,7 @@ import pandas as pd
 import numpy as np
 import os
 import sqlite3
-#this is the team object with handsls
+#this is the team/goalie object which handles stat generation
 from statgen import teamstats as team
 from statgen import goalies as goalie 
 
@@ -50,26 +50,26 @@ season_style = {'width': '100%',"margin-bottom": "5px",'display':'Default'}
 player_style = {'width': '100%',"margin-bottom": "25px",'display':'Default'}
 
 
-app.layout = html.Div(
+app.layout = html.Div(#sets up the dashboard
     [
         dbc.Row(
-                dbc.Col([
+                dbc.Col([#title header
                         html.H1(children='     The View at the Crease',style={"border-color":'#F21919','border-style':'solid','border-width':"6px",
                                                                              "background-color":'#1998F2','font-size':72,"margin-left": "0px","margin-bottom": "1px","text-align":'center'}),
 
-                        html.Div(children='''GOALTENDER ANALYTICS FOR COACHES''',style={'font-size':24,"color":"red","margin-left": "75px","margin-top": "15px","margin-bottom": "15px","text-align":'left'})
-                        ],width={"size": 7, "order": 1, "offset": 0})
+                        html.Div(children='''GOALTENDER ANALYTICS FOR COACHES''',style={'font-size':24,"color":"red","margin-left": "35px","margin-top": "15px","margin-bottom": "30px","text-align":'left'})
+                        ],width={"size": 7, "order": 1, "offset": 2})
                 ),
         dbc.Row([
-                dbc.Col([
+                dbc.Col([#dropdowns for team/year/game selection
                         html.Div([
-                                dcc.Dropdown(
+                                dcc.Dropdown(#Dropdown for team selection
                                     id='team-selector',
                                     options=teams,
                                     placeholder="Select a Team",
                                     style= team_style
                                 ),
-                                dcc.Dropdown(
+                                dcc.Dropdown(#dropdown for season selection
                                     id='season-selector',
                                     options=teams
                                     ,
@@ -80,7 +80,7 @@ app.layout = html.Div(
                                     Select Game:
                                 ''',style={"color":"gray","margin-bottom": "1px"}
                                 ),
-                                dcc.Slider(
+                                dcc.Slider(#slider to select game
                                     id='game-range',
                                     min=10,
                                     max=20,
@@ -89,7 +89,7 @@ app.layout = html.Div(
                                 )
                                 ],style={"position":'center',"margin-left": "50px","margin-bottom":"30px",'width':'100%','display':'inline-block'}
                                 ),
-                                html.Div([
+                                html.Div([#team data table handling current standings
                                     html.H1(children='Team Standings',style={'font-size':24,"margin-left": "25px","margin-bottom": "10px"}),
                                     dash_table.DataTable(
                                         id='standing_table',
@@ -101,7 +101,7 @@ app.layout = html.Div(
                                         data=pd.DataFrame(columns=['Stat','Value']).to_dict('records')
                                         ),
                                     html.H1(children='Previous Results',style={'font-size':24,"margin-top": "10px","margin-left": "25px","margin-bottom": "10px"}),
-                                    dash_table.DataTable(
+                                    dash_table.DataTable(#data table handling previous results
                                         id='pr_table',
                                         columns=[{"name": i, "id": i} for i in pd.DataFrame(columns=['Stat','Value'])],
                                         style_cell={'textAlign': 'center'},
@@ -110,10 +110,10 @@ app.layout = html.Div(
                                         style_header={'backgroundColor': 'rgb(230, 230, 230)','fontWeight': 'bold'},
                                         data=pd.DataFrame(columns=['Stat','Value']).to_dict('records')
                                         )],id='standing_table_sty',style={"margin-left": "50px","display":"None"})]
-                        ,width={"size": 3, "order": 1, "offset": 0}),
+                        ,width={"size": 3, "order": 1, "offset": 1}),
                 dbc.Col([
-                        html.Div([html.H1(children='Goalie Statistics',style={'font-size':24,"margin-left": "25px","margin-bottom": "10px"}),
-                                dash_table.DataTable(
+                        html.Div([html.H1(children='Goalie Statistics',style={'font-size':24,"margin-left": "25px","margin-bottom": "10px","margin-top": "1px"}),
+                                dash_table.DataTable( #data table handling goalie results
                                 id='goalie_table',
                                 columns=[{"name": i, "id": i} for i in pd.DataFrame(columns=['Stat','Value'])],
                                 style_cell={'textAlign': 'center'},
@@ -138,21 +138,22 @@ app.layout = html.Div(
 )
 
 def update_output_div(team_value,year_value):
-    """  Controls User Selection of Team/Season Dropdowns and populates the slider
+    """  Controls User Selection of Team/Season Dropdowns and Populates the slider with the appropriate dates
     """
     max_slider = 20
     markz = {}
-    if team_value == None: #nothing has been selected
+    if team_value == None: # If no team has been selected
         return season_style,teams,markz,max_slider,10,
-    elif (team_value != None) & (year_value==None): #Teams have been selected: Populate the season registry
+    elif (team_value != None) & (year_value==None): #When the team has been selected: Populate the season registry
         q = """select years_active from team_list WHERE team_abbr=\"{}\"""".format(team_value)
-        season = run_query(q).iloc[0,0]
+        season = run_query(q).iloc[0,0] #polling for all available seasons
         seasons = []
+        #gets all available seasons for that team
         for i in np.arange(int(season[:4]),int(season[-4:])):
             seasons.append({'label':(str(i)+'-'+str(i+1)),'value':(str(i))})
         season_style['display']='Default'
         return season_style,seasons,markz,max_slider,10,
-    else: #Teams and Season has been selected - populate the slider
+    else: #Teams and Season has been selected - populate the slider with the date range
         q = """select years_active from team_list WHERE team_abbr=\"{}\"""".format(team_value)
         season = run_query(q).iloc[0,0]
         seasons = []
@@ -165,10 +166,10 @@ def update_output_div(team_value,year_value):
                 AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) > {1}
                 AND (CAST(SUBSTR(date_game,1,4) AS FLOAT)+CAST(SUBSTR(date_game,6,7) AS FLOAT)/12) < {2}""".format(team_value,int(year_value) + .66,int(year_value)+1.66))
         games = run_query(q)
-        dates = games['date_game'].str.extract(r'\d{4}-(\d{2}-\d{2})')[0].values
+        dates = games['date_game'].str.extract(r'\d{4}-(\d{2}-\d{2})')[0].values #this is extracting all the dates.  The index is the date number
         max_slider = games.shape[0]-1
         for i,row in enumerate(dates):
-            #skip 10 first games of the season
+            #skip 10 first games of the season (assume that there's too little data built up yet
             if i<9:
                 pass
             else:
@@ -177,7 +178,8 @@ def update_output_div(team_value,year_value):
                         markz[i] = row
 
         return season_style,seasons,markz,max_slider,10,
-#TABLE POPULATION
+
+#TABLE POPULATION - both for the teams and the goalies
 @app.callback(
     [Output('slider-title','children'),
     Output('standing_table','data'),
@@ -194,12 +196,13 @@ def update_output_div(team_value,year_value):
 )
 def data_maker(team_value,year_value,game_value):
     """
-    Loads the goalie data for the year/game
+    Once the team/season/day have been selected - load the team and goalie datatables
     """
-    columns=[{"name": i, "id": i} for i in pd.DataFrame(columns=['Stat','Value'])]
-    if (team_value==None) | (year_value==None) |(game_value==None): #if nothing is entered in one of the cat.
+
+    columns=[{"name": i, "id": i} for i in pd.DataFrame(columns=['Stat','Value'])] #blank data for when the tables are hidden
+    if (team_value==None) | (year_value==None) |(game_value==None): #if nothing is entered in one of the categories hide all
         return ["Select Game"],pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,{"margin-left": "25px",'display':'None'},pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,{"margin-left": "25px",'display':'None'}
-    else:
+    else: #now a selection has been made - populate the data tables
         #import team info
         teaminfo = team(team_value,year_value,game_value)
         teamstandings = teaminfo.standings()

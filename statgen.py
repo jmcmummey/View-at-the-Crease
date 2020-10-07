@@ -490,10 +490,7 @@ class goalies:
         OUTPUT:
             risk factor(float) 
         """
-        if x < 0.4:
-            return 1
-        else:
-            y = x**3+0.37*(x**2)-0.2572*x+0.0118
+        y = x**3+0.37*(x**2)-0.2572*x+0.0118
         return np.round(10**y,1)
 
     def run_query(self,q):
