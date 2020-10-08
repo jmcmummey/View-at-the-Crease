@@ -375,8 +375,8 @@ class goalies:
         games_won = (pregames['game_outcome']=='W').sum()
         mc_size = 5000
         tot_mc = int(mc_size/no_games)
-        goalz = ['Goal Allowed per G.']
-        winz = ['Win Delta']
+        goalz = [u'Δ Goals per Game']
+        winz = [u'Δ Wins']
 
         #for each layer use their estimated save percentage distribution to run the monte carlo
         #to estimate 1) +/- goals allowed per game 2)number of wins (relative to the star)
@@ -405,8 +405,8 @@ class goalies:
         OUTPUTS:
             risk_factor (float) for each player
         """
-        #load models... random forest and the pipeline
-        ran_for = load('assets/ranforest_regression.joblib')
+        #load models... logistic regression and the pipeline
+        ml_model= load('assets/BootstrappedLogR.joblib')
         pipe = load('assets/pipeline.joblib')
 
         #get unique ids (unfortunately, not saved in the roster)
@@ -472,7 +472,7 @@ class goalies:
             row+=1 #counter for each player
         #fit for each player
         columns = ['age','min_season','rest_days','shots_against','save_pct','min3W','sa3W','svepct3W','pre_inj']
-        probs = ran_for.predict_proba(pipe.fit_transform(prodf[columns]))[:,1]
+        probs = ml_model.predict_proba(pipe.fit_transform(prodf[columns]))[:,1]
         #the above generates a probability, this is converted to risk by using the precision and the baseline in the function risk function
         data = ['Injury Risk Factor']
         data.extend(self.riskfunc(probs))
@@ -490,8 +490,15 @@ class goalies:
         OUTPUT:
             risk factor(float) 
         """
-        y = x**3+0.37*(x**2)-0.2572*x+0.0118
-        return np.round(10**y,1)
+        risk_factors = []
+        for i in x:
+            if i<.4:
+                risk_factors.append(1)
+            elif i<.6:
+                risk_factors.append(2)
+            else:
+                risk_factors.append(3)
+        return np.array(risk_factors)
 
     def run_query(self,q):
         """Polls the database"""
