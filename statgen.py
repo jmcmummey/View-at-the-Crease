@@ -286,7 +286,7 @@ class teamstats:
 
     def run_query(self,q):
         """Polls the database"""
-        with sqlite3.connect('assests/hockey_data_goalies.db') as conn:
+        with sqlite3.connect('assets/hockey_data_goalies.db') as conn:
             x = pd.read_sql(q,conn)
         return x
 
@@ -406,8 +406,8 @@ class goalies:
             risk_factor (float) for each player
         """
         #load models... random forest and the pipeline
-        ran_for = load('assests/ranforest_regression.joblib')
-        pipe = load('assests/pipeline.joblib')
+        ran_for = load('assets/ranforest_regression.joblib')
+        pipe = load('assets/pipeline.joblib')
 
         #get unique ids (unfortunately, not saved in the roster)
         q = ("""SELECT * 
@@ -495,6 +495,6 @@ class goalies:
 
     def run_query(self,q):
         """Polls the database"""
-        with sqlite3.connect('assests/hockey_data_goalies.db') as conn:
+        with sqlite3.connect('assets/hockey_data_goalies.db') as conn:
             x = pd.read_sql(q,conn)
         return x

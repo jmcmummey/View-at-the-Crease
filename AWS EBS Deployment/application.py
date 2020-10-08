@@ -15,7 +15,7 @@ import sqlite3
 from statgen import teamstats as team
 from statgen import goalies as goalie 
 
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+external_stylesheets = ['/assets/viewfromthecrease.css']
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP,external_stylesheets])
 application = app.server
@@ -25,7 +25,7 @@ app.title = 'The View at the Crease'
 #########################################################################################
 #SQL Handle functions
 def run_query(q):
-    with sqlite3.connect('assests/hockey_data_goalies.db') as conn:
+    with sqlite3.connect('assets/hockey_data_goalies.db') as conn:
         x = pd.read_sql(q,conn)
     return x
 def show_tables():
@@ -50,15 +50,15 @@ season_style = {'width': '100%',"margin-bottom": "5px",'display':'Default'}
 player_style = {'width': '100%',"margin-bottom": "25px",'display':'Default'}
 
 
-app.layout = html.Div(#sets up the dashboard
-    [
+app.layout = html.Div(#sets up the dashboard(
+    children = [
         dbc.Row(
                 dbc.Col([#title header
-                        html.H1(children='     The View at the Crease',style={"border-color":'#F21919','border-style':'solid','border-width':"6px",
-                                                                             "background-color":'#1998F2','font-size':72,"margin-left": "0px","margin-bottom": "1px","text-align":'center'}),
+                        html.H1(children='     The View at the Crease',style={"border-color":'#e04848','border-style':'solid','border-width':"6px",'color':'#f7e6e6',
+                                                                             "background-color":'#44b0eb','font-family':'Garamond','font-size':72,"margin-left": "0px","margin-bottom": "1px","text-align":'center'}),
 
-                        html.Div(children='''GOALTENDER ANALYTICS FOR COACHES''',style={'font-size':24,"color":"red","margin-left": "35px","margin-top": "15px","margin-bottom": "30px","text-align":'left'})
-                        ],width={"size": 7, "order": 1, "offset": 2})
+                        html.Div(children='''GOALTENDER ANALYTICS FOR COACHES''',style={'font-size':24,"color":'#e04848','font-family':'Garamond',"margin-left": "0px","margin-top": "15px","margin-bottom": "30px","text-align":'left'})
+                        ],width={"size": 8, "order": 1, "offset": 2})
                 ),
         dbc.Row([
                 dbc.Col([#dropdowns for team/year/game selection
@@ -78,7 +78,7 @@ app.layout = html.Div(#sets up the dashboard
                                 ),
                                 html.Div(id='slider-title',children='''
                                     Select Game:
-                                ''',style={"color":"gray","margin-bottom": "1px"}
+                                ''',style={"color":"white","margin-bottom": "1px"}
                                 ),
                                 dcc.Slider(#slider to select game
                                     id='game-range',
@@ -90,36 +90,34 @@ app.layout = html.Div(#sets up the dashboard
                                 ],style={"position":'center',"margin-left": "50px","margin-bottom":"30px",'width':'100%','display':'inline-block'}
                                 ),
                                 html.Div([#team data table handling current standings
-                                    html.H1(children='Team Standings',style={'font-size':24,"margin-left": "25px","margin-bottom": "10px"}),
+                                    html.H1(children='Team Standings',style={'font-size':32,'font-family':'Garamond',"color":"white","margin-left": "25px","margin-bottom": "10px"}),
                                     dash_table.DataTable(
                                         id='standing_table',
                                         columns=[{"name": i, "id": i} for i in pd.DataFrame(columns=['Stat','Value'])],
                                         style_cell={'textAlign': 'center'},
-                                        style_data_conditional=[{'if': {'row_index': 'odd'},'backgroundColor': 'rgb(248, 248, 248)'},
-                                        {'if': {'column_id': 'Team'},'width': '100px'}],
-                                        style_header={'backgroundColor': 'rgb(230, 230, 230)','fontWeight': 'bold'}, 
+                                        style_header={'backgroundColor': '#44b0eb','color':'#f7e6e6','fontWeight': 'bold','font-size': 18,'border': '1px #44b0eb'}, 
                                         data=pd.DataFrame(columns=['Stat','Value']).to_dict('records')
                                         ),
-                                    html.H1(children='Previous Results',style={'font-size':24,"margin-top": "10px","margin-left": "25px","margin-bottom": "10px"}),
+                                    html.H1(children='Previous Results',style={'font-size':32,'font-family':'Garamond',"margin-top": "10px","color":"white","margin-left": "25px","margin-bottom": "10px"}),
                                     dash_table.DataTable(#data table handling previous results
                                         id='pr_table',
                                         columns=[{"name": i, "id": i} for i in pd.DataFrame(columns=['Stat','Value'])],
                                         style_cell={'textAlign': 'center'},
-                                        style_data_conditional=[{'if': {'row_index': 'odd'},'backgroundColor': 'rgb(248, 248, 248)'},
+                                        style_data_conditional=[{'if': {'row_index': 'odd'},'backgroundColor': 'rgb(238, 238, 238)'},
                                         {'if': {'column_id': 'Host'},'width': '100px'}],
-                                        style_header={'backgroundColor': 'rgb(230, 230, 230)','fontWeight': 'bold'},
+                                        style_header={'backgroundColor': '#44b0eb','color':'#f7e6e6','fontWeight': 'bold','font-size': 18,'border': '1px #44b0eb'},
                                         data=pd.DataFrame(columns=['Stat','Value']).to_dict('records')
-                                        )],id='standing_table_sty',style={"margin-left": "50px","display":"None"})]
+                                        )],id='standing_table_sty',style={"margin-left": "50px","border-color":'#e04848',"display":"None"})]
                         ,width={"size": 3, "order": 1, "offset": 1}),
                 dbc.Col([
-                        html.Div([html.H1(children='Goalie Statistics',style={'font-size':24,"margin-left": "25px","margin-bottom": "10px","margin-top": "1px"}),
+                        html.Div([html.H1(children='Goalie Statistics',style={'font-size':32,'font-family':'Garamond',"color":"white","margin-left": "25px","margin-bottom": "10px","margin-top": "1px"}),
                                 dash_table.DataTable( #data table handling goalie results
                                 id='goalie_table',
                                 columns=[{"name": i, "id": i} for i in pd.DataFrame(columns=['Stat','Value'])],
                                 style_cell={'textAlign': 'center'},
                                 data=pd.DataFrame(columns=['Stat','Value']).to_dict('records'),
-                                style_data_conditional=[{'if': {'row_index': 'odd'},'backgroundColor': 'rgb(248, 248, 248)'}],
-                                style_header={'backgroundColor': 'rgb(230, 230, 230)','fontWeight': 'bold'})],id='table_well',style={"display":"None"})]
+                                style_data_conditional=[{'if': {'row_index': 'odd'},'backgroundColor': 'rgb(238, 238, 238)'}],
+                                style_header={'backgroundColor': '#44b0eb','fontWeight': 'bold','font-size': 18,'color':'#f7e6e6','border': '1px #44b0eb'})],id='table_well',style={"display":"None"})]
                                 ,width={"size": 4, "order": 2, "offset": 2})
                 ]),
             
@@ -184,8 +182,10 @@ def update_output_div(team_value,year_value):
     [Output('slider-title','children'),
     Output('standing_table','data'),
     Output('standing_table','columns'),
+    Output('standing_table','style_data_conditional'),
     Output('pr_table','data'),
     Output('pr_table','columns'),
+    Output('pr_table','style_data_conditional'),
     Output('standing_table_sty','style'),
     Output('goalie_table','data'),
     Output('goalie_table','columns'),
@@ -198,10 +198,43 @@ def data_maker(team_value,year_value,game_value):
     """
     Once the team/season/day have been selected - load the team and goalie datatables
     """
-
+    #style for standing table
+    style_data_conditional_st=[{'if': {'row_index': 'odd'},'backgroundColor': 'rgb(238, 238, 238)'},
+                                        {'if': {'column_id': 'Team'},'width': '175px'},
+                                        {'if': {'column_id': 'Games'},'width': '40px'},
+                                        {'if': {'column_id': 'Wins'},'width': '40px'},
+                                        {'if': {'column_id': 'Loses'},'width': '40px'},
+                                        {'if': {'column_id': 'Ties'},'width': '40px'},
+                                        {'if': {'column_id': 'OTL'},'width': '40px'},
+                                        {'if': {'column_id': 'Points'},'width': '60px'},
+                                        {'if': {'column_id': 'Point %'},'width': '60px'},
+                                        {'if': {'column_id': 'SRS'},'width': '60px'},
+                                        {'if': {'column_id': 'SOS'},'width': '60px'}]
+    #style for previous games table
+    style_data_conditional_pr = [{'if': {'row_index': 'odd'},'backgroundColor': 'rgb(238, 238, 238)'},
+                                        {'if': {'column_id': 'Host'},'width': '165px'},
+                                        {'if': {'column_id': 'Date'},'width': '50px'},
+                                        {'if': {'column_id': 'Goals'},'width': '50px'},
+                                        {'if': {'column_id': 'Opp. Goals'},'width': '50px'},
+                                        {'if': {'column_id': 'Outcome'},'width': '50px'},
+                                        {'if': {'column_id': 'OT?'},'width': '45px'},
+                                        {'if': {'column_id': 'Shots'},'width': '50px'},
+                                        {'if': {'column_id': 'Opp. Shots'},'width': '50px'}]
+            
+    #goalie table
+    style_data_conditional_gt = [{'if': {'row_index': 'odd'},'backgroundColor': 'rgb(238, 238, 238)'},
+                                        {'if': {'column_id': 'Host'},'width': '165px'},
+                                        {'if': {'column_id': 'Date'},'width': '50px'},
+                                        {'if': {'column_id': 'Goals'},'width': '50px'},
+                                        {'if': {'column_id': 'Opp. Goals'},'width': '50px'},
+                                        {'if': {'column_id': 'Outcome'},'width': '50px'},
+                                        {'if': {'column_id': 'OT?'},'width': '45px'},
+                                        {'if': {'column_id': 'Shots'},'width': '50px'},
+                                        {'if': {'column_id': 'Opp. Shots'},'width': '50px'}]
+                                        
     columns=[{"name": i, "id": i} for i in pd.DataFrame(columns=['Stat','Value'])] #blank data for when the tables are hidden
     if (team_value==None) | (year_value==None) |(game_value==None): #if nothing is entered in one of the categories hide all
-        return ["Select Game"],pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,{"margin-left": "25px",'display':'None'},pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,{"margin-left": "25px",'display':'None'}
+        return ["Select Game"],pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,style_data_conditional_st,pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,style_data_conditional_pr,{"margin-left": "25px",'display':'None'},pd.DataFrame(columns=['Stat','Value']).to_dict('records'),columns,{"margin-left": "25px","border-color":'#e04848','border-style':'solid','border-width':"3px",'display':'None'}
     else: #now a selection has been made - populate the data tables
         #import team info
         teaminfo = team(team_value,year_value,game_value)
@@ -212,7 +245,7 @@ def data_maker(team_value,year_value,game_value):
         #import goalie info
         g = goalie(teaminfo.team_value,teaminfo.year_value,teaminfo.game_date)
         
-        return ["Game Selected: %s"% teaminfo.game_date],teamstandings.to_dict('records'),columns,last5.to_dict('records'),columnsl5,{"margin-left": "25px",'display':'block'},g.roster.to_dict('records'),[{"name": i, "id": i} for i in g.roster],{"margin-left": "25px",'display':'Block'}
+        return ["Game Selected: %s"% teaminfo.game_date],teamstandings.to_dict('records'),columns,style_data_conditional_st,last5.to_dict('records'),columnsl5,style_data_conditional_pr,{"margin-left": "25px",'display':'block'},g.roster.to_dict('records'),[{"name": i, "id": i} for i in g.roster],{"margin-left": "25px",'display':'Block'}
 
 if __name__ == '__main__':
     application.run(debug=True,port=8080)
