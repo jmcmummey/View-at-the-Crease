@@ -372,6 +372,7 @@ class goalies:
         """.format(self.team_value,int(self.year_value)+.66,self.game_date)
         pregames = self.run_query(q)
         no_games = pregames.shape[0]
+        max_shots = pregames['shots_against'].max()
         games_won = (pregames['game_outcome']=='W').sum()
         mc_size = 5000
         tot_mc = int(mc_size/no_games)
@@ -380,12 +381,19 @@ class goalies:
 
         #for each layer use their estimated save percentage distribution to run the monte carlo
         #to estimate 1) +/- goals allowed per game 2)number of wins (relative to the star)
-        for each in active_players.index:
+        for play in active_players.index:
             result = 0
             wins = 0
+            tot_mc = int(mc_size/no_games) #montecarlo with 50000 games
             for x in range(tot_mc):
-                result += sum(pregames['shots_against']*(1-stats.distributions.beta.rvs(231.14+active_players.loc[each,'SAVES'],24.2+active_players.loc[each,'GA'],0,1,no_games))-pregames['opp_goals'])
-                wins += sum(np.round(pregames['shots_against']*(1-stats.distributions.beta.rvs(231.14+active_players.loc[each,'SAVES'],24.2+active_players.loc[each,'GA'],0,1,no_games)),0)<pregames['goals'])
+                saves = stats.distributions.beta.rvs(231.14+active_players.loc[play,'SAVES'],24.2+active_players.loc[play,'GA'],0,1,[no_games,max_shots])
+                shots = np.random.random((no_games,max_shots))
+                goals = (saves<shots)
+                for gind in range(pregames.shape[0]):
+                    gr = goals[gind,:pregames.at[gind,'shots_against']].sum()
+                    result += gr-pregames.at[gind,'opp_goals']
+                    if (pregames.at[gind,'goals']-gr)>0:
+                        wins += 1
             goalz.append(np.round(result/mc_size,2))
             winz.append(int(np.round((wins/tot_mc)-games_won,0)))
         
