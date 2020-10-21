@@ -2,7 +2,7 @@
 
 <p>This repository contains the data and files composed during my Insight Data Science Fellowship.  The purpose of the project was to develop an analytical dashboard with key performance indicators to inform ice hockey coaches (and potentially fantasy coaches too) when selecting which goaltender to play on any given night.</p>
 <p>The project uses an SQLite dashboard of the last 30 years of goaltender data scrapped from a variety of websites included game log data, injury reports and salary information.
-A dashboard was created using Dash/Plotly and deployed in AWS Elastic Block Store</p>
+The dashboard created using Dash/Plotly and deployed in AWS Elastic Block Store can be found here <a href="http://www.intelligentanalytics.xyz" title="View at the Crease">www.intelligentanalytics.xyz</a></p>
 
 The repository consists of several working folders each outlined below:
 
@@ -45,7 +45,7 @@ The repository consists of several working folders each outlined below:
       </li>
   </ul>
    <ul><li><b>Data:</b>
-            <p>This directory consists of files used in the collection and aggregation of the data. The data was scrapped from a variety of websites, including <a href="www.hockey-reference.com/" title="Hockey Statistics">www.hockey-reference.com/</a> and <a href="http://www.prosportstransactions.com/hockey/index.htm" title="Hockey Injury Data">www.prosportstransactions.com/hockey/index.htm</a> using python requests and beautiful soup.  At the present time the NHL season is over, so while these methods could be deployed to update the database throughout the season, at the current time the database is based on solely historic data.  Some import files include:
+            <p>This directory consists of files used in the collection and aggregation of the data. The data was scrapped from a variety of websites, including <a href="http://www.hockey-reference.com/" title="Hockey Statistics">www.hockey-reference.com/</a> and <a href="http://www.prosportstransactions.com/hockey/index.htm" title="Hockey Injury Data">www.prosportstransactions.com/hockey/index.htm</a> using python requests and beautiful soup.  At the present time the NHL season is over, so while these methods could be deployed to update the database throughout the season, at the current time the database is based on solely historic data.  Some import files include:
                 <ul>
                     <li>
                        <p><b>7_DatabaseBuilder-Goalies.ipynb:</b> the main jupyter notebook which takes the scraped data and inserts it into the SQlite database.</p>
